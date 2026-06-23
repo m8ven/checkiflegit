@@ -1,0 +1,21 @@
+# build output
+dist/
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+*.log
+
+# environment
+.env
+.env.production
+
+# OS
+.DS_Store
+
+# generation cache / raw fetched signals (keep MDX, not raw dumps)
+.cache/
+data/raw/

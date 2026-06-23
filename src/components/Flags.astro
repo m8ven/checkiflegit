@@ -1,0 +1,33 @@
+---
+interface Props {
+  greenFlags: string[];
+  redFlags: string[];
+  cautions: string[];
+}
+const { greenFlags, redFlags, cautions } = Astro.props;
+---
+<div class="flags">
+  <div class="card green">
+    <strong>Green flags</strong>
+    {greenFlags.length ? (
+      <ul>{greenFlags.map((f) => <li>{f}</li>)}</ul>
+    ) : (
+      <p class="muted small">No positive signals detected.</p>
+    )}
+  </div>
+  <div class="card red">
+    <strong>Red flags</strong>
+    {redFlags.length ? (
+      <ul>{redFlags.map((f) => <li>{f}</li>)}</ul>
+    ) : (
+      <p class="muted small">No notable red flags detected.</p>
+    )}
+  </div>
+</div>
+
+{cautions.length > 0 && (
+  <div class="card" style="margin-top:16px">
+    <strong>Worth noting</strong>
+    <ul>{cautions.map((c) => <li>{c}</li>)}</ul>
+  </div>
+)}

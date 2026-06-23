@@ -1,0 +1,17 @@
+# Seed list of e-commerce store domains — one per line.
+#
+# SEED SOURCE (cheapest at scale): the Tranco list (https://tranco-list.eu),
+# a free, research-grade ranking of the top ~1M sites. Download the CSV and
+# filter to shopping/retail domains, then append them here. For more targeted
+# e-commerce seeds you can also use the free BuiltWith "Shopify sites" sample
+# or a Common Crawl host index — all public, no paid API required.
+#
+# Lines starting with # are ignored. Domains may include scheme/www; they are
+# normalized by the generator. Already-generated domains are skipped.
+#
+# --- starter set (real stores, for the end-to-end pipeline) ---
+bellroy.com
+allbirds.com
+ridge.com
+mvmt.com
+gymshark.com

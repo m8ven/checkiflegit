@@ -1,0 +1,16 @@
+---
+interface Props {
+  tier: string;
+  label: string;
+  summary: string;
+  score: number | null;
+}
+const { tier, label, summary, score } = Astro.props;
+---
+<div class={`card verdict ${tier}`}>
+  <div class="score">{score ?? '—'}</div>
+  <div>
+    <p class="label">{label}</p>
+    <p class="summary">{summary}</p>
+  </div>
+</div>

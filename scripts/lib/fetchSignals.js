@@ -1,0 +1,60 @@
+import { normalizeDomain } from './util.js';
+import { checkHttp } from './signals/http.js';
+import { checkSsl } from './signals/ssl.js';
+import { checkDomainAge } from './signals/whois.js';
+import { checkContactInfo } from './signals/contact.js';
+import { checkSocial } from './signals/social.js';
+import { checkReviews } from './signals/reviews.js';
+
+/**
+ * Fetch every public signal for a domain.
+ *
+ * HARD RULES enforced here:
+ *  - Reachability is checked first. If the homepage does not load, we stop and
+ *    flag `reachable: false` so the generator can skip / de-index the domain.
+ *  - Every signal comes from a real fetch. Failures yield `status: 'unknown'`,
+ *    never a fabricated value.
+ */
+export async function fetchSignals(rawDomain) {
+  const domain = normalizeDomain(rawDomain);
+  const fetchedAt = new Date().toISOString();
+
+  // 1. Reachability + page checks (also gives us homepage HTML to reuse).
+  const http = await checkHttp(domain);
+
+  if (!http.reachable) {
+    return {
+      domain,
+      fetchedAt,
+      reachable: false,
+      signals: { http: http.signal },
+    };
+  }
+
+  // 2. Remaining signals. SSL/WHOIS/reviews hit the network in parallel;
+  //    contact/social parse the already-fetched HTML.
+  const [ssl, domainAge, reviews] = await Promise.all([
+    checkSsl(domain),
+    checkDomainAge(domain),
+    checkReviews(domain),
+  ]);
+
+  const contact = checkContactInfo(http.html);
+  const social = checkSocial(http.html);
+
+  return {
+    domain,
+    fetchedAt,
+    reachable: true,
+    finalUrl: http.finalUrl,
+    signals: {
+      http: http.signal,
+      pages: http.pages,
+      ssl,
+      domainAge,
+      contact,
+      social,
+      reviews,
+    },
+  };
+}

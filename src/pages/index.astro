@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AdSlot from '../components/AdSlot.astro';
+
+// Only list reachable, indexable stores.
+const stores = (await getCollection('stores'))
+  .filter((s) => !s.data.noindex)
+  .sort((a, b) => a.data.domain.localeCompare(b.data.domain));
+---
+<BaseLayout
+  title="CheckIfLegit — Is that online store legit?"
+  description="Automated trust-signal checks for thousands of online stores. Domain age, SSL, contact info, reviews and more — so you can shop with confidence."
+>
+  <h1>Is that online store legit?</h1>
+  <p class="muted">
+    We run an automated trust-signal check on online stores — domain age, SSL security,
+    contact details, policy pages, review footprint and social presence — and summarise
+    what we find in plain language. {stores.length} store{stores.length === 1 ? '' : 's'} checked so far.
+  </p>
+
+  <AdSlot id="home-top" />
+
+  <h2>Recently checked stores</h2>
+  <ul class="store-list">
+    {stores.map((s) => (
+      <li>
+        <a href={`/store/${s.data.slug}/`}>Is {s.data.domain} legit?</a>
+        <span class={`pill ${s.data.verdict.tier}`}>{s.data.verdict.label}</span>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

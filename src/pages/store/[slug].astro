@@ -1,0 +1,53 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import VerdictBadge from '../../components/VerdictBadge.astro';
+import SignalBreakdown from '../../components/SignalBreakdown.astro';
+import Flags from '../../components/Flags.astro';
+import SafetyTips from '../../components/SafetyTips.astro';
+import AdSlot from '../../components/AdSlot.astro';
+
+export async function getStaticPaths() {
+  const stores = await getCollection('stores');
+  return stores.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { data } = entry;
+const { Content } = await render(entry);
+const { verdict, signals } = data;
+const checkedOn = new Date(data.fetchedAt).toISOString().slice(0, 10);
+---
+<BaseLayout title={data.title} description={data.description} noindex={data.noindex}>
+  <p class="small muted"><a href="/">← All store checks</a></p>
+  <h1>Is {data.domain} legit?</h1>
+  <p class="small muted">Automated trust-signal check · last updated {checkedOn}</p>
+
+  <VerdictBadge tier={verdict.tier} label={verdict.label} summary={verdict.summary} score={verdict.score} />
+
+  <AdSlot id="top" />
+
+  <h2>Signal-by-signal breakdown</h2>
+  <SignalBreakdown signals={signals} />
+
+  <h2>Red & green flags</h2>
+  <Flags greenFlags={verdict.greenFlags} redFlags={verdict.redFlags} cautions={verdict.cautions} />
+
+  <h2>About this check</h2>
+  <article class="card">
+    <Content />
+  </article>
+
+  <AdSlot id="mid" />
+
+  <SafetyTips />
+
+  <p class="small muted" style="margin-top:24px">
+    Signals were fetched automatically from public sources on {checkedOn}. Information may be
+    out of date. If you own {data.domain} and believe this assessment is inaccurate,
+    please <a href="/about">get in touch</a>.
+  </p>
+</BaseLayout>

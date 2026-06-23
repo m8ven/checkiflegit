@@ -1,0 +1,28 @@
+---
+interface Signal { status: string; detail: string; value?: any; }
+interface Props { signals: Record<string, Signal>; }
+const { signals } = Astro.props;
+
+const LABELS: Record<string, string> = {
+  http: 'Website loads',
+  domainAge: 'Domain age',
+  ssl: 'SSL / HTTPS security',
+  pages: 'Contact & policy pages',
+  contact: 'Business contact info',
+  reviews: 'Third-party reviews',
+  social: 'Social media presence',
+};
+const ORDER = ['http', 'domainAge', 'ssl', 'pages', 'contact', 'reviews', 'social'];
+const rows = ORDER.filter((k) => signals[k]).map((k) => ({ key: k, ...signals[k] }));
+---
+<ul class="signals card">
+  {rows.map((s) => (
+    <li>
+      <span class={`dot ${s.status}`} aria-hidden="true"></span>
+      <div>
+        <div class="name">{LABELS[s.key] ?? s.key}</div>
+        <div class="detail">{s.detail}</div>
+      </div>
+    </li>
+  ))}
+</ul>

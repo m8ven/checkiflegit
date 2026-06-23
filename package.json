@@ -1,0 +1,27 @@
+{
+  "name": "checkiflegit",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Programmatic SEO site answering 'Is [store] legit?' from public signals.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "fetch": "node scripts/fetch-one.js",
+    "generate": "node scripts/generate.js",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.2.0",
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.7.0",
+    "whoiser": "^1.18.0"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

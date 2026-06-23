@@ -1,0 +1,8 @@
+---
+// Display-ad placeholder. Replace the inner markup with your ad network's unit
+// (e.g. an <ins class="adsbygoogle"> block) once approved. Kept as a labelled
+// box so layouts reserve space and we can A/B placement.
+interface Props { id?: string; }
+const { id = 'ad' } = Astro.props;
+---
+<div class="ad-slot" data-ad-slot={id}>Advertisement</div>

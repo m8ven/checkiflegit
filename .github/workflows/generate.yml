@@ -1,0 +1,51 @@
+name: Generate store pages
+
+# Scheduled programmatic generation. Cloudflare Pages auto-deploys on push.
+on:
+  schedule:
+    # 06:17 UTC daily (off the hour to avoid GitHub's scheduling congestion).
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'How many new pages to generate'
+        required: false
+        default: '25'
+
+# Allow the workflow to push the generated MDX back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: generate
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Generate pages
+        env:
+          GEN_COUNT: ${{ github.event.inputs.count || '25' }}
+        run: node scripts/generate.js
+
+      - name: Commit & push new pages
+        run: |
+          git config user.name "checkiflegit-bot"
+          git config user.email "bot@checkiflegit.com"
+          if [ -n "$(git status --porcelain src/content/stores)" ]; then
+            git add src/content/stores
+            git commit -m "chore: generate store pages ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No new pages to commit."
+          fi
