@@ -51,6 +51,19 @@ const DENY = new Set([
   'sentry.io', 'unity3d.com', 'zoom.us', 'opera.com', 'meraki.com', 'ui.com',
   'smartthings.com', 'forter.com', 'eset.com', 'webempresa.eu', 'pinimg.com',
   't.me', 'bit.ly', 'discord.gg', 'youtu.be', 'blogspot.com',
+  // news / media (often embed a merch store on a real platform)
+  'hollywoodreporter.com', 'billboard.com', 'usmagazine.com', 'complex.com', 'allure.com',
+  'mindbodygreen.com', 'houstonchronicle.com', 'sfchronicle.com', 'suntimes.com',
+  'reviewjournal.com', 'timesunion.com', 'visualcapitalist.com', 'poynter.org', 'meduza.io',
+  'guinnessworldrecords.com', 'barchart.com', 'podscribe.com',
+  // SaaS / plugins / themes / dev tooling (sell licences via a store platform)
+  'yoast.com', 'framer.com', 'framerusercontent.com', 'getresponse.com', 'wpml.org',
+  'kadencewp.com', 'superbthemes.com', 'theme-fusion.com', 'avada.com', 'wp-rocket.me',
+  'yotpo.com', 'loox.io', 'usercentrics.eu', 'matterport.com', 'plex.tv', 'crealitycloud.com',
+  'prodigygame.com', 'facepunch.com', 'datenschutz-generator.de', 'namirial.it', 'iql.ru',
+  'evotor.ru', 'youradchoices.ca', 'platform.sh', 'platformsh.site',
+  // registrars / domains
+  'register.it', 'nominalia.com', '101domain.com', 'websupport.sk', 'xmission.com',
 ]);
 
 function isDenied(domain) {

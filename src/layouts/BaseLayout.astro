@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { AD_CLIENT, adsEnabled } from '../adConfig';
 
 interface Props {
   title: string;
@@ -25,8 +26,14 @@ const year = new Date().getFullYear();
     {description && <meta property="og:description" content={description} />}
     <meta property="og:type" content="website" />
 
-    {/* Display ads: drop your network's script here (e.g. AdSense/Ezoic). */}
-    {/* <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXX" crossorigin="anonymous"></script> */}
+    {/* Display-ad loader — only emitted once AD_CLIENT is set in src/adConfig.ts. */}
+    {adsEnabled && (
+      <script
+        async
+        src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${AD_CLIENT}`}
+        crossorigin="anonymous"
+      ></script>
+    )}
   </head>
   <body>
     <header class="site-header">

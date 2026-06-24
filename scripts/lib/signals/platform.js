@@ -13,7 +13,9 @@
 // never flag a non-store.
 
 const PLATFORMS = [
-  { name: 'Shopify', re: /cdn\.shopify\.com|\.myshopify\.com|x-shopify-stage|Shopify\.theme\s*=|window\.Shopify/i },
+  // Store-serving markers only — NOT bare cdn.shopify.com, which also appears
+  // when a non-store embeds a Shopify Buy Button widget for merch.
+  { name: 'Shopify', re: /Shopify\.theme|window\.Shopify\b|shopify-section|\/cdn\/shop\/|cdn\.shopify\.com\/s\/files|\.myshopify\.com|x-shopify-stage/i },
   { name: 'WooCommerce', re: /wp-content\/plugins\/woocommerce|wc-ajax=|woocommerce\/assets|wc_add_to_cart_params/i },
   { name: 'Magento', re: /data-mage-init|Magento_|mage\/requirejs|Mage\.Cookies/i },
   { name: 'BigCommerce', re: /cdn\d*\.bigcommerce\.com|stencil-utils|data-stencil/i },
@@ -25,6 +27,12 @@ const PLATFORMS = [
 
 const ADD_TO_CART = /add[\s_-]?to[\s_-]?(cart|bag|basket)|addtocart|wc_add_to_cart/i;
 const CART_LINK = /href=["'][^"']*\/(cart|basket)(\/|["'?])/i;
+// Links into an actual product catalog. News/SaaS sites have carts (subscriptions,
+// licences) but no product/collection catalog — this is what separates them.
+const CATALOG = /href=["'][^"']*\/(products?|collections?|catalog(ue)?|category|categories|departments?|shop|store)(\/|["'?])/i;
+const PRODUCT_SCHEMA = /"@type"\s*:\s*"Product"|itemtype=["'][^"']*schema\.org\/Product/i;
+// News/media homepages sometimes embed a store platform for merch. Exclude them.
+const NEWS = /"@type"\s*:\s*"(NewsArticle|NewsMediaOrganization|Newspaper)"|property=["']og:type["'][^>]*content=["']article["']/i;
 
 export function detectPlatform(html) {
   if (!html) {
@@ -38,24 +46,29 @@ export function detectPlatform(html) {
 
   const hasAddToCart = ADD_TO_CART.test(html);
   const hasCartLink = CART_LINK.test(html);
-  // Generic store signal: must show BOTH buy-intent and a cart destination.
-  const hasCartFlow = hasAddToCart && hasCartLink;
+  const hasCatalog = CATALOG.test(html) || PRODUCT_SCHEMA.test(html);
+  const hasCartFlow = hasAddToCart && hasCartLink && hasCatalog;
 
-  const isStore = Boolean(platform) || hasCartFlow;
+  // Harvest gating uses the platform fingerprint ONLY (high-precision; targets the
+  // DTC/independent stores people actually question), and excludes news/media
+  // homepages that merely embed a store platform for merch. Generic cart markers
+  // are too noisy (news/SaaS have /shop sections too) to qualify a domain alone.
+  const isNews = NEWS.test(html);
+  const isStore = Boolean(platform) && !isNews;
 
   let status = 'unknown';
   let detail = 'No clear e-commerce platform or storefront markers detected.';
   if (platform) {
     status = 'pass';
     detail = `Built on ${platform}, an established e-commerce platform.`;
-  } else if (isStore) {
+  } else if (hasCartFlow) {
     status = 'pass';
-    detail = 'Storefront features detected (add-to-cart and shopping cart).';
+    detail = 'Storefront features detected (product catalog with add-to-cart and shopping cart).';
   }
 
   return {
     status,
-    value: { platform, isStore, markers: { hasAddToCart, hasCartLink, hasCartFlow } },
+    value: { platform, isStore, markers: { hasAddToCart, hasCartLink, hasCatalog, hasCartFlow } },
     detail,
   };
 }

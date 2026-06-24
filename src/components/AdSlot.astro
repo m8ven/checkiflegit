@@ -1,8 +1,22 @@
 ---
-// Display-ad placeholder. Replace the inner markup with your ad network's unit
-// (e.g. an <ins class="adsbygoogle"> block) once approved. Kept as a labelled
-// box so layouts reserve space and we can A/B placement.
-interface Props { id?: string; }
-const { id = 'ad' } = Astro.props;
+import { AD_CLIENT, adsEnabled } from '../adConfig';
+
+// Renders nothing at all unless a real ad client is configured (see src/adConfig.ts).
+// Once AD_CLIENT is set, this outputs a responsive ad unit; paste your network's
+// loader script into BaseLayout's <head> (already wired to the same flag).
+interface Props { slot?: string; }
+const { slot } = Astro.props;
 ---
-<div class="ad-slot" data-ad-slot={id}>Advertisement</div>
+{adsEnabled && (
+  <>
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-client={AD_CLIENT}
+      data-ad-slot={slot}
+      data-ad-format="auto"
+      data-full-width-responsive="true"
+    ></ins>
+    <script is:inline>(window.adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </>
+)}

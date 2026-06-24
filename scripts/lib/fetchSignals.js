@@ -1,4 +1,4 @@
-import { normalizeDomain } from './util.js';
+import { normalizeDomain, fetchWithTimeout } from './util.js';
 import { checkHttp } from './signals/http.js';
 import { checkSsl } from './signals/ssl.js';
 import { checkDomainAge } from './signals/whois.js';
@@ -40,7 +40,20 @@ export async function fetchSignals(rawDomain) {
     checkReviews(domain),
   ]);
 
-  const contact = checkContactInfo(http.html);
+  let contact = checkContactInfo(http.html);
+  // SPA homepages often omit contact details; if we found a contact page, scan it.
+  if (contact.status !== 'pass' && http.contactUrl) {
+    try {
+      const res = await fetchWithTimeout(http.contactUrl, {}, 8000);
+      if (res.ok) {
+        const recovered = checkContactInfo(await res.text());
+        if (recovered.status === 'pass' || (recovered.status === 'warn' && contact.status === 'fail')) {
+          contact = recovered;
+        }
+      }
+    } catch { /* keep homepage result */ }
+  }
+
   const social = checkSocial(http.html);
   const platform = detectPlatform(http.html);
 
