@@ -7,6 +7,14 @@
 
 // Per-signal weight + human-readable flag text.
 const SIGNALS = {
+  // Informational only (weight 0): being on a known platform isn't proof of
+  // legitimacy, so it surfaces as a green flag but does not move the score.
+  platform: {
+    weight: 0,
+    pass: (v) => (v?.platform ? `Built on ${v.platform}, an established e-commerce platform.` : 'Recognisable storefront features (cart/checkout).'),
+    warn: () => 'Limited storefront features detected.',
+    fail: () => 'No e-commerce storefront features detected.',
+  },
   domainAge: {
     weight: 3,
     pass: (v) => `Established domain — registered ${v?.ageYears ?? '1+'} years ago.`,

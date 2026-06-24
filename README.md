@@ -22,9 +22,15 @@ seed domains ─► fetchSignals() ─► scoreVerdict() ─► generatePage() �
 | Domain age        | WHOIS over port 43 (`whoiser`, free)     | `scripts/lib/signals/whois.js` |
 | SSL / HTTPS       | Direct TLS handshake (`node:tls`)        | `scripts/lib/signals/ssl.js` |
 | Reachability + pages | HTTP fetch of homepage + link detection | `scripts/lib/signals/http.js` |
+| E-commerce platform | Asset/code fingerprints (Shopify, Woo, Magento…) | `scripts/lib/signals/platform.js` |
 | Contact info      | Email/phone/address detection in HTML    | `scripts/lib/signals/contact.js` |
 | Review footprint  | Trustpilot listing **presence** (status only) | `scripts/lib/signals/reviews.js` |
 | Social presence   | Outbound links to major platforms        | `scripts/lib/signals/social.js` |
+
+The "About this check" / "Our take" paragraph is **deterministically synthesized**
+from these signals (`buildBody()` in `generatePage.js`) — **no LLM, no API key, ~$0
+per page.** This is deliberate: rule-based prose cannot hallucinate a signal or
+claim, which is what the "never fabricate" hard rule requires.
 
 ### Hard rules enforced in code
 
@@ -40,16 +46,24 @@ seed domains ─► fetchSignals() ─► scoreVerdict() ─► generatePage() �
 ```bash
 npm install
 npm run fetch -- bellroy.com   # fetch one domain + write its MDX page (debug)
+npm run harvest                # discover real stores from Tranco → seed list
 npm run generate -- 25         # batch: next 25 unprocessed seed domains
 npm run dev                    # local preview
 npm run build                  # static build → dist/
 ```
 
+`generate` accepts `GEN_CONC` (parallel fetches, default 12) and `GEN_COUNT`.
+`harvest` accepts `HARVEST_TARGET`, `HARVEST_MAX`, `HARVEST_CONC`.
+
 ## Seed source
 
-`scripts/seeds/domains.txt` — one domain per line. The cheapest bulk source is the
-free [Tranco list](https://tranco-list.eu); download the CSV, filter to retail
-domains, and append. The generator normalizes domains and skips ones already done.
+Domains come from the free [Tranco list](https://tranco-list.eu) (top ~1M sites),
+filtered down to **actual stores** by `scripts/harvest-seeds.js`: it fetches each
+candidate and keeps only those with a recognised e-commerce platform fingerprint
+or clear add-to-cart + cart-link markup, with a denylist for platform vendors and
+infrastructure. Confirmed stores are appended to `scripts/seeds/domains.txt`; a
+cursor (`harvest-cursor.json`) tracks progress so reruns don't rescan the top of
+the list. The Tranco CSV auto-downloads to `data/raw/` (gitignored).
 
 ## Deploy (Cloudflare Pages)
 
@@ -60,11 +74,22 @@ domains, and append. The generator normalizes domains and skips ones already don
 
 Pushes (including the bot's daily generation commits) auto-deploy.
 
-## Scheduled generation
+> **Scale note:** Cloudflare Pages allows a maximum of **20,000 files per
+> deployment**. Each store page is its own `index.html`, so the site will hit
+> this ceiling around ~18-20k stores. Plan to shard into multiple Pages projects
+> (or move the long tail elsewhere) as the count approaches ~15k. Cloudflare's
+> free **unlimited bandwidth** is the reason it's preferred here over metered
+> hosts for an ad-supported, high-traffic SEO site.
 
-`.github/workflows/generate.yml` runs daily (and on demand), generates pages, and
-pushes them back to the repo (`permissions: contents: write`). Tune the count via
-the `GEN_COUNT` env / workflow input.
+## Scheduled jobs
+
+- `.github/workflows/generate.yml` — runs daily (and on demand), generates pages,
+  and pushes them back to the repo (`permissions: contents: write`). Tune via the
+  `GEN_COUNT` input.
+- `.github/workflows/harvest.yml` — runs weekly (and on demand), tops up the seed
+  list with newly discovered stores from Tranco. Tune via the `target` input.
+
+Both push from CI; Cloudflare Pages auto-deploys on push.
 
 ## Monetization
 

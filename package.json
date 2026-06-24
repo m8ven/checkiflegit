@@ -9,6 +9,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "fetch": "node scripts/fetch-one.js",
+    "harvest": "node scripts/harvest-seeds.js",
     "generate": "node scripts/generate.js",
     "astro": "astro"
   },

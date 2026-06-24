@@ -5,29 +5,33 @@ interface Props {
   cautions: string[];
 }
 const { greenFlags, redFlags, cautions } = Astro.props;
+const hasNotes = redFlags.length > 0 || cautions.length > 0;
 ---
-<div class="flags">
-  <div class="card green">
-    <strong>Green flags</strong>
+<div class="flag-cards">
+  <div class="flag-card flag-card--good">
+    <h3>
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+      Green flags
+    </h3>
     {greenFlags.length ? (
       <ul>{greenFlags.map((f) => <li>{f}</li>)}</ul>
     ) : (
-      <p class="muted small">No positive signals detected.</p>
+      <p class="empty">No positive signals detected.</p>
     )}
   </div>
-  <div class="card red">
-    <strong>Red flags</strong>
-    {redFlags.length ? (
-      <ul>{redFlags.map((f) => <li>{f}</li>)}</ul>
+
+  <div class="flag-card flag-card--note">
+    <h3>
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+      Worth noting
+    </h3>
+    {hasNotes ? (
+      <ul>
+        {redFlags.map((f) => <li class="flag-red">{f}</li>)}
+        {cautions.map((c) => <li>{c}</li>)}
+      </ul>
     ) : (
-      <p class="muted small">No notable red flags detected.</p>
+      <p class="empty">No notable concerns detected.</p>
     )}
   </div>
 </div>
-
-{cautions.length > 0 && (
-  <div class="card" style="margin-top:16px">
-    <strong>Worth noting</strong>
-    <ul>{cautions.map((c) => <li>{c}</li>)}</ul>
-  </div>
-)}

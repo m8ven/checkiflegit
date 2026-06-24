@@ -1,0 +1,50 @@
+name: Harvest store seeds
+
+# Periodically tops up scripts/seeds/domains.txt with new real stores discovered
+# from the Tranco list, so the daily generator always has a queue to work from.
+on:
+  schedule:
+    - cron: '23 3 * * 1' # weekly, Monday 03:23 UTC
+  workflow_dispatch:
+    inputs:
+      target:
+        description: 'How many new stores to find'
+        required: false
+        default: '500'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+
+      - name: Harvest seeds
+        env:
+          HARVEST_TARGET: ${{ github.event.inputs.target || '500' }}
+          HARVEST_MAX: '15000'
+          HARVEST_CONC: '30'
+        run: node scripts/harvest-seeds.js
+
+      - name: Commit updated seed list
+        run: |
+          git config user.name "checkiflegit-bot"
+          git config user.email "bot@checkiflegit.com"
+          if [ -n "$(git status --porcelain scripts/seeds)" ]; then
+            git add scripts/seeds/domains.txt scripts/seeds/harvest-cursor.json
+            git commit -m "chore: harvest store seeds ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No new seeds."
+          fi

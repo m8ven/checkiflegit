@@ -7,10 +7,16 @@ interface Props {
 }
 const { tier, label, summary, score } = Astro.props;
 ---
-<div class={`card verdict ${tier}`}>
-  <div class="score">{score ?? '—'}</div>
-  <div>
-    <p class="label">{label}</p>
-    <p class="summary">{summary}</p>
+<section class={`verdict ${tier}`} aria-label="Overall verdict">
+  <div class="verdict__badge">
+    <span class="verdict__score">{score ?? '—'}</span>
+    {score != null && <span class="verdict__outof">/ 100</span>}
   </div>
-</div>
+  <div class="verdict__main">
+    <div class="verdict__heading">
+      <span class="verdict__dot" aria-hidden="true"></span>
+      <h2 class="verdict__label">{label}</h2>
+    </div>
+    <p class="verdict__summary">{summary}</p>
+  </div>
+</section>

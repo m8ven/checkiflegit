@@ -44,20 +44,30 @@ const queue = seed.filter((d) => {
 });
 
 const batch = queue.slice(0, COUNT);
-console.log(`Seed: ${seed.length} domains · already done: ${done.size} · generating: ${batch.length}`);
+const CONC = Number(process.env.GEN_CONC || 12);
+console.log(`Seed: ${seed.length} domains · already done: ${done.size} · generating: ${batch.length} (concurrency ${CONC})`);
 
 let ok = 0;
 let skipped = 0;
-for (const domain of batch) {
-  try {
-    const result = await fetchSignals(domain);
-    const { verdict, noindex } = await generatePage(result);
-    if (noindex) skipped++;
-    else ok++;
-    console.log(`  ${domain} → ${verdict.label}${noindex ? ' (noindex)' : ''}`);
-  } catch (err) {
-    console.error(`  ${domain} → ERROR ${err.message}`);
+let errors = 0;
+let cursor = 0;
+
+async function worker() {
+  while (cursor < batch.length) {
+    const domain = batch[cursor++];
+    try {
+      const result = await fetchSignals(domain);
+      const { verdict, noindex } = await generatePage(result);
+      if (noindex) skipped++;
+      else ok++;
+      console.log(`  ${domain} → ${verdict.label}${noindex ? ' (noindex)' : ''}`);
+    } catch (err) {
+      errors++;
+      console.error(`  ${domain} → ERROR ${err.message}`);
+    }
   }
 }
 
-console.log(`\nDone. Indexed: ${ok}, skipped/noindex: ${skipped}.`);
+await Promise.all(Array.from({ length: Math.min(CONC, batch.length) }, worker));
+
+console.log(`\nDone. Indexed: ${ok}, skipped/noindex: ${skipped}, errors: ${errors}.`);

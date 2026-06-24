@@ -5,6 +5,7 @@ import { checkDomainAge } from './signals/whois.js';
 import { checkContactInfo } from './signals/contact.js';
 import { checkSocial } from './signals/social.js';
 import { checkReviews } from './signals/reviews.js';
+import { detectPlatform } from './signals/platform.js';
 
 /**
  * Fetch every public signal for a domain.
@@ -41,14 +42,17 @@ export async function fetchSignals(rawDomain) {
 
   const contact = checkContactInfo(http.html);
   const social = checkSocial(http.html);
+  const platform = detectPlatform(http.html);
 
   return {
     domain,
     fetchedAt,
     reachable: true,
+    isStore: platform.value.isStore,
     finalUrl: http.finalUrl,
     signals: {
       http: http.signal,
+      platform,
       pages: http.pages,
       ssl,
       domainAge,
