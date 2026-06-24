@@ -51,11 +51,12 @@ a:hover { text-decoration: underline; }
 .brand { display: inline-flex; align-items: center; gap: 9px; font-weight: 700; font-size: 18px; color: var(--text); }
 .brand:hover { text-decoration: none; }
 .brand__mark {
-  width: 26px; height: 26px; border-radius: 7px;
+  width: 26px; height: 26px; border-radius: 7px; flex: 0 0 auto;
   background: linear-gradient(135deg, #2f7df6, #18824a);
   display: grid; place-items: center; color: #fff;
 }
-.brand span { color: var(--green); }
+.brand__name { white-space: nowrap; }
+.brand__name i { color: var(--green); font-style: normal; }
 .site-header__link { font-size: 14px; color: var(--muted); }
 
 .site-footer { background: var(--surface); border-top: 1px solid var(--border); color: var(--muted); }
