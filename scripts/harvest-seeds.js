@@ -17,6 +17,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { fetchWithTimeout, normalizeDomain } from './lib/util.js';
 import { detectPlatform } from './lib/signals/platform.js';
+import { isDenied } from './lib/denylist.js';
 
 const ROOT = fileURLToPath(new URL('../', import.meta.url));
 const SEED_FILE = process.env.SEED_FILE || path.join(ROOT, 'scripts', 'seeds', 'domains.txt');
@@ -26,49 +27,6 @@ const TRANCO_FILE = process.env.TRANCO_FILE || path.join(ROOT, 'data', 'raw', 't
 const TARGET = Number(process.env.HARVEST_TARGET || 200);
 const MAX = Number(process.env.HARVEST_MAX || 3000);
 const CONC = Number(process.env.HARVEST_CONC || 20);
-
-// Non-store domains that can slip past detection: e-commerce *platform vendors*
-// (whose own sites demo storefront markup), plus infra / SaaS / registrars /
-// CDNs / analytics. Plus gov/edu/mil TLDs, which are effectively never stores.
-const DENY_TLD = /\.(gov|mil|int|edu)$|\.(gov|edu|ac)\.[a-z]{2,3}$/i;
-const DENY = new Set([
-  // platform vendors
-  'shopify.com', 'squarespace.com', 'wix.com', 'weebly.com', 'bigcommerce.com',
-  'woocommerce.com', 'odoo.com', 'ecwid.com', 'bigcartel.com', 'prestashop.com', 'magento.com',
-  // marketing / SaaS / payments
-  'stripe.com', 'paypal.com', 'klaviyo.com', 'mailchimp.com', 'mailchi.mp', 'sendgrid.com',
-  'hubspot.com', 'salesforce.com', 'intuit.com', 'twilio.com', 'atlassian.com',
-  // registrars / hosting / CDN / infra
-  'gandi.net', 'reg.ru', 'nic.ru', 'namecheap.com', 'godaddy.com', 'ionos.com',
-  'hostgator.com', 'bluehost.com', 'cloudflare.com', 'fastly.net', 'akamai.com',
-  'cpanel.net', 'no-ip.com', 'b-cdn.net', 'cdnvideo.ru', 'workers.dev', 'one.one', 'myfritz.net',
-  // CMS / dev / community
-  'themeforest.net', 'envato.com', 'wordpress.com', 'wordpress.org', 'wp.com',
-  'automattic.com', 'gravatar.com', 'github.com', 'github.io', 'gitlab.com',
-  'stackoverflow.com', 'mozilla.org', 'apache.org', 'iso.org',
-  // big tech / analytics / misc non-store
-  'doubleclick.net', 'google-analytics.com', 'googleapis.com', 'gstatic.com', 'criteo.com',
-  'sentry.io', 'unity3d.com', 'zoom.us', 'opera.com', 'meraki.com', 'ui.com',
-  'smartthings.com', 'forter.com', 'eset.com', 'webempresa.eu', 'pinimg.com',
-  't.me', 'bit.ly', 'discord.gg', 'youtu.be', 'blogspot.com',
-  // news / media (often embed a merch store on a real platform)
-  'hollywoodreporter.com', 'billboard.com', 'usmagazine.com', 'complex.com', 'allure.com',
-  'mindbodygreen.com', 'houstonchronicle.com', 'sfchronicle.com', 'suntimes.com',
-  'reviewjournal.com', 'timesunion.com', 'visualcapitalist.com', 'poynter.org', 'meduza.io',
-  'guinnessworldrecords.com', 'barchart.com', 'podscribe.com',
-  // SaaS / plugins / themes / dev tooling (sell licences via a store platform)
-  'yoast.com', 'framer.com', 'framerusercontent.com', 'getresponse.com', 'wpml.org',
-  'kadencewp.com', 'superbthemes.com', 'theme-fusion.com', 'avada.com', 'wp-rocket.me',
-  'yotpo.com', 'loox.io', 'usercentrics.eu', 'matterport.com', 'plex.tv', 'crealitycloud.com',
-  'prodigygame.com', 'facepunch.com', 'datenschutz-generator.de', 'namirial.it', 'iql.ru',
-  'evotor.ru', 'youradchoices.ca', 'platform.sh', 'platformsh.site',
-  // registrars / domains
-  'register.it', 'nominalia.com', '101domain.com', 'websupport.sk', 'xmission.com',
-]);
-
-function isDenied(domain) {
-  return DENY_TLD.test(domain) || DENY.has(domain);
-}
 
 async function ensureTranco() {
   if (existsSync(TRANCO_FILE)) return;

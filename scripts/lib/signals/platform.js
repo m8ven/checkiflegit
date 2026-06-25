@@ -33,6 +33,9 @@ const CATALOG = /href=["'][^"']*\/(products?|collections?|catalog(ue)?|category|
 const PRODUCT_SCHEMA = /"@type"\s*:\s*"Product"|itemtype=["'][^"']*schema\.org\/Product/i;
 // News/media homepages sometimes embed a store platform for merch. Exclude them.
 const NEWS = /"@type"\s*:\s*"(NewsArticle|NewsMediaOrganization|Newspaper)"|property=["']og:type["'][^>]*content=["']article["']/i;
+// Software/plugin/theme/SaaS/hosting vendors run WooCommerce to sell *licences*,
+// not a shopping catalog. These phrases are specific to that category.
+const DIGITAL_VENDOR = /wordpress\s+(plugin|theme)|premium\s+(wordpress\s+)?(plugin|theme)|\blicen[sc]e\s+key\b|activate\s+your\s+licen[sc]e|\brequest\s+a\s+demo\b|start\s+(your\s+)?free\s+trial|\bas\s+a\s+service\b|hosting\s+(plan|provider|package)|domain\s+(name\s+)?registration/i;
 
 export function detectPlatform(html) {
   if (!html) {
@@ -54,7 +57,8 @@ export function detectPlatform(html) {
   // homepages that merely embed a store platform for merch. Generic cart markers
   // are too noisy (news/SaaS have /shop sections too) to qualify a domain alone.
   const isNews = NEWS.test(html);
-  const isStore = Boolean(platform) && !isNews;
+  const isDigitalVendor = DIGITAL_VENDOR.test(html);
+  const isStore = Boolean(platform) && !isNews && !isDigitalVendor;
 
   let status = 'unknown';
   let detail = 'No clear e-commerce platform or storefront markers detected.';
