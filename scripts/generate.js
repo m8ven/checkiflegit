@@ -3,7 +3,7 @@
 //
 // Usage: node scripts/generate.js [count]
 // Env:   GEN_COUNT (default 25), SEED_FILE (default scripts/seeds/domains.txt)
-import { readFile, readdir } from 'node:fs/promises';
+import { readFile, readdir, appendFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { fetchSignals } from './lib/fetchSignals.js';
@@ -14,7 +14,16 @@ const ROOT = fileURLToPath(new URL('../', import.meta.url));
 const STORES_DIR = path.join(ROOT, 'src', 'content', 'stores');
 const SEED_FILE =
   process.env.SEED_FILE || path.join(ROOT, 'scripts', 'seeds', 'domains.txt');
+// Domains confirmed NOT to be stores (REQUIRE_STORE) are recorded here so later
+// batches skip them instead of re-fetching them from the top of the queue.
+const SKIP_FILE = path.join(ROOT, 'data', 'skipped.txt');
 const COUNT = Number(process.env.GEN_COUNT || process.argv[2] || 25);
+
+async function loadSkip() {
+  try {
+    return new Set((await readFile(SKIP_FILE, 'utf8')).split('\n').map((l) => l.trim()).filter(Boolean));
+  } catch { return new Set(); }
+}
 
 async function existingSlugs() {
   try {
@@ -36,11 +45,13 @@ async function loadSeed() {
 
 const done = await existingSlugs();
 const seed = await loadSeed();
+const skip = await loadSkip();
 
-// A domain is "done" if either its normal or noindex (_-prefixed) slug exists.
+// A domain is "done" if it has a page (normal or noindex slug) or was already
+// confirmed a non-store.
 const queue = seed.filter((d) => {
   const slug = domainToSlug(d);
-  return !done.has(slug) && !done.has(`_${slug}`);
+  return !done.has(slug) && !done.has(`_${slug}`) && !skip.has(d);
 });
 
 const batch = queue.slice(0, COUNT);
@@ -65,6 +76,7 @@ async function worker() {
       const result = await fetchSignals(domain);
       if (REQUIRE_STORE && result.reachable && !result.isStore) {
         nonStore++;
+        await appendFile(SKIP_FILE, domain + '\n'); // record so later batches skip it
         continue; // not a storefront — skip without publishing
       }
       const { verdict, noindex } = await generatePage(result);
