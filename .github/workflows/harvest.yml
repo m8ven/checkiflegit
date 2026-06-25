@@ -2,9 +2,11 @@ name: Harvest store seeds
 
 # Periodically tops up scripts/seeds/domains.txt with new real stores discovered
 # from the Tranco list, so the daily generator always has a queue to work from.
+# PAUSED: schedule disabled — runs on manual trigger only (Actions tab → Run workflow).
+# To re-enable weekly harvesting, uncomment the `schedule` block below.
 on:
-  schedule:
-    - cron: '23 3 * * 1' # weekly, Monday 03:23 UTC
+  # schedule:
+  #   - cron: '23 3 * * 1'   # weekly, Monday 03:23 UTC
   workflow_dispatch:
     inputs:
       target:
