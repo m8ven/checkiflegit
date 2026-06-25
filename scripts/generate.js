@@ -47,8 +47,14 @@ const batch = queue.slice(0, COUNT);
 const CONC = Number(process.env.GEN_CONC || 12);
 console.log(`Seed: ${seed.length} domains · already done: ${done.size} · generating: ${batch.length} (concurrency ${CONC})`);
 
+// When set, drop reachable-but-not-a-store domains inline (digital-vendor/news/
+// no-platform) instead of generating a page — folds the FP audit into generation
+// so bulk batches self-clean with no second fetch pass.
+const REQUIRE_STORE = process.env.GEN_REQUIRE_STORE === '1';
+
 let ok = 0;
 let skipped = 0;
+let nonStore = 0;
 let errors = 0;
 let cursor = 0;
 
@@ -57,17 +63,19 @@ async function worker() {
     const domain = batch[cursor++];
     try {
       const result = await fetchSignals(domain);
+      if (REQUIRE_STORE && result.reachable && !result.isStore) {
+        nonStore++;
+        continue; // not a storefront — skip without publishing
+      }
       const { verdict, noindex } = await generatePage(result);
       if (noindex) skipped++;
       else ok++;
-      console.log(`  ${domain} → ${verdict.label}${noindex ? ' (noindex)' : ''}`);
     } catch (err) {
       errors++;
-      console.error(`  ${domain} → ERROR ${err.message}`);
     }
   }
 }
 
 await Promise.all(Array.from({ length: Math.min(CONC, batch.length) }, worker));
 
-console.log(`\nDone. Indexed: ${ok}, skipped/noindex: ${skipped}, errors: ${errors}.`);
+console.log(`\nDone. Indexed: ${ok}, unreachable/noindex: ${skipped}, non-store skipped: ${nonStore}, errors: ${errors}.`);
