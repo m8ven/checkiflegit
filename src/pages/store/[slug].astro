@@ -20,8 +20,55 @@ const { data } = entry;
 const { Content } = await render(entry);
 const { verdict, signals } = data;
 const checkedOn = new Date(data.fetchedAt).toISOString().slice(0, 10);
+
+// --- JSON-LD: structured output of the SAME real signals + measured verdict.
+// Uses Review (a third-party, automated assessment authored by CheckIfLegit) —
+// not ClaimReview (we are not a credentialed fact-checker). The rating mirrors
+// the on-page score and the measured label exactly; no claim is harder than the
+// page itself. Emitted only for reachable, indexable pages.
+const SIG_LABELS: Record<string, string> = {
+  http: 'Website loads', platform: 'E-commerce platform', domainAge: 'Domain age',
+  ssl: 'SSL / HTTPS security', pages: 'Contact & policy pages', contact: 'Business contact info',
+  reviews: 'Third-party reviews', social: 'Social media presence',
+};
+const SIG_ORDER = ['http', 'platform', 'domainAge', 'ssl', 'pages', 'contact', 'reviews', 'social'];
+const toItemList = (arr: string[]) =>
+  arr.length ? { '@type': 'ItemList', itemListElement: arr.map((t, i) => ({ '@type': 'ListItem', position: i + 1, name: t })) } : undefined;
+
+const pageUrl = new URL(`/store/${data.slug}/`, Astro.site).href;
+let jsonLd: unknown = null;
+if (data.reachable && verdict.score != null) {
+  jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Review',
+    '@id': `${pageUrl}#assessment`,
+    url: pageUrl,
+    name: `Automated trust-signal assessment of ${data.domain}`,
+    datePublished: checkedOn,
+    dateModified: checkedOn,
+    author: { '@type': 'Organization', name: 'CheckIfLegit', url: 'https://checkiflegit.com' },
+    itemReviewed: {
+      '@type': 'Organization',
+      name: data.domain,
+      url: `https://${data.domain}`,
+      additionalProperty: SIG_ORDER.filter((k) => signals[k]).map((k) => ({
+        '@type': 'PropertyValue', name: SIG_LABELS[k] ?? k, value: signals[k].detail,
+      })),
+    },
+    reviewRating: {
+      '@type': 'Rating',
+      ratingValue: verdict.score,
+      bestRating: 100,
+      worstRating: 0,
+      alternateName: verdict.label,
+    },
+    reviewBody: verdict.summary,
+    positiveNotes: toItemList(verdict.greenFlags),
+    negativeNotes: toItemList([...verdict.redFlags, ...verdict.cautions]),
+  };
+}
 ---
-<BaseLayout title={data.title} description={data.description} noindex={data.noindex}>
+<BaseLayout title={data.title} description={data.description} noindex={data.noindex} jsonLd={jsonLd}>
   <p class="eyebrow"><a href="/">← All store checks</a></p>
   <h1>Is {data.domain} legit?</h1>
   <p class="eyebrow">Automated trust-signal check · last updated {checkedOn}</p>

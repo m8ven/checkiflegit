@@ -7,8 +7,11 @@ interface Props {
   description?: string;
   noindex?: boolean;
   canonical?: string;
+  jsonLd?: unknown;
 }
-const { title, description = '', noindex = false, canonical } = Astro.props;
+const { title, description = '', noindex = false, canonical, jsonLd } = Astro.props;
+// Embed JSON-LD safely (escape "<" so a payload can't break out of the script).
+const jsonLdString = jsonLd ? JSON.stringify(jsonLd).replace(/</g, '\\u003c') : null;
 const canonicalUrl = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
 const year = new Date().getFullYear();
 const GA_ID = 'G-E2XMY17PT9';
@@ -33,6 +36,7 @@ const GA_ID = 'G-E2XMY17PT9';
     {description && <meta name="description" content={description} />}
     <link rel="canonical" href={canonicalUrl} />
     {noindex && <meta name="robots" content="noindex, nofollow" />}
+    {jsonLdString && <script type="application/ld+json" set:html={jsonLdString} />}
     <meta property="og:title" content={title} />
     {description && <meta property="og:description" content={description} />}
     <meta property="og:type" content="website" />
