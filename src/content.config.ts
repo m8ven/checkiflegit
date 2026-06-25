@@ -19,7 +19,7 @@ const verdict = z.object({
 });
 
 const stores = defineCollection({
-  loader: glob({ pattern: '**/*.mdx', base: './src/content/stores' }),
+  loader: glob({ pattern: '**/*.md', base: './src/content/stores' }),
   schema: z.object({
     domain: z.string(),
     slug: z.string(),

@@ -37,7 +37,7 @@ async function stillStore(domain) {
   return null; // unreachable — leave as-is (already noindexed if so)
 }
 
-const files = (await readdir(STORES_DIR)).filter((f) => f.endsWith('.mdx') && !f.startsWith('_'));
+const files = (await readdir(STORES_DIR)).filter((f) => f.endsWith('.md') && !f.startsWith('_'));
 const items = [];
 for (const f of files) items.push({ file: f, domain: await domainOf(f) });
 

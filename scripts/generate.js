@@ -28,7 +28,7 @@ async function loadSkip() {
 async function existingSlugs() {
   try {
     const files = await readdir(STORES_DIR);
-    return new Set(files.filter((f) => f.endsWith('.mdx')).map((f) => f.replace(/\.mdx$/, '')));
+    return new Set(files.filter((f) => f.endsWith('.md')).map((f) => f.replace(/\.md$/, '')));
   } catch {
     return new Set();
   }

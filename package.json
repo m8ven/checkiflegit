@@ -6,7 +6,7 @@
   "description": "Programmatic SEO site answering 'Is [store] legit?' from public signals.",
   "scripts": {
     "dev": "astro dev",
-    "build": "NODE_OPTIONS=--max-old-space-size=6144 astro build",
+    "build": "NODE_OPTIONS=--max-old-space-size=4096 astro build",
     "preview": "astro preview",
     "fetch": "node scripts/fetch-one.js",
     "harvest": "node scripts/harvest-seeds.js",

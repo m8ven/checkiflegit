@@ -29,7 +29,7 @@ function parseRow(line) {
 
 async function existingSlugs() {
   try {
-    return new Set((await readdir(STORES_DIR)).filter((f) => f.endsWith('.mdx')).map((f) => f.replace(/\.mdx$/, '').replace(/^_/, '')));
+    return new Set((await readdir(STORES_DIR)).filter((f) => f.endsWith('.md')).map((f) => f.replace(/\.md$/, '').replace(/^_/, '')));
   } catch { return new Set(); }
 }
 async function existingSeed() {

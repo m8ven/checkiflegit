@@ -120,7 +120,7 @@ export async function generatePage(result) {
   const file = matter.stringify(`\n${body}\n`, frontmatter);
 
   await mkdir(STORES_DIR, { recursive: true });
-  const outPath = path.join(STORES_DIR, `${slug}.mdx`);
+  const outPath = path.join(STORES_DIR, `${slug}.md`);
   await writeFile(outPath, file, 'utf8');
   return { outPath, slug, noindex, verdict };
 }
