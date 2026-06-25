@@ -1,12 +1,15 @@
 import { fetchWithTimeout } from '../util.js';
 
 // Keyword sets for detecting standard e-commerce trust pages via on-page links.
+// Multilingual (EN/DE/FR/ES/IT) so non-English stores aren't unfairly penalised
+// for not using English page names — e.g. German shops use Impressum/Datenschutz/
+// AGB/Kontakt/Widerruf, which are legally mandated.
 const PAGE_PATTERNS = {
-  contact: /contact|support|help|customer[-\s]?(service|care)/i,
-  privacy: /privacy/i,
-  terms: /terms|conditions|t&c|tos\b/i,
-  refund: /refund|return/i,
-  shipping: /shipping|delivery/i,
+  contact: /contact|kontakt|contacto|contatti|impressum|support|help|customer[-\s]?(service|care)|kundenservice|assistance|aide/i,
+  privacy: /privacy|datenschutz|privacidad|confidentialit|riservatezza|privacit/i,
+  terms: /terms|conditions|t&c|tos\b|\bagb\b|t[ée]rminos|condizioni|mentions[-\s]?l[ée]gales/i,
+  refund: /refund|return|widerruf|r[üu]ckgabe|retoure|reembolso|remboursement|recesso|reso\b/i,
+  shipping: /shipping|delivery|versand|lieferung|env[íi]o|livraison|spedizione/i,
 };
 
 // Standard URLs to probe directly when a page isn't linked from the homepage.
@@ -14,11 +17,11 @@ const PAGE_PATTERNS = {
 // initial HTML, so link-detection alone unfairly fails them. Includes Shopify's
 // canonical /policies/* and /pages/* paths plus common generic paths.
 const PROBE_PATHS = {
-  privacy: ['/privacy', '/privacy-policy', '/policies/privacy-policy', '/pages/privacy-policy'],
-  terms: ['/terms', '/terms-of-service', '/terms-and-conditions', '/policies/terms-of-service'],
-  refund: ['/refund-policy', '/returns', '/return-policy', '/policies/refund-policy'],
-  shipping: ['/shipping', '/shipping-policy', '/delivery', '/policies/shipping-policy'],
-  contact: ['/contact', '/contact-us', '/pages/contact', '/pages/contact-us'],
+  privacy: ['/privacy', '/privacy-policy', '/policies/privacy-policy', '/datenschutz', '/datenschutzerklaerung', '/confidentialite', '/privacidad'],
+  terms: ['/terms', '/terms-of-service', '/terms-and-conditions', '/policies/terms-of-service', '/agb', '/conditions-generales-de-vente', '/terminos'],
+  refund: ['/refund-policy', '/returns', '/return-policy', '/policies/refund-policy', '/widerruf', '/widerrufsrecht', '/retoure'],
+  shipping: ['/shipping', '/shipping-policy', '/delivery', '/versand', '/versandkosten', '/livraison'],
+  contact: ['/contact', '/contact-us', '/pages/contact', '/kontakt', '/impressum', '/contacto', '/contatti'],
 };
 
 function extractLinks(html) {
