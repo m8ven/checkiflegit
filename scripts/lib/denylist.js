@@ -41,6 +41,8 @@ export const DENY = new Set([
   // residual WooCommerce-on-non-shopping sites found in the first 500 batch
   'aioseo.com', 'wenthemes.com', 'crmback.io', 'heanet.ie', 'webspace-verkauf.de',
   'ecosense.io', 'worldsurfleague.com', 'pch.com',
+  // IANA-reserved example/placeholder domains (never real stores)
+  'example.com', 'example.org', 'example.net', 'localhost',
 ]);
 
 export function isDenied(domain) {
