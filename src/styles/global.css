@@ -57,7 +57,9 @@ a:hover { text-decoration: underline; }
 }
 .brand__name { white-space: nowrap; }
 .brand__name i { color: var(--green); font-style: normal; }
+.site-header__nav { display: flex; gap: 18px; align-items: center; }
 .site-header__link { font-size: 14px; color: var(--muted); }
+.site-header__link:hover { color: var(--text); }
 
 .site-footer { background: var(--surface); border-top: 1px solid var(--border); color: var(--muted); }
 .site-footer__inner { max-width: var(--maxw); margin: 0 auto; padding: 22px 20px 40px; font-size: 13px; }

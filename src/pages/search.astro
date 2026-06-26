@@ -1,0 +1,100 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+// NOTE: intentionally NOT linked from the site nav yet (held until page count is up).
+// This page ONLY searches existing pages and queues check-requests. It never
+// generates a page or verdict in real time.
+---
+<BaseLayout
+  title="Search store checks — CheckIfLegit"
+  description="Search the stores we've already checked."
+  noindex={true}
+>
+  <h1>Search store checks</h1>
+  <p class="muted">Type a store's website to see if we've already checked it.</p>
+
+  <form id="search-form" autocomplete="off" style="display:flex;gap:8px;margin:16px 0">
+    <input id="q" type="text" inputmode="url" placeholder="e.g. allbirds.com"
+      style="flex:1;padding:11px 14px;border:1px solid var(--border-strong);border-radius:10px;font-size:16px" />
+    <button type="submit"
+      style="padding:11px 18px;border:0;border-radius:10px;background:var(--blue);color:#fff;font-weight:600;cursor:pointer">Search</button>
+  </form>
+
+  <div id="result" aria-live="polite"></div>
+
+  <script is:inline>
+    (function () {
+      let index = null;
+      const $ = (id) => document.getElementById(id);
+      const result = $('result');
+
+      function normalize(v) {
+        return String(v).trim().toLowerCase()
+          .replace(/^https?:\/\//, '').replace(/^www\./, '')
+          .replace(/\/.*$/, '').replace(/:.*$/, '');
+      }
+      function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+      async function loadIndex() {
+        if (index) return index;
+        const res = await fetch('/search-index.json');
+        index = await res.json();
+        return index;
+      }
+
+      async function search(e) {
+        e.preventDefault();
+        const domain = normalize($('q').value);
+        if (!domain || !domain.includes('.')) {
+          result.innerHTML = '<p class="muted">Enter a full store domain, e.g. <code>allbirds.com</code>.</p>';
+          return;
+        }
+        result.innerHTML = '<p class="muted">Searching…</p>';
+        const idx = await loadIndex();
+        const hit = idx.find((x) => x.d === domain) ||
+          idx.find((x) => x.d === domain.replace(/^[^.]+\./, '')) ||
+          idx.find((x) => x.d.split('.')[0] === domain.split('.')[0] && x.d.includes(domain.split('.')[0]));
+
+        if (hit && hit.d === domain) {
+          result.innerHTML =
+            '<div class="card"><strong>We’ve checked this store.</strong><p style="margin:8px 0 0">' +
+            '<a href="/store/' + hit.s + '/">View our trust-signal check for ' + esc(hit.d) + ' →</a></p></div>';
+        } else {
+          result.innerHTML =
+            '<div class="card"><strong>We haven’t checked ' + esc(domain) + ' yet.</strong>' +
+            '<p class="muted" style="margin:8px 0 12px">We don’t generate verdicts on the spot — every check goes through our reviewed process. ' +
+            'Request it and it’ll be added to the queue for the next reviewed batch.</p>' +
+            '<button id="req" data-domain="' + esc(domain) + '" ' +
+            'style="padding:10px 16px;border:0;border-radius:10px;background:var(--green);color:#fff;font-weight:600;cursor:pointer">Request a check</button>' +
+            '<span id="req-msg" class="small muted" style="margin-left:10px"></span></div>';
+          $('req').addEventListener('click', requestCheck);
+        }
+      }
+
+      async function requestCheck(e) {
+        const btn = e.currentTarget;
+        const domain = btn.getAttribute('data-domain');
+        const msg = $('req-msg');
+        btn.disabled = true;
+        // Client-side dedupe: don't let one browser re-spam the same domain.
+        const seen = JSON.parse(localStorage.getItem('cil_requested') || '[]');
+        if (seen.includes(domain)) { msg.textContent = 'Already requested — thanks!'; return; }
+        msg.textContent = 'Submitting…';
+        try {
+          const res = await fetch('/api/request-check', {
+            method: 'POST', headers: { 'content-type': 'application/json' },
+            body: JSON.stringify({ domain }),
+          });
+          if (res.status === 429) { msg.textContent = 'Too many requests — try again later.'; btn.disabled = false; return; }
+          if (res.status === 422) { msg.textContent = 'That site didn’t respond, so we can’t queue it. Check the spelling?'; btn.disabled = false; return; }
+          if (!res.ok) throw new Error('failed');
+          seen.push(domain); localStorage.setItem('cil_requested', JSON.stringify(seen.slice(-50)));
+          msg.textContent = 'Queued for the next review batch — thanks!';
+        } catch {
+          msg.textContent = 'Could not submit right now.'; btn.disabled = false;
+        }
+      }
+
+      $('search-form').addEventListener('submit', search);
+    })();
+  </script>
+</BaseLayout>
