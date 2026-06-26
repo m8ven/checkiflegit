@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+// Generates dist/404.html so Cloudflare Pages returns a real 404 (not a soft-200
+// homepage) for unknown/mistyped paths.
+---
+<BaseLayout title="Page not found — CheckIfLegit" noindex={true}>
+  <h1>Page not found</h1>
+  <p class="muted">We don’t have a page at this address. It may have moved, or we haven’t checked that store yet.</p>
+  <p style="margin-top:16px">
+    <a href="/search">Search the stores we’ve checked</a> · <a href="/">Browse all stores</a>
+  </p>
+</BaseLayout>
