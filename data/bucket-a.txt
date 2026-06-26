@@ -1,0 +1,31 @@
+academy.afridemia.com	course/LMS
+academy.amourhairbeauty.nl	course/LMS
+academy.awakenalchemist.com	course/LMS
+academy.inodev.pt	course/LMS
+academy.jasrati.com	course/LMS
+academy.qualitydojo.com	course/LMS
+ambitious.academy	course/LMS
+antiphish.training	course/LMS
+aula.inteli-iuris.mx	course/LMS
+browser-update.org	nonprofit/.org, no products
+captainplanetfoundation.org	nonprofit/.org, no products
+course.360career.org	course/LMS
+course.hacking.lk	course/LMS
+courses.growpermaculture.com	course/LMS
+courses.gurumaharishi.com	course/LMS
+courses.injah.net	course/LMS
+cursos.maestrasdeinfancia.com	course/LMS
+escuela.alexnovell.com	course/LMS
+fh.academy	course/LMS
+formacion.javiervazquezmatilla.com	course/LMS
+islamiccenter.education	course/LMS
+jade.courses	course/LMS
+kurs.shudel.com.ua	course/LMS
+learn.authenticlifejourney.com	course/LMS
+learning.cytivalifesciences.com.cn	course/LMS
+momentumbusiness.academy	course/LMS
+parentguidance.academy	course/LMS
+ridewithvalor.org	nonprofit/.org, no products
+thetourismsociety.com	nonprofit/.org, no products
+vettix.org	nonprofit/.org, no products
+wspolnyswiat.org	nonprofit/.org, no products
