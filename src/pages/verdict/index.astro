@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getIndexableStores, groupBy, TIERS, TIER_META } from '../../lib/catalog';
+
+const stores = await getIndexableStores();
+const groups = groupBy(stores, (s) => s.data.verdict.tier);
+---
+<BaseLayout
+  title="Browse store checks by trust-signal rating — CheckIfLegit"
+  description="Browse our automated store checks by outcome: strong, moderate or limited public trust signals."
+>
+  <p class="eyebrow"><a href="/">← Home</a></p>
+  <h1>Browse by trust-signal rating</h1>
+  <p class="muted">
+    Each store gets a measured rating derived only from signals we could actually fetch.
+    Signals we can't verify are reported as unknown and excluded from the score — we never
+    guess, and we never label a business a scam.
+  </p>
+
+  <ul class="store-list">
+    {TIERS.map((tier) => (
+      <li>
+        <a href={`/verdict/${tier}/`}>{TIER_META[tier].heading}</a>
+        <span class={`pill ${tier}`}>{groups.get(tier)?.length ?? 0} stores</span>
+      </li>
+    ))}
+  </ul>
+
+  <h2>Browse another way</h2>
+  <ul>
+    <li><a href="/stores/">All store checks, A–Z</a></li>
+    <li><a href="/platform/">By e-commerce platform</a></li>
+    <li><a href="/tld/">By country / domain extension</a></li>
+  </ul>
+</BaseLayout>

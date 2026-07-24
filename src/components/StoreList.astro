@@ -1,0 +1,16 @@
+---
+import type { Store } from '../lib/catalog';
+
+interface Props {
+  stores: Store[];
+}
+const { stores } = Astro.props;
+---
+<ul class="store-list">
+  {stores.map((s) => (
+    <li>
+      <a href={`/store/${s.data.slug}/`}>Is {s.data.domain} legit?</a>
+      <span class={`pill ${s.data.verdict.tier}`}>{s.data.verdict.label}</span>
+    </li>
+  ))}
+</ul>

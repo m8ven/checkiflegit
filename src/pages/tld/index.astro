@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getIndexableStores, groupBy, tldOf, toSegment, MIN_HUB_SIZE } from '../../lib/catalog';
+
+const stores = await getIndexableStores();
+const groups = [...groupBy(stores, (s) => tldOf(s.data.domain)).entries()]
+  .sort((a, b) => b[1].length - a[1].length);
+const hubs = groups.filter(([, list]) => list.length >= MIN_HUB_SIZE);
+const covered = hubs.reduce((n, [, list]) => n + list.length, 0);
+---
+<BaseLayout
+  title="Browse store checks by country and domain extension — CheckIfLegit"
+  description="Browse our online-store trust-signal checks by top-level domain — .com, .co.uk, .de, .fr, .com.au and more."
+>
+  <p class="eyebrow"><a href="/">← Home</a></p>
+  <h1>Browse by country &amp; domain extension</h1>
+  <p class="muted">
+    The stores we've checked span {groups.length} different domain extensions. The
+    {' '}{hubs.length} listed below have {MIN_HUB_SIZE} or more checks each and cover
+    {' '}{covered} of the {stores.length} stores in our index.
+  </p>
+
+  <ul class="store-list">
+    {hubs.map(([tld, list]) => (
+      <li>
+        <a href={`/tld/${toSegment(tld)}/`}>.{tld} stores</a>
+        <span class="pill">{list.length} checked</span>
+      </li>
+    ))}
+  </ul>
+
+  <p class="muted small">
+    Every store, including those on less common extensions, is listed in the
+    {' '}<a href="/stores/">full A–Z index</a>.
+  </p>
+
+  <h2>Browse another way</h2>
+  <ul>
+    <li><a href="/stores/">All store checks, A–Z</a></li>
+    <li><a href="/platform/">By e-commerce platform</a></li>
+    <li><a href="/verdict/">By trust-signal rating</a></li>
+  </ul>
+</BaseLayout>

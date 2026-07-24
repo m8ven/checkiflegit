@@ -6,16 +6,34 @@ import SignalBreakdown from '../../components/SignalBreakdown.astro';
 import Flags from '../../components/Flags.astro';
 import SafetyTips from '../../components/SafetyTips.astro';
 import AdSlot from '../../components/AdSlot.astro';
+import RelatedStores from '../../components/RelatedStores.astro';
+import {
+  getIndexableStores, buildRelatedGraph, platformOf, tldOf, toSegment,
+  MIN_HUB_SIZE, TIER_META, type Related,
+} from '../../lib/catalog';
 
 export async function getStaticPaths() {
   const stores = await getCollection('stores');
+  // The related-stores graph links only to indexable pages, and is built once
+  // for the whole catalogue rather than per page.
+  const indexable = await getIndexableStores();
+  const graph = buildRelatedGraph(indexable);
+  const hubSizes = new Map<string, number>();
+  for (const s of indexable) {
+    const p = platformOf(s);
+    if (p) hubSizes.set(`platform:${p}`, (hubSizes.get(`platform:${p}`) ?? 0) + 1);
+    const t = tldOf(s.data.domain);
+    hubSizes.set(`tld:${t}`, (hubSizes.get(`tld:${t}`) ?? 0) + 1);
+  }
   return stores.map((entry) => ({
     params: { slug: entry.data.slug },
-    props: { entry },
+    props: { entry, related: graph.get(entry.data.slug) ?? [], hubSizes },
   }));
 }
 
-const { entry } = Astro.props;
+const { entry, related, hubSizes } = Astro.props as {
+  entry: any; related: Related[]; hubSizes: Map<string, number>;
+};
 const { data } = entry;
 const { Content } = await render(entry);
 const { verdict, signals } = data;
@@ -34,6 +52,21 @@ const SIG_LABELS: Record<string, string> = {
 const SIG_ORDER = ['http', 'platform', 'domainAge', 'ssl', 'pages', 'contact', 'reviews', 'social'];
 const toItemList = (arr: string[]) =>
   arr.length ? { '@type': 'ItemList', itemListElement: arr.map((t, i) => ({ '@type': 'ListItem', position: i + 1, name: t })) } : undefined;
+
+// Contextual "up" links: only offered when the hub page actually exists.
+const storePlatform = platformOf(entry);
+const storeTld = tldOf(data.domain);
+const platformHub =
+  storePlatform && (hubSizes.get(`platform:${storePlatform}`) ?? 0) >= MIN_HUB_SIZE
+    ? { href: `/platform/${toSegment(storePlatform)}/`, label: `All ${storePlatform} stores` }
+    : null;
+const tldHub =
+  (hubSizes.get(`tld:${storeTld}`) ?? 0) >= MIN_HUB_SIZE
+    ? { href: `/tld/${toSegment(storeTld)}/`, label: `All .${storeTld} stores` }
+    : null;
+const tierHub = TIER_META[verdict.tier]
+  ? { href: `/verdict/${verdict.tier}/`, label: `All stores rated “${TIER_META[verdict.tier].short}”` }
+  : null;
 
 const pageUrl = new URL(`/store/${data.slug}/`, Astro.site).href;
 let jsonLd: unknown = null;
@@ -94,7 +127,20 @@ if (data.reachable && verdict.score != null) {
   {/* 5. How to shop safely */}
   <SafetyTips />
 
-  {/* 6. Page meta: fetch date + owner-dispute line */}
+  {/* 6. Lateral links into the rest of the catalogue */}
+  <RelatedStores related={related} />
+
+  {/* 7. Upward links to the listing pages this store belongs to */}
+  <nav class="hub-links" aria-label="Browse related listings">
+    <ul>
+      {platformHub && <li><a href={platformHub.href}>{platformHub.label}</a></li>}
+      {tldHub && <li><a href={tldHub.href}>{tldHub.label}</a></li>}
+      {tierHub && <li><a href={tierHub.href}>{tierHub.label}</a></li>}
+      <li><a href="/stores/">All store checks, A–Z</a></li>
+    </ul>
+  </nav>
+
+  {/* 8. Page meta: fetch date + owner-dispute line */}
   <p class="page-meta">
     Signals were fetched automatically from public sources on {checkedOn}. Information may be
     out of date. If you own {data.domain} and believe this assessment is inaccurate, please

@@ -1,0 +1,45 @@
+---
+interface Props {
+  /** Base path of the paginated route, with leading and trailing slash. */
+  base: string;
+  currentPage: number;
+  lastPage: number;
+}
+const { base, currentPage, lastPage } = Astro.props;
+
+const href = (n: number) => (n <= 1 ? base : `${base}${n}/`);
+
+// Every page number is linked from every page, so any listing page is one hop
+// from any other and no store sits deeper than two clicks from the homepage.
+// Only very long runs get windowed, to keep the link count sane.
+const WINDOW_THRESHOLD = 120;
+let numbers: number[];
+if (lastPage <= WINDOW_THRESHOLD) {
+  numbers = Array.from({ length: lastPage }, (_, i) => i + 1);
+} else {
+  const near = new Set<number>([1, 2, lastPage - 1, lastPage]);
+  for (let n = currentPage - 4; n <= currentPage + 4; n++) if (n >= 1 && n <= lastPage) near.add(n);
+  for (let n = 10; n <= lastPage; n += 10) near.add(n);
+  numbers = [...near].sort((a, b) => a - b);
+}
+---
+{lastPage > 1 && (
+  <nav class="pager" aria-label="Pagination">
+    <div class="pager__nums">
+      {numbers.map((n, i) => (
+        <>
+          {i > 0 && numbers[i - 1] !== n - 1 && <span class="pager__gap">…</span>}
+          {n === currentPage ? (
+            <span class="pager__num pager__num--current" aria-current="page">{n}</span>
+          ) : (
+            <a class="pager__num" href={href(n)}>{n}</a>
+          )}
+        </>
+      ))}
+    </div>
+    <div class="pager__ends">
+      {currentPage > 1 && <a class="pager__step" href={href(currentPage - 1)}>← Previous</a>}
+      {currentPage < lastPage && <a class="pager__step" href={href(currentPage + 1)}>Next →</a>}
+    </div>
+  </nav>
+)}

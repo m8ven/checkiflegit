@@ -1,0 +1,28 @@
+---
+import type { Related } from '../lib/catalog';
+
+interface Props {
+  related: Related[];
+}
+const { related } = Astro.props;
+---
+{related.length > 0 && (
+  <nav class="related" aria-labelledby="related-heading">
+    <h2 id="related-heading">Related store checks</h2>
+    <p class="muted small">
+      Other stores we've checked that are similar to this one — same platform, same domain
+      extension, or a similar trust-signal profile.
+    </p>
+    <ul class="related__list">
+      {related.map((r) => (
+        <li>
+          <a href={`/store/${r.slug}/`}>Is {r.domain} legit?</a>
+          <span class="related__meta">
+            <span class="related__reason">{r.reason}</span>
+            <span class={`pill ${r.tier}`}>{r.tier}</span>
+          </span>
+        </li>
+      ))}
+    </ul>
+  </nav>
+)}

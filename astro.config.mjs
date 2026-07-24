@@ -11,7 +11,8 @@ export default defineConfig({
     mdx(),
     sitemap({
       // Unreachable / low-signal stores are emitted with noindex and excluded here.
-      filter: (page) => !page.includes('/store/_'),
+      // /search is noindex too — submitting it would just raise a Search Console error.
+      filter: (page) => !page.includes('/store/_') && !page.includes('/search'),
     }),
   ],
   build: {

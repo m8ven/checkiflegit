@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getIndexableStores, groupBy, platformOf, toSegment, MIN_HUB_SIZE } from '../../lib/catalog';
+
+const stores = await getIndexableStores();
+const groups = [...groupBy(stores, platformOf).entries()].sort((a, b) => b[1].length - a[1].length);
+const hubs = groups.filter(([, list]) => list.length >= MIN_HUB_SIZE);
+const rest = groups.filter(([, list]) => list.length < MIN_HUB_SIZE);
+const detected = groups.reduce((n, [, list]) => n + list.length, 0);
+---
+<BaseLayout
+  title="Browse store checks by e-commerce platform — CheckIfLegit"
+  description="Browse our trust-signal checks by the e-commerce platform each store runs on — Shopify, WooCommerce, Magento and more."
+>
+  <p class="eyebrow"><a href="/">← Home</a></p>
+  <h1>Browse by e-commerce platform</h1>
+  <p class="muted">
+    We fingerprint the storefront software behind each site from its public assets and markup.
+    We identified a platform on {detected} of the {stores.length} stores in our index.
+  </p>
+
+  <ul class="store-list">
+    {hubs.map(([name, list]) => (
+      <li>
+        <a href={`/platform/${toSegment(name)}/`}>{name} stores</a>
+        <span class="pill">{list.length} checked</span>
+      </li>
+    ))}
+  </ul>
+
+  {rest.length > 0 && (
+    <p class="muted small">
+      Platforms with fewer than {MIN_HUB_SIZE} stores don't get their own page yet:
+      {' '}{rest.map(([name, list]) => `${name} (${list.length})`).join(', ')}.
+    </p>
+  )}
+
+  <h2>Browse another way</h2>
+  <ul>
+    <li><a href="/stores/">All store checks, A–Z</a></li>
+    <li><a href="/verdict/">By trust-signal rating</a></li>
+    <li><a href="/tld/">By country / domain extension</a></li>
+  </ul>
+</BaseLayout>

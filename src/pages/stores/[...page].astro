@@ -1,0 +1,43 @@
+---
+import type { GetStaticPaths, Page } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StoreList from '../../components/StoreList.astro';
+import Pagination from '../../components/Pagination.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { getIndexableStores, type Store } from '../../lib/catalog';
+
+export const getStaticPaths: GetStaticPaths = async ({ paginate }) => {
+  const stores = await getIndexableStores();
+  return paginate(stores, { pageSize: 150 });
+};
+
+const { page } = Astro.props as { page: Page<Store> };
+const first = page.data[0]?.data.domain ?? '';
+const last = page.data[page.data.length - 1]?.data.domain ?? '';
+const suffix = page.lastPage > 1 ? ` (page ${page.currentPage} of ${page.lastPage})` : '';
+---
+<BaseLayout
+  title={`All store checks: ${first} – ${last}${suffix} — CheckIfLegit`}
+  description={`Browse every online store we've run a trust-signal check on, A–Z. This page covers ${first} to ${last} of ${page.total} stores.`}
+>
+  <p class="eyebrow"><a href="/">← Home</a></p>
+  <h1>All store checks, A–Z</h1>
+  <p class="muted">
+    Every one of the {page.total} stores we've checked, listed alphabetically.
+    {page.lastPage > 1 && <> This is page {page.currentPage} of {page.lastPage}, covering <strong>{first}</strong> to <strong>{last}</strong>.</>}
+  </p>
+
+  <AdSlot id="browse-top" />
+
+  <StoreList stores={page.data} />
+
+  <Pagination base="/stores/" currentPage={page.currentPage} lastPage={page.lastPage} />
+
+  <h2>Browse another way</h2>
+  <ul>
+    <li><a href="/platform/">By e-commerce platform</a></li>
+    <li><a href="/verdict/">By trust-signal rating</a></li>
+    <li><a href="/tld/">By country / domain extension</a></li>
+    <li><a href="/search">Search for a specific store</a></li>
+  </ul>
+</BaseLayout>
