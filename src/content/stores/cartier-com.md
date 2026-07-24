@@ -4,8 +4,8 @@ slug: cartier-com
 title: Is cartier.com Legit? Trust Score 100/100
 description: >-
   cartier.com scores 100/100 on our public trust checks. Established domain —
-  registered 31.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:32.766Z'
+  registered 31.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:14.040Z'
 finalUrl: 'https://www.cartier.com/en-us/home'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 31.2 years ago.
+    - Established domain — registered 31.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-08'
-      daysToExpiry: 14
+      validTo: '2026-09-16'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1995-04-06'
-      ageDays: 11402
-      ageYears: 31.2
-    detail: Registered 31.2 years ago (1995-04-06).
+      ageDays: 11432
+      ageYears: 31.3
+    detail: Registered 31.3 years ago (1995-04-06).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cartier.com looks like a well-established store. The clearest positives are that its domain has been registered for 31.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cartier.com looks like a well-established store. The clearest positives are that its domain has been registered for 31.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cartier in the score above.
 

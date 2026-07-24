@@ -5,7 +5,7 @@ title: Is levi.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   levi.in scores 100/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-24T21:44:35.110Z'
+fetchedAt: '2026-07-24T14:55:14.737Z'
 finalUrl: 'https://levi.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

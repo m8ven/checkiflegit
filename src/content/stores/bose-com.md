@@ -4,8 +4,8 @@ slug: bose-com
 title: Is bose.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   bose.com scores 100/100 on our public trust checks. Established domain —
-  registered 34.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:27.367Z'
+  registered 34.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:11.209Z'
 finalUrl: 'https://www.bose.com/home'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 34.5 years ago.
+    - Established domain — registered 34.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Amazon
       validTo: '2027-02-22'
-      daysToExpiry: 244
+      daysToExpiry: 214
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
     status: pass
     value:
       createdAt: '1991-12-20'
-      ageDays: 12605
-      ageYears: 34.5
-    detail: Registered 34.5 years ago (1991-12-20).
+      ageDays: 12635
+      ageYears: 34.6
+    detail: Registered 34.6 years ago (1991-12-20).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bose.com looks like a well-established store. The clearest positives are that its domain has been registered for 34.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bose.com looks like a well-established store. The clearest positives are that its domain has been registered for 34.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bose in the score above.
 

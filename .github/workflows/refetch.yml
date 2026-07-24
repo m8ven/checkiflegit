@@ -1,0 +1,70 @@
+name: Refetch store pages
+
+# Refreshes the oldest published pages so the corpus stops being a frozen
+# snapshot. Unlike generate.yml (paused, manual) this one IS scheduled — stale
+# verdicts are a standing liability, and the loop has to run unattended to be
+# worth anything.
+#
+# 2,500/week over ~10.5k indexable pages = a full refresh roughly monthly.
+# Cloudflare Pages auto-deploys on the resulting push.
+on:
+  schedule:
+    - cron: '41 4 * * 1' # weekly, Monday 04:41 UTC
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'How many of the oldest pages to refetch'
+        required: false
+        default: '2500'
+      dry:
+        description: 'Dry run (report only, write nothing)'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+# Never let two refetches overlap — they would fight over the same files.
+concurrency:
+  group: refetch
+  cancel-in-progress: false
+
+jobs:
+  refetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Refetch oldest pages
+        env:
+          REFETCH_COUNT: ${{ github.event.inputs.count || '2500' }}
+          REFETCH_CONC: '12'
+          REFETCH_DRY: ${{ github.event.inputs.dry == 'true' && '1' || '0' }}
+        run: node scripts/refetch.js
+
+      # Keeps /research/online-store-trust-signals accurate: it renders from
+      # this file at build time, so refreshed data flows straight to the page.
+      - name: Recompute corpus statistics
+        if: ${{ github.event.inputs.dry != 'true' }}
+        run: node scripts/stats.js
+
+      - name: Commit refreshed pages
+        if: ${{ github.event.inputs.dry != 'true' }}
+        run: |
+          git config user.name "checkiflegit-bot"
+          git config user.email "bot@checkiflegit.com"
+          if [ -n "$(git status --porcelain src/content/stores data)" ]; then
+            git add src/content/stores data
+            git commit -m "chore: refetch store pages ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "Nothing changed."
+          fi

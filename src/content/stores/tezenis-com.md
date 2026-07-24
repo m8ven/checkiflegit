@@ -4,8 +4,8 @@ slug: tezenis-com
 title: Is tezenis.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
   tezenis.com scores 85/100 on our public trust checks. Established domain —
-  registered 23 years ago.
-fetchedAt: '2026-06-24T21:44:36.478Z'
+  registered 23.1 years ago.
+fetchedAt: '2026-07-24T14:55:15.679Z'
 finalUrl: 'https://www.tezenis.com/it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 23 years ago.
+    - Established domain — registered 23.1 years ago.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -59,9 +59,9 @@ signals:
     status: pass
     value:
       createdAt: '2003-07-08'
-      ageDays: 8387
-      ageYears: 23
-    detail: Registered 23 years ago (2003-07-08).
+      ageDays: 8417
+      ageYears: 23.1
+    detail: Registered 23.1 years ago (2003-07-08).
   contact:
     status: warn
     value:
@@ -90,7 +90,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tezenis.com looks like a well-established store. The clearest positives are that its domain has been registered for 23 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tezenis.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tezenis in the score above.
 

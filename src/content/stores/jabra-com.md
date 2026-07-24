@@ -5,7 +5,7 @@ title: Is jabra.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   jabra.com scores 70/100 on our public trust checks. Established domain —
   registered 31.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:36.266Z'
+fetchedAt: '2026-07-24T14:55:15.227Z'
 finalUrl: 'https://www.jabra.com/'
 reachable: true
 noindex: false
@@ -40,7 +40,7 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
     detail: 'Built on Salesforce Commerce, an established e-commerce platform.'
   pages:
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 54
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '1994-09-25'
-      ageDays: 11595
+      ageDays: 11625
       ageYears: 31.8
     detail: Registered 31.8 years ago (1994-09-25).
   contact:

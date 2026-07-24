@@ -5,7 +5,7 @@ title: Is halfords.com Legit? Trust Score 88/100
 description: >-
   halfords.com scores 88/100 on our public trust checks. Established domain —
   registered 29 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:39.458Z'
+fetchedAt: '2026-07-24T14:55:20.795Z'
 finalUrl: 'https://www.halfords.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-08-12'
-      daysToExpiry: 50
+      daysToExpiry: 20
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1997-07-14'
-      ageDays: 10572
+      ageDays: 10602
       ageYears: 29
     detail: Registered 29 years ago (1997-07-14).
   contact:

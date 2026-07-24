@@ -4,8 +4,8 @@ slug: eveonline-com
 title: Is eveonline.com Legit? Trust Score 70/100
 description: >-
   eveonline.com scores 70/100 on our public trust checks. Established domain —
-  registered 27.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:33.025Z'
+  registered 28 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:14.081Z'
 finalUrl: 'https://www.eveonline.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 27.9 years ago.
+    - Established domain — registered 28 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-21'
-      daysToExpiry: 90
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1998-08-06'
-      ageDays: 10184
-      ageYears: 27.9
-    detail: Registered 27.9 years ago (1998-08-06).
+      ageDays: 10214
+      ageYears: 28
+    detail: Registered 28 years ago (1998-08-06).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eveonline.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eveonline.com looks like a well-established store. The clearest positives are that its domain has been registered for 28 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eveonline in the score above.
 

@@ -4,8 +4,8 @@ slug: eufy-com
 title: Is eufy.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   eufy.com scores 100/100 on our public trust checks. Established domain —
-  registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:27.334Z'
+  registered 22.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:11.208Z'
 finalUrl: 'https://www.eufy.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 22.8 years ago.
+    - Established domain — registered 22.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-08-26'
-      ageDays: 8338
-      ageYears: 22.8
-    detail: Registered 22.8 years ago (2003-08-26).
+      ageDays: 8368
+      ageYears: 22.9
+    detail: Registered 22.9 years ago (2003-08-26).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eufy.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eufy.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eufy in the score above.
 

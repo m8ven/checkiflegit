@@ -4,8 +4,8 @@ slug: palmonas-com
 title: Is palmonas.com Legit? Trust Score 88/100
 description: >-
   palmonas.com scores 88/100 on our public trust checks. Established domain —
-  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:36.204Z'
+  registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:15.087Z'
 finalUrl: 'https://palmonas.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-17'
-      ageDays: 1741
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-09-17).
+      ageDays: 1771
+      ageYears: 4.9
+    detail: Registered 4.9 years ago (2021-09-17).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-palmonas.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+palmonas.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Palmonas in the score above.
 

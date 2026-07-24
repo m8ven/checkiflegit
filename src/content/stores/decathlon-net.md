@@ -4,8 +4,8 @@ slug: decathlon-net
 title: Is decathlon.net Legit? Trust Score 85/100
 description: >-
   decathlon.net scores 85/100 on our public trust checks. Established domain —
-  registered 28 years ago.
-fetchedAt: '2026-06-24T21:44:41.223Z'
+  registered 28.1 years ago.
+fetchedAt: '2026-07-24T14:55:21.979Z'
 finalUrl: 'https://www.decathlon.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 28 years ago.
+    - Established domain — registered 28.1 years ago.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -59,9 +59,9 @@ signals:
     status: pass
     value:
       createdAt: '1998-06-23'
-      ageDays: 10228
-      ageYears: 28
-    detail: Registered 28 years ago (1998-06-23).
+      ageDays: 10258
+      ageYears: 28.1
+    detail: Registered 28.1 years ago (1998-06-23).
   contact:
     status: warn
     value:
@@ -90,7 +90,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-decathlon.net looks like a well-established store. The clearest positives are that its domain has been registered for 28 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+decathlon.net looks like a well-established store. The clearest positives are that its domain has been registered for 28.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Decathlon in the score above.
 

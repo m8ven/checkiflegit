@@ -6,7 +6,7 @@ description: >-
   bblmw.com scores 25/100 on our public trust checks. Standard contact and
   policy pages were not found. No public contact details detected on the
   homepage.
-fetchedAt: '2026-06-24T21:44:27.369Z'
+fetchedAt: '2026-07-24T14:55:11.324Z'
 finalUrl: 'https://www.bblmw.com/'
 reachable: true
 noindex: false
@@ -20,7 +20,7 @@ verdict:
   score: 25
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 2.8 years ago.
+    - Established domain — registered 2.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -59,16 +59,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-08-24'
-      daysToExpiry: 62
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2023-08-21'
-      ageDays: 1038
-      ageYears: 2.8
-    detail: Registered 2.8 years ago (2023-08-21).
+      ageDays: 1068
+      ageYears: 2.9
+    detail: Registered 2.9 years ago (2023-08-21).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for bblmw.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 2.8 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for bblmw.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 2.9 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bblmw in the score above.
 

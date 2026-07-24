@@ -5,7 +5,7 @@ title: Is solodeportes.com.ar Legit? Trust Score 100/100
 description: >-
   solodeportes.com.ar scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-24T21:44:30.689Z'
+fetchedAt: '2026-07-24T14:55:13.042Z'
 finalUrl: 'https://www.solodeportes.com.ar/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-11-06'
-      daysToExpiry: 136
+      daysToExpiry: 106
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:

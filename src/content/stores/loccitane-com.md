@@ -6,7 +6,7 @@ description: >-
   loccitane.com scores 13/100 on our public trust checks. Standard contact and
   policy pages were not found. No public contact details detected on the
   homepage.
-fetchedAt: '2026-06-24T21:44:37.307Z'
+fetchedAt: '2026-07-24T14:55:16.061Z'
 finalUrl: 'https://www.loccitane.com/'
 reachable: true
 noindex: false
@@ -20,7 +20,7 @@ verdict:
   score: 13
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 29.2 years ago.
+    - Established domain — registered 29.3 years ago.
   redFlags:
     - Standard contact and policy pages were not found.
     - No public contact details detected on the homepage.
@@ -58,8 +58,8 @@ signals:
     status: warn
     value:
       issuer: DigiCert Inc
-      validTo: '2026-07-30'
-      daysToExpiry: 37
+      validTo: '2027-01-21'
+      daysToExpiry: 182
       authorized: false
     detail: >-
       Certificate present but chain not trusted
@@ -68,9 +68,9 @@ signals:
     status: pass
     value:
       createdAt: '1997-04-07'
-      ageDays: 10670
-      ageYears: 29.2
-    detail: Registered 29.2 years ago (1997-04-07).
+      ageDays: 10700
+      ageYears: 29.3
+    detail: Registered 29.3 years ago (1997-04-07).
   contact:
     status: fail
     value:
@@ -99,7 +99,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for loccitane.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 29.2 years and it runs on Salesforce Commerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for loccitane.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 29.3 years and it runs on Salesforce Commerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Loccitane in the score above.
 

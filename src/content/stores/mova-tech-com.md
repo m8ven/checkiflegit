@@ -4,8 +4,8 @@ slug: mova-tech-com
 title: Is mova-tech.com Legit? Trust Score 100/100
 description: >-
   mova-tech.com scores 100/100 on our public trust checks. Established domain —
-  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:27.367Z'
+  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:11.210Z'
 finalUrl: 'https://www.mova.tech/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 2.1 years ago.
+    - Established domain — registered 2.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-25'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-05-10'
-      ageDays: 775
-      ageYears: 2.1
-    detail: Registered 2.1 years ago (2024-05-10).
+      ageDays: 805
+      ageYears: 2.2
+    detail: Registered 2.2 years ago (2024-05-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mova-tech.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mova-tech.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mova-tech in the score above.
 

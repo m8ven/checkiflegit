@@ -4,8 +4,8 @@ slug: nixplay-com
 title: Is nixplay.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   nixplay.com scores 88/100 on our public trust checks. Established domain —
-  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:37.380Z'
+  registered 13.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:16.645Z'
 finalUrl: 'https://www.nixplay.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 13.3 years ago.
+    - Established domain — registered 13.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-03-21'
-      ageDays: 4843
-      ageYears: 13.3
-    detail: Registered 13.3 years ago (2013-03-21).
+      ageDays: 4873
+      ageYears: 13.4
+    detail: Registered 13.4 years ago (2013-03-21).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nixplay.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nixplay.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nixplay in the score above.
 

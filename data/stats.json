@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T14:06:19.827Z",
+  "generatedAt": "2026-07-24T14:57:04.567Z",
   "counts": {
     "filesOnDisk": 10960,
     "indexable": 10515,
@@ -8,18 +8,18 @@
   "contactPage": {
     "measured": 10515,
     "unmeasured": 0,
-    "missing": 1552,
-    "present": 8963,
-    "pctMissingOfAll": 14.76,
-    "pctMissingOfMeasured": 14.76
+    "missing": 1551,
+    "present": 8964,
+    "pctMissingOfAll": 14.75,
+    "pctMissingOfMeasured": 14.75
   },
   "policyPages": {
     "measured": 10515,
     "perType": {
       "privacy": {
         "measured": 10515,
-        "missing": 4117,
-        "pctMissing": 39.15
+        "missing": 4113,
+        "pctMissing": 39.12
       },
       "terms": {
         "measured": 10515,
@@ -28,13 +28,13 @@
       },
       "refund": {
         "measured": 10515,
-        "missing": 7553,
-        "pctMissing": 71.83
+        "missing": 7545,
+        "pctMissing": 71.75
       },
       "shipping": {
         "measured": 10515,
-        "missing": 7753,
-        "pctMissing": 73.73
+        "missing": 7747,
+        "pctMissing": 73.68
       }
     },
     "missingAllFour": {
@@ -42,23 +42,23 @@
       "pct": 26.05
     },
     "missingAnyOfFour": {
-      "n": 8895,
-      "pct": 84.59
+      "n": 8891,
+      "pct": 84.56
     },
     "missingAllCoreThree": {
       "n": 2894,
       "pct": 27.52
     },
     "missingAnyCoreThree": {
-      "n": 8220,
-      "pct": 78.17
+      "n": 8215,
+      "pct": 78.13
     },
     "countHeldDistribution": {
       "0": 2739,
-      "1": 2422,
-      "2": 2396,
-      "3": 1338,
-      "4": 1620
+      "1": 2416,
+      "2": 2394,
+      "3": 1342,
+      "4": 1624
     }
   },
   "reviews": {
@@ -112,8 +112,8 @@
         "pct": 11.61
       },
       "youtube": {
-        "present": 2687,
-        "pct": 25.55
+        "present": 2688,
+        "pct": 25.56
       },
       "linkedin": {
         "present": 1663,
@@ -128,12 +128,12 @@
   "verdict": {
     "tiers": {
       "strong": {
-        "n": 7891,
-        "pct": 75.05
+        "n": 7893,
+        "pct": 75.06
       },
       "moderate": {
-        "n": 1824,
-        "pct": 17.35
+        "n": 1822,
+        "pct": 17.33
       },
       "limited": {
         "n": 800,
@@ -153,8 +153,8 @@
       "pct": 7.36
     },
     "Salesforce Commerce": {
-      "n": 86,
-      "pct": 0.82
+      "n": 85,
+      "pct": 0.81
     },
     "Magento": {
       "n": 59,
@@ -173,8 +173,8 @@
       "pct": 0.03
     },
     "Undetected": {
-      "n": 1,
-      "pct": 0.01
+      "n": 2,
+      "pct": 0.02
     }
   },
   "tld": {
@@ -260,21 +260,21 @@
   "missingSignals": [
     {
       "signal": "Physical address",
-      "missing": 9119,
+      "missing": 9117,
       "measured": 10515,
-      "pctMissing": 86.72
+      "pctMissing": 86.7
     },
     {
       "signal": "Shipping policy",
-      "missing": 7753,
+      "missing": 7747,
       "measured": 10515,
-      "pctMissing": 73.73
+      "pctMissing": 73.68
     },
     {
       "signal": "Returns/refund policy",
-      "missing": 7553,
+      "missing": 7545,
       "measured": 10515,
-      "pctMissing": 71.83
+      "pctMissing": 71.75
     },
     {
       "signal": "Terms of service",
@@ -284,15 +284,15 @@
     },
     {
       "signal": "Public email address",
-      "missing": 4371,
+      "missing": 4370,
       "measured": 10515,
-      "pctMissing": 41.57
+      "pctMissing": 41.56
     },
     {
       "signal": "Privacy policy",
-      "missing": 4117,
+      "missing": 4113,
       "measured": 10515,
-      "pctMissing": 39.15
+      "pctMissing": 39.12
     },
     {
       "signal": "Any social media",
@@ -302,15 +302,15 @@
     },
     {
       "signal": "Public phone number",
-      "missing": 1860,
+      "missing": 1858,
       "measured": 10515,
-      "pctMissing": 17.69
+      "pctMissing": 17.67
     },
     {
       "signal": "Contact page",
-      "missing": 1552,
+      "missing": 1551,
       "measured": 10515,
-      "pctMissing": 14.76
+      "pctMissing": 14.75
     },
     {
       "signal": "Valid SSL",
@@ -392,21 +392,21 @@
     },
     {
       "platform": "Salesforce Commerce",
-      "n": 86,
-      "avgPolicyPagesOf4": 3.23,
-      "pctNoContactPage": 9.3,
-      "meanScore": 82.7
+      "n": 85,
+      "avgPolicyPagesOf4": 3.32,
+      "pctNoContactPage": 7.1,
+      "meanScore": 83.9
     },
     {
       "platform": "Magento",
       "n": 59,
-      "avgPolicyPagesOf4": 2.27,
+      "avgPolicyPagesOf4": 2.47,
       "pctNoContactPage": 6.8,
-      "meanScore": 80.5
+      "meanScore": 81.8
     }
   ],
   "correlationAgeScorePearson": {
     "n": 7519,
-    "r": 0.157
+    "r": 0.158
   }
 }

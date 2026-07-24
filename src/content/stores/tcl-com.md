@@ -4,8 +4,8 @@ slug: tcl-com
 title: Is tcl.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   tcl.com scores 88/100 on our public trust checks. Established domain —
-  registered 27.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:27.365Z'
+  registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:11.208Z'
 finalUrl: 'https://us.tcl.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 27.6 years ago.
+    - Established domain — registered 27.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2027-03-12'
-      daysToExpiry: 262
+      daysToExpiry: 232
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1998-12-04'
-      ageDays: 10064
-      ageYears: 27.6
-    detail: Registered 27.6 years ago (1998-12-04).
+      ageDays: 10094
+      ageYears: 27.7
+    detail: Registered 27.7 years ago (1998-12-04).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tcl.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tcl.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tcl in the score above.
 

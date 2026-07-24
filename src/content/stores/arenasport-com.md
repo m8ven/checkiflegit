@@ -1,11 +1,11 @@
 ---
 domain: arenasport.com
 slug: arenasport-com
-title: Is arenasport.com Legit? Trust Score 100/100
+title: Is arenasport.com Legit? Trust Score 88/100
 description: >-
-  arenasport.com scores 100/100 on our public trust checks. Established domain —
-  registered 27.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:29.365Z'
+  arenasport.com scores 88/100 on our public trust checks. Established domain —
+  registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:11.868Z'
 finalUrl: 'https://www.arenasport.com/en_us/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 27.3 years ago.
+    - Established domain — registered 27.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-03-16'
-      ageDays: 9962
-      ageYears: 27.3
-    detail: Registered 27.3 years ago (1999-03-16).
+      ageDays: 9992
+      ageYears: 27.4
+    detail: Registered 27.4 years ago (1999-03-16).
   contact:
-    status: pass
+    status: warn
     value:
       email: false
-      phone: true
+      phone: false
       address: true
-    detail: 'Public contact details found: phone, address.'
+    detail: 'Public contact details found: address.'
   social:
     status: pass
     value:
@@ -81,10 +81,12 @@ signals:
       instagram: true
       twitter: false
       tiktok: true
-      youtube: false
+      youtube: true
       linkedin: false
       pinterest: true
-    detail: 'Links to 4 social platform(s): facebook, instagram, tiktok, pinterest.'
+    detail: >-
+      Links to 5 social platform(s): facebook, instagram, tiktok, youtube,
+      pinterest.
   reviews:
     status: unknown
     value:
@@ -95,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-arenasport.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+arenasport.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Arenasport in the score above.
 

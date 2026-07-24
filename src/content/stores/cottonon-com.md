@@ -5,7 +5,7 @@ title: Is cottonon.com Legit? Trust Score 82/100
 description: >-
   cottonon.com scores 82/100 on our public trust checks. Established domain —
   registered 24.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:31.500Z'
+fetchedAt: '2026-07-24T14:55:13.214Z'
 finalUrl: 'https://cottonon.com/US/'
 reachable: true
 noindex: false
@@ -55,16 +55,16 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: DigiCert Inc
-      validTo: '2026-11-23'
-      daysToExpiry: 153
+      issuer: Google Trust Services
+      validTo: '2026-10-06'
+      daysToExpiry: 74
       authorized: true
-    detail: Valid certificate issued by DigiCert Inc.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2002-06-10'
-      ageDays: 8780
+      ageDays: 8810
       ageYears: 24.1
     detail: Registered 24.1 years ago (2002-06-10).
   contact:

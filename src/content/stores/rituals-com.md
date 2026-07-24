@@ -5,8 +5,8 @@ title: Is rituals.com Legit? Trust Score 43/100
 description: >-
   rituals.com scores 43/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-24T21:44:36.697Z'
-finalUrl: 'https://www.rituals.com/en-nl/splash?utm_id=97759_v0_s00_e0_tv3'
+fetchedAt: '2026-07-24T14:55:15.725Z'
+finalUrl: 'https://www.rituals.com/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,6 @@ verdict:
     buyer-protected payment methods.
   score: 43
   greenFlags:
-    - 'Built on Salesforce Commerce, an established e-commerce platform.'
     - Established domain — registered 28.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
@@ -31,19 +30,19 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.rituals.com/en-nl/splash?utm_id=97759_v0_s00_e0_tv3'
+      finalUrl: 'https://www.rituals.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: Salesforce Commerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on Salesforce Commerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
@@ -58,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-08-21'
-      ageDays: 10534
+      ageDays: 10564
       ageYears: 28.9
     detail: Registered 28.9 years ago (1997-08-21).
   contact:

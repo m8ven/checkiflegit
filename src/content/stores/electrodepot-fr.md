@@ -1,11 +1,11 @@
 ---
 domain: electrodepot.fr
 slug: electrodepot-fr
-title: Is electrodepot.fr Legit? Trust Score 76/100
+title: Is electrodepot.fr Legit? Trust Score 88/100
 description: >-
-  electrodepot.fr scores 76/100 on our public trust checks. Established domain —
-  registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:32.190Z'
+  electrodepot.fr scores 88/100 on our public trust checks. Established domain —
+  registered 22.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:13.430Z'
 finalUrl: 'https://www.electrodepot.fr/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 22.1 years ago.
+    - Established domain — registered 22.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on Magento, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Gandi
       validTo: '2027-02-19'
-      daysToExpiry: 241
+      daysToExpiry: 211
       authorized: true
     detail: Valid certificate issued by Gandi.
   domainAge:
     status: pass
     value:
       createdAt: '2004-05-25'
-      ageDays: 8065
-      ageYears: 22.1
-    detail: Registered 22.1 years ago (2004-05-25).
+      ageDays: 8095
+      ageYears: 22.2
+    detail: Registered 22.2 years ago (2004-05-25).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-electrodepot.fr looks like a well-established store. The clearest positives are that its domain has been registered for 22.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+electrodepot.fr looks like a well-established store. The clearest positives are that its domain has been registered for 22.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Electrodepot in the score above.
 

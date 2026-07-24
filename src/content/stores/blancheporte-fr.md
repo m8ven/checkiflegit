@@ -1,11 +1,11 @@
 ---
 domain: blancheporte.fr
 slug: blancheporte-fr
-title: Is blancheporte.fr Legit? Trust Score 70/100
+title: Is blancheporte.fr Legit? Trust Score 100/100
 description: >-
-  blancheporte.fr scores 70/100 on our public trust checks. Established domain —
-  registered 21.3 years ago. Maintains links to multiple social media platforms.
-fetchedAt: '2026-06-24T21:44:36.168Z'
+  blancheporte.fr scores 100/100 on our public trust checks. Established domain
+  — registered 21.4 years ago.
+fetchedAt: '2026-07-24T14:55:14.891Z'
 finalUrl: 'https://www.blancheporte.fr/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 21.3 years ago.
+    - Established domain — registered 21.4 years ago.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -43,14 +43,14 @@ signals:
         hasCartFlow: false
     detail: 'Built on Salesforce Commerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: unknown
     value: null
@@ -59,16 +59,16 @@ signals:
     status: pass
     value:
       createdAt: '2005-03-23'
-      ageDays: 7763
-      ageYears: 21.3
-    detail: Registered 21.3 years ago (2005-03-23).
+      ageDays: 7793
+      ageYears: 21.4
+    detail: Registered 21.4 years ago (2005-03-23).
   contact:
-    status: warn
+    status: pass
     value:
       email: true
-      phone: false
+      phone: true
       address: false
-    detail: 'Public contact details found: email.'
+    detail: 'Public contact details found: email, phone.'
   social:
     status: pass
     value:
@@ -92,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blancheporte.fr looks like a well-established store. The clearest positives are that its domain has been registered for 21.3 years and it runs on Salesforce Commerce, an established e-commerce platform. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+blancheporte.fr looks like a well-established store. The clearest positives are that its domain has been registered for 21.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blancheporte in the score above.
 

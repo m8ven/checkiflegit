@@ -28,6 +28,9 @@ export async function fetchSignals(rawDomain) {
       domain,
       fetchedAt,
       reachable: false,
+      // true => the server answered and refused us (bot protection / rate
+      // limit). Callers must not treat this as evidence the store is gone.
+      blocked: Boolean(http.blocked),
       signals: { http: http.signal },
     };
   }

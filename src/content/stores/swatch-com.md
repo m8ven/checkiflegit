@@ -5,7 +5,7 @@ title: Is swatch.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   swatch.com scores 70/100 on our public trust checks. Established domain —
   registered 30.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:27.368Z'
+fetchedAt: '2026-07-24T14:55:11.319Z'
 finalUrl: 'https://www.swatch.com/en-us/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-09-30'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1996-06-11'
-      ageDays: 10970
+      ageDays: 11000
       ageYears: 30.1
     detail: Registered 30.1 years ago (1996-06-11).
   contact:

@@ -1,11 +1,11 @@
 ---
 domain: gifi.fr
 slug: gifi-fr
-title: Is gifi.fr Legit? Trust Score 70/100 — Trust Checks Pass
+title: Is gifi.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  gifi.fr scores 70/100 on our public trust checks. Established domain —
-  registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:32.684Z'
+  gifi.fr scores 88/100 on our public trust checks. Established domain —
+  registered 24.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:13.962Z'
 finalUrl: 'https://www.gifi.fr/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 88
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 24.4 years ago.
+    - Established domain — registered 24.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -49,31 +49,31 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-14'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2002-01-29'
-      ageDays: 8911
-      ageYears: 24.4
-    detail: Registered 24.4 years ago (2002-01-29).
+      ageDays: 8941
+      ageYears: 24.5
+    detail: Registered 24.5 years ago (2002-01-29).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gifi.fr looks like a well-established store. The clearest positives are that its domain has been registered for 24.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gifi.fr looks like a well-established store. The clearest positives are that its domain has been registered for 24.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gifi in the score above.
 

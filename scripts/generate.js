@@ -67,6 +67,7 @@ let ok = 0;
 let skipped = 0;
 let nonStore = 0;
 let errors = 0;
+let refused = 0;
 let cursor = 0;
 
 async function worker() {
@@ -74,6 +75,14 @@ async function worker() {
     const domain = batch[cursor++];
     try {
       const result = await fetchSignals(domain);
+      // Server answered and refused us (bot protection / rate limit). Publishing
+      // a noindex "did not load" page would assert something false about a live
+      // store, so skip without writing — the domain stays in the queue and a
+      // later run can try again.
+      if (result.blocked) {
+        refused++;
+        continue;
+      }
       if (REQUIRE_STORE && result.reachable && !result.isStore) {
         nonStore++;
         await appendFile(SKIP_FILE, domain + '\n'); // record so later batches skip it
@@ -90,4 +99,4 @@ async function worker() {
 
 await Promise.all(Array.from({ length: Math.min(CONC, batch.length) }, worker));
 
-console.log(`\nDone. Indexed: ${ok}, unreachable/noindex: ${skipped}, non-store skipped: ${nonStore}, errors: ${errors}.`);
+console.log(`\nDone. Indexed: ${ok}, unreachable/noindex: ${skipped}, non-store skipped: ${nonStore}, refused (retryable): ${refused}, errors: ${errors}.`);

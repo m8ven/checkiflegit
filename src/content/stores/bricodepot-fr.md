@@ -1,11 +1,11 @@
 ---
 domain: bricodepot.fr
 slug: bricodepot-fr
-title: Is bricodepot.fr Legit? Trust Score 88/100
+title: Is bricodepot.fr Legit? Trust Score 100/100
 description: >-
-  bricodepot.fr scores 88/100 on our public trust checks. Established domain —
-  registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:31.063Z'
+  bricodepot.fr scores 100/100 on our public trust checks. Established domain —
+  registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:13.064Z'
 finalUrl: 'https://www.bricodepot.fr/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 26.1 years ago.
+    - Established domain — registered 26.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on Magento, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: GlobalSign nv-sa
       validTo: '2026-10-15'
-      daysToExpiry: 113
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by GlobalSign nv-sa.
   domainAge:
     status: pass
     value:
       createdAt: '2000-05-09'
-      ageDays: 9541
-      ageYears: 26.1
-    detail: Registered 26.1 years ago (2000-05-09).
+      ageDays: 9571
+      ageYears: 26.2
+    detail: Registered 26.2 years ago (2000-05-09).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bricodepot.fr looks like a well-established store. The clearest positives are that its domain has been registered for 26.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bricodepot.fr looks like a well-established store. The clearest positives are that its domain has been registered for 26.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bricodepot in the score above.
 

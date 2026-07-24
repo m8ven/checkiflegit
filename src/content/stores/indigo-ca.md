@@ -5,7 +5,7 @@ title: Is indigo.ca Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   indigo.ca scores 88/100 on our public trust checks. Established domain —
   registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:27.369Z'
+fetchedAt: '2026-07-24T14:55:11.432Z'
 finalUrl: 'https://www.indigo.ca/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-10-31'
-      ageDays: 9367
+      ageDays: 9397
       ageYears: 25.7
     detail: Registered 25.7 years ago (2000-10-31).
   contact:

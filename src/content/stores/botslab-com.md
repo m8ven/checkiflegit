@@ -4,8 +4,8 @@ slug: botslab-com
 title: Is botslab.com Legit? Trust Score 100/100
 description: >-
   botslab.com scores 100/100 on our public trust checks. Established domain —
-  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:27.368Z'
+  registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:11.210Z'
 finalUrl: 'https://www.botslab.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 9.5 years ago.
+    - Established domain — registered 9.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-12-28'
-      ageDays: 3465
-      ageYears: 9.5
-    detail: Registered 9.5 years ago (2016-12-28).
+      ageDays: 3494
+      ageYears: 9.6
+    detail: Registered 9.6 years ago (2016-12-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-botslab.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+botslab.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Botslab in the score above.
 

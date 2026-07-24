@@ -4,8 +4,8 @@ slug: hottopic-com
 title: Is hottopic.com Legit? Trust Score 100/100
 description: >-
   hottopic.com scores 100/100 on our public trust checks. Established domain —
-  registered 31.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:38.289Z'
+  registered 31.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:18.623Z'
 finalUrl: 'https://www.hottopic.com/homepage'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 31.3 years ago.
+    - Established domain — registered 31.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-20'
-      daysToExpiry: 89
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1995-03-14'
-      ageDays: 11425
-      ageYears: 31.3
-    detail: Registered 31.3 years ago (1995-03-14).
+      ageDays: 11455
+      ageYears: 31.4
+    detail: Registered 31.4 years ago (1995-03-14).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hottopic.com looks like a well-established store. The clearest positives are that its domain has been registered for 31.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hottopic.com looks like a well-established store. The clearest positives are that its domain has been registered for 31.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hottopic in the score above.
 

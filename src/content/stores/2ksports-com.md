@@ -4,8 +4,8 @@ slug: 2ksports-com
 title: Is 2ksports.com Legit? Trust Score 70/100
 description: >-
   2ksports.com scores 70/100 on our public trust checks. Established domain —
-  registered 24.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:27.370Z'
+  registered 24.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-24T14:55:11.791Z'
 finalUrl: 'https://2k.com/en-US/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on BigCartel, an established e-commerce platform.'
-    - Established domain — registered 24.2 years ago.
+    - Established domain — registered 24.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-10-09'
-      daysToExpiry: 108
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
     status: pass
     value:
       createdAt: '2002-04-04'
-      ageDays: 8847
-      ageYears: 24.2
-    detail: Registered 24.2 years ago (2002-04-04).
+      ageDays: 8876
+      ageYears: 24.3
+    detail: Registered 24.3 years ago (2002-04-04).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-2ksports.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+2ksports.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 2ksports in the score above.
 
