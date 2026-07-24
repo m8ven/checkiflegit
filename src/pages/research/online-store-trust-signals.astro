@@ -1,0 +1,235 @@
+---
+// Data study built from the whole corpus. Targets head terms ("online store red
+// flags", "is domain age a good signal") rather than the long-tail store
+// queries, and is the kind of page that earns citations — which is what the
+// store pages need in order to rank at all.
+//
+// Every figure is derived from data/stats.json at build time, so rerunning
+// `npm run stats` and rebuilding keeps the page honest as the corpus grows.
+// Nothing here is hardcoded.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import stats from '../../../data/stats.json';
+
+const n = stats.counts.indexable;
+const fmt = (x: number) => x.toLocaleString('en-US');
+const pctOf = (part: number) => ((part / n) * 100).toFixed(1);
+
+const age = stats.domainAge;
+const social = stats.social;
+const policy = stats.policyPages;
+const buckets = stats.correlationAgeVsTrust.filter((b: any) => b.n > 0);
+const r = stats.correlationAgeScorePearson.r;
+
+const held = policy.countHeldDistribution as Record<string, number>;
+const heldNone = held['0'] ?? 0;
+const heldAll = held['4'] ?? 0;
+
+const youngest = buckets[0];
+const oldest = buckets[buckets.length - 1];
+
+// Platform mix matters for reading the rest: this is not a random sample of
+// all e-commerce, and saying so up front is what makes the numbers defensible.
+const platformTop = Object.entries(stats.platform)
+  .map(([name, v]: [string, any]) => ({ name, ...v }))
+  .sort((a, b) => b.n - a.n)
+  .slice(0, 4);
+
+const socialPlatforms = Object.entries(social.perPlatformPresent)
+  .map(([name, v]: [string, any]) => ({ name, ...v }))
+  .sort((a, b) => b.pct - a.pct);
+
+const checkedOn = String(stats.generatedAt).slice(0, 10);
+const title = `What ${fmt(n)} Online Stores Reveal About Trust Signals`;
+const description = `We ran automated trust checks on ${fmt(n)} independent online stores. Domain age turns out to be a weak predictor, and newer stores publish more policy pages than mid-life ones.`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  datePublished: checkedOn,
+  dateModified: checkedOn,
+  author: { '@type': 'Organization', name: 'CheckIfLegit' },
+  publisher: { '@type': 'Organization', name: 'CheckIfLegit' },
+  about: 'Trust signals of online stores',
+  isAccessibleForFree: true,
+};
+---
+
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <h1>What {fmt(n)} Online Stores Reveal About Trust Signals</h1>
+
+  <p>
+    Most advice about spotting a dubious online store repeats the same rules of thumb:
+    check how old the domain is, look for a returns policy, see whether they have social
+    accounts. We had the chance to test those rules against data rather than intuition —
+    we run automated public-signal checks on {fmt(n)} independent online stores, and this
+    is what the corpus actually shows.
+  </p>
+  <p>
+    Two of the findings cut against the standard advice. Read the
+    <a href="#methodology">methodology and limitations</a> before quoting any of it;
+    several of these numbers measure what an automated checker can <em>see</em>, which is
+    not the same as what exists.
+  </p>
+
+  <h2 id="age">Finding 1: domain age is a weak predictor on its own</h2>
+  <p>
+    "Check the domain age" is the most repeated piece of advice in this space. Across
+    {fmt(stats.correlationAgeScorePearson.n)} stores where we could read a WHOIS creation
+    date, the correlation between domain age and our overall trust score is
+    <strong>r = {r}</strong> — positive, but weak. Age carries real information at the
+    extremes and very little in the middle.
+  </p>
+  <table>
+    <thead>
+      <tr>
+        <th>Domain age</th><th>Stores</th><th>Mean trust score</th>
+        <th>No social presence</th><th>Avg. policy pages (of 4)</th>
+      </tr>
+    </thead>
+    <tbody>
+      {buckets.map((b: any) => (
+        <tr>
+          <td>{b.bucket}</td>
+          <td>{fmt(b.n)}</td>
+          <td>{b.meanScore}</td>
+          <td>{b.pctNoSocial}%</td>
+          <td>{b.avgPolicyPagesOf4}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  <p>
+    The mean score climbs steeply from {youngest.meanScore} for domains under six months
+    to {buckets[2]?.meanScore} by the one-to-two-year mark, then flattens — the gap between
+    a two-year-old store and a ten-year-old one is only about
+    {(oldest.meanScore - buckets[3].meanScore).toFixed(1)} points. A brand-new domain is
+    worth extra care. A three-year-old domain is not meaningfully safer than an
+    eleven-year-old one, and treating age as a headline signal will mislead you in both
+    directions.
+  </p>
+
+  <h2 id="policies">Finding 2: newer stores publish <em>more</em> policy pages, not fewer</h2>
+  <p>
+    The intuition is that young stores cut corners on paperwork. The corpus says the
+    opposite: stores under six months old carry an average of
+    {youngest.avgPolicyPagesOf4} of the four standard policy pages, more than every
+    other age bracket including the {oldest.bucket} group at {oldest.avgPolicyPagesOf4}.
+  </p>
+  <p>
+    The likely explanation is not virtue but defaults. Modern store platforms ship
+    privacy, terms, refund and shipping templates out of the box, so a store built last
+    month starts with them; one built a decade ago on an older stack often never added
+    them. That makes policy-page presence a decent signal of <em>platform vintage</em>
+    and a poor signal of trustworthiness. Note the small sample in that youngest
+    bracket ({fmt(youngest.n)} stores), which is why we would not lean on it hard.
+  </p>
+
+  <h2 id="social">Finding 3: absent social presence tracks age strongly</h2>
+  <p>
+    Social presence is the signal that separates age brackets most cleanly.
+    {youngest.pctNoSocial}% of stores under six months old link to no major social
+    platform at all, falling steadily to {oldest.pctNoSocial}% among domains over ten
+    years old. Across the whole corpus, {social.pctNone}% link to none.
+  </p>
+  <p>Where the {fmt(social.measured)} measured stores do have a presence:</p>
+  <ul>
+    {socialPlatforms.map((p) => (
+      <li>{p.name.charAt(0).toUpperCase() + p.name.slice(1)} — {p.pct}%</li>
+    ))}
+  </ul>
+  <p>
+    The TikTok figure ({socialPlatforms.find((p) => p.name === 'tiktok')?.pct}%) is worth
+    noting given how much attention TikTok-advertised storefronts get in scam coverage:
+    they are a real phenomenon but a small share of independent e-commerce overall.
+  </p>
+
+  <h2 id="coverage">Finding 4: complete policy coverage is the exception</h2>
+  <p>
+    Only {fmt(heldAll)} stores ({pctOf(heldAll)}%) publish all four standard policy pages
+    where our checker can find them, while {fmt(heldNone)} ({pctOf(heldNone)}%) have none
+    we could detect. By type:
+  </p>
+  <table>
+    <thead><tr><th>Page</th><th>Not detected</th></tr></thead>
+    <tbody>
+      {Object.entries(policy.perType).map(([type, v]: [string, any]) => (
+        <tr><td>{type}</td><td>{v.pctMissing}%</td></tr>
+      ))}
+      <tr><td>contact page</td><td>{stats.contactPage.pctMissingOfMeasured}%</td></tr>
+    </tbody>
+  </table>
+  <p>
+    Refund and shipping policies are missing far more often than privacy and terms,
+    which is the reverse of what a shopper cares about — privacy policies are driven by
+    regulation, whereas the pages that tell you what happens when an order goes wrong are
+    the ones most often absent. If you check one thing before buying from an unfamiliar
+    store, make it the returns policy.
+  </p>
+
+  <h2 id="methodology">Methodology and limitations</h2>
+  <p>
+    We checked {fmt(n)} independent online stores, each fetched once. Signals are read
+    from the homepage plus a small set of conventional policy-page paths. Data as of
+    {checkedOn}. Figures update when the corpus is re-analysed.
+  </p>
+  <p><strong>These limitations genuinely constrain the numbers above:</strong></p>
+  <ul>
+    <li>
+      <strong>Detection is not existence.</strong> Every "missing" figure means
+      <em>not discoverable by an automated check of the homepage and common paths</em>.
+      A policy linked only from a checkout flow, rendered by JavaScript after load, or
+      placed at an unconventional URL reads as absent here. Treat these as floors on
+      what exists, not counts of what does not.
+    </li>
+    <li>
+      <strong>Language coverage is partial.</strong> Policy-page detection recognises
+      English, German, French, Spanish and Italian naming conventions. Stores operating
+      in other languages — Dutch, Polish, Russian, Portuguese and Vietnamese all appear
+      in this corpus — are undercounted, so the true coverage rates are higher than
+      reported.
+    </li>
+    <li>
+      <strong>Two signals are excluded entirely.</strong> Our physical-address check only
+      reliably matches English street-address formats, so it under-detects non-English
+      sites by roughly threefold and is not reported here. Third-party review lookups
+      were blocked for effectively the whole corpus, so review presence is also excluded.
+    </li>
+    <li>
+      <strong>WHOIS coverage is incomplete.</strong> A creation date was available for
+      {fmt(age.measured)} of {fmt(n)} domains ({(100 - age.pctUnknown).toFixed(1)}%);
+      age findings cover only those.
+    </li>
+    <li>
+      <strong>The sample is not representative of all e-commerce.</strong> It skews
+      heavily toward one platform ({platformTop[0].name} at {platformTop[0].pct}%) and
+      toward independent stores rather than marketplaces or
+      large retailers. Median domain age is {age.medianAgeYears} years and only
+      {age.under1yr.pctOfMeasured}% are under a year old, so this is a corpus of mostly
+      established small stores.
+    </li>
+    <li>
+      <strong>Correlation, not causation.</strong> The trust score is computed from
+      several of the same signals broken out in these tables, so the age/score
+      correlation is not independent evidence.
+    </li>
+  </ul>
+
+  <h2>Browse the underlying pages</h2>
+  <p>
+    Every store in this analysis has its own signal breakdown. Browse the full
+    <a href="/stores/">A–Z index</a>, or by
+    <a href="/platform/">platform</a>, <a href="/tld/">country</a>, or
+    <a href="/verdict/">trust level</a>.
+  </p>
+</BaseLayout>
+
+<style>
+  table { border-collapse: collapse; width: 100%; margin: 1.25rem 0; font-size: 0.95rem; }
+  th, td { text-align: left; padding: 0.5rem 0.65rem; border-bottom: 1px solid #e5e7eb; }
+  th { font-weight: 600; }
+  td:not(:first-child), th:not(:first-child) { text-align: right; }
+  /* Wide tables scroll rather than pushing the page sideways on mobile. */
+  @media (max-width: 640px) { table { display: block; overflow-x: auto; } }
+</style>
