@@ -12,6 +12,7 @@
     "harvest": "node scripts/harvest-seeds.js",
     "ingest": "node scripts/ingest-csv.js",
     "generate": "node scripts/generate.js",
+    "stats": "node scripts/stats.js",
     "astro": "astro"
   },
   "dependencies": {

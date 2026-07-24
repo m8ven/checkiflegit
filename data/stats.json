@@ -1,0 +1,412 @@
+{
+  "generatedAt": "2026-07-24T14:06:19.827Z",
+  "counts": {
+    "filesOnDisk": 10960,
+    "indexable": 10515,
+    "noindexExcluded": 445
+  },
+  "contactPage": {
+    "measured": 10515,
+    "unmeasured": 0,
+    "missing": 1552,
+    "present": 8963,
+    "pctMissingOfAll": 14.76,
+    "pctMissingOfMeasured": 14.76
+  },
+  "policyPages": {
+    "measured": 10515,
+    "perType": {
+      "privacy": {
+        "measured": 10515,
+        "missing": 4117,
+        "pctMissing": 39.15
+      },
+      "terms": {
+        "measured": 10515,
+        "missing": 4929,
+        "pctMissing": 46.88
+      },
+      "refund": {
+        "measured": 10515,
+        "missing": 7553,
+        "pctMissing": 71.83
+      },
+      "shipping": {
+        "measured": 10515,
+        "missing": 7753,
+        "pctMissing": 73.73
+      }
+    },
+    "missingAllFour": {
+      "n": 2739,
+      "pct": 26.05
+    },
+    "missingAnyOfFour": {
+      "n": 8895,
+      "pct": 84.59
+    },
+    "missingAllCoreThree": {
+      "n": 2894,
+      "pct": 27.52
+    },
+    "missingAnyCoreThree": {
+      "n": 8220,
+      "pct": 78.17
+    },
+    "countHeldDistribution": {
+      "0": 2739,
+      "1": 2422,
+      "2": 2396,
+      "3": 1338,
+      "4": 1620
+    }
+  },
+  "reviews": {
+    "trustpilotValueTally": {
+      "trustpilot=unknown": 10515
+    },
+    "signalStatusTally": {
+      "unknown": 10515
+    }
+  },
+  "domainAge": {
+    "measured": 7519,
+    "unknown": 2996,
+    "pctUnknown": 28.49,
+    "under6mo": {
+      "n": 66,
+      "pctOfMeasured": 0.88,
+      "pctOfAll": 0.63
+    },
+    "under1yr": {
+      "n": 225,
+      "pctOfMeasured": 2.99,
+      "pctOfAll": 2.14
+    },
+    "under2yr": {
+      "n": 671,
+      "pctOfMeasured": 8.92,
+      "pctOfAll": 6.38
+    },
+    "medianAgeYears": 8.8
+  },
+  "social": {
+    "measured": 10515,
+    "noneFound": 2512,
+    "pctNone": 23.89,
+    "perPlatformPresent": {
+      "facebook": {
+        "present": 6945,
+        "pct": 66.05
+      },
+      "instagram": {
+        "present": 5813,
+        "pct": 55.28
+      },
+      "twitter": {
+        "present": 2496,
+        "pct": 23.74
+      },
+      "tiktok": {
+        "present": 1221,
+        "pct": 11.61
+      },
+      "youtube": {
+        "present": 2687,
+        "pct": 25.55
+      },
+      "linkedin": {
+        "present": 1663,
+        "pct": 15.82
+      },
+      "pinterest": {
+        "present": 1435,
+        "pct": 13.65
+      }
+    }
+  },
+  "verdict": {
+    "tiers": {
+      "strong": {
+        "n": 7891,
+        "pct": 75.05
+      },
+      "moderate": {
+        "n": 1824,
+        "pct": 17.35
+      },
+      "limited": {
+        "n": 800,
+        "pct": 7.61
+      }
+    },
+    "meanScore": 77.5,
+    "medianScore": 82
+  },
+  "platform": {
+    "WooCommerce": {
+      "n": 9574,
+      "pct": 91.05
+    },
+    "Shopify": {
+      "n": 774,
+      "pct": 7.36
+    },
+    "Salesforce Commerce": {
+      "n": 86,
+      "pct": 0.82
+    },
+    "Magento": {
+      "n": 59,
+      "pct": 0.56
+    },
+    "PrestaShop": {
+      "n": 10,
+      "pct": 0.1
+    },
+    "BigCommerce": {
+      "n": 8,
+      "pct": 0.08
+    },
+    "BigCartel": {
+      "n": 3,
+      "pct": 0.03
+    },
+    "Undetected": {
+      "n": 1,
+      "pct": 0.01
+    }
+  },
+  "tld": {
+    "distinct": 270,
+    "top15": [
+      {
+        "tld": ".com",
+        "n": 4727,
+        "pct": 44.95
+      },
+      {
+        "tld": ".de",
+        "n": 365,
+        "pct": 3.47
+      },
+      {
+        "tld": ".ru",
+        "n": 319,
+        "pct": 3.03
+      },
+      {
+        "tld": ".org",
+        "n": 281,
+        "pct": 2.67
+      },
+      {
+        "tld": ".co.uk",
+        "n": 260,
+        "pct": 2.47
+      },
+      {
+        "tld": ".nl",
+        "n": 250,
+        "pct": 2.38
+      },
+      {
+        "tld": ".it",
+        "n": 234,
+        "pct": 2.23
+      },
+      {
+        "tld": ".fr",
+        "n": 231,
+        "pct": 2.2
+      },
+      {
+        "tld": ".pl",
+        "n": 226,
+        "pct": 2.15
+      },
+      {
+        "tld": ".net",
+        "n": 215,
+        "pct": 2.04
+      },
+      {
+        "tld": ".es",
+        "n": 156,
+        "pct": 1.48
+      },
+      {
+        "tld": ".com.au",
+        "n": 153,
+        "pct": 1.46
+      },
+      {
+        "tld": ".com.br",
+        "n": 136,
+        "pct": 1.29
+      },
+      {
+        "tld": ".eu",
+        "n": 107,
+        "pct": 1.02
+      },
+      {
+        "tld": ".vn",
+        "n": 105,
+        "pct": 1
+      }
+    ]
+  },
+  "missingSignals": [
+    {
+      "signal": "Physical address",
+      "missing": 9119,
+      "measured": 10515,
+      "pctMissing": 86.72
+    },
+    {
+      "signal": "Shipping policy",
+      "missing": 7753,
+      "measured": 10515,
+      "pctMissing": 73.73
+    },
+    {
+      "signal": "Returns/refund policy",
+      "missing": 7553,
+      "measured": 10515,
+      "pctMissing": 71.83
+    },
+    {
+      "signal": "Terms of service",
+      "missing": 4929,
+      "measured": 10515,
+      "pctMissing": 46.88
+    },
+    {
+      "signal": "Public email address",
+      "missing": 4371,
+      "measured": 10515,
+      "pctMissing": 41.57
+    },
+    {
+      "signal": "Privacy policy",
+      "missing": 4117,
+      "measured": 10515,
+      "pctMissing": 39.15
+    },
+    {
+      "signal": "Any social media",
+      "missing": 2512,
+      "measured": 10515,
+      "pctMissing": 23.89
+    },
+    {
+      "signal": "Public phone number",
+      "missing": 1860,
+      "measured": 10515,
+      "pctMissing": 17.69
+    },
+    {
+      "signal": "Contact page",
+      "missing": 1552,
+      "measured": 10515,
+      "pctMissing": 14.76
+    },
+    {
+      "signal": "Valid SSL",
+      "missing": 36,
+      "measured": 10407,
+      "pctMissing": 0.35
+    }
+  ],
+  "correlationAgeVsTrust": [
+    {
+      "bucket": "<6 months",
+      "n": 66,
+      "pctNoCorePolicy": 30.3,
+      "pctNoContactPage": 16.7,
+      "pctNoSocial": 54.5,
+      "avgPolicyPagesOf4": 1.95,
+      "meanScore": 46.9
+    },
+    {
+      "bucket": "6–12 months",
+      "n": 159,
+      "pctNoCorePolicy": 23.3,
+      "pctNoContactPage": 11.9,
+      "pctNoSocial": 44,
+      "avgPolicyPagesOf4": 1.82,
+      "meanScore": 59.4
+    },
+    {
+      "bucket": "1–2 years",
+      "n": 446,
+      "pctNoCorePolicy": 32.1,
+      "pctNoContactPage": 14.6,
+      "pctNoSocial": 41.5,
+      "avgPolicyPagesOf4": 1.6,
+      "meanScore": 77.4
+    },
+    {
+      "bucket": "2–5 years",
+      "n": 1488,
+      "pctNoCorePolicy": 29,
+      "pctNoContactPage": 15.3,
+      "pctNoSocial": 30.3,
+      "avgPolicyPagesOf4": 1.67,
+      "meanScore": 79.3
+    },
+    {
+      "bucket": "5–10 years",
+      "n": 2007,
+      "pctNoCorePolicy": 28.6,
+      "pctNoContactPage": 14.5,
+      "pctNoSocial": 23.4,
+      "avgPolicyPagesOf4": 1.64,
+      "meanScore": 80.3
+    },
+    {
+      "bucket": "10+ years",
+      "n": 3353,
+      "pctNoCorePolicy": 22.7,
+      "pctNoContactPage": 9.1,
+      "pctNoSocial": 18.5,
+      "avgPolicyPagesOf4": 1.78,
+      "meanScore": 82.2
+    }
+  ],
+  "correlationPlatformVsTrust": [
+    {
+      "platform": "WooCommerce",
+      "n": 9574,
+      "avgPolicyPagesOf4": 1.53,
+      "pctNoContactPage": 15.6,
+      "meanScore": 76.8
+    },
+    {
+      "platform": "Shopify",
+      "n": 774,
+      "avgPolicyPagesOf4": 3.4,
+      "pctNoContactPage": 6.2,
+      "meanScore": 85.5
+    },
+    {
+      "platform": "Salesforce Commerce",
+      "n": 86,
+      "avgPolicyPagesOf4": 3.23,
+      "pctNoContactPage": 9.3,
+      "meanScore": 82.7
+    },
+    {
+      "platform": "Magento",
+      "n": 59,
+      "avgPolicyPagesOf4": 2.27,
+      "pctNoContactPage": 6.8,
+      "meanScore": 80.5
+    }
+  ],
+  "correlationAgeScorePearson": {
+    "n": 7519,
+    "r": 0.157
+  }
+}
