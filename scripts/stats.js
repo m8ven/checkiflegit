@@ -235,6 +235,55 @@ const PLATS = ['facebook', 'instagram', 'twitter', 'tiktok', 'youtube', 'linkedi
     .sort((a, b) => b.pctMissing - a.pctMissing);
 }
 
+// ---------- 9b. Per-platform signal detail ----------
+// Powers /research/shopify-vs-woocommerce. Kept here rather than computed in
+// the page so the weekly refetch refreshes the study for free.
+{
+  const P = {};
+  for (const s of stores) {
+    const name = val(s, 'platform')?.platform ?? 'Undetected';
+    P[name] ??= { n: 0, privacy: 0, terms: 0, refund: 0, shipping: 0, contactPage: 0,
+                  noSocial: 0, ages: [], ssl: 0, sslN: 0, email: 0, phone: 0, contactN: 0, scores: [] };
+    const b = P[name];
+    b.n++;
+    const pg = val(s, 'pages') || {};
+    for (const k of ['privacy', 'terms', 'refund', 'shipping']) if (pg[k] === true) b[k]++;
+    if (pg.contact === true) b.contactPage++;
+    const so = val(s, 'social');
+    if (so && PLATS.every((p) => so[p] !== true)) b.noSocial++;
+    const days = val(s, 'domainAge')?.ageDays;
+    if (typeof days === 'number') b.ages.push(days);
+    const sslStatus = status(s, 'ssl');
+    if (sslStatus !== 'unknown' && sslStatus !== 'missing') { b.sslN++; if (sslStatus === 'pass') b.ssl++; }
+    const c = val(s, 'contact');
+    if (c) { b.contactN++; if (c.email) b.email++; if (c.phone) b.phone++; }
+    if (typeof s.verdict?.score === 'number') b.scores.push(s.verdict.score);
+  }
+  const median = (arr) => {
+    if (!arr.length) return null;
+    const a = [...arr].sort((x, y) => x - y);
+    return a[Math.floor(a.length / 2)];
+  };
+  out.platformDetail = Object.entries(P)
+    .filter(([, b]) => b.n >= 50)   // below this the percentages are noise
+    .sort((a, b) => b[1].n - a[1].n)
+    .map(([platform, b]) => ({
+      platform,
+      n: b.n,
+      pctPrivacy: rate(b.privacy, b.n),
+      pctTerms: rate(b.terms, b.n),
+      pctRefund: rate(b.refund, b.n),
+      pctShipping: rate(b.shipping, b.n),
+      pctContactPage: rate(b.contactPage, b.n),
+      pctNoSocial: rate(b.noSocial, b.n),
+      medianAgeYears: median(b.ages) != null ? +(median(b.ages) / 365.25).toFixed(1) : null,
+      pctSslValid: rate(b.ssl, b.sslN),
+      pctEmail: rate(b.email, b.contactN),
+      pctPhone: rate(b.phone, b.contactN),
+      meanScore: b.scores.length ? +(b.scores.reduce((x, y) => x + y, 0) / b.scores.length).toFixed(1) : null,
+    }));
+}
+
 // ---------- 10. Correlations ----------
 {
   const CORE = ['privacy', 'terms', 'refund'];

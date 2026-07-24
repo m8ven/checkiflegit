@@ -1,0 +1,65 @@
+---
+// Hub for the research studies. Exists so studies are reachable from one nav
+// link as more are added, rather than each new one arriving as an orphan.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import stats from '../../../data/stats.json';
+
+const n = stats.counts.indexable;
+const fmt = (x: number) => x.toLocaleString('en-US');
+const checkedOn = String(stats.generatedAt).slice(0, 10);
+
+const STUDIES = [
+  {
+    href: '/research/online-store-trust-signals',
+    title: `What ${fmt(n)} online stores reveal about trust signals`,
+    blurb:
+      'Domain age is a weaker predictor than the standard advice assumes, and stores under six months old publish more policy pages than older ones — platform defaults, not diligence.',
+  },
+  {
+    href: '/research/shopify-vs-woocommerce',
+    title: 'Shopify vs WooCommerce: trust signals compared',
+    blurb:
+      'Shopify stores publish policies far more often; WooCommerce stores list contact details more often. Platform predicts what you can verify, not whether a merchant is trustworthy.',
+  },
+];
+
+const title = 'Research — CheckIfLegit';
+const description = `Data studies on online-store trust signals, built from automated checks on ${fmt(n)} independent stores.`;
+---
+
+<BaseLayout title={title} description={description}>
+  <h1>Research</h1>
+  <p>
+    We run automated public-signal checks on {fmt(n)} independent online stores. These
+    studies report what that corpus shows — including where it contradicts the usual
+    advice, and where our own measurements are too weak to support a claim.
+  </p>
+  <p>Figures across all studies reflect the corpus as of {checkedOn}.</p>
+
+  <ul class="studies">
+    {STUDIES.map((s) => (
+      <li>
+        <h2><a href={s.href}>{s.title}</a></h2>
+        <p>{s.blurb}</p>
+      </li>
+    ))}
+  </ul>
+
+  <h2>Using these figures</h2>
+  <p>
+    Every study states its methodology and its limitations, including signals we exclude
+    because our detection is not good enough to report them honestly. If you are citing
+    a number, read that section first — several of the figures measure what an automated
+    checker can discover, which is a floor on what exists rather than a count of it.
+  </p>
+  <p>
+    Questions or corrections: <a href="mailto:hello@checkiflegit.com">hello@checkiflegit.com</a>.
+  </p>
+</BaseLayout>
+
+<style>
+  .studies { list-style: none; padding: 0; }
+  .studies li { margin: 0 0 1.75rem; }
+  .studies h2 { margin: 0 0 0.35rem; font-size: 1.15rem; }
+  .studies p { margin: 0; }
+</style>

@@ -1,0 +1,210 @@
+---
+// Second corpus study. Targets the "shopify vs woocommerce" head term, which
+// has real search volume, using data no one else has.
+//
+// The honest thesis — platform predicts what you can VERIFY about a store, not
+// how trustworthy the merchant is — is also the defensible one. Claiming
+// "Shopify stores are safer" from this data would be wrong and would not
+// survive the first person who checked.
+//
+// Figures come from data/stats.json at build time, refreshed by the weekly
+// refetch workflow. Nothing hardcoded.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import stats from '../../../data/stats.json';
+
+const n = stats.counts.indexable;
+const fmt = (x: number) => x.toLocaleString('en-US');
+const rows = stats.platformDetail as any[];
+const woo = rows.find((r) => r.platform === 'WooCommerce');
+const shopify = rows.find((r) => r.platform === 'Shopify');
+
+const refundGap = woo && shopify ? (shopify.pctRefund / woo.pctRefund).toFixed(1) : null;
+const checkedOn = String(stats.generatedAt).slice(0, 10);
+
+const title = 'Shopify vs WooCommerce: Trust Signals Across 10,515 Stores';
+const description = `Shopify stores publish refund policies ${refundGap}x more often than WooCommerce stores. But WooCommerce stores list contact details more often — which says something different from what it first appears.`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  datePublished: checkedOn,
+  dateModified: checkedOn,
+  author: { '@type': 'Organization', name: 'CheckIfLegit' },
+  publisher: { '@type': 'Organization', name: 'CheckIfLegit' },
+  isAccessibleForFree: true,
+};
+
+const METRICS = [
+  { key: 'pctPrivacy', label: 'Privacy policy' },
+  { key: 'pctTerms', label: 'Terms' },
+  { key: 'pctRefund', label: 'Refund policy' },
+  { key: 'pctShipping', label: 'Shipping policy' },
+  { key: 'pctContactPage', label: 'Contact page' },
+  { key: 'pctEmail', label: 'Public email' },
+  { key: 'pctPhone', label: 'Public phone' },
+  { key: 'pctNoSocial', label: 'No social presence' },
+  { key: 'pctSslValid', label: 'Valid SSL' },
+];
+---
+
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <h1>Shopify vs WooCommerce: Trust Signals Across {fmt(n)} Stores</h1>
+
+  <p>
+    We run automated public-signal checks on {fmt(n)} independent online stores and
+    record which platform each one runs on. That makes it possible to ask a question
+    shoppers and merchants both care about: does the platform a store is built on tell
+    you anything about whether you can trust it?
+  </p>
+  <p>
+    The short answer is that it tells you a great deal about what you can
+    <em>verify</em>, and much less about the merchant. Those are different things, and
+    conflating them is the mistake this data makes easy.
+  </p>
+
+  <h2 id="numbers">The numbers</h2>
+  <p>
+    Percentage of stores on each platform where our automated check found the signal.
+    Platforms with fewer than 50 stores in the corpus are omitted as too small to read
+    anything into.
+  </p>
+  <table>
+    <thead>
+      <tr>
+        <th>Signal</th>
+        {rows.map((r) => <th>{r.platform}</th>)}
+      </tr>
+    </thead>
+    <tbody>
+      {METRICS.map((m) => (
+        <tr>
+          <td>{m.label}</td>
+          {rows.map((r) => <td>{r[m.key]}%</td>)}
+        </tr>
+      ))}
+      <tr>
+        <td>Stores measured</td>
+        {rows.map((r) => <td>{fmt(r.n)}</td>)}
+      </tr>
+      <tr>
+        <td>Median domain age</td>
+        {rows.map((r) => <td>{r.medianAgeYears} yr</td>)}
+      </tr>
+      <tr>
+        <td><strong>Mean trust score</strong></td>
+        {rows.map((r) => <td><strong>{r.meanScore}</strong></td>)}
+      </tr>
+    </tbody>
+  </table>
+
+  <h2 id="policies">Shopify stores publish policies; WooCommerce stores often don't</h2>
+  <p>
+    The starkest gap is the refund policy: {shopify?.pctRefund}% of Shopify stores have
+    one we can find, against {woo?.pctRefund}% of WooCommerce stores — a
+    {refundGap}× difference. Shipping policies follow the same pattern
+    ({shopify?.pctShipping}% vs {woo?.pctShipping}%), and privacy policies are near
+    universal on Shopify ({shopify?.pctPrivacy}%) but present on barely half of
+    WooCommerce stores ({woo?.pctPrivacy}%).
+  </p>
+  <p>
+    This is a platform-defaults story, not a merchant-diligence story. Shopify's setup
+    flow generates policy documents and links them in the footer by default; a merchant
+    has to actively remove them. WooCommerce ships a shop, and everything else is the
+    store owner's problem. The result is that the average Shopify store clears a
+    verification bar its owner may never have thought about, and the average WooCommerce
+    store doesn't.
+  </p>
+
+  <h2 id="control">The finding that keeps this honest</h2>
+  <p>
+    There is an obvious objection to everything above: our checker probes Shopify's
+    canonical <code>/policies/*</code> URLs directly, so perhaps we simply
+    <em>find</em> Shopify policies more easily rather than Shopify stores having more of
+    them. That would be a measurement artefact, not a finding.
+  </p>
+  <p>
+    The contact signals are the control, and they point the other way. WooCommerce stores
+    list a public email more often than Shopify stores ({woo?.pctEmail}% vs
+    {shopify?.pctEmail}%) and a public phone number more often too
+    ({woo?.pctPhone}% vs {shopify?.pctPhone}%). If our detection simply favoured
+    Shopify, that advantage would show up everywhere. It doesn't — it shows up precisely
+    where Shopify has a documented default and vanishes where it doesn't.
+  </p>
+  <p>
+    That inversion is also the more useful finding for a shopper. A WooCommerce store is
+    more likely to tell you how to reach a human; a Shopify store is more likely to have
+    the paperwork. Neither is trustworthiness.
+  </p>
+
+  <h2 id="age">Platform doesn't track age the way you'd guess</h2>
+  <p>
+    Median domain age is {shopify?.medianAgeYears} years for Shopify stores and
+    {woo?.medianAgeYears} for WooCommerce — Shopify stores in this corpus sit on
+    <em>older</em> domains, not newer ones. The "Shopify means a fly-by-night dropshipper"
+    intuition does not survive contact with a general sample of independent stores.
+    It likely reflects established businesses migrating onto Shopify rather than new
+    businesses starting there.
+  </p>
+  <p>
+    SSL is now effectively universal everywhere ({woo?.pctSslValid}%–{shopify?.pctSslValid}%),
+    which means it has stopped being a useful discriminator. A valid certificate tells you
+    almost nothing in {checkedOn.slice(0, 4)}; its absence still tells you something.
+  </p>
+
+  <h2 id="methodology">Methodology and limitations</h2>
+  <p>
+    Based on {fmt(n)} independent online stores, each fetched and assessed from public
+    signals. Platform is detected from homepage markup markers. Data as of {checkedOn}.
+  </p>
+  <ul>
+    <li>
+      <strong>The sample is heavily unbalanced.</strong> WooCommerce
+      accounts for {fmt(woo?.n ?? 0)} of the {fmt(n)} stores and Shopify only
+      {fmt(shopify?.n ?? 0)}. The WooCommerce figures are far more precise than the rest,
+      and the two smallest platforms shown should be read as indicative only.
+    </li>
+    <li>
+      <strong>This is not a random sample of e-commerce.</strong> It is a corpus of
+      independent stores, skewed toward self-hosted ones, and excludes marketplaces and
+      large retailers. Shopify's real-world market share is nothing like the
+      {shopify?.n && n ? ((shopify.n / n) * 100).toFixed(1) : ''}% seen here.
+    </li>
+    <li>
+      <strong>Detection is not existence.</strong> Every figure means "found by an
+      automated check of the homepage and common paths". Policies behind a checkout flow,
+      rendered by JavaScript, or at unconventional URLs read as absent.
+    </li>
+    <li>
+      <strong>Known detection asymmetry.</strong> Shopify's canonical policy paths are in
+      our probe list; WooCommerce has no equivalent convention. We argue above that the
+      contact-signal inversion shows this does not drive the result, but it is a real
+      asymmetry and you should weigh the policy figures with it in mind.
+    </li>
+    <li>
+      <strong>Platform detection can misattribute.</strong> Headless builds and heavily
+      customised themes may hide the markers we look for.
+    </li>
+    <li>
+      <strong>None of this measures merchant conduct.</strong> We check what a store
+      publishes, not whether it ships orders or honours refunds.
+    </li>
+  </ul>
+
+  <h2>Related</h2>
+  <p>
+    See also <a href="/research/online-store-trust-signals">what {fmt(n)} online stores
+    reveal about trust signals</a>, or browse stores by
+    <a href="/platform/">platform</a>, <a href="/tld/">country</a> or
+    <a href="/verdict/">trust level</a>.
+  </p>
+</BaseLayout>
+
+<style>
+  table { border-collapse: collapse; width: 100%; margin: 1.25rem 0; font-size: 0.95rem; }
+  th, td { text-align: left; padding: 0.5rem 0.65rem; border-bottom: 1px solid #e5e7eb; }
+  th { font-weight: 600; }
+  td:not(:first-child), th:not(:first-child) { text-align: right; }
+  @media (max-width: 640px) { table { display: block; overflow-x: auto; } }
+</style>

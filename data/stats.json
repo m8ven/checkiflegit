@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T14:57:04.567Z",
+  "generatedAt": "2026-07-24T15:12:49.441Z",
   "counts": {
     "filesOnDisk": 10960,
     "indexable": 10515,
@@ -317,6 +317,68 @@
       "missing": 36,
       "measured": 10407,
       "pctMissing": 0.35
+    }
+  ],
+  "platformDetail": [
+    {
+      "platform": "WooCommerce",
+      "n": 9574,
+      "pctPrivacy": 58,
+      "pctTerms": 49.43,
+      "pctRefund": 22.85,
+      "pctShipping": 22.27,
+      "pctContactPage": 84.44,
+      "pctNoSocial": 25.19,
+      "medianAgeYears": 8.4,
+      "pctSslValid": 99.2,
+      "pctEmail": 59.38,
+      "pctPhone": 83.32,
+      "meanScore": 76.8
+    },
+    {
+      "platform": "Shopify",
+      "n": 774,
+      "pctPrivacy": 92.76,
+      "pctTerms": 92.38,
+      "pctRefund": 86.56,
+      "pctShipping": 68.6,
+      "pctContactPage": 93.8,
+      "pctNoSocial": 11.63,
+      "medianAgeYears": 11.4,
+      "pctSslValid": 99.48,
+      "pctEmail": 52.58,
+      "pctPhone": 71.45,
+      "meanScore": 85.5
+    },
+    {
+      "platform": "Salesforce Commerce",
+      "n": 85,
+      "pctPrivacy": 85.88,
+      "pctTerms": 89.41,
+      "pctRefund": 81.18,
+      "pctShipping": 75.29,
+      "pctContactPage": 92.94,
+      "pctNoSocial": 5.88,
+      "medianAgeYears": 28.5,
+      "pctSslValid": 94.94,
+      "pctEmail": 25.88,
+      "pctPhone": 77.65,
+      "meanScore": 83.9
+    },
+    {
+      "platform": "Magento",
+      "n": 59,
+      "pctPrivacy": 69.49,
+      "pctTerms": 74.58,
+      "pctRefund": 54.24,
+      "pctShipping": 49.15,
+      "pctContactPage": 93.22,
+      "pctNoSocial": 5.08,
+      "medianAgeYears": 23.6,
+      "pctSslValid": 96.61,
+      "pctEmail": 37.29,
+      "pctPhone": 74.58,
+      "meanScore": 81.8
     }
   ],
   "correlationAgeVsTrust": [
