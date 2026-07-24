@@ -1,10 +1,11 @@
 ---
 domain: my-ds.ch
 slug: my-ds-ch
-title: Is my-ds.ch Legit? Trust Signal Check
+title: Is my-ds.ch Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for my-ds.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  my-ds.ch scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T15:14:19.152Z'
 finalUrl: 'https://my-ds.ch/'
 reachable: true

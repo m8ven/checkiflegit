@@ -1,10 +1,10 @@
 ---
 domain: 24nst.ru
 slug: 24nst-ru
-title: Is 24nst.ru Legit? Trust Signal Check
+title: Is 24nst.ru Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 24nst.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  24nst.ru scores 100/100 on our public trust checks. Established domain —
+  registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:04.548Z'
 finalUrl: 'https://24nst.ru/'
 reachable: true

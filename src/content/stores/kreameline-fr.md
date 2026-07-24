@@ -1,10 +1,10 @@
 ---
 domain: kreameline.fr
 slug: kreameline-fr
-title: Is kreameline.fr Legit? Trust Signal Check
+title: Is kreameline.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kreameline.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kreameline.fr scores 100/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:54.541Z'
 finalUrl: 'https://kreameline.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: titus.de
 slug: titus-de
-title: Is titus.de Legit? Trust Signal Check
+title: Is titus.de Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for titus.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  titus.de scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T15:27:41.448Z'
 finalUrl: 'https://www.titus.de/'
 reachable: true

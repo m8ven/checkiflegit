@@ -1,10 +1,10 @@
 ---
 domain: colorica.ru
 slug: colorica-ru
-title: Is colorica.ru Legit? Trust Signal Check
+title: Is colorica.ru Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for colorica.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  colorica.ru scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:22:30.631Z'
 finalUrl: 'https://colorica.ru/'
 reachable: true

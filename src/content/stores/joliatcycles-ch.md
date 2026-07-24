@@ -1,10 +1,10 @@
 ---
 domain: joliatcycles.ch
 slug: joliatcycles-ch
-title: Is joliatcycles.ch Legit? Trust Signal Check
+title: Is joliatcycles.ch Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for joliatcycles.ch: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  joliatcycles.ch scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:10:24.575Z'
 finalUrl: 'https://www.joliatcycles.ch/'
 reachable: true

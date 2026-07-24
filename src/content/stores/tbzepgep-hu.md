@@ -1,10 +1,10 @@
 ---
 domain: tbzepgep.hu
 slug: tbzepgep-hu
-title: Is tbzepgep.hu Legit? Trust Signal Check
+title: Is tbzepgep.hu Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for tbzepgep.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  tbzepgep.hu scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:33:23.224Z'
 finalUrl: 'https://tbzepgep.hu/'
 reachable: true

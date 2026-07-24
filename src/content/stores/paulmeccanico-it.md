@@ -1,10 +1,10 @@
 ---
 domain: paulmeccanico.it
 slug: paulmeccanico-it
-title: Is paulmeccanico.it Legit? Trust Signal Check
+title: Is paulmeccanico.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for paulmeccanico.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  paulmeccanico.it scores 88/100 on our public trust checks. Established domain
+  — registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:57.966Z'
 finalUrl: 'https://paulmeccanico.it/'
 reachable: true

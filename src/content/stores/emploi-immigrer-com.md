@@ -1,10 +1,10 @@
 ---
 domain: emploi.immigrer.com
 slug: emploi-immigrer-com
-title: Is emploi.immigrer.com Legit? Trust Signal Check
+title: Is emploi.immigrer.com Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for emploi.immigrer.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  emploi.immigrer.com scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:26:35.123Z'
 finalUrl: 'https://emploi.immigrer.com/'
 reachable: true

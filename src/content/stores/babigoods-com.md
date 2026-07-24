@@ -1,10 +1,10 @@
 ---
 domain: babigoods.com
 slug: babigoods-com
-title: Is babigoods.com Legit? Trust Signal Check
+title: Is babigoods.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for babigoods.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  babigoods.com scores 88/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:39.431Z'
 finalUrl: 'https://babigoods.com/'
 reachable: true

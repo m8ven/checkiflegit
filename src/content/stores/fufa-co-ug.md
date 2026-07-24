@@ -1,10 +1,10 @@
 ---
 domain: fufa.co.ug
 slug: fufa-co-ug
-title: Is fufa.co.ug Legit? Trust Signal Check
+title: Is fufa.co.ug Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fufa.co.ug: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fufa.co.ug scores 100/100 on our public trust checks. Established domain —
+  registered 20.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:52.984Z'
 finalUrl: 'https://fufa.co.ug/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: hanhtinhxanh.vn
 slug: hanhtinhxanh-vn
-title: Is hanhtinhxanh.vn Legit? Trust Signal Check
+title: Is hanhtinhxanh.vn Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for hanhtinhxanh.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  hanhtinhxanh.vn scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:00:07.387Z'
 finalUrl: 'https://hanhtinhxanh.vn/'
 reachable: true

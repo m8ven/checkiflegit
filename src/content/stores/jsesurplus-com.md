@@ -1,10 +1,10 @@
 ---
 domain: jsesurplus.com
 slug: jsesurplus-com
-title: Is jsesurplus.com Legit? Trust Signal Check
+title: Is jsesurplus.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for jsesurplus.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jsesurplus.com scores 100/100 on our public trust checks. Established domain —
+  registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:45.318Z'
 finalUrl: 'https://jsesurplus.com/'
 reachable: true

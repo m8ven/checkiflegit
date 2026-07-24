@@ -1,10 +1,10 @@
 ---
 domain: ljudshopen.se
 slug: ljudshopen-se
-title: Is ljudshopen.se Legit? Trust Signal Check
+title: Is ljudshopen.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ljudshopen.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ljudshopen.se scores 88/100 on our public trust checks. Established domain —
+  registered 26 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:36:35.750Z'
 finalUrl: 'https://www.ljudshopen.se/'
 reachable: true

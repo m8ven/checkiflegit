@@ -1,10 +1,10 @@
 ---
 domain: kgsea.org
 slug: kgsea-org
-title: Is kgsea.org Legit? Trust Signal Check
+title: Is kgsea.org Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kgsea.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kgsea.org scores 88/100 on our public trust checks. Established domain —
+  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:42.555Z'
 finalUrl: 'https://kgsea.org/'
 reachable: true

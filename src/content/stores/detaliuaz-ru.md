@@ -1,10 +1,10 @@
 ---
 domain: detaliuaz.ru
 slug: detaliuaz-ru
-title: Is detaliuaz.ru Legit? Trust Signal Check
+title: Is detaliuaz.ru Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for detaliuaz.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  detaliuaz.ru scores 88/100 on our public trust checks. Established domain —
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:54.739Z'
 finalUrl: 'https://detaliuaz.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: asisports.com
 slug: asisports-com
-title: Is asisports.com Legit? Trust Signal Check
+title: Is asisports.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for asisports.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  asisports.com scores 73/100 on our public trust checks. Established domain —
+  registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:08.493Z'
 finalUrl: 'https://asisports.com/'
 reachable: true

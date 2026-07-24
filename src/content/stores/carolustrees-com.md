@@ -1,10 +1,10 @@
 ---
 domain: carolustrees.com
 slug: carolustrees-com
-title: Is carolustrees.com Legit? Trust Signal Check
+title: Is carolustrees.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for carolustrees.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  carolustrees.com scores 88/100 on our public trust checks. Established domain
+  — registered 25.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:12.611Z'
 finalUrl: 'https://www.carolustrees.com/'
 reachable: true

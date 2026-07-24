@@ -1,10 +1,10 @@
 ---
 domain: grams28.com
 slug: grams28-com
-title: Is grams28.com Legit? Trust Signal Check
+title: Is grams28.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for grams28.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  grams28.com scores 100/100 on our public trust checks. Established domain —
+  registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:36.316Z'
 finalUrl: 'https://www.grams28.com/'
 reachable: true

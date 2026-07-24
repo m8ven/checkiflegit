@@ -1,10 +1,10 @@
 ---
 domain: only-satin.com
 slug: only-satin-com
-title: Is only-satin.com Legit? Trust Signal Check
+title: Is only-satin.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for only-satin.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  only-satin.com scores 85/100 on our public trust checks. Established domain —
+  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:02.604Z'
 finalUrl: 'https://www.only-satin.com/'
 reachable: true

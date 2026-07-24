@@ -1,10 +1,10 @@
 ---
 domain: maniveselibasdati.lv
 slug: maniveselibasdati-lv
-title: Is maniveselibasdati.lv Legit? Trust Signal Check
+title: Is maniveselibasdati.lv Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for maniveselibasdati.lv: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  maniveselibasdati.lv scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:24:24.993Z'
 finalUrl: 'https://www.maniveselibasdati.lv/'
 reachable: true

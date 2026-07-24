@@ -1,10 +1,10 @@
 ---
 domain: balliamoballando.it
 slug: balliamoballando-it
-title: Is balliamoballando.it Legit? Trust Signal Check
+title: Is balliamoballando.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for balliamoballando.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  balliamoballando.it scores 88/100 on our public trust checks. Established
+  domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:45.791Z'
 finalUrl: 'https://balliamoballando.it/'
 reachable: true

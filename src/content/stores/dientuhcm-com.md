@@ -1,10 +1,10 @@
 ---
 domain: dientuhcm.com
 slug: dientuhcm-com
-title: Is dientuhcm.com Legit? Trust Signal Check
+title: Is dientuhcm.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for dientuhcm.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  dientuhcm.com scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:40:03.973Z'
 finalUrl: 'https://dientuhcm.com/'
 reachable: true

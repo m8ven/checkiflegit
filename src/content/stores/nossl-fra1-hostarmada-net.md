@@ -1,10 +1,10 @@
 ---
 domain: nossl.fra1.hostarmada.net
 slug: nossl-fra1-hostarmada-net
-title: Is nossl.fra1.hostarmada.net Legit? Trust Signal Check
+title: Is nossl.fra1.hostarmada.net Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for nossl.fra1.hostarmada.net: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nossl.fra1.hostarmada.net scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:40.130Z'
 finalUrl: 'https://nossl.fra1.hostarmada.net/'
 reachable: true

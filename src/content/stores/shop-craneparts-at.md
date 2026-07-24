@@ -1,10 +1,10 @@
 ---
 domain: shop.craneparts.at
 slug: shop-craneparts-at
-title: Is shop.craneparts.at Legit? Trust Signal Check
+title: Is shop.craneparts.at Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.craneparts.at: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.craneparts.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:51:07.847Z'
 finalUrl: 'https://shop.craneparts.at/'
 reachable: true

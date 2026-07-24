@@ -1,10 +1,10 @@
 ---
 domain: dmipackaging.com.au
 slug: dmipackaging-com-au
-title: Is dmipackaging.com.au Legit? Trust Signal Check
+title: Is dmipackaging.com.au Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for dmipackaging.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dmipackaging.com.au scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:01:18.465Z'
 finalUrl: 'https://www.dmipackaging.com.au/'
 reachable: true

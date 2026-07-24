@@ -1,10 +1,10 @@
 ---
 domain: colonykiller.com.fj
 slug: colonykiller-com-fj
-title: Is colonykiller.com.fj Legit? Trust Signal Check
+title: Is colonykiller.com.fj Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for colonykiller.com.fj: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  colonykiller.com.fj scores 43/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:23:23.880Z'
 finalUrl: 'https://colonykiller.com.fj/'
 reachable: true

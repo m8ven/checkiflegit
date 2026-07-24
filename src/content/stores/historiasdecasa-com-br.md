@@ -1,10 +1,10 @@
 ---
 domain: historiasdecasa.com.br
 slug: historiasdecasa-com-br
-title: Is historiasdecasa.com.br Legit? Trust Signal Check
+title: Is historiasdecasa.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for historiasdecasa.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  historiasdecasa.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:23:49.243Z'
 finalUrl: 'https://www.historiasdecasa.com.br/'
 reachable: true

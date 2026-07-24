@@ -1,10 +1,10 @@
 ---
 domain: ecodeco-design.com
 slug: ecodeco-design-com
-title: Is ecodeco-design.com Legit? Trust Signal Check
+title: Is ecodeco-design.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for ecodeco-design.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ecodeco-design.com scores 73/100 on our public trust checks. Established
+  domain — registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:07.661Z'
 finalUrl: 'https://ecodeco-design.com/'
 reachable: true

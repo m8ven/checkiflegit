@@ -1,10 +1,10 @@
 ---
 domain: budgetgreens.co
 slug: budgetgreens-co
-title: Is budgetgreens.co Legit? Trust Signal Check
+title: Is budgetgreens.co Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for budgetgreens.co: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  budgetgreens.co scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:27:39.542Z'
 finalUrl: 'https://budgetgreens.co/'
 reachable: true

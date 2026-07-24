@@ -1,10 +1,10 @@
 ---
 domain: marmorealondon.com
 slug: marmorealondon-com
-title: Is marmorealondon.com Legit? Trust Signal Check
+title: Is marmorealondon.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for marmorealondon.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  marmorealondon.com scores 88/100 on our public trust checks. Established
+  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:22.927Z'
 finalUrl: 'https://marmorealondon.com/'
 reachable: true

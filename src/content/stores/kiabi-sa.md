@@ -1,10 +1,11 @@
 ---
 domain: kiabi.sa
 slug: kiabi-sa
-title: Is kiabi.sa Legit? Trust Signal Check
+title: Is kiabi.sa Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kiabi.sa: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kiabi.sa scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:12:36.532Z'
 finalUrl: 'https://kiabi.sa/'
 reachable: true

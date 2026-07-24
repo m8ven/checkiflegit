@@ -1,11 +1,10 @@
 ---
 domain: vintagetechnologies.co.zm
 slug: vintagetechnologies-co-zm
-title: Is vintagetechnologies.co.zm Legit? Trust Signal Check
+title: Is vintagetechnologies.co.zm Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for vintagetechnologies.co.zm: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  vintagetechnologies.co.zm scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:08:36.545Z'
 finalUrl: 'https://vintagetechnologies.co.zm/'
 reachable: true

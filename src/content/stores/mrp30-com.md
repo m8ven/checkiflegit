@@ -1,10 +1,10 @@
 ---
 domain: mrp30.com
 slug: mrp30-com
-title: Is mrp30.com Legit? Trust Signal Check
+title: Is mrp30.com Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mrp30.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mrp30.com scores 94/100 on our public trust checks. Established domain —
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:56:56.418Z'
 finalUrl: 'https://mrp30.com/'
 reachable: true

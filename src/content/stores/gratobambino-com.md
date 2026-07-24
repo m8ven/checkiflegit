@@ -1,10 +1,10 @@
 ---
 domain: gratobambino.com
 slug: gratobambino-com
-title: Is gratobambino.com Legit? Trust Signal Check
+title: Is gratobambino.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for gratobambino.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gratobambino.com scores 100/100 on our public trust checks. Established domain
+  — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:24.234Z'
 finalUrl: 'https://gratobambino.com/'
 reachable: true

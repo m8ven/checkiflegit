@@ -1,10 +1,10 @@
 ---
 domain: bazabtc.com
 slug: bazabtc-com
-title: Is bazabtc.com Legit? Trust Signal Check
+title: Is bazabtc.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bazabtc.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bazabtc.com scores 82/100 on our public trust checks. Established domain —
+  registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:12.872Z'
 finalUrl: 'https://www.bazabtc.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: importtrade.store
 slug: importtrade-store
-title: Is importtrade.store Legit? Trust Signal Check
+title: Is importtrade.store Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for importtrade.store: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  importtrade.store scores 73/100 on our public trust checks. Established domain
+  — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:17.907Z'
 finalUrl: 'https://importtrade.store/'
 reachable: true

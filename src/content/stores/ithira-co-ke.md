@@ -1,10 +1,10 @@
 ---
 domain: ithira.co.ke
 slug: ithira-co-ke
-title: Is ithira.co.ke Legit? Trust Signal Check
+title: Is ithira.co.ke Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ithira.co.ke: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ithira.co.ke scores 100/100 on our public trust checks. Established domain —
+  registered 11 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:49.154Z'
 finalUrl: 'https://www.ithira.co.ke/'
 reachable: true

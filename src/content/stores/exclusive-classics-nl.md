@@ -1,10 +1,10 @@
 ---
 domain: exclusive-classics.nl
 slug: exclusive-classics-nl
-title: Is exclusive-classics.nl Legit? Trust Signal Check
+title: Is exclusive-classics.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for exclusive-classics.nl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  exclusive-classics.nl scores 88/100 on our public trust checks. Established
+  domain — registered 17.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:24.022Z'
 finalUrl: 'https://www.exclusive-classics.nl/'
 reachable: true

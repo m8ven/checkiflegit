@@ -1,10 +1,10 @@
 ---
 domain: mixedbymarcmozart.com
 slug: mixedbymarcmozart-com
-title: Is mixedbymarcmozart.com Legit? Trust Signal Check
+title: Is mixedbymarcmozart.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for mixedbymarcmozart.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mixedbymarcmozart.com scores 70/100 on our public trust checks. Established
+  domain — registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:53.827Z'
 finalUrl: 'https://mixedbymarcmozart.com/?v=7c6d99660c8a'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lulla-buy.co.za
 slug: lulla-buy-co-za
-title: Is lulla-buy.co.za Legit? Trust Signal Check
+title: Is lulla-buy.co.za Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for lulla-buy.co.za: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lulla-buy.co.za scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:50:49.155Z'
 finalUrl: 'https://lulla-buy.co.za/'
 reachable: true

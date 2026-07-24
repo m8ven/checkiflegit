@@ -1,10 +1,10 @@
 ---
 domain: tactical-solutions.eu
 slug: tactical-solutions-eu
-title: Is tactical-solutions.eu Legit? Trust Signal Check
+title: Is tactical-solutions.eu Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for tactical-solutions.eu: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tactical-solutions.eu scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:56.458Z'
 finalUrl: 'https://tactical-solutions.eu/'
 reachable: true

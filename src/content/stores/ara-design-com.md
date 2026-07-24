@@ -1,10 +1,10 @@
 ---
 domain: ara-design.com
 slug: ara-design-com
-title: Is ara-design.com Legit? Trust Signal Check
+title: Is ara-design.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ara-design.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ara-design.com scores 88/100 on our public trust checks. Established domain —
+  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:02.757Z'
 finalUrl: 'https://ara-design.com/'
 reachable: true

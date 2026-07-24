@@ -1,10 +1,10 @@
 ---
 domain: mukki.it
 slug: mukki-it
-title: Is mukki.it Legit? Trust Signal Check
+title: Is mukki.it Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mukki.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mukki.it scores 76/100 on our public trust checks. Established domain —
+  registered 27.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:23.608Z'
 finalUrl: 'https://www.mukki.it/'
 reachable: true

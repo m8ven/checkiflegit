@@ -1,10 +1,10 @@
 ---
 domain: musee-unterlinden.com
 slug: musee-unterlinden-com
-title: Is musee-unterlinden.com Legit? Trust Signal Check
+title: Is musee-unterlinden.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for musee-unterlinden.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  musee-unterlinden.com scores 100/100 on our public trust checks. Established
+  domain — registered 27.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:42.988Z'
 finalUrl: 'https://www.musee-unterlinden.com/'
 reachable: true

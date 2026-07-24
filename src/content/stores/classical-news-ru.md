@@ -1,10 +1,10 @@
 ---
 domain: classical-news.ru
 slug: classical-news-ru
-title: Is classical-news.ru Legit? Trust Signal Check
+title: Is classical-news.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for classical-news.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  classical-news.ru scores 43/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:38:35.245Z'
 finalUrl: 'https://classical-news.ru/'
 reachable: true

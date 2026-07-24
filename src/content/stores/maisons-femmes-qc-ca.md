@@ -1,10 +1,10 @@
 ---
 domain: maisons-femmes.qc.ca
 slug: maisons-femmes-qc-ca
-title: Is maisons-femmes.qc.ca Legit? Trust Signal Check
+title: Is maisons-femmes.qc.ca Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for maisons-femmes.qc.ca: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  maisons-femmes.qc.ca scores 88/100 on our public trust checks. Established
+  domain — registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:02.450Z'
 finalUrl: 'https://maisons-femmes.qc.ca/'
 reachable: true

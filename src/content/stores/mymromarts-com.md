@@ -1,10 +1,10 @@
 ---
 domain: mymromarts.com
 slug: mymromarts-com
-title: Is mymromarts.com Legit? Trust Signal Check
+title: Is mymromarts.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mymromarts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mymromarts.com scores 100/100 on our public trust checks. Established domain —
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:26.352Z'
 finalUrl: 'https://www.mymromarts.com/'
 reachable: true

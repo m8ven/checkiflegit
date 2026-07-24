@@ -1,10 +1,10 @@
 ---
 domain: mindtaker.org
 slug: mindtaker-org
-title: Is mindtaker.org Legit? Trust Signal Check
+title: Is mindtaker.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mindtaker.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mindtaker.org scores 100/100 on our public trust checks. Established domain —
+  registered 21.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:41.125Z'
 finalUrl: 'https://www.mindtaker.org/'
 reachable: true

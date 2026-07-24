@@ -1,10 +1,10 @@
 ---
 domain: gifi.fr
 slug: gifi-fr
-title: Is gifi.fr Legit? Trust Signal Check
+title: Is gifi.fr Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for gifi.fr: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  gifi.fr scores 70/100 on our public trust checks. Established domain —
+  registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:32.684Z'
 finalUrl: 'https://www.gifi.fr/'
 reachable: true

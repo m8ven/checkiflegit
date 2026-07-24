@@ -1,10 +1,11 @@
 ---
 domain: teachmeanatomy.info
 slug: teachmeanatomy-info
-title: Is teachmeanatomy.info Legit? Trust Signal Check
+title: Is teachmeanatomy.info Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for teachmeanatomy.info: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  teachmeanatomy.info scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-24T21:46:43.093Z'
 finalUrl: 'https://teachmeanatomy.info/'
 reachable: true

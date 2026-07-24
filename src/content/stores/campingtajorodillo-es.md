@@ -1,10 +1,10 @@
 ---
 domain: campingtajorodillo.es
 slug: campingtajorodillo-es
-title: Is campingtajorodillo.es Legit? Trust Signal Check
+title: Is campingtajorodillo.es Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for campingtajorodillo.es: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  campingtajorodillo.es scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:37:38.641Z'
 finalUrl: 'https://campingtajorodillo.es/'
 reachable: true

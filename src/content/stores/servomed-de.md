@@ -1,10 +1,10 @@
 ---
 domain: servomed.de
 slug: servomed-de
-title: Is servomed.de Legit? Trust Signal Check
+title: Is servomed.de Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for servomed.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  servomed.de scores 49/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T03:27:18.887Z'
 finalUrl: 'https://www.servomed.de/'
 reachable: true

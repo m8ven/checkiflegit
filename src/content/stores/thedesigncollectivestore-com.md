@@ -1,10 +1,11 @@
 ---
 domain: thedesigncollectivestore.com
 slug: thedesigncollectivestore-com
-title: Is thedesigncollectivestore.com Legit? Trust Signal Check
+title: Is thedesigncollectivestore.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for thedesigncollectivestore.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thedesigncollectivestore.com scores 88/100 on our public trust checks.
+  Established domain — registered 9.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:08:53.065Z'
 finalUrl: 'https://thedesigncollectivestore.com/'
 reachable: true

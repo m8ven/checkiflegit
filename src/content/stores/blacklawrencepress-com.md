@@ -1,10 +1,10 @@
 ---
 domain: blacklawrencepress.com
 slug: blacklawrencepress-com
-title: Is blacklawrencepress.com Legit? Trust Signal Check
+title: Is blacklawrencepress.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for blacklawrencepress.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  blacklawrencepress.com scores 76/100 on our public trust checks. Established
+  domain — registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:47.930Z'
 finalUrl: 'https://blacklawrencepress.com/'
 reachable: true

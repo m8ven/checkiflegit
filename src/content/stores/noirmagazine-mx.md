@@ -1,10 +1,10 @@
 ---
 domain: noirmagazine.mx
 slug: noirmagazine-mx
-title: Is noirmagazine.mx Legit? Trust Signal Check
+title: Is noirmagazine.mx Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for noirmagazine.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  noirmagazine.mx scores 100/100 on our public trust checks. Established domain
+  — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:38:53.135Z'
 finalUrl: 'https://noirmagazine.mx/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: clarysagecollege.com
 slug: clarysagecollege-com
-title: Is clarysagecollege.com Legit? Trust Signal Check
+title: Is clarysagecollege.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for clarysagecollege.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  clarysagecollege.com scores 58/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T03:38:33.240Z'
 finalUrl: 'https://clarysagecollege.com/'
 reachable: true

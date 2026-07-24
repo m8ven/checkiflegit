@@ -1,10 +1,10 @@
 ---
 domain: jmcrafts.gr
 slug: jmcrafts-gr
-title: Is jmcrafts.gr Legit? Trust Signal Check
+title: Is jmcrafts.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for jmcrafts.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jmcrafts.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:39:46.599Z'
 finalUrl: 'https://jmcrafts.gr/'
 reachable: true

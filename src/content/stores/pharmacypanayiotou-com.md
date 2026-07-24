@@ -1,10 +1,10 @@
 ---
 domain: pharmacypanayiotou.com
 slug: pharmacypanayiotou-com
-title: Is pharmacypanayiotou.com Legit? Trust Signal Check
+title: Is pharmacypanayiotou.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pharmacypanayiotou.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pharmacypanayiotou.com scores 100/100 on our public trust checks. Established
+  domain — registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:25:26.003Z'
 finalUrl: 'https://www.pharmacypanayiotou.com/'
 reachable: true

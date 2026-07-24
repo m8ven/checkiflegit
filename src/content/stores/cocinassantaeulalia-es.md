@@ -1,10 +1,10 @@
 ---
 domain: cocinassantaeulalia.es
 slug: cocinassantaeulalia-es
-title: Is cocinassantaeulalia.es Legit? Trust Signal Check
+title: Is cocinassantaeulalia.es Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for cocinassantaeulalia.es: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cocinassantaeulalia.es scores 49/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T15:15:46.287Z'
 finalUrl: 'https://www.cocinassantaeulalia.es/'
 reachable: true

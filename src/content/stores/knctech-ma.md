@@ -1,10 +1,10 @@
 ---
 domain: knctech.ma
 slug: knctech-ma
-title: Is knctech.ma Legit? Trust Signal Check
+title: Is knctech.ma Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for knctech.ma: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  knctech.ma scores 100/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:28.824Z'
 finalUrl: 'https://knctech.ma/'
 reachable: true

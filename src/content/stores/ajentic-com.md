@@ -1,10 +1,10 @@
 ---
 domain: ajentic.com
 slug: ajentic-com
-title: Is ajentic.com Legit? Trust Signal Check
+title: Is ajentic.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ajentic.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ajentic.com scores 76/100 on our public trust checks. Established domain —
+  registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:25.824Z'
 finalUrl: 'https://ajentic.com/'
 reachable: true

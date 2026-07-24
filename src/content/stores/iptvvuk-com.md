@@ -1,10 +1,10 @@
 ---
 domain: iptvvuk.com
 slug: iptvvuk-com
-title: Is iptvvuk.com Legit? Trust Signal Check
+title: Is iptvvuk.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for iptvvuk.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  iptvvuk.com scores 73/100 on our public trust checks. Established domain —
+  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:09.244Z'
 finalUrl: 'https://www.iptvvuk.com/'
 reachable: true

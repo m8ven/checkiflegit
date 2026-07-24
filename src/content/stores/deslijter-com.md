@@ -1,10 +1,10 @@
 ---
 domain: deslijter.com
 slug: deslijter-com
-title: Is deslijter.com Legit? Trust Signal Check
+title: Is deslijter.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for deslijter.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  deslijter.com scores 76/100 on our public trust checks. Established domain —
+  registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:22.785Z'
 finalUrl: 'https://www.deslijter.com/'
 reachable: true

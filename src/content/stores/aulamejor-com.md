@@ -1,10 +1,10 @@
 ---
 domain: aulamejor.com
 slug: aulamejor-com
-title: Is aulamejor.com Legit? Trust Signal Check
+title: Is aulamejor.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for aulamejor.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aulamejor.com scores 70/100 on our public trust checks. Established domain —
+  registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:46.916Z'
 finalUrl: 'https://www.aulamejor.com/'
 reachable: true

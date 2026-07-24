@@ -1,10 +1,10 @@
 ---
 domain: neclex.be
 slug: neclex-be
-title: Is neclex.be Legit? Trust Signal Check
+title: Is neclex.be Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for neclex.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  neclex.be scores 82/100 on our public trust checks. Established domain —
+  registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:22:06.964Z'
 finalUrl: 'https://neclex.be/'
 reachable: true

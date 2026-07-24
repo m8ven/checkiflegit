@@ -1,10 +1,10 @@
 ---
 domain: bermorzone.com.ph
 slug: bermorzone-com-ph
-title: Is bermorzone.com.ph Legit? Trust Signal Check
+title: Is bermorzone.com.ph Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bermorzone.com.ph: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bermorzone.com.ph scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:36:16.150Z'
 finalUrl: 'https://bermorzone.com.ph/'
 reachable: true

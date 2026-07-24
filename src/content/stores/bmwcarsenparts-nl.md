@@ -1,10 +1,10 @@
 ---
 domain: bmwcarsenparts.nl
 slug: bmwcarsenparts-nl
-title: Is bmwcarsenparts.nl Legit? Trust Signal Check
+title: Is bmwcarsenparts.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for bmwcarsenparts.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bmwcarsenparts.nl scores 73/100 on our public trust checks. Established domain
+  — registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:44.947Z'
 finalUrl: 'https://www.bmwcarsenparts.nl/'
 reachable: true

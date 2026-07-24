@@ -1,10 +1,10 @@
 ---
 domain: cleancutsports.com
 slug: cleancutsports-com
-title: Is cleancutsports.com Legit? Trust Signal Check
+title: Is cleancutsports.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for cleancutsports.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cleancutsports.com scores 82/100 on our public trust checks. Established
+  domain — registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:58.801Z'
 finalUrl: 'https://cleancutsports.com/'
 reachable: true

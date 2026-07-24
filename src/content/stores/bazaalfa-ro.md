@@ -1,10 +1,10 @@
 ---
 domain: bazaalfa.ro
 slug: bazaalfa-ro
-title: Is bazaalfa.ro Legit? Trust Signal Check
+title: Is bazaalfa.ro Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for bazaalfa.ro: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  bazaalfa.ro scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:26:20.504Z'
 finalUrl: 'https://bazaalfa.ro/'
 reachable: true

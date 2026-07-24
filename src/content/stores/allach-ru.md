@@ -1,10 +1,10 @@
 ---
 domain: allach.ru
 slug: allach-ru
-title: Is allach.ru Legit? Trust Signal Check
+title: Is allach.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for allach.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  allach.ru scores 73/100 on our public trust checks. Established domain —
+  registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:16:19.808Z'
 finalUrl: 'https://allach.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sebentadigital.com
 slug: sebentadigital-com
-title: Is sebentadigital.com Legit? Trust Signal Check
+title: Is sebentadigital.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sebentadigital.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sebentadigital.com scores 88/100 on our public trust checks. Established
+  domain — registered 18.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:52.608Z'
 finalUrl: 'https://www.sebentadigital.com/'
 reachable: true

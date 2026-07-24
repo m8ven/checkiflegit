@@ -1,10 +1,10 @@
 ---
 domain: lisen-industry.com
 slug: lisen-industry-com
-title: Is lisen-industry.com Legit? Trust Signal Check
+title: Is lisen-industry.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for lisen-industry.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lisen-industry.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:10.147Z'
 finalUrl: 'https://lisen-industry.com/'
 reachable: true

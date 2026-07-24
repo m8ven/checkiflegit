@@ -1,10 +1,10 @@
 ---
 domain: el-despertador.com
 slug: el-despertador-com
-title: Is el-despertador.com Legit? Trust Signal Check
+title: Is el-despertador.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for el-despertador.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  el-despertador.com scores 100/100 on our public trust checks. Established
+  domain — registered 15 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:26.144Z'
 finalUrl: 'https://el-despertador.com/'
 reachable: true

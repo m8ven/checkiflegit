@@ -1,10 +1,10 @@
 ---
 domain: marfon.pt
 slug: marfon-pt
-title: Is marfon.pt Legit? Trust Signal Check
+title: Is marfon.pt Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for marfon.pt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  marfon.pt scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:43:22.776Z'
 finalUrl: 'https://marfon.pt/'
 reachable: true

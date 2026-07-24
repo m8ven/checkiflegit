@@ -1,10 +1,10 @@
 ---
 domain: letasomine.com
 slug: letasomine-com
-title: Is letasomine.com Legit? Trust Signal Check
+title: Is letasomine.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for letasomine.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  letasomine.com scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:19:33.648Z'
 finalUrl: 'https://letasomine.com/'
 reachable: true

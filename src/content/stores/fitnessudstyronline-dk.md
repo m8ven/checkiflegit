@@ -1,11 +1,10 @@
 ---
 domain: fitnessudstyronline.dk
 slug: fitnessudstyronline-dk
-title: Is fitnessudstyronline.dk Legit? Trust Signal Check
+title: Is fitnessudstyronline.dk Legit? Trust Score 34/100
 description: >-
-  An automated trust-signal check for fitnessudstyronline.dk: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  fitnessudstyronline.dk scores 34/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T02:27:48.980Z'
 finalUrl: 'https://fitnessudstyronline.dk/'
 reachable: true

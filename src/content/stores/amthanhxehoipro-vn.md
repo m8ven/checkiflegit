@@ -1,10 +1,10 @@
 ---
 domain: amthanhxehoipro.vn
 slug: amthanhxehoipro-vn
-title: Is amthanhxehoipro.vn Legit? Trust Signal Check
+title: Is amthanhxehoipro.vn Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for amthanhxehoipro.vn: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  amthanhxehoipro.vn scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:19.381Z'
 finalUrl: 'https://amthanhxehoipro.vn/'
 reachable: true

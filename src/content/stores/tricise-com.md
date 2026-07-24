@@ -1,10 +1,10 @@
 ---
 domain: tricise.com
 slug: tricise-com
-title: Is tricise.com Legit? Trust Signal Check
+title: Is tricise.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tricise.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tricise.com scores 82/100 on our public trust checks. Established domain —
+  registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:49.385Z'
 finalUrl: 'https://tricise.com/'
 reachable: true

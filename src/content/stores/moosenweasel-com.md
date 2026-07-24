@@ -1,10 +1,10 @@
 ---
 domain: moosenweasel.com
 slug: moosenweasel-com
-title: Is moosenweasel.com Legit? Trust Signal Check
+title: Is moosenweasel.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for moosenweasel.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  moosenweasel.com scores 88/100 on our public trust checks. Established domain
+  — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:15.116Z'
 finalUrl: 'https://www.moosenweasel.com/'
 reachable: true

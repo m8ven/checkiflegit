@@ -1,10 +1,10 @@
 ---
 domain: syem-nl.com.mx
 slug: syem-nl-com-mx
-title: Is syem-nl.com.mx Legit? Trust Signal Check
+title: Is syem-nl.com.mx Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for syem-nl.com.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  syem-nl.com.mx scores 94/100 on our public trust checks. Established domain —
+  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:05.064Z'
 finalUrl: 'https://syem-nl.com.mx/'
 reachable: true

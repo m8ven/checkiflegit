@@ -1,10 +1,10 @@
 ---
 domain: sharewareonsale.com
 slug: sharewareonsale-com
-title: Is sharewareonsale.com Legit? Trust Signal Check
+title: Is sharewareonsale.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sharewareonsale.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sharewareonsale.com scores 88/100 on our public trust checks. Established
+  domain — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:05:42.247Z'
 finalUrl: 'https://sharewareonsale.com/'
 reachable: true

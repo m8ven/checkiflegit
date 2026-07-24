@@ -1,10 +1,10 @@
 ---
 domain: zymarine.com
 slug: zymarine-com
-title: Is zymarine.com Legit? Trust Signal Check
+title: Is zymarine.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for zymarine.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zymarine.com scores 100/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:14.654Z'
 finalUrl: 'https://zymarine.com/'
 reachable: true

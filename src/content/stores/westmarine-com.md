@@ -1,10 +1,10 @@
 ---
 domain: westmarine.com
 slug: westmarine-com
-title: Is westmarine.com Legit? Trust Signal Check
+title: Is westmarine.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for westmarine.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  westmarine.com scores 88/100 on our public trust checks. Established domain —
+  registered 30.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:17.371Z'
 finalUrl: 'https://www.westmarine.com/'
 reachable: true

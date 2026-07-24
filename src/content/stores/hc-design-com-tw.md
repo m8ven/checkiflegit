@@ -1,10 +1,10 @@
 ---
 domain: hc-design.com.tw
 slug: hc-design-com-tw
-title: Is hc-design.com.tw Legit? Trust Signal Check
+title: Is hc-design.com.tw Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for hc-design.com.tw: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hc-design.com.tw scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:59:48.417Z'
 finalUrl: 'https://www.hc-design.com.tw/'
 reachable: true

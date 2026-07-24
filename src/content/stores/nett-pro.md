@@ -1,10 +1,10 @@
 ---
 domain: nett.pro
 slug: nett-pro
-title: Is nett.pro Legit? Trust Signal Check
+title: Is nett.pro Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nett.pro: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nett.pro scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:22:20.440Z'
 finalUrl: 'https://nett.pro/'
 reachable: true

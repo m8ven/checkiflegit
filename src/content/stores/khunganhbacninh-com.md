@@ -1,10 +1,10 @@
 ---
 domain: khunganhbacninh.com
 slug: khunganhbacninh-com
-title: Is khunganhbacninh.com Legit? Trust Signal Check
+title: Is khunganhbacninh.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for khunganhbacninh.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  khunganhbacninh.com scores 64/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T14:54:18.857Z'
 finalUrl: 'https://khunganhbacninh.com/'
 reachable: true

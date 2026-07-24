@@ -1,10 +1,10 @@
 ---
 domain: lem.fm
 slug: lem-fm
-title: Is lem.fm Legit? Trust Signal Check
+title: Is lem.fm Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lem.fm: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  lem.fm scores 76/100 on our public trust checks. Established domain —
+  registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:45.478Z'
 finalUrl: 'https://www.lem.fm/'
 reachable: true

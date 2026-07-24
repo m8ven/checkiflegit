@@ -1,10 +1,10 @@
 ---
 domain: midvalleytrees.com
 slug: midvalleytrees-com
-title: Is midvalleytrees.com Legit? Trust Signal Check
+title: Is midvalleytrees.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for midvalleytrees.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  midvalleytrees.com scores 100/100 on our public trust checks. Established
+  domain — registered 20.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:29.121Z'
 finalUrl: 'https://midvalleytrees.com/'
 reachable: true

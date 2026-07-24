@@ -1,10 +1,10 @@
 ---
 domain: tuongchibi.com
 slug: tuongchibi-com
-title: Is tuongchibi.com Legit? Trust Signal Check
+title: Is tuongchibi.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for tuongchibi.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tuongchibi.com scores 88/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:06.840Z'
 finalUrl: 'https://tuongchibi.com/'
 reachable: true

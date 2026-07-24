@@ -1,10 +1,10 @@
 ---
 domain: dh-sawaguchi.com
 slug: dh-sawaguchi-com
-title: Is dh-sawaguchi.com Legit? Trust Signal Check
+title: Is dh-sawaguchi.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for dh-sawaguchi.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  dh-sawaguchi.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:25:08.816Z'
 finalUrl: 'https://dh-sawaguchi.com/'
 reachable: true

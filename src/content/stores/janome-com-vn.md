@@ -1,10 +1,10 @@
 ---
 domain: janome.com.vn
 slug: janome-com-vn
-title: Is janome.com.vn Legit? Trust Signal Check
+title: Is janome.com.vn Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for janome.com.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  janome.com.vn scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:38:54.570Z'
 finalUrl: 'https://janome.com.vn/'
 reachable: true

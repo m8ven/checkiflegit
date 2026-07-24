@@ -1,10 +1,11 @@
 ---
 domain: boxboyzofficial.com
 slug: boxboyzofficial-com
-title: Is boxboyzofficial.com Legit? Trust Signal Check
+title: Is boxboyzofficial.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for boxboyzofficial.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  boxboyzofficial.com scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T15:03:51.327Z'
 finalUrl: 'https://boxboyzofficial.com/'
 reachable: true

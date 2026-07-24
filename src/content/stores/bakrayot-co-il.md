@@ -1,10 +1,11 @@
 ---
 domain: bakrayot.co.il
 slug: bakrayot-co-il
-title: Is bakrayot.co.il Legit? Trust Signal Check
+title: Is bakrayot.co.il Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bakrayot.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bakrayot.co.il scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:01:15.396Z'
 finalUrl: 'https://bakrayot.co.il/'
 reachable: true

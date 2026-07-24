@@ -1,10 +1,10 @@
 ---
 domain: stamp-collections.co.uk
 slug: stamp-collections-co-uk
-title: Is stamp-collections.co.uk Legit? Trust Signal Check
+title: Is stamp-collections.co.uk Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for stamp-collections.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  stamp-collections.co.uk scores 85/100 on our public trust checks. Established
+  domain — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:49.196Z'
 finalUrl: 'https://www.stamp-collections.co.uk/'
 reachable: true

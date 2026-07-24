@@ -1,10 +1,10 @@
 ---
 domain: totalmotors.cl
 slug: totalmotors-cl
-title: Is totalmotors.cl Legit? Trust Signal Check
+title: Is totalmotors.cl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for totalmotors.cl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  totalmotors.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:36:21.139Z'
 finalUrl: 'https://www.totalmotors.cl/'
 reachable: true

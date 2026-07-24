@@ -1,10 +1,10 @@
 ---
 domain: atelier1538.fr
 slug: atelier1538-fr
-title: Is atelier1538.fr Legit? Trust Signal Check
+title: Is atelier1538.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for atelier1538.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  atelier1538.fr scores 100/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:13.861Z'
 finalUrl: 'https://atelier1538.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mike-art-kunst.com
 slug: mike-art-kunst-com
-title: Is mike-art-kunst.com Legit? Trust Signal Check
+title: Is mike-art-kunst.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mike-art-kunst.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mike-art-kunst.com scores 88/100 on our public trust checks. Established
+  domain — registered 20.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:48.304Z'
 finalUrl: 'https://www.mike-art-kunst.com/'
 reachable: true

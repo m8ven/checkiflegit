@@ -1,10 +1,10 @@
 ---
 domain: thetnftraining.co.uk
 slug: thetnftraining-co-uk
-title: Is thetnftraining.co.uk Legit? Trust Signal Check
+title: Is thetnftraining.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for thetnftraining.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thetnftraining.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:48.205Z'
 finalUrl: 'https://thetnftraining.co.uk/'
 reachable: true

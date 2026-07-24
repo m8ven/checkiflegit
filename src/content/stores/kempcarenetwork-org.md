@@ -1,10 +1,10 @@
 ---
 domain: kempcarenetwork.org
 slug: kempcarenetwork-org
-title: Is kempcarenetwork.org Legit? Trust Signal Check
+title: Is kempcarenetwork.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kempcarenetwork.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kempcarenetwork.org scores 88/100 on our public trust checks. Established
+  domain — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:05:45.669Z'
 finalUrl: 'https://kempcarenetwork.org/'
 reachable: true

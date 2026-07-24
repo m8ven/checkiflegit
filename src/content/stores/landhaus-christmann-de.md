@@ -1,10 +1,10 @@
 ---
 domain: landhaus-christmann.de
 slug: landhaus-christmann-de
-title: Is landhaus-christmann.de Legit? Trust Signal Check
+title: Is landhaus-christmann.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for landhaus-christmann.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  landhaus-christmann.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:25.327Z'
 finalUrl: 'https://landhaus-christmann.de/'
 reachable: true

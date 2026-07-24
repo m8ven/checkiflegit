@@ -1,10 +1,10 @@
 ---
 domain: vailline.ru
 slug: vailline-ru
-title: Is vailline.ru Legit? Trust Signal Check
+title: Is vailline.ru Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for vailline.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vailline.ru scores 67/100 on our public trust checks. No links to major social
+  platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T15:36:21.176Z'
 finalUrl: 'https://vailline.ru/'
 reachable: true

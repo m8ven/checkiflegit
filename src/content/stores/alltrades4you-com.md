@@ -1,10 +1,10 @@
 ---
 domain: alltrades4you.com
 slug: alltrades4you-com
-title: Is alltrades4you.com Legit? Trust Signal Check
+title: Is alltrades4you.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for alltrades4you.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alltrades4you.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:33:45.411Z'
 finalUrl: 'https://alltrades4you.com/'
 reachable: true

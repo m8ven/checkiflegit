@@ -1,10 +1,10 @@
 ---
 domain: sandiegohardware.com
 slug: sandiegohardware-com
-title: Is sandiegohardware.com Legit? Trust Signal Check
+title: Is sandiegohardware.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sandiegohardware.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sandiegohardware.com scores 100/100 on our public trust checks. Established
+  domain — registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:57.943Z'
 finalUrl: 'https://sandiegohardware.com/'
 reachable: true

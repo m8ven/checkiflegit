@@ -1,10 +1,10 @@
 ---
 domain: buccellati.com
 slug: buccellati-com
-title: Is buccellati.com Legit? Trust Signal Check
+title: Is buccellati.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for buccellati.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  buccellati.com scores 88/100 on our public trust checks. Established domain —
+  registered 30.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:39.114Z'
 finalUrl: 'https://www.buccellati.com/en_us/'
 reachable: true

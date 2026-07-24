@@ -1,10 +1,10 @@
 ---
 domain: kidkoala.com
 slug: kidkoala-com
-title: Is kidkoala.com Legit? Trust Signal Check
+title: Is kidkoala.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for kidkoala.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kidkoala.com scores 70/100 on our public trust checks. Established domain —
+  registered 27.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:55.116Z'
 finalUrl: 'https://kidkoala.com/'
 reachable: true

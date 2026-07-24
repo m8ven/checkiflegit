@@ -1,10 +1,10 @@
 ---
 domain: rstech.cl
 slug: rstech-cl
-title: Is rstech.cl Legit? Trust Signal Check
+title: Is rstech.cl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for rstech.cl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rstech.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:07:12.083Z'
 finalUrl: 'https://rstech.cl/'
 reachable: true

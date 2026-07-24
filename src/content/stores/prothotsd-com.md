@@ -1,10 +1,10 @@
 ---
 domain: prothotsd.com
 slug: prothotsd-com
-title: Is prothotsd.com Legit? Trust Signal Check
+title: Is prothotsd.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for prothotsd.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  prothotsd.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:59:31.175Z'
 finalUrl: 'https://prothotsd.com/'
 reachable: true

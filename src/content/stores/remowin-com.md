@@ -1,10 +1,10 @@
 ---
 domain: remowin.com
 slug: remowin-com
-title: Is remowin.com Legit? Trust Signal Check
+title: Is remowin.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for remowin.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  remowin.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:05:57.956Z'
 finalUrl: 'https://remowin.com/'
 reachable: true

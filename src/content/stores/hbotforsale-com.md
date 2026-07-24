@@ -1,10 +1,10 @@
 ---
 domain: hbotforsale.com
 slug: hbotforsale-com
-title: Is hbotforsale.com Legit? Trust Signal Check
+title: Is hbotforsale.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for hbotforsale.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hbotforsale.com scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:23:45.754Z'
 finalUrl: 'https://www.hbotforsale.com/'
 reachable: true

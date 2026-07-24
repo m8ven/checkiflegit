@@ -1,10 +1,10 @@
 ---
 domain: 500automotor.com
 slug: 500automotor-com
-title: Is 500automotor.com Legit? Trust Signal Check
+title: Is 500automotor.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for 500automotor.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  500automotor.com scores 73/100 on our public trust checks. Established domain
+  — registered 17.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:58.480Z'
 finalUrl: 'https://500automotor.com/'
 reachable: true

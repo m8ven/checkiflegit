@@ -1,10 +1,10 @@
 ---
 domain: indiaresidential.com
 slug: indiaresidential-com
-title: Is indiaresidential.com Legit? Trust Signal Check
+title: Is indiaresidential.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for indiaresidential.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  indiaresidential.com scores 100/100 on our public trust checks. Established
+  domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:30.128Z'
 finalUrl: 'https://indiaresidential.com/'
 reachable: true

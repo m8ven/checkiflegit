@@ -1,10 +1,10 @@
 ---
 domain: rededorsaoluiz.com.br
 slug: rededorsaoluiz-com-br
-title: Is rededorsaoluiz.com.br Legit? Trust Signal Check
+title: Is rededorsaoluiz.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for rededorsaoluiz.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rededorsaoluiz.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-24T21:46:12.094Z'
 finalUrl: 'https://www.rededorsaoluiz.com.br/'
 reachable: true

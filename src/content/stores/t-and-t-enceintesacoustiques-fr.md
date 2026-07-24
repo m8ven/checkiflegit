@@ -1,10 +1,10 @@
 ---
 domain: t-and-t-enceintesacoustiques.fr
 slug: t-and-t-enceintesacoustiques-fr
-title: Is t-and-t-enceintesacoustiques.fr Legit? Trust Signal Check
+title: Is t-and-t-enceintesacoustiques.fr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for t-and-t-enceintesacoustiques.fr: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  t-and-t-enceintesacoustiques.fr scores 73/100 on our public trust checks.
+  Established domain — registered 11.7 years ago.
 fetchedAt: '2026-06-25T12:40:52.189Z'
 finalUrl: 'https://t-and-t-enceintesacoustiques.fr/'
 reachable: true

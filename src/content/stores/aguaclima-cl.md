@@ -1,10 +1,11 @@
 ---
 domain: aguaclima.cl
 slug: aguaclima-cl
-title: Is aguaclima.cl Legit? Trust Signal Check
+title: Is aguaclima.cl Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for aguaclima.cl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  aguaclima.cl scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:12:53.959Z'
 finalUrl: 'https://www.aguaclima.cl/'
 reachable: true

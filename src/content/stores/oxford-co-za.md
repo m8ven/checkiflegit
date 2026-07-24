@@ -1,10 +1,10 @@
 ---
 domain: oxford.co.za
 slug: oxford-co-za
-title: Is oxford.co.za Legit? Trust Signal Check
+title: Is oxford.co.za Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for oxford.co.za: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  oxford.co.za scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:00:19.833Z'
 finalUrl: 'https://oxford.co.za/'
 reachable: true

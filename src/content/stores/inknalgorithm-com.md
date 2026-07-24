@@ -1,10 +1,10 @@
 ---
 domain: inknalgorithm.com
 slug: inknalgorithm-com
-title: Is inknalgorithm.com Legit? Trust Signal Check
+title: Is inknalgorithm.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for inknalgorithm.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  inknalgorithm.com scores 100/100 on our public trust checks. Established
+  domain — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:50.583Z'
 finalUrl: 'https://inknalgorithm.com/'
 reachable: true

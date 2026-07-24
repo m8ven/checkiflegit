@@ -1,10 +1,10 @@
 ---
 domain: onboardembarcacoes.com.br
 slug: onboardembarcacoes-com-br
-title: Is onboardembarcacoes.com.br Legit? Trust Signal Check
+title: Is onboardembarcacoes.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for onboardembarcacoes.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  onboardembarcacoes.com.br scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:16:55.898Z'
 finalUrl: 'https://onboardembarcacoes.com.br/'
 reachable: true

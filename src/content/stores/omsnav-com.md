@@ -1,10 +1,10 @@
 ---
 domain: omsnav.com
 slug: omsnav-com
-title: Is omsnav.com Legit? Trust Signal Check
+title: Is omsnav.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for omsnav.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  omsnav.com scores 73/100 on our public trust checks. Established domain —
+  registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:54.313Z'
 finalUrl: 'https://www.omsnav.com/'
 reachable: true

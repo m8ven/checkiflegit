@@ -1,10 +1,10 @@
 ---
 domain: norskpen.no
 slug: norskpen-no
-title: Is norskpen.no Legit? Trust Signal Check
+title: Is norskpen.no Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for norskpen.no: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  norskpen.no scores 88/100 on our public trust checks. Established domain —
+  registered 24.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:55.535Z'
 finalUrl: 'https://norskpen.no/'
 reachable: true

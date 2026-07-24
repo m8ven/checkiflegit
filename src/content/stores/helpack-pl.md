@@ -1,10 +1,10 @@
 ---
 domain: helpack.pl
 slug: helpack-pl
-title: Is helpack.pl Legit? Trust Signal Check
+title: Is helpack.pl Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for helpack.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  helpack.pl scores 73/100 on our public trust checks. Established domain —
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:43.198Z'
 finalUrl: 'https://helpack.pl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: caseplay.shop
 slug: caseplay-shop
-title: Is caseplay.shop Legit? Trust Signal Check
+title: Is caseplay.shop Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for caseplay.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  caseplay.shop scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:21:21.861Z'
 finalUrl: 'https://caseplay.shop/'
 reachable: true

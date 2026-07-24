@@ -1,10 +1,10 @@
 ---
 domain: petkitcambodia.com
 slug: petkitcambodia-com
-title: Is petkitcambodia.com Legit? Trust Signal Check
+title: Is petkitcambodia.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for petkitcambodia.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  petkitcambodia.com scores 82/100 on our public trust checks. Established
+  domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:05.409Z'
 finalUrl: 'https://petkitcambodia.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dioptria555.ru
 slug: dioptria555-ru
-title: Is dioptria555.ru Legit? Trust Signal Check
+title: Is dioptria555.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for dioptria555.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dioptria555.ru scores 82/100 on our public trust checks. Established domain —
+  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:47.723Z'
 finalUrl: 'https://dioptria555.ru/'
 reachable: true

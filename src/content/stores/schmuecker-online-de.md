@@ -1,10 +1,10 @@
 ---
 domain: schmuecker-online.de
 slug: schmuecker-online-de
-title: Is schmuecker-online.de Legit? Trust Signal Check
+title: Is schmuecker-online.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for schmuecker-online.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  schmuecker-online.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:02:22.847Z'
 finalUrl: 'https://schmuecker-online.de/'
 reachable: true

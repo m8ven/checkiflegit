@@ -1,10 +1,10 @@
 ---
 domain: nyne.fashion
 slug: nyne-fashion
-title: Is nyne.fashion Legit? Trust Signal Check
+title: Is nyne.fashion Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for nyne.fashion: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nyne.fashion scores 88/100 on our public trust checks. Established domain —
+  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:18.184Z'
 finalUrl: 'https://nyne.fashion/'
 reachable: true

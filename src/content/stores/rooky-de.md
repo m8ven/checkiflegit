@@ -1,10 +1,10 @@
 ---
 domain: rooky.de
 slug: rooky-de
-title: Is rooky.de Legit? Trust Signal Check
+title: Is rooky.de Legit? Trust Score 14/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for rooky.de: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  rooky.de scores 14/100 on our public trust checks. Standard contact and policy
+  pages were not found. No public contact details detected on the homepage.
 fetchedAt: '2026-06-25T11:58:53.280Z'
 finalUrl: 'https://rooky.de/'
 reachable: true

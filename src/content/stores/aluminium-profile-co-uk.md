@@ -1,10 +1,10 @@
 ---
 domain: aluminium-profile.co.uk
 slug: aluminium-profile-co-uk
-title: Is aluminium-profile.co.uk Legit? Trust Signal Check
+title: Is aluminium-profile.co.uk Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for aluminium-profile.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  aluminium-profile.co.uk scores 85/100 on our public trust checks. Established
+  domain — registered 21.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:06.017Z'
 finalUrl: 'https://www.aluminium-profile.co.uk/'
 reachable: true

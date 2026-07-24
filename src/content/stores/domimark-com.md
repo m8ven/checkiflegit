@@ -1,10 +1,10 @@
 ---
 domain: domimark.com
 slug: domimark-com
-title: Is domimark.com Legit? Trust Signal Check
+title: Is domimark.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for domimark.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  domimark.com scores 85/100 on our public trust checks. Established domain —
+  registered 23.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:29.299Z'
 finalUrl: 'https://domimark.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: antos-trgovina.hr
 slug: antos-trgovina-hr
-title: Is antos-trgovina.hr Legit? Trust Signal Check
+title: Is antos-trgovina.hr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for antos-trgovina.hr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  antos-trgovina.hr scores 73/100 on our public trust checks. Established domain
+  — registered 18.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:18.680Z'
 finalUrl: 'https://antos-trgovina.hr/'
 reachable: true

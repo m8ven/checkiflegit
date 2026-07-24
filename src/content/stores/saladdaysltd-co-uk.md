@@ -1,10 +1,10 @@
 ---
 domain: saladdaysltd.co.uk
 slug: saladdaysltd-co-uk
-title: Is saladdaysltd.co.uk Legit? Trust Signal Check
+title: Is saladdaysltd.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for saladdaysltd.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  saladdaysltd.co.uk scores 73/100 on our public trust checks. Established
+  domain — registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:56.590Z'
 finalUrl: 'https://saladdaysltd.co.uk/'
 reachable: true

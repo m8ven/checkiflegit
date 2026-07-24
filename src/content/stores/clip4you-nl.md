@@ -1,10 +1,10 @@
 ---
 domain: clip4you.nl
 slug: clip4you-nl
-title: Is clip4you.nl Legit? Trust Signal Check
+title: Is clip4you.nl Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for clip4you.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  clip4you.nl scores 73/100 on our public trust checks. Established domain —
+  registered 20.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:19.812Z'
 finalUrl: 'https://clip4you.nl/'
 reachable: true

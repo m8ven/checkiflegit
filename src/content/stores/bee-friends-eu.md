@@ -1,10 +1,10 @@
 ---
 domain: bee-friends.eu
 slug: bee-friends-eu
-title: Is bee-friends.eu Legit? Trust Signal Check
+title: Is bee-friends.eu Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for bee-friends.eu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bee-friends.eu scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:20:37.193Z'
 finalUrl: 'https://bee-friends.eu/'
 reachable: true

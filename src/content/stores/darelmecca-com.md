@@ -1,10 +1,10 @@
 ---
 domain: darelmecca.com
 slug: darelmecca-com
-title: Is darelmecca.com Legit? Trust Signal Check
+title: Is darelmecca.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for darelmecca.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  darelmecca.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:04.231Z'
 finalUrl: 'https://darelmecca.com/'
 reachable: true

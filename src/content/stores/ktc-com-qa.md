@@ -1,10 +1,10 @@
 ---
 domain: ktc.com.qa
 slug: ktc-com-qa
-title: Is ktc.com.qa Legit? Trust Signal Check
+title: Is ktc.com.qa Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ktc.com.qa: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ktc.com.qa scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:49:10.174Z'
 finalUrl: 'https://ktc.com.qa/'
 reachable: true

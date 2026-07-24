@@ -1,10 +1,10 @@
 ---
 domain: brandsclubba.com
 slug: brandsclubba-com
-title: Is brandsclubba.com Legit? Trust Signal Check
+title: Is brandsclubba.com Legit? Trust Score 28/100
 description: >-
-  An automated trust-signal check for brandsclubba.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  brandsclubba.com scores 28/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T03:28:22.501Z'
 finalUrl: 'http://brandsclubba.com/'
 reachable: true

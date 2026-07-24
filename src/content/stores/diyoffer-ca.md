@@ -1,10 +1,10 @@
 ---
 domain: diyoffer.ca
 slug: diyoffer-ca
-title: Is diyoffer.ca Legit? Trust Signal Check
+title: Is diyoffer.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for diyoffer.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  diyoffer.ca scores 100/100 on our public trust checks. Established domain —
+  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:52.510Z'
 finalUrl: 'https://diyoffer.ca/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: carbondiamondabrasives.com.au
 slug: carbondiamondabrasives-com-au
-title: Is carbondiamondabrasives.com.au Legit? Trust Signal Check
+title: Is carbondiamondabrasives.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for carbondiamondabrasives.com.au: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  carbondiamondabrasives.com.au scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:21:10.223Z'
 finalUrl: 'https://carbondiamondabrasives.com.au/'
 reachable: true

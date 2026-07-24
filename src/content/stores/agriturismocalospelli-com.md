@@ -1,10 +1,11 @@
 ---
 domain: agriturismocalospelli.com
 slug: agriturismocalospelli-com
-title: Is agriturismocalospelli.com Legit? Trust Signal Check
+title: Is agriturismocalospelli.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for agriturismocalospelli.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  agriturismocalospelli.com scores 88/100 on our public trust checks.
+  Established domain — registered 20.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:49:20.343Z'
 finalUrl: 'https://www.agriturismocalospelli.com/'
 reachable: true

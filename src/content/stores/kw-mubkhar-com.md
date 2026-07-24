@@ -1,10 +1,10 @@
 ---
 domain: kw.mubkhar.com
 slug: kw-mubkhar-com
-title: Is kw.mubkhar.com Legit? Trust Signal Check
+title: Is kw.mubkhar.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kw.mubkhar.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kw.mubkhar.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:55:15.319Z'
 finalUrl: 'https://kw.mubkhar.com/'
 reachable: true

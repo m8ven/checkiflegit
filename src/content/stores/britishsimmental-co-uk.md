@@ -1,10 +1,10 @@
 ---
 domain: britishsimmental.co.uk
 slug: britishsimmental-co-uk
-title: Is britishsimmental.co.uk Legit? Trust Signal Check
+title: Is britishsimmental.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for britishsimmental.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  britishsimmental.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:49:34.243Z'
 finalUrl: 'https://britishsimmental.co.uk/'
 reachable: true

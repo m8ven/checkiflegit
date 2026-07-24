@@ -1,10 +1,10 @@
 ---
 domain: ericcressey.com
 slug: ericcressey-com
-title: Is ericcressey.com Legit? Trust Signal Check
+title: Is ericcressey.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ericcressey.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ericcressey.com scores 100/100 on our public trust checks. Established domain
+  — registered 20.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:48.783Z'
 finalUrl: 'https://ericcressey.com/'
 reachable: true

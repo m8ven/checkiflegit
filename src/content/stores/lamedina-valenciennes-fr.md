@@ -1,10 +1,10 @@
 ---
 domain: lamedina-valenciennes.fr
 slug: lamedina-valenciennes-fr
-title: Is lamedina-valenciennes.fr Legit? Trust Signal Check
+title: Is lamedina-valenciennes.fr Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for lamedina-valenciennes.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lamedina-valenciennes.fr scores 70/100 on our public trust checks. Established
+  domain — registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:25.284Z'
 finalUrl: 'https://lamedina-valenciennes.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: store.csslabs.de
 slug: store-csslabs-de
-title: Is store.csslabs.de Legit? Trust Signal Check
+title: Is store.csslabs.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for store.csslabs.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  store.csslabs.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:04:45.107Z'
 finalUrl: 'https://store.csslabs.de/wp20/'
 reachable: true

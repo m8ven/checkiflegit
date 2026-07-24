@@ -1,10 +1,10 @@
 ---
 domain: bbcchildreninneed.co.uk
 slug: bbcchildreninneed-co-uk
-title: Is bbcchildreninneed.co.uk Legit? Trust Signal Check
+title: Is bbcchildreninneed.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bbcchildreninneed.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bbcchildreninneed.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:15.111Z'
 finalUrl: 'https://www.bbcchildreninneed.co.uk/'
 reachable: true

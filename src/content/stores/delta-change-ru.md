@@ -1,10 +1,10 @@
 ---
 domain: delta-change.ru
 slug: delta-change-ru
-title: Is delta-change.ru Legit? Trust Signal Check
+title: Is delta-change.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for delta-change.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  delta-change.ru scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:40:18.046Z'
 finalUrl: 'https://delta-change.ru/'
 reachable: true

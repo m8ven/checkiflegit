@@ -1,10 +1,10 @@
 ---
 domain: casagrooming.com.co
 slug: casagrooming-com-co
-title: Is casagrooming.com.co Legit? Trust Signal Check
+title: Is casagrooming.com.co Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for casagrooming.com.co: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  casagrooming.com.co scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:18.602Z'
 finalUrl: 'https://casagrooming.com.co/'
 reachable: true

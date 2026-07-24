@@ -1,10 +1,10 @@
 ---
 domain: itamaster.app.br
 slug: itamaster-app-br
-title: Is itamaster.app.br Legit? Trust Signal Check
+title: Is itamaster.app.br Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for itamaster.app.br: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  itamaster.app.br scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:16:31.608Z'
 finalUrl: 'https://itamaster.app.br/?v=3cb56c81f4b8'
 reachable: true

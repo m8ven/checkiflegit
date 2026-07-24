@@ -1,10 +1,10 @@
 ---
 domain: en.joy.com.gr
 slug: en-joy-com-gr
-title: Is en.joy.com.gr Legit? Trust Signal Check
+title: Is en.joy.com.gr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for en.joy.com.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  en.joy.com.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:42:27.172Z'
 finalUrl: 'https://en.joy.com.gr/'
 reachable: true

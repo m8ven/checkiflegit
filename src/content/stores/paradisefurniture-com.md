@@ -1,10 +1,10 @@
 ---
 domain: paradisefurniture.com
 slug: paradisefurniture-com
-title: Is paradisefurniture.com Legit? Trust Signal Check
+title: Is paradisefurniture.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for paradisefurniture.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  paradisefurniture.com scores 100/100 on our public trust checks. Established
+  domain — registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:28:16.002Z'
 finalUrl: 'https://paradisefurniture.com/'
 reachable: true

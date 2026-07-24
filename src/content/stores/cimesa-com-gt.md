@@ -1,10 +1,10 @@
 ---
 domain: cimesa.com.gt
 slug: cimesa-com-gt
-title: Is cimesa.com.gt Legit? Trust Signal Check
+title: Is cimesa.com.gt Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for cimesa.com.gt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cimesa.com.gt scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:28:54.553Z'
 finalUrl: 'https://cimesa.com.gt/'
 reachable: true

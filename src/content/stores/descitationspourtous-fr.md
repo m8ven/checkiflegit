@@ -1,10 +1,10 @@
 ---
 domain: descitationspourtous.fr
 slug: descitationspourtous-fr
-title: Is descitationspourtous.fr Legit? Trust Signal Check
+title: Is descitationspourtous.fr Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for descitationspourtous.fr: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  descitationspourtous.fr scores 52/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:08:28.210Z'
 finalUrl: 'https://descitationspourtous.fr/'
 reachable: true

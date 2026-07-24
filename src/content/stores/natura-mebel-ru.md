@@ -1,10 +1,10 @@
 ---
 domain: natura-mebel.ru
 slug: natura-mebel-ru
-title: Is natura-mebel.ru Legit? Trust Signal Check
+title: Is natura-mebel.ru Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for natura-mebel.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  natura-mebel.ru scores 70/100 on our public trust checks. Established domain —
+  registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:25.214Z'
 finalUrl: 'https://natura-mebel.ru/'
 reachable: true

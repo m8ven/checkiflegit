@@ -1,10 +1,10 @@
 ---
 domain: sawas.in
 slug: sawas-in
-title: Is sawas.in Legit? Trust Signal Check
+title: Is sawas.in Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sawas.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sawas.in scores 74/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:35:51.586Z'
 finalUrl: 'https://sawas.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: fdmachinery.net
 slug: fdmachinery-net
-title: Is fdmachinery.net Legit? Trust Signal Check
+title: Is fdmachinery.net Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for fdmachinery.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fdmachinery.net scores 73/100 on our public trust checks. Established domain —
+  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:27.325Z'
 finalUrl: 'https://fdmachinery.net/'
 reachable: true

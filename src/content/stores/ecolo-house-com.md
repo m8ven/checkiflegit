@@ -1,10 +1,10 @@
 ---
 domain: ecolo-house.com
 slug: ecolo-house-com
-title: Is ecolo-house.com Legit? Trust Signal Check
+title: Is ecolo-house.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for ecolo-house.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ecolo-house.com scores 73/100 on our public trust checks. Established domain —
+  registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:44.586Z'
 finalUrl: 'https://www.ecolo-house.com/'
 reachable: true

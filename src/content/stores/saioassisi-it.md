@@ -1,10 +1,10 @@
 ---
 domain: saioassisi.it
 slug: saioassisi-it
-title: Is saioassisi.it Legit? Trust Signal Check
+title: Is saioassisi.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for saioassisi.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  saioassisi.it scores 100/100 on our public trust checks. Established domain —
+  registered 19.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:34.353Z'
 finalUrl: 'https://www.saioassisi.it/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: gleam.gallery
 slug: gleam-gallery
-title: Is gleam.gallery Legit? Trust Signal Check
+title: Is gleam.gallery Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for gleam.gallery: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  gleam.gallery scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:47:48.328Z'
 finalUrl: 'https://gleam.gallery/'
 reachable: true

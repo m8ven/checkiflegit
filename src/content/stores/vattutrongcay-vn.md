@@ -1,10 +1,10 @@
 ---
 domain: vattutrongcay.vn
 slug: vattutrongcay-vn
-title: Is vattutrongcay.vn Legit? Trust Signal Check
+title: Is vattutrongcay.vn Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for vattutrongcay.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  vattutrongcay.vn scores 36/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:11:00.804Z'
 finalUrl: 'https://vattutrongcay.vn/'
 reachable: true

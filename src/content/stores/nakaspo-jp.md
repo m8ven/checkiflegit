@@ -1,10 +1,10 @@
 ---
 domain: nakaspo.jp
 slug: nakaspo-jp
-title: Is nakaspo.jp Legit? Trust Signal Check
+title: Is nakaspo.jp Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nakaspo.jp: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nakaspo.jp scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:24:04.811Z'
 finalUrl: 'https://nakaspo.jp/'
 reachable: true

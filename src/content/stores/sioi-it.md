@@ -1,10 +1,10 @@
 ---
 domain: sioi.it
 slug: sioi-it
-title: Is sioi.it Legit? Trust Signal Check
+title: Is sioi.it Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sioi.it: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  sioi.it scores 70/100 on our public trust checks. Established domain —
+  registered 24.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:25.152Z'
 finalUrl: 'https://www.sioi.it/'
 reachable: true

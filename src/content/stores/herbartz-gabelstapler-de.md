@@ -1,10 +1,10 @@
 ---
 domain: herbartz-gabelstapler.de
 slug: herbartz-gabelstapler-de
-title: Is herbartz-gabelstapler.de Legit? Trust Signal Check
+title: Is herbartz-gabelstapler.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for herbartz-gabelstapler.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  herbartz-gabelstapler.de scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:58.020Z'
 finalUrl: 'https://herbartz-gabelstapler.de/'
 reachable: true

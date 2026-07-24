@@ -1,10 +1,10 @@
 ---
 domain: gardena.com
 slug: gardena-com
-title: Is gardena.com Legit? Trust Signal Check
+title: Is gardena.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for gardena.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gardena.com scores 70/100 on our public trust checks. Established domain —
+  registered 28.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:26.157Z'
 finalUrl: 'https://us.gardena.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: novacart.co.uk
 slug: novacart-co-uk
-title: Is novacart.co.uk Legit? Trust Signal Check
+title: Is novacart.co.uk Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for novacart.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  novacart.co.uk scores 85/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:47.294Z'
 finalUrl: 'https://novacart.co.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: bygghandeln.online
 slug: bygghandeln-online
-title: Is bygghandeln.online Legit? Trust Signal Check
+title: Is bygghandeln.online Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for bygghandeln.online: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bygghandeln.online scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:21:54.532Z'
 finalUrl: 'https://bygghandeln.online/'
 reachable: true

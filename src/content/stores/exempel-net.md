@@ -1,10 +1,10 @@
 ---
 domain: exempel.net
 slug: exempel-net
-title: Is exempel.net Legit? Trust Signal Check
+title: Is exempel.net Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for exempel.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  exempel.net scores 73/100 on our public trust checks. Established domain —
+  registered 25 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:23.018Z'
 finalUrl: 'https://www.exempel.net/'
 reachable: true

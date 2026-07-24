@@ -1,10 +1,10 @@
 ---
 domain: tutticolori.fr
 slug: tutticolori-fr
-title: Is tutticolori.fr Legit? Trust Signal Check
+title: Is tutticolori.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for tutticolori.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tutticolori.fr scores 100/100 on our public trust checks. Established domain —
+  registered 4.6 years ago.
 fetchedAt: '2026-06-25T12:49:02.750Z'
 finalUrl: 'https://www.tutticolori.fr/'
 reachable: true

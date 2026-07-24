@@ -1,10 +1,10 @@
 ---
 domain: jjny.us
 slug: jjny-us
-title: Is jjny.us Legit? Trust Signal Check
+title: Is jjny.us Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for jjny.us: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jjny.us scores 55/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:47:35.364Z'
 finalUrl: 'https://jjny.us/'
 reachable: true

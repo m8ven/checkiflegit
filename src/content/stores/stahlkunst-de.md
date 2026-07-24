@@ -1,10 +1,10 @@
 ---
 domain: stahlkunst.de
 slug: stahlkunst-de
-title: Is stahlkunst.de Legit? Trust Signal Check
+title: Is stahlkunst.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for stahlkunst.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stahlkunst.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:12:21.340Z'
 finalUrl: 'https://stahlkunst.de/?v=e0d405313252'
 reachable: true

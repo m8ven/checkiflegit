@@ -1,10 +1,10 @@
 ---
 domain: deyasexboutique.es
 slug: deyasexboutique-es
-title: Is deyasexboutique.es Legit? Trust Signal Check
+title: Is deyasexboutique.es Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for deyasexboutique.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  deyasexboutique.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:53:16.045Z'
 finalUrl: 'https://deyasexboutique.es/'
 reachable: true

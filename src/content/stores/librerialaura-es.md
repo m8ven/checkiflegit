@@ -1,10 +1,10 @@
 ---
 domain: librerialaura.es
 slug: librerialaura-es
-title: Is librerialaura.es Legit? Trust Signal Check
+title: Is librerialaura.es Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for librerialaura.es: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  librerialaura.es scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:07:12.203Z'
 finalUrl: 'https://librerialaura.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mundolatinopamplona.com
 slug: mundolatinopamplona-com
-title: Is mundolatinopamplona.com Legit? Trust Signal Check
+title: Is mundolatinopamplona.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for mundolatinopamplona.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mundolatinopamplona.com scores 85/100 on our public trust checks. Established
+  domain — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:43.659Z'
 finalUrl: 'https://mundolatinopamplona.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: cosmeticakoreana.es
 slug: cosmeticakoreana-es
-title: Is cosmeticakoreana.es Legit? Trust Signal Check
+title: Is cosmeticakoreana.es Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for cosmeticakoreana.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cosmeticakoreana.es scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:46:51.955Z'
 finalUrl: 'https://cosmeticakoreana.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: spb.rti-land.ru
 slug: spb-rti-land-ru
-title: Is spb.rti-land.ru Legit? Trust Signal Check
+title: Is spb.rti-land.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for spb.rti-land.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  spb.rti-land.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:10:46.949Z'
 finalUrl: 'https://spb.rti-land.ru/'
 reachable: true

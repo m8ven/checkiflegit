@@ -1,10 +1,10 @@
 ---
 domain: franz-geht-fischen.ch
 slug: franz-geht-fischen-ch
-title: Is franz-geht-fischen.ch Legit? Trust Signal Check
+title: Is franz-geht-fischen.ch Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for franz-geht-fischen.ch: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  franz-geht-fischen.ch scores 91/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:55.241Z'
 finalUrl: 'https://www.franz-geht-fischen.ch/'
 reachable: true

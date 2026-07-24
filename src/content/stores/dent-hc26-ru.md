@@ -1,10 +1,11 @@
 ---
 domain: dent.hc26.ru
 slug: dent-hc26-ru
-title: Is dent.hc26.ru Legit? Trust Signal Check
+title: Is dent.hc26.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for dent.hc26.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dent.hc26.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:24:30.405Z'
 finalUrl: 'https://dent.hc26.ru/'
 reachable: true

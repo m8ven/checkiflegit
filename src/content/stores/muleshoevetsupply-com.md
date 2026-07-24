@@ -1,10 +1,10 @@
 ---
 domain: muleshoevetsupply.com
 slug: muleshoevetsupply-com
-title: Is muleshoevetsupply.com Legit? Trust Signal Check
+title: Is muleshoevetsupply.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for muleshoevetsupply.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  muleshoevetsupply.com scores 70/100 on our public trust checks. Established
+  domain — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:49.412Z'
 finalUrl: 'https://www.muleshoevetsupply.com/'
 reachable: true

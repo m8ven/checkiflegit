@@ -1,10 +1,10 @@
 ---
 domain: nextakademia.com
 slug: nextakademia-com
-title: Is nextakademia.com Legit? Trust Signal Check
+title: Is nextakademia.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for nextakademia.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nextakademia.com scores 70/100 on our public trust checks. Established domain
+  — registered 1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:55:02.548Z'
 finalUrl: 'https://nextakademia.com/'
 reachable: true

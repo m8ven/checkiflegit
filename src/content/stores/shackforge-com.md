@@ -1,10 +1,10 @@
 ---
 domain: shackforge.com
 slug: shackforge-com
-title: Is shackforge.com Legit? Trust Signal Check
+title: Is shackforge.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for shackforge.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shackforge.com scores 94/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:23.775Z'
 finalUrl: 'https://shackforge.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lockly.com
 slug: lockly-com
-title: Is lockly.com Legit? Trust Signal Check
+title: Is lockly.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lockly.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lockly.com scores 70/100 on our public trust checks. Established domain —
+  registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:56.320Z'
 finalUrl: 'https://lockly.com/'
 reachable: true

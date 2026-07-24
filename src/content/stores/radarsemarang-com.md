@@ -1,10 +1,10 @@
 ---
 domain: radarsemarang.com
 slug: radarsemarang-com
-title: Is radarsemarang.com Legit? Trust Signal Check
+title: Is radarsemarang.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for radarsemarang.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  radarsemarang.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T11:59:55.550Z'
 finalUrl: 'https://radarsemarang.com/'
 reachable: true

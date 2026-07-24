@@ -1,10 +1,10 @@
 ---
 domain: chateaupaloumey.com
 slug: chateaupaloumey-com
-title: Is chateaupaloumey.com Legit? Trust Signal Check
+title: Is chateaupaloumey.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for chateaupaloumey.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chateaupaloumey.com scores 100/100 on our public trust checks. Established
+  domain — registered 24.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:45:12.312Z'
 finalUrl: 'https://chateaupaloumey.com/'
 reachable: true

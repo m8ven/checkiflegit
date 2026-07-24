@@ -1,10 +1,10 @@
 ---
 domain: bolsospalacio.es
 slug: bolsospalacio-es
-title: Is bolsospalacio.es Legit? Trust Signal Check
+title: Is bolsospalacio.es Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for bolsospalacio.es: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bolsospalacio.es scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:14:15.264Z'
 finalUrl: 'https://www.bolsospalacio.es/'
 reachable: true

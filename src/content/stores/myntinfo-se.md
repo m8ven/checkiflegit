@@ -1,10 +1,10 @@
 ---
 domain: myntinfo.se
 slug: myntinfo-se
-title: Is myntinfo.se Legit? Trust Signal Check
+title: Is myntinfo.se Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for myntinfo.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  myntinfo.se scores 88/100 on our public trust checks. Established domain —
+  registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:07.655Z'
 finalUrl: 'https://www.myntinfo.se/'
 reachable: true

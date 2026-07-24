@@ -1,10 +1,10 @@
 ---
 domain: opatoys.com
 slug: opatoys-com
-title: Is opatoys.com Legit? Trust Signal Check
+title: Is opatoys.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for opatoys.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  opatoys.com scores 100/100 on our public trust checks. Established domain —
+  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:07.801Z'
 finalUrl: 'https://opatoys.com/'
 reachable: true

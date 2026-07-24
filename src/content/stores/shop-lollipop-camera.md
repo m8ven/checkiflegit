@@ -1,10 +1,10 @@
 ---
 domain: shop.lollipop.camera
 slug: shop-lollipop-camera
-title: Is shop.lollipop.camera Legit? Trust Signal Check
+title: Is shop.lollipop.camera Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for shop.lollipop.camera: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.lollipop.camera scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:45:04.750Z'
 finalUrl: 'https://shop.lollipop.camera/'
 reachable: true

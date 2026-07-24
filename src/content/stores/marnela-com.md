@@ -1,10 +1,10 @@
 ---
 domain: marnela.com
 slug: marnela-com
-title: Is marnela.com Legit? Trust Signal Check
+title: Is marnela.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for marnela.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  marnela.com scores 82/100 on our public trust checks. Established domain —
+  registered 16.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:19.611Z'
 finalUrl: 'https://www.marnela.com/'
 reachable: true

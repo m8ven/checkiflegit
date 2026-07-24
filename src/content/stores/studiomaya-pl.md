@@ -1,10 +1,10 @@
 ---
 domain: studiomaya.pl
 slug: studiomaya-pl
-title: Is studiomaya.pl Legit? Trust Signal Check
+title: Is studiomaya.pl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for studiomaya.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  studiomaya.pl scores 88/100 on our public trust checks. Established domain —
+  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:06.481Z'
 finalUrl: 'https://studiomaya.pl/'
 reachable: true

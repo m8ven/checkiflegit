@@ -1,10 +1,10 @@
 ---
 domain: elibook.vn
 slug: elibook-vn
-title: Is elibook.vn Legit? Trust Signal Check
+title: Is elibook.vn Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for elibook.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  elibook.vn scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:26:54.871Z'
 finalUrl: 'https://elibook.vn/'
 reachable: true

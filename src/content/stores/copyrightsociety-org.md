@@ -1,10 +1,10 @@
 ---
 domain: copyrightsociety.org
 slug: copyrightsociety-org
-title: Is copyrightsociety.org Legit? Trust Signal Check
+title: Is copyrightsociety.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for copyrightsociety.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  copyrightsociety.org scores 100/100 on our public trust checks. Established
+  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:40.231Z'
 finalUrl: 'https://copyrightsociety.org/'
 reachable: true

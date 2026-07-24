@@ -1,11 +1,11 @@
 ---
 domain: acesso.ditadinhokids.com
 slug: acesso-ditadinhokids-com
-title: Is acesso.ditadinhokids.com Legit? Trust Signal Check
+title: Is acesso.ditadinhokids.com Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for acesso.ditadinhokids.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  acesso.ditadinhokids.com scores 31/100 on our public trust checks. Standard
+  contact and policy pages were not found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:40:19.873Z'
 finalUrl: 'https://acesso.ditadinhokids.com/'
 reachable: true

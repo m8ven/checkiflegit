@@ -1,10 +1,10 @@
 ---
 domain: babywish.in
 slug: babywish-in
-title: Is babywish.in Legit? Trust Signal Check
+title: Is babywish.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for babywish.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  babywish.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:01:43.289Z'
 finalUrl: 'https://babywish.in/'
 reachable: true

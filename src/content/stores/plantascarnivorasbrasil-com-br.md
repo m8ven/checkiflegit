@@ -1,10 +1,10 @@
 ---
 domain: plantascarnivorasbrasil.com.br
 slug: plantascarnivorasbrasil-com-br
-title: Is plantascarnivorasbrasil.com.br Legit? Trust Signal Check
+title: Is plantascarnivorasbrasil.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for plantascarnivorasbrasil.com.br: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  plantascarnivorasbrasil.com.br scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:21:54.228Z'
 finalUrl: 'https://plantascarnivorasbrasil.com.br/'
 reachable: true

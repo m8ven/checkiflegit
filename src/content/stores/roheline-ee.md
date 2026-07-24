@@ -1,10 +1,10 @@
 ---
 domain: roheline.ee
 slug: roheline-ee
-title: Is roheline.ee Legit? Trust Signal Check
+title: Is roheline.ee Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for roheline.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  roheline.ee scores 88/100 on our public trust checks. Established domain —
+  registered 16 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:15.532Z'
 finalUrl: 'https://roheline.ee/'
 reachable: true

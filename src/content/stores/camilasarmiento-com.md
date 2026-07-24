@@ -1,10 +1,10 @@
 ---
 domain: camilasarmiento.com
 slug: camilasarmiento-com
-title: Is camilasarmiento.com Legit? Trust Signal Check
+title: Is camilasarmiento.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for camilasarmiento.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  camilasarmiento.com scores 88/100 on our public trust checks. Established
+  domain — registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:19.006Z'
 finalUrl: 'https://camilasarmiento.com/'
 reachable: true

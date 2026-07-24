@@ -1,10 +1,10 @@
 ---
 domain: pathankot35.com
 slug: pathankot35-com
-title: Is pathankot35.com Legit? Trust Signal Check
+title: Is pathankot35.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for pathankot35.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pathankot35.com scores 73/100 on our public trust checks. Established domain —
+  registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:05.722Z'
 finalUrl: 'https://www.pathankot35.com/'
 reachable: true

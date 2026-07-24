@@ -1,10 +1,10 @@
 ---
 domain: nwdrones.store
 slug: nwdrones-store
-title: Is nwdrones.store Legit? Trust Signal Check
+title: Is nwdrones.store Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nwdrones.store: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nwdrones.store scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T03:03:14.979Z'
 finalUrl: 'https://nwdrones.store/'
 reachable: true

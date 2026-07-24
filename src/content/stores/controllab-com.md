@@ -1,10 +1,10 @@
 ---
 domain: controllab.com
 slug: controllab-com
-title: Is controllab.com Legit? Trust Signal Check
+title: Is controllab.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for controllab.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  controllab.com scores 100/100 on our public trust checks. Established domain —
+  registered 23 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:40.238Z'
 finalUrl: 'https://controllab.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: grupofb.es
 slug: grupofb-es
-title: Is grupofb.es Legit? Trust Signal Check
+title: Is grupofb.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for grupofb.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  grupofb.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:47:22.941Z'
 finalUrl: 'https://grupofb.es/'
 reachable: true

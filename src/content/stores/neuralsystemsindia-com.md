@@ -1,10 +1,10 @@
 ---
 domain: neuralsystemsindia.com
 slug: neuralsystemsindia-com
-title: Is neuralsystemsindia.com Legit? Trust Signal Check
+title: Is neuralsystemsindia.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for neuralsystemsindia.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  neuralsystemsindia.com scores 94/100 on our public trust checks. Established
+  domain — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:45.093Z'
 finalUrl: 'https://neuralsystemsindia.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: endur.cc
 slug: endur-cc
-title: Is endur.cc Legit? Trust Signal Check
+title: Is endur.cc Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for endur.cc: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  endur.cc scores 70/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:37.023Z'
 finalUrl: 'https://endur.cc/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: poolbuilderfrompalmbeach.com
 slug: poolbuilderfrompalmbeach-com
-title: Is poolbuilderfrompalmbeach.com Legit? Trust Signal Check
+title: Is poolbuilderfrompalmbeach.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for poolbuilderfrompalmbeach.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  poolbuilderfrompalmbeach.com scores 88/100 on our public trust checks.
+  Established domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:03:14.912Z'
 finalUrl: 'https://poolbuilderfrompalmbeach.com/'
 reachable: true

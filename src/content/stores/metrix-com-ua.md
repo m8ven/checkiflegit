@@ -1,10 +1,10 @@
 ---
 domain: metrix.com.ua
 slug: metrix-com-ua
-title: Is metrix.com.ua Legit? Trust Signal Check
+title: Is metrix.com.ua Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for metrix.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  metrix.com.ua scores 73/100 on our public trust checks. Established domain —
+  registered 18 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:51.129Z'
 finalUrl: 'https://metrix.com.ua/'
 reachable: true

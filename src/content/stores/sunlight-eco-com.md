@@ -1,10 +1,10 @@
 ---
 domain: sunlight-eco.com
 slug: sunlight-eco-com
-title: Is sunlight-eco.com Legit? Trust Signal Check
+title: Is sunlight-eco.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for sunlight-eco.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sunlight-eco.com scores 85/100 on our public trust checks. Established domain
+  — registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:45.315Z'
 finalUrl: 'https://sunlight-eco.com/'
 reachable: true

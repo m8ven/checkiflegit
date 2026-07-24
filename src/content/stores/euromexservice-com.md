@@ -1,10 +1,10 @@
 ---
 domain: euromexservice.com
 slug: euromexservice-com
-title: Is euromexservice.com Legit? Trust Signal Check
+title: Is euromexservice.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for euromexservice.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  euromexservice.com scores 100/100 on our public trust checks. Established
+  domain — registered 17.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:54.220Z'
 finalUrl: 'https://euromexservice.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: care4you.sk
 slug: care4you-sk
-title: Is care4you.sk Legit? Trust Signal Check
+title: Is care4you.sk Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for care4you.sk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  care4you.sk scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:38:25.156Z'
 finalUrl: 'https://care4you.sk/'
 reachable: true

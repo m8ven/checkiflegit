@@ -1,10 +1,10 @@
 ---
 domain: h.glass
 slug: h-glass
-title: Is h.glass Legit? Trust Signal Check
+title: Is h.glass Legit? Trust Score 44/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for h.glass: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  h.glass scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T14:51:13.218Z'
 finalUrl: 'https://h.glass/'
 reachable: true

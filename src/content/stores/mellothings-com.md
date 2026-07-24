@@ -1,10 +1,10 @@
 ---
 domain: mellothings.com
 slug: mellothings-com
-title: Is mellothings.com Legit? Trust Signal Check
+title: Is mellothings.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mellothings.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mellothings.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:00.147Z'
 finalUrl: 'https://mellothings.com/'
 reachable: true

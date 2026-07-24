@@ -1,10 +1,10 @@
 ---
 domain: mayamel.mx
 slug: mayamel-mx
-title: Is mayamel.mx Legit? Trust Signal Check
+title: Is mayamel.mx Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mayamel.mx: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mayamel.mx scores 88/100 on our public trust checks. Established domain —
+  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:46.750Z'
 finalUrl: 'https://mayamel.mx/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: artilikeart.com
 slug: artilikeart-com
-title: Is artilikeart.com Legit? Trust Signal Check
+title: Is artilikeart.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for artilikeart.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  artilikeart.com scores 100/100 on our public trust checks. Established domain
+  — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:06.673Z'
 finalUrl: 'https://artilikeart.com/'
 reachable: true

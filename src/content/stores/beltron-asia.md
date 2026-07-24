@@ -1,10 +1,10 @@
 ---
 domain: beltron.asia
 slug: beltron-asia
-title: Is beltron.asia Legit? Trust Signal Check
+title: Is beltron.asia Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for beltron.asia: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  beltron.asia scores 73/100 on our public trust checks. Established domain —
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:22.792Z'
 finalUrl: 'https://www.beltron.asia/'
 reachable: true

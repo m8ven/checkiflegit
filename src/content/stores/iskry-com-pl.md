@@ -1,10 +1,10 @@
 ---
 domain: iskry.com.pl
 slug: iskry-com-pl
-title: Is iskry.com.pl Legit? Trust Signal Check
+title: Is iskry.com.pl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for iskry.com.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  iskry.com.pl scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:31:07.175Z'
 finalUrl: 'https://iskry.com.pl/'
 reachable: true

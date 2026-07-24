@@ -1,10 +1,10 @@
 ---
 domain: towelwholesaler.com
 slug: towelwholesaler-com
-title: Is towelwholesaler.com Legit? Trust Signal Check
+title: Is towelwholesaler.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for towelwholesaler.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  towelwholesaler.com scores 82/100 on our public trust checks. Established
+  domain — registered 25.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:12:50.390Z'
 finalUrl: 'https://towelwholesaler.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kilkennycamogie.clubandcounty.com
 slug: kilkennycamogie-clubandcounty-com
-title: Is kilkennycamogie.clubandcounty.com Legit? Trust Signal Check
+title: Is kilkennycamogie.clubandcounty.com Legit? Score 100/100
 description: >-
-  An automated trust-signal check for kilkennycamogie.clubandcounty.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  kilkennycamogie.clubandcounty.com scores 100/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:31.761Z'
 finalUrl: 'https://kilkennycamogie.clubandcounty.com/'
 reachable: true

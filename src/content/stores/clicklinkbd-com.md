@@ -1,10 +1,10 @@
 ---
 domain: clicklinkbd.com
 slug: clicklinkbd-com
-title: Is clicklinkbd.com Legit? Trust Signal Check
+title: Is clicklinkbd.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for clicklinkbd.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  clicklinkbd.com scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:06:37.832Z'
 finalUrl: 'https://clicklinkbd.com/'
 reachable: true

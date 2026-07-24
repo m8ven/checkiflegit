@@ -1,11 +1,10 @@
 ---
 domain: store.curiousinventor.com
 slug: store-curiousinventor-com
-title: Is store.curiousinventor.com Legit? Trust Signal Check
+title: Is store.curiousinventor.com Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for store.curiousinventor.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  store.curiousinventor.com scores 44/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T12:12:50.475Z'
 finalUrl: 'https://store.curiousinventor.com/'
 reachable: true

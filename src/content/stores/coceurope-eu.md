@@ -1,10 +1,10 @@
 ---
 domain: coceurope.eu
 slug: coceurope-eu
-title: Is coceurope.eu Legit? Trust Signal Check
+title: Is coceurope.eu Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for coceurope.eu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  coceurope.eu scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:38:44.871Z'
 finalUrl: 'https://coceurope.eu/'
 reachable: true

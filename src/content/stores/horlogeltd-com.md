@@ -1,10 +1,10 @@
 ---
 domain: horlogeltd.com
 slug: horlogeltd-com
-title: Is horlogeltd.com Legit? Trust Signal Check
+title: Is horlogeltd.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for horlogeltd.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  horlogeltd.com scores 85/100 on our public trust checks. Established domain —
+  registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:05.523Z'
 finalUrl: 'https://horlogeltd.com/'
 reachable: true

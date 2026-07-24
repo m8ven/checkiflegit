@@ -1,10 +1,10 @@
 ---
 domain: examplesops.com
 slug: examplesops-com
-title: Is examplesops.com Legit? Trust Signal Check
+title: Is examplesops.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for examplesops.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  examplesops.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T03:44:53.411Z'
 finalUrl: 'https://examplesops.com/'
 reachable: true

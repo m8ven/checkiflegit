@@ -1,10 +1,10 @@
 ---
 domain: festivaldeortigueira.com
 slug: festivaldeortigueira-com
-title: Is festivaldeortigueira.com Legit? Trust Signal Check
+title: Is festivaldeortigueira.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for festivaldeortigueira.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  festivaldeortigueira.com scores 88/100 on our public trust checks. Established
+  domain — registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:54.324Z'
 finalUrl: 'https://festivaldeortigueira.com/'
 reachable: true

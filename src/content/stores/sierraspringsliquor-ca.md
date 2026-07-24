@@ -1,10 +1,10 @@
 ---
 domain: sierraspringsliquor.ca
 slug: sierraspringsliquor-ca
-title: Is sierraspringsliquor.ca Legit? Trust Signal Check
+title: Is sierraspringsliquor.ca Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for sierraspringsliquor.ca: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sierraspringsliquor.ca scores 85/100 on our public trust checks. Established
+  domain — registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:53.931Z'
 finalUrl: 'https://sierraspringsliquor.ca/'
 reachable: true

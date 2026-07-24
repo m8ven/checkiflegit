@@ -1,10 +1,10 @@
 ---
 domain: hhsk.co.in
 slug: hhsk-co-in
-title: Is hhsk.co.in Legit? Trust Signal Check
+title: Is hhsk.co.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hhsk.co.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hhsk.co.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:55:53.913Z'
 finalUrl: 'https://hhsk.co.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: herohabit.com
 slug: herohabit-com
-title: Is herohabit.com Legit? Trust Signal Check
+title: Is herohabit.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for herohabit.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  herohabit.com scores 70/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:53.415Z'
 finalUrl: 'https://herohabit.com/'
 reachable: true

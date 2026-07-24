@@ -1,10 +1,10 @@
 ---
 domain: thebakerswarehouse.com
 slug: thebakerswarehouse-com
-title: Is thebakerswarehouse.com Legit? Trust Signal Check
+title: Is thebakerswarehouse.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thebakerswarehouse.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thebakerswarehouse.com scores 100/100 on our public trust checks. Established
+  domain — registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:34.376Z'
 finalUrl: 'https://thebakerswarehouse.com/'
 reachable: true

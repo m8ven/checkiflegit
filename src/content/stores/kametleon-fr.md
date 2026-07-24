@@ -1,10 +1,10 @@
 ---
 domain: kametleon.fr
 slug: kametleon-fr
-title: Is kametleon.fr Legit? Trust Signal Check
+title: Is kametleon.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kametleon.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kametleon.fr scores 100/100 on our public trust checks. Established domain —
+  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:24.474Z'
 finalUrl: 'https://kametleon.fr/'
 reachable: true

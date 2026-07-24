@@ -1,10 +1,10 @@
 ---
 domain: sahachit.com
 slug: sahachit-com
-title: Is sahachit.com Legit? Trust Signal Check
+title: Is sahachit.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for sahachit.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sahachit.com scores 82/100 on our public trust checks. Established domain —
+  registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:36.546Z'
 finalUrl: 'https://sahachit.com/'
 reachable: true

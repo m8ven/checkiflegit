@@ -1,10 +1,10 @@
 ---
 domain: newline.com.mt
 slug: newline-com-mt
-title: Is newline.com.mt Legit? Trust Signal Check
+title: Is newline.com.mt Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for newline.com.mt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  newline.com.mt scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:22:33.888Z'
 finalUrl: 'https://newline.com.mt/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: multigunshop.com
 slug: multigunshop-com
-title: Is multigunshop.com Legit? Trust Signal Check
+title: Is multigunshop.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for multigunshop.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  multigunshop.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T14:58:57.667Z'
 finalUrl: 'https://multigunshop.com/'
 reachable: true

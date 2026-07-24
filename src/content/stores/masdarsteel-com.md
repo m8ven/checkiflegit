@@ -1,10 +1,10 @@
 ---
 domain: masdarsteel.com
 slug: masdarsteel-com
-title: Is masdarsteel.com Legit? Trust Signal Check
+title: Is masdarsteel.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for masdarsteel.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  masdarsteel.com scores 88/100 on our public trust checks. Established domain —
+  registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:38.524Z'
 finalUrl: 'https://masdarsteel.com/'
 reachable: true

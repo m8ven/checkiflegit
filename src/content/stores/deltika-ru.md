@@ -1,10 +1,10 @@
 ---
 domain: deltika.ru
 slug: deltika-ru
-title: Is deltika.ru Legit? Trust Signal Check
+title: Is deltika.ru Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for deltika.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  deltika.ru scores 85/100 on our public trust checks. Established domain —
+  registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:04.676Z'
 finalUrl: 'https://deltika.ru/'
 reachable: true

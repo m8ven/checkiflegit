@@ -1,10 +1,10 @@
 ---
 domain: tybstore.com
 slug: tybstore-com
-title: Is tybstore.com Legit? Trust Signal Check
+title: Is tybstore.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for tybstore.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tybstore.com scores 70/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:11.600Z'
 finalUrl: 'https://tybstore.com/'
 reachable: true

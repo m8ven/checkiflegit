@@ -1,10 +1,10 @@
 ---
 domain: sharysaratov.ru
 slug: sharysaratov-ru
-title: Is sharysaratov.ru Legit? Trust Signal Check
+title: Is sharysaratov.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for sharysaratov.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sharysaratov.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:31:03.538Z'
 finalUrl: 'https://sharysaratov.ru/'
 reachable: true

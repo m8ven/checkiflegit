@@ -1,10 +1,10 @@
 ---
 domain: getfiteatwell.com
 slug: getfiteatwell-com
-title: Is getfiteatwell.com Legit? Trust Signal Check
+title: Is getfiteatwell.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for getfiteatwell.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  getfiteatwell.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T14:58:59.992Z'
 finalUrl: 'https://getfiteatwell.com/'
 reachable: true

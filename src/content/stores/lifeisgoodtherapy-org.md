@@ -1,10 +1,10 @@
 ---
 domain: lifeisgoodtherapy.org
 slug: lifeisgoodtherapy-org
-title: Is lifeisgoodtherapy.org Legit? Trust Signal Check
+title: Is lifeisgoodtherapy.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lifeisgoodtherapy.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lifeisgoodtherapy.org scores 88/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:47.761Z'
 finalUrl: 'https://lifeisgoodtherapy.org/'
 reachable: true

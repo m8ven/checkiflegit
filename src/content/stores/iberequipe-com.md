@@ -1,10 +1,10 @@
 ---
 domain: iberequipe.com
 slug: iberequipe-com
-title: Is iberequipe.com Legit? Trust Signal Check
+title: Is iberequipe.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for iberequipe.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  iberequipe.com scores 88/100 on our public trust checks. Established domain —
+  registered 22.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:22.636Z'
 finalUrl: 'https://www.iberequipe.com/'
 reachable: true

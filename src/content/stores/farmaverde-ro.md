@@ -1,10 +1,10 @@
 ---
 domain: farmaverde.ro
 slug: farmaverde-ro
-title: Is farmaverde.ro Legit? Trust Signal Check
+title: Is farmaverde.ro Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for farmaverde.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  farmaverde.ro scores 73/100 on our public trust checks. Established domain —
+  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:44.428Z'
 finalUrl: 'https://farmaverde.ro/'
 reachable: true

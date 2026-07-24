@@ -1,10 +1,10 @@
 ---
 domain: annanejbert.com
 slug: annanejbert-com
-title: Is annanejbert.com Legit? Trust Signal Check
+title: Is annanejbert.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for annanejbert.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  annanejbert.com scores 73/100 on our public trust checks. Established domain —
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:10.106Z'
 finalUrl: 'https://www.annanejbert.com/'
 reachable: true

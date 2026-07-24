@@ -1,10 +1,10 @@
 ---
 domain: agerecontra.it
 slug: agerecontra-it
-title: Is agerecontra.it Legit? Trust Signal Check
+title: Is agerecontra.it Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for agerecontra.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  agerecontra.it scores 94/100 on our public trust checks. Established domain —
+  registered 19.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:30.984Z'
 finalUrl: 'https://agerecontra.it/'
 reachable: true

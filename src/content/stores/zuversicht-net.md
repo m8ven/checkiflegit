@@ -1,10 +1,10 @@
 ---
 domain: zuversicht.net
 slug: zuversicht-net
-title: Is zuversicht.net Legit? Trust Signal Check
+title: Is zuversicht.net Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for zuversicht.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  zuversicht.net scores 88/100 on our public trust checks. Established domain —
+  registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:12.885Z'
 finalUrl: 'https://www.zuversicht.net/'
 reachable: true

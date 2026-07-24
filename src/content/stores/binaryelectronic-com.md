@@ -1,10 +1,10 @@
 ---
 domain: binaryelectronic.com
 slug: binaryelectronic-com
-title: Is binaryelectronic.com Legit? Trust Signal Check
+title: Is binaryelectronic.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for binaryelectronic.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  binaryelectronic.com scores 82/100 on our public trust checks. Established
+  domain — registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:38.372Z'
 finalUrl: 'https://binaryelectronic.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: krushivigyan.com
 slug: krushivigyan-com
-title: Is krushivigyan.com Legit? Trust Signal Check
+title: Is krushivigyan.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for krushivigyan.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  krushivigyan.com scores 100/100 on our public trust checks. Established domain
+  — registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:16.209Z'
 finalUrl: 'https://krushivigyan.com/'
 reachable: true

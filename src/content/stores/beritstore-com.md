@@ -1,10 +1,10 @@
 ---
 domain: beritstore.com
 slug: beritstore-com
-title: Is beritstore.com Legit? Trust Signal Check
+title: Is beritstore.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for beritstore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beritstore.com scores 70/100 on our public trust checks. Established domain —
+  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:00.044Z'
 finalUrl: 'https://beritstore.com/'
 reachable: true

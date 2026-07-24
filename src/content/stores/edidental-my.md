@@ -1,10 +1,10 @@
 ---
 domain: edidental.my
 slug: edidental-my
-title: Is edidental.my Legit? Trust Signal Check
+title: Is edidental.my Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for edidental.my: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  edidental.my scores 76/100 on our public trust checks. Established domain —
+  registered 15.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:39.856Z'
 finalUrl: 'https://edidental.my/'
 reachable: true

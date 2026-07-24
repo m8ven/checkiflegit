@@ -1,10 +1,10 @@
 ---
 domain: ajilagroup.com
 slug: ajilagroup-com
-title: Is ajilagroup.com Legit? Trust Signal Check
+title: Is ajilagroup.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ajilagroup.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ajilagroup.com scores 88/100 on our public trust checks. Established domain —
+  registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:41.324Z'
 finalUrl: 'https://ajilagroup.com/'
 reachable: true

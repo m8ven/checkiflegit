@@ -1,10 +1,10 @@
 ---
 domain: pinocchio-restaurant.de
 slug: pinocchio-restaurant-de
-title: Is pinocchio-restaurant.de Legit? Trust Signal Check
+title: Is pinocchio-restaurant.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for pinocchio-restaurant.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pinocchio-restaurant.de scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:27:27.041Z'
 finalUrl: 'https://pinocchio-restaurant.de/'
 reachable: true

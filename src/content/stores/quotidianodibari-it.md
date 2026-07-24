@@ -1,10 +1,10 @@
 ---
 domain: quotidianodibari.it
 slug: quotidianodibari-it
-title: Is quotidianodibari.it Legit? Trust Signal Check
+title: Is quotidianodibari.it Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for quotidianodibari.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  quotidianodibari.it scores 70/100 on our public trust checks. Established
+  domain — registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:17.109Z'
 finalUrl: 'https://quotidianodibari.it/'
 reachable: true

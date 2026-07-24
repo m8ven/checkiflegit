@@ -1,10 +1,10 @@
 ---
 domain: phytormc.com
 slug: phytormc-com
-title: Is phytormc.com Legit? Trust Signal Check
+title: Is phytormc.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for phytormc.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  phytormc.com scores 88/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:57.636Z'
 finalUrl: 'https://phytormc.com/'
 reachable: true

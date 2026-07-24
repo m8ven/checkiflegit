@@ -1,10 +1,10 @@
 ---
 domain: modulemountain.com
 slug: modulemountain-com
-title: Is modulemountain.com Legit? Trust Signal Check
+title: Is modulemountain.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for modulemountain.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  modulemountain.com scores 85/100 on our public trust checks. Established
+  domain — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:08.641Z'
 finalUrl: 'https://modulemountain.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: thefineartgallery.ch
 slug: thefineartgallery-ch
-title: Is thefineartgallery.ch Legit? Trust Signal Check
+title: Is thefineartgallery.ch Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thefineartgallery.ch: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thefineartgallery.ch scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:27.535Z'
 finalUrl: 'https://www.thefineartgallery.ch/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: petlandknoxville.com
 slug: petlandknoxville-com
-title: Is petlandknoxville.com Legit? Trust Signal Check
+title: Is petlandknoxville.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for petlandknoxville.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  petlandknoxville.com scores 76/100 on our public trust checks. Established
+  domain — registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:27.911Z'
 finalUrl: 'https://petlandknoxville.com/'
 reachable: true

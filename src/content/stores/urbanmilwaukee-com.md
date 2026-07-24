@@ -1,10 +1,10 @@
 ---
 domain: urbanmilwaukee.com
 slug: urbanmilwaukee-com
-title: Is urbanmilwaukee.com Legit? Trust Signal Check
+title: Is urbanmilwaukee.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for urbanmilwaukee.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  urbanmilwaukee.com scores 76/100 on our public trust checks. Established
+  domain — registered 18.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:58.776Z'
 finalUrl: 'https://urbanmilwaukee.com/'
 reachable: true

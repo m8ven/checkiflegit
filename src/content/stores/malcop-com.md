@@ -1,10 +1,10 @@
 ---
 domain: malcop.com
 slug: malcop-com
-title: Is malcop.com Legit? Trust Signal Check
+title: Is malcop.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for malcop.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  malcop.com scores 100/100 on our public trust checks. Established domain —
+  registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:29.356Z'
 finalUrl: 'https://www.malcop.com/'
 reachable: true

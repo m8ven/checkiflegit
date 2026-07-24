@@ -1,10 +1,10 @@
 ---
 domain: stateaviation.co.tz
 slug: stateaviation-co-tz
-title: Is stateaviation.co.tz Legit? Trust Signal Check
+title: Is stateaviation.co.tz Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for stateaviation.co.tz: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  stateaviation.co.tz scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:46:17.477Z'
 finalUrl: 'https://stateaviation.co.tz/'
 reachable: true

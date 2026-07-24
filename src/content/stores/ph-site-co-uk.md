@@ -1,10 +1,10 @@
 ---
 domain: ph-site.co.uk
 slug: ph-site-co-uk
-title: Is ph-site.co.uk Legit? Trust Signal Check
+title: Is ph-site.co.uk Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for ph-site.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ph-site.co.uk scores 70/100 on our public trust checks. Established domain —
+  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:55:56.041Z'
 finalUrl: 'https://ph-site.co.uk/'
 reachable: true

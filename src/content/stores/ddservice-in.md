@@ -1,10 +1,10 @@
 ---
 domain: ddservice.in
 slug: ddservice-in
-title: Is ddservice.in Legit? Trust Signal Check
+title: Is ddservice.in Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for ddservice.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ddservice.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:39:59.812Z'
 finalUrl: 'https://ddservice.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: parfums-duzege.com
 slug: parfums-duzege-com
-title: Is parfums-duzege.com Legit? Trust Signal Check
+title: Is parfums-duzege.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for parfums-duzege.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  parfums-duzege.com scores 100/100 on our public trust checks. Established
+  domain — registered 22.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:45.933Z'
 finalUrl: 'https://parfums-duzege.com/'
 reachable: true

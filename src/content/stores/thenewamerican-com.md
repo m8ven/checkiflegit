@@ -1,10 +1,10 @@
 ---
 domain: thenewamerican.com
 slug: thenewamerican-com
-title: Is thenewamerican.com Legit? Trust Signal Check
+title: Is thenewamerican.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thenewamerican.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thenewamerican.com scores 100/100 on our public trust checks. Established
+  domain — registered 27.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:55.532Z'
 finalUrl: 'https://thenewamerican.com/'
 reachable: true

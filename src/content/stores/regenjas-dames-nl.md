@@ -1,10 +1,10 @@
 ---
 domain: regenjas-dames.nl
 slug: regenjas-dames-nl
-title: Is regenjas-dames.nl Legit? Trust Signal Check
+title: Is regenjas-dames.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for regenjas-dames.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  regenjas-dames.nl scores 73/100 on our public trust checks. Established domain
+  — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:51.976Z'
 finalUrl: 'https://regenjas-dames.nl/'
 reachable: true

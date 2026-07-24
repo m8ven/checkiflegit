@@ -1,11 +1,11 @@
 ---
 domain: tour.hanoitourism.com.vn
 slug: tour-hanoitourism-com-vn
-title: Is tour.hanoitourism.com.vn Legit? Trust Signal Check
+title: Is tour.hanoitourism.com.vn Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for tour.hanoitourism.com.vn: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  tour.hanoitourism.com.vn scores 19/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:44:30.749Z'
 finalUrl: 'https://tour.hanoitourism.com.vn/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: strassenausstatter.de
 slug: strassenausstatter-de
-title: Is strassenausstatter.de Legit? Trust Signal Check
+title: Is strassenausstatter.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for strassenausstatter.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  strassenausstatter.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:29.671Z'
 finalUrl: 'https://www.strassenausstatter.de/'
 reachable: true

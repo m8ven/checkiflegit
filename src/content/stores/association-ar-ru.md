@@ -1,10 +1,10 @@
 ---
 domain: association-ar.ru
 slug: association-ar-ru
-title: Is association-ar.ru Legit? Trust Signal Check
+title: Is association-ar.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for association-ar.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  association-ar.ru scores 73/100 on our public trust checks. Established domain
+  — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:59.009Z'
 finalUrl: 'https://association-ar.ru/'
 reachable: true

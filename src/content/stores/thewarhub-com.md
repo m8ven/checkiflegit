@@ -1,10 +1,10 @@
 ---
 domain: thewarhub.com
 slug: thewarhub-com
-title: Is thewarhub.com Legit? Trust Signal Check
+title: Is thewarhub.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for thewarhub.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thewarhub.com scores 94/100 on our public trust checks. Established domain —
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:36:03.940Z'
 finalUrl: 'https://www.thewarhub.com/'
 reachable: true

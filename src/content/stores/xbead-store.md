@@ -1,10 +1,10 @@
 ---
 domain: xbead.store
 slug: xbead-store
-title: Is xbead.store Legit? Trust Signal Check
+title: Is xbead.store Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for xbead.store: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  xbead.store scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage. Domain is relatively young.
 fetchedAt: '2026-06-25T03:24:30.383Z'
 finalUrl: 'https://www.xbead.store/'
 reachable: true

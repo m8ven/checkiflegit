@@ -1,10 +1,10 @@
 ---
 domain: beenhere.org
 slug: beenhere-org
-title: Is beenhere.org Legit? Trust Signal Check
+title: Is beenhere.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for beenhere.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  beenhere.org scores 88/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:11.673Z'
 finalUrl: 'https://beenhere.org/'
 reachable: true

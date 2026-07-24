@@ -1,10 +1,10 @@
 ---
 domain: revistalibertad.com
 slug: revistalibertad-com
-title: Is revistalibertad.com Legit? Trust Signal Check
+title: Is revistalibertad.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for revistalibertad.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  revistalibertad.com scores 85/100 on our public trust checks. Established
+  domain — registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:55.359Z'
 finalUrl: 'https://revistalibertad.com/'
 reachable: true

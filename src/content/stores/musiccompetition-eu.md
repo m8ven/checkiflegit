@@ -1,10 +1,10 @@
 ---
 domain: musiccompetition.eu
 slug: musiccompetition-eu
-title: Is musiccompetition.eu Legit? Trust Signal Check
+title: Is musiccompetition.eu Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for musiccompetition.eu: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  musiccompetition.eu scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:53:50.333Z'
 finalUrl: 'https://musiccompetition.eu/'
 reachable: true

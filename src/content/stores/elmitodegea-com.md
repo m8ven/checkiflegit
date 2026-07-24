@@ -1,10 +1,10 @@
 ---
 domain: elmitodegea.com
 slug: elmitodegea-com
-title: Is elmitodegea.com Legit? Trust Signal Check
+title: Is elmitodegea.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for elmitodegea.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elmitodegea.com scores 76/100 on our public trust checks. Established domain —
+  registered 13.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:31:58.929Z'
 finalUrl: 'https://www.elmitodegea.com/'
 reachable: true

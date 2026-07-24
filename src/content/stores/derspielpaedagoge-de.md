@@ -1,10 +1,11 @@
 ---
 domain: derspielpaedagoge.de
 slug: derspielpaedagoge-de
-title: Is derspielpaedagoge.de Legit? Trust Signal Check
+title: Is derspielpaedagoge.de Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for derspielpaedagoge.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  derspielpaedagoge.de scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:48:15.525Z'
 finalUrl: 'https://derspielpaedagoge.de/'
 reachable: true

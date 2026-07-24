@@ -1,10 +1,10 @@
 ---
 domain: roslagensgk.com
 slug: roslagensgk-com
-title: Is roslagensgk.com Legit? Trust Signal Check
+title: Is roslagensgk.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for roslagensgk.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  roslagensgk.com scores 88/100 on our public trust checks. Established domain —
+  registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:21:20.394Z'
 finalUrl: 'https://www.roslagensgk.com/'
 reachable: true

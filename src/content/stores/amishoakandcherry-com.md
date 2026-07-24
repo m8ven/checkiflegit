@@ -1,10 +1,10 @@
 ---
 domain: amishoakandcherry.com
 slug: amishoakandcherry-com
-title: Is amishoakandcherry.com Legit? Trust Signal Check
+title: Is amishoakandcherry.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for amishoakandcherry.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  amishoakandcherry.com scores 88/100 on our public trust checks. Established
+  domain — registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:43:17.789Z'
 finalUrl: 'https://amishoakandcherry.com/'
 reachable: true

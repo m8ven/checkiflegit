@@ -1,10 +1,10 @@
 ---
 domain: cydacademy.org
 slug: cydacademy-org
-title: Is cydacademy.org Legit? Trust Signal Check
+title: Is cydacademy.org Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for cydacademy.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cydacademy.org scores 73/100 on our public trust checks. Established domain —
+  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:01.789Z'
 finalUrl: 'https://cydacademy.org/'
 reachable: true

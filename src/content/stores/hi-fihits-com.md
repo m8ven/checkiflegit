@@ -1,10 +1,10 @@
 ---
 domain: hi-fihits.com
 slug: hi-fihits-com
-title: Is hi-fihits.com Legit? Trust Signal Check
+title: Is hi-fihits.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for hi-fihits.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hi-fihits.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:31:14.460Z'
 finalUrl: 'https://hi-fihits.com/'
 reachable: true

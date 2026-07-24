@@ -1,10 +1,10 @@
 ---
 domain: jprogrips.com
 slug: jprogrips-com
-title: Is jprogrips.com Legit? Trust Signal Check
+title: Is jprogrips.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for jprogrips.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jprogrips.com scores 76/100 on our public trust checks. Established domain —
+  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:01.583Z'
 finalUrl: 'https://www.jprogrips.com/'
 reachable: true

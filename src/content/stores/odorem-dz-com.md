@@ -1,10 +1,10 @@
 ---
 domain: odorem-dz.com
 slug: odorem-dz-com
-title: Is odorem-dz.com Legit? Trust Signal Check
+title: Is odorem-dz.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for odorem-dz.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  odorem-dz.com scores 100/100 on our public trust checks. Established domain —
+  registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:12.372Z'
 finalUrl: 'https://odorem-dz.com/'
 reachable: true

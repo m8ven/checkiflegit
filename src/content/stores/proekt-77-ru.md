@@ -1,10 +1,11 @@
 ---
 domain: proekt-77.ru
 slug: proekt-77-ru
-title: Is proekt-77.ru Legit? Trust Signal Check
+title: Is proekt-77.ru Legit? Trust Score 7/100
 description: >-
-  An automated trust-signal check for proekt-77.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  proekt-77.ru scores 7/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T02:48:33.404Z'
 finalUrl: 'https://proekt-77.ru/'
 reachable: true

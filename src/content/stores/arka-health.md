@@ -1,10 +1,10 @@
 ---
 domain: arka.health
 slug: arka-health
-title: Is arka.health Legit? Trust Signal Check
+title: Is arka.health Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for arka.health: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  arka.health scores 88/100 on our public trust checks. Established domain —
+  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:03.592Z'
 finalUrl: 'https://arka.health/'
 reachable: true

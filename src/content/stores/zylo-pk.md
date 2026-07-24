@@ -1,10 +1,10 @@
 ---
 domain: zylo.pk
 slug: zylo-pk
-title: Is zylo.pk Legit? Trust Signal Check
+title: Is zylo.pk Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for zylo.pk: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zylo.pk scores 52/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T14:50:29.559Z'
 finalUrl: 'https://zylo.pk/'
 reachable: true

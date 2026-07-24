@@ -1,10 +1,10 @@
 ---
 domain: smartcleaningcenter.nl
 slug: smartcleaningcenter-nl
-title: Is smartcleaningcenter.nl Legit? Trust Signal Check
+title: Is smartcleaningcenter.nl Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for smartcleaningcenter.nl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  smartcleaningcenter.nl scores 70/100 on our public trust checks. Established
+  domain — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:21:57.490Z'
 finalUrl: 'https://www.smartcleaningcenter.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: rangerroveryedekparca.com
 slug: rangerroveryedekparca-com
-title: Is rangerroveryedekparca.com Legit? Trust Signal Check
+title: Is rangerroveryedekparca.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for rangerroveryedekparca.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rangerroveryedekparca.com scores 55/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T02:17:10.842Z'
 finalUrl: 'https://rangerroveryedekparca.com/'
 reachable: true

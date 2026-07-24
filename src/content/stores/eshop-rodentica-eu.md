@@ -1,10 +1,10 @@
 ---
 domain: eshop.rodentica.eu
 slug: eshop-rodentica-eu
-title: Is eshop.rodentica.eu Legit? Trust Signal Check
+title: Is eshop.rodentica.eu Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for eshop.rodentica.eu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eshop.rodentica.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:39:57.551Z'
 finalUrl: 'https://eshop.rodentica.eu/'
 reachable: true

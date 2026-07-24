@@ -1,10 +1,10 @@
 ---
 domain: droogvintage.nl
 slug: droogvintage-nl
-title: Is droogvintage.nl Legit? Trust Signal Check
+title: Is droogvintage.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for droogvintage.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  droogvintage.nl scores 88/100 on our public trust checks. Established domain —
+  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:23.980Z'
 finalUrl: 'https://droogvintage.nl/'
 reachable: true

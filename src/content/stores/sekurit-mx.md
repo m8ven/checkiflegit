@@ -1,10 +1,10 @@
 ---
 domain: sekurit.mx
 slug: sekurit-mx
-title: Is sekurit.mx Legit? Trust Signal Check
+title: Is sekurit.mx Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sekurit.mx: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sekurit.mx scores 76/100 on our public trust checks. Established domain —
+  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:24.851Z'
 finalUrl: 'https://sekurit.mx/'
 reachable: true

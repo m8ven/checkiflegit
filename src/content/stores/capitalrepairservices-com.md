@@ -1,10 +1,11 @@
 ---
 domain: capitalrepairservices.com
 slug: capitalrepairservices-com
-title: Is capitalrepairservices.com Legit? Trust Signal Check
+title: Is capitalrepairservices.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for capitalrepairservices.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  capitalrepairservices.com scores 94/100 on our public trust checks.
+  Established domain — registered 20.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:50:12.433Z'
 finalUrl: 'https://capitalrepairservices.com/'
 reachable: true

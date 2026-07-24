@@ -1,10 +1,10 @@
 ---
 domain: climaconvenienza.it
 slug: climaconvenienza-it
-title: Is climaconvenienza.it Legit? Trust Signal Check
+title: Is climaconvenienza.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for climaconvenienza.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  climaconvenienza.it scores 100/100 on our public trust checks. Established
+  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:08.911Z'
 finalUrl: 'https://www.climaconvenienza.it/'
 reachable: true

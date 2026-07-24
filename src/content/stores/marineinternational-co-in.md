@@ -1,10 +1,11 @@
 ---
 domain: marineinternational.co.in
 slug: marineinternational-co-in
-title: Is marineinternational.co.in Legit? Trust Signal Check
+title: Is marineinternational.co.in Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for marineinternational.co.in: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  marineinternational.co.in scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:27:45.052Z'
 finalUrl: 'https://www.marineinternational.co.in/'
 reachable: true

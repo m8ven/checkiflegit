@@ -1,10 +1,10 @@
 ---
 domain: accele.com
 slug: accele-com
-title: Is accele.com Legit? Trust Signal Check
+title: Is accele.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for accele.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  accele.com scores 55/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:34:10.291Z'
 finalUrl: 'https://accele.com/'
 reachable: true

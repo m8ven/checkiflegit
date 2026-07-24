@@ -1,10 +1,10 @@
 ---
 domain: luckyhome.ee
 slug: luckyhome-ee
-title: Is luckyhome.ee Legit? Trust Signal Check
+title: Is luckyhome.ee Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for luckyhome.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  luckyhome.ee scores 70/100 on our public trust checks. Established domain —
+  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:59.158Z'
 finalUrl: 'https://luckyhome.ee/'
 reachable: true

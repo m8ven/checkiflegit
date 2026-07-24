@@ -1,10 +1,10 @@
 ---
 domain: valika.eu
 slug: valika-eu
-title: Is valika.eu Legit? Trust Signal Check
+title: Is valika.eu Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for valika.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  valika.eu scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:55:07.985Z'
 finalUrl: 'https://valika.eu/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ablondi.studio
 slug: ablondi-studio
-title: Is ablondi.studio Legit? Trust Signal Check
+title: Is ablondi.studio Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ablondi.studio: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ablondi.studio scores 49/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:17:06.257Z'
 finalUrl: 'https://ablondi.studio/'
 reachable: true

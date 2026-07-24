@@ -1,10 +1,10 @@
 ---
 domain: galerie-kocken.de
 slug: galerie-kocken-de
-title: Is galerie-kocken.de Legit? Trust Signal Check
+title: Is galerie-kocken.de Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for galerie-kocken.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  galerie-kocken.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:03:39.965Z'
 finalUrl: 'https://www.galerie-kocken.de/'
 reachable: true

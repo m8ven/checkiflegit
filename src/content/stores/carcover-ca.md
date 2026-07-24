@@ -1,10 +1,10 @@
 ---
 domain: carcover.ca
 slug: carcover-ca
-title: Is carcover.ca Legit? Trust Signal Check
+title: Is carcover.ca Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for carcover.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  carcover.ca scores 85/100 on our public trust checks. Established domain —
+  registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:09.103Z'
 finalUrl: 'https://www.carcover.ca/'
 reachable: true

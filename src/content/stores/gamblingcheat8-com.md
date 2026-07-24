@@ -1,10 +1,10 @@
 ---
 domain: gamblingcheat8.com
 slug: gamblingcheat8-com
-title: Is gamblingcheat8.com Legit? Trust Signal Check
+title: Is gamblingcheat8.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for gamblingcheat8.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gamblingcheat8.com scores 88/100 on our public trust checks. Established
+  domain — registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:58:56.987Z'
 finalUrl: 'https://www.gamblingcheat8.com/'
 reachable: true

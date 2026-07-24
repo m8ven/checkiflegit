@@ -1,10 +1,10 @@
 ---
 domain: lacorona.in
 slug: lacorona-in
-title: Is lacorona.in Legit? Trust Signal Check
+title: Is lacorona.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lacorona.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lacorona.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:18:39.325Z'
 finalUrl: 'https://lacorona.in/'
 reachable: true

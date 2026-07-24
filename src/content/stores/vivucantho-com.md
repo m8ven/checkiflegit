@@ -1,10 +1,10 @@
 ---
 domain: vivucantho.com
 slug: vivucantho-com
-title: Is vivucantho.com Legit? Trust Signal Check
+title: Is vivucantho.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for vivucantho.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vivucantho.com scores 88/100 on our public trust checks. Established domain —
+  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:44.768Z'
 finalUrl: 'https://vivucantho.com/'
 reachable: true

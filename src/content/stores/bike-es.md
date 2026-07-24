@@ -1,10 +1,10 @@
 ---
 domain: bike.es
 slug: bike-es
-title: Is bike.es Legit? Trust Signal Check
+title: Is bike.es Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bike.es: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  bike.es scores 74/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:43:23.144Z'
 finalUrl: 'https://bike.es/'
 reachable: true

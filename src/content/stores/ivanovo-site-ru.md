@@ -1,10 +1,10 @@
 ---
 domain: ivanovo-site.ru
 slug: ivanovo-site-ru
-title: Is ivanovo-site.ru Legit? Trust Signal Check
+title: Is ivanovo-site.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for ivanovo-site.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ivanovo-site.ru scores 73/100 on our public trust checks. Established domain —
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:11.532Z'
 finalUrl: 'https://ivanovo-site.ru/'
 reachable: true

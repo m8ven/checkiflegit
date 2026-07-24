@@ -1,10 +1,10 @@
 ---
 domain: maperi.com
 slug: maperi-com
-title: Is maperi.com Legit? Trust Signal Check
+title: Is maperi.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for maperi.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  maperi.com scores 100/100 on our public trust checks. Established domain —
+  registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:31:00.871Z'
 finalUrl: 'https://www.maperi.com/'
 reachable: true

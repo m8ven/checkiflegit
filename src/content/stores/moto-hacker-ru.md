@@ -1,10 +1,10 @@
 ---
 domain: moto-hacker.ru
 slug: moto-hacker-ru
-title: Is moto-hacker.ru Legit? Trust Signal Check
+title: Is moto-hacker.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for moto-hacker.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  moto-hacker.ru scores 85/100 on our public trust checks. Established domain —
+  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:41.686Z'
 finalUrl: 'https://moto-hacker.ru/'
 reachable: true

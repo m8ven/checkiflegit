@@ -1,10 +1,10 @@
 ---
 domain: webstercreek.com
 slug: webstercreek-com
-title: Is webstercreek.com Legit? Trust Signal Check
+title: Is webstercreek.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for webstercreek.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  webstercreek.com scores 94/100 on our public trust checks. Established domain
+  — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:23.374Z'
 finalUrl: 'https://webstercreek.com/'
 reachable: true

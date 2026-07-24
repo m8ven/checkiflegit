@@ -1,10 +1,10 @@
 ---
 domain: kamdeo.ru
 slug: kamdeo-ru
-title: Is kamdeo.ru Legit? Trust Signal Check
+title: Is kamdeo.ru Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kamdeo.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kamdeo.ru scores 94/100 on our public trust checks. Established domain —
+  registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:56.425Z'
 finalUrl: 'https://kamdeo.ru/'
 reachable: true

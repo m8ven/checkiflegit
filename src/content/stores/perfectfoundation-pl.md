@@ -1,11 +1,10 @@
 ---
 domain: perfectfoundation.pl
 slug: perfectfoundation-pl
-title: Is perfectfoundation.pl Legit? Trust Signal Check
+title: Is perfectfoundation.pl Legit? Trust Score 1/100
 description: >-
-  An automated trust-signal check for perfectfoundation.pl: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  perfectfoundation.pl scores 1/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:28:52.515Z'
 finalUrl: 'http://perfectfoundation.pl/'
 reachable: true

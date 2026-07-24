@@ -1,10 +1,10 @@
 ---
 domain: hieupc.org
 slug: hieupc-org
-title: Is hieupc.org Legit? Trust Signal Check
+title: Is hieupc.org Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hieupc.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hieupc.org scores 76/100 on our public trust checks. Established domain —
+  registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:43.784Z'
 finalUrl: 'https://hieupc.org/'
 reachable: true

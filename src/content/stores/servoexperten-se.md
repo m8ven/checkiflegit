@@ -1,10 +1,10 @@
 ---
 domain: servoexperten.se
 slug: servoexperten-se
-title: Is servoexperten.se Legit? Trust Signal Check
+title: Is servoexperten.se Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for servoexperten.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  servoexperten.se scores 73/100 on our public trust checks. Established domain
+  — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:30:58.945Z'
 finalUrl: 'https://servoexperten.se/'
 reachable: true

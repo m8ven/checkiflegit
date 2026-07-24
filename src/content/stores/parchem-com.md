@@ -1,10 +1,10 @@
 ---
 domain: parchem.com
 slug: parchem-com
-title: Is parchem.com Legit? Trust Signal Check
+title: Is parchem.com Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for parchem.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  parchem.com scores 94/100 on our public trust checks. Established domain —
+  registered 30 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:55.889Z'
 finalUrl: 'https://parchem.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: brookfieldhouse.com.au
 slug: brookfieldhouse-com-au
-title: Is brookfieldhouse.com.au Legit? Trust Signal Check
+title: Is brookfieldhouse.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for brookfieldhouse.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  brookfieldhouse.com.au scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:28:24.251Z'
 finalUrl: 'https://brookfieldhouse.com.au/'
 reachable: true

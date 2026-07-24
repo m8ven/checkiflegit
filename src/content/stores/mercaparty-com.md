@@ -1,10 +1,10 @@
 ---
 domain: mercaparty.com
 slug: mercaparty-com
-title: Is mercaparty.com Legit? Trust Signal Check
+title: Is mercaparty.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mercaparty.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mercaparty.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:39.587Z'
 finalUrl: 'https://www.mercaparty.com/'
 reachable: true

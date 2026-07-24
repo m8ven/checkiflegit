@@ -1,10 +1,10 @@
 ---
 domain: kleurhuys.nl
 slug: kleurhuys-nl
-title: Is kleurhuys.nl Legit? Trust Signal Check
+title: Is kleurhuys.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kleurhuys.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kleurhuys.nl scores 88/100 on our public trust checks. Established domain —
+  registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:00.855Z'
 finalUrl: 'https://www.kleurhuys.nl/'
 reachable: true

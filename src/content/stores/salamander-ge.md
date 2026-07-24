@@ -1,10 +1,10 @@
 ---
 domain: salamander.ge
 slug: salamander-ge
-title: Is salamander.ge Legit? Trust Signal Check
+title: Is salamander.ge Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for salamander.ge: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  salamander.ge scores 76/100 on our public trust checks. Established domain —
+  registered 11 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:52.738Z'
 finalUrl: 'https://salamander.ge/'
 reachable: true

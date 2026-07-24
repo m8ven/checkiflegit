@@ -1,10 +1,10 @@
 ---
 domain: incalzitoareterasa.com
 slug: incalzitoareterasa-com
-title: Is incalzitoareterasa.com Legit? Trust Signal Check
+title: Is incalzitoareterasa.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for incalzitoareterasa.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  incalzitoareterasa.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T14:52:38.039Z'
 finalUrl: 'https://incalzitoareterasa.com/'
 reachable: true

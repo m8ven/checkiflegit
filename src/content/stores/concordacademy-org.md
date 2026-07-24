@@ -1,10 +1,10 @@
 ---
 domain: concordacademy.org
 slug: concordacademy-org
-title: Is concordacademy.org Legit? Trust Signal Check
+title: Is concordacademy.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for concordacademy.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  concordacademy.org scores 100/100 on our public trust checks. Established
+  domain — registered 29.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:23.044Z'
 finalUrl: 'https://concordacademy.org/'
 reachable: true

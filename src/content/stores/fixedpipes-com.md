@@ -1,10 +1,10 @@
 ---
 domain: fixedpipes.com
 slug: fixedpipes-com
-title: Is fixedpipes.com Legit? Trust Signal Check
+title: Is fixedpipes.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for fixedpipes.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fixedpipes.com scores 88/100 on our public trust checks. Established domain —
+  registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:50.468Z'
 finalUrl: 'https://fixedpipes.com/'
 reachable: true

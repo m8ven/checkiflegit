@@ -1,11 +1,10 @@
 ---
 domain: drwilliesportandeducation.co.za
 slug: drwilliesportandeducation-co-za
-title: Is drwilliesportandeducation.co.za Legit? Trust Signal Check
+title: Is drwilliesportandeducation.co.za Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for drwilliesportandeducation.co.za: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  drwilliesportandeducation.co.za scores 36/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T14:54:12.452Z'
 finalUrl: 'https://drwilliesportandeducation.co.za/'
 reachable: true

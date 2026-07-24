@@ -1,10 +1,10 @@
 ---
 domain: 2pfabricaciones.es
 slug: 2pfabricaciones-es
-title: Is 2pfabricaciones.es Legit? Trust Signal Check
+title: Is 2pfabricaciones.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for 2pfabricaciones.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  2pfabricaciones.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:33:51.999Z'
 finalUrl: 'https://2pfabricaciones.es/'
 reachable: true

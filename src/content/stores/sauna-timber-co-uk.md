@@ -1,10 +1,10 @@
 ---
 domain: sauna-timber.co.uk
 slug: sauna-timber-co-uk
-title: Is sauna-timber.co.uk Legit? Trust Signal Check
+title: Is sauna-timber.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for sauna-timber.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sauna-timber.co.uk scores 73/100 on our public trust checks. Established
+  domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:02.192Z'
 finalUrl: 'https://sauna-timber.co.uk/'
 reachable: true

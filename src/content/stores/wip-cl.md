@@ -1,10 +1,10 @@
 ---
 domain: wip.cl
 slug: wip-cl
-title: Is wip.cl Legit? Trust Signal Check
+title: Is wip.cl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for wip.cl: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  wip.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:29:24.393Z'
 finalUrl: 'https://www.wip.cl/'
 reachable: true

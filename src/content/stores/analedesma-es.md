@@ -1,10 +1,10 @@
 ---
 domain: analedesma.es
 slug: analedesma-es
-title: Is analedesma.es Legit? Trust Signal Check
+title: Is analedesma.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for analedesma.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  analedesma.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:12:47.313Z'
 finalUrl: 'https://www.analedesma.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jordan1.vn
 slug: jordan1-vn
-title: Is jordan1.vn Legit? Trust Signal Check
+title: Is jordan1.vn Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for jordan1.vn: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jordan1.vn scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:40.409Z'
 finalUrl: 'https://www.jordan1.vn/'
 reachable: true

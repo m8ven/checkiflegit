@@ -1,10 +1,10 @@
 ---
 domain: sanpen.ir
 slug: sanpen-ir
-title: Is sanpen.ir Legit? Trust Signal Check
+title: Is sanpen.ir Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sanpen.ir: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sanpen.ir scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:32:25.868Z'
 finalUrl: 'https://www.sanpen.ir/'
 reachable: true

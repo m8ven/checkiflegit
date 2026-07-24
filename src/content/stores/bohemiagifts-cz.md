@@ -1,10 +1,11 @@
 ---
 domain: bohemiagifts.cz
 slug: bohemiagifts-cz
-title: Is bohemiagifts.cz Legit? Trust Signal Check
+title: Is bohemiagifts.cz Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bohemiagifts.cz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bohemiagifts.cz scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T15:37:32.819Z'
 finalUrl: 'https://bohemiagifts.cz/'
 reachable: true

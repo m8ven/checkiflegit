@@ -1,10 +1,10 @@
 ---
 domain: info-krovlya.ru
 slug: info-krovlya-ru
-title: Is info-krovlya.ru Legit? Trust Signal Check
+title: Is info-krovlya.ru Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for info-krovlya.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  info-krovlya.ru scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found.
 fetchedAt: '2026-06-25T11:58:06.713Z'
 finalUrl: 'https://info-krovlya.ru/'
 reachable: true

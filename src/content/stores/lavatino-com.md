@@ -1,10 +1,10 @@
 ---
 domain: lavatino.com
 slug: lavatino-com
-title: Is lavatino.com Legit? Trust Signal Check
+title: Is lavatino.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lavatino.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lavatino.com scores 88/100 on our public trust checks. Established domain —
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:41.403Z'
 finalUrl: 'https://lavatino.com/'
 reachable: true

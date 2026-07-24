@@ -1,10 +1,10 @@
 ---
 domain: mastermines.org
 slug: mastermines-org
-title: Is mastermines.org Legit? Trust Signal Check
+title: Is mastermines.org Legit? Trust Score 13/100
 description: >-
-  An automated trust-signal check for mastermines.org: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  mastermines.org scores 13/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T02:29:42.445Z'
 finalUrl: 'http://www.mastermines.org/'
 reachable: true

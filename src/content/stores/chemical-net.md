@@ -1,10 +1,10 @@
 ---
 domain: chemical.net
 slug: chemical-net
-title: Is chemical.net Legit? Trust Signal Check
+title: Is chemical.net Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for chemical.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  chemical.net scores 82/100 on our public trust checks. Established domain —
+  registered 29.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:28:34.729Z'
 finalUrl: 'https://chemical.net/'
 reachable: true

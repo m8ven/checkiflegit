@@ -1,10 +1,10 @@
 ---
 domain: kaffakaldi.com
 slug: kaffakaldi-com
-title: Is kaffakaldi.com Legit? Trust Signal Check
+title: Is kaffakaldi.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for kaffakaldi.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kaffakaldi.com scores 85/100 on our public trust checks. Established domain —
+  registered 25.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:21:37.514Z'
 finalUrl: 'https://www.kaffakaldi.com/'
 reachable: true

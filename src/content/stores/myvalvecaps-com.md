@@ -1,10 +1,10 @@
 ---
 domain: myvalvecaps.com
 slug: myvalvecaps-com
-title: Is myvalvecaps.com Legit? Trust Signal Check
+title: Is myvalvecaps.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for myvalvecaps.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  myvalvecaps.com scores 85/100 on our public trust checks. Established domain —
+  registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:08.399Z'
 finalUrl: 'https://myvalvecaps.com/'
 reachable: true

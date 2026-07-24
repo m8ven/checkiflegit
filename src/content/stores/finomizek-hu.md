@@ -1,10 +1,10 @@
 ---
 domain: finomizek.hu
 slug: finomizek-hu
-title: Is finomizek.hu Legit? Trust Signal Check
+title: Is finomizek.hu Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for finomizek.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  finomizek.hu scores 31/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:58:31.814Z'
 finalUrl: 'https://www.finomizek.hu/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: brandtoday.co.ke
 slug: brandtoday-co-ke
-title: Is brandtoday.co.ke Legit? Trust Signal Check
+title: Is brandtoday.co.ke Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for brandtoday.co.ke: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brandtoday.co.ke scores 85/100 on our public trust checks. Established domain
+  — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:14.391Z'
 finalUrl: 'https://brandtoday.co.ke/'
 reachable: true

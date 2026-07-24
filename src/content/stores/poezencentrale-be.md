@@ -1,10 +1,10 @@
 ---
 domain: poezencentrale.be
 slug: poezencentrale-be
-title: Is poezencentrale.be Legit? Trust Signal Check
+title: Is poezencentrale.be Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for poezencentrale.be: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  poezencentrale.be scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:47:59.614Z'
 finalUrl: 'https://poezencentrale.be/'
 reachable: true

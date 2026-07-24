@@ -1,10 +1,10 @@
 ---
 domain: mattroisangtao.vn
 slug: mattroisangtao-vn
-title: Is mattroisangtao.vn Legit? Trust Signal Check
+title: Is mattroisangtao.vn Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for mattroisangtao.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  mattroisangtao.vn scores 31/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:37:36.090Z'
 finalUrl: 'https://www.mattroisangtao.vn/'
 reachable: true

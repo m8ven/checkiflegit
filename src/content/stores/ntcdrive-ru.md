@@ -1,10 +1,10 @@
 ---
 domain: ntcdrive.ru
 slug: ntcdrive-ru
-title: Is ntcdrive.ru Legit? Trust Signal Check
+title: Is ntcdrive.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ntcdrive.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ntcdrive.ru scores 73/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:17.250Z'
 finalUrl: 'https://ntcdrive.ru/'
 reachable: true

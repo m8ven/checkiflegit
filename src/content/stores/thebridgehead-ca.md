@@ -1,10 +1,10 @@
 ---
 domain: thebridgehead.ca
 slug: thebridgehead-ca
-title: Is thebridgehead.ca Legit? Trust Signal Check
+title: Is thebridgehead.ca Legit? Trust Score 16/100
 description: >-
-  An automated trust-signal check for thebridgehead.ca: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  thebridgehead.ca scores 16/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:05:13.274Z'
 finalUrl: 'https://thebridgehead.ca/'
 reachable: true

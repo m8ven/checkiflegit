@@ -1,10 +1,10 @@
 ---
 domain: keyirobot.com
 slug: keyirobot-com
-title: Is keyirobot.com Legit? Trust Signal Check
+title: Is keyirobot.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for keyirobot.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  keyirobot.com scores 100/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:35:12.598Z'
 finalUrl: 'https://keyirobot.com/'
 reachable: true

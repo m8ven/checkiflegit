@@ -1,10 +1,10 @@
 ---
 domain: hamburg-dockers.de
 slug: hamburg-dockers-de
-title: Is hamburg-dockers.de Legit? Trust Signal Check
+title: Is hamburg-dockers.de Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for hamburg-dockers.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hamburg-dockers.de scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:19:58.003Z'
 finalUrl: 'https://www.hamburg-dockers.de/'
 reachable: true

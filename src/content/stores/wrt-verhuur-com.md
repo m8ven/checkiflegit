@@ -1,10 +1,10 @@
 ---
 domain: wrt-verhuur.com
 slug: wrt-verhuur-com
-title: Is wrt-verhuur.com Legit? Trust Signal Check
+title: Is wrt-verhuur.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for wrt-verhuur.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wrt-verhuur.com scores 76/100 on our public trust checks. Established domain —
+  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:04.876Z'
 finalUrl: 'https://wrt-verhuur.com/'
 reachable: true

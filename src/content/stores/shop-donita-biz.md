@@ -1,10 +1,10 @@
 ---
 domain: shop.donita.biz
 slug: shop-donita-biz
-title: Is shop.donita.biz Legit? Trust Signal Check
+title: Is shop.donita.biz Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for shop.donita.biz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.donita.biz scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:04.647Z'
 finalUrl: 'https://shop.donita.biz/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gkjewelers.pk
 slug: gkjewelers-pk
-title: Is gkjewelers.pk Legit? Trust Signal Check
+title: Is gkjewelers.pk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for gkjewelers.pk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gkjewelers.pk scores 88/100 on our public trust checks. Established domain —
+  registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:57.752Z'
 finalUrl: 'https://gkjewelers.pk/'
 reachable: true

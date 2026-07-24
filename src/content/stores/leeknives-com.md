@@ -1,10 +1,10 @@
 ---
 domain: leeknives.com
 slug: leeknives-com
-title: Is leeknives.com Legit? Trust Signal Check
+title: Is leeknives.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for leeknives.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  leeknives.com scores 82/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:08.576Z'
 finalUrl: 'https://leeknives.com/'
 reachable: true

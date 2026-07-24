@@ -1,10 +1,10 @@
 ---
 domain: ansellktr.com
 slug: ansellktr-com
-title: Is ansellktr.com Legit? Trust Signal Check
+title: Is ansellktr.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ansellktr.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ansellktr.com scores 52/100 on our public trust checks. Standard contact and
+  policy pages were not found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:55:06.881Z'
 finalUrl: 'https://ansellktr.com/'
 reachable: true

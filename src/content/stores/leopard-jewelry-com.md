@@ -1,10 +1,10 @@
 ---
 domain: leopard-jewelry.com
 slug: leopard-jewelry-com
-title: Is leopard-jewelry.com Legit? Trust Signal Check
+title: Is leopard-jewelry.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for leopard-jewelry.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  leopard-jewelry.com scores 100/100 on our public trust checks. Established
+  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:54.293Z'
 finalUrl: 'https://leopard-jewelry.com/en/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: forever-auto.com
 slug: forever-auto-com
-title: Is forever-auto.com Legit? Trust Signal Check
+title: Is forever-auto.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for forever-auto.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  forever-auto.com scores 64/100 on our public trust checks. Domain is
+  relatively young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T14:49:04.881Z'
 finalUrl: 'https://forever-auto.com/en/'
 reachable: true

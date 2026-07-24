@@ -1,10 +1,10 @@
 ---
 domain: presentkorb24.de
 slug: presentkorb24-de
-title: Is presentkorb24.de Legit? Trust Signal Check
+title: Is presentkorb24.de Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for presentkorb24.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  presentkorb24.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:50:16.575Z'
 finalUrl: 'https://presentkorb24.de/'
 reachable: true

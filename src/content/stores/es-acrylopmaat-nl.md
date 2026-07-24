@@ -1,10 +1,10 @@
 ---
 domain: es.acrylopmaat.nl
 slug: es-acrylopmaat-nl
-title: Is es.acrylopmaat.nl Legit? Trust Signal Check
+title: Is es.acrylopmaat.nl Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for es.acrylopmaat.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  es.acrylopmaat.nl scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:55:37.251Z'
 finalUrl: 'https://es.acrylopmaat.nl/'
 reachable: true

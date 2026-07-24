@@ -1,10 +1,10 @@
 ---
 domain: thecustodianghonline.com
 slug: thecustodianghonline-com
-title: Is thecustodianghonline.com Legit? Trust Signal Check
+title: Is thecustodianghonline.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for thecustodianghonline.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thecustodianghonline.com scores 94/100 on our public trust checks. Established
+  domain — registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:37.167Z'
 finalUrl: 'https://thecustodianghonline.com/'
 reachable: true

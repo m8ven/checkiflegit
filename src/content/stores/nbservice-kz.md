@@ -1,10 +1,10 @@
 ---
 domain: nbservice.kz
 slug: nbservice-kz
-title: Is nbservice.kz Legit? Trust Signal Check
+title: Is nbservice.kz Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nbservice.kz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nbservice.kz scores 57/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:03:42.084Z'
 finalUrl: 'https://nbservice.kz/'
 reachable: true

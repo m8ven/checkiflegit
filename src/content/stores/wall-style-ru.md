@@ -1,10 +1,10 @@
 ---
 domain: wall-style.ru
 slug: wall-style-ru
-title: Is wall-style.ru Legit? Trust Signal Check
+title: Is wall-style.ru Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for wall-style.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wall-style.ru scores 88/100 on our public trust checks. Established domain —
+  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:35.926Z'
 finalUrl: 'https://wall-style.ru/'
 reachable: true

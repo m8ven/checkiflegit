@@ -1,10 +1,10 @@
 ---
 domain: aestheticbeautylab.co
 slug: aestheticbeautylab-co
-title: Is aestheticbeautylab.co Legit? Trust Signal Check
+title: Is aestheticbeautylab.co Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for aestheticbeautylab.co: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  aestheticbeautylab.co scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:37:37.938Z'
 finalUrl: 'https://aestheticbeautylab.co/'
 reachable: true

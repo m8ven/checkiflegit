@@ -1,10 +1,10 @@
 ---
 domain: 1st-street.com
 slug: 1st-street-com
-title: Is 1st-street.com Legit? Trust Signal Check
+title: Is 1st-street.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for 1st-street.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  1st-street.com scores 100/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:16:44.773Z'
 finalUrl: 'https://1st-street.com/'
 reachable: true

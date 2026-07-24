@@ -1,10 +1,10 @@
 ---
 domain: fujostore-4j56mdbmg-fujowebdev.vercel.app
 slug: fujostore-4j56mdbmg-fujowebdev-vercel-app
-title: Is fujostore-4j56mdbmg-fujowebdev.vercel.app Legit? Trust Signal Check
+title: Is fujostore-4j56mdbmg-fujowebdev.vercel.app Legit? Score 74/100
 description: >-
-  An automated trust-signal check for fujostore-4j56mdbmg-fujowebdev.vercel.app:
-  strong trust signals. Domain age, SSL, contact info, reviews and more.
+  fujostore-4j56mdbmg-fujowebdev.vercel.app scores 74/100 on our public trust
+  checks. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:33.474Z'
 finalUrl: 'https://fujostore-4j56mdbmg-fujowebdev.vercel.app/'
 reachable: true

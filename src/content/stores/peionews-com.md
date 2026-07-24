@@ -1,10 +1,10 @@
 ---
 domain: peionews.com
 slug: peionews-com
-title: Is peionews.com Legit? Trust Signal Check
+title: Is peionews.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for peionews.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  peionews.com scores 64/100 on our public trust checks. Only limited contact
+  details were found. Limited social media presence.
 fetchedAt: '2026-06-25T12:01:29.878Z'
 finalUrl: 'https://peionews.com/'
 reachable: true

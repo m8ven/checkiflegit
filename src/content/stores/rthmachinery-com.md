@@ -1,10 +1,10 @@
 ---
 domain: rthmachinery.com
 slug: rthmachinery-com
-title: Is rthmachinery.com Legit? Trust Signal Check
+title: Is rthmachinery.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rthmachinery.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rthmachinery.com scores 88/100 on our public trust checks. Established domain
+  — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:52.545Z'
 finalUrl: 'https://www.rthmachinery.com/'
 reachable: true

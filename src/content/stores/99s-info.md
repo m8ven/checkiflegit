@@ -1,10 +1,10 @@
 ---
 domain: 99s.info
 slug: 99s-info
-title: Is 99s.info Legit? Trust Signal Check
+title: Is 99s.info Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 99s.info: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  99s.info scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:22:38.651Z'
 finalUrl: 'https://99s.info/'
 reachable: true

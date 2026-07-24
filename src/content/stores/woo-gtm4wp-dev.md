@@ -1,10 +1,11 @@
 ---
 domain: woo.gtm4wp.dev
 slug: woo-gtm4wp-dev
-title: Is woo.gtm4wp.dev Legit? Trust Signal Check
+title: Is woo.gtm4wp.dev Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for woo.gtm4wp.dev: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  woo.gtm4wp.dev scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:50:38.675Z'
 finalUrl: 'https://woo.gtm4wp.dev/'
 reachable: true

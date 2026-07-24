@@ -1,10 +1,10 @@
 ---
 domain: oddeshop.com
 slug: oddeshop-com
-title: Is oddeshop.com Legit? Trust Signal Check
+title: Is oddeshop.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for oddeshop.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  oddeshop.com scores 82/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:12.132Z'
 finalUrl: 'https://oddeshop.com/'
 reachable: true

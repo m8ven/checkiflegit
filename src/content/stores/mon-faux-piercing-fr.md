@@ -1,10 +1,10 @@
 ---
 domain: mon-faux-piercing.fr
 slug: mon-faux-piercing-fr
-title: Is mon-faux-piercing.fr Legit? Trust Signal Check
+title: Is mon-faux-piercing.fr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for mon-faux-piercing.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mon-faux-piercing.fr scores 73/100 on our public trust checks. Established
+  domain — registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:31.337Z'
 finalUrl: 'https://www.mon-faux-piercing.fr/'
 reachable: true

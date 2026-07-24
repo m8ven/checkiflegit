@@ -1,10 +1,10 @@
 ---
 domain: gloriasenzaglutine.it
 slug: gloriasenzaglutine-it
-title: Is gloriasenzaglutine.it Legit? Trust Signal Check
+title: Is gloriasenzaglutine.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for gloriasenzaglutine.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  gloriasenzaglutine.it scores 88/100 on our public trust checks. Established
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:10.989Z'
 finalUrl: 'https://gloriasenzaglutine.it/'
 reachable: true

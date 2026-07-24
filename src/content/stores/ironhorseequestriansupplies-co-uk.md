@@ -1,11 +1,10 @@
 ---
 domain: ironhorseequestriansupplies.co.uk
 slug: ironhorseequestriansupplies-co-uk
-title: Is ironhorseequestriansupplies.co.uk Legit? Trust Signal Check
+title: Is ironhorseequestriansupplies.co.uk Legit? Score 43/100
 description: >-
-  An automated trust-signal check for ironhorseequestriansupplies.co.uk: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  ironhorseequestriansupplies.co.uk scores 43/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:34:10.109Z'
 finalUrl: 'https://www.ironhorseequestriansupplies.co.uk/'
 reachable: true

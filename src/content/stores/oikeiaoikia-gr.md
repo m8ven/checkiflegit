@@ -1,10 +1,10 @@
 ---
 domain: oikeiaoikia.gr
 slug: oikeiaoikia-gr
-title: Is oikeiaoikia.gr Legit? Trust Signal Check
+title: Is oikeiaoikia.gr Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for oikeiaoikia.gr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  oikeiaoikia.gr scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:07.968Z'
 finalUrl: 'https://www.oikeiaoikia.gr/'
 reachable: true

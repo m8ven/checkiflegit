@@ -1,10 +1,10 @@
 ---
 domain: c4israel.org
 slug: c4israel-org
-title: Is c4israel.org Legit? Trust Signal Check
+title: Is c4israel.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for c4israel.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  c4israel.org scores 100/100 on our public trust checks. Established domain —
+  registered 25.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:00.493Z'
 finalUrl: 'https://www.c4israel.org/'
 reachable: true

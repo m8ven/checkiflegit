@@ -1,10 +1,11 @@
 ---
 domain: kottakkalayurvedakase.com
 slug: kottakkalayurvedakase-com
-title: Is kottakkalayurvedakase.com Legit? Trust Signal Check
+title: Is kottakkalayurvedakase.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kottakkalayurvedakase.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kottakkalayurvedakase.com scores 88/100 on our public trust checks.
+  Established domain — registered 7.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:46:48.365Z'
 finalUrl: 'https://kottakkalayurvedakase.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: empower-peptides.com
 slug: empower-peptides-com
-title: Is empower-peptides.com Legit? Trust Signal Check
+title: Is empower-peptides.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for empower-peptides.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  empower-peptides.com scores 94/100 on our public trust checks. Established
+  domain — registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:39.716Z'
 finalUrl: 'https://empower-peptides.com/'
 reachable: true

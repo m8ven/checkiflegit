@@ -1,10 +1,10 @@
 ---
 domain: cas.com.py
 slug: cas-com-py
-title: Is cas.com.py Legit? Trust Signal Check
+title: Is cas.com.py Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for cas.com.py: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cas.com.py scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:28:11.971Z'
 finalUrl: 'https://cas.com.py/'
 reachable: true

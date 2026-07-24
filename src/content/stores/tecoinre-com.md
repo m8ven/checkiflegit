@@ -1,10 +1,10 @@
 ---
 domain: tecoinre.com
 slug: tecoinre-com
-title: Is tecoinre.com Legit? Trust Signal Check
+title: Is tecoinre.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for tecoinre.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tecoinre.com scores 85/100 on our public trust checks. Established domain —
+  registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:15.544Z'
 finalUrl: 'https://tecoinre.com/'
 reachable: true

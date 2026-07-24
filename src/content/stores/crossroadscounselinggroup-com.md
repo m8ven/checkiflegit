@@ -1,10 +1,11 @@
 ---
 domain: crossroadscounselinggroup.com
 slug: crossroadscounselinggroup-com
-title: Is crossroadscounselinggroup.com Legit? Trust Signal Check
+title: Is crossroadscounselinggroup.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for crossroadscounselinggroup.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  crossroadscounselinggroup.com scores 73/100 on our public trust checks.
+  Established domain — registered 18.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:31:02.549Z'
 finalUrl: 'https://crossroadscounselinggroup.com/'
 reachable: true

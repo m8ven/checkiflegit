@@ -1,10 +1,10 @@
 ---
 domain: loomus.ee
 slug: loomus-ee
-title: Is loomus.ee Legit? Trust Signal Check
+title: Is loomus.ee Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for loomus.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  loomus.ee scores 88/100 on our public trust checks. Established domain —
+  registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:22.039Z'
 finalUrl: 'https://loomus.ee/'
 reachable: true

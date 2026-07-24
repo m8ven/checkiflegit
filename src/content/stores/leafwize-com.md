@@ -1,10 +1,10 @@
 ---
 domain: leafwize.com
 slug: leafwize-com
-title: Is leafwize.com Legit? Trust Signal Check
+title: Is leafwize.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for leafwize.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  leafwize.com scores 100/100 on our public trust checks. Established domain —
+  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:54.072Z'
 finalUrl: 'https://leafwize.com/'
 reachable: true

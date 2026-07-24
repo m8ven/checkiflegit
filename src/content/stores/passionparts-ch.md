@@ -1,10 +1,10 @@
 ---
 domain: passionparts.ch
 slug: passionparts-ch
-title: Is passionparts.ch Legit? Trust Signal Check
+title: Is passionparts.ch Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for passionparts.ch: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  passionparts.ch scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:25:11.097Z'
 finalUrl: 'https://www.passionparts.ch/'
 reachable: true

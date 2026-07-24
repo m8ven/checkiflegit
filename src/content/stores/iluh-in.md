@@ -1,10 +1,10 @@
 ---
 domain: iluh.in
 slug: iluh-in
-title: Is iluh.in Legit? Trust Signal Check
+title: Is iluh.in Legit? Trust Score 40/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for iluh.in: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  iluh.in scores 40/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T15:02:19.656Z'
 finalUrl: 'https://iluh.in/'
 reachable: true

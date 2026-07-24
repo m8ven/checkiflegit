@@ -1,10 +1,10 @@
 ---
 domain: goodcover.eu
 slug: goodcover-eu
-title: Is goodcover.eu Legit? Trust Signal Check
+title: Is goodcover.eu Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for goodcover.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  goodcover.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:29:16.813Z'
 finalUrl: 'https://goodcover.eu/'
 reachable: true

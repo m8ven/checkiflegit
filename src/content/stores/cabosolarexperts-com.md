@@ -1,10 +1,10 @@
 ---
 domain: cabosolarexperts.com
 slug: cabosolarexperts-com
-title: Is cabosolarexperts.com Legit? Trust Signal Check
+title: Is cabosolarexperts.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cabosolarexperts.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cabosolarexperts.com scores 88/100 on our public trust checks. Established
+  domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:22:37.287Z'
 finalUrl: 'https://cabosolarexperts.com/'
 reachable: true

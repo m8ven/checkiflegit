@@ -1,11 +1,10 @@
 ---
 domain: backyardbeesballarat.com.au
 slug: backyardbeesballarat-com-au
-title: Is backyardbeesballarat.com.au Legit? Trust Signal Check
+title: Is backyardbeesballarat.com.au Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for backyardbeesballarat.com.au: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  backyardbeesballarat.com.au scores 40/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:42:34.351Z'
 finalUrl: 'https://backyardbeesballarat.com.au/'
 reachable: true

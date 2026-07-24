@@ -1,10 +1,10 @@
 ---
 domain: ldaustralia.org
 slug: ldaustralia-org
-title: Is ldaustralia.org Legit? Trust Signal Check
+title: Is ldaustralia.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ldaustralia.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ldaustralia.org scores 88/100 on our public trust checks. Established domain —
+  registered 24.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:36.805Z'
 finalUrl: 'https://ldaustralia.org/'
 reachable: true

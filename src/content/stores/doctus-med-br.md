@@ -1,10 +1,10 @@
 ---
 domain: doctus.med.br
 slug: doctus-med-br
-title: Is doctus.med.br Legit? Trust Signal Check
+title: Is doctus.med.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for doctus.med.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  doctus.med.br scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:09:20.860Z'
 finalUrl: 'https://doctus.med.br/'
 reachable: true

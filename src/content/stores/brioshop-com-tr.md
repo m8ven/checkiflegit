@@ -1,10 +1,10 @@
 ---
 domain: brioshop.com.tr
 slug: brioshop-com-tr
-title: Is brioshop.com.tr Legit? Trust Signal Check
+title: Is brioshop.com.tr Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for brioshop.com.tr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  brioshop.com.tr scores 31/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:20:24.266Z'
 finalUrl: 'https://brioshop.com.tr/'
 reachable: true

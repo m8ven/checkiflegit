@@ -1,10 +1,10 @@
 ---
 domain: virtualrealities.uk
 slug: virtualrealities-uk
-title: Is virtualrealities.uk Legit? Trust Signal Check
+title: Is virtualrealities.uk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for virtualrealities.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  virtualrealities.uk scores 82/100 on our public trust checks. Established
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:19.752Z'
 finalUrl: 'https://virtualrealities.uk/'
 reachable: true

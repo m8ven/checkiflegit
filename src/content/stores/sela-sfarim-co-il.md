@@ -1,10 +1,10 @@
 ---
 domain: sela-sfarim.co.il
 slug: sela-sfarim-co-il
-title: Is sela-sfarim.co.il Legit? Trust Signal Check
+title: Is sela-sfarim.co.il Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for sela-sfarim.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sela-sfarim.co.il scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:05:22.696Z'
 finalUrl: 'https://sela-sfarim.co.il/'
 reachable: true

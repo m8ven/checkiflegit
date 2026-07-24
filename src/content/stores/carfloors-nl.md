@@ -1,10 +1,10 @@
 ---
 domain: carfloors.nl
 slug: carfloors-nl
-title: Is carfloors.nl Legit? Trust Signal Check
+title: Is carfloors.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for carfloors.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  carfloors.nl scores 73/100 on our public trust checks. Established domain —
+  registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:25:53.938Z'
 finalUrl: 'https://www.carfloors.nl/'
 reachable: true

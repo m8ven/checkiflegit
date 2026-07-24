@@ -1,10 +1,10 @@
 ---
 domain: cubcadet.com
 slug: cubcadet-com
-title: Is cubcadet.com Legit? Trust Signal Check
+title: Is cubcadet.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cubcadet.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cubcadet.com scores 100/100 on our public trust checks. Established domain —
+  registered 30.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:19.448Z'
 finalUrl: 'https://www.cubcadet.com/'
 reachable: true

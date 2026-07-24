@@ -1,10 +1,10 @@
 ---
 domain: autoelectroserves.com
 slug: autoelectroserves-com
-title: Is autoelectroserves.com Legit? Trust Signal Check
+title: Is autoelectroserves.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for autoelectroserves.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  autoelectroserves.com scores 73/100 on our public trust checks. Established
+  domain — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:20.763Z'
 finalUrl: 'https://autoelectroserves.com/'
 reachable: true

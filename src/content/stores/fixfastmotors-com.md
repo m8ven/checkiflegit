@@ -1,10 +1,10 @@
 ---
 domain: fixfastmotors.com
 slug: fixfastmotors-com
-title: Is fixfastmotors.com Legit? Trust Signal Check
+title: Is fixfastmotors.com Legit? Trust Score 28/100
 description: >-
-  An automated trust-signal check for fixfastmotors.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  fixfastmotors.com scores 28/100 on our public trust checks. Domain registered
+  very recently (62 days ago). No links to major social platforms found.
 fetchedAt: '2026-06-25T03:45:14.879Z'
 finalUrl: 'https://fixfastmotors.com/'
 reachable: true

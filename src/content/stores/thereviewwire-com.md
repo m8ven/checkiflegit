@@ -1,10 +1,10 @@
 ---
 domain: thereviewwire.com
 slug: thereviewwire-com
-title: Is thereviewwire.com Legit? Trust Signal Check
+title: Is thereviewwire.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thereviewwire.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thereviewwire.com scores 100/100 on our public trust checks. Established
+  domain — registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:05.796Z'
 finalUrl: 'https://thereviewwire.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: orninngolf.is
 slug: orninngolf-is
-title: Is orninngolf.is Legit? Trust Signal Check
+title: Is orninngolf.is Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for orninngolf.is: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  orninngolf.is scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:57.967Z'
 finalUrl: 'https://orninngolf.is/'
 reachable: true

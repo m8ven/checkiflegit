@@ -1,10 +1,11 @@
 ---
 domain: panini.com.br
 slug: panini-com-br
-title: Is panini.com.br Legit? Trust Signal Check
+title: Is panini.com.br Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for panini.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  panini.com.br scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-24T21:44:31.634Z'
 finalUrl: 'https://panini.com.br/'
 reachable: true

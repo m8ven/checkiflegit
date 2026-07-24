@@ -1,10 +1,10 @@
 ---
 domain: tienda.ohmyshop.com.ar
 slug: tienda-ohmyshop-com-ar
-title: Is tienda.ohmyshop.com.ar Legit? Trust Signal Check
+title: Is tienda.ohmyshop.com.ar Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for tienda.ohmyshop.com.ar: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tienda.ohmyshop.com.ar scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:09:02.771Z'
 finalUrl: 'https://tienda.ohmyshop.com.ar/'
 reachable: true

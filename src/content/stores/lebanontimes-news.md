@@ -1,10 +1,10 @@
 ---
 domain: lebanontimes.news
 slug: lebanontimes-news
-title: Is lebanontimes.news Legit? Trust Signal Check
+title: Is lebanontimes.news Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for lebanontimes.news: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lebanontimes.news scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:46:07.157Z'
 finalUrl: 'https://lebanontimes.news/'
 reachable: true

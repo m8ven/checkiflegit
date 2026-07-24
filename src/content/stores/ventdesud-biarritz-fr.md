@@ -1,10 +1,10 @@
 ---
 domain: ventdesud-biarritz.fr
 slug: ventdesud-biarritz-fr
-title: Is ventdesud-biarritz.fr Legit? Trust Signal Check
+title: Is ventdesud-biarritz.fr Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for ventdesud-biarritz.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ventdesud-biarritz.fr scores 82/100 on our public trust checks. Established
+  domain — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:16:29.981Z'
 finalUrl: 'https://ventdesud-biarritz.fr/'
 reachable: true

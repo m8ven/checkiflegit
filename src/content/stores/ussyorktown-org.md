@@ -1,10 +1,10 @@
 ---
 domain: ussyorktown.org
 slug: ussyorktown-org
-title: Is ussyorktown.org Legit? Trust Signal Check
+title: Is ussyorktown.org Legit? Trust Score 48/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ussyorktown.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ussyorktown.org scores 48/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:28:02.869Z'
 finalUrl: 'https://www.ussyorktown.org/'
 reachable: true

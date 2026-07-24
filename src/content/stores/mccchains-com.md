@@ -1,10 +1,10 @@
 ---
 domain: mccchains.com
 slug: mccchains-com
-title: Is mccchains.com Legit? Trust Signal Check
+title: Is mccchains.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for mccchains.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mccchains.com scores 70/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:45.573Z'
 finalUrl: 'https://mccchains.com/'
 reachable: true

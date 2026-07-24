@@ -1,10 +1,10 @@
 ---
 domain: nutai.com
 slug: nutai-com
-title: Is nutai.com Legit? Trust Signal Check
+title: Is nutai.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nutai.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nutai.com scores 100/100 on our public trust checks. Established domain —
+  registered 25.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:27.759Z'
 finalUrl: 'https://nutai.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: khaylaflorist.com
 slug: khaylaflorist-com
-title: Is khaylaflorist.com Legit? Trust Signal Check
+title: Is khaylaflorist.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for khaylaflorist.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  khaylaflorist.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:12:18.292Z'
 finalUrl: 'https://khaylaflorist.com/'
 reachable: true

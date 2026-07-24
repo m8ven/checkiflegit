@@ -1,10 +1,10 @@
 ---
 domain: stoelenhoek.nl
 slug: stoelenhoek-nl
-title: Is stoelenhoek.nl Legit? Trust Signal Check
+title: Is stoelenhoek.nl Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for stoelenhoek.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stoelenhoek.nl scores 85/100 on our public trust checks. Established domain —
+  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:25.895Z'
 finalUrl: 'https://stoelenhoek.nl/'
 reachable: true

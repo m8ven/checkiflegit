@@ -1,10 +1,10 @@
 ---
 domain: restaurantedem.nl
 slug: restaurantedem-nl
-title: Is restaurantedem.nl Legit? Trust Signal Check
+title: Is restaurantedem.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for restaurantedem.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  restaurantedem.nl scores 88/100 on our public trust checks. Established domain
+  — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:52.238Z'
 finalUrl: 'https://restaurantedem.nl/'
 reachable: true

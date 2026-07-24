@@ -1,10 +1,10 @@
 ---
 domain: my.montessori.org.au
 slug: my-montessori-org-au
-title: Is my.montessori.org.au Legit? Trust Signal Check
+title: Is my.montessori.org.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for my.montessori.org.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  my.montessori.org.au scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:11.232Z'
 finalUrl: 'https://my.montessori.org.au/'
 reachable: true

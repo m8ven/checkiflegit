@@ -1,10 +1,11 @@
 ---
 domain: zaubershop-frenchdrop.com
 slug: zaubershop-frenchdrop-com
-title: Is zaubershop-frenchdrop.com Legit? Trust Signal Check
+title: Is zaubershop-frenchdrop.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for zaubershop-frenchdrop.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  zaubershop-frenchdrop.com scores 100/100 on our public trust checks.
+  Established domain — registered 13 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:34:53.040Z'
 finalUrl: 'https://zaubershop-frenchdrop.com/'
 reachable: true

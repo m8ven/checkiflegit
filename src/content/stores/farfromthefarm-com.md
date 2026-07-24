@@ -1,10 +1,10 @@
 ---
 domain: farfromthefarm.com
 slug: farfromthefarm-com
-title: Is farfromthefarm.com Legit? Trust Signal Check
+title: Is farfromthefarm.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for farfromthefarm.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  farfromthefarm.com scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:33:11.203Z'
 finalUrl: 'https://farfromthefarm.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: timisi.com
 slug: timisi-com
-title: Is timisi.com Legit? Trust Signal Check
+title: Is timisi.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for timisi.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  timisi.com scores 88/100 on our public trust checks. Established domain —
+  registered 22.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:44:32.861Z'
 finalUrl: 'https://www.timisi.com/'
 reachable: true

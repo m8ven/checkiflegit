@@ -1,10 +1,10 @@
 ---
 domain: corporateentertainmentagency.com
 slug: corporateentertainmentagency-com
-title: Is corporateentertainmentagency.com Legit? Trust Signal Check
+title: Is corporateentertainmentagency.com Legit? Score 70/100
 description: >-
-  An automated trust-signal check for corporateentertainmentagency.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  corporateentertainmentagency.com scores 70/100 on our public trust checks.
+  Established domain — registered 21.2 years ago.
 fetchedAt: '2026-06-25T15:39:10.583Z'
 finalUrl: 'https://corporateentertainmentagency.com/'
 reachable: true

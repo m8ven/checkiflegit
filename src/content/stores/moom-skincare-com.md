@@ -1,10 +1,10 @@
 ---
 domain: moom-skincare.com
 slug: moom-skincare-com
-title: Is moom-skincare.com Legit? Trust Signal Check
+title: Is moom-skincare.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for moom-skincare.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  moom-skincare.com scores 70/100 on our public trust checks. Established domain
+  — registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:33.470Z'
 finalUrl: 'https://moom-skincare.com/'
 reachable: true

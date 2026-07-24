@@ -1,10 +1,10 @@
 ---
 domain: jornal.causaoperaria.org.br
 slug: jornal-causaoperaria-org-br
-title: Is jornal.causaoperaria.org.br Legit? Trust Signal Check
+title: Is jornal.causaoperaria.org.br Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for jornal.causaoperaria.org.br: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  jornal.causaoperaria.org.br scores 61/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T15:03:45.381Z'
 finalUrl: 'https://jornal.causaoperaria.org.br/'
 reachable: true

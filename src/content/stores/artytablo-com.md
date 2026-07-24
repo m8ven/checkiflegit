@@ -1,10 +1,10 @@
 ---
 domain: artytablo.com
 slug: artytablo-com
-title: Is artytablo.com Legit? Trust Signal Check
+title: Is artytablo.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for artytablo.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  artytablo.com scores 70/100 on our public trust checks. Established domain —
+  registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:11.552Z'
 finalUrl: 'https://www.artytablo.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: maquhensa.com
 slug: maquhensa-com
-title: Is maquhensa.com Legit? Trust Signal Check
+title: Is maquhensa.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for maquhensa.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  maquhensa.com scores 88/100 on our public trust checks. Established domain —
+  registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:03.643Z'
 finalUrl: 'https://www.maquhensa.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: khaisanfood.vn
 slug: khaisanfood-vn
-title: Is khaisanfood.vn Legit? Trust Signal Check
+title: Is khaisanfood.vn Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for khaisanfood.vn: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  khaisanfood.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:48:18.060Z'
 finalUrl: 'https://khaisanfood.vn/'
 reachable: true

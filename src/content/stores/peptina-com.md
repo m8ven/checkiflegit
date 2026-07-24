@@ -1,10 +1,10 @@
 ---
 domain: peptina.com
 slug: peptina-com
-title: Is peptina.com Legit? Trust Signal Check
+title: Is peptina.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for peptina.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  peptina.com scores 52/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:47:20.824Z'
 finalUrl: 'https://peptina.com/'
 reachable: true

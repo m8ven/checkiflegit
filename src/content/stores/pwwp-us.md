@@ -1,10 +1,10 @@
 ---
 domain: pwwp.us
 slug: pwwp-us
-title: Is pwwp.us Legit? Trust Signal Check
+title: Is pwwp.us Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pwwp.us: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  pwwp.us scores 70/100 on our public trust checks. Established domain —
+  registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:48.182Z'
 finalUrl: 'https://pwwp.us/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: yourreturntoland.com
 slug: yourreturntoland-com
-title: Is yourreturntoland.com Legit? Trust Signal Check
+title: Is yourreturntoland.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for yourreturntoland.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  yourreturntoland.com scores 94/100 on our public trust checks. Established
+  domain — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:55.272Z'
 finalUrl: 'https://yourreturntoland.com/'
 reachable: true

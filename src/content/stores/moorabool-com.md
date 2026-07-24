@@ -1,10 +1,10 @@
 ---
 domain: moorabool.com
 slug: moorabool-com
-title: Is moorabool.com Legit? Trust Signal Check
+title: Is moorabool.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for moorabool.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  moorabool.com scores 100/100 on our public trust checks. Established domain —
+  registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:37.827Z'
 finalUrl: 'https://moorabool.com/'
 reachable: true

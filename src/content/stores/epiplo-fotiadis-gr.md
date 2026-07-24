@@ -1,10 +1,10 @@
 ---
 domain: epiplo-fotiadis.gr
 slug: epiplo-fotiadis-gr
-title: Is epiplo-fotiadis.gr Legit? Trust Signal Check
+title: Is epiplo-fotiadis.gr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for epiplo-fotiadis.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  epiplo-fotiadis.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:43:17.251Z'
 finalUrl: 'https://epiplo-fotiadis.gr/'
 reachable: true

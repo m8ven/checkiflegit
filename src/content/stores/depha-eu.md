@@ -1,10 +1,10 @@
 ---
 domain: depha.eu
 slug: depha-eu
-title: Is depha.eu Legit? Trust Signal Check
+title: Is depha.eu Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for depha.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  depha.eu scores 91/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T02:24:51.457Z'
 finalUrl: 'https://depha.eu/'
 reachable: true

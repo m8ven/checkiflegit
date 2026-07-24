@@ -1,10 +1,10 @@
 ---
 domain: lapietrataurina.it
 slug: lapietrataurina-it
-title: Is lapietrataurina.it Legit? Trust Signal Check
+title: Is lapietrataurina.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for lapietrataurina.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lapietrataurina.it scores 100/100 on our public trust checks. Established
+  domain — registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:38.165Z'
 finalUrl: 'https://lapietrataurina.it/'
 reachable: true

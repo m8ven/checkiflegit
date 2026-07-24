@@ -1,10 +1,10 @@
 ---
 domain: driveparts.nl
 slug: driveparts-nl
-title: Is driveparts.nl Legit? Trust Signal Check
+title: Is driveparts.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for driveparts.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  driveparts.nl scores 82/100 on our public trust checks. Established domain —
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:55.938Z'
 finalUrl: 'https://driveparts.nl/'
 reachable: true

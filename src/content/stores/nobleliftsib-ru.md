@@ -1,10 +1,10 @@
 ---
 domain: nobleliftsib.ru
 slug: nobleliftsib-ru
-title: Is nobleliftsib.ru Legit? Trust Signal Check
+title: Is nobleliftsib.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for nobleliftsib.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nobleliftsib.ru scores 82/100 on our public trust checks. Established domain —
+  registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:02.433Z'
 finalUrl: 'https://nobleliftsib.ru/'
 reachable: true

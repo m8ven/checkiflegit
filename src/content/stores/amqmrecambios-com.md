@@ -1,10 +1,10 @@
 ---
 domain: amqmrecambios.com
 slug: amqmrecambios-com
-title: Is amqmrecambios.com Legit? Trust Signal Check
+title: Is amqmrecambios.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for amqmrecambios.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  amqmrecambios.com scores 88/100 on our public trust checks. Established domain
+  — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:15.687Z'
 finalUrl: 'https://www.amqmrecambios.com/'
 reachable: true

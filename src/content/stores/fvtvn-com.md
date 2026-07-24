@@ -1,10 +1,10 @@
 ---
 domain: fvtvn.com
 slug: fvtvn-com
-title: Is fvtvn.com Legit? Trust Signal Check
+title: Is fvtvn.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for fvtvn.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fvtvn.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:30:44.111Z'
 finalUrl: 'https://fvtvn.com/od/'
 reachable: true

@@ -1,11 +1,10 @@
 ---
 domain: boulazac-basket-dordogne.com
 slug: boulazac-basket-dordogne-com
-title: Is boulazac-basket-dordogne.com Legit? Trust Signal Check
+title: Is boulazac-basket-dordogne.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for boulazac-basket-dordogne.com: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  boulazac-basket-dordogne.com scores 25/100 on our public trust checks.
+  Standard contact and policy pages were not found.
 fetchedAt: '2026-06-25T02:59:10.648Z'
 finalUrl: 'https://www.boulazac-basket-dordogne.com/'
 reachable: true

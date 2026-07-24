@@ -1,10 +1,10 @@
 ---
 domain: bellezza-marketing.it
 slug: bellezza-marketing-it
-title: Is bellezza-marketing.it Legit? Trust Signal Check
+title: Is bellezza-marketing.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bellezza-marketing.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bellezza-marketing.it scores 88/100 on our public trust checks. Established
+  domain — registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:23.720Z'
 finalUrl: 'https://www.bellezza-marketing.it/'
 reachable: true

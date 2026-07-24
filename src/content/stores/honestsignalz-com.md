@@ -1,10 +1,10 @@
 ---
 domain: honestsignalz.com
 slug: honestsignalz-com
-title: Is honestsignalz.com Legit? Trust Signal Check
+title: Is honestsignalz.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for honestsignalz.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  honestsignalz.com scores 100/100 on our public trust checks. Established
+  domain — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:26.376Z'
 finalUrl: 'https://honestsignalz.com/'
 reachable: true

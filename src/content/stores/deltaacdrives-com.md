@@ -1,10 +1,10 @@
 ---
 domain: deltaacdrives.com
 slug: deltaacdrives-com
-title: Is deltaacdrives.com Legit? Trust Signal Check
+title: Is deltaacdrives.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for deltaacdrives.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  deltaacdrives.com scores 85/100 on our public trust checks. Established domain
+  — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:47.852Z'
 finalUrl: 'https://deltaacdrives.com/'
 reachable: true

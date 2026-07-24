@@ -1,10 +1,11 @@
 ---
 domain: ilinksa.co.za
 slug: ilinksa-co-za
-title: Is ilinksa.co.za Legit? Trust Signal Check
+title: Is ilinksa.co.za Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ilinksa.co.za: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ilinksa.co.za scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T14:52:24.402Z'
 finalUrl: 'https://ilinksa.co.za/'
 reachable: true

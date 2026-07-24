@@ -1,10 +1,10 @@
 ---
 domain: cambiendoapsuat.vn
 slug: cambiendoapsuat-vn
-title: Is cambiendoapsuat.vn Legit? Trust Signal Check
+title: Is cambiendoapsuat.vn Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for cambiendoapsuat.vn: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cambiendoapsuat.vn scores 49/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:28:01.353Z'
 finalUrl: 'https://cambiendoapsuat.vn/'
 reachable: true

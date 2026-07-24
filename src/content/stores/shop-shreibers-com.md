@@ -1,10 +1,10 @@
 ---
 domain: shop.shreibers.com
 slug: shop-shreibers-com
-title: Is shop.shreibers.com Legit? Trust Signal Check
+title: Is shop.shreibers.com Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for shop.shreibers.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  shop.shreibers.com scores 31/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:36:12.999Z'
 finalUrl: 'https://shop.shreibers.com/'
 reachable: true

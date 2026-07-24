@@ -1,11 +1,11 @@
 ---
 domain: cuttingedgerocks.com
 slug: cuttingedgerocks-com
-title: Is cuttingedgerocks.com Legit? Trust Signal Check
+title: Is cuttingedgerocks.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for cuttingedgerocks.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  cuttingedgerocks.com scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T15:16:08.642Z'
 finalUrl: 'https://www.cuttingedgerocks.com/'
 reachable: true

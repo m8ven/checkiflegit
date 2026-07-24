@@ -1,10 +1,10 @@
 ---
 domain: 5eme-dimension.fr
 slug: 5eme-dimension-fr
-title: Is 5eme-dimension.fr Legit? Trust Signal Check
+title: Is 5eme-dimension.fr Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for 5eme-dimension.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  5eme-dimension.fr scores 76/100 on our public trust checks. Has a contact page
+  and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T02:33:10.303Z'
 finalUrl: 'https://5eme-dimension.fr/'
 reachable: true

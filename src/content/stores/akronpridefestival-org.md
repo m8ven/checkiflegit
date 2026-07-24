@@ -1,10 +1,10 @@
 ---
 domain: akronpridefestival.org
 slug: akronpridefestival-org
-title: Is akronpridefestival.org Legit? Trust Signal Check
+title: Is akronpridefestival.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for akronpridefestival.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  akronpridefestival.org scores 88/100 on our public trust checks. Established
+  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:44.451Z'
 finalUrl: 'https://akronpridefestival.org/'
 reachable: true

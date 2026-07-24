@@ -1,10 +1,10 @@
 ---
 domain: cimilrebreastpumps.com
 slug: cimilrebreastpumps-com
-title: Is cimilrebreastpumps.com Legit? Trust Signal Check
+title: Is cimilrebreastpumps.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cimilrebreastpumps.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cimilrebreastpumps.com scores 88/100 on our public trust checks. Established
+  domain — registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:36:14.885Z'
 finalUrl: 'https://www.cimilrebreastpumps.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: trembesisolid.com
 slug: trembesisolid-com
-title: Is trembesisolid.com Legit? Trust Signal Check
+title: Is trembesisolid.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for trembesisolid.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  trembesisolid.com scores 70/100 on our public trust checks. Established domain
+  — registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:11.945Z'
 finalUrl: 'https://trembesisolid.com/'
 reachable: true

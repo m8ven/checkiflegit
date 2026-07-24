@@ -1,11 +1,10 @@
 ---
 domain: kaavyaperformingarts.com
 slug: kaavyaperformingarts-com
-title: Is kaavyaperformingarts.com Legit? Trust Signal Check
+title: Is kaavyaperformingarts.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for kaavyaperformingarts.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  kaavyaperformingarts.com scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:31:53.936Z'
 finalUrl: 'https://kaavyaperformingarts.com/'
 reachable: true

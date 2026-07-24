@@ -1,10 +1,10 @@
 ---
 domain: boutique.bouquinbec.ca
 slug: boutique-bouquinbec-ca
-title: Is boutique.bouquinbec.ca Legit? Trust Signal Check
+title: Is boutique.bouquinbec.ca Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for boutique.bouquinbec.ca: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  boutique.bouquinbec.ca scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:27:17.135Z'
 finalUrl: 'https://boutique.bouquinbec.ca/'
 reachable: true

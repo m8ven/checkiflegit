@@ -1,11 +1,11 @@
 ---
 domain: lalafloristindonesia.com
 slug: lalafloristindonesia-com
-title: Is lalafloristindonesia.com Legit? Trust Signal Check
+title: Is lalafloristindonesia.com Legit? Trust Score 16/100
 description: >-
-  An automated trust-signal check for lalafloristindonesia.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  lalafloristindonesia.com scores 16/100 on our public trust checks. Standard
+  contact and policy pages were not found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T15:18:41.306Z'
 finalUrl: 'https://lalafloristindonesia.com/'
 reachable: true

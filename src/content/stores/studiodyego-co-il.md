@@ -1,10 +1,10 @@
 ---
 domain: studiodyego.co.il
 slug: studiodyego-co-il
-title: Is studiodyego.co.il Legit? Trust Signal Check
+title: Is studiodyego.co.il Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for studiodyego.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  studiodyego.co.il scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:22:26.907Z'
 finalUrl: 'https://www.studiodyego.co.il/'
 reachable: true

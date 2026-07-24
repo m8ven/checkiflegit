@@ -1,10 +1,10 @@
 ---
 domain: howtobasically.co.uk
 slug: howtobasically-co-uk
-title: Is howtobasically.co.uk Legit? Trust Signal Check
+title: Is howtobasically.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for howtobasically.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  howtobasically.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:19.148Z'
 finalUrl: 'https://howtobasically.co.uk/'
 reachable: true

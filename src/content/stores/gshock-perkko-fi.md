@@ -1,10 +1,10 @@
 ---
 domain: gshock.perkko.fi
 slug: gshock-perkko-fi
-title: Is gshock.perkko.fi Legit? Trust Signal Check
+title: Is gshock.perkko.fi Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for gshock.perkko.fi: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gshock.perkko.fi scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:32:56.697Z'
 finalUrl: 'https://gshock.perkko.fi/'
 reachable: true

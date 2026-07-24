@@ -1,10 +1,10 @@
 ---
 domain: unminced.com
 slug: unminced-com
-title: Is unminced.com Legit? Trust Signal Check
+title: Is unminced.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for unminced.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  unminced.com scores 70/100 on our public trust checks. Established domain —
+  registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:32.000Z'
 finalUrl: 'https://unminced.com/'
 reachable: true

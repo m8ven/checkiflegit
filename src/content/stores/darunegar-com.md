@@ -1,10 +1,10 @@
 ---
 domain: darunegar.com
 slug: darunegar-com
-title: Is darunegar.com Legit? Trust Signal Check
+title: Is darunegar.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for darunegar.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  darunegar.com scores 94/100 on our public trust checks. Established domain —
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:12.264Z'
 finalUrl: 'https://darunegar.com/'
 reachable: true

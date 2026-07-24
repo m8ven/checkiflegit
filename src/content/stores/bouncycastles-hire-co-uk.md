@@ -1,10 +1,10 @@
 ---
 domain: bouncycastles-hire.co.uk
 slug: bouncycastles-hire-co-uk
-title: Is bouncycastles-hire.co.uk Legit? Trust Signal Check
+title: Is bouncycastles-hire.co.uk Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for bouncycastles-hire.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bouncycastles-hire.co.uk scores 85/100 on our public trust checks. Established
+  domain — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:06.349Z'
 finalUrl: 'https://www.bouncycastles-hire.co.uk/'
 reachable: true

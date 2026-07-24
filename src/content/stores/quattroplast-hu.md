@@ -1,10 +1,10 @@
 ---
 domain: quattroplast.hu
 slug: quattroplast-hu
-title: Is quattroplast.hu Legit? Trust Signal Check
+title: Is quattroplast.hu Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for quattroplast.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  quattroplast.hu scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T11:57:42.684Z'
 finalUrl: 'https://quattroplast.hu/'
 reachable: true

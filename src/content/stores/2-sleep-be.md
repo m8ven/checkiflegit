@@ -1,10 +1,10 @@
 ---
 domain: 2-sleep.be
 slug: 2-sleep-be
-title: Is 2-sleep.be Legit? Trust Signal Check
+title: Is 2-sleep.be Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 2-sleep.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  2-sleep.be scores 88/100 on our public trust checks. Established domain —
+  registered 16 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:36.536Z'
 finalUrl: 'https://2-sleep.be/'
 reachable: true

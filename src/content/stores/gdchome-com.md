@@ -1,10 +1,10 @@
 ---
 domain: gdchome.com
 slug: gdchome-com
-title: Is gdchome.com Legit? Trust Signal Check
+title: Is gdchome.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for gdchome.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gdchome.com scores 100/100 on our public trust checks. Established domain —
+  registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:10.610Z'
 finalUrl: 'https://www.gdchome.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jeanfrancoismazouaud.fr
 slug: jeanfrancoismazouaud-fr
-title: Is jeanfrancoismazouaud.fr Legit? Trust Signal Check
+title: Is jeanfrancoismazouaud.fr Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for jeanfrancoismazouaud.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  jeanfrancoismazouaud.fr scores 70/100 on our public trust checks. Established
+  domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:29.591Z'
 finalUrl: 'https://jeanfrancoismazouaud.fr/'
 reachable: true

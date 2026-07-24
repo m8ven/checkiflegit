@@ -1,10 +1,10 @@
 ---
 domain: earthslab.com
 slug: earthslab-com
-title: Is earthslab.com Legit? Trust Signal Check
+title: Is earthslab.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for earthslab.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  earthslab.com scores 73/100 on our public trust checks. Established domain —
+  registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:39.149Z'
 finalUrl: 'https://www.earthslab.com/'
 reachable: true

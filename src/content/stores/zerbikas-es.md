@@ -1,10 +1,10 @@
 ---
 domain: zerbikas.es
 slug: zerbikas-es
-title: Is zerbikas.es Legit? Trust Signal Check
+title: Is zerbikas.es Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for zerbikas.es: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  zerbikas.es scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:34:08.081Z'
 finalUrl: 'https://www.zerbikas.es/'
 reachable: true

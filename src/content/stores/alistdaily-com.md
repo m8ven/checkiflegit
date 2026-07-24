@@ -1,10 +1,10 @@
 ---
 domain: alistdaily.com
 slug: alistdaily-com
-title: Is alistdaily.com Legit? Trust Signal Check
+title: Is alistdaily.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for alistdaily.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alistdaily.com scores 76/100 on our public trust checks. Established domain —
+  registered 17.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:03.607Z'
 finalUrl: 'https://www.alistdaily.com/'
 reachable: true

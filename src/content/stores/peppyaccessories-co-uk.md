@@ -1,10 +1,10 @@
 ---
 domain: peppyaccessories.co.uk
 slug: peppyaccessories-co-uk
-title: Is peppyaccessories.co.uk Legit? Trust Signal Check
+title: Is peppyaccessories.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for peppyaccessories.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  peppyaccessories.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:25.659Z'
 finalUrl: 'https://www.peppyaccessories.co.uk/'
 reachable: true

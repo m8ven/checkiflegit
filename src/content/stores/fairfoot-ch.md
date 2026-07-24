@@ -1,10 +1,10 @@
 ---
 domain: fairfoot.ch
 slug: fairfoot-ch
-title: Is fairfoot.ch Legit? Trust Signal Check
+title: Is fairfoot.ch Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fairfoot.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fairfoot.ch scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:48:36.108Z'
 finalUrl: 'https://fairfoot.ch/'
 reachable: true

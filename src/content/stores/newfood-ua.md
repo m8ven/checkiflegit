@@ -1,10 +1,10 @@
 ---
 domain: newfood.ua
 slug: newfood-ua
-title: Is newfood.ua Legit? Trust Signal Check
+title: Is newfood.ua Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for newfood.ua: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  newfood.ua scores 88/100 on our public trust checks. Established domain —
+  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:44.281Z'
 finalUrl: 'https://newfood.ua/'
 reachable: true

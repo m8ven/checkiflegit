@@ -1,10 +1,10 @@
 ---
 domain: repart.dk
 slug: repart-dk
-title: Is repart.dk Legit? Trust Signal Check
+title: Is repart.dk Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for repart.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  repart.dk scores 82/100 on our public trust checks. Established domain —
+  registered 25.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:20.352Z'
 finalUrl: 'https://repart.dk/'
 reachable: true

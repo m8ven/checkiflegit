@@ -1,10 +1,10 @@
 ---
 domain: wizard.kg
 slug: wizard-kg
-title: Is wizard.kg Legit? Trust Signal Check
+title: Is wizard.kg Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for wizard.kg: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  wizard.kg scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:50:57.351Z'
 finalUrl: 'https://wizard.kg/'
 reachable: true

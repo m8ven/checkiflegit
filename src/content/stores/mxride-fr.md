@@ -1,10 +1,10 @@
 ---
 domain: mxride.fr
 slug: mxride-fr
-title: Is mxride.fr Legit? Trust Signal Check
+title: Is mxride.fr Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mxride.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mxride.fr scores 70/100 on our public trust checks. Established domain —
+  registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:26.970Z'
 finalUrl: 'https://mxride.fr/'
 reachable: true

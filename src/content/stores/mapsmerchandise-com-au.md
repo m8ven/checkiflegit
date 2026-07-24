@@ -1,11 +1,11 @@
 ---
 domain: mapsmerchandise.com.au
 slug: mapsmerchandise-com-au
-title: Is mapsmerchandise.com.au Legit? Trust Signal Check
+title: Is mapsmerchandise.com.au Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for mapsmerchandise.com.au: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  mapsmerchandise.com.au scores 40/100 on our public trust checks. Standard
+  contact and policy pages were not found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:54:12.732Z'
 finalUrl: 'https://mapsmerchandise.com.au/'
 reachable: true

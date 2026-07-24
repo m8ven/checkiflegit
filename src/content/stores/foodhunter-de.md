@@ -1,10 +1,11 @@
 ---
 domain: foodhunter.de
 slug: foodhunter-de
-title: Is foodhunter.de Legit? Trust Signal Check
+title: Is foodhunter.de Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for foodhunter.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  foodhunter.de scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T15:06:05.414Z'
 finalUrl: 'https://www.foodhunter.de/'
 reachable: true

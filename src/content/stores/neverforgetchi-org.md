@@ -1,10 +1,10 @@
 ---
 domain: neverforgetchi.org
 slug: neverforgetchi-org
-title: Is neverforgetchi.org Legit? Trust Signal Check
+title: Is neverforgetchi.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for neverforgetchi.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  neverforgetchi.org scores 100/100 on our public trust checks. Established
+  domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:03.428Z'
 finalUrl: 'https://neverforgetchi.org/'
 reachable: true

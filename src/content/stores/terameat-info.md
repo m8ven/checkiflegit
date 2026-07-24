@@ -1,10 +1,10 @@
 ---
 domain: terameat.info
 slug: terameat-info
-title: Is terameat.info Legit? Trust Signal Check
+title: Is terameat.info Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for terameat.info: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  terameat.info scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:08:03.402Z'
 finalUrl: 'https://terameat.info/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kisha2z.com
 slug: kisha2z-com
-title: Is kisha2z.com Legit? Trust Signal Check
+title: Is kisha2z.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kisha2z.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kisha2z.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T14:54:23.640Z'
 finalUrl: 'https://kisha2z.com/'
 reachable: true

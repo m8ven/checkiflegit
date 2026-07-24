@@ -1,10 +1,10 @@
 ---
 domain: inmoov.fr
 slug: inmoov-fr
-title: Is inmoov.fr Legit? Trust Signal Check
+title: Is inmoov.fr Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for inmoov.fr: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  inmoov.fr scores 52/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T03:46:59.893Z'
 finalUrl: 'https://inmoov.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: magnomontero.com
 slug: magnomontero-com
-title: Is magnomontero.com Legit? Trust Signal Check
+title: Is magnomontero.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for magnomontero.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  magnomontero.com scores 94/100 on our public trust checks. Established domain
+  — registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:55.723Z'
 finalUrl: 'https://magnomontero.com/'
 reachable: true

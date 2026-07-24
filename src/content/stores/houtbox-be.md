@@ -1,10 +1,10 @@
 ---
 domain: houtbox.be
 slug: houtbox-be
-title: Is houtbox.be Legit? Trust Signal Check
+title: Is houtbox.be Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for houtbox.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  houtbox.be scores 82/100 on our public trust checks. Established domain —
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:35.070Z'
 finalUrl: 'https://houtbox.be/'
 reachable: true

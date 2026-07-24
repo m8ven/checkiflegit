@@ -1,10 +1,11 @@
 ---
 domain: taysideironmongery.co.uk
 slug: taysideironmongery-co-uk
-title: Is taysideironmongery.co.uk Legit? Trust Signal Check
+title: Is taysideironmongery.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for taysideironmongery.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  taysideironmongery.co.uk scores 100/100 on our public trust checks.
+  Established domain — registered 20.8 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:41:32.893Z'
 finalUrl: 'https://taysideironmongery.co.uk/'
 reachable: true

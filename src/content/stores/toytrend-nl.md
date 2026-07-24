@@ -1,10 +1,10 @@
 ---
 domain: toytrend.nl
 slug: toytrend-nl
-title: Is toytrend.nl Legit? Trust Signal Check
+title: Is toytrend.nl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for toytrend.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  toytrend.nl scores 100/100 on our public trust checks. Established domain —
+  registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:30.900Z'
 finalUrl: 'https://toytrend.nl/'
 reachable: true

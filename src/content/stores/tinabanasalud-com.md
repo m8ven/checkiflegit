@@ -1,10 +1,10 @@
 ---
 domain: tinabanasalud.com
 slug: tinabanasalud-com
-title: Is tinabanasalud.com Legit? Trust Signal Check
+title: Is tinabanasalud.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for tinabanasalud.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tinabanasalud.com scores 88/100 on our public trust checks. Established domain
+  — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:57.114Z'
 finalUrl: 'https://tinabanasalud.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kartmela.cl
 slug: kartmela-cl
-title: Is kartmela.cl Legit? Trust Signal Check
+title: Is kartmela.cl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kartmela.cl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kartmela.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:44:49.481Z'
 finalUrl: 'https://kartmela.cl/'
 reachable: true

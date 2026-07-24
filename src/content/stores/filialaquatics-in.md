@@ -1,10 +1,10 @@
 ---
 domain: filialaquatics.in
 slug: filialaquatics-in
-title: Is filialaquatics.in Legit? Trust Signal Check
+title: Is filialaquatics.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for filialaquatics.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  filialaquatics.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:56:50.901Z'
 finalUrl: 'https://filialaquatics.in/'
 reachable: true

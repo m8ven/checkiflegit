@@ -1,10 +1,10 @@
 ---
 domain: gezondekeuze.nl
 slug: gezondekeuze-nl
-title: Is gezondekeuze.nl Legit? Trust Signal Check
+title: Is gezondekeuze.nl Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for gezondekeuze.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gezondekeuze.nl scores 70/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:58.650Z'
 finalUrl: 'https://gezondekeuze.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: roses.ee
 slug: roses-ee
-title: Is roses.ee Legit? Trust Signal Check
+title: Is roses.ee Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for roses.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  roses.ee scores 76/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:56.931Z'
 finalUrl: 'https://roses.ee/'
 reachable: true

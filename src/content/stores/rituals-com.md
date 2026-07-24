@@ -1,10 +1,10 @@
 ---
 domain: rituals.com
 slug: rituals-com
-title: Is rituals.com Legit? Trust Signal Check
+title: Is rituals.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for rituals.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  rituals.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-24T21:44:36.697Z'
 finalUrl: 'https://www.rituals.com/en-nl/splash?utm_id=97759_v0_s00_e0_tv3'
 reachable: true

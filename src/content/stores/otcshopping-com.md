@@ -1,10 +1,10 @@
 ---
 domain: otcshopping.com
 slug: otcshopping-com
-title: Is otcshopping.com Legit? Trust Signal Check
+title: Is otcshopping.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for otcshopping.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  otcshopping.com scores 58/100 on our public trust checks. Domain is relatively
+  young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:40:04.625Z'
 finalUrl: 'https://otcshopping.com/'
 reachable: true

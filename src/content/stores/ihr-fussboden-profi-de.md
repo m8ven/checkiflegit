@@ -1,10 +1,10 @@
 ---
 domain: ihr-fussboden-profi.de
 slug: ihr-fussboden-profi-de
-title: Is ihr-fussboden-profi.de Legit? Trust Signal Check
+title: Is ihr-fussboden-profi.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ihr-fussboden-profi.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ihr-fussboden-profi.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:09.640Z'
 finalUrl: 'https://ihr-fussboden-profi.de/'
 reachable: true

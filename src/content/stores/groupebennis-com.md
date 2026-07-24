@@ -1,10 +1,10 @@
 ---
 domain: groupebennis.com
 slug: groupebennis-com
-title: Is groupebennis.com Legit? Trust Signal Check
+title: Is groupebennis.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for groupebennis.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  groupebennis.com scores 88/100 on our public trust checks. Established domain
+  — registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:17.584Z'
 finalUrl: 'https://groupebennis.com/'
 reachable: true

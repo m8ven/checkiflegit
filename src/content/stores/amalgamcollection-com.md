@@ -1,10 +1,10 @@
 ---
 domain: amalgamcollection.com
 slug: amalgamcollection-com
-title: Is amalgamcollection.com Legit? Trust Signal Check
+title: Is amalgamcollection.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for amalgamcollection.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  amalgamcollection.com scores 100/100 on our public trust checks. Established
+  domain — registered 20.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:12:39.896Z'
 finalUrl: 'https://www.amalgamcollection.com/'
 reachable: true

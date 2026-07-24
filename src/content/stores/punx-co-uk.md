@@ -1,10 +1,10 @@
 ---
 domain: punx.co.uk
 slug: punx-co-uk
-title: Is punx.co.uk Legit? Trust Signal Check
+title: Is punx.co.uk Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for punx.co.uk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  punx.co.uk scores 70/100 on our public trust checks. Established domain —
+  registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:05.948Z'
 finalUrl: 'https://www.punx.co.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: themovieoutfits.com
 slug: themovieoutfits-com
-title: Is themovieoutfits.com Legit? Trust Signal Check
+title: Is themovieoutfits.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for themovieoutfits.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  themovieoutfits.com scores 100/100 on our public trust checks. Established
+  domain — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:35.898Z'
 finalUrl: 'https://themovieoutfits.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: repmerch.au
 slug: repmerch-au
-title: Is repmerch.au Legit? Trust Signal Check
+title: Is repmerch.au Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for repmerch.au: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  repmerch.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:25:21.695Z'
 finalUrl: 'https://www.repmerch.au/'
 reachable: true

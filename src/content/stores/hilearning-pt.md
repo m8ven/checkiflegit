@@ -1,10 +1,10 @@
 ---
 domain: hilearning.pt
 slug: hilearning-pt
-title: Is hilearning.pt Legit? Trust Signal Check
+title: Is hilearning.pt Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for hilearning.pt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hilearning.pt scores 85/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:06.211Z'
 finalUrl: 'https://hilearning.pt/'
 reachable: true

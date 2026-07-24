@@ -1,10 +1,10 @@
 ---
 domain: jaggedxoffroad.com
 slug: jaggedxoffroad-com
-title: Is jaggedxoffroad.com Legit? Trust Signal Check
+title: Is jaggedxoffroad.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for jaggedxoffroad.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jaggedxoffroad.com scores 88/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:01.915Z'
 finalUrl: 'https://jaggedxoffroad.com/'
 reachable: true

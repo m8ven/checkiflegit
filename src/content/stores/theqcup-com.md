@@ -1,10 +1,10 @@
 ---
 domain: theqcup.com
 slug: theqcup-com
-title: Is theqcup.com Legit? Trust Signal Check
+title: Is theqcup.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for theqcup.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  theqcup.com scores 70/100 on our public trust checks. Established domain —
+  registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:03.024Z'
 finalUrl: 'https://theqcup.com/'
 reachable: true

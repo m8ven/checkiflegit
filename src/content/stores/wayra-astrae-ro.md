@@ -1,10 +1,10 @@
 ---
 domain: wayra-astrae.ro
 slug: wayra-astrae-ro
-title: Is wayra-astrae.ro Legit? Trust Signal Check
+title: Is wayra-astrae.ro Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for wayra-astrae.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wayra-astrae.ro scores 100/100 on our public trust checks. Established domain
+  — registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:10.850Z'
 finalUrl: 'https://wayra-astrae.ro/'
 reachable: true

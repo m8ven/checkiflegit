@@ -1,10 +1,10 @@
 ---
 domain: moodcompany.shop
 slug: moodcompany-shop
-title: Is moodcompany.shop Legit? Trust Signal Check
+title: Is moodcompany.shop Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for moodcompany.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  moodcompany.shop scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:19:52.629Z'
 finalUrl: 'https://moodcompany.shop/'
 reachable: true

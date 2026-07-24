@@ -1,10 +1,10 @@
 ---
 domain: studiogrow.nl
 slug: studiogrow-nl
-title: Is studiogrow.nl Legit? Trust Signal Check
+title: Is studiogrow.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for studiogrow.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  studiogrow.nl scores 73/100 on our public trust checks. Established domain —
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:30.546Z'
 finalUrl: 'https://studiogrow.nl/'
 reachable: true

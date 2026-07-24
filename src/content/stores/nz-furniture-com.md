@@ -1,10 +1,10 @@
 ---
 domain: nz-furniture.com
 slug: nz-furniture-com
-title: Is nz-furniture.com Legit? Trust Signal Check
+title: Is nz-furniture.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for nz-furniture.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nz-furniture.com scores 70/100 on our public trust checks. Established domain
+  — registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:01.263Z'
 finalUrl: 'https://www.nz-furniture.com/'
 reachable: true

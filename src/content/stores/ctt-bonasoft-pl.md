@@ -1,10 +1,11 @@
 ---
 domain: ctt.bonasoft.pl
 slug: ctt-bonasoft-pl
-title: Is ctt.bonasoft.pl Legit? Trust Signal Check
+title: Is ctt.bonasoft.pl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ctt.bonasoft.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ctt.bonasoft.pl scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:23:37.459Z'
 finalUrl: 'https://ctt.bonasoft.pl/'
 reachable: true

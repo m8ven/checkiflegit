@@ -1,10 +1,10 @@
 ---
 domain: estante.pl
 slug: estante-pl
-title: Is estante.pl Legit? Trust Signal Check
+title: Is estante.pl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for estante.pl: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  estante.pl scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:02:32.131Z'
 finalUrl: 'https://www.estante.pl/'
 reachable: true

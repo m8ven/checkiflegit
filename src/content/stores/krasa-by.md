@@ -1,10 +1,10 @@
 ---
 domain: krasa.by
 slug: krasa-by
-title: Is krasa.by Legit? Trust Signal Check
+title: Is krasa.by Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for krasa.by: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  krasa.by scores 70/100 on our public trust checks. Established domain —
+  registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:05:34.193Z'
 finalUrl: 'https://krasa.by/'
 reachable: true

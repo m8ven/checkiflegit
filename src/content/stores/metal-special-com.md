@@ -1,10 +1,10 @@
 ---
 domain: metal-special.com
 slug: metal-special-com
-title: Is metal-special.com Legit? Trust Signal Check
+title: Is metal-special.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for metal-special.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  metal-special.com scores 73/100 on our public trust checks. Established domain
+  — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:03.216Z'
 finalUrl: 'https://www.metal-special.com/'
 reachable: true

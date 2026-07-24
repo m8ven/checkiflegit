@@ -1,10 +1,10 @@
 ---
 domain: klaraslife.com
 slug: klaraslife-com
-title: Is klaraslife.com Legit? Trust Signal Check
+title: Is klaraslife.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for klaraslife.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  klaraslife.com scores 76/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:59.651Z'
 finalUrl: 'https://klaraslife.com/de/portfolio/'
 reachable: true

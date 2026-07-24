@@ -1,10 +1,10 @@
 ---
 domain: paperstrawwarehouse.com
 slug: paperstrawwarehouse-com
-title: Is paperstrawwarehouse.com Legit? Trust Signal Check
+title: Is paperstrawwarehouse.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for paperstrawwarehouse.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  paperstrawwarehouse.com scores 52/100 on our public trust checks. Domain is
+  relatively young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:00:53.237Z'
 finalUrl: 'https://paperstrawwarehouse.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: thietbiytehungyen.com
 slug: thietbiytehungyen-com
-title: Is thietbiytehungyen.com Legit? Trust Signal Check
+title: Is thietbiytehungyen.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for thietbiytehungyen.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thietbiytehungyen.com scores 64/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:05:47.417Z'
 finalUrl: 'https://thietbiytehungyen.com/'
 reachable: true

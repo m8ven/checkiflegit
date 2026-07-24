@@ -1,10 +1,10 @@
 ---
 domain: livex.ai
 slug: livex-ai
-title: Is livex.ai Legit? Trust Signal Check
+title: Is livex.ai Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for livex.ai: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  livex.ai scores 82/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:11.407Z'
 finalUrl: 'https://www.livex.ai/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: manilaofficefurnitureden.ph
 slug: manilaofficefurnitureden-ph
-title: Is manilaofficefurnitureden.ph Legit? Trust Signal Check
+title: Is manilaofficefurnitureden.ph Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for manilaofficefurnitureden.ph: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  manilaofficefurnitureden.ph scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:47.717Z'
 finalUrl: 'https://www.manilaofficefurnitureden.ph/'
 reachable: true

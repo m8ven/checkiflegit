@@ -1,10 +1,10 @@
 ---
 domain: shahjis.co.nz
 slug: shahjis-co-nz
-title: Is shahjis.co.nz Legit? Trust Signal Check
+title: Is shahjis.co.nz Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shahjis.co.nz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shahjis.co.nz scores 100/100 on our public trust checks. Established domain —
+  registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:31:03.013Z'
 finalUrl: 'https://shahjis.co.nz/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: fedisa.co.in
 slug: fedisa-co-in
-title: Is fedisa.co.in Legit? Trust Signal Check
+title: Is fedisa.co.in Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for fedisa.co.in: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fedisa.co.in scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:49.987Z'
 finalUrl: 'https://fedisa.co.in/'
 reachable: true

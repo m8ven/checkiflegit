@@ -1,10 +1,10 @@
 ---
 domain: officinaserrotti.it
 slug: officinaserrotti-it
-title: Is officinaserrotti.it Legit? Trust Signal Check
+title: Is officinaserrotti.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for officinaserrotti.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  officinaserrotti.it scores 100/100 on our public trust checks. Established
+  domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:36.262Z'
 finalUrl: 'https://officinaserrotti.it/'
 reachable: true

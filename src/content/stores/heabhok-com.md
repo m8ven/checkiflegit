@@ -1,10 +1,10 @@
 ---
 domain: heabhok.com
 slug: heabhok-com
-title: Is heabhok.com Legit? Trust Signal Check
+title: Is heabhok.com Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for heabhok.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  heabhok.com scores 94/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:24.045Z'
 finalUrl: 'https://heabhok.com/'
 reachable: true

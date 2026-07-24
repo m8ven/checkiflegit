@@ -1,10 +1,11 @@
 ---
 domain: brixbuddy.com
 slug: brixbuddy-com
-title: Is brixbuddy.com Legit? Trust Signal Check
+title: Is brixbuddy.com Legit? Trust Score 34/100
 description: >-
-  An automated trust-signal check for brixbuddy.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  brixbuddy.com scores 34/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T12:44:19.336Z'
 finalUrl: 'https://brixbuddy.com/'
 reachable: true

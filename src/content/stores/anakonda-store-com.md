@@ -1,10 +1,10 @@
 ---
 domain: anakonda-store.com
 slug: anakonda-store-com
-title: Is anakonda-store.com Legit? Trust Signal Check
+title: Is anakonda-store.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for anakonda-store.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  anakonda-store.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:24:15.071Z'
 finalUrl: 'https://anakonda-store.com/'
 reachable: true

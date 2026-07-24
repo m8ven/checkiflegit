@@ -1,10 +1,10 @@
 ---
 domain: kaplanjenerator.com
 slug: kaplanjenerator-com
-title: Is kaplanjenerator.com Legit? Trust Signal Check
+title: Is kaplanjenerator.com Legit? Trust Score 22/100
 description: >-
-  An automated trust-signal check for kaplanjenerator.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  kaplanjenerator.com scores 22/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:18:48.998Z'
 finalUrl: 'https://www.kaplanjenerator.com/'
 reachable: true

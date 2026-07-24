@@ -1,10 +1,10 @@
 ---
 domain: biav.net
 slug: biav-net
-title: Is biav.net Legit? Trust Signal Check
+title: Is biav.net Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for biav.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  biav.net scores 100/100 on our public trust checks. Established domain —
+  registered 24.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:47.026Z'
 finalUrl: 'https://www.biav.net/'
 reachable: true

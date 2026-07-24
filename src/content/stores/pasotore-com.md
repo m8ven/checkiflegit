@@ -1,10 +1,11 @@
 ---
 domain: pasotore.com
 slug: pasotore-com
-title: Is pasotore.com Legit? Trust Signal Check
+title: Is pasotore.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pasotore.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pasotore.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:01:09.046Z'
 finalUrl: 'https://pasotore.com/'
 reachable: true

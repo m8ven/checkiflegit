@@ -1,10 +1,10 @@
 ---
 domain: mamapediatra.pl
 slug: mamapediatra-pl
-title: Is mamapediatra.pl Legit? Trust Signal Check
+title: Is mamapediatra.pl Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for mamapediatra.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  mamapediatra.pl scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:51:50.685Z'
 finalUrl: 'https://mamapediatra.pl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gwennsbakery.nl
 slug: gwennsbakery-nl
-title: Is gwennsbakery.nl Legit? Trust Signal Check
+title: Is gwennsbakery.nl Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for gwennsbakery.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gwennsbakery.nl scores 76/100 on our public trust checks. Established domain —
+  registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:08.044Z'
 finalUrl: 'https://gwennsbakery.nl/'
 reachable: true

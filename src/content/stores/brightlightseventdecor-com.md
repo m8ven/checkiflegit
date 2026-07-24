@@ -1,10 +1,11 @@
 ---
 domain: brightlightseventdecor.com
 slug: brightlightseventdecor-com
-title: Is brightlightseventdecor.com Legit? Trust Signal Check
+title: Is brightlightseventdecor.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for brightlightseventdecor.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  brightlightseventdecor.com scores 73/100 on our public trust checks.
+  Established domain — registered 3.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:37:20.219Z'
 finalUrl: 'https://brightlightseventdecor.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: macksearplugs.com
 slug: macksearplugs-com
-title: Is macksearplugs.com Legit? Trust Signal Check
+title: Is macksearplugs.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for macksearplugs.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  macksearplugs.com scores 88/100 on our public trust checks. Established domain
+  — registered 27.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:25.737Z'
 finalUrl: 'https://www.macksearplugs.com/'
 reachable: true

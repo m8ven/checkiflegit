@@ -1,10 +1,10 @@
 ---
 domain: derycker.eu
 slug: derycker-eu
-title: Is derycker.eu Legit? Trust Signal Check
+title: Is derycker.eu Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for derycker.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  derycker.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:33:51.218Z'
 finalUrl: 'https://derycker.eu/'
 reachable: true

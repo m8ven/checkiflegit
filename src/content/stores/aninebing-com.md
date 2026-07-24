@@ -1,10 +1,10 @@
 ---
 domain: aninebing.com
 slug: aninebing-com
-title: Is aninebing.com Legit? Trust Signal Check
+title: Is aninebing.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for aninebing.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aninebing.com scores 70/100 on our public trust checks. Established domain —
+  registered 21.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:21.736Z'
 finalUrl: 'https://www.aninebing.com/'
 reachable: true

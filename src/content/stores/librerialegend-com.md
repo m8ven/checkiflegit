@@ -1,10 +1,10 @@
 ---
 domain: librerialegend.com
 slug: librerialegend-com
-title: Is librerialegend.com Legit? Trust Signal Check
+title: Is librerialegend.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for librerialegend.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  librerialegend.com scores 100/100 on our public trust checks. Established
+  domain — registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:13.333Z'
 finalUrl: 'https://librerialegend.com/'
 reachable: true

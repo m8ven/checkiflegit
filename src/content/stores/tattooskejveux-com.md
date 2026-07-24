@@ -1,10 +1,10 @@
 ---
 domain: tattooskejveux.com
 slug: tattooskejveux-com
-title: Is tattooskejveux.com Legit? Trust Signal Check
+title: Is tattooskejveux.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for tattooskejveux.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tattooskejveux.com scores 88/100 on our public trust checks. Established
+  domain — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:14:27.044Z'
 finalUrl: 'https://tattooskejveux.com/'
 reachable: true

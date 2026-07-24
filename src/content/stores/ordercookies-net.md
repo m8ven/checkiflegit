@@ -1,10 +1,10 @@
 ---
 domain: ordercookies.net
 slug: ordercookies-net
-title: Is ordercookies.net Legit? Trust Signal Check
+title: Is ordercookies.net Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for ordercookies.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ordercookies.net scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:40:08.963Z'
 finalUrl: 'https://www.ordercookies.net/'
 reachable: true

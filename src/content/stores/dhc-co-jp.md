@@ -1,10 +1,10 @@
 ---
 domain: dhc.co.jp
 slug: dhc-co-jp
-title: Is dhc.co.jp Legit? Trust Signal Check
+title: Is dhc.co.jp Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for dhc.co.jp: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dhc.co.jp scores 64/100 on our public trust checks. HTTPS certificate present
+  but its trust chain is incomplete.
 fetchedAt: '2026-06-24T21:44:54.619Z'
 finalUrl: 'https://www.dhc.co.jp/'
 reachable: true

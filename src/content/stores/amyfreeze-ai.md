@@ -1,10 +1,10 @@
 ---
 domain: amyfreeze.ai
 slug: amyfreeze-ai
-title: Is amyfreeze.ai Legit? Trust Signal Check
+title: Is amyfreeze.ai Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for amyfreeze.ai: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  amyfreeze.ai scores 88/100 on our public trust checks. Established domain —
+  registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:41:10.831Z'
 finalUrl: 'https://amyfreeze.ai/'
 reachable: true

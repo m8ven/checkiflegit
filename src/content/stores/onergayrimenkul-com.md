@@ -1,10 +1,10 @@
 ---
 domain: onergayrimenkul.com
 slug: onergayrimenkul-com
-title: Is onergayrimenkul.com Legit? Trust Signal Check
+title: Is onergayrimenkul.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for onergayrimenkul.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  onergayrimenkul.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:41:21.185Z'
 finalUrl: 'https://onergayrimenkul.com/'
 reachable: true

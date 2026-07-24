@@ -1,10 +1,10 @@
 ---
 domain: haircontrast.de
 slug: haircontrast-de
-title: Is haircontrast.de Legit? Trust Signal Check
+title: Is haircontrast.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for haircontrast.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  haircontrast.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:36:25.237Z'
 finalUrl: 'https://haircontrast.de/'
 reachable: true

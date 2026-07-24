@@ -1,10 +1,10 @@
 ---
 domain: powertechmg.com.br
 slug: powertechmg-com-br
-title: Is powertechmg.com.br Legit? Trust Signal Check
+title: Is powertechmg.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for powertechmg.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  powertechmg.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T11:56:43.172Z'
 finalUrl: 'https://powertechmg.com.br/'
 reachable: true

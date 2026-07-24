@@ -1,10 +1,10 @@
 ---
 domain: cibervlacho.com.co
 slug: cibervlacho-com-co
-title: Is cibervlacho.com.co Legit? Trust Signal Check
+title: Is cibervlacho.com.co Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cibervlacho.com.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cibervlacho.com.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:55:06.589Z'
 finalUrl: 'https://www.cibervlacho.com.co/'
 reachable: true

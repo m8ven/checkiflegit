@@ -1,10 +1,10 @@
 ---
 domain: osipenkov.ru
 slug: osipenkov-ru
-title: Is osipenkov.ru Legit? Trust Signal Check
+title: Is osipenkov.ru Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for osipenkov.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  osipenkov.ru scores 70/100 on our public trust checks. Established domain —
+  registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:16.025Z'
 finalUrl: 'https://osipenkov.ru/'
 reachable: true

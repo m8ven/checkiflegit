@@ -1,10 +1,10 @@
 ---
 domain: inservo.ru
 slug: inservo-ru
-title: Is inservo.ru Legit? Trust Signal Check
+title: Is inservo.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for inservo.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  inservo.ru scores 73/100 on our public trust checks. Established domain —
+  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:10.097Z'
 finalUrl: 'https://inservo.ru/'
 reachable: true

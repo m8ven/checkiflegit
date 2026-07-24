@@ -1,10 +1,10 @@
 ---
 domain: pizzeriamilano.ro
 slug: pizzeriamilano-ro
-title: Is pizzeriamilano.ro Legit? Trust Signal Check
+title: Is pizzeriamilano.ro Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for pizzeriamilano.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pizzeriamilano.ro scores 82/100 on our public trust checks. Established domain
+  — registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:58.185Z'
 finalUrl: 'https://pizzeriamilano.ro/'
 reachable: true

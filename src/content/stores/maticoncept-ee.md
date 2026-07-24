@@ -1,10 +1,10 @@
 ---
 domain: maticoncept.ee
 slug: maticoncept-ee
-title: Is maticoncept.ee Legit? Trust Signal Check
+title: Is maticoncept.ee Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for maticoncept.ee: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  maticoncept.ee scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:50:57.121Z'
 finalUrl: 'https://maticoncept.ee/'
 reachable: true

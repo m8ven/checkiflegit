@@ -1,10 +1,10 @@
 ---
 domain: wateroffer.com
 slug: wateroffer-com
-title: Is wateroffer.com Legit? Trust Signal Check
+title: Is wateroffer.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for wateroffer.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wateroffer.com scores 100/100 on our public trust checks. Established domain —
+  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:44.504Z'
 finalUrl: 'https://wateroffer.com/'
 reachable: true

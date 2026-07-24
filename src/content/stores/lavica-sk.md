@@ -1,10 +1,10 @@
 ---
 domain: lavica.sk
 slug: lavica-sk
-title: Is lavica.sk Legit? Trust Signal Check
+title: Is lavica.sk Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for lavica.sk: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  lavica.sk scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:26:11.137Z'
 finalUrl: 'https://www.lavica.sk/'
 reachable: true

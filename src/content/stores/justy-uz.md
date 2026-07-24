@@ -1,10 +1,10 @@
 ---
 domain: justy.uz
 slug: justy-uz
-title: Is justy.uz Legit? Trust Signal Check
+title: Is justy.uz Legit? Trust Score 43/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for justy.uz: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  justy.uz scores 43/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:39:41.650Z'
 finalUrl: 'https://justy.uz/'
 reachable: true

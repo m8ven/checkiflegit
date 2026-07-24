@@ -1,10 +1,10 @@
 ---
 domain: baldosas-super.cl
 slug: baldosas-super-cl
-title: Is baldosas-super.cl Legit? Trust Signal Check
+title: Is baldosas-super.cl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for baldosas-super.cl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  baldosas-super.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:54:26.076Z'
 finalUrl: 'https://baldosas-super.cl/'
 reachable: true

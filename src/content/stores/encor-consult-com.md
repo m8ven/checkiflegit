@@ -1,10 +1,10 @@
 ---
 domain: encor-consult.com
 slug: encor-consult-com
-title: Is encor-consult.com Legit? Trust Signal Check
+title: Is encor-consult.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for encor-consult.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  encor-consult.com scores 88/100 on our public trust checks. Established domain
+  — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:23.249Z'
 finalUrl: 'https://encor-consult.com/'
 reachable: true

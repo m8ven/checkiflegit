@@ -1,10 +1,10 @@
 ---
 domain: hamtek.co
 slug: hamtek-co
-title: Is hamtek.co Legit? Trust Signal Check
+title: Is hamtek.co Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for hamtek.co: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hamtek.co scores 57/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:14:31.823Z'
 finalUrl: 'https://hamtek.co/'
 reachable: true

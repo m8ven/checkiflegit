@@ -1,10 +1,10 @@
 ---
 domain: lacasadelabanda.com
 slug: lacasadelabanda-com
-title: Is lacasadelabanda.com Legit? Trust Signal Check
+title: Is lacasadelabanda.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for lacasadelabanda.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lacasadelabanda.com scores 70/100 on our public trust checks. Established
+  domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:22:46.683Z'
 finalUrl: 'https://www.lacasadelabanda.com/'
 reachable: true

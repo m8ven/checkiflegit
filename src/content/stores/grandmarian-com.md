@@ -1,10 +1,10 @@
 ---
 domain: grandmarian.com
 slug: grandmarian-com
-title: Is grandmarian.com Legit? Trust Signal Check
+title: Is grandmarian.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for grandmarian.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  grandmarian.com scores 73/100 on our public trust checks. Established domain —
+  registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:09.438Z'
 finalUrl: 'https://grandmarian.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: airofit.com
 slug: airofit-com
-title: Is airofit.com Legit? Trust Signal Check
+title: Is airofit.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for airofit.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  airofit.com scores 88/100 on our public trust checks. Established domain —
+  registered 24.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:40.357Z'
 finalUrl: 'https://airofit.com/'
 reachable: true

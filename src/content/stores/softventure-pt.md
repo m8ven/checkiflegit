@@ -1,10 +1,11 @@
 ---
 domain: softventure.pt
 slug: softventure-pt
-title: Is softventure.pt Legit? Trust Signal Check
+title: Is softventure.pt Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for softventure.pt: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  softventure.pt scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T15:09:21.882Z'
 finalUrl: 'https://softventure.pt/pt-pt/'
 reachable: true

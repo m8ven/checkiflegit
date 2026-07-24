@@ -1,10 +1,10 @@
 ---
 domain: co-trip.jp
 slug: co-trip-jp
-title: Is co-trip.jp Legit? Trust Signal Check
+title: Is co-trip.jp Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for co-trip.jp: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  co-trip.jp scores 88/100 on our public trust checks. Established domain —
+  registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:36.809Z'
 finalUrl: 'https://co-trip.jp/'
 reachable: true

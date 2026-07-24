@@ -1,10 +1,10 @@
 ---
 domain: tabaccool.ro
 slug: tabaccool-ro
-title: Is tabaccool.ro Legit? Trust Signal Check
+title: Is tabaccool.ro Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for tabaccool.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tabaccool.ro scores 85/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:57.291Z'
 finalUrl: 'https://tabaccool.ro/'
 reachable: true

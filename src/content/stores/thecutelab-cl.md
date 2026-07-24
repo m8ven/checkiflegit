@@ -1,10 +1,10 @@
 ---
 domain: thecutelab.cl
 slug: thecutelab-cl
-title: Is thecutelab.cl Legit? Trust Signal Check
+title: Is thecutelab.cl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for thecutelab.cl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thecutelab.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:23:01.711Z'
 finalUrl: 'https://www.thecutelab.cl/'
 reachable: true

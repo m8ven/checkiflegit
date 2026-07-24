@@ -1,10 +1,10 @@
 ---
 domain: exploranatura.es
 slug: exploranatura-es
-title: Is exploranatura.es Legit? Trust Signal Check
+title: Is exploranatura.es Legit? Trust Score 46/100
 description: >-
-  An automated trust-signal check for exploranatura.es: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  exploranatura.es scores 46/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T14:48:30.426Z'
 finalUrl: 'https://exploranatura.es/'
 reachable: true

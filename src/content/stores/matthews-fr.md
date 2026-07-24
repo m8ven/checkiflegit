@@ -1,10 +1,10 @@
 ---
 domain: matthews.fr
 slug: matthews-fr
-title: Is matthews.fr Legit? Trust Signal Check
+title: Is matthews.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for matthews.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  matthews.fr scores 88/100 on our public trust checks. Established domain —
+  registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:27:52.617Z'
 finalUrl: 'https://www.matthews.fr/'
 reachable: true

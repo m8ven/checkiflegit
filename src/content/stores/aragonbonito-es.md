@@ -1,10 +1,10 @@
 ---
 domain: aragonbonito.es
 slug: aragonbonito-es
-title: Is aragonbonito.es Legit? Trust Signal Check
+title: Is aragonbonito.es Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for aragonbonito.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aragonbonito.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:13:09.132Z'
 finalUrl: 'https://www.aragonbonito.es/'
 reachable: true

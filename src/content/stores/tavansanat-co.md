@@ -1,10 +1,10 @@
 ---
 domain: tavansanat.co
 slug: tavansanat-co
-title: Is tavansanat.co Legit? Trust Signal Check
+title: Is tavansanat.co Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for tavansanat.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tavansanat.co scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:14:27.396Z'
 finalUrl: 'https://tavansanat.co/'
 reachable: true

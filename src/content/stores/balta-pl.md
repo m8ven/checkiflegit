@@ -1,10 +1,10 @@
 ---
 domain: balta.pl
 slug: balta-pl
-title: Is balta.pl Legit? Trust Signal Check
+title: Is balta.pl Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for balta.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  balta.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:50:13.607Z'
 finalUrl: 'https://balta.pl/'
 reachable: true

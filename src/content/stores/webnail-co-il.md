@@ -1,10 +1,10 @@
 ---
 domain: webnail.co.il
 slug: webnail-co-il
-title: Is webnail.co.il Legit? Trust Signal Check
+title: Is webnail.co.il Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for webnail.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  webnail.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:09:56.542Z'
 finalUrl: 'https://webnail.co.il/'
 reachable: true

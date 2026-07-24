@@ -1,10 +1,10 @@
 ---
 domain: brewdistillferment.com.au
 slug: brewdistillferment-com-au
-title: Is brewdistillferment.com.au Legit? Trust Signal Check
+title: Is brewdistillferment.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for brewdistillferment.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  brewdistillferment.com.au scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:37:46.172Z'
 finalUrl: 'https://brewdistillferment.com.au/'
 reachable: true

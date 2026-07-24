@@ -1,10 +1,10 @@
 ---
 domain: goguided.tours
 slug: goguided-tours
-title: Is goguided.tours Legit? Trust Signal Check
+title: Is goguided.tours Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for goguided.tours: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  goguided.tours scores 31/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:48:31.327Z'
 finalUrl: 'https://goguided.tours/he/'
 reachable: true

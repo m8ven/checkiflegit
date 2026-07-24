@@ -1,10 +1,10 @@
 ---
 domain: lacnekupelne.sk
 slug: lacnekupelne-sk
-title: Is lacnekupelne.sk Legit? Trust Signal Check
+title: Is lacnekupelne.sk Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lacnekupelne.sk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lacnekupelne.sk scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:25:56.294Z'
 finalUrl: 'https://www.lacnekupelne.sk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: siida.fi
 slug: siida-fi
-title: Is siida.fi Legit? Trust Signal Check
+title: Is siida.fi Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for siida.fi: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  siida.fi scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:10:44.122Z'
 finalUrl: 'https://siida.fi/'
 reachable: true

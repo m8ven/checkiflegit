@@ -1,10 +1,10 @@
 ---
 domain: saccum.com
 slug: saccum-com
-title: Is saccum.com Legit? Trust Signal Check
+title: Is saccum.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for saccum.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  saccum.com scores 76/100 on our public trust checks. Established domain —
+  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:43:33.632Z'
 finalUrl: 'https://saccum.com/'
 reachable: true

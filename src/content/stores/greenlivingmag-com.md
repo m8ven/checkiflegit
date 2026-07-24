@@ -1,10 +1,10 @@
 ---
 domain: greenlivingmag.com
 slug: greenlivingmag-com
-title: Is greenlivingmag.com Legit? Trust Signal Check
+title: Is greenlivingmag.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for greenlivingmag.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  greenlivingmag.com scores 76/100 on our public trust checks. Established
+  domain — registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:54.769Z'
 finalUrl: 'https://greenlivingmag.com/'
 reachable: true

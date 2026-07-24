@@ -1,10 +1,10 @@
 ---
 domain: leeblendclinic.com
 slug: leeblendclinic-com
-title: Is leeblendclinic.com Legit? Trust Signal Check
+title: Is leeblendclinic.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for leeblendclinic.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  leeblendclinic.com scores 73/100 on our public trust checks. Established
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:00.470Z'
 finalUrl: 'https://leeblendclinic.com/'
 reachable: true

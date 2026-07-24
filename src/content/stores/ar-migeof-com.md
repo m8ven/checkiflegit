@@ -1,10 +1,11 @@
 ---
 domain: ar.migeof.com
 slug: ar-migeof-com
-title: Is ar.migeof.com Legit? Trust Signal Check
+title: Is ar.migeof.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ar.migeof.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ar.migeof.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:41:42.980Z'
 finalUrl: 'https://ar.migeof.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: voorjou-doormij.nl
 slug: voorjou-doormij-nl
-title: Is voorjou-doormij.nl Legit? Trust Signal Check
+title: Is voorjou-doormij.nl Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for voorjou-doormij.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  voorjou-doormij.nl scores 70/100 on our public trust checks. Established
+  domain — registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:00.602Z'
 finalUrl: 'https://voorjou-doormij.nl/'
 reachable: true

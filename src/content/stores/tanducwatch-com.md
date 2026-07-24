@@ -1,10 +1,10 @@
 ---
 domain: tanducwatch.com
 slug: tanducwatch-com
-title: Is tanducwatch.com Legit? Trust Signal Check
+title: Is tanducwatch.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tanducwatch.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tanducwatch.com scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:47:04.911Z'
 finalUrl: 'https://tanducwatch.com/'
 reachable: true

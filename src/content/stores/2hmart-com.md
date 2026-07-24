@@ -1,10 +1,10 @@
 ---
 domain: 2hmart.com
 slug: 2hmart-com
-title: Is 2hmart.com Legit? Trust Signal Check
+title: Is 2hmart.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for 2hmart.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  2hmart.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:37:12.919Z'
 finalUrl: 'https://2hmart.com/'
 reachable: true

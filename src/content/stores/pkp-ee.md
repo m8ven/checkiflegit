@@ -1,10 +1,10 @@
 ---
 domain: pkp.ee
 slug: pkp-ee
-title: Is pkp.ee Legit? Trust Signal Check
+title: Is pkp.ee Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pkp.ee: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  pkp.ee scores 70/100 on our public trust checks. Established domain —
+  registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:10.820Z'
 finalUrl: 'https://pkp.ee/'
 reachable: true

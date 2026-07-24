@@ -1,10 +1,10 @@
 ---
 domain: skincarebyus.se
 slug: skincarebyus-se
-title: Is skincarebyus.se Legit? Trust Signal Check
+title: Is skincarebyus.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for skincarebyus.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  skincarebyus.se scores 88/100 on our public trust checks. Established domain —
+  registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:31:32.090Z'
 finalUrl: 'https://skincarebyus.se/'
 reachable: true

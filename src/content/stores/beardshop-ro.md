@@ -1,10 +1,10 @@
 ---
 domain: beardshop.ro
 slug: beardshop-ro
-title: Is beardshop.ro Legit? Trust Signal Check
+title: Is beardshop.ro Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for beardshop.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  beardshop.ro scores 94/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:03.443Z'
 finalUrl: 'https://beardshop.ro/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nexmed.pl
 slug: nexmed-pl
-title: Is nexmed.pl Legit? Trust Signal Check
+title: Is nexmed.pl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nexmed.pl: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nexmed.pl scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:15:19.776Z'
 finalUrl: 'https://nexmed.pl/'
 reachable: true

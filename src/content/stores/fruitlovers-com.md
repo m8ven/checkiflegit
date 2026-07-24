@@ -1,10 +1,10 @@
 ---
 domain: fruitlovers.com
 slug: fruitlovers-com
-title: Is fruitlovers.com Legit? Trust Signal Check
+title: Is fruitlovers.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for fruitlovers.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fruitlovers.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:30:25.290Z'
 finalUrl: 'https://fruitlovers.com/'
 reachable: true

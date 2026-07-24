@@ -1,10 +1,10 @@
 ---
 domain: traveltractions.com
 slug: traveltractions-com
-title: Is traveltractions.com Legit? Trust Signal Check
+title: Is traveltractions.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for traveltractions.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  traveltractions.com scores 100/100 on our public trust checks. Established
+  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:24.743Z'
 finalUrl: 'https://traveltractions.com/'
 reachable: true

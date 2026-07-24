@@ -1,11 +1,11 @@
 ---
 domain: blog.boutique-epees.fr
 slug: blog-boutique-epees-fr
-title: Is blog.boutique-epees.fr Legit? Trust Signal Check
+title: Is blog.boutique-epees.fr Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for blog.boutique-epees.fr: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  blog.boutique-epees.fr scores 40/100 on our public trust checks. Standard
+  contact and policy pages were not found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T14:48:30.819Z'
 finalUrl: 'https://blog.boutique-epees.fr/'
 reachable: true

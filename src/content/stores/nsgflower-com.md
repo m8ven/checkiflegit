@@ -1,10 +1,10 @@
 ---
 domain: nsgflower.com
 slug: nsgflower-com
-title: Is nsgflower.com Legit? Trust Signal Check
+title: Is nsgflower.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for nsgflower.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nsgflower.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:16.541Z'
 finalUrl: 'https://nsgflower.com/'
 reachable: true

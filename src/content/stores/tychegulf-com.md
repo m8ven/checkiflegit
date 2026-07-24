@@ -1,10 +1,10 @@
 ---
 domain: tychegulf.com
 slug: tychegulf-com
-title: Is tychegulf.com Legit? Trust Signal Check
+title: Is tychegulf.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for tychegulf.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tychegulf.com scores 82/100 on our public trust checks. Established domain —
+  registered 13.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:00.868Z'
 finalUrl: 'https://tychegulf.com/'
 reachable: true

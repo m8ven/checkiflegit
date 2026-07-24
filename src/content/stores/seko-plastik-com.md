@@ -1,10 +1,10 @@
 ---
 domain: seko-plastik.com
 slug: seko-plastik-com
-title: Is seko-plastik.com Legit? Trust Signal Check
+title: Is seko-plastik.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for seko-plastik.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  seko-plastik.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:18:33.959Z'
 finalUrl: 'http://seko-plastik.com/'
 reachable: true

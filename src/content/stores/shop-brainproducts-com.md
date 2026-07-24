@@ -1,10 +1,10 @@
 ---
 domain: shop.brainproducts.com
 slug: shop-brainproducts-com
-title: Is shop.brainproducts.com Legit? Trust Signal Check
+title: Is shop.brainproducts.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.brainproducts.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.brainproducts.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:02:53.632Z'
 finalUrl: 'https://shop.brainproducts.com/'
 reachable: true

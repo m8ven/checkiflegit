@@ -1,10 +1,10 @@
 ---
 domain: trimsalonlovi.nl
 slug: trimsalonlovi-nl
-title: Is trimsalonlovi.nl Legit? Trust Signal Check
+title: Is trimsalonlovi.nl Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for trimsalonlovi.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  trimsalonlovi.nl scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:16:41.518Z'
 finalUrl: 'https://trimsalonlovi.nl/'
 reachable: true

@@ -1,11 +1,10 @@
 ---
 domain: vitaminas.comprayvendeonline.com
 slug: vitaminas-comprayvendeonline-com
-title: Is vitaminas.comprayvendeonline.com Legit? Trust Signal Check
+title: Is vitaminas.comprayvendeonline.com Legit? Score 44/100
 description: >-
-  An automated trust-signal check for vitaminas.comprayvendeonline.com: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  vitaminas.comprayvendeonline.com scores 44/100 on our public trust checks. No
+  links to major social platforms found.
 fetchedAt: '2026-06-25T15:37:14.398Z'
 finalUrl: 'https://vitaminas.comprayvendeonline.com/'
 reachable: true

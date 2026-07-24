@@ -1,10 +1,10 @@
 ---
 domain: valcla.com.br
 slug: valcla-com-br
-title: Is valcla.com.br Legit? Trust Signal Check
+title: Is valcla.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for valcla.com.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  valcla.com.br scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:47:13.679Z'
 finalUrl: 'https://valcla.com.br/'
 reachable: true

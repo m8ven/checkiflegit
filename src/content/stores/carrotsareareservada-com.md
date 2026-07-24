@@ -1,10 +1,11 @@
 ---
 domain: carrotsareareservada.com
 slug: carrotsareareservada-com
-title: Is carrotsareareservada.com Legit? Trust Signal Check
+title: Is carrotsareareservada.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for carrotsareareservada.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  carrotsareareservada.com scores 100/100 on our public trust checks.
+  Established domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:59:44.282Z'
 finalUrl: 'https://carrotsareareservada.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: herbalmed.pl
 slug: herbalmed-pl
-title: Is herbalmed.pl Legit? Trust Signal Check
+title: Is herbalmed.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for herbalmed.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  herbalmed.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:36:52.821Z'
 finalUrl: 'https://herbalmed.pl/'
 reachable: true

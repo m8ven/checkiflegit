@@ -1,10 +1,11 @@
 ---
 domain: jka37.com
 slug: jka37-com
-title: Is jka37.com Legit? Trust Signal Check
+title: Is jka37.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for jka37.com: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  jka37.com scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T03:47:35.475Z'
 finalUrl: 'https://jka37.com/'
 reachable: true

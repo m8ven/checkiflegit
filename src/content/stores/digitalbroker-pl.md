@@ -1,10 +1,10 @@
 ---
 domain: digitalbroker.pl
 slug: digitalbroker-pl
-title: Is digitalbroker.pl Legit? Trust Signal Check
+title: Is digitalbroker.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for digitalbroker.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  digitalbroker.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:32:20.710Z'
 finalUrl: 'https://digitalbroker.pl/'
 reachable: true

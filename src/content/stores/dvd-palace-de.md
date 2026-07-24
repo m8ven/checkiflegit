@@ -1,10 +1,11 @@
 ---
 domain: dvd-palace.de
 slug: dvd-palace-de
-title: Is dvd-palace.de Legit? Trust Signal Check
+title: Is dvd-palace.de Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for dvd-palace.de: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  dvd-palace.de scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:01:10.680Z'
 finalUrl: 'https://www.dvd-palace.de/'
 reachable: true

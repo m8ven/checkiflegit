@@ -1,10 +1,10 @@
 ---
 domain: gbiancheria.it
 slug: gbiancheria-it
-title: Is gbiancheria.it Legit? Trust Signal Check
+title: Is gbiancheria.it Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for gbiancheria.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gbiancheria.it scores 70/100 on our public trust checks. Established domain —
+  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:55.591Z'
 finalUrl: 'https://www.gbiancheria.it/'
 reachable: true

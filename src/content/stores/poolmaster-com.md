@@ -1,10 +1,10 @@
 ---
 domain: poolmaster.com
 slug: poolmaster-com
-title: Is poolmaster.com Legit? Trust Signal Check
+title: Is poolmaster.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for poolmaster.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  poolmaster.com scores 70/100 on our public trust checks. Established domain —
+  registered 30.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:42.270Z'
 finalUrl: 'https://www.poolmaster.com/'
 reachable: true

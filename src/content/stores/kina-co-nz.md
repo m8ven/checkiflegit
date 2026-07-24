@@ -1,10 +1,10 @@
 ---
 domain: kina.co.nz
 slug: kina-co-nz
-title: Is kina.co.nz Legit? Trust Signal Check
+title: Is kina.co.nz Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kina.co.nz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kina.co.nz scores 100/100 on our public trust checks. Established domain —
+  registered 25.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:28.384Z'
 finalUrl: 'https://kina.co.nz/'
 reachable: true

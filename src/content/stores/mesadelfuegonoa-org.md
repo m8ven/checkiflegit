@@ -1,10 +1,10 @@
 ---
 domain: mesadelfuegonoa.org
 slug: mesadelfuegonoa-org
-title: Is mesadelfuegonoa.org Legit? Trust Signal Check
+title: Is mesadelfuegonoa.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mesadelfuegonoa.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mesadelfuegonoa.org scores 88/100 on our public trust checks. Established
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:25.013Z'
 finalUrl: 'https://mesadelfuegonoa.org/'
 reachable: true

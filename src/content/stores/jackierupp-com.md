@@ -1,10 +1,10 @@
 ---
 domain: jackierupp.com
 slug: jackierupp-com
-title: Is jackierupp.com Legit? Trust Signal Check
+title: Is jackierupp.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for jackierupp.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  jackierupp.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:43:11.139Z'
 finalUrl: 'https://jackierupp.com/'
 reachable: true

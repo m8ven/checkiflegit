@@ -1,10 +1,10 @@
 ---
 domain: montek.ca
 slug: montek-ca
-title: Is montek.ca Legit? Trust Signal Check
+title: Is montek.ca Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for montek.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  montek.ca scores 73/100 on our public trust checks. Established domain —
+  registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:56:36.180Z'
 finalUrl: 'https://montek.ca/'
 reachable: true

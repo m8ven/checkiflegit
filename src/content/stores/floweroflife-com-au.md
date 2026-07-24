@@ -1,10 +1,11 @@
 ---
 domain: floweroflife.com.au
 slug: floweroflife-com-au
-title: Is floweroflife.com.au Legit? Trust Signal Check
+title: Is floweroflife.com.au Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for floweroflife.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  floweroflife.com.au scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:48:58.815Z'
 finalUrl: 'https://floweroflife.com.au/'
 reachable: true

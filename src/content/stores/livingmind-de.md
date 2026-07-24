@@ -1,10 +1,10 @@
 ---
 domain: livingmind.de
 slug: livingmind-de
-title: Is livingmind.de Legit? Trust Signal Check
+title: Is livingmind.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for livingmind.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  livingmind.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:47:23.008Z'
 finalUrl: 'https://livingmind.de/'
 reachable: true

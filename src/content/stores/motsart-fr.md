@@ -1,10 +1,10 @@
 ---
 domain: motsart.fr
 slug: motsart-fr
-title: Is motsart.fr Legit? Trust Signal Check
+title: Is motsart.fr Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for motsart.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  motsart.fr scores 76/100 on our public trust checks. Established domain —
+  registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:09.759Z'
 finalUrl: 'https://motsart.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: boomy.ae
 slug: boomy-ae
-title: Is boomy.ae Legit? Trust Signal Check
+title: Is boomy.ae Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for boomy.ae: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  boomy.ae scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:37:35.891Z'
 finalUrl: 'https://boomy.ae/'
 reachable: true

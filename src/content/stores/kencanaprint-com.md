@@ -1,10 +1,10 @@
 ---
 domain: kencanaprint.com
 slug: kencanaprint-com
-title: Is kencanaprint.com Legit? Trust Signal Check
+title: Is kencanaprint.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kencanaprint.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kencanaprint.com scores 88/100 on our public trust checks. Established domain
+  — registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:22.646Z'
 finalUrl: 'https://kencanaprint.com/'
 reachable: true

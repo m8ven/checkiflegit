@@ -1,10 +1,10 @@
 ---
 domain: ilmaestralepesca.it
 slug: ilmaestralepesca-it
-title: Is ilmaestralepesca.it Legit? Trust Signal Check
+title: Is ilmaestralepesca.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ilmaestralepesca.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ilmaestralepesca.it scores 100/100 on our public trust checks. Established
+  domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:49.241Z'
 finalUrl: 'https://ilmaestralepesca.it/'
 reachable: true

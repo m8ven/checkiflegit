@@ -1,10 +1,10 @@
 ---
 domain: psychedelic-art.com
 slug: psychedelic-art-com
-title: Is psychedelic-art.com Legit? Trust Signal Check
+title: Is psychedelic-art.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for psychedelic-art.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  psychedelic-art.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:31:37.377Z'
 finalUrl: 'https://psychedelic-art.com/'
 reachable: true

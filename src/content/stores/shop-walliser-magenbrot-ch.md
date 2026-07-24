@@ -1,11 +1,10 @@
 ---
 domain: shop.walliser-magenbrot.ch
 slug: shop-walliser-magenbrot-ch
-title: Is shop.walliser-magenbrot.ch Legit? Trust Signal Check
+title: Is shop.walliser-magenbrot.ch Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for shop.walliser-magenbrot.ch: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  shop.walliser-magenbrot.ch scores 44/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T02:45:16.199Z'
 finalUrl: 'https://shop.walliser-magenbrot.ch/'
 reachable: true

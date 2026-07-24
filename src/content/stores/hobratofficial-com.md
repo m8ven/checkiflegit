@@ -1,10 +1,10 @@
 ---
 domain: hobratofficial.com
 slug: hobratofficial-com
-title: Is hobratofficial.com Legit? Trust Signal Check
+title: Is hobratofficial.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for hobratofficial.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hobratofficial.com scores 76/100 on our public trust checks. Established
+  domain — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:53.338Z'
 finalUrl: 'https://hobratofficial.com/'
 reachable: true

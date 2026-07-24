@@ -1,10 +1,10 @@
 ---
 domain: omegayksi.fi
 slug: omegayksi-fi
-title: Is omegayksi.fi Legit? Trust Signal Check
+title: Is omegayksi.fi Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for omegayksi.fi: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  omegayksi.fi scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:29:54.334Z'
 finalUrl: 'https://www.omegayksi.fi/'
 reachable: true

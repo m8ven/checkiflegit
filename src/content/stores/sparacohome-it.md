@@ -1,10 +1,11 @@
 ---
 domain: sparacohome.it
 slug: sparacohome-it
-title: Is sparacohome.it Legit? Trust Signal Check
+title: Is sparacohome.it Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for sparacohome.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sparacohome.it scores 76/100 on our public trust checks. Public business
+  contact details are listed. Maintains links to multiple social media
+  platforms.
 fetchedAt: '2026-06-25T12:45:25.046Z'
 finalUrl: 'https://www.sparacohome.it/'
 reachable: true

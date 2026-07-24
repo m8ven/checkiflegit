@@ -1,10 +1,10 @@
 ---
 domain: jolinous.ch
 slug: jolinous-ch
-title: Is jolinous.ch Legit? Trust Signal Check
+title: Is jolinous.ch Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for jolinous.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jolinous.ch scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:53:46.960Z'
 finalUrl: 'https://jolinous.ch/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mesconnettori.it
 slug: mesconnettori-it
-title: Is mesconnettori.it Legit? Trust Signal Check
+title: Is mesconnettori.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mesconnettori.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mesconnettori.it scores 100/100 on our public trust checks. Established domain
+  — registered 18.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:11.086Z'
 finalUrl: 'https://www.mesconnettori.it/'
 reachable: true

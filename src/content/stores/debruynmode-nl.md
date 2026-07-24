@@ -1,10 +1,10 @@
 ---
 domain: debruynmode.nl
 slug: debruynmode-nl
-title: Is debruynmode.nl Legit? Trust Signal Check
+title: Is debruynmode.nl Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for debruynmode.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  debruynmode.nl scores 76/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:32:49.147Z'
 finalUrl: 'https://debruynmode.nl/'
 reachable: true

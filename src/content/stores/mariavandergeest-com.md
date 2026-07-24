@@ -1,10 +1,10 @@
 ---
 domain: mariavandergeest.com
 slug: mariavandergeest-com
-title: Is mariavandergeest.com Legit? Trust Signal Check
+title: Is mariavandergeest.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for mariavandergeest.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mariavandergeest.com scores 82/100 on our public trust checks. Established
+  domain — registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:46.783Z'
 finalUrl: 'https://mariavandergeest.com/'
 reachable: true

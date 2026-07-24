@@ -1,10 +1,10 @@
 ---
 domain: tech2tech.com.cy
 slug: tech2tech-com-cy
-title: Is tech2tech.com.cy Legit? Trust Signal Check
+title: Is tech2tech.com.cy Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for tech2tech.com.cy: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tech2tech.com.cy scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:08:23.019Z'
 finalUrl: 'https://tech2tech.com.cy/'
 reachable: true

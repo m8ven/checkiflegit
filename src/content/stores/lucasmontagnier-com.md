@@ -1,10 +1,10 @@
 ---
 domain: lucasmontagnier.com
 slug: lucasmontagnier-com
-title: Is lucasmontagnier.com Legit? Trust Signal Check
+title: Is lucasmontagnier.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for lucasmontagnier.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lucasmontagnier.com scores 76/100 on our public trust checks. Established
+  domain — registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:56.317Z'
 finalUrl: 'https://lucasmontagnier.com/'
 reachable: true

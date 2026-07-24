@@ -1,10 +1,10 @@
 ---
 domain: bollandbranch.com
 slug: bollandbranch-com
-title: Is bollandbranch.com Legit? Trust Signal Check
+title: Is bollandbranch.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for bollandbranch.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bollandbranch.com scores 70/100 on our public trust checks. Established domain
+  — registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:21.776Z'
 finalUrl: 'https://www.bollandbranch.com/'
 reachable: true

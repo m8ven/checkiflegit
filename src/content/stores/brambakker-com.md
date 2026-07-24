@@ -1,10 +1,10 @@
 ---
 domain: brambakker.com
 slug: brambakker-com
-title: Is brambakker.com Legit? Trust Signal Check
+title: Is brambakker.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for brambakker.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brambakker.com scores 76/100 on our public trust checks. Established domain —
+  registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:54.748Z'
 finalUrl: 'https://brambakker.com/'
 reachable: true

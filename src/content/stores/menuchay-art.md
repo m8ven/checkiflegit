@@ -1,10 +1,10 @@
 ---
 domain: menuchay.art
 slug: menuchay-art
-title: Is menuchay.art Legit? Trust Signal Check
+title: Is menuchay.art Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for menuchay.art: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  menuchay.art scores 100/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:04.648Z'
 finalUrl: 'https://menuchay.art/'
 reachable: true

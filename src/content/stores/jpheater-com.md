@@ -1,10 +1,10 @@
 ---
 domain: jpheater.com
 slug: jpheater-com
-title: Is jpheater.com Legit? Trust Signal Check
+title: Is jpheater.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for jpheater.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jpheater.com scores 100/100 on our public trust checks. Established domain —
+  registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:15.632Z'
 finalUrl: 'https://jpheater.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: quibus.es
 slug: quibus-es
-title: Is quibus.es Legit? Trust Signal Check
+title: Is quibus.es Legit? Trust Score 46/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for quibus.es: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  quibus.es scores 46/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:28:33.392Z'
 finalUrl: 'https://quibus.es/'
 reachable: true

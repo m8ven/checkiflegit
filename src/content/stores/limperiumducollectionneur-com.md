@@ -1,10 +1,11 @@
 ---
 domain: limperiumducollectionneur.com
 slug: limperiumducollectionneur-com
-title: Is limperiumducollectionneur.com Legit? Trust Signal Check
+title: Is limperiumducollectionneur.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for limperiumducollectionneur.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  limperiumducollectionneur.com scores 100/100 on our public trust checks.
+  Established domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:42:14.655Z'
 finalUrl: 'https://limperiumducollectionneur.com/'
 reachable: true

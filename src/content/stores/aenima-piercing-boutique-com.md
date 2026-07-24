@@ -1,10 +1,11 @@
 ---
 domain: aenima-piercing-boutique.com
 slug: aenima-piercing-boutique-com
-title: Is aenima-piercing-boutique.com Legit? Trust Signal Check
+title: Is aenima-piercing-boutique.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for aenima-piercing-boutique.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  aenima-piercing-boutique.com scores 82/100 on our public trust checks.
+  Established domain — registered 3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:40:54.805Z'
 finalUrl: 'https://aenima-piercing-boutique.com/'
 reachable: true

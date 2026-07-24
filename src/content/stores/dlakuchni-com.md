@@ -1,10 +1,10 @@
 ---
 domain: dlakuchni.com
 slug: dlakuchni-com
-title: Is dlakuchni.com Legit? Trust Signal Check
+title: Is dlakuchni.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dlakuchni.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dlakuchni.com scores 88/100 on our public trust checks. Established domain —
+  registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:52.515Z'
 finalUrl: 'https://dlakuchni.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: mobiliteplus-transport.fr
 slug: mobiliteplus-transport-fr
-title: Is mobiliteplus-transport.fr Legit? Trust Signal Check
+title: Is mobiliteplus-transport.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mobiliteplus-transport.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mobiliteplus-transport.fr scores 88/100 on our public trust checks.
+  Established domain — registered 14.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:28:38.167Z'
 finalUrl: 'https://www.mobiliteplus-transport.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: medtextile.ro
 slug: medtextile-ro
-title: Is medtextile.ro Legit? Trust Signal Check
+title: Is medtextile.ro Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for medtextile.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  medtextile.ro scores 82/100 on our public trust checks. Established domain —
+  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:06.771Z'
 finalUrl: 'https://medtextile.ro/'
 reachable: true

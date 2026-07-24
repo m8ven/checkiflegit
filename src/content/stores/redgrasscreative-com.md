@@ -1,10 +1,10 @@
 ---
 domain: redgrasscreative.com
 slug: redgrasscreative-com
-title: Is redgrasscreative.com Legit? Trust Signal Check
+title: Is redgrasscreative.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for redgrasscreative.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  redgrasscreative.com scores 88/100 on our public trust checks. Established
+  domain — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:35.637Z'
 finalUrl: 'https://www.redgrasscreative.com/'
 reachable: true

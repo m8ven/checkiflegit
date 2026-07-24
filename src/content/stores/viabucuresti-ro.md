@@ -1,10 +1,10 @@
 ---
 domain: viabucuresti.ro
 slug: viabucuresti-ro
-title: Is viabucuresti.ro Legit? Trust Signal Check
+title: Is viabucuresti.ro Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for viabucuresti.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  viabucuresti.ro scores 76/100 on our public trust checks. Established domain —
+  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:23.577Z'
 finalUrl: 'https://viabucuresti.ro/'
 reachable: true

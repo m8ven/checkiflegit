@@ -1,10 +1,10 @@
 ---
 domain: freddieart.com
 slug: freddieart-com
-title: Is freddieart.com Legit? Trust Signal Check
+title: Is freddieart.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for freddieart.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  freddieart.com scores 70/100 on our public trust checks. Established domain —
+  registered 19.7 years ago. Maintains links to multiple social media platforms.
 fetchedAt: '2026-06-25T02:34:43.294Z'
 finalUrl: 'https://freddieart.com/'
 reachable: true

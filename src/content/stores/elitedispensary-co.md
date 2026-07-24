@@ -1,10 +1,10 @@
 ---
 domain: elitedispensary.co
 slug: elitedispensary-co
-title: Is elitedispensary.co Legit? Trust Signal Check
+title: Is elitedispensary.co Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for elitedispensary.co: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  elitedispensary.co scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:50:13.448Z'
 finalUrl: 'https://elitedispensary.co/'
 reachable: true

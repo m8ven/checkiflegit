@@ -1,10 +1,10 @@
 ---
 domain: kwshirts.com
 slug: kwshirts-com
-title: Is kwshirts.com Legit? Trust Signal Check
+title: Is kwshirts.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for kwshirts.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kwshirts.com scores 73/100 on our public trust checks. Established domain —
+  registered 15.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:21.709Z'
 finalUrl: 'https://kwshirts.com/'
 reachable: true

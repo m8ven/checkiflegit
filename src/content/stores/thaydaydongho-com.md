@@ -1,10 +1,10 @@
 ---
 domain: thaydaydongho.com
 slug: thaydaydongho-com
-title: Is thaydaydongho.com Legit? Trust Signal Check
+title: Is thaydaydongho.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for thaydaydongho.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  thaydaydongho.com scores 43/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:43:11.691Z'
 finalUrl: 'https://thaydaydongho.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dannysphoto.no
 slug: dannysphoto-no
-title: Is dannysphoto.no Legit? Trust Signal Check
+title: Is dannysphoto.no Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for dannysphoto.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dannysphoto.no scores 76/100 on our public trust checks. Established domain —
+  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:34.371Z'
 finalUrl: 'https://dannysphoto.no/'
 reachable: true

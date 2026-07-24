@@ -1,11 +1,11 @@
 ---
 domain: shop.celebreborn.com
 slug: shop-celebreborn-com
-title: Is shop.celebreborn.com Legit? Trust Signal Check
+title: Is shop.celebreborn.com Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for shop.celebreborn.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  shop.celebreborn.com scores 19/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:02:54.297Z'
 finalUrl: 'https://shop.celebreborn.com/'
 reachable: true

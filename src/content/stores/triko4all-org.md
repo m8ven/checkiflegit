@@ -1,10 +1,10 @@
 ---
 domain: triko4all.org
 slug: triko4all-org
-title: Is triko4all.org Legit? Trust Signal Check
+title: Is triko4all.org Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for triko4all.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  triko4all.org scores 70/100 on our public trust checks. Established domain —
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:41.204Z'
 finalUrl: 'https://triko4all.org/'
 reachable: true

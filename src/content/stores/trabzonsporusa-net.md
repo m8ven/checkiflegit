@@ -1,10 +1,10 @@
 ---
 domain: trabzonsporusa.net
 slug: trabzonsporusa-net
-title: Is trabzonsporusa.net Legit? Trust Signal Check
+title: Is trabzonsporusa.net Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for trabzonsporusa.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  trabzonsporusa.net scores 76/100 on our public trust checks. Established
+  domain — registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:28:35.894Z'
 finalUrl: 'https://www.trabzonsporusa.net/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: santacatrina.com.pl
 slug: santacatrina-com-pl
-title: Is santacatrina.com.pl Legit? Trust Signal Check
+title: Is santacatrina.com.pl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for santacatrina.com.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  santacatrina.com.pl scores 88/100 on our public trust checks. Established
+  domain — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:50.786Z'
 finalUrl: 'https://santacatrina.com.pl/pl/'
 reachable: true

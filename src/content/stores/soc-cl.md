@@ -1,10 +1,10 @@
 ---
 domain: soc.cl
 slug: soc-cl
-title: Is soc.cl Legit? Trust Signal Check
+title: Is soc.cl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for soc.cl: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  soc.cl scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:08:55.938Z'
 finalUrl: 'https://soc.cl/'
 reachable: true

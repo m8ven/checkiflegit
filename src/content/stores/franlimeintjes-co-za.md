@@ -1,11 +1,10 @@
 ---
 domain: franlimeintjes.co.za
 slug: franlimeintjes-co-za
-title: Is franlimeintjes.co.za Legit? Trust Signal Check
+title: Is franlimeintjes.co.za Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for franlimeintjes.co.za: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  franlimeintjes.co.za scores 40/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:12:45.129Z'
 finalUrl: 'https://franlimeintjes.co.za/'
 reachable: true

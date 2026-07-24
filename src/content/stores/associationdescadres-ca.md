@@ -1,10 +1,10 @@
 ---
 domain: associationdescadres.ca
 slug: associationdescadres-ca
-title: Is associationdescadres.ca Legit? Trust Signal Check
+title: Is associationdescadres.ca Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for associationdescadres.ca: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  associationdescadres.ca scores 88/100 on our public trust checks. Established
+  domain — registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:51.750Z'
 finalUrl: 'https://associationdescadres.ca/'
 reachable: true

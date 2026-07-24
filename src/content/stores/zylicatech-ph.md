@@ -1,10 +1,11 @@
 ---
 domain: zylicatech.ph
 slug: zylicatech-ph
-title: Is zylicatech.ph Legit? Trust Signal Check
+title: Is zylicatech.ph Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for zylicatech.ph: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  zylicatech.ph scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:26:14.421Z'
 finalUrl: 'https://zylicatech.ph/'
 reachable: true

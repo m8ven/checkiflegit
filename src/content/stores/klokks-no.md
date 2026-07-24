@@ -1,10 +1,10 @@
 ---
 domain: klokks.no
 slug: klokks-no
-title: Is klokks.no Legit? Trust Signal Check
+title: Is klokks.no Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for klokks.no: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  klokks.no scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:16:56.589Z'
 finalUrl: 'https://klokks.no/'
 reachable: true

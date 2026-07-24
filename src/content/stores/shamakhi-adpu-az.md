@@ -1,10 +1,10 @@
 ---
 domain: shamakhi-adpu.az
 slug: shamakhi-adpu-az
-title: Is shamakhi-adpu.az Legit? Trust Signal Check
+title: Is shamakhi-adpu.az Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for shamakhi-adpu.az: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shamakhi-adpu.az scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:10.922Z'
 finalUrl: 'https://shamakhi-adpu.az/'
 reachable: true

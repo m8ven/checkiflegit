@@ -1,10 +1,10 @@
 ---
 domain: aganshop.com
 slug: aganshop-com
-title: Is aganshop.com Legit? Trust Signal Check
+title: Is aganshop.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for aganshop.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aganshop.com scores 94/100 on our public trust checks. Established domain —
+  registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:25.793Z'
 finalUrl: 'https://aganshop.com/'
 reachable: true

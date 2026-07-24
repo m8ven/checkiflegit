@@ -1,10 +1,10 @@
 ---
 domain: kalos-beauty.co.jp
 slug: kalos-beauty-co-jp
-title: Is kalos-beauty.co.jp Legit? Trust Signal Check
+title: Is kalos-beauty.co.jp Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kalos-beauty.co.jp: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kalos-beauty.co.jp scores 88/100 on our public trust checks. Established
+  domain — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:52.299Z'
 finalUrl: 'https://kalos-beauty.co.jp/'
 reachable: true

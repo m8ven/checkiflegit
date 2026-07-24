@@ -1,10 +1,10 @@
 ---
 domain: shop.dexterssurfshop.com
 slug: shop-dexterssurfshop-com
-title: Is shop.dexterssurfshop.com Legit? Trust Signal Check
+title: Is shop.dexterssurfshop.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for shop.dexterssurfshop.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.dexterssurfshop.com scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:00:55.372Z'
 finalUrl: 'https://shop.dexterssurfshop.com/'
 reachable: true

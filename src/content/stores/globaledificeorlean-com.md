@@ -1,10 +1,10 @@
 ---
 domain: globaledificeorlean.com
 slug: globaledificeorlean-com
-title: Is globaledificeorlean.com Legit? Trust Signal Check
+title: Is globaledificeorlean.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for globaledificeorlean.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  globaledificeorlean.com scores 73/100 on our public trust checks. Established
+  domain — registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:36.938Z'
 finalUrl: 'https://globaledificeorlean.com/'
 reachable: true

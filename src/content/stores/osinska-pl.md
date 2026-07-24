@@ -1,10 +1,10 @@
 ---
 domain: osinska.pl
 slug: osinska-pl
-title: Is osinska.pl Legit? Trust Signal Check
+title: Is osinska.pl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for osinska.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  osinska.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:24:39.008Z'
 finalUrl: 'https://osinska.pl/'
 reachable: true

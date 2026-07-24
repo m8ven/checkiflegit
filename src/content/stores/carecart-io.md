@@ -1,10 +1,10 @@
 ---
 domain: carecart.io
 slug: carecart-io
-title: Is carecart.io Legit? Trust Signal Check
+title: Is carecart.io Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for carecart.io: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  carecart.io scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-24T21:45:40.310Z'
 finalUrl: 'https://carecart.io/'
 reachable: true

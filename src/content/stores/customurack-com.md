@@ -1,10 +1,10 @@
 ---
 domain: customurack.com
 slug: customurack-com
-title: Is customurack.com Legit? Trust Signal Check
+title: Is customurack.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for customurack.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  customurack.com scores 100/100 on our public trust checks. Established domain
+  — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:41.251Z'
 finalUrl: 'https://customurack.com/'
 reachable: true

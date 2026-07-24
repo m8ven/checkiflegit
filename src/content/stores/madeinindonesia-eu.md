@@ -1,10 +1,10 @@
 ---
 domain: madeinindonesia.eu
 slug: madeinindonesia-eu
-title: Is madeinindonesia.eu Legit? Trust Signal Check
+title: Is madeinindonesia.eu Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for madeinindonesia.eu: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  madeinindonesia.eu scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:51:24.158Z'
 finalUrl: 'https://madeinindonesia.eu/'
 reachable: true

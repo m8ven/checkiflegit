@@ -1,10 +1,10 @@
 ---
 domain: twinletter.com
 slug: twinletter-com
-title: Is twinletter.com Legit? Trust Signal Check
+title: Is twinletter.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for twinletter.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  twinletter.com scores 100/100 on our public trust checks. Established domain —
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:04.095Z'
 finalUrl: 'https://twinletter.com/'
 reachable: true

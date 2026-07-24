@@ -1,10 +1,10 @@
 ---
 domain: uchapter2.com
 slug: uchapter2-com
-title: Is uchapter2.com Legit? Trust Signal Check
+title: Is uchapter2.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for uchapter2.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  uchapter2.com scores 70/100 on our public trust checks. Established domain —
+  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:09.997Z'
 finalUrl: 'https://uchapter2.com/'
 reachable: true

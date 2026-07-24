@@ -1,10 +1,10 @@
 ---
 domain: tvicr.com
 slug: tvicr-com
-title: Is tvicr.com Legit? Trust Signal Check
+title: Is tvicr.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tvicr.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tvicr.com scores 88/100 on our public trust checks. Established domain —
+  registered 21 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:26.534Z'
 finalUrl: 'https://tvicr.com/'
 reachable: true

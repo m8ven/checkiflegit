@@ -1,10 +1,10 @@
 ---
 domain: stripfan.nl
 slug: stripfan-nl
-title: Is stripfan.nl Legit? Trust Signal Check
+title: Is stripfan.nl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for stripfan.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stripfan.nl scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:30:31.817Z'
 finalUrl: 'https://www.stripfan.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: godwinptso.com
 slug: godwinptso-com
-title: Is godwinptso.com Legit? Trust Signal Check
+title: Is godwinptso.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for godwinptso.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  godwinptso.com scores 82/100 on our public trust checks. Established domain —
+  registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:24.467Z'
 finalUrl: 'https://godwinptso.com/'
 reachable: true

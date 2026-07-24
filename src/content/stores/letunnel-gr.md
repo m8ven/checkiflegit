@@ -1,10 +1,10 @@
 ---
 domain: letunnel.gr
 slug: letunnel-gr
-title: Is letunnel.gr Legit? Trust Signal Check
+title: Is letunnel.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for letunnel.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  letunnel.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:11:22.989Z'
 finalUrl: 'https://letunnel.gr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lakevalleyseed.com
 slug: lakevalleyseed-com
-title: Is lakevalleyseed.com Legit? Trust Signal Check
+title: Is lakevalleyseed.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for lakevalleyseed.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lakevalleyseed.com scores 70/100 on our public trust checks. Established
+  domain — registered 28.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:40.171Z'
 finalUrl: 'https://lakevalleyseed.com/'
 reachable: true

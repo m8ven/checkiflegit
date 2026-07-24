@@ -1,10 +1,10 @@
 ---
 domain: fairytail-shop.com
 slug: fairytail-shop-com
-title: Is fairytail-shop.com Legit? Trust Signal Check
+title: Is fairytail-shop.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for fairytail-shop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fairytail-shop.com scores 85/100 on our public trust checks. Established
+  domain — registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:32.621Z'
 finalUrl: 'https://fairytail-shop.com/'
 reachable: true

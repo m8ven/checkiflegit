@@ -1,10 +1,10 @@
 ---
 domain: 2020as.com
 slug: 2020as-com
-title: Is 2020as.com Legit? Trust Signal Check
+title: Is 2020as.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 2020as.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  2020as.com scores 100/100 on our public trust checks. Established domain —
+  registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:22.920Z'
 finalUrl: 'https://www.2020as.com/'
 reachable: true

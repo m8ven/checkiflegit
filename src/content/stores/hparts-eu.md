@@ -1,10 +1,10 @@
 ---
 domain: hparts.eu
 slug: hparts-eu
-title: Is hparts.eu Legit? Trust Signal Check
+title: Is hparts.eu Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hparts.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hparts.eu scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:37:32.727Z'
 finalUrl: 'https://hparts.eu/'
 reachable: true

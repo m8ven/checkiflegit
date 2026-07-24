@@ -1,10 +1,10 @@
 ---
 domain: avd-instrument.ru
 slug: avd-instrument-ru
-title: Is avd-instrument.ru Legit? Trust Signal Check
+title: Is avd-instrument.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for avd-instrument.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  avd-instrument.ru scores 85/100 on our public trust checks. Established domain
+  — registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:07.773Z'
 finalUrl: 'https://avd-instrument.ru/'
 reachable: true

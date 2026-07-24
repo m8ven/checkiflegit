@@ -1,10 +1,10 @@
 ---
 domain: welzo.com
 slug: welzo-com
-title: Is welzo.com Legit? Trust Signal Check
+title: Is welzo.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for welzo.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  welzo.com scores 88/100 on our public trust checks. Established domain —
+  registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:31.171Z'
 finalUrl: 'https://welzo.com/'
 reachable: true

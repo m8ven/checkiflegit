@@ -1,10 +1,10 @@
 ---
 domain: everandeverbaby.com
 slug: everandeverbaby-com
-title: Is everandeverbaby.com Legit? Trust Signal Check
+title: Is everandeverbaby.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for everandeverbaby.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  everandeverbaby.com scores 88/100 on our public trust checks. Established
+  domain — registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:55.991Z'
 finalUrl: 'https://everandeverbaby.com/'
 reachable: true

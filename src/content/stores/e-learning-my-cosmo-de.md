@@ -1,10 +1,10 @@
 ---
 domain: e-learning.my-cosmo.de
 slug: e-learning-my-cosmo-de
-title: Is e-learning.my-cosmo.de Legit? Trust Signal Check
+title: Is e-learning.my-cosmo.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for e-learning.my-cosmo.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  e-learning.my-cosmo.de scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:35:28.368Z'
 finalUrl: 'https://e-learning.my-cosmo.de/'
 reachable: true

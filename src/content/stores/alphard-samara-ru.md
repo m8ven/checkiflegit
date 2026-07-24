@@ -1,10 +1,10 @@
 ---
 domain: alphard-samara.ru
 slug: alphard-samara-ru
-title: Is alphard-samara.ru Legit? Trust Signal Check
+title: Is alphard-samara.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for alphard-samara.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alphard-samara.ru scores 82/100 on our public trust checks. Established domain
+  — registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:11.089Z'
 finalUrl: 'https://alphard-samara.ru/'
 reachable: true

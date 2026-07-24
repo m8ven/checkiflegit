@@ -1,10 +1,10 @@
 ---
 domain: carlowtourism.com
 slug: carlowtourism-com
-title: Is carlowtourism.com Legit? Trust Signal Check
+title: Is carlowtourism.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for carlowtourism.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  carlowtourism.com scores 100/100 on our public trust checks. Established
+  domain — registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:15.357Z'
 finalUrl: 'https://carlowtourism.com/'
 reachable: true

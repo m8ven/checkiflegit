@@ -1,10 +1,10 @@
 ---
 domain: shop.wigl.ch
 slug: shop-wigl-ch
-title: Is shop.wigl.ch Legit? Trust Signal Check
+title: Is shop.wigl.ch Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.wigl.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  shop.wigl.ch scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:10:36.781Z'
 finalUrl: 'https://shop.wigl.ch/de/home-de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: missi.com.vn
 slug: missi-com-vn
-title: Is missi.com.vn Legit? Trust Signal Check
+title: Is missi.com.vn Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for missi.com.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  missi.com.vn scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:58:24.165Z'
 finalUrl: 'https://missi.com.vn/'
 reachable: true

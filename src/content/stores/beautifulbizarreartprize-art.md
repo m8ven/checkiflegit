@@ -1,10 +1,11 @@
 ---
 domain: beautifulbizarreartprize.art
 slug: beautifulbizarreartprize-art
-title: Is beautifulbizarreartprize.art Legit? Trust Signal Check
+title: Is beautifulbizarreartprize.art Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for beautifulbizarreartprize.art: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  beautifulbizarreartprize.art scores 76/100 on our public trust checks.
+  Established domain — registered 7.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:56:18.085Z'
 finalUrl: 'https://beautifulbizarreartprize.art/?v=f77d8ed2dc48'
 reachable: true

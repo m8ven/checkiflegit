@@ -1,10 +1,11 @@
 ---
 domain: cu-nu.com
 slug: cu-nu-com
-title: Is cu-nu.com Legit? Trust Signal Check
+title: Is cu-nu.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cu-nu.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cu-nu.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T14:52:18.928Z'
 finalUrl: 'https://cu-nu.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: playmore.in
 slug: playmore-in
-title: Is playmore.in Legit? Trust Signal Check
+title: Is playmore.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for playmore.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  playmore.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:22:17.580Z'
 finalUrl: 'https://playmore.in/'
 reachable: true

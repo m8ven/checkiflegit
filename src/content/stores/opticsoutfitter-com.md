@@ -1,10 +1,10 @@
 ---
 domain: opticsoutfitter.com
 slug: opticsoutfitter-com
-title: Is opticsoutfitter.com Legit? Trust Signal Check
+title: Is opticsoutfitter.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for opticsoutfitter.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  opticsoutfitter.com scores 100/100 on our public trust checks. Established
+  domain — registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:46.865Z'
 finalUrl: 'https://opticsoutfitter.com/'
 reachable: true

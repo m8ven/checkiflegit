@@ -1,10 +1,10 @@
 ---
 domain: bubblemuffin.com
 slug: bubblemuffin-com
-title: Is bubblemuffin.com Legit? Trust Signal Check
+title: Is bubblemuffin.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bubblemuffin.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bubblemuffin.com scores 100/100 on our public trust checks. Established domain
+  — registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:36.136Z'
 finalUrl: 'https://bubblemuffin.com/'
 reachable: true

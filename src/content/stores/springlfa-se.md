@@ -1,10 +1,10 @@
 ---
 domain: springlfa.se
 slug: springlfa-se
-title: Is springlfa.se Legit? Trust Signal Check
+title: Is springlfa.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for springlfa.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  springlfa.se scores 88/100 on our public trust checks. Established domain —
+  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:21.110Z'
 finalUrl: 'https://springlfa.se/'
 reachable: true

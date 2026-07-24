@@ -1,10 +1,10 @@
 ---
 domain: magnolia.com
 slug: magnolia-com
-title: Is magnolia.com Legit? Trust Signal Check
+title: Is magnolia.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for magnolia.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  magnolia.com scores 88/100 on our public trust checks. Established domain —
+  registered 31.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:16.735Z'
 finalUrl: 'https://magnolia.com/'
 reachable: true

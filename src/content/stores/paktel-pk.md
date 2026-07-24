@@ -1,10 +1,10 @@
 ---
 domain: paktel.pk
 slug: paktel-pk
-title: Is paktel.pk Legit? Trust Signal Check
+title: Is paktel.pk Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for paktel.pk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  paktel.pk scores 88/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:00:35.152Z'
 finalUrl: 'https://paktel.pk/'
 reachable: true

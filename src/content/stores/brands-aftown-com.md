@@ -1,10 +1,10 @@
 ---
 domain: brands.aftown.com
 slug: brands-aftown-com
-title: Is brands.aftown.com Legit? Trust Signal Check
+title: Is brands.aftown.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for brands.aftown.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brands.aftown.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:20:26.590Z'
 finalUrl: 'https://brands.aftown.com/?v=93d23d0fde0b'
 reachable: true

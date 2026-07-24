@@ -1,10 +1,10 @@
 ---
 domain: aerotoolsconnection.com
 slug: aerotoolsconnection-com
-title: Is aerotoolsconnection.com Legit? Trust Signal Check
+title: Is aerotoolsconnection.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for aerotoolsconnection.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  aerotoolsconnection.com scores 88/100 on our public trust checks. Established
+  domain — registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:22.614Z'
 finalUrl: 'https://aerotoolsconnection.com/'
 reachable: true

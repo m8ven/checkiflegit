@@ -1,10 +1,10 @@
 ---
 domain: antikvardom.ru
 slug: antikvardom-ru
-title: Is antikvardom.ru Legit? Trust Signal Check
+title: Is antikvardom.ru Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for antikvardom.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  antikvardom.ru scores 49/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:16:19.790Z'
 finalUrl: 'http://antikvardom.ru/'
 reachable: true

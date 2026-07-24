@@ -1,10 +1,11 @@
 ---
 domain: udigalili.co.il
 slug: udigalili-co-il
-title: Is udigalili.co.il Legit? Trust Signal Check
+title: Is udigalili.co.il Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for udigalili.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  udigalili.co.il scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:07:30.892Z'
 finalUrl: 'https://udigalili.co.il/'
 reachable: true

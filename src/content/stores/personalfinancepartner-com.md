@@ -1,10 +1,11 @@
 ---
 domain: personalfinancepartner.com
 slug: personalfinancepartner-com
-title: Is personalfinancepartner.com Legit? Trust Signal Check
+title: Is personalfinancepartner.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for personalfinancepartner.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  personalfinancepartner.com scores 88/100 on our public trust checks.
+  Established domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:40:37.760Z'
 finalUrl: 'https://personalfinancepartner.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: oneoffbymaabo.dk
 slug: oneoffbymaabo-dk
-title: Is oneoffbymaabo.dk Legit? Trust Signal Check
+title: Is oneoffbymaabo.dk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for oneoffbymaabo.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  oneoffbymaabo.dk scores 100/100 on our public trust checks. Established domain
+  — registered 21.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:06.989Z'
 finalUrl: 'https://oneoffbymaabo.dk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: poker80.it
 slug: poker80-it
-title: Is poker80.it Legit? Trust Signal Check
+title: Is poker80.it Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for poker80.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  poker80.it scores 82/100 on our public trust checks. Established domain —
+  registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:25:37.872Z'
 finalUrl: 'https://www.poker80.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: fatquartershop.com
 slug: fatquartershop-com
-title: Is fatquartershop.com Legit? Trust Signal Check
+title: Is fatquartershop.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fatquartershop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fatquartershop.com scores 100/100 on our public trust checks. Established
+  domain — registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:13.426Z'
 finalUrl: 'https://www.fatquartershop.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sylvesterpg.com
 slug: sylvesterpg-com
-title: Is sylvesterpg.com Legit? Trust Signal Check
+title: Is sylvesterpg.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sylvesterpg.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sylvesterpg.com scores 100/100 on our public trust checks. Established domain
+  — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:18.318Z'
 finalUrl: 'https://sylvesterpg.com/'
 reachable: true

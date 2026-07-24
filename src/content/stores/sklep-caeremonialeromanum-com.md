@@ -1,10 +1,10 @@
 ---
 domain: sklep.caeremonialeromanum.com
 slug: sklep-caeremonialeromanum-com
-title: Is sklep.caeremonialeromanum.com Legit? Trust Signal Check
+title: Is sklep.caeremonialeromanum.com Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for sklep.caeremonialeromanum.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  sklep.caeremonialeromanum.com scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:07:55.434Z'
 finalUrl: 'https://sklep.caeremonialeromanum.com/'
 reachable: true

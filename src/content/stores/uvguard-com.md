@@ -1,10 +1,10 @@
 ---
 domain: uvguard.com
 slug: uvguard-com
-title: Is uvguard.com Legit? Trust Signal Check
+title: Is uvguard.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for uvguard.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  uvguard.com scores 100/100 on our public trust checks. Established domain —
+  registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:02.509Z'
 finalUrl: 'https://uvguard.com/'
 reachable: true

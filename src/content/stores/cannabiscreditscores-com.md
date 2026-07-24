@@ -1,10 +1,10 @@
 ---
 domain: cannabiscreditscores.com
 slug: cannabiscreditscores-com
-title: Is cannabiscreditscores.com Legit? Trust Signal Check
+title: Is cannabiscreditscores.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for cannabiscreditscores.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cannabiscreditscores.com scores 82/100 on our public trust checks. Established
+  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:32.700Z'
 finalUrl: 'https://www.cannabiscreditscores.com/'
 reachable: true

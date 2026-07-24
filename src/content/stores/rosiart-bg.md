@@ -1,10 +1,10 @@
 ---
 domain: rosiart.bg
 slug: rosiart-bg
-title: Is rosiart.bg Legit? Trust Signal Check
+title: Is rosiart.bg Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for rosiart.bg: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rosiart.bg scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:01:03.712Z'
 finalUrl: 'https://rosiart.bg/'
 reachable: true

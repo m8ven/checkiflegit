@@ -1,10 +1,10 @@
 ---
 domain: proideu.ru
 slug: proideu-ru
-title: Is proideu.ru Legit? Trust Signal Check
+title: Is proideu.ru Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for proideu.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  proideu.ru scores 82/100 on our public trust checks. Established domain —
+  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:41.165Z'
 finalUrl: 'https://proideu.ru/'
 reachable: true

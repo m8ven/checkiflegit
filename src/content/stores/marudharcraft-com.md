@@ -1,10 +1,10 @@
 ---
 domain: marudharcraft.com
 slug: marudharcraft-com
-title: Is marudharcraft.com Legit? Trust Signal Check
+title: Is marudharcraft.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for marudharcraft.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  marudharcraft.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:21:36.352Z'
 finalUrl: 'https://marudharcraft.com/'
 reachable: true

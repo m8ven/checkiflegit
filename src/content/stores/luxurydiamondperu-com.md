@@ -1,10 +1,10 @@
 ---
 domain: luxurydiamondperu.com
 slug: luxurydiamondperu-com
-title: Is luxurydiamondperu.com Legit? Trust Signal Check
+title: Is luxurydiamondperu.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for luxurydiamondperu.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  luxurydiamondperu.com scores 100/100 on our public trust checks. Established
+  domain — registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:40.946Z'
 finalUrl: 'https://luxurydiamondperu.com/'
 reachable: true

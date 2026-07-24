@@ -1,10 +1,10 @@
 ---
 domain: rainforest.co.th
 slug: rainforest-co-th
-title: Is rainforest.co.th Legit? Trust Signal Check
+title: Is rainforest.co.th Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for rainforest.co.th: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rainforest.co.th scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:42:31.959Z'
 finalUrl: 'https://rainforest.co.th/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: katalog.pipelife.no
 slug: katalog-pipelife-no
-title: Is katalog.pipelife.no Legit? Trust Signal Check
+title: Is katalog.pipelife.no Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for katalog.pipelife.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  katalog.pipelife.no scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:44:53.056Z'
 finalUrl: 'https://katalog.pipelife.no/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: cannabisbakehouse.es
 slug: cannabisbakehouse-es
-title: Is cannabisbakehouse.es Legit? Trust Signal Check
+title: Is cannabisbakehouse.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cannabisbakehouse.es: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cannabisbakehouse.es scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:19.371Z'
 finalUrl: 'https://cannabisbakehouse.es/'
 reachable: true

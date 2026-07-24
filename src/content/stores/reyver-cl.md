@@ -1,10 +1,10 @@
 ---
 domain: reyver.cl
 slug: reyver-cl
-title: Is reyver.cl Legit? Trust Signal Check
+title: Is reyver.cl Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for reyver.cl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  reyver.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:46:28.678Z'
 finalUrl: 'https://reyver.cl/'
 reachable: true

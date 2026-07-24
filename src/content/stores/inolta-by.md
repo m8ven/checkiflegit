@@ -1,10 +1,10 @@
 ---
 domain: inolta.by
 slug: inolta-by
-title: Is inolta.by Legit? Trust Signal Check
+title: Is inolta.by Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for inolta.by: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  inolta.by scores 88/100 on our public trust checks. Established domain —
+  registered 16.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:32.962Z'
 finalUrl: 'https://www.inolta.by/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: goldschmiede-krieglstein.de
 slug: goldschmiede-krieglstein-de
-title: Is goldschmiede-krieglstein.de Legit? Trust Signal Check
+title: Is goldschmiede-krieglstein.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for goldschmiede-krieglstein.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  goldschmiede-krieglstein.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:28.951Z'
 finalUrl: 'https://www.goldschmiede-krieglstein.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: timebaggtllc.com
 slug: timebaggtllc-com
-title: Is timebaggtllc.com Legit? Trust Signal Check
+title: Is timebaggtllc.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for timebaggtllc.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  timebaggtllc.com scores 88/100 on our public trust checks. Established domain
+  — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:43.661Z'
 finalUrl: 'https://timebaggtllc.com/'
 reachable: true

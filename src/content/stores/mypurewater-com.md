@@ -1,10 +1,10 @@
 ---
 domain: mypurewater.com
 slug: mypurewater-com
-title: Is mypurewater.com Legit? Trust Signal Check
+title: Is mypurewater.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mypurewater.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mypurewater.com scores 100/100 on our public trust checks. Established domain
+  — registered 23.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:13.853Z'
 finalUrl: 'https://mypurewater.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jordensfrugter.dk
 slug: jordensfrugter-dk
-title: Is jordensfrugter.dk Legit? Trust Signal Check
+title: Is jordensfrugter.dk Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for jordensfrugter.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jordensfrugter.dk scores 70/100 on our public trust checks. Established domain
+  — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:14.762Z'
 finalUrl: 'https://jordensfrugter.dk/'
 reachable: true

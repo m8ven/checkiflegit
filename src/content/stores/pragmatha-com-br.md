@@ -1,10 +1,10 @@
 ---
 domain: pragmatha.com.br
 slug: pragmatha-com-br
-title: Is pragmatha.com.br Legit? Trust Signal Check
+title: Is pragmatha.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for pragmatha.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pragmatha.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:03:05.908Z'
 finalUrl: 'https://pragmatha.com.br/'
 reachable: true

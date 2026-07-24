@@ -1,10 +1,10 @@
 ---
 domain: dcstaging.dreamhosters.com
 slug: dcstaging-dreamhosters-com
-title: Is dcstaging.dreamhosters.com Legit? Trust Signal Check
+title: Is dcstaging.dreamhosters.com Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for dcstaging.dreamhosters.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dcstaging.dreamhosters.com scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:32:39.013Z'
 finalUrl: 'https://dcstaging.dreamhosters.com/'
 reachable: true

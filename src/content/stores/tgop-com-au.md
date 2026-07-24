@@ -1,10 +1,10 @@
 ---
 domain: tgop.com.au
 slug: tgop-com-au
-title: Is tgop.com.au Legit? Trust Signal Check
+title: Is tgop.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for tgop.com.au: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tgop.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:08:21.787Z'
 finalUrl: 'https://tgop.com.au/'
 reachable: true

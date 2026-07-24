@@ -1,10 +1,11 @@
 ---
 domain: desguaceantonioberrio.com
 slug: desguaceantonioberrio-com
-title: Is desguaceantonioberrio.com Legit? Trust Signal Check
+title: Is desguaceantonioberrio.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for desguaceantonioberrio.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  desguaceantonioberrio.com scores 100/100 on our public trust checks.
+  Established domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:48:16.274Z'
 finalUrl: 'https://desguaceantonioberrio.com/'
 reachable: true

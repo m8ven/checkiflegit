@@ -1,10 +1,10 @@
 ---
 domain: metasport.bg
 slug: metasport-bg
-title: Is metasport.bg Legit? Trust Signal Check
+title: Is metasport.bg Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for metasport.bg: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  metasport.bg scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:52:49.957Z'
 finalUrl: 'https://metasport.bg/'
 reachable: true

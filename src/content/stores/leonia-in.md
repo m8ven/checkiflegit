@@ -1,10 +1,10 @@
 ---
 domain: leonia.in
 slug: leonia-in
-title: Is leonia.in Legit? Trust Signal Check
+title: Is leonia.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for leonia.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  leonia.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:41:53.330Z'
 finalUrl: 'https://leonia.in/'
 reachable: true

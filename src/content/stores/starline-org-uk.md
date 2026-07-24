@@ -1,10 +1,10 @@
 ---
 domain: starline.org.uk
 slug: starline-org-uk
-title: Is starline.org.uk Legit? Trust Signal Check
+title: Is starline.org.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for starline.org.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  starline.org.uk scores 73/100 on our public trust checks. Established domain —
+  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:22:20.230Z'
 finalUrl: 'https://www.starline.org.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jadyquimica.com
 slug: jadyquimica-com
-title: Is jadyquimica.com Legit? Trust Signal Check
+title: Is jadyquimica.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for jadyquimica.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jadyquimica.com scores 100/100 on our public trust checks. Established domain
+  — registered 18 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:26.456Z'
 finalUrl: 'https://www.jadyquimica.com/'
 reachable: true

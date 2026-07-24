@@ -1,10 +1,10 @@
 ---
 domain: graffitishop.hr
 slug: graffitishop-hr
-title: Is graffitishop.hr Legit? Trust Signal Check
+title: Is graffitishop.hr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for graffitishop.hr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  graffitishop.hr scores 88/100 on our public trust checks. Established domain —
+  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:51.550Z'
 finalUrl: 'https://graffitishop.hr/'
 reachable: true

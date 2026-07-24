@@ -1,10 +1,10 @@
 ---
 domain: pizzaboisguillaume.fr
 slug: pizzaboisguillaume-fr
-title: Is pizzaboisguillaume.fr Legit? Trust Signal Check
+title: Is pizzaboisguillaume.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for pizzaboisguillaume.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pizzaboisguillaume.fr scores 88/100 on our public trust checks. Established
+  domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:03.200Z'
 finalUrl: 'https://www.pizzaboisguillaume.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ecotoles.fr
 slug: ecotoles-fr
-title: Is ecotoles.fr Legit? Trust Signal Check
+title: Is ecotoles.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ecotoles.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ecotoles.fr scores 100/100 on our public trust checks. Established domain —
+  registered 17.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:44.707Z'
 finalUrl: 'https://ecotoles.fr/'
 reachable: true

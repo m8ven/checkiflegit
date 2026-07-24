@@ -1,10 +1,10 @@
 ---
 domain: landleben.bio
 slug: landleben-bio
-title: Is landleben.bio Legit? Trust Signal Check
+title: Is landleben.bio Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for landleben.bio: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  landleben.bio scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:23:40.049Z'
 finalUrl: 'https://www.landleben.bio/'
 reachable: true

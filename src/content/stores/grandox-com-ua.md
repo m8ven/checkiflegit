@@ -1,10 +1,10 @@
 ---
 domain: grandox.com.ua
 slug: grandox-com-ua
-title: Is grandox.com.ua Legit? Trust Signal Check
+title: Is grandox.com.ua Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for grandox.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  grandox.com.ua scores 73/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:27.127Z'
 finalUrl: 'https://grandox.com.ua/'
 reachable: true

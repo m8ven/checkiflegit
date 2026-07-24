@@ -1,10 +1,10 @@
 ---
 domain: decoenzo.com
 slug: decoenzo-com
-title: Is decoenzo.com Legit? Trust Signal Check
+title: Is decoenzo.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for decoenzo.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  decoenzo.com scores 88/100 on our public trust checks. Established domain —
+  registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:52.153Z'
 finalUrl: 'https://www.decoenzo.com/'
 reachable: true

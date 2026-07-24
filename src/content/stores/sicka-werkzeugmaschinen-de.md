@@ -1,10 +1,10 @@
 ---
 domain: sicka-werkzeugmaschinen.de
 slug: sicka-werkzeugmaschinen-de
-title: Is sicka-werkzeugmaschinen.de Legit? Trust Signal Check
+title: Is sicka-werkzeugmaschinen.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for sicka-werkzeugmaschinen.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sicka-werkzeugmaschinen.de scores 61/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T03:27:22.501Z'
 finalUrl: 'https://www.sicka-werkzeugmaschinen.de/'
 reachable: true

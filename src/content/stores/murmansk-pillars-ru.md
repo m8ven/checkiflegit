@@ -1,10 +1,10 @@
 ---
 domain: murmansk.pillars.ru
 slug: murmansk-pillars-ru
-title: Is murmansk.pillars.ru Legit? Trust Signal Check
+title: Is murmansk.pillars.ru Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for murmansk.pillars.ru: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  murmansk.pillars.ru scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:53:49.453Z'
 finalUrl: 'https://murmansk.pillars.ru/'
 reachable: true

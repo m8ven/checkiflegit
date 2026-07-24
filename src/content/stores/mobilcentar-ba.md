@@ -1,10 +1,10 @@
 ---
 domain: mobilcentar.ba
 slug: mobilcentar-ba
-title: Is mobilcentar.ba Legit? Trust Signal Check
+title: Is mobilcentar.ba Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for mobilcentar.ba: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mobilcentar.ba scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:31:57.289Z'
 finalUrl: 'https://mobilcentar.ba/'
 reachable: true

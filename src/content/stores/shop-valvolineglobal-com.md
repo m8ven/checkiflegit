@@ -1,10 +1,10 @@
 ---
 domain: shop.valvolineglobal.com
 slug: shop-valvolineglobal-com
-title: Is shop.valvolineglobal.com Legit? Trust Signal Check
+title: Is shop.valvolineglobal.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for shop.valvolineglobal.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.valvolineglobal.com scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:01:14.369Z'
 finalUrl: 'https://shop.valvolineglobal.com/'
 reachable: true

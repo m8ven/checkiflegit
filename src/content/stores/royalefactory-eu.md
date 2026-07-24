@@ -1,10 +1,10 @@
 ---
 domain: royalefactory.eu
 slug: royalefactory-eu
-title: Is royalefactory.eu Legit? Trust Signal Check
+title: Is royalefactory.eu Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for royalefactory.eu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  royalefactory.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:29:32.419Z'
 finalUrl: 'https://royalefactory.eu/'
 reachable: true

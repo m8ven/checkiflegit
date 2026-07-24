@@ -1,10 +1,11 @@
 ---
 domain: asphaltroofing.org
 slug: asphaltroofing-org
-title: Is asphaltroofing.org Legit? Trust Signal Check
+title: Is asphaltroofing.org Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for asphaltroofing.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  asphaltroofing.org scores 85/100 on our public trust checks. Established
+  domain — registered 29.6 years ago. Public business contact details are
+  listed.
 fetchedAt: '2026-06-25T12:22:08.111Z'
 finalUrl: 'https://www.asphaltroofing.org/'
 reachable: true

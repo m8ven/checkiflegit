@@ -1,10 +1,10 @@
 ---
 domain: shop.brille.ch
 slug: shop-brille-ch
-title: Is shop.brille.ch Legit? Trust Signal Check
+title: Is shop.brille.ch Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.brille.ch: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.brille.ch scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:55:33.881Z'
 finalUrl: 'https://shop.brille.ch/'
 reachable: true

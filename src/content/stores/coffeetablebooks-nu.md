@@ -1,10 +1,10 @@
 ---
 domain: coffeetablebooks.nu
 slug: coffeetablebooks-nu
-title: Is coffeetablebooks.nu Legit? Trust Signal Check
+title: Is coffeetablebooks.nu Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for coffeetablebooks.nu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  coffeetablebooks.nu scores 73/100 on our public trust checks. Established
+  domain — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:17.259Z'
 finalUrl: 'https://coffeetablebooks.nu/'
 reachable: true

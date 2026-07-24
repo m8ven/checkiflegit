@@ -1,10 +1,10 @@
 ---
 domain: cuathepcuanhua.com
 slug: cuathepcuanhua-com
-title: Is cuathepcuanhua.com Legit? Trust Signal Check
+title: Is cuathepcuanhua.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for cuathepcuanhua.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cuathepcuanhua.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:31:39.377Z'
 finalUrl: 'https://cuathepcuanhua.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: suutamtien.com
 slug: suutamtien-com
-title: Is suutamtien.com Legit? Trust Signal Check
+title: Is suutamtien.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for suutamtien.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  suutamtien.com scores 88/100 on our public trust checks. Established domain —
+  registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:48.989Z'
 finalUrl: 'https://suutamtien.com/'
 reachable: true

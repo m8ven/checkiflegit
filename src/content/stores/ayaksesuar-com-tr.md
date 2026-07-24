@@ -1,10 +1,10 @@
 ---
 domain: ayaksesuar.com.tr
 slug: ayaksesuar-com-tr
-title: Is ayaksesuar.com.tr Legit? Trust Signal Check
+title: Is ayaksesuar.com.tr Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for ayaksesuar.com.tr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ayaksesuar.com.tr scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:27.191Z'
 finalUrl: 'https://ayaksesuar.com.tr/'
 reachable: true

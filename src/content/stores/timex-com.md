@@ -1,10 +1,10 @@
 ---
 domain: timex.com
 slug: timex-com
-title: Is timex.com Legit? Trust Signal Check
+title: Is timex.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for timex.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  timex.com scores 100/100 on our public trust checks. Established domain —
+  registered 31.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:08.052Z'
 finalUrl: 'https://timex.com/'
 reachable: true

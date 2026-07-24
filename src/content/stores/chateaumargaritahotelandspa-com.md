@@ -1,10 +1,10 @@
 ---
 domain: chateaumargaritahotelandspa.com
 slug: chateaumargaritahotelandspa-com
-title: Is chateaumargaritahotelandspa.com Legit? Trust Signal Check
+title: Is chateaumargaritahotelandspa.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for chateaumargaritahotelandspa.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  chateaumargaritahotelandspa.com scores 88/100 on our public trust checks.
+  Established domain — registered 10.3 years ago.
 fetchedAt: '2026-06-25T15:31:38.391Z'
 finalUrl: 'https://chateaumargaritahotelandspa.com/'
 reachable: true

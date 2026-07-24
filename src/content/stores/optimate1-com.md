@@ -1,10 +1,10 @@
 ---
 domain: optimate1.com
 slug: optimate1-com
-title: Is optimate1.com Legit? Trust Signal Check
+title: Is optimate1.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for optimate1.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  optimate1.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T11:56:56.645Z'
 finalUrl: 'https://optimate1.com/'
 reachable: true

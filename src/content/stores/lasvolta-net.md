@@ -1,10 +1,10 @@
 ---
 domain: lasvolta.net
 slug: lasvolta-net
-title: Is lasvolta.net Legit? Trust Signal Check
+title: Is lasvolta.net Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lasvolta.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lasvolta.net scores 88/100 on our public trust checks. Established domain —
+  registered 23.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:10.199Z'
 finalUrl: 'https://www.lasvolta.net/'
 reachable: true

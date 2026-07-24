@@ -1,10 +1,10 @@
 ---
 domain: ooredoo.tn
 slug: ooredoo-tn
-title: Is ooredoo.tn Legit? Trust Signal Check
+title: Is ooredoo.tn Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ooredoo.tn: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ooredoo.tn scores 61/100 on our public trust checks. No links to major social
+  platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-24T21:45:01.099Z'
 finalUrl: 'https://www.ooredoo.tn/Personal/fr/'
 reachable: true

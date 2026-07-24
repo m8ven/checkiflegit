@@ -1,10 +1,10 @@
 ---
 domain: rainbowshops.com
 slug: rainbowshops-com
-title: Is rainbowshops.com Legit? Trust Signal Check
+title: Is rainbowshops.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rainbowshops.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rainbowshops.com scores 88/100 on our public trust checks. Established domain
+  — registered 29 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:19.098Z'
 finalUrl: 'https://www.rainbowshops.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: homecenter.co.il
 slug: homecenter-co-il
-title: Is homecenter.co.il Legit? Trust Signal Check
+title: Is homecenter.co.il Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for homecenter.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  homecenter.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-24T21:46:49.903Z'
 finalUrl: 'https://www.homecenter.co.il/'
 reachable: true

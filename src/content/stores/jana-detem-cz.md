@@ -1,10 +1,10 @@
 ---
 domain: jana-detem.cz
 slug: jana-detem-cz
-title: Is jana-detem.cz Legit? Trust Signal Check
+title: Is jana-detem.cz Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for jana-detem.cz: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  jana-detem.cz scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:03:17.102Z'
 finalUrl: 'https://jana-detem.cz/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: arterybackdrops.com
 slug: arterybackdrops-com
-title: Is arterybackdrops.com Legit? Trust Signal Check
+title: Is arterybackdrops.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for arterybackdrops.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arterybackdrops.com scores 70/100 on our public trust checks. Established
+  domain — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:57:59.384Z'
 finalUrl: 'https://www.arterybackdrops.com/'
 reachable: true

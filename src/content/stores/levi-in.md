@@ -1,10 +1,10 @@
 ---
 domain: levi.in
 slug: levi-in
-title: Is levi.in Legit? Trust Signal Check
+title: Is levi.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for levi.in: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  levi.in scores 100/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-24T21:44:35.110Z'
 finalUrl: 'https://levi.in/'
 reachable: true

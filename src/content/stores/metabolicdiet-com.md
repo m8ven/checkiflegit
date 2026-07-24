@@ -1,10 +1,10 @@
 ---
 domain: metabolicdiet.com
 slug: metabolicdiet-com
-title: Is metabolicdiet.com Legit? Trust Signal Check
+title: Is metabolicdiet.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for metabolicdiet.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  metabolicdiet.com scores 73/100 on our public trust checks. Established domain
+  — registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:31.664Z'
 finalUrl: 'https://metabolicdiet.com/'
 reachable: true

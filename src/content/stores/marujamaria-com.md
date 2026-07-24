@@ -1,10 +1,10 @@
 ---
 domain: marujamaria.com
 slug: marujamaria-com
-title: Is marujamaria.com Legit? Trust Signal Check
+title: Is marujamaria.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for marujamaria.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  marujamaria.com scores 100/100 on our public trust checks. Established domain
+  — registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:35.989Z'
 finalUrl: 'https://marujamaria.com/'
 reachable: true

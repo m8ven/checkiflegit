@@ -1,10 +1,10 @@
 ---
 domain: fram.is
 slug: fram-is
-title: Is fram.is Legit? Trust Signal Check
+title: Is fram.is Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fram.is: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  fram.is scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:57:59.762Z'
 finalUrl: 'https://fram.is/'
 reachable: true

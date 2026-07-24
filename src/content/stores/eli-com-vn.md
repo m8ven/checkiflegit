@@ -1,10 +1,10 @@
 ---
 domain: eli.com.vn
 slug: eli-com-vn
-title: Is eli.com.vn Legit? Trust Signal Check
+title: Is eli.com.vn Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for eli.com.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  eli.com.vn scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:37:32.396Z'
 finalUrl: 'https://eli.com.vn/'
 reachable: true

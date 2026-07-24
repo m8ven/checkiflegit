@@ -1,10 +1,10 @@
 ---
 domain: ttntech.net
 slug: ttntech-net
-title: Is ttntech.net Legit? Trust Signal Check
+title: Is ttntech.net Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ttntech.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ttntech.net scores 73/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:32.770Z'
 finalUrl: 'https://ttntech.net/'
 reachable: true

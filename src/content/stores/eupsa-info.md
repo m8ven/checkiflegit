@@ -1,10 +1,10 @@
 ---
 domain: eupsa.info
 slug: eupsa-info
-title: Is eupsa.info Legit? Trust Signal Check
+title: Is eupsa.info Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for eupsa.info: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  eupsa.info scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:21:41.128Z'
 finalUrl: 'https://www.eupsa.info/'
 reachable: true

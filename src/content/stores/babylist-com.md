@@ -1,10 +1,10 @@
 ---
 domain: babylist.com
 slug: babylist-com
-title: Is babylist.com Legit? Trust Signal Check
+title: Is babylist.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for babylist.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  babylist.com scores 88/100 on our public trust checks. Established domain —
+  registered 28.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:48.070Z'
 finalUrl: 'https://www.babylist.com/'
 reachable: true

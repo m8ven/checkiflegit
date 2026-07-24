@@ -1,10 +1,10 @@
 ---
 domain: csendesalvas.hu
 slug: csendesalvas-hu
-title: Is csendesalvas.hu Legit? Trust Signal Check
+title: Is csendesalvas.hu Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for csendesalvas.hu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  csendesalvas.hu scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:39:31.984Z'
 finalUrl: 'https://csendesalvas.hu/'
 reachable: true

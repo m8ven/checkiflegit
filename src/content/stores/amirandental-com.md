@@ -1,10 +1,10 @@
 ---
 domain: amirandental.com
 slug: amirandental-com
-title: Is amirandental.com Legit? Trust Signal Check
+title: Is amirandental.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for amirandental.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  amirandental.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:41:07.284Z'
 finalUrl: 'https://amirandental.com/'
 reachable: true

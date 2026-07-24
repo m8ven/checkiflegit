@@ -1,10 +1,10 @@
 ---
 domain: in.mtap.io
 slug: in-mtap-io
-title: Is in.mtap.io Legit? Trust Signal Check
+title: Is in.mtap.io Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for in.mtap.io: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  in.mtap.io scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:05.587Z'
 finalUrl: 'https://in.mtap.io/'
 reachable: true

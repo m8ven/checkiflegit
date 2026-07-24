@@ -1,10 +1,10 @@
 ---
 domain: illinoisrealtors.org
 slug: illinoisrealtors-org
-title: Is illinoisrealtors.org Legit? Trust Signal Check
+title: Is illinoisrealtors.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for illinoisrealtors.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  illinoisrealtors.org scores 100/100 on our public trust checks. Established
+  domain — registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:27.573Z'
 finalUrl: 'https://www.illinoisrealtors.org/'
 reachable: true

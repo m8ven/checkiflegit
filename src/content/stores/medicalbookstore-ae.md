@@ -1,10 +1,10 @@
 ---
 domain: medicalbookstore.ae
 slug: medicalbookstore-ae
-title: Is medicalbookstore.ae Legit? Trust Signal Check
+title: Is medicalbookstore.ae Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for medicalbookstore.ae: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  medicalbookstore.ae scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:21:56.540Z'
 finalUrl: 'https://medicalbookstore.ae/'
 reachable: true

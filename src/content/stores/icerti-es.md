@@ -1,10 +1,10 @@
 ---
 domain: icerti.es
 slug: icerti-es
-title: Is icerti.es Legit? Trust Signal Check
+title: Is icerti.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for icerti.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  icerti.es scores 100/100 on our public trust checks. Has a contact page and
+  multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T11:58:37.717Z'
 finalUrl: 'https://icerti.es/'
 reachable: true

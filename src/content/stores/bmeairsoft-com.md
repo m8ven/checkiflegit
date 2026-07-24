@@ -1,10 +1,10 @@
 ---
 domain: bmeairsoft.com
 slug: bmeairsoft-com
-title: Is bmeairsoft.com Legit? Trust Signal Check
+title: Is bmeairsoft.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bmeairsoft.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bmeairsoft.com scores 88/100 on our public trust checks. Established domain —
+  registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:04.455Z'
 finalUrl: 'https://bmeairsoft.com/'
 reachable: true

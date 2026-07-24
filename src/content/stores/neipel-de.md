@@ -1,10 +1,11 @@
 ---
 domain: neipel.de
 slug: neipel-de
-title: Is neipel.de Legit? Trust Signal Check
+title: Is neipel.de Legit? Trust Score 0/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for neipel.de: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  neipel.de scores 0/100 on our public trust checks. No valid SSL certificate —
+  connection may not be secure. Standard contact and policy pages were not
+  found.
 fetchedAt: '2026-06-25T12:37:42.893Z'
 finalUrl: 'http://neipel.de/'
 reachable: true

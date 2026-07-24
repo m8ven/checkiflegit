@@ -1,10 +1,10 @@
 ---
 domain: bundlehero.co
 slug: bundlehero-co
-title: Is bundlehero.co Legit? Trust Signal Check
+title: Is bundlehero.co Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for bundlehero.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bundlehero.co scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:21:34.755Z'
 finalUrl: 'https://bundlehero.co/'
 reachable: true

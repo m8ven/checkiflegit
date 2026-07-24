@@ -1,10 +1,10 @@
 ---
 domain: suedtiroler-freiheit.com
 slug: suedtiroler-freiheit-com
-title: Is suedtiroler-freiheit.com Legit? Trust Signal Check
+title: Is suedtiroler-freiheit.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for suedtiroler-freiheit.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  suedtiroler-freiheit.com scores 88/100 on our public trust checks. Established
+  domain — registered 19.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:34.914Z'
 finalUrl: 'https://suedtiroler-freiheit.com/'
 reachable: true

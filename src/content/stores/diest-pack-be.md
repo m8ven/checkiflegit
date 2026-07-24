@@ -1,10 +1,10 @@
 ---
 domain: diest-pack.be
 slug: diest-pack-be
-title: Is diest-pack.be Legit? Trust Signal Check
+title: Is diest-pack.be Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for diest-pack.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  diest-pack.be scores 70/100 on our public trust checks. Established domain —
+  registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:35.625Z'
 finalUrl: 'https://diest-pack.be/'
 reachable: true

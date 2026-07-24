@@ -1,10 +1,10 @@
 ---
 domain: cheesecrafters.ca
 slug: cheesecrafters-ca
-title: Is cheesecrafters.ca Legit? Trust Signal Check
+title: Is cheesecrafters.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cheesecrafters.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cheesecrafters.ca scores 100/100 on our public trust checks. Established
+  domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:42.493Z'
 finalUrl: 'https://cheesecrafters.ca/'
 reachable: true

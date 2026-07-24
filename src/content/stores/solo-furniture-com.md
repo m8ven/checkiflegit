@@ -1,10 +1,10 @@
 ---
 domain: solo-furniture.com
 slug: solo-furniture-com
-title: Is solo-furniture.com Legit? Trust Signal Check
+title: Is solo-furniture.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for solo-furniture.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  solo-furniture.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:11:45.981Z'
 finalUrl: 'https://solo-furniture.com/'
 reachable: true

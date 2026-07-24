@@ -1,10 +1,10 @@
 ---
 domain: loona.lk
 slug: loona-lk
-title: Is loona.lk Legit? Trust Signal Check
+title: Is loona.lk Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for loona.lk: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  loona.lk scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:56:26.231Z'
 finalUrl: 'https://loona.lk/'
 reachable: true

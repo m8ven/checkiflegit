@@ -1,10 +1,10 @@
 ---
 domain: fenixradiators.com.au
 slug: fenixradiators-com-au
-title: Is fenixradiators.com.au Legit? Trust Signal Check
+title: Is fenixradiators.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for fenixradiators.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fenixradiators.com.au scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:56:38.279Z'
 finalUrl: 'https://fenixradiators.com.au/'
 reachable: true

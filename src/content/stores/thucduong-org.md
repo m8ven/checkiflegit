@@ -1,10 +1,10 @@
 ---
 domain: thucduong.org
 slug: thucduong-org
-title: Is thucduong.org Legit? Trust Signal Check
+title: Is thucduong.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for thucduong.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thucduong.org scores 76/100 on our public trust checks. Established domain —
+  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:01.313Z'
 finalUrl: 'https://thucduong.org/'
 reachable: true

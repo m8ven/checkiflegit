@@ -1,10 +1,10 @@
 ---
 domain: usapvaitshop.com
 slug: usapvaitshop-com
-title: Is usapvaitshop.com Legit? Trust Signal Check
+title: Is usapvaitshop.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for usapvaitshop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  usapvaitshop.com scores 73/100 on our public trust checks. Established domain
+  — registered 1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:36:15.976Z'
 finalUrl: 'https://usapvaitshop.com/'
 reachable: true

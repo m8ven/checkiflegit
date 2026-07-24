@@ -1,10 +1,10 @@
 ---
 domain: auction.foxway.shop
 slug: auction-foxway-shop
-title: Is auction.foxway.shop Legit? Trust Signal Check
+title: Is auction.foxway.shop Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for auction.foxway.shop: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  auction.foxway.shop scores 44/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:51:41.307Z'
 finalUrl: 'https://auction.foxway.shop/'
 reachable: true

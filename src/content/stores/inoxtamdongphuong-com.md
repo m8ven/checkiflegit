@@ -1,10 +1,10 @@
 ---
 domain: inoxtamdongphuong.com
 slug: inoxtamdongphuong-com
-title: Is inoxtamdongphuong.com Legit? Trust Signal Check
+title: Is inoxtamdongphuong.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for inoxtamdongphuong.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  inoxtamdongphuong.com scores 64/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:30:48.337Z'
 finalUrl: 'https://inoxtamdongphuong.com/'
 reachable: true

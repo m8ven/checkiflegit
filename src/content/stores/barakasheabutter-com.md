@@ -1,10 +1,10 @@
 ---
 domain: barakasheabutter.com
 slug: barakasheabutter-com
-title: Is barakasheabutter.com Legit? Trust Signal Check
+title: Is barakasheabutter.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for barakasheabutter.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  barakasheabutter.com scores 100/100 on our public trust checks. Established
+  domain — registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:05.307Z'
 finalUrl: 'https://www.barakasheabutter.com/'
 reachable: true

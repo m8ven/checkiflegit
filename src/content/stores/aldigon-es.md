@@ -1,10 +1,10 @@
 ---
 domain: aldigon.es
 slug: aldigon-es
-title: Is aldigon.es Legit? Trust Signal Check
+title: Is aldigon.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for aldigon.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aldigon.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:23:48.882Z'
 finalUrl: 'https://aldigon.es/'
 reachable: true

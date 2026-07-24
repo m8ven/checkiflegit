@@ -1,10 +1,10 @@
 ---
 domain: darwineventur.com
 slug: darwineventur-com
-title: Is darwineventur.com Legit? Trust Signal Check
+title: Is darwineventur.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for darwineventur.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  darwineventur.com scores 100/100 on our public trust checks. Established
+  domain — registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:14.294Z'
 finalUrl: 'https://darwineventur.com/'
 reachable: true

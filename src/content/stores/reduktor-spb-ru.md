@@ -1,10 +1,10 @@
 ---
 domain: reduktor-spb.ru
 slug: reduktor-spb-ru
-title: Is reduktor-spb.ru Legit? Trust Signal Check
+title: Is reduktor-spb.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for reduktor-spb.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  reduktor-spb.ru scores 73/100 on our public trust checks. Established domain —
+  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:19.212Z'
 finalUrl: 'https://reduktor-spb.ru/'
 reachable: true

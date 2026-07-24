@@ -1,10 +1,10 @@
 ---
 domain: nailstore.cz
 slug: nailstore-cz
-title: Is nailstore.cz Legit? Trust Signal Check
+title: Is nailstore.cz Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for nailstore.cz: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  nailstore.cz scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:57:56.806Z'
 finalUrl: 'https://nailstore.cz/'
 reachable: true

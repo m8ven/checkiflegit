@@ -1,10 +1,10 @@
 ---
 domain: airbag-car.com
 slug: airbag-car-com
-title: Is airbag-car.com Legit? Trust Signal Check
+title: Is airbag-car.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for airbag-car.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  airbag-car.com scores 88/100 on our public trust checks. Established domain —
+  registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:23.011Z'
 finalUrl: 'https://airbag-car.com/'
 reachable: true

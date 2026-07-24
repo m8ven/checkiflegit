@@ -1,10 +1,10 @@
 ---
 domain: vitanovanaz.com
 slug: vitanovanaz-com
-title: Is vitanovanaz.com Legit? Trust Signal Check
+title: Is vitanovanaz.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for vitanovanaz.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vitanovanaz.com scores 100/100 on our public trust checks. Established domain
+  — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:50.216Z'
 finalUrl: 'https://vitanovanaz.com/'
 reachable: true

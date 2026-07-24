@@ -1,10 +1,10 @@
 ---
 domain: meumetroquadrado.com.br
 slug: meumetroquadrado-com-br
-title: Is meumetroquadrado.com.br Legit? Trust Signal Check
+title: Is meumetroquadrado.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for meumetroquadrado.com.br: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  meumetroquadrado.com.br scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:36:39.760Z'
 finalUrl: 'https://meumetroquadrado.com.br/'
 reachable: true

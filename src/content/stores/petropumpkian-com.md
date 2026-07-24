@@ -1,10 +1,10 @@
 ---
 domain: petropumpkian.com
 slug: petropumpkian-com
-title: Is petropumpkian.com Legit? Trust Signal Check
+title: Is petropumpkian.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for petropumpkian.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  petropumpkian.com scores 88/100 on our public trust checks. Established domain
+  — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:09.354Z'
 finalUrl: 'https://petropumpkian.com/'
 reachable: true

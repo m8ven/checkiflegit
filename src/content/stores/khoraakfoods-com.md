@@ -1,10 +1,10 @@
 ---
 domain: khoraakfoods.com
 slug: khoraakfoods-com
-title: Is khoraakfoods.com Legit? Trust Signal Check
+title: Is khoraakfoods.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for khoraakfoods.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  khoraakfoods.com scores 100/100 on our public trust checks. Established domain
+  — registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:20.163Z'
 finalUrl: 'https://khoraakfoods.com/'
 reachable: true

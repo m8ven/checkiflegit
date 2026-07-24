@@ -1,10 +1,10 @@
 ---
 domain: omniafishing.com
 slug: omniafishing-com
-title: Is omniafishing.com Legit? Trust Signal Check
+title: Is omniafishing.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for omniafishing.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  omniafishing.com scores 100/100 on our public trust checks. Established domain
+  — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:53.388Z'
 finalUrl: 'https://www.omniafishing.com/'
 reachable: true

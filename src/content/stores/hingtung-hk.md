@@ -1,10 +1,10 @@
 ---
 domain: hingtung.hk
 slug: hingtung-hk
-title: Is hingtung.hk Legit? Trust Signal Check
+title: Is hingtung.hk Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for hingtung.hk: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  hingtung.hk scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:53:51.240Z'
 finalUrl: 'https://hingtung.hk/'
 reachable: true

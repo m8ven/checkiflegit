@@ -1,10 +1,10 @@
 ---
 domain: mtea-md.org
 slug: mtea-md-org
-title: Is mtea-md.org Legit? Trust Signal Check
+title: Is mtea-md.org Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mtea-md.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mtea-md.org scores 70/100 on our public trust checks. Established domain —
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:34.307Z'
 finalUrl: 'https://mtea-md.org/'
 reachable: true

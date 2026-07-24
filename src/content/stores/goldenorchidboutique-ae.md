@@ -1,10 +1,10 @@
 ---
 domain: goldenorchidboutique.ae
 slug: goldenorchidboutique-ae
-title: Is goldenorchidboutique.ae Legit? Trust Signal Check
+title: Is goldenorchidboutique.ae Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for goldenorchidboutique.ae: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  goldenorchidboutique.ae scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:26.418Z'
 finalUrl: 'https://goldenorchidboutique.ae/'
 reachable: true

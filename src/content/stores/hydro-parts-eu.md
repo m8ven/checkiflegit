@@ -1,10 +1,10 @@
 ---
 domain: hydro-parts.eu
 slug: hydro-parts-eu
-title: Is hydro-parts.eu Legit? Trust Signal Check
+title: Is hydro-parts.eu Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for hydro-parts.eu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hydro-parts.eu scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:58:08.705Z'
 finalUrl: 'https://hydro-parts.eu/'
 reachable: true

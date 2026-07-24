@@ -1,10 +1,10 @@
 ---
 domain: caliathletics.com
 slug: caliathletics-com
-title: Is caliathletics.com Legit? Trust Signal Check
+title: Is caliathletics.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for caliathletics.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  caliathletics.com scores 70/100 on our public trust checks. Established domain
+  — registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:51.261Z'
 finalUrl: 'https://caliathletics.com/'
 reachable: true

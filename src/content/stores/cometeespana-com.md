@@ -1,10 +1,10 @@
 ---
 domain: cometeespana.com
 slug: cometeespana-com
-title: Is cometeespana.com Legit? Trust Signal Check
+title: Is cometeespana.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for cometeespana.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cometeespana.com scores 76/100 on our public trust checks. Established domain
+  — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:39.424Z'
 finalUrl: 'https://cometeespana.com/'
 reachable: true

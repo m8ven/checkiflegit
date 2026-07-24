@@ -1,10 +1,10 @@
 ---
 domain: petroatletico.co.ao
 slug: petroatletico-co-ao
-title: Is petroatletico.co.ao Legit? Trust Signal Check
+title: Is petroatletico.co.ao Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for petroatletico.co.ao: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  petroatletico.co.ao scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:58:02.667Z'
 finalUrl: 'https://petroatletico.co.ao/'
 reachable: true

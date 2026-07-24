@@ -1,10 +1,10 @@
 ---
 domain: made2win.it
 slug: made2win-it
-title: Is made2win.it Legit? Trust Signal Check
+title: Is made2win.it Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for made2win.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  made2win.it scores 85/100 on our public trust checks. Established domain —
+  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:41.344Z'
 finalUrl: 'https://www.made2win.it/'
 reachable: true

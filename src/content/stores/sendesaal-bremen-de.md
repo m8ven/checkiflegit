@@ -1,10 +1,10 @@
 ---
 domain: sendesaal-bremen.de
 slug: sendesaal-bremen-de
-title: Is sendesaal-bremen.de Legit? Trust Signal Check
+title: Is sendesaal-bremen.de Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for sendesaal-bremen.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sendesaal-bremen.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:50:41.604Z'
 finalUrl: 'https://sendesaal-bremen.de/'
 reachable: true

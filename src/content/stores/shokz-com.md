@@ -1,10 +1,10 @@
 ---
 domain: shokz.com
 slug: shokz-com
-title: Is shokz.com Legit? Trust Signal Check
+title: Is shokz.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for shokz.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  shokz.com scores 100/100 on our public trust checks. Established domain —
+  registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:21.902Z'
 finalUrl: 'https://shokz.com/'
 reachable: true

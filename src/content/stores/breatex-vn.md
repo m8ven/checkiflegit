@@ -1,10 +1,10 @@
 ---
 domain: breatex.vn
 slug: breatex-vn
-title: Is breatex.vn Legit? Trust Signal Check
+title: Is breatex.vn Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for breatex.vn: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  breatex.vn scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:37.128Z'
 finalUrl: 'https://breatex.vn/'
 reachable: true

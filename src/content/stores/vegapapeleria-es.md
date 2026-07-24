@@ -1,10 +1,10 @@
 ---
 domain: vegapapeleria.es
 slug: vegapapeleria-es
-title: Is vegapapeleria.es Legit? Trust Signal Check
+title: Is vegapapeleria.es Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for vegapapeleria.es: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  vegapapeleria.es scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:11:02.482Z'
 finalUrl: 'https://vegapapeleria.es/'
 reachable: true

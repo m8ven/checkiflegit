@@ -1,10 +1,10 @@
 ---
 domain: pscuk.net
 slug: pscuk-net
-title: Is pscuk.net Legit? Trust Signal Check
+title: Is pscuk.net Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pscuk.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pscuk.net scores 76/100 on our public trust checks. Established domain —
+  registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:15.831Z'
 finalUrl: 'https://pscuk.net/'
 reachable: true

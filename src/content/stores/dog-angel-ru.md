@@ -1,10 +1,11 @@
 ---
 domain: dog-angel.ru
 slug: dog-angel-ru
-title: Is dog-angel.ru Legit? Trust Signal Check
+title: Is dog-angel.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for dog-angel.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dog-angel.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:09:24.148Z'
 finalUrl: 'https://dog-angel.ru/'
 reachable: true

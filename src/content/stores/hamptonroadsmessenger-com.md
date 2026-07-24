@@ -1,10 +1,10 @@
 ---
 domain: hamptonroadsmessenger.com
 slug: hamptonroadsmessenger-com
-title: Is hamptonroadsmessenger.com Legit? Trust Signal Check
+title: Is hamptonroadsmessenger.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for hamptonroadsmessenger.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hamptonroadsmessenger.com scores 58/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:56:10.340Z'
 finalUrl: 'https://hamptonroadsmessenger.com/'
 reachable: true

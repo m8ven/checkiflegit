@@ -1,10 +1,11 @@
 ---
 domain: christgospelministries.org
 slug: christgospelministries-org
-title: Is christgospelministries.org Legit? Trust Signal Check
+title: Is christgospelministries.org Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for christgospelministries.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  christgospelministries.org scores 73/100 on our public trust checks.
+  Established domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:45:42.059Z'
 finalUrl: 'https://christgospelministries.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: divan-divan.com
 slug: divan-divan-com
-title: Is divan-divan.com Legit? Trust Signal Check
+title: Is divan-divan.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for divan-divan.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  divan-divan.com scores 94/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:53.006Z'
 finalUrl: 'https://divan-divan.com/'
 reachable: true

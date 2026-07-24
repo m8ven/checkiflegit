@@ -1,10 +1,10 @@
 ---
 domain: minhhuyshop.com
 slug: minhhuyshop-com
-title: Is minhhuyshop.com Legit? Trust Signal Check
+title: Is minhhuyshop.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for minhhuyshop.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  minhhuyshop.com scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:55:32.580Z'
 finalUrl: 'https://minhhuyshop.com/'
 reachable: true

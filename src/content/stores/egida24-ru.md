@@ -1,10 +1,10 @@
 ---
 domain: egida24.ru
 slug: egida24-ru
-title: Is egida24.ru Legit? Trust Signal Check
+title: Is egida24.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for egida24.ru: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  egida24.ru scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:26:38.920Z'
 finalUrl: 'https://egida24.ru/'
 reachable: true

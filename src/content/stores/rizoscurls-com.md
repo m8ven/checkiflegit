@@ -1,10 +1,10 @@
 ---
 domain: rizoscurls.com
 slug: rizoscurls-com
-title: Is rizoscurls.com Legit? Trust Signal Check
+title: Is rizoscurls.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rizoscurls.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rizoscurls.com scores 100/100 on our public trust checks. Established domain —
+  registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:45.493Z'
 finalUrl: 'https://rizoscurls.com/'
 reachable: true

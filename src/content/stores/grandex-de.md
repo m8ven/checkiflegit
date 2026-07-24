@@ -1,10 +1,10 @@
 ---
 domain: grandex.de
 slug: grandex-de
-title: Is grandex.de Legit? Trust Signal Check
+title: Is grandex.de Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for grandex.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  grandex.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:35:51.656Z'
 finalUrl: 'https://grandex.de/'
 reachable: true

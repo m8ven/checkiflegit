@@ -1,10 +1,11 @@
 ---
 domain: xn----7sbxklefblcviei.xn--p1ai
 slug: xn-7sbxklefblcviei-xn-p1ai
-title: Is xn----7sbxklefblcviei.xn--p1ai Legit? Trust Signal Check
+title: Is xn----7sbxklefblcviei.xn--p1ai Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for xn----7sbxklefblcviei.xn--p1ai: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  xn----7sbxklefblcviei.xn--p1ai scores 73/100 on our public trust checks.
+  Established domain — registered 10.6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:29:40.347Z'
 finalUrl: 'https://xn----7sbxklefblcviei.xn--p1ai/'
 reachable: true

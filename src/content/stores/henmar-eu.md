@@ -1,10 +1,10 @@
 ---
 domain: henmar.eu
 slug: henmar-eu
-title: Is henmar.eu Legit? Trust Signal Check
+title: Is henmar.eu Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for henmar.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  henmar.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:34:35.216Z'
 finalUrl: 'https://henmar.eu/'
 reachable: true

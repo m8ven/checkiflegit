@@ -1,10 +1,10 @@
 ---
 domain: halmartins.com
 slug: halmartins-com
-title: Is halmartins.com Legit? Trust Signal Check
+title: Is halmartins.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for halmartins.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  halmartins.com scores 73/100 on our public trust checks. Established domain —
+  registered 25 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:42.730Z'
 finalUrl: 'https://www.halmartins.com/'
 reachable: true

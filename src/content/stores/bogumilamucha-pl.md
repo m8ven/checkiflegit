@@ -1,10 +1,10 @@
 ---
 domain: bogumilamucha.pl
 slug: bogumilamucha-pl
-title: Is bogumilamucha.pl Legit? Trust Signal Check
+title: Is bogumilamucha.pl Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for bogumilamucha.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bogumilamucha.pl scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T14:48:51.886Z'
 finalUrl: 'https://bogumilamucha.pl/'
 reachable: true

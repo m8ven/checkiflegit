@@ -1,10 +1,10 @@
 ---
 domain: aeropostale.com
 slug: aeropostale-com
-title: Is aeropostale.com Legit? Trust Signal Check
+title: Is aeropostale.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for aeropostale.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aeropostale.com scores 88/100 on our public trust checks. Established domain —
+  registered 29.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:30.650Z'
 finalUrl: 'https://www.aeropostale.com/'
 reachable: true

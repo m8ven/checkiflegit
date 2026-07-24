@@ -1,10 +1,10 @@
 ---
 domain: thaifutureinc.com
 slug: thaifutureinc-com
-title: Is thaifutureinc.com Legit? Trust Signal Check
+title: Is thaifutureinc.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for thaifutureinc.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thaifutureinc.com scores 73/100 on our public trust checks. Established domain
+  — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:40.190Z'
 finalUrl: 'https://thaifutureinc.com/'
 reachable: true

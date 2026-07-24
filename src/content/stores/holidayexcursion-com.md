@@ -1,10 +1,10 @@
 ---
 domain: holidayexcursion.com
 slug: holidayexcursion-com
-title: Is holidayexcursion.com Legit? Trust Signal Check
+title: Is holidayexcursion.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for holidayexcursion.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  holidayexcursion.com scores 76/100 on our public trust checks. Established
+  domain — registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:12.522Z'
 finalUrl: 'https://holidayexcursion.com/'
 reachable: true

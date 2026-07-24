@@ -1,10 +1,10 @@
 ---
 domain: mangoblau-medien.de
 slug: mangoblau-medien-de
-title: Is mangoblau-medien.de Legit? Trust Signal Check
+title: Is mangoblau-medien.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mangoblau-medien.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mangoblau-medien.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:09:13.322Z'
 finalUrl: 'https://mangoblau-medien.de/'
 reachable: true

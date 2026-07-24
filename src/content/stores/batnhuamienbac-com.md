@@ -1,10 +1,10 @@
 ---
 domain: batnhuamienbac.com
 slug: batnhuamienbac-com
-title: Is batnhuamienbac.com Legit? Trust Signal Check
+title: Is batnhuamienbac.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for batnhuamienbac.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  batnhuamienbac.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:18:59.469Z'
 finalUrl: 'https://batnhuamienbac.com/'
 reachable: true

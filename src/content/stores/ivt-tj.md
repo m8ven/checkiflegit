@@ -1,10 +1,10 @@
 ---
 domain: ivt.tj
 slug: ivt-tj
-title: Is ivt.tj Legit? Trust Signal Check
+title: Is ivt.tj Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ivt.tj: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  ivt.tj scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:38:44.171Z'
 finalUrl: 'https://ivt.tj/'
 reachable: true

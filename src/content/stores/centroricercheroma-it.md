@@ -1,10 +1,10 @@
 ---
 domain: centroricercheroma.it
 slug: centroricercheroma-it
-title: Is centroricercheroma.it Legit? Trust Signal Check
+title: Is centroricercheroma.it Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for centroricercheroma.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  centroricercheroma.it scores 76/100 on our public trust checks. Established
+  domain — registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:32.497Z'
 finalUrl: 'https://www.centroricercheroma.it/'
 reachable: true

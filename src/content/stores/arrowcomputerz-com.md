@@ -1,10 +1,10 @@
 ---
 domain: arrowcomputerz.com
 slug: arrowcomputerz-com
-title: Is arrowcomputerz.com Legit? Trust Signal Check
+title: Is arrowcomputerz.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for arrowcomputerz.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arrowcomputerz.com scores 85/100 on our public trust checks. Established
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:46.094Z'
 finalUrl: 'https://arrowcomputerz.com/'
 reachable: true

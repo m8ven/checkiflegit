@@ -1,10 +1,10 @@
 ---
 domain: womenrugs.com
 slug: womenrugs-com
-title: Is womenrugs.com Legit? Trust Signal Check
+title: Is womenrugs.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for womenrugs.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  womenrugs.com scores 94/100 on our public trust checks. Established domain —
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:34.315Z'
 finalUrl: 'https://womenrugs.com/'
 reachable: true

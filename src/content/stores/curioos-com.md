@@ -1,10 +1,10 @@
 ---
 domain: curioos.com
 slug: curioos-com
-title: Is curioos.com Legit? Trust Signal Check
+title: Is curioos.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for curioos.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  curioos.com scores 70/100 on our public trust checks. Established domain —
+  registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:37.246Z'
 finalUrl: 'https://curioos.com/'
 reachable: true

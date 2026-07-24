@@ -1,10 +1,10 @@
 ---
 domain: lustschool.co.kr
 slug: lustschool-co-kr
-title: Is lustschool.co.kr Legit? Trust Signal Check
+title: Is lustschool.co.kr Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for lustschool.co.kr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lustschool.co.kr scores 82/100 on our public trust checks. Established domain
+  — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:21.654Z'
 finalUrl: 'https://lustschool.co.kr/'
 reachable: true

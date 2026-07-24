@@ -1,10 +1,10 @@
 ---
 domain: fullness.com.co
 slug: fullness-com-co
-title: Is fullness.com.co Legit? Trust Signal Check
+title: Is fullness.com.co Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for fullness.com.co: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  fullness.com.co scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:50:28.195Z'
 finalUrl: 'https://fullness.com.co/'
 reachable: true

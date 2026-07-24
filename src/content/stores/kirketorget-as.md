@@ -1,10 +1,10 @@
 ---
 domain: kirketorget.as
 slug: kirketorget-as
-title: Is kirketorget.as Legit? Trust Signal Check
+title: Is kirketorget.as Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for kirketorget.as: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kirketorget.as scores 73/100 on our public trust checks. Established domain —
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:54.775Z'
 finalUrl: 'https://www.kirketorget.as/'
 reachable: true

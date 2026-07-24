@@ -1,10 +1,10 @@
 ---
 domain: obuquineiro.com.br
 slug: obuquineiro-com-br
-title: Is obuquineiro.com.br Legit? Trust Signal Check
+title: Is obuquineiro.com.br Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for obuquineiro.com.br: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  obuquineiro.com.br scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:25:38.846Z'
 finalUrl: 'https://obuquineiro.com.br/'
 reachable: true

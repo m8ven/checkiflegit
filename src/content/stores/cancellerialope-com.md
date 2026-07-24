@@ -1,10 +1,10 @@
 ---
 domain: cancellerialope.com
 slug: cancellerialope-com
-title: Is cancellerialope.com Legit? Trust Signal Check
+title: Is cancellerialope.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cancellerialope.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cancellerialope.com scores 100/100 on our public trust checks. Established
+  domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:05.119Z'
 finalUrl: 'https://cancellerialope.com/'
 reachable: true

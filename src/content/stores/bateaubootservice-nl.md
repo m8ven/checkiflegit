@@ -1,10 +1,10 @@
 ---
 domain: bateaubootservice.nl
 slug: bateaubootservice-nl
-title: Is bateaubootservice.nl Legit? Trust Signal Check
+title: Is bateaubootservice.nl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bateaubootservice.nl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bateaubootservice.nl scores 100/100 on our public trust checks. Established
+  domain — registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:10.828Z'
 finalUrl: 'https://www.bateaubootservice.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: rolmako-magyarorszag.hu
 slug: rolmako-magyarorszag-hu
-title: Is rolmako-magyarorszag.hu Legit? Trust Signal Check
+title: Is rolmako-magyarorszag.hu Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for rolmako-magyarorszag.hu: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rolmako-magyarorszag.hu scores 49/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:00:56.853Z'
 finalUrl: 'https://rolmako-magyarorszag.hu/'
 reachable: true

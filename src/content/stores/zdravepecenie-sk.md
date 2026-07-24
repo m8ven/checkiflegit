@@ -1,10 +1,10 @@
 ---
 domain: zdravepecenie.sk
 slug: zdravepecenie-sk
-title: Is zdravepecenie.sk Legit? Trust Signal Check
+title: Is zdravepecenie.sk Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for zdravepecenie.sk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  zdravepecenie.sk scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:21.286Z'
 finalUrl: 'https://www.zdravepecenie.sk/'
 reachable: true

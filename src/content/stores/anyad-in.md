@@ -1,10 +1,10 @@
 ---
 domain: anyad.in
 slug: anyad-in
-title: Is anyad.in Legit? Trust Signal Check
+title: Is anyad.in Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for anyad.in: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  anyad.in scores 61/100 on our public trust checks. No links to major social
+  platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:44:19.583Z'
 finalUrl: 'https://anyad.in/'
 reachable: true

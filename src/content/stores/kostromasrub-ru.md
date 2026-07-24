@@ -1,10 +1,10 @@
 ---
 domain: kostromasrub.ru
 slug: kostromasrub-ru
-title: Is kostromasrub.ru Legit? Trust Signal Check
+title: Is kostromasrub.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for kostromasrub.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kostromasrub.ru scores 73/100 on our public trust checks. Established domain —
+  registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:37.956Z'
 finalUrl: 'https://kostromasrub.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sklep.mojakoja.pl
 slug: sklep-mojakoja-pl
-title: Is sklep.mojakoja.pl Legit? Trust Signal Check
+title: Is sklep.mojakoja.pl Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for sklep.mojakoja.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sklep.mojakoja.pl scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:38:32.639Z'
 finalUrl: 'https://sklep.mojakoja.pl/'
 reachable: true

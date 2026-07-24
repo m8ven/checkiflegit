@@ -1,10 +1,10 @@
 ---
 domain: 9jafoods.net
 slug: 9jafoods-net
-title: Is 9jafoods.net Legit? Trust Signal Check
+title: Is 9jafoods.net Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for 9jafoods.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  9jafoods.net scores 85/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:57.883Z'
 finalUrl: 'https://9jafoods.net/'
 reachable: true

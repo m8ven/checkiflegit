@@ -1,10 +1,10 @@
 ---
 domain: belodejda.by
 slug: belodejda-by
-title: Is belodejda.by Legit? Trust Signal Check
+title: Is belodejda.by Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for belodejda.by: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  belodejda.by scores 100/100 on our public trust checks. Established domain —
+  registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:07.290Z'
 finalUrl: 'https://belodejda.by/'
 reachable: true

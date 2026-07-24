@@ -1,10 +1,10 @@
 ---
 domain: winningdomains.com
 slug: winningdomains-com
-title: Is winningdomains.com Legit? Trust Signal Check
+title: Is winningdomains.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for winningdomains.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  winningdomains.com scores 73/100 on our public trust checks. Established
+  domain — registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:12.179Z'
 finalUrl: 'https://winningdomains.com/'
 reachable: true

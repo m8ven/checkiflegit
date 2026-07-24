@@ -1,10 +1,10 @@
 ---
 domain: hmest.com
 slug: hmest-com
-title: Is hmest.com Legit? Trust Signal Check
+title: Is hmest.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hmest.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hmest.com scores 73/100 on our public trust checks. Established domain —
+  registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:06.628Z'
 finalUrl: 'https://hmest.com/'
 reachable: true

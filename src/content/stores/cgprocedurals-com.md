@@ -1,10 +1,10 @@
 ---
 domain: cgprocedurals.com
 slug: cgprocedurals-com
-title: Is cgprocedurals.com Legit? Trust Signal Check
+title: Is cgprocedurals.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cgprocedurals.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cgprocedurals.com scores 88/100 on our public trust checks. Established domain
+  — registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:47.140Z'
 finalUrl: 'https://cgprocedurals.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: damevision.com
 slug: damevision-com
-title: Is damevision.com Legit? Trust Signal Check
+title: Is damevision.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for damevision.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  damevision.com scores 82/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:24.934Z'
 finalUrl: 'https://damevision.com/'
 reachable: true

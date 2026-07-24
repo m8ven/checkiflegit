@@ -1,10 +1,10 @@
 ---
 domain: mevpa.com.tr
 slug: mevpa-com-tr
-title: Is mevpa.com.tr Legit? Trust Signal Check
+title: Is mevpa.com.tr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for mevpa.com.tr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mevpa.com.tr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:52:33.490Z'
 finalUrl: 'https://mevpa.com.tr/'
 reachable: true

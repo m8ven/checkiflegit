@@ -1,10 +1,10 @@
 ---
 domain: arubawear.com
 slug: arubawear-com
-title: Is arubawear.com Legit? Trust Signal Check
+title: Is arubawear.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for arubawear.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arubawear.com scores 85/100 on our public trust checks. Established domain —
+  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:03.567Z'
 finalUrl: 'https://arubawear.com/'
 reachable: true

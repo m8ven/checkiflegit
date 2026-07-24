@@ -1,10 +1,10 @@
 ---
 domain: alfatah.pk
 slug: alfatah-pk
-title: Is alfatah.pk Legit? Trust Signal Check
+title: Is alfatah.pk Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for alfatah.pk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  alfatah.pk scores 100/100 on our public trust checks. Established domain —
+  registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:31.149Z'
 finalUrl: 'https://alfatah.pk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: metaero.org
 slug: metaero-org
-title: Is metaero.org Legit? Trust Signal Check
+title: Is metaero.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for metaero.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  metaero.org scores 100/100 on our public trust checks. Established domain —
+  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:00.879Z'
 finalUrl: 'https://metaero.org/'
 reachable: true

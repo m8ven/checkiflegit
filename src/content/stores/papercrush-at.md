@@ -1,10 +1,10 @@
 ---
 domain: papercrush.at
 slug: papercrush-at
-title: Is papercrush.at Legit? Trust Signal Check
+title: Is papercrush.at Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for papercrush.at: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  papercrush.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:44:17.884Z'
 finalUrl: 'https://papercrush.at/'
 reachable: true

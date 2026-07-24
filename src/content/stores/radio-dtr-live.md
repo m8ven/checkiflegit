@@ -1,10 +1,11 @@
 ---
 domain: radio-dtr.live
 slug: radio-dtr-live
-title: Is radio-dtr.live Legit? Trust Signal Check
+title: Is radio-dtr.live Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for radio-dtr.live: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  radio-dtr.live scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T11:57:50.065Z'
 finalUrl: 'https://radio-dtr.live/'
 reachable: true

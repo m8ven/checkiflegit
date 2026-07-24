@@ -1,10 +1,10 @@
 ---
 domain: tomsk.gorsesrf.ru
 slug: tomsk-gorsesrf-ru
-title: Is tomsk.gorsesrf.ru Legit? Trust Signal Check
+title: Is tomsk.gorsesrf.ru Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for tomsk.gorsesrf.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tomsk.gorsesrf.ru scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:58.435Z'
 finalUrl: 'https://tomsk.gorsesrf.ru/'
 reachable: true

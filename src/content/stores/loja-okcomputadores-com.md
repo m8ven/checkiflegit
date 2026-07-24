@@ -1,10 +1,10 @@
 ---
 domain: loja.okcomputadores.com
 slug: loja-okcomputadores-com
-title: Is loja.okcomputadores.com Legit? Trust Signal Check
+title: Is loja.okcomputadores.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for loja.okcomputadores.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  loja.okcomputadores.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:15.869Z'
 finalUrl: 'https://loja2.okcomputadores.com/'
 reachable: true

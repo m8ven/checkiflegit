@@ -1,10 +1,10 @@
 ---
 domain: planetmynd.com
 slug: planetmynd-com
-title: Is planetmynd.com Legit? Trust Signal Check
+title: Is planetmynd.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for planetmynd.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  planetmynd.com scores 76/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:53.963Z'
 finalUrl: 'https://planetmynd.com/'
 reachable: true

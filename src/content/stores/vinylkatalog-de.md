@@ -1,10 +1,10 @@
 ---
 domain: vinylkatalog.de
 slug: vinylkatalog-de
-title: Is vinylkatalog.de Legit? Trust Signal Check
+title: Is vinylkatalog.de Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for vinylkatalog.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vinylkatalog.de scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:49:46.657Z'
 finalUrl: 'https://vinylkatalog.de/'
 reachable: true

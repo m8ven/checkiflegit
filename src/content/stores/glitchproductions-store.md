@@ -1,10 +1,10 @@
 ---
 domain: glitchproductions.store
 slug: glitchproductions-store
-title: Is glitchproductions.store Legit? Trust Signal Check
+title: Is glitchproductions.store Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for glitchproductions.store: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  glitchproductions.store scores 88/100 on our public trust checks. Established
+  domain — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:50.897Z'
 finalUrl: 'https://glitchproductions.store/'
 reachable: true

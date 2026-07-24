@@ -1,10 +1,10 @@
 ---
 domain: forcan.com.ar
 slug: forcan-com-ar
-title: Is forcan.com.ar Legit? Trust Signal Check
+title: Is forcan.com.ar Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for forcan.com.ar: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  forcan.com.ar scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:27:56.248Z'
 finalUrl: 'https://forcan.com.ar/'
 reachable: true

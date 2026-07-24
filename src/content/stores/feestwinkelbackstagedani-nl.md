@@ -1,10 +1,11 @@
 ---
 domain: feestwinkelbackstagedani.nl
 slug: feestwinkelbackstagedani-nl
-title: Is feestwinkelbackstagedani.nl Legit? Trust Signal Check
+title: Is feestwinkelbackstagedani.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for feestwinkelbackstagedani.nl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  feestwinkelbackstagedani.nl scores 88/100 on our public trust checks.
+  Established domain — registered 4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:48:48.348Z'
 finalUrl: 'https://feestwinkelbackstagedani.nl/'
 reachable: true

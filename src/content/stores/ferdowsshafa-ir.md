@@ -1,10 +1,10 @@
 ---
 domain: ferdowsshafa.ir
 slug: ferdowsshafa-ir
-title: Is ferdowsshafa.ir Legit? Trust Signal Check
+title: Is ferdowsshafa.ir Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for ferdowsshafa.ir: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  ferdowsshafa.ir scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:44:51.272Z'
 finalUrl: 'https://ferdowsshafa.ir/'
 reachable: true

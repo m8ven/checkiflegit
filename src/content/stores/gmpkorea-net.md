@@ -1,10 +1,10 @@
 ---
 domain: gmpkorea.net
 slug: gmpkorea-net
-title: Is gmpkorea.net Legit? Trust Signal Check
+title: Is gmpkorea.net Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for gmpkorea.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gmpkorea.net scores 70/100 on our public trust checks. Established domain —
+  registered 6.9 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:17:49.669Z'
 finalUrl: 'http://gmpkorea.net/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ksaib.com
 slug: ksaib-com
-title: Is ksaib.com Legit? Trust Signal Check
+title: Is ksaib.com Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ksaib.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ksaib.com scores 67/100 on our public trust checks. No links to major social
+  platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T15:18:21.360Z'
 finalUrl: 'https://ksaib.com/'
 reachable: true

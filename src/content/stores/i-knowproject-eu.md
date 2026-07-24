@@ -1,10 +1,10 @@
 ---
 domain: i-knowproject.eu
 slug: i-knowproject-eu
-title: Is i-knowproject.eu Legit? Trust Signal Check
+title: Is i-knowproject.eu Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for i-knowproject.eu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  i-knowproject.eu scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:32:58.807Z'
 finalUrl: 'https://www.i-knowproject.eu/'
 reachable: true

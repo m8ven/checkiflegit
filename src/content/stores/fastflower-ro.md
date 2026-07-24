@@ -1,10 +1,10 @@
 ---
 domain: fastflower.ro
 slug: fastflower-ro
-title: Is fastflower.ro Legit? Trust Signal Check
+title: Is fastflower.ro Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for fastflower.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fastflower.ro scores 70/100 on our public trust checks. Established domain —
+  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:23.198Z'
 finalUrl: 'https://fastflower.ro/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: livanis.gr
 slug: livanis-gr
-title: Is livanis.gr Legit? Trust Signal Check
+title: Is livanis.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for livanis.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  livanis.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:26:44.485Z'
 finalUrl: 'https://www.livanis.gr/'
 reachable: true

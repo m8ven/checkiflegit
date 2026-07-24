@@ -1,10 +1,10 @@
 ---
 domain: teamsg.in
 slug: teamsg-in
-title: Is teamsg.in Legit? Trust Signal Check
+title: Is teamsg.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for teamsg.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  teamsg.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-24T21:46:49.839Z'
 finalUrl: 'https://shop.teamsg.in/'
 reachable: true

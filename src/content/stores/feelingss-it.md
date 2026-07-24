@@ -1,10 +1,10 @@
 ---
 domain: feelingss.it
 slug: feelingss-it
-title: Is feelingss.it Legit? Trust Signal Check
+title: Is feelingss.it Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for feelingss.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  feelingss.it scores 94/100 on our public trust checks. Established domain —
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:55.282Z'
 finalUrl: 'https://feelingss.it/'
 reachable: true

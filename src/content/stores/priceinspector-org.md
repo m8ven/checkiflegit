@@ -1,10 +1,10 @@
 ---
 domain: priceinspector.org
 slug: priceinspector-org
-title: Is priceinspector.org Legit? Trust Signal Check
+title: Is priceinspector.org Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for priceinspector.org: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  priceinspector.org scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T11:56:52.895Z'
 finalUrl: 'https://priceinspector.org/'
 reachable: true

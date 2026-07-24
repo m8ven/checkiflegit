@@ -1,10 +1,11 @@
 ---
 domain: teh.alnado.ru
 slug: teh-alnado-ru
-title: Is teh.alnado.ru Legit? Trust Signal Check
+title: Is teh.alnado.ru Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for teh.alnado.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  teh.alnado.ru scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:07:40.648Z'
 finalUrl: 'https://teh.alnado.ru/wpm/start/'
 reachable: true

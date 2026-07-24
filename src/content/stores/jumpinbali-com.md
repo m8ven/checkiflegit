@@ -1,10 +1,10 @@
 ---
 domain: jumpinbali.com
 slug: jumpinbali-com
-title: Is jumpinbali.com Legit? Trust Signal Check
+title: Is jumpinbali.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for jumpinbali.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jumpinbali.com scores 88/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:17:44.688Z'
 finalUrl: 'https://jumpinbali.com/'
 reachable: true

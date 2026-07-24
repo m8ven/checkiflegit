@@ -1,10 +1,10 @@
 ---
 domain: eufy.com
 slug: eufy-com
-title: Is eufy.com Legit? Trust Signal Check
+title: Is eufy.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for eufy.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  eufy.com scores 100/100 on our public trust checks. Established domain —
+  registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:27.334Z'
 finalUrl: 'https://www.eufy.com/'
 reachable: true

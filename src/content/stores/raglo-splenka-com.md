@@ -1,10 +1,10 @@
 ---
 domain: raglo-splenka.com
 slug: raglo-splenka-com
-title: Is raglo-splenka.com Legit? Trust Signal Check
+title: Is raglo-splenka.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for raglo-splenka.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  raglo-splenka.com scores 82/100 on our public trust checks. Established domain
+  — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:07.480Z'
 finalUrl: 'https://raglo-splenka.com/'
 reachable: true

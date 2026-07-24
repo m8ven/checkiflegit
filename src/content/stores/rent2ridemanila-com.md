@@ -1,10 +1,10 @@
 ---
 domain: rent2ridemanila.com
 slug: rent2ridemanila-com
-title: Is rent2ridemanila.com Legit? Trust Signal Check
+title: Is rent2ridemanila.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for rent2ridemanila.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rent2ridemanila.com scores 70/100 on our public trust checks. Established
+  domain — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:27.759Z'
 finalUrl: 'https://rent2ridemanila.com/'
 reachable: true

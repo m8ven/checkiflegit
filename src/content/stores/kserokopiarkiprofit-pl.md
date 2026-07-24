@@ -1,10 +1,10 @@
 ---
 domain: kserokopiarkiprofit.pl
 slug: kserokopiarkiprofit-pl
-title: Is kserokopiarkiprofit.pl Legit? Trust Signal Check
+title: Is kserokopiarkiprofit.pl Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for kserokopiarkiprofit.pl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kserokopiarkiprofit.pl scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:49:07.656Z'
 finalUrl: 'https://kserokopiarkiprofit.pl/'
 reachable: true

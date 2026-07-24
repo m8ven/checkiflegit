@@ -1,10 +1,10 @@
 ---
 domain: cubestores.nl
 slug: cubestores-nl
-title: Is cubestores.nl Legit? Trust Signal Check
+title: Is cubestores.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cubestores.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cubestores.nl scores 88/100 on our public trust checks. Established domain —
+  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:21.103Z'
 finalUrl: 'https://www.cubestores.nl/'
 reachable: true

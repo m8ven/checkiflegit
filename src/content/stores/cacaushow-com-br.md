@@ -1,10 +1,10 @@
 ---
 domain: cacaushow.com.br
 slug: cacaushow-com-br
-title: Is cacaushow.com.br Legit? Trust Signal Check
+title: Is cacaushow.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for cacaushow.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cacaushow.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-24T21:45:10.396Z'
 finalUrl: 'https://www.cacaushow.com.br/'
 reachable: true

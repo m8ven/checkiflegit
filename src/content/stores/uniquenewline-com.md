@@ -1,10 +1,10 @@
 ---
 domain: uniquenewline.com
 slug: uniquenewline-com
-title: Is uniquenewline.com Legit? Trust Signal Check
+title: Is uniquenewline.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for uniquenewline.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  uniquenewline.com scores 73/100 on our public trust checks. Established domain
+  — registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:28:56.266Z'
 finalUrl: 'https://www.uniquenewline.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: eqmusicblog.com
 slug: eqmusicblog-com
-title: Is eqmusicblog.com Legit? Trust Signal Check
+title: Is eqmusicblog.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for eqmusicblog.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eqmusicblog.com scores 88/100 on our public trust checks. Established domain —
+  registered 16.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:30.356Z'
 finalUrl: 'https://eqmusicblog.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dorontires.co.il
 slug: dorontires-co-il
-title: Is dorontires.co.il Legit? Trust Signal Check
+title: Is dorontires.co.il Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for dorontires.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dorontires.co.il scores 49/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:49:16.961Z'
 finalUrl: 'https://dorontires.co.il/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: mat-porec.hr
 slug: mat-porec-hr
-title: Is mat-porec.hr Legit? Trust Signal Check
+title: Is mat-porec.hr Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mat-porec.hr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mat-porec.hr scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:28:15.670Z'
 finalUrl: 'https://mat-porec.hr/'
 reachable: true

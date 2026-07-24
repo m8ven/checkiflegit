@@ -1,10 +1,10 @@
 ---
 domain: diananail-shop.it
 slug: diananail-shop-it
-title: Is diananail-shop.it Legit? Trust Signal Check
+title: Is diananail-shop.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for diananail-shop.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  diananail-shop.it scores 100/100 on our public trust checks. Established
+  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:04.720Z'
 finalUrl: 'https://www.diananail-shop.it/'
 reachable: true

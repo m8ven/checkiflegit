@@ -1,10 +1,10 @@
 ---
 domain: wanderprints.com
 slug: wanderprints-com
-title: Is wanderprints.com Legit? Trust Signal Check
+title: Is wanderprints.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for wanderprints.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wanderprints.com scores 100/100 on our public trust checks. Established domain
+  — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:29.859Z'
 finalUrl: 'https://wanderprints.com/'
 reachable: true

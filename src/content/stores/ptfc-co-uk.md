@@ -1,10 +1,10 @@
 ---
 domain: ptfc.co.uk
 slug: ptfc-co-uk
-title: Is ptfc.co.uk Legit? Trust Signal Check
+title: Is ptfc.co.uk Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ptfc.co.uk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ptfc.co.uk scores 70/100 on our public trust checks. Established domain —
+  registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:55.051Z'
 finalUrl: 'https://ptfc.co.uk/'
 reachable: true

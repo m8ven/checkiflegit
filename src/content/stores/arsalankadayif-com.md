@@ -1,10 +1,10 @@
 ---
 domain: arsalankadayif.com
 slug: arsalankadayif-com
-title: Is arsalankadayif.com Legit? Trust Signal Check
+title: Is arsalankadayif.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for arsalankadayif.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arsalankadayif.com scores 82/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:36.116Z'
 finalUrl: 'https://arsalankadayif.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gaaromatherapy.com
 slug: gaaromatherapy-com
-title: Is gaaromatherapy.com Legit? Trust Signal Check
+title: Is gaaromatherapy.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for gaaromatherapy.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  gaaromatherapy.com scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T14:51:56.492Z'
 finalUrl: 'https://www.gaaromatherapy.com/'
 reachable: true

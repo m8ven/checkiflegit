@@ -1,10 +1,10 @@
 ---
 domain: ebmg.com
 slug: ebmg-com
-title: Is ebmg.com Legit? Trust Signal Check
+title: Is ebmg.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ebmg.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ebmg.com scores 100/100 on our public trust checks. Established domain —
+  registered 28.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:15.864Z'
 finalUrl: 'https://ebmg.com/'
 reachable: true

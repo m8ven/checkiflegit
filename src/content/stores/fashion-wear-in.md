@@ -1,10 +1,10 @@
 ---
 domain: fashion-wear.in
 slug: fashion-wear-in
-title: Is fashion-wear.in Legit? Trust Signal Check
+title: Is fashion-wear.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fashion-wear.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fashion-wear.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:11:45.961Z'
 finalUrl: 'https://fashion-wear.in/'
 reachable: true

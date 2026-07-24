@@ -1,10 +1,10 @@
 ---
 domain: goldencollections.net
 slug: goldencollections-net
-title: Is goldencollections.net Legit? Trust Signal Check
+title: Is goldencollections.net Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for goldencollections.net: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  goldencollections.net scores 88/100 on our public trust checks. Established
+  domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:53.681Z'
 finalUrl: 'https://goldencollections.net/'
 reachable: true

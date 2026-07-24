@@ -1,10 +1,10 @@
 ---
 domain: indefiniteleave.com.au
 slug: indefiniteleave-com-au
-title: Is indefiniteleave.com.au Legit? Trust Signal Check
+title: Is indefiniteleave.com.au Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for indefiniteleave.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  indefiniteleave.com.au scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:49:29.557Z'
 finalUrl: 'https://indefiniteleave.com.au/'
 reachable: true

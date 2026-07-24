@@ -1,10 +1,10 @@
 ---
 domain: tamvandatranghuy.com
 slug: tamvandatranghuy-com
-title: Is tamvandatranghuy.com Legit? Trust Signal Check
+title: Is tamvandatranghuy.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for tamvandatranghuy.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tamvandatranghuy.com scores 82/100 on our public trust checks. Established
+  domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:02.972Z'
 finalUrl: 'https://tamvandatranghuy.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: edituralumen.ro
 slug: edituralumen-ro
-title: Is edituralumen.ro Legit? Trust Signal Check
+title: Is edituralumen.ro Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for edituralumen.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  edituralumen.ro scores 88/100 on our public trust checks. Established domain —
+  registered 18.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:31.502Z'
 finalUrl: 'https://edituralumen.ro/'
 reachable: true

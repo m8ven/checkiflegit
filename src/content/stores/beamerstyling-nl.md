@@ -1,10 +1,10 @@
 ---
 domain: beamerstyling.nl
 slug: beamerstyling-nl
-title: Is beamerstyling.nl Legit? Trust Signal Check
+title: Is beamerstyling.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for beamerstyling.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beamerstyling.nl scores 82/100 on our public trust checks. Established domain
+  — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:34.174Z'
 finalUrl: 'https://beamerstyling.nl/'
 reachable: true

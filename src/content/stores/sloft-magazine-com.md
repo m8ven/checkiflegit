@@ -1,10 +1,10 @@
 ---
 domain: sloft-magazine.com
 slug: sloft-magazine-com
-title: Is sloft-magazine.com Legit? Trust Signal Check
+title: Is sloft-magazine.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for sloft-magazine.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sloft-magazine.com scores 76/100 on our public trust checks. Established
+  domain — registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:27.197Z'
 finalUrl: 'https://www.sloft-magazine.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: hdmtrading.co.uk
 slug: hdmtrading-co-uk
-title: Is hdmtrading.co.uk Legit? Trust Signal Check
+title: Is hdmtrading.co.uk Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for hdmtrading.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hdmtrading.co.uk scores 94/100 on our public trust checks. Established domain
+  — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:13.151Z'
 finalUrl: 'https://hdmtrading.co.uk/'
 reachable: true

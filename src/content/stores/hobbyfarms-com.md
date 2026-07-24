@@ -1,10 +1,10 @@
 ---
 domain: hobbyfarms.com
 slug: hobbyfarms-com
-title: Is hobbyfarms.com Legit? Trust Signal Check
+title: Is hobbyfarms.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hobbyfarms.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hobbyfarms.com scores 100/100 on our public trust checks. Established domain —
+  registered 27.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:07.492Z'
 finalUrl: 'https://www.hobbyfarms.com/'
 reachable: true

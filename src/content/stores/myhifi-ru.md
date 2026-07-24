@@ -1,10 +1,10 @@
 ---
 domain: myhifi.ru
 slug: myhifi-ru
-title: Is myhifi.ru Legit? Trust Signal Check
+title: Is myhifi.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for myhifi.ru: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  myhifi.ru scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:37:57.659Z'
 finalUrl: 'https://myhifi.ru/'
 reachable: true

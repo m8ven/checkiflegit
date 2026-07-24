@@ -1,10 +1,10 @@
 ---
 domain: asapservice.com.ua
 slug: asapservice-com-ua
-title: Is asapservice.com.ua Legit? Trust Signal Check
+title: Is asapservice.com.ua Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for asapservice.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  asapservice.com.ua scores 70/100 on our public trust checks. Established
+  domain — registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:36.288Z'
 finalUrl: 'https://www.asapservice.com.ua/'
 reachable: true

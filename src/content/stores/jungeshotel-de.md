@@ -1,10 +1,11 @@
 ---
 domain: jungeshotel.de
 slug: jungeshotel-de
-title: Is jungeshotel.de Legit? Trust Signal Check
+title: Is jungeshotel.de Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for jungeshotel.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jungeshotel.de scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:40:43.916Z'
 finalUrl: 'https://jungeshotel.de/'
 reachable: true

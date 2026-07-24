@@ -1,10 +1,10 @@
 ---
 domain: jeunesseretrouvee.fr
 slug: jeunesseretrouvee-fr
-title: Is jeunesseretrouvee.fr Legit? Trust Signal Check
+title: Is jeunesseretrouvee.fr Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for jeunesseretrouvee.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  jeunesseretrouvee.fr scores 76/100 on our public trust checks. Established
+  domain — registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:49.114Z'
 finalUrl: 'https://jeunesseretrouvee.fr/'
 reachable: true

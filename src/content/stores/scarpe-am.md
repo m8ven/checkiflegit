@@ -1,10 +1,11 @@
 ---
 domain: scarpe.am
 slug: scarpe-am
-title: Is scarpe.am Legit? Trust Signal Check
+title: Is scarpe.am Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for scarpe.am: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  scarpe.am scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T15:40:16.274Z'
 finalUrl: 'https://www.scarpe.am/'
 reachable: true

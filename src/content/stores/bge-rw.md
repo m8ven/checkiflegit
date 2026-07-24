@@ -1,10 +1,10 @@
 ---
 domain: bge.rw
 slug: bge-rw
-title: Is bge.rw Legit? Trust Signal Check
+title: Is bge.rw Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bge.rw: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  bge.rw scores 88/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:42.315Z'
 finalUrl: 'https://www.bge.rw/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: maskas.com
 slug: maskas-com
-title: Is maskas.com Legit? Trust Signal Check
+title: Is maskas.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for maskas.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  maskas.com scores 73/100 on our public trust checks. Established domain —
+  registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:20.230Z'
 finalUrl: 'https://maskas.com/'
 reachable: true

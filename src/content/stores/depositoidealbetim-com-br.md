@@ -1,10 +1,10 @@
 ---
 domain: depositoidealbetim.com.br
 slug: depositoidealbetim-com-br
-title: Is depositoidealbetim.com.br Legit? Trust Signal Check
+title: Is depositoidealbetim.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for depositoidealbetim.com.br: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  depositoidealbetim.com.br scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:14.317Z'
 finalUrl: 'https://depositoidealbetim.com.br/'
 reachable: true

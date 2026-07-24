@@ -1,10 +1,11 @@
 ---
 domain: beminimalist.co
 slug: beminimalist-co
-title: Is beminimalist.co Legit? Trust Signal Check
+title: Is beminimalist.co Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for beminimalist.co: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beminimalist.co scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-24T21:46:34.323Z'
 finalUrl: 'https://beminimalist.co/'
 reachable: true

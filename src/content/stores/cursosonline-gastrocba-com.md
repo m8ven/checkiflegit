@@ -1,11 +1,10 @@
 ---
 domain: cursosonline.gastrocba.com
 slug: cursosonline-gastrocba-com
-title: Is cursosonline.gastrocba.com Legit? Trust Signal Check
+title: Is cursosonline.gastrocba.com Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for cursosonline.gastrocba.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  cursosonline.gastrocba.com scores 44/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T14:52:20.929Z'
 finalUrl: 'https://cursosonline.gastrocba.com/'
 reachable: true

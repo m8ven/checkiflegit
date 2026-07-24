@@ -1,10 +1,10 @@
 ---
 domain: crepes-bretonnes.fr
 slug: crepes-bretonnes-fr
-title: Is crepes-bretonnes.fr Legit? Trust Signal Check
+title: Is crepes-bretonnes.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for crepes-bretonnes.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  crepes-bretonnes.fr scores 100/100 on our public trust checks. Established
+  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:22.999Z'
 finalUrl: 'https://crepes-bretonnes.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: raund.in.ua
 slug: raund-in-ua
-title: Is raund.in.ua Legit? Trust Signal Check
+title: Is raund.in.ua Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for raund.in.ua: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  raund.in.ua scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:03:43.021Z'
 finalUrl: 'https://raund.in.ua/'
 reachable: true

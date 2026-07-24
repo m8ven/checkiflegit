@@ -1,10 +1,10 @@
 ---
 domain: e-home.dk
 slug: e-home-dk
-title: Is e-home.dk Legit? Trust Signal Check
+title: Is e-home.dk Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for e-home.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  e-home.dk scores 76/100 on our public trust checks. Established domain —
+  registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:03.248Z'
 finalUrl: 'https://e-home.dk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lobs.com.br
 slug: lobs-com-br
-title: Is lobs.com.br Legit? Trust Signal Check
+title: Is lobs.com.br Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for lobs.com.br: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lobs.com.br scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:50:29.869Z'
 finalUrl: 'https://lobs.com.br/'
 reachable: true

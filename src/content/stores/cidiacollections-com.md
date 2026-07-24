@@ -1,10 +1,10 @@
 ---
 domain: cidiacollections.com
 slug: cidiacollections-com
-title: Is cidiacollections.com Legit? Trust Signal Check
+title: Is cidiacollections.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cidiacollections.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cidiacollections.com scores 88/100 on our public trust checks. Established
+  domain — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:04.275Z'
 finalUrl: 'https://cidiacollections.com/'
 reachable: true

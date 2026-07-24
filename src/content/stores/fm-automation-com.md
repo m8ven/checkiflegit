@@ -1,10 +1,10 @@
 ---
 domain: fm-automation.com
 slug: fm-automation-com
-title: Is fm-automation.com Legit? Trust Signal Check
+title: Is fm-automation.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for fm-automation.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fm-automation.com scores 73/100 on our public trust checks. Established domain
+  — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:29.285Z'
 finalUrl: 'https://fm-automation.com/'
 reachable: true

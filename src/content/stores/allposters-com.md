@@ -1,10 +1,10 @@
 ---
 domain: allposters.com
 slug: allposters-com
-title: Is allposters.com Legit? Trust Signal Check
+title: Is allposters.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for allposters.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  allposters.com scores 76/100 on our public trust checks. Established domain —
+  registered 27.7 years ago.
 fetchedAt: '2026-06-24T21:45:11.045Z'
 finalUrl: 'https://www.allposters.com/'
 reachable: true

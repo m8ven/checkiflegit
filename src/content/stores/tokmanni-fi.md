@@ -1,10 +1,10 @@
 ---
 domain: tokmanni.fi
 slug: tokmanni-fi
-title: Is tokmanni.fi Legit? Trust Signal Check
+title: Is tokmanni.fi Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tokmanni.fi: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tokmanni.fi scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:50.554Z'
 finalUrl: 'https://www.tokmanni.fi/'
 reachable: true

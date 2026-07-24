@@ -1,10 +1,10 @@
 ---
 domain: alanspicer.com
 slug: alanspicer-com
-title: Is alanspicer.com Legit? Trust Signal Check
+title: Is alanspicer.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for alanspicer.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alanspicer.com scores 100/100 on our public trust checks. Established domain —
+  registered 18.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:45.812Z'
 finalUrl: 'https://alanspicer.com/'
 reachable: true

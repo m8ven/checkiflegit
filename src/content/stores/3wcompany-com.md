@@ -1,10 +1,10 @@
 ---
 domain: 3wcompany.com
 slug: 3wcompany-com
-title: Is 3wcompany.com Legit? Trust Signal Check
+title: Is 3wcompany.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for 3wcompany.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  3wcompany.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:45:13.529Z'
 finalUrl: 'https://3wcompany.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: monartfirenze.com
 slug: monartfirenze-com
-title: Is monartfirenze.com Legit? Trust Signal Check
+title: Is monartfirenze.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for monartfirenze.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  monartfirenze.com scores 100/100 on our public trust checks. Established
+  domain — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:05.177Z'
 finalUrl: 'https://www.monartfirenze.com/'
 reachable: true

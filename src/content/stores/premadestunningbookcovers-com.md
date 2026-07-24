@@ -1,10 +1,11 @@
 ---
 domain: premadestunningbookcovers.com
 slug: premadestunningbookcovers-com
-title: Is premadestunningbookcovers.com Legit? Trust Signal Check
+title: Is premadestunningbookcovers.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for premadestunningbookcovers.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  premadestunningbookcovers.com scores 88/100 on our public trust checks.
+  Established domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:48:26.904Z'
 finalUrl: 'https://premadestunningbookcovers.com/'
 reachable: true

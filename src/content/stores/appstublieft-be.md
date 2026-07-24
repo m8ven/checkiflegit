@@ -1,10 +1,10 @@
 ---
 domain: appstublieft.be
 slug: appstublieft-be
-title: Is appstublieft.be Legit? Trust Signal Check
+title: Is appstublieft.be Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for appstublieft.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  appstublieft.be scores 100/100 on our public trust checks. Established domain
+  — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:55.800Z'
 finalUrl: 'https://appstublieft.be/'
 reachable: true

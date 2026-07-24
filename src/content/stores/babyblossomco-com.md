@@ -1,10 +1,10 @@
 ---
 domain: babyblossomco.com
 slug: babyblossomco-com
-title: Is babyblossomco.com Legit? Trust Signal Check
+title: Is babyblossomco.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for babyblossomco.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  babyblossomco.com scores 88/100 on our public trust checks. Established domain
+  — registered 16.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:57.793Z'
 finalUrl: 'https://babyblossomco.com/'
 reachable: true

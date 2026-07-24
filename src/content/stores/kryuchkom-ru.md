@@ -1,10 +1,10 @@
 ---
 domain: kryuchkom.ru
 slug: kryuchkom-ru
-title: Is kryuchkom.ru Legit? Trust Signal Check
+title: Is kryuchkom.ru Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for kryuchkom.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  kryuchkom.ru scores 40/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:32:59.395Z'
 finalUrl: 'https://kryuchkom.ru/'
 reachable: true

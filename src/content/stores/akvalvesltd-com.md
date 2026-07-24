@@ -1,10 +1,10 @@
 ---
 domain: akvalvesltd.com
 slug: akvalvesltd-com
-title: Is akvalvesltd.com Legit? Trust Signal Check
+title: Is akvalvesltd.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for akvalvesltd.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  akvalvesltd.com scores 100/100 on our public trust checks. Established domain
+  — registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:52.506Z'
 finalUrl: 'https://www.akvalvesltd.com/'
 reachable: true

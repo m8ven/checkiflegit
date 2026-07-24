@@ -1,10 +1,10 @@
 ---
 domain: julianazakzuk.com
 slug: julianazakzuk-com
-title: Is julianazakzuk.com Legit? Trust Signal Check
+title: Is julianazakzuk.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for julianazakzuk.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  julianazakzuk.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:40:39.886Z'
 finalUrl: 'https://julianazakzuk.com/'
 reachable: true

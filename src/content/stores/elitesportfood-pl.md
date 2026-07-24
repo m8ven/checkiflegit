@@ -1,10 +1,10 @@
 ---
 domain: elitesportfood.pl
 slug: elitesportfood-pl
-title: Is elitesportfood.pl Legit? Trust Signal Check
+title: Is elitesportfood.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for elitesportfood.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elitesportfood.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:26:29.448Z'
 finalUrl: 'https://elitesportfood.pl/'
 reachable: true

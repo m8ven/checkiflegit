@@ -1,10 +1,10 @@
 ---
 domain: ttslillavra.se
 slug: ttslillavra-se
-title: Is ttslillavra.se Legit? Trust Signal Check
+title: Is ttslillavra.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ttslillavra.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ttslillavra.se scores 88/100 on our public trust checks. Established domain —
+  registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:34.334Z'
 finalUrl: 'https://ttslillavra.se/'
 reachable: true

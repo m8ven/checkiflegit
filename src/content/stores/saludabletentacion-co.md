@@ -1,10 +1,10 @@
 ---
 domain: saludabletentacion.co
 slug: saludabletentacion-co
-title: Is saludabletentacion.co Legit? Trust Signal Check
+title: Is saludabletentacion.co Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for saludabletentacion.co: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  saludabletentacion.co scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:02.099Z'
 finalUrl: 'https://saludabletentacion.co/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: affigueiredo.com.br
 slug: affigueiredo-com-br
-title: Is affigueiredo.com.br Legit? Trust Signal Check
+title: Is affigueiredo.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for affigueiredo.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  affigueiredo.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:37:41.129Z'
 finalUrl: 'https://affigueiredo.com.br/'
 reachable: true

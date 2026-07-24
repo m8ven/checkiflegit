@@ -1,10 +1,10 @@
 ---
 domain: maximumdarts.com
 slug: maximumdarts-com
-title: Is maximumdarts.com Legit? Trust Signal Check
+title: Is maximumdarts.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for maximumdarts.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  maximumdarts.com scores 64/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:16:53.494Z'
 finalUrl: 'https://maximumdarts.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ojaola.com
 slug: ojaola-com
-title: Is ojaola.com Legit? Trust Signal Check
+title: Is ojaola.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ojaola.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ojaola.com scores 82/100 on our public trust checks. Established domain —
+  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:26.984Z'
 finalUrl: 'https://ojaola.com/'
 reachable: true

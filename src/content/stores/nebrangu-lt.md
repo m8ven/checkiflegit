@@ -1,10 +1,10 @@
 ---
 domain: nebrangu.lt
 slug: nebrangu-lt
-title: Is nebrangu.lt Legit? Trust Signal Check
+title: Is nebrangu.lt Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nebrangu.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nebrangu.lt scores 73/100 on our public trust checks. Established domain —
+  registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:57.266Z'
 finalUrl: 'https://nebrangu.lt/'
 reachable: true

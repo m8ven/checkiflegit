@@ -1,10 +1,11 @@
 ---
 domain: wiaraitecza.pl
 slug: wiaraitecza-pl
-title: Is wiaraitecza.pl Legit? Trust Signal Check
+title: Is wiaraitecza.pl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for wiaraitecza.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wiaraitecza.pl scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:50:40.994Z'
 finalUrl: 'https://wiaraitecza.pl/'
 reachable: true

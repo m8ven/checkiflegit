@@ -1,10 +1,10 @@
 ---
 domain: ccwv.slidefeesource.com
 slug: ccwv-slidefeesource-com
-title: Is ccwv.slidefeesource.com Legit? Trust Signal Check
+title: Is ccwv.slidefeesource.com Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for ccwv.slidefeesource.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ccwv.slidefeesource.com scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:36.724Z'
 finalUrl: 'https://ccwv.slidefeesource.com/'
 reachable: true

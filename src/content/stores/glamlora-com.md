@@ -1,10 +1,10 @@
 ---
 domain: glamlora.com
 slug: glamlora-com
-title: Is glamlora.com Legit? Trust Signal Check
+title: Is glamlora.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for glamlora.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  glamlora.com scores 100/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:34.581Z'
 finalUrl: 'https://www.glamlora.com/'
 reachable: true

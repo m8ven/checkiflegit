@@ -1,10 +1,10 @@
 ---
 domain: labellearcho.in
 slug: labellearcho-in
-title: Is labellearcho.in Legit? Trust Signal Check
+title: Is labellearcho.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for labellearcho.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  labellearcho.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:43:49.367Z'
 finalUrl: 'https://labellearcho.in/'
 reachable: true

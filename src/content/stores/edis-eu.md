@@ -1,10 +1,10 @@
 ---
 domain: edis.eu
 slug: edis-eu
-title: Is edis.eu Legit? Trust Signal Check
+title: Is edis.eu Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for edis.eu: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  edis.eu scores 79/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T03:40:30.193Z'
 finalUrl: 'https://edis.eu/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: merrickautomuseum.com
 slug: merrickautomuseum-com
-title: Is merrickautomuseum.com Legit? Trust Signal Check
+title: Is merrickautomuseum.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for merrickautomuseum.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  merrickautomuseum.com scores 88/100 on our public trust checks. Established
+  domain — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:05.440Z'
 finalUrl: 'https://merrickautomuseum.com/'
 reachable: true

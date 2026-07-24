@@ -1,10 +1,10 @@
 ---
 domain: salusport.com
 slug: salusport-com
-title: Is salusport.com Legit? Trust Signal Check
+title: Is salusport.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for salusport.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  salusport.com scores 100/100 on our public trust checks. Established domain —
+  registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:59.057Z'
 finalUrl: 'https://salusport.com/'
 reachable: true

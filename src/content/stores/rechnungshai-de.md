@@ -1,10 +1,10 @@
 ---
 domain: rechnungshai.de
 slug: rechnungshai-de
-title: Is rechnungshai.de Legit? Trust Signal Check
+title: Is rechnungshai.de Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for rechnungshai.de: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  rechnungshai.de scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:21:04.821Z'
 finalUrl: 'https://www.rechnungshai.de/'
 reachable: true

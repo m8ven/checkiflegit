@@ -1,10 +1,10 @@
 ---
 domain: wooooshskates.com
 slug: wooooshskates-com
-title: Is wooooshskates.com Legit? Trust Signal Check
+title: Is wooooshskates.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for wooooshskates.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wooooshskates.com scores 88/100 on our public trust checks. Established domain
+  — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:37:06.784Z'
 finalUrl: 'https://wooooshskates.com/'
 reachable: true

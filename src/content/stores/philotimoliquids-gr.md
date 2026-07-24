@@ -1,10 +1,10 @@
 ---
 domain: philotimoliquids.gr
 slug: philotimoliquids-gr
-title: Is philotimoliquids.gr Legit? Trust Signal Check
+title: Is philotimoliquids.gr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for philotimoliquids.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  philotimoliquids.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:32:29.531Z'
 finalUrl: 'https://www.philotimoliquids.gr/'
 reachable: true

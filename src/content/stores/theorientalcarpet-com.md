@@ -1,10 +1,11 @@
 ---
 domain: theorientalcarpet.com
 slug: theorientalcarpet-com
-title: Is theorientalcarpet.com Legit? Trust Signal Check
+title: Is theorientalcarpet.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for theorientalcarpet.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  theorientalcarpet.com scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:35:56.357Z'
 finalUrl: 'https://www.theorientalcarpet.com/'
 reachable: true

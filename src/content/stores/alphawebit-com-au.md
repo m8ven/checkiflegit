@@ -1,10 +1,10 @@
 ---
 domain: alphawebit.com.au
 slug: alphawebit-com-au
-title: Is alphawebit.com.au Legit? Trust Signal Check
+title: Is alphawebit.com.au Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for alphawebit.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alphawebit.com.au scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:44:28.034Z'
 finalUrl: 'https://alphawebit.com.au/'
 reachable: true

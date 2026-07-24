@@ -1,11 +1,10 @@
 ---
 domain: novaeraonline.com.br
 slug: novaeraonline-com-br
-title: Is novaeraonline.com.br Legit? Trust Signal Check
+title: Is novaeraonline.com.br Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for novaeraonline.com.br: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  novaeraonline.com.br scores 40/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:55:39.749Z'
 finalUrl: 'https://novaeraonline.com.br/'
 reachable: true

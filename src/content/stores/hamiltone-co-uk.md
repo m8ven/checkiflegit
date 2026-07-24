@@ -1,10 +1,10 @@
 ---
 domain: hamiltone.co.uk
 slug: hamiltone-co-uk
-title: Is hamiltone.co.uk Legit? Trust Signal Check
+title: Is hamiltone.co.uk Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for hamiltone.co.uk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hamiltone.co.uk scores 66/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:36:28.044Z'
 finalUrl: 'https://hamiltone.co.uk/'
 reachable: true

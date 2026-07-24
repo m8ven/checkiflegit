@@ -1,10 +1,10 @@
 ---
 domain: acuamain.com
 slug: acuamain-com
-title: Is acuamain.com Legit? Trust Signal Check
+title: Is acuamain.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for acuamain.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  acuamain.com scores 76/100 on our public trust checks. Established domain —
+  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:35.656Z'
 finalUrl: 'https://www.acuamain.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: feuerstelleshop.de
 slug: feuerstelleshop-de
-title: Is feuerstelleshop.de Legit? Trust Signal Check
+title: Is feuerstelleshop.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for feuerstelleshop.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  feuerstelleshop.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:30:46.273Z'
 finalUrl: 'https://www.feuerstelleshop.de/'
 reachable: true

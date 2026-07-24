@@ -1,10 +1,10 @@
 ---
 domain: tenibiza.com
 slug: tenibiza-com
-title: Is tenibiza.com Legit? Trust Signal Check
+title: Is tenibiza.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for tenibiza.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tenibiza.com scores 100/100 on our public trust checks. Established domain —
+  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:14:42.024Z'
 finalUrl: 'https://tenibiza.com/'
 reachable: true

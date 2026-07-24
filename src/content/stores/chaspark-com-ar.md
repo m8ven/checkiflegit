@@ -1,10 +1,10 @@
 ---
 domain: chaspark.com.ar
 slug: chaspark-com-ar
-title: Is chaspark.com.ar Legit? Trust Signal Check
+title: Is chaspark.com.ar Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for chaspark.com.ar: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chaspark.com.ar scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:05:51.969Z'
 finalUrl: 'https://chaspark.com.ar/'
 reachable: true

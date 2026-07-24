@@ -1,10 +1,10 @@
 ---
 domain: new-art.bg
 slug: new-art-bg
-title: Is new-art.bg Legit? Trust Signal Check
+title: Is new-art.bg Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for new-art.bg: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  new-art.bg scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:36:43.838Z'
 finalUrl: 'https://new-art.bg/'
 reachable: true

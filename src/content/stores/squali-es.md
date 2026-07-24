@@ -1,10 +1,11 @@
 ---
 domain: squali.es
 slug: squali-es
-title: Is squali.es Legit? Trust Signal Check
+title: Is squali.es Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for squali.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  squali.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:39:33.543Z'
 finalUrl: 'https://squali.es/'
 reachable: true

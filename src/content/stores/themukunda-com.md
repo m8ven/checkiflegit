@@ -1,10 +1,10 @@
 ---
 domain: themukunda.com
 slug: themukunda-com
-title: Is themukunda.com Legit? Trust Signal Check
+title: Is themukunda.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for themukunda.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  themukunda.com scores 100/100 on our public trust checks. Established domain —
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:05.203Z'
 finalUrl: 'https://www.themukunda.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: qubit.institute
 slug: qubit-institute
-title: Is qubit.institute Legit? Trust Signal Check
+title: Is qubit.institute Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for qubit.institute: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  qubit.institute scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:05:02.526Z'
 finalUrl: 'https://qubit.institute/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: shelly.cloud
 slug: shelly-cloud
-title: Is shelly.cloud Legit? Trust Signal Check
+title: Is shelly.cloud Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for shelly.cloud: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  shelly.cloud scores 88/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:37.755Z'
 finalUrl: 'https://www.shelly.com/'
 reachable: true

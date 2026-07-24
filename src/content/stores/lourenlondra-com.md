@@ -1,10 +1,10 @@
 ---
 domain: lourenlondra.com
 slug: lourenlondra-com
-title: Is lourenlondra.com Legit? Trust Signal Check
+title: Is lourenlondra.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lourenlondra.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lourenlondra.com scores 88/100 on our public trust checks. Established domain
+  — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:27.472Z'
 finalUrl: 'https://lourenlondra.com/'
 reachable: true

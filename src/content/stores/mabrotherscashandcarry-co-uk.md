@@ -1,10 +1,11 @@
 ---
 domain: mabrotherscashandcarry.co.uk
 slug: mabrotherscashandcarry-co-uk
-title: Is mabrotherscashandcarry.co.uk Legit? Trust Signal Check
+title: Is mabrotherscashandcarry.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mabrotherscashandcarry.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mabrotherscashandcarry.co.uk scores 88/100 on our public trust checks.
+  Established domain — registered 6.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:23:24.684Z'
 finalUrl: 'https://www.mabrotherscashandcarry.co.uk/'
 reachable: true

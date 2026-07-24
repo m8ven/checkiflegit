@@ -1,10 +1,10 @@
 ---
 domain: f31.sg
 slug: f31-sg
-title: Is f31.sg Legit? Trust Signal Check
+title: Is f31.sg Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for f31.sg: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  f31.sg scores 100/100 on our public trust checks. Established domain —
+  registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:27.042Z'
 finalUrl: 'https://f31.sg/'
 reachable: true

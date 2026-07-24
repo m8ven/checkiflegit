@@ -1,10 +1,10 @@
 ---
 domain: smg.co.za
 slug: smg-co-za
-title: Is smg.co.za Legit? Trust Signal Check
+title: Is smg.co.za Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for smg.co.za: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  smg.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:57:32.914Z'
 finalUrl: 'https://smg.co.za/'
 reachable: true

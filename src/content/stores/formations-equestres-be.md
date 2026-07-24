@@ -1,10 +1,10 @@
 ---
 domain: formations-equestres.be
 slug: formations-equestres-be
-title: Is formations-equestres.be Legit? Trust Signal Check
+title: Is formations-equestres.be Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for formations-equestres.be: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  formations-equestres.be scores 76/100 on our public trust checks. Established
+  domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:27.361Z'
 finalUrl: 'https://formations-equestres.be/'
 reachable: true

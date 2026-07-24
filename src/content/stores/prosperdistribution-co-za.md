@@ -1,10 +1,10 @@
 ---
 domain: prosperdistribution.co.za
 slug: prosperdistribution-co-za
-title: Is prosperdistribution.co.za Legit? Trust Signal Check
+title: Is prosperdistribution.co.za Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for prosperdistribution.co.za: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  prosperdistribution.co.za scores 61/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T12:42:03.066Z'
 finalUrl: 'https://www.prosperdistribution.co.za/'
 reachable: true

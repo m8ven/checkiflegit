@@ -1,10 +1,10 @@
 ---
 domain: canvarto.de
 slug: canvarto-de
-title: Is canvarto.de Legit? Trust Signal Check
+title: Is canvarto.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for canvarto.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  canvarto.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:21:07.816Z'
 finalUrl: 'https://canvarto.de/'
 reachable: true

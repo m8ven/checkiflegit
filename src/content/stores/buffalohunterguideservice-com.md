@@ -1,10 +1,11 @@
 ---
 domain: buffalohunterguideservice.com
 slug: buffalohunterguideservice-com
-title: Is buffalohunterguideservice.com Legit? Trust Signal Check
+title: Is buffalohunterguideservice.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for buffalohunterguideservice.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  buffalohunterguideservice.com scores 100/100 on our public trust checks.
+  Established domain — registered 11.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:37:56.750Z'
 finalUrl: 'https://buffalohunterguideservice.com/'
 reachable: true

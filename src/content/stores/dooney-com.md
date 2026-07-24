@@ -1,10 +1,10 @@
 ---
 domain: dooney.com
 slug: dooney-com
-title: Is dooney.com Legit? Trust Signal Check
+title: Is dooney.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dooney.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dooney.com scores 100/100 on our public trust checks. Established domain —
+  registered 30.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:21.033Z'
 finalUrl: 'https://www.dooney.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tidentech.com
 slug: tidentech-com
-title: Is tidentech.com Legit? Trust Signal Check
+title: Is tidentech.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for tidentech.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tidentech.com scores 82/100 on our public trust checks. Established domain —
+  registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:18.259Z'
 finalUrl: 'https://tidentech.com/'
 reachable: true

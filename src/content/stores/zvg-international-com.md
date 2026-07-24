@@ -1,10 +1,10 @@
 ---
 domain: zvg-international.com
 slug: zvg-international-com
-title: Is zvg-international.com Legit? Trust Signal Check
+title: Is zvg-international.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for zvg-international.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  zvg-international.com scores 85/100 on our public trust checks. Established
+  domain — registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:27.751Z'
 finalUrl: 'https://zvg-international.com/'
 reachable: true

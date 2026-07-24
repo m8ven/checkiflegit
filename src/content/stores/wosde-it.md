@@ -1,10 +1,10 @@
 ---
 domain: wosde.it
 slug: wosde-it
-title: Is wosde.it Legit? Trust Signal Check
+title: Is wosde.it Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for wosde.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  wosde.it scores 88/100 on our public trust checks. Established domain —
+  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:52.432Z'
 finalUrl: 'https://wosde.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: brass-market.com
 slug: brass-market-com
-title: Is brass-market.com Legit? Trust Signal Check
+title: Is brass-market.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for brass-market.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brass-market.com scores 70/100 on our public trust checks. Established domain
+  — registered 5.3 years ago.
 fetchedAt: '2026-06-25T15:37:42.232Z'
 finalUrl: 'https://brass-market.com/'
 reachable: true

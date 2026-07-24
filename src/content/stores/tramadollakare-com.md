@@ -1,10 +1,10 @@
 ---
 domain: tramadollakare.com
 slug: tramadollakare-com
-title: Is tramadollakare.com Legit? Trust Signal Check
+title: Is tramadollakare.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for tramadollakare.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tramadollakare.com scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:06:36.082Z'
 finalUrl: 'https://tramadollakare.com/'
 reachable: true

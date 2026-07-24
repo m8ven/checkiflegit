@@ -1,10 +1,10 @@
 ---
 domain: mayaeid.com
 slug: mayaeid-com
-title: Is mayaeid.com Legit? Trust Signal Check
+title: Is mayaeid.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mayaeid.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mayaeid.com scores 73/100 on our public trust checks. Established domain —
+  registered 18.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:38.166Z'
 finalUrl: 'https://mayaeid.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: atelier-lesoon.com
 slug: atelier-lesoon-com
-title: Is atelier-lesoon.com Legit? Trust Signal Check
+title: Is atelier-lesoon.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for atelier-lesoon.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  atelier-lesoon.com scores 73/100 on our public trust checks. Established
+  domain — registered 19.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:36.184Z'
 finalUrl: 'https://atelier-lesoon.com/'
 reachable: true

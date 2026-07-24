@@ -1,10 +1,10 @@
 ---
 domain: barctwo.com
 slug: barctwo-com
-title: Is barctwo.com Legit? Trust Signal Check
+title: Is barctwo.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for barctwo.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  barctwo.com scores 43/100 on our public trust checks. No links to major social
+  platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T15:36:26.905Z'
 finalUrl: 'https://barctwo.com/'
 reachable: true

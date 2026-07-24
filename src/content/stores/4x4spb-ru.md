@@ -1,10 +1,10 @@
 ---
 domain: 4x4spb.ru
 slug: 4x4spb-ru
-title: Is 4x4spb.ru Legit? Trust Signal Check
+title: Is 4x4spb.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 4x4spb.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  4x4spb.ru scores 73/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:08.590Z'
 finalUrl: 'https://4x4spb.ru/'
 reachable: true

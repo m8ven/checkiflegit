@@ -1,10 +1,10 @@
 ---
 domain: customfabrics.co.uk
 slug: customfabrics-co-uk
-title: Is customfabrics.co.uk Legit? Trust Signal Check
+title: Is customfabrics.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for customfabrics.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  customfabrics.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:34.124Z'
 finalUrl: 'https://customfabrics.co.uk/'
 reachable: true

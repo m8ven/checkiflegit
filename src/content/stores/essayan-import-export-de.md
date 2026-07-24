@@ -1,10 +1,10 @@
 ---
 domain: essayan-import-export.de
 slug: essayan-import-export-de
-title: Is essayan-import-export.de Legit? Trust Signal Check
+title: Is essayan-import-export.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for essayan-import-export.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  essayan-import-export.de scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T14:48:21.396Z'
 finalUrl: 'https://essayan-import-export.de/'
 reachable: true

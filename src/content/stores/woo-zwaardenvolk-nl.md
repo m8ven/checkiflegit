@@ -1,10 +1,10 @@
 ---
 domain: woo.zwaardenvolk.nl
 slug: woo-zwaardenvolk-nl
-title: Is woo.zwaardenvolk.nl Legit? Trust Signal Check
+title: Is woo.zwaardenvolk.nl Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for woo.zwaardenvolk.nl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  woo.zwaardenvolk.nl scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:12:01.774Z'
 finalUrl: 'https://woo.zwaardenvolk.nl/'
 reachable: true

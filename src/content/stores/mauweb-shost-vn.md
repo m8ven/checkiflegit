@@ -1,10 +1,10 @@
 ---
 domain: mauweb.shost.vn
 slug: mauweb-shost-vn
-title: Is mauweb.shost.vn Legit? Trust Signal Check
+title: Is mauweb.shost.vn Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mauweb.shost.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mauweb.shost.vn scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:00.163Z'
 finalUrl: 'https://mauweb.shost.vn/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: cartier.com
 slug: cartier-com
-title: Is cartier.com Legit? Trust Signal Check
+title: Is cartier.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cartier.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cartier.com scores 100/100 on our public trust checks. Established domain —
+  registered 31.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:32.766Z'
 finalUrl: 'https://www.cartier.com/en-us/home'
 reachable: true

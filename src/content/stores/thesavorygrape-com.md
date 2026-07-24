@@ -1,10 +1,10 @@
 ---
 domain: thesavorygrape.com
 slug: thesavorygrape-com
-title: Is thesavorygrape.com Legit? Trust Signal Check
+title: Is thesavorygrape.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for thesavorygrape.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thesavorygrape.com scores 88/100 on our public trust checks. Established
+  domain — registered 20.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:39.372Z'
 finalUrl: 'https://thesavorygrape.com/'
 reachable: true

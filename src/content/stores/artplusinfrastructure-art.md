@@ -1,10 +1,11 @@
 ---
 domain: artplusinfrastructure.art
 slug: artplusinfrastructure-art
-title: Is artplusinfrastructure.art Legit? Trust Signal Check
+title: Is artplusinfrastructure.art Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for artplusinfrastructure.art: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  artplusinfrastructure.art scores 88/100 on our public trust checks.
+  Established domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:18:07.163Z'
 finalUrl: 'https://artplusinfrastructure.art/'
 reachable: true

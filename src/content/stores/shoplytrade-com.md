@@ -1,10 +1,10 @@
 ---
 domain: shoplytrade.com
 slug: shoplytrade-com
-title: Is shoplytrade.com Legit? Trust Signal Check
+title: Is shoplytrade.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for shoplytrade.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shoplytrade.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:06:19.909Z'
 finalUrl: 'https://shoplytrade.com/'
 reachable: true

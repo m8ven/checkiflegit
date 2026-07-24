@@ -1,10 +1,10 @@
 ---
 domain: rvtravel.eu
 slug: rvtravel-eu
-title: Is rvtravel.eu Legit? Trust Signal Check
+title: Is rvtravel.eu Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for rvtravel.eu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rvtravel.eu scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:49:19.533Z'
 finalUrl: 'https://rvtravel.eu/'
 reachable: true

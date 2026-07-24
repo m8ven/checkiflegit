@@ -1,10 +1,10 @@
 ---
 domain: bulat.org.ua
 slug: bulat-org-ua
-title: Is bulat.org.ua Legit? Trust Signal Check
+title: Is bulat.org.ua Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bulat.org.ua: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bulat.org.ua scores 88/100 on our public trust checks. Established domain —
+  registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:20:43.801Z'
 finalUrl: 'https://bulat.org.ua/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: optimservicii.ro
 slug: optimservicii-ro
-title: Is optimservicii.ro Legit? Trust Signal Check
+title: Is optimservicii.ro Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for optimservicii.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  optimservicii.ro scores 73/100 on our public trust checks. Established domain
+  — registered 18.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:37.728Z'
 finalUrl: 'https://optimservicii.ro/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: zonakids.com
 slug: zonakids-com
-title: Is zonakids.com Legit? Trust Signal Check
+title: Is zonakids.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for zonakids.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  zonakids.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-24T21:45:32.739Z'
 finalUrl: 'https://zonakids.com/'
 reachable: true

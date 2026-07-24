@@ -1,10 +1,10 @@
 ---
 domain: plastky.com
 slug: plastky-com
-title: Is plastky.com Legit? Trust Signal Check
+title: Is plastky.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for plastky.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  plastky.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T11:56:22.201Z'
 finalUrl: 'https://plastky.com/'
 reachable: true

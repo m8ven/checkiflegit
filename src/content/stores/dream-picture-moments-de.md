@@ -1,10 +1,10 @@
 ---
 domain: dream-picture-moments.de
 slug: dream-picture-moments-de
-title: Is dream-picture-moments.de Legit? Trust Signal Check
+title: Is dream-picture-moments.de Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for dream-picture-moments.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dream-picture-moments.de scores 57/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:38:28.388Z'
 finalUrl: 'https://dream-picture-moments.de/'
 reachable: true

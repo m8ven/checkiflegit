@@ -1,10 +1,10 @@
 ---
 domain: ansaripashmina.com
 slug: ansaripashmina-com
-title: Is ansaripashmina.com Legit? Trust Signal Check
+title: Is ansaripashmina.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for ansaripashmina.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ansaripashmina.com scores 94/100 on our public trust checks. Established
+  domain — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:26.994Z'
 finalUrl: 'https://www.ansaripashmina.com/'
 reachable: true

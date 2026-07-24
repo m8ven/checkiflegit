@@ -1,10 +1,11 @@
 ---
 domain: novostrojki-ekaterinburga.ru
 slug: novostrojki-ekaterinburga-ru
-title: Is novostrojki-ekaterinburga.ru Legit? Trust Signal Check
+title: Is novostrojki-ekaterinburga.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for novostrojki-ekaterinburga.ru: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  novostrojki-ekaterinburga.ru scores 82/100 on our public trust checks.
+  Established domain — registered 6.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:00:34.818Z'
 finalUrl: 'https://novostrojki-ekaterinburga.ru/'
 reachable: true

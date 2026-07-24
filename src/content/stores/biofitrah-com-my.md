@@ -1,10 +1,10 @@
 ---
 domain: biofitrah.com.my
 slug: biofitrah-com-my
-title: Is biofitrah.com.my Legit? Trust Signal Check
+title: Is biofitrah.com.my Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for biofitrah.com.my: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  biofitrah.com.my scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:52:47.053Z'
 finalUrl: 'https://biofitrah.com.my/'
 reachable: true

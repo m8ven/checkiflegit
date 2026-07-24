@@ -1,10 +1,10 @@
 ---
 domain: carshinenoord.nl
 slug: carshinenoord-nl
-title: Is carshinenoord.nl Legit? Trust Signal Check
+title: Is carshinenoord.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for carshinenoord.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  carshinenoord.nl scores 73/100 on our public trust checks. Established domain
+  — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:45.604Z'
 finalUrl: 'https://www.carshinenoord.nl/'
 reachable: true

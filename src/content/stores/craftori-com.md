@@ -1,10 +1,10 @@
 ---
 domain: craftori.com
 slug: craftori-com
-title: Is craftori.com Legit? Trust Signal Check
+title: Is craftori.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for craftori.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  craftori.com scores 82/100 on our public trust checks. Established domain —
+  registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:15.348Z'
 finalUrl: 'https://craftori.com/'
 reachable: true

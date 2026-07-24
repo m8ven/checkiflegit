@@ -1,11 +1,11 @@
 ---
 domain: celiklermetal.com.tr
 slug: celiklermetal-com-tr
-title: Is celiklermetal.com.tr Legit? Trust Signal Check
+title: Is celiklermetal.com.tr Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for celiklermetal.com.tr: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  celiklermetal.com.tr scores 40/100 on our public trust checks. Standard
+  contact and policy pages were not found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:26:30.153Z'
 finalUrl: 'https://celiklermetal.com.tr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: foxprinttees.com
 slug: foxprinttees-com
-title: Is foxprinttees.com Legit? Trust Signal Check
+title: Is foxprinttees.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for foxprinttees.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  foxprinttees.com scores 100/100 on our public trust checks. Established domain
+  — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:53.931Z'
 finalUrl: 'https://foxprinttees.com/'
 reachable: true

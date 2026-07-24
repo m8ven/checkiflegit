@@ -1,10 +1,11 @@
 ---
 domain: picklebarrelcatering.com
 slug: picklebarrelcatering-com
-title: Is picklebarrelcatering.com Legit? Trust Signal Check
+title: Is picklebarrelcatering.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for picklebarrelcatering.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  picklebarrelcatering.com scores 100/100 on our public trust checks.
+  Established domain — registered 24.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:27:22.156Z'
 finalUrl: 'https://picklebarrelcatering.com/'
 reachable: true

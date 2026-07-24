@@ -1,10 +1,10 @@
 ---
 domain: wingsoft.co
 slug: wingsoft-co
-title: Is wingsoft.co Legit? Trust Signal Check
+title: Is wingsoft.co Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for wingsoft.co: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  wingsoft.co scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:10:32.531Z'
 finalUrl: 'https://wingsoft.co/'
 reachable: true

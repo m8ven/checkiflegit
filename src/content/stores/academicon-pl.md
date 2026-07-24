@@ -1,10 +1,11 @@
 ---
 domain: academicon.pl
 slug: academicon-pl
-title: Is academicon.pl Legit? Trust Signal Check
+title: Is academicon.pl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for academicon.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  academicon.pl scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:22:54.272Z'
 finalUrl: 'https://academicon.pl/'
 reachable: true

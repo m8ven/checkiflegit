@@ -1,10 +1,10 @@
 ---
 domain: gabinetodzaplecza.pl
 slug: gabinetodzaplecza-pl
-title: Is gabinetodzaplecza.pl Legit? Trust Signal Check
+title: Is gabinetodzaplecza.pl Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for gabinetodzaplecza.pl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  gabinetodzaplecza.pl scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:34:57.774Z'
 finalUrl: 'https://gabinetodzaplecza.pl/'
 reachable: true

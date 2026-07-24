@@ -1,10 +1,11 @@
 ---
 domain: avtoodpad-maribor.si
 slug: avtoodpad-maribor-si
-title: Is avtoodpad-maribor.si Legit? Trust Signal Check
+title: Is avtoodpad-maribor.si Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for avtoodpad-maribor.si: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  avtoodpad-maribor.si scores 55/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T02:25:58.428Z'
 finalUrl: 'https://avtoodpad-maribor.si/'
 reachable: true

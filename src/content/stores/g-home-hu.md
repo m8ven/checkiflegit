@@ -1,10 +1,10 @@
 ---
 domain: g-home.hu
 slug: g-home-hu
-title: Is g-home.hu Legit? Trust Signal Check
+title: Is g-home.hu Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for g-home.hu: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  g-home.hu scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:46:18.926Z'
 finalUrl: 'https://g-home.hu/'
 reachable: true

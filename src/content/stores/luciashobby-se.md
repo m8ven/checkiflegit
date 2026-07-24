@@ -1,10 +1,10 @@
 ---
 domain: luciashobby.se
 slug: luciashobby-se
-title: Is luciashobby.se Legit? Trust Signal Check
+title: Is luciashobby.se Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for luciashobby.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  luciashobby.se scores 73/100 on our public trust checks. Established domain —
+  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:35.097Z'
 finalUrl: 'https://luciashobby.se/'
 reachable: true

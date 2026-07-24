@@ -1,10 +1,11 @@
 ---
 domain: americanpastorsnetwork.net
 slug: americanpastorsnetwork-net
-title: Is americanpastorsnetwork.net Legit? Trust Signal Check
+title: Is americanpastorsnetwork.net Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for americanpastorsnetwork.net: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  americanpastorsnetwork.net scores 88/100 on our public trust checks.
+  Established domain — registered 13.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:19:01.147Z'
 finalUrl: 'https://americanpastorsnetwork.net/'
 reachable: true

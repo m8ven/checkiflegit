@@ -1,10 +1,10 @@
 ---
 domain: webshop.fun4dogs.nl
 slug: webshop-fun4dogs-nl
-title: Is webshop.fun4dogs.nl Legit? Trust Signal Check
+title: Is webshop.fun4dogs.nl Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for webshop.fun4dogs.nl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  webshop.fun4dogs.nl scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:37:59.400Z'
 finalUrl: 'https://webshop.fun4dogs.nl/'
 reachable: true

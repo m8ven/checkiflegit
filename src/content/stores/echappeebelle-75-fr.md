@@ -1,10 +1,10 @@
 ---
 domain: echappeebelle-75.fr
 slug: echappeebelle-75-fr
-title: Is echappeebelle-75.fr Legit? Trust Signal Check
+title: Is echappeebelle-75.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for echappeebelle-75.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  echappeebelle-75.fr scores 88/100 on our public trust checks. Established
+  domain — registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:43.928Z'
 finalUrl: 'https://echappeebelle-75.fr/'
 reachable: true

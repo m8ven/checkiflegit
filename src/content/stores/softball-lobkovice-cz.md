@@ -1,10 +1,10 @@
 ---
 domain: softball-lobkovice.cz
 slug: softball-lobkovice-cz
-title: Is softball-lobkovice.cz Legit? Trust Signal Check
+title: Is softball-lobkovice.cz Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for softball-lobkovice.cz: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  softball-lobkovice.cz scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:22:03.896Z'
 finalUrl: 'https://www.softball-lobkovice.cz/'
 reachable: true

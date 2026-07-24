@@ -1,10 +1,10 @@
 ---
 domain: fitfocus.no
 slug: fitfocus-no
-title: Is fitfocus.no Legit? Trust Signal Check
+title: Is fitfocus.no Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fitfocus.no: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fitfocus.no scores 73/100 on our public trust checks. Established domain —
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:11.191Z'
 finalUrl: 'https://fitfocus.no/'
 reachable: true

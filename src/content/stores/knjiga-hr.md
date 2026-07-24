@@ -1,10 +1,10 @@
 ---
 domain: knjiga.hr
 slug: knjiga-hr
-title: Is knjiga.hr Legit? Trust Signal Check
+title: Is knjiga.hr Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for knjiga.hr: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  knjiga.hr scores 43/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:18:04.776Z'
 finalUrl: 'https://knjiga.hr/'
 reachable: true

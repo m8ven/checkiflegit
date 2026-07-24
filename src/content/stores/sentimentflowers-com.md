@@ -1,11 +1,10 @@
 ---
 domain: sentimentflowers.com
 slug: sentimentflowers-com
-title: Is sentimentflowers.com Legit? Trust Signal Check
+title: Is sentimentflowers.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for sentimentflowers.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  sentimentflowers.com scores 43/100 on our public trust checks. No links to
+  major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:36:38.102Z'
 finalUrl: 'https://sentimentflowers.com/'
 reachable: true

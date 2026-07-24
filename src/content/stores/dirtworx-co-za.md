@@ -1,10 +1,10 @@
 ---
 domain: dirtworx.co.za
 slug: dirtworx-co-za
-title: Is dirtworx.co.za Legit? Trust Signal Check
+title: Is dirtworx.co.za Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for dirtworx.co.za: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dirtworx.co.za scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:25:27.063Z'
 finalUrl: 'https://dirtworx.co.za/'
 reachable: true

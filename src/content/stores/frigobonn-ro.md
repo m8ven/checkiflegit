@@ -1,10 +1,10 @@
 ---
 domain: frigobonn.ro
 slug: frigobonn-ro
-title: Is frigobonn.ro Legit? Trust Signal Check
+title: Is frigobonn.ro Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for frigobonn.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  frigobonn.ro scores 82/100 on our public trust checks. Established domain —
+  registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:46.265Z'
 finalUrl: 'https://frigobonn.ro/'
 reachable: true

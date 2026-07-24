@@ -1,10 +1,10 @@
 ---
 domain: practicalb2b.com
 slug: practicalb2b-com
-title: Is practicalb2b.com Legit? Trust Signal Check
+title: Is practicalb2b.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for practicalb2b.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  practicalb2b.com scores 100/100 on our public trust checks. Established domain
+  — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:49:42.473Z'
 finalUrl: 'https://practicalb2b.com/'
 reachable: true

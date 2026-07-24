@@ -1,10 +1,10 @@
 ---
 domain: lozth.com
 slug: lozth-com
-title: Is lozth.com Legit? Trust Signal Check
+title: Is lozth.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lozth.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lozth.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:24:39.830Z'
 finalUrl: 'https://lozth.com/'
 reachable: true

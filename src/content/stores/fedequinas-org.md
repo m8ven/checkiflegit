@@ -1,10 +1,10 @@
 ---
 domain: fedequinas.org
 slug: fedequinas-org
-title: Is fedequinas.org Legit? Trust Signal Check
+title: Is fedequinas.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fedequinas.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fedequinas.org scores 100/100 on our public trust checks. Established domain —
+  registered 28 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:54.465Z'
 finalUrl: 'https://fedequinas.org/'
 reachable: true

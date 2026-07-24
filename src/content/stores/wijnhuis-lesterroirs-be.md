@@ -1,11 +1,10 @@
 ---
 domain: wijnhuis-lesterroirs.be
 slug: wijnhuis-lesterroirs-be
-title: Is wijnhuis-lesterroirs.be Legit? Trust Signal Check
+title: Is wijnhuis-lesterroirs.be Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for wijnhuis-lesterroirs.be: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  wijnhuis-lesterroirs.be scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:10:18.802Z'
 finalUrl: 'https://wijnhuis-lesterroirs.be/'
 reachable: true

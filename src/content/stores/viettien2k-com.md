@@ -1,10 +1,10 @@
 ---
 domain: viettien2k.com
 slug: viettien2k-com
-title: Is viettien2k.com Legit? Trust Signal Check
+title: Is viettien2k.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for viettien2k.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  viettien2k.com scores 52/100 on our public trust checks. Standard contact and
+  policy pages were not found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:18:31.583Z'
 finalUrl: 'https://viettien2k.com/'
 reachable: true

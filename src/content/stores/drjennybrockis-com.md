@@ -1,10 +1,10 @@
 ---
 domain: drjennybrockis.com
 slug: drjennybrockis-com
-title: Is drjennybrockis.com Legit? Trust Signal Check
+title: Is drjennybrockis.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for drjennybrockis.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  drjennybrockis.com scores 76/100 on our public trust checks. Established
+  domain — registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:35.160Z'
 finalUrl: 'https://drjennybrockis.com/'
 reachable: true

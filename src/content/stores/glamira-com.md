@@ -1,10 +1,10 @@
 ---
 domain: glamira.com
 slug: glamira-com
-title: Is glamira.com Legit? Trust Signal Check
+title: Is glamira.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for glamira.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  glamira.com scores 88/100 on our public trust checks. Established domain —
+  registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:49.728Z'
 finalUrl: 'https://www.glamira.com/'
 reachable: true

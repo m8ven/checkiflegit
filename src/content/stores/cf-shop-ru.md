@@ -1,10 +1,10 @@
 ---
 domain: cf-shop.ru
 slug: cf-shop-ru
-title: Is cf-shop.ru Legit? Trust Signal Check
+title: Is cf-shop.ru Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cf-shop.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cf-shop.ru scores 70/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:09.159Z'
 finalUrl: 'https://cf-shop.ru/'
 reachable: true

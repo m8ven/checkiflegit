@@ -1,10 +1,10 @@
 ---
 domain: avva-knigi.ru
 slug: avva-knigi-ru
-title: Is avva-knigi.ru Legit? Trust Signal Check
+title: Is avva-knigi.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for avva-knigi.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  avva-knigi.ru scores 73/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:30.811Z'
 finalUrl: 'https://avva-knigi.ru/'
 reachable: true

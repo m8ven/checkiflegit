@@ -1,10 +1,11 @@
 ---
 domain: landhaus-trachtenmode.com
 slug: landhaus-trachtenmode-com
-title: Is landhaus-trachtenmode.com Legit? Trust Signal Check
+title: Is landhaus-trachtenmode.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for landhaus-trachtenmode.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  landhaus-trachtenmode.com scores 100/100 on our public trust checks.
+  Established domain — registered 6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:47:42.982Z'
 finalUrl: 'https://landhaus-trachtenmode.com/'
 reachable: true

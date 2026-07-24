@@ -1,10 +1,10 @@
 ---
 domain: eastporters.com
 slug: eastporters-com
-title: Is eastporters.com Legit? Trust Signal Check
+title: Is eastporters.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for eastporters.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eastporters.com scores 94/100 on our public trust checks. Established domain —
+  registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:01.964Z'
 finalUrl: 'https://www.eastporters.com/'
 reachable: true

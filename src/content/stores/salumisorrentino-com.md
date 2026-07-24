@@ -1,10 +1,10 @@
 ---
 domain: salumisorrentino.com
 slug: salumisorrentino-com
-title: Is salumisorrentino.com Legit? Trust Signal Check
+title: Is salumisorrentino.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for salumisorrentino.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  salumisorrentino.com scores 100/100 on our public trust checks. Established
+  domain — registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:08.002Z'
 finalUrl: 'https://www.salumisorrentino.com/'
 reachable: true

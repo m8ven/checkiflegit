@@ -1,10 +1,10 @@
 ---
 domain: modernelteknik.se
 slug: modernelteknik-se
-title: Is modernelteknik.se Legit? Trust Signal Check
+title: Is modernelteknik.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for modernelteknik.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  modernelteknik.se scores 88/100 on our public trust checks. Established domain
+  — registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:55:31.478Z'
 finalUrl: 'https://modernelteknik.se/'
 reachable: true

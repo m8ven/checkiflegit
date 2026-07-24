@@ -1,10 +1,10 @@
 ---
 domain: westscandinavianpharmacy.com
 slug: westscandinavianpharmacy-com
-title: Is westscandinavianpharmacy.com Legit? Trust Signal Check
+title: Is westscandinavianpharmacy.com Legit? Trust Score 67/100
 description: >-
-  An automated trust-signal check for westscandinavianpharmacy.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  westscandinavianpharmacy.com scores 67/100 on our public trust checks. No
+  links to major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:20:44.823Z'
 finalUrl: 'https://westscandinavianpharmacy.com/'
 reachable: true

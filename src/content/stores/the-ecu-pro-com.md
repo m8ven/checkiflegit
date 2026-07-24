@@ -1,10 +1,10 @@
 ---
 domain: the-ecu-pro.com
 slug: the-ecu-pro-com
-title: Is the-ecu-pro.com Legit? Trust Signal Check
+title: Is the-ecu-pro.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for the-ecu-pro.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  the-ecu-pro.com scores 73/100 on our public trust checks. Established domain —
+  registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:15.099Z'
 finalUrl: 'https://the-ecu-pro.com/'
 reachable: true

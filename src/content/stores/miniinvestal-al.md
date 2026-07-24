@@ -1,10 +1,10 @@
 ---
 domain: miniinvestal.al
 slug: miniinvestal-al
-title: Is miniinvestal.al Legit? Trust Signal Check
+title: Is miniinvestal.al Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for miniinvestal.al: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  miniinvestal.al scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:55:35.543Z'
 finalUrl: 'https://miniinvestal.al/'
 reachable: true

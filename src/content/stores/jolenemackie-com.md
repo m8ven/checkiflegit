@@ -1,10 +1,10 @@
 ---
 domain: jolenemackie.com
 slug: jolenemackie-com
-title: Is jolenemackie.com Legit? Trust Signal Check
+title: Is jolenemackie.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for jolenemackie.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jolenemackie.com scores 88/100 on our public trust checks. Established domain
+  — registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:34.672Z'
 finalUrl: 'https://www.jolenemackie.com/'
 reachable: true

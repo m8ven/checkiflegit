@@ -1,10 +1,11 @@
 ---
 domain: butik.atr.nu
 slug: butik-atr-nu
-title: Is butik.atr.nu Legit? Trust Signal Check
+title: Is butik.atr.nu Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for butik.atr.nu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  butik.atr.nu scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:58:36.438Z'
 finalUrl: 'https://butik.atr.nu/'
 reachable: true

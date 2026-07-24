@@ -1,10 +1,10 @@
 ---
 domain: farm24.net
 slug: farm24-net
-title: Is farm24.net Legit? Trust Signal Check
+title: Is farm24.net Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for farm24.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  farm24.net scores 100/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:41.490Z'
 finalUrl: 'https://farm24.net/'
 reachable: true

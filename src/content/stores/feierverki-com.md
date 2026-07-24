@@ -1,10 +1,10 @@
 ---
 domain: feierverki.com
 slug: feierverki-com
-title: Is feierverki.com Legit? Trust Signal Check
+title: Is feierverki.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for feierverki.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  feierverki.com scores 88/100 on our public trust checks. Established domain —
+  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:52.054Z'
 finalUrl: 'https://feierverki.com/'
 reachable: true

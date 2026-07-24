@@ -1,10 +1,10 @@
 ---
 domain: hites.com
 slug: hites-com
-title: Is hites.com Legit? Trust Signal Check
+title: Is hites.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hites.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hites.com scores 100/100 on our public trust checks. Established domain —
+  registered 29.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:55.382Z'
 finalUrl: 'https://www.hites.com/?utm_source=hites.com&utm_medium=redirect:443/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pvilion.com
 slug: pvilion-com
-title: Is pvilion.com Legit? Trust Signal Check
+title: Is pvilion.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pvilion.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pvilion.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:37:19.151Z'
 finalUrl: 'https://www.pvilion.com/'
 reachable: true

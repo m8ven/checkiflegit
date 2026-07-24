@@ -1,10 +1,10 @@
 ---
 domain: solari.com
 slug: solari-com
-title: Is solari.com Legit? Trust Signal Check
+title: Is solari.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for solari.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  solari.com scores 73/100 on our public trust checks. Established domain —
+  registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:31:50.719Z'
 finalUrl: 'https://solari.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: primeprogressng.com
 slug: primeprogressng-com
-title: Is primeprogressng.com Legit? Trust Signal Check
+title: Is primeprogressng.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for primeprogressng.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  primeprogressng.com scores 70/100 on our public trust checks. Established
+  domain — registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:07.878Z'
 finalUrl: 'https://primeprogressng.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: babynamesbee.com
 slug: babynamesbee-com
-title: Is babynamesbee.com Legit? Trust Signal Check
+title: Is babynamesbee.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for babynamesbee.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  babynamesbee.com scores 25/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T02:26:05.993Z'
 finalUrl: 'https://babynamesbee.com/'
 reachable: true

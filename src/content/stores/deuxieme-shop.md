@@ -1,10 +1,11 @@
 ---
 domain: deuxieme.shop
 slug: deuxieme-shop
-title: Is deuxieme.shop Legit? Trust Signal Check
+title: Is deuxieme.shop Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for deuxieme.shop: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  deuxieme.shop scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:40:26.901Z'
 finalUrl: 'https://deuxieme.shop/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dentalbrands.pk
 slug: dentalbrands-pk
-title: Is dentalbrands.pk Legit? Trust Signal Check
+title: Is dentalbrands.pk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dentalbrands.pk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dentalbrands.pk scores 88/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:49.465Z'
 finalUrl: 'https://dentalbrands.pk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: rs.cerebro.rs
 slug: rs-cerebro-rs
-title: Is rs.cerebro.rs Legit? Trust Signal Check
+title: Is rs.cerebro.rs Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for rs.cerebro.rs: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rs.cerebro.rs scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:30:48.223Z'
 finalUrl: 'https://rs.cerebro.rs/'
 reachable: true

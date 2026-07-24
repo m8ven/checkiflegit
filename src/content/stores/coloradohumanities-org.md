@@ -1,10 +1,10 @@
 ---
 domain: coloradohumanities.org
 slug: coloradohumanities-org
-title: Is coloradohumanities.org Legit? Trust Signal Check
+title: Is coloradohumanities.org Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for coloradohumanities.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  coloradohumanities.org scores 70/100 on our public trust checks. Established
+  domain — registered 22.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:30.518Z'
 finalUrl: 'https://coloradohumanities.org/'
 reachable: true

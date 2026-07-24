@@ -1,10 +1,10 @@
 ---
 domain: immigrationattorneyunitedstates.com
 slug: immigrationattorneyunitedstates-com
-title: Is immigrationattorneyunitedstates.com Legit? Trust Signal Check
+title: Is immigrationattorneyunitedstates.com Legit? Score 55/100
 description: >-
-  An automated trust-signal check for immigrationattorneyunitedstates.com:
-  moderate trust signals. Domain age, SSL, contact info, reviews and more.
+  immigrationattorneyunitedstates.com scores 55/100 on our public trust checks.
+  Standard contact and policy pages were not found.
 fetchedAt: '2026-06-25T15:15:54.135Z'
 finalUrl: 'https://immigrationattorneyunitedstates.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: hyperx.com
 slug: hyperx-com
-title: Is hyperx.com Legit? Trust Signal Check
+title: Is hyperx.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hyperx.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hyperx.com scores 100/100 on our public trust checks. Established domain —
+  registered 29.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:20.809Z'
 finalUrl: 'https://hyperx.com/'
 reachable: true

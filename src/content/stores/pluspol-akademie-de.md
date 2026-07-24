@@ -1,10 +1,10 @@
 ---
 domain: pluspol-akademie.de
 slug: pluspol-akademie-de
-title: Is pluspol-akademie.de Legit? Trust Signal Check
+title: Is pluspol-akademie.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for pluspol-akademie.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pluspol-akademie.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:32:25.867Z'
 finalUrl: 'https://pluspol-akademie.de/'
 reachable: true

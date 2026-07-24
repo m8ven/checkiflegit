@@ -1,10 +1,10 @@
 ---
 domain: queensville.dk
 slug: queensville-dk
-title: Is queensville.dk Legit? Trust Signal Check
+title: Is queensville.dk Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for queensville.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  queensville.dk scores 70/100 on our public trust checks. Established domain —
+  registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:13.792Z'
 finalUrl: 'https://queensville.dk/'
 reachable: true

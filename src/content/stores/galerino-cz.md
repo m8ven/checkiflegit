@@ -1,10 +1,10 @@
 ---
 domain: galerino.cz
 slug: galerino-cz
-title: Is galerino.cz Legit? Trust Signal Check
+title: Is galerino.cz Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for galerino.cz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  galerino.cz scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:58:53.391Z'
 finalUrl: 'https://www.galerino.cz/'
 reachable: true

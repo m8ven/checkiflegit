@@ -1,10 +1,10 @@
 ---
 domain: flowers-dolce-vita.ru
 slug: flowers-dolce-vita-ru
-title: Is flowers-dolce-vita.ru Legit? Trust Signal Check
+title: Is flowers-dolce-vita.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for flowers-dolce-vita.ru: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  flowers-dolce-vita.ru scores 82/100 on our public trust checks. Established
+  domain — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:13.440Z'
 finalUrl: 'https://flowers-dolce-vita.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: drive-en-champagne.org
 slug: drive-en-champagne-org
-title: Is drive-en-champagne.org Legit? Trust Signal Check
+title: Is drive-en-champagne.org Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for drive-en-champagne.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  drive-en-champagne.org scores 73/100 on our public trust checks. Established
+  domain — registered 22 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:31.077Z'
 finalUrl: 'https://www.drive-en-champagne.org/'
 reachable: true

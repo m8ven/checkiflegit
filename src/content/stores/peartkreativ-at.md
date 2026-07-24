@@ -1,10 +1,10 @@
 ---
 domain: peartkreativ.at
 slug: peartkreativ-at
-title: Is peartkreativ.at Legit? Trust Signal Check
+title: Is peartkreativ.at Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for peartkreativ.at: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  peartkreativ.at scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:02:11.442Z'
 finalUrl: 'https://peartkreativ.at/'
 reachable: true

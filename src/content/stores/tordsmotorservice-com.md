@@ -1,10 +1,10 @@
 ---
 domain: tordsmotorservice.com
 slug: tordsmotorservice-com
-title: Is tordsmotorservice.com Legit? Trust Signal Check
+title: Is tordsmotorservice.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for tordsmotorservice.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tordsmotorservice.com scores 88/100 on our public trust checks. Established
+  domain — registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:21.340Z'
 finalUrl: 'https://tordsmotorservice.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: einfach-naehen.de
 slug: einfach-naehen-de
-title: Is einfach-naehen.de Legit? Trust Signal Check
+title: Is einfach-naehen.de Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for einfach-naehen.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  einfach-naehen.de scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:41.189Z'
 finalUrl: 'https://www.einfach-naehen.de/'
 reachable: true

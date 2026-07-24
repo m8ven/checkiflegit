@@ -1,10 +1,10 @@
 ---
 domain: occasion-airsoft.fr
 slug: occasion-airsoft-fr
-title: Is occasion-airsoft.fr Legit? Trust Signal Check
+title: Is occasion-airsoft.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for occasion-airsoft.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  occasion-airsoft.fr scores 88/100 on our public trust checks. Established
+  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:28.732Z'
 finalUrl: 'https://occasion-airsoft.fr/'
 reachable: true

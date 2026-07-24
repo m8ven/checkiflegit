@@ -1,10 +1,10 @@
 ---
 domain: southord.com
 slug: southord-com
-title: Is southord.com Legit? Trust Signal Check
+title: Is southord.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for southord.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  southord.com scores 88/100 on our public trust checks. Established domain —
+  registered 29.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:32.115Z'
 finalUrl: 'https://www.southord.com/'
 reachable: true

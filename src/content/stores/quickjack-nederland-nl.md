@@ -1,10 +1,10 @@
 ---
 domain: quickjack-nederland.nl
 slug: quickjack-nederland-nl
-title: Is quickjack-nederland.nl Legit? Trust Signal Check
+title: Is quickjack-nederland.nl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for quickjack-nederland.nl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  quickjack-nederland.nl scores 100/100 on our public trust checks. Established
+  domain — registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:11.257Z'
 finalUrl: 'https://www.quickjack-nederland.nl/'
 reachable: true

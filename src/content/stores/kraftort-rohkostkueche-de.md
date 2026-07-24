@@ -1,11 +1,10 @@
 ---
 domain: kraftort-rohkostkueche.de
 slug: kraftort-rohkostkueche-de
-title: Is kraftort-rohkostkueche.de Legit? Trust Signal Check
+title: Is kraftort-rohkostkueche.de Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for kraftort-rohkostkueche.de: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  kraftort-rohkostkueche.de scores 19/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:05:30.108Z'
 finalUrl: 'https://kraftort-rohkostkueche.de/'
 reachable: true

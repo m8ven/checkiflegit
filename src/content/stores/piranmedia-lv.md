@@ -1,10 +1,10 @@
 ---
 domain: piranmedia.lv
 slug: piranmedia-lv
-title: Is piranmedia.lv Legit? Trust Signal Check
+title: Is piranmedia.lv Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for piranmedia.lv: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  piranmedia.lv scores 49/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T03:20:20.787Z'
 finalUrl: 'https://www.piranmedia.lv/'
 reachable: true

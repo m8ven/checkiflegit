@@ -1,10 +1,10 @@
 ---
 domain: betterbred.com
 slug: betterbred-com
-title: Is betterbred.com Legit? Trust Signal Check
+title: Is betterbred.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for betterbred.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  betterbred.com scores 73/100 on our public trust checks. Established domain —
+  registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:15.688Z'
 finalUrl: 'https://www.betterbred.com/'
 reachable: true

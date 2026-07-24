@@ -1,10 +1,10 @@
 ---
 domain: eko-textile.ru
 slug: eko-textile-ru
-title: Is eko-textile.ru Legit? Trust Signal Check
+title: Is eko-textile.ru Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for eko-textile.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eko-textile.ru scores 88/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:55.662Z'
 finalUrl: 'https://eko-textile.ru/'
 reachable: true

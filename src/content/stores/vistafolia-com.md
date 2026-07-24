@@ -1,10 +1,10 @@
 ---
 domain: vistafolia.com
 slug: vistafolia-com
-title: Is vistafolia.com Legit? Trust Signal Check
+title: Is vistafolia.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for vistafolia.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vistafolia.com scores 100/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:37.651Z'
 finalUrl: 'https://vistafolia.com/gb/'
 reachable: true

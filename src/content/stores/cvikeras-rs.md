@@ -1,10 +1,10 @@
 ---
 domain: cvikeras.rs
 slug: cvikeras-rs
-title: Is cvikeras.rs Legit? Trust Signal Check
+title: Is cvikeras.rs Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cvikeras.rs: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cvikeras.rs scores 70/100 on our public trust checks. Established domain —
+  registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:14.790Z'
 finalUrl: 'https://cvikeras.rs/'
 reachable: true

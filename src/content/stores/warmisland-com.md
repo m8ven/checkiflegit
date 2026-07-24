@@ -1,10 +1,11 @@
 ---
 domain: warmisland.com
 slug: warmisland-com
-title: Is warmisland.com Legit? Trust Signal Check
+title: Is warmisland.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for warmisland.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  warmisland.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:28:28.063Z'
 finalUrl: 'https://www.warmisland.com/'
 reachable: true

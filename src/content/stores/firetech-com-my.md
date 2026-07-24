@@ -1,10 +1,10 @@
 ---
 domain: firetech.com.my
 slug: firetech-com-my
-title: Is firetech.com.my Legit? Trust Signal Check
+title: Is firetech.com.my Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for firetech.com.my: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  firetech.com.my scores 73/100 on our public trust checks. Established domain —
+  registered 18 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:48:51.224Z'
 finalUrl: 'https://firetech.com.my/'
 reachable: true

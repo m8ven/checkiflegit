@@ -1,10 +1,10 @@
 ---
 domain: dinamikabeauty.com
 slug: dinamikabeauty-com
-title: Is dinamikabeauty.com Legit? Trust Signal Check
+title: Is dinamikabeauty.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for dinamikabeauty.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dinamikabeauty.com scores 76/100 on our public trust checks. Established
+  domain — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:40.615Z'
 finalUrl: 'https://dinamikabeauty.com/'
 reachable: true

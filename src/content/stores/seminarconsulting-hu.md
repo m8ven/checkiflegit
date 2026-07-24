@@ -1,10 +1,10 @@
 ---
 domain: seminarconsulting.hu
 slug: seminarconsulting-hu
-title: Is seminarconsulting.hu Legit? Trust Signal Check
+title: Is seminarconsulting.hu Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for seminarconsulting.hu: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  seminarconsulting.hu scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:02:30.120Z'
 finalUrl: 'https://seminarconsulting.hu/'
 reachable: true

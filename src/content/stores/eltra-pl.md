@@ -1,10 +1,10 @@
 ---
 domain: eltra.pl
 slug: eltra-pl
-title: Is eltra.pl Legit? Trust Signal Check
+title: Is eltra.pl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for eltra.pl: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  eltra.pl scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:26:59.426Z'
 finalUrl: 'https://eltra.pl/'
 reachable: true

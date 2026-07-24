@@ -1,10 +1,10 @@
 ---
 domain: gabinodiegodiaz.es
 slug: gabinodiegodiaz-es
-title: Is gabinodiegodiaz.es Legit? Trust Signal Check
+title: Is gabinodiegodiaz.es Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for gabinodiegodiaz.es: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  gabinodiegodiaz.es scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T14:49:50.973Z'
 finalUrl: 'https://gabinodiegodiaz.es/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: xn--78-dlclq7agicie4a.xn--p1ai
 slug: xn-78-dlclq7agicie4a-xn-p1ai
-title: Is xn--78-dlclq7agicie4a.xn--p1ai Legit? Trust Signal Check
+title: Is xn--78-dlclq7agicie4a.xn--p1ai Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for xn--78-dlclq7agicie4a.xn--p1ai: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  xn--78-dlclq7agicie4a.xn--p1ai scores 82/100 on our public trust checks.
+  Established domain — registered 11 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:49:18.391Z'
 finalUrl: 'https://xn--78-dlclq7agicie4a.xn--p1ai/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lekobusa.se
 slug: lekobusa-se
-title: Is lekobusa.se Legit? Trust Signal Check
+title: Is lekobusa.se Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lekobusa.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lekobusa.se scores 88/100 on our public trust checks. Established domain —
+  registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:51.556Z'
 finalUrl: 'https://lekobusa.se/'
 reachable: true

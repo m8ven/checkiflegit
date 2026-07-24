@@ -1,10 +1,11 @@
 ---
 domain: triholland.nl
 slug: triholland-nl
-title: Is triholland.nl Legit? Trust Signal Check
+title: Is triholland.nl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for triholland.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  triholland.nl scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:48:45.882Z'
 finalUrl: 'https://www.triholland.nl/'
 reachable: true

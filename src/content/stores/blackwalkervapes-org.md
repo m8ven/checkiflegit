@@ -1,11 +1,10 @@
 ---
 domain: blackwalkervapes.org
 slug: blackwalkervapes-org
-title: Is blackwalkervapes.org Legit? Trust Signal Check
+title: Is blackwalkervapes.org Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for blackwalkervapes.org: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  blackwalkervapes.org scores 43/100 on our public trust checks. No links to
+  major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:21:01.925Z'
 finalUrl: 'https://blackwalkervapes.org/'
 reachable: true

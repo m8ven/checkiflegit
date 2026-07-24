@@ -1,10 +1,10 @@
 ---
 domain: alllitup.ca
 slug: alllitup-ca
-title: Is alllitup.ca Legit? Trust Signal Check
+title: Is alllitup.ca Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for alllitup.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  alllitup.ca scores 70/100 on our public trust checks. Established domain —
+  registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:54.508Z'
 finalUrl: 'https://alllitup.ca/'
 reachable: true

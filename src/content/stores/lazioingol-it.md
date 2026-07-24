@@ -1,10 +1,10 @@
 ---
 domain: lazioingol.it
 slug: lazioingol-it
-title: Is lazioingol.it Legit? Trust Signal Check
+title: Is lazioingol.it Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for lazioingol.it: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  lazioingol.it scores 43/100 on our public trust checks. Domain registered very
+  recently (61 days ago). Only limited contact details were found.
 fetchedAt: '2026-06-25T12:36:06.112Z'
 finalUrl: 'https://www.lazioingol.it/'
 reachable: true

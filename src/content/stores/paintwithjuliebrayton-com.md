@@ -1,10 +1,11 @@
 ---
 domain: paintwithjuliebrayton.com
 slug: paintwithjuliebrayton-com
-title: Is paintwithjuliebrayton.com Legit? Trust Signal Check
+title: Is paintwithjuliebrayton.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for paintwithjuliebrayton.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  paintwithjuliebrayton.com scores 100/100 on our public trust checks.
+  Established domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:46:56.652Z'
 finalUrl: 'https://paintwithjuliebrayton.com/'
 reachable: true

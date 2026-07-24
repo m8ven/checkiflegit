@@ -1,10 +1,10 @@
 ---
 domain: atelier-eme.com
 slug: atelier-eme-com
-title: Is atelier-eme.com Legit? Trust Signal Check
+title: Is atelier-eme.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for atelier-eme.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  atelier-eme.com scores 85/100 on our public trust checks. Established domain —
+  registered 11.2 years ago.
 fetchedAt: '2026-06-24T21:46:43.356Z'
 finalUrl: 'https://www.atelier-eme.com/it/'
 reachable: true

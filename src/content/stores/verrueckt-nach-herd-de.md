@@ -1,11 +1,10 @@
 ---
 domain: verrueckt-nach-herd.de
 slug: verrueckt-nach-herd-de
-title: Is verrueckt-nach-herd.de Legit? Trust Signal Check
+title: Is verrueckt-nach-herd.de Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for verrueckt-nach-herd.de: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  verrueckt-nach-herd.de scores 40/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:23:57.825Z'
 finalUrl: 'https://www.verrueckt-nach-herd.de/'
 reachable: true

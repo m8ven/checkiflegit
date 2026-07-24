@@ -1,10 +1,11 @@
 ---
 domain: kazminmilk.ru
 slug: kazminmilk-ru
-title: Is kazminmilk.ru Legit? Trust Signal Check
+title: Is kazminmilk.ru Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kazminmilk.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kazminmilk.ru scores 66/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:16:53.558Z'
 finalUrl: 'http://kazminmilk.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: camasperro.es
 slug: camasperro-es
-title: Is camasperro.es Legit? Trust Signal Check
+title: Is camasperro.es Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for camasperro.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  camasperro.es scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:59:07.647Z'
 finalUrl: 'https://camasperro.es/'
 reachable: true

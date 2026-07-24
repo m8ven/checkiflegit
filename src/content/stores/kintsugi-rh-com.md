@@ -1,10 +1,10 @@
 ---
 domain: kintsugi-rh.com
 slug: kintsugi-rh-com
-title: Is kintsugi-rh.com Legit? Trust Signal Check
+title: Is kintsugi-rh.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for kintsugi-rh.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kintsugi-rh.com scores 94/100 on our public trust checks. Established domain —
+  registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:35:16.237Z'
 finalUrl: 'https://www.kintsugi-rh.com/'
 reachable: true

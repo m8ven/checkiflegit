@@ -1,10 +1,10 @@
 ---
 domain: doctorholand.ru
 slug: doctorholand-ru
-title: Is doctorholand.ru Legit? Trust Signal Check
+title: Is doctorholand.ru Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for doctorholand.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  doctorholand.ru scores 64/100 on our public trust checks. Domain is relatively
+  young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:31:10.213Z'
 finalUrl: 'https://doctorholand.ru/'
 reachable: true

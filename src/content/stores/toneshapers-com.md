@@ -1,10 +1,10 @@
 ---
 domain: toneshapers.com
 slug: toneshapers-com
-title: Is toneshapers.com Legit? Trust Signal Check
+title: Is toneshapers.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for toneshapers.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  toneshapers.com scores 100/100 on our public trust checks. Established domain
+  — registered 17.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:44:23.215Z'
 finalUrl: 'https://toneshapers.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jakestoys.com
 slug: jakestoys-com
-title: Is jakestoys.com Legit? Trust Signal Check
+title: Is jakestoys.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for jakestoys.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jakestoys.com scores 85/100 on our public trust checks. Established domain —
+  registered 30.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:19.984Z'
 finalUrl: 'https://jakestoys.com/'
 reachable: true

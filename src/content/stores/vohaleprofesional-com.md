@@ -1,10 +1,10 @@
 ---
 domain: vohaleprofesional.com
 slug: vohaleprofesional-com
-title: Is vohaleprofesional.com Legit? Trust Signal Check
+title: Is vohaleprofesional.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for vohaleprofesional.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  vohaleprofesional.com scores 88/100 on our public trust checks. Established
+  domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:37:17.701Z'
 finalUrl: 'https://vohaleprofesional.com/'
 reachable: true

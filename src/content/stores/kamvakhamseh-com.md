@@ -1,10 +1,10 @@
 ---
 domain: kamvakhamseh.com
 slug: kamvakhamseh-com
-title: Is kamvakhamseh.com Legit? Trust Signal Check
+title: Is kamvakhamseh.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kamvakhamseh.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kamvakhamseh.com scores 88/100 on our public trust checks. Established domain
+  — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:02.041Z'
 finalUrl: 'https://kamvakhamseh.com/'
 reachable: true

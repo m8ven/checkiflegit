@@ -1,10 +1,10 @@
 ---
 domain: gobloom.cc
 slug: gobloom-cc
-title: Is gobloom.cc Legit? Trust Signal Check
+title: Is gobloom.cc Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for gobloom.cc: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  gobloom.cc scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:32:15.115Z'
 finalUrl: 'https://gobloom.cc/'
 reachable: true

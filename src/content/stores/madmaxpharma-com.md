@@ -1,10 +1,10 @@
 ---
 domain: madmaxpharma.com
 slug: madmaxpharma-com
-title: Is madmaxpharma.com Legit? Trust Signal Check
+title: Is madmaxpharma.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for madmaxpharma.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  madmaxpharma.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:51:12.686Z'
 finalUrl: 'https://madmaxpharma.com/'
 reachable: true

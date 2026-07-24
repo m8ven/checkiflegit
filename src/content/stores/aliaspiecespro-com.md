@@ -1,10 +1,10 @@
 ---
 domain: aliaspiecespro.com
 slug: aliaspiecespro-com
-title: Is aliaspiecespro.com Legit? Trust Signal Check
+title: Is aliaspiecespro.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for aliaspiecespro.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aliaspiecespro.com scores 88/100 on our public trust checks. Established
+  domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:51.160Z'
 finalUrl: 'https://aliaspiecespro.com/'
 reachable: true

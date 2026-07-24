@@ -1,10 +1,10 @@
 ---
 domain: langya-camping.com
 slug: langya-camping-com
-title: Is langya-camping.com Legit? Trust Signal Check
+title: Is langya-camping.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for langya-camping.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  langya-camping.com scores 82/100 on our public trust checks. Established
+  domain — registered 12 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:30.251Z'
 finalUrl: 'https://langya-camping.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nl.sonneveld.com
 slug: nl-sonneveld-com
-title: Is nl.sonneveld.com Legit? Trust Signal Check
+title: Is nl.sonneveld.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for nl.sonneveld.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  nl.sonneveld.com scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:45:58.607Z'
 finalUrl: 'https://nl.sonneveld.com/'
 reachable: true

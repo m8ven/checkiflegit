@@ -1,10 +1,10 @@
 ---
 domain: bernsshop.ch
 slug: bernsshop-ch
-title: Is bernsshop.ch Legit? Trust Signal Check
+title: Is bernsshop.ch Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for bernsshop.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bernsshop.ch scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:58:02.793Z'
 finalUrl: 'https://bernsshop.ch/'
 reachable: true

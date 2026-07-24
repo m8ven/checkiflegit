@@ -1,10 +1,10 @@
 ---
 domain: howhome.tw
 slug: howhome-tw
-title: Is howhome.tw Legit? Trust Signal Check
+title: Is howhome.tw Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for howhome.tw: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  howhome.tw scores 49/100 on our public trust checks. No public contact details
+  detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T03:39:04.828Z'
 finalUrl: 'https://howhome.tw/'
 reachable: true

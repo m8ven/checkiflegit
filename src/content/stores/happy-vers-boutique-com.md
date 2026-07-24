@@ -1,10 +1,10 @@
 ---
 domain: happy-vers-boutique.com
 slug: happy-vers-boutique-com
-title: Is happy-vers-boutique.com Legit? Trust Signal Check
+title: Is happy-vers-boutique.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for happy-vers-boutique.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  happy-vers-boutique.com scores 100/100 on our public trust checks. Established
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:12.147Z'
 finalUrl: 'https://happy-vers-boutique.com/'
 reachable: true

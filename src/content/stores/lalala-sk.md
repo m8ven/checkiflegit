@@ -1,10 +1,10 @@
 ---
 domain: lalala.sk
 slug: lalala-sk
-title: Is lalala.sk Legit? Trust Signal Check
+title: Is lalala.sk Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lalala.sk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lalala.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:33:42.936Z'
 finalUrl: 'https://lalala.sk/'
 reachable: true

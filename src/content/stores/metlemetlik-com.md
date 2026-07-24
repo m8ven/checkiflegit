@@ -1,10 +1,10 @@
 ---
 domain: metlemetlik.com
 slug: metlemetlik-com
-title: Is metlemetlik.com Legit? Trust Signal Check
+title: Is metlemetlik.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for metlemetlik.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  metlemetlik.com scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found.
 fetchedAt: '2026-06-25T02:36:36.076Z'
 finalUrl: 'https://metlemetlik.com/'
 reachable: true

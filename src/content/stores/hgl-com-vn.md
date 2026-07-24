@@ -1,10 +1,10 @@
 ---
 domain: hgl.com.vn
 slug: hgl-com-vn
-title: Is hgl.com.vn Legit? Trust Signal Check
+title: Is hgl.com.vn Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hgl.com.vn: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hgl.com.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:34:44.376Z'
 finalUrl: 'https://hgl.com.vn/'
 reachable: true

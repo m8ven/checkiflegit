@@ -1,10 +1,10 @@
 ---
 domain: broadcasttools.com
 slug: broadcasttools-com
-title: Is broadcasttools.com Legit? Trust Signal Check
+title: Is broadcasttools.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for broadcasttools.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  broadcasttools.com scores 73/100 on our public trust checks. Established
+  domain — registered 30.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:57:11.795Z'
 finalUrl: 'https://broadcasttools.com/'
 reachable: true

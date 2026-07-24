@@ -1,10 +1,11 @@
 ---
 domain: kingstonbuildingsupplies.co.uk
 slug: kingstonbuildingsupplies-co-uk
-title: Is kingstonbuildingsupplies.co.uk Legit? Trust Signal Check
+title: Is kingstonbuildingsupplies.co.uk Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for kingstonbuildingsupplies.co.uk: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  kingstonbuildingsupplies.co.uk scores 85/100 on our public trust checks.
+  Established domain — registered 18.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:13:10.922Z'
 finalUrl: 'https://kingstonbuildingsupplies.co.uk/'
 reachable: true

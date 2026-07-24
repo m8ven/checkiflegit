@@ -1,10 +1,10 @@
 ---
 domain: ishop.te.ua
 slug: ishop-te-ua
-title: Is ishop.te.ua Legit? Trust Signal Check
+title: Is ishop.te.ua Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ishop.te.ua: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ishop.te.ua scores 58/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:47:18.960Z'
 finalUrl: 'https://ishop.te.ua/'
 reachable: true

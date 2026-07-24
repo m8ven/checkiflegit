@@ -1,10 +1,10 @@
 ---
 domain: alefredobooks.com
 slug: alefredobooks-com
-title: Is alefredobooks.com Legit? Trust Signal Check
+title: Is alefredobooks.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for alefredobooks.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alefredobooks.com scores 100/100 on our public trust checks. Established
+  domain — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:50.576Z'
 finalUrl: 'https://alefredobooks.com/'
 reachable: true

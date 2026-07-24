@@ -1,10 +1,10 @@
 ---
 domain: hurtownia.factoryprice.eu
 slug: hurtownia-factoryprice-eu
-title: Is hurtownia.factoryprice.eu Legit? Trust Signal Check
+title: Is hurtownia.factoryprice.eu Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for hurtownia.factoryprice.eu: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hurtownia.factoryprice.eu scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:37:42.601Z'
 finalUrl: 'https://hurtownia.factoryprice.eu/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nvjindustries.com.pk
 slug: nvjindustries-com-pk
-title: Is nvjindustries.com.pk Legit? Trust Signal Check
+title: Is nvjindustries.com.pk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nvjindustries.com.pk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nvjindustries.com.pk scores 100/100 on our public trust checks. Established
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:17.368Z'
 finalUrl: 'https://nvjindustries.com.pk/'
 reachable: true

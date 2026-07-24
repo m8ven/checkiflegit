@@ -1,10 +1,10 @@
 ---
 domain: khunginlua.com
 slug: khunginlua-com
-title: Is khunginlua.com Legit? Trust Signal Check
+title: Is khunginlua.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for khunginlua.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  khunginlua.com scores 73/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:19.893Z'
 finalUrl: 'https://khunginlua.com/'
 reachable: true

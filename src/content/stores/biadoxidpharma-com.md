@@ -1,10 +1,10 @@
 ---
 domain: biadoxidpharma.com
 slug: biadoxidpharma-com
-title: Is biadoxidpharma.com Legit? Trust Signal Check
+title: Is biadoxidpharma.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for biadoxidpharma.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  biadoxidpharma.com scores 85/100 on our public trust checks. Established
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:35.493Z'
 finalUrl: 'https://biadoxidpharma.com/'
 reachable: true

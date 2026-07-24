@@ -1,10 +1,10 @@
 ---
 domain: kamixa.se
 slug: kamixa-se
-title: Is kamixa.se Legit? Trust Signal Check
+title: Is kamixa.se Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kamixa.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kamixa.se scores 88/100 on our public trust checks. Established domain —
+  registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:00.875Z'
 finalUrl: 'https://kamixa.se/'
 reachable: true

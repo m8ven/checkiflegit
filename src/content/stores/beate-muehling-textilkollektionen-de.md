@@ -1,10 +1,10 @@
 ---
 domain: beate-muehling-textilkollektionen.de
 slug: beate-muehling-textilkollektionen-de
-title: Is beate-muehling-textilkollektionen.de Legit? Trust Signal Check
+title: Is beate-muehling-textilkollektionen.de Legit? Score 91/100
 description: >-
-  An automated trust-signal check for beate-muehling-textilkollektionen.de:
-  strong trust signals. Domain age, SSL, contact info, reviews and more.
+  beate-muehling-textilkollektionen.de scores 91/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:17.601Z'
 finalUrl: 'https://beate-muehling-textilkollektionen.de/'
 reachable: true

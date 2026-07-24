@@ -1,10 +1,10 @@
 ---
 domain: wm.petermichl.com
 slug: wm-petermichl-com
-title: Is wm.petermichl.com Legit? Trust Signal Check
+title: Is wm.petermichl.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for wm.petermichl.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wm.petermichl.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:10:34.619Z'
 finalUrl: 'https://wm.petermichl.com/'
 reachable: true

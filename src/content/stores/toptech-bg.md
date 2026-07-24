@@ -1,10 +1,10 @@
 ---
 domain: toptech.bg
 slug: toptech-bg
-title: Is toptech.bg Legit? Trust Signal Check
+title: Is toptech.bg Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for toptech.bg: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  toptech.bg scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:25:17.683Z'
 finalUrl: 'https://toptech.bg/'
 reachable: true

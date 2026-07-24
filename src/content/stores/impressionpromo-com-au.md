@@ -1,10 +1,10 @@
 ---
 domain: impressionpromo.com.au
 slug: impressionpromo-com-au
-title: Is impressionpromo.com.au Legit? Trust Signal Check
+title: Is impressionpromo.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for impressionpromo.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  impressionpromo.com.au scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:00:09.258Z'
 finalUrl: 'https://impressionpromo.com.au/'
 reachable: true

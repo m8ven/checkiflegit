@@ -1,10 +1,10 @@
 ---
 domain: okla.com.pk
 slug: okla-com-pk
-title: Is okla.com.pk Legit? Trust Signal Check
+title: Is okla.com.pk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for okla.com.pk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  okla.com.pk scores 100/100 on our public trust checks. Established domain —
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:31.819Z'
 finalUrl: 'https://okla.com.pk/'
 reachable: true

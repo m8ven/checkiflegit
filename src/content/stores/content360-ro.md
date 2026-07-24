@@ -1,10 +1,10 @@
 ---
 domain: content360.ro
 slug: content360-ro
-title: Is content360.ro Legit? Trust Signal Check
+title: Is content360.ro Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for content360.ro: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  content360.ro scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:30:36.170Z'
 finalUrl: 'https://content360.ro/'
 reachable: true

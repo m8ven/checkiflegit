@@ -1,10 +1,10 @@
 ---
 domain: lastschrift-shops.de
 slug: lastschrift-shops-de
-title: Is lastschrift-shops.de Legit? Trust Signal Check
+title: Is lastschrift-shops.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for lastschrift-shops.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lastschrift-shops.de scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:19:42.159Z'
 finalUrl: 'https://www.lastschrift-shops.de/'
 reachable: true

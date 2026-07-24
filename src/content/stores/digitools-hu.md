@@ -1,10 +1,10 @@
 ---
 domain: digitools.hu
 slug: digitools-hu
-title: Is digitools.hu Legit? Trust Signal Check
+title: Is digitools.hu Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for digitools.hu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  digitools.hu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:40:43.957Z'
 finalUrl: 'https://digitools.hu/'
 reachable: true

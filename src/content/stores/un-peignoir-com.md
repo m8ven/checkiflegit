@@ -1,10 +1,10 @@
 ---
 domain: un-peignoir.com
 slug: un-peignoir-com
-title: Is un-peignoir.com Legit? Trust Signal Check
+title: Is un-peignoir.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for un-peignoir.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  un-peignoir.com scores 73/100 on our public trust checks. Established domain —
+  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:18.495Z'
 finalUrl: 'https://un-peignoir.com/'
 reachable: true

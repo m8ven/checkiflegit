@@ -1,10 +1,10 @@
 ---
 domain: petrichor-illustration.com
 slug: petrichor-illustration-com
-title: Is petrichor-illustration.com Legit? Trust Signal Check
+title: Is petrichor-illustration.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for petrichor-illustration.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  petrichor-illustration.com scores 52/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:47:27.815Z'
 finalUrl: 'https://petrichor-illustration.com/'
 reachable: true

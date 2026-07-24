@@ -1,10 +1,10 @@
 ---
 domain: serpentina.es
 slug: serpentina-es
-title: Is serpentina.es Legit? Trust Signal Check
+title: Is serpentina.es Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for serpentina.es: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  serpentina.es scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:33:56.753Z'
 finalUrl: 'https://serpentina.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: canprev.hk
 slug: canprev-hk
-title: Is canprev.hk Legit? Trust Signal Check
+title: Is canprev.hk Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for canprev.hk: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  canprev.hk scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:21:07.278Z'
 finalUrl: 'https://canprev.hk/'
 reachable: true

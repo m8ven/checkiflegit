@@ -1,10 +1,10 @@
 ---
 domain: objektiv1.qodeinteractive.com
 slug: objektiv1-qodeinteractive-com
-title: Is objektiv1.qodeinteractive.com Legit? Trust Signal Check
+title: Is objektiv1.qodeinteractive.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for objektiv1.qodeinteractive.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  objektiv1.qodeinteractive.com scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:24:20.991Z'
 finalUrl: 'https://objektiv1.qodeinteractive.com/'
 reachable: true

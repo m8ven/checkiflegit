@@ -1,10 +1,10 @@
 ---
 domain: my.usaflag.org
 slug: my-usaflag-org
-title: Is my.usaflag.org Legit? Trust Signal Check
+title: Is my.usaflag.org Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for my.usaflag.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  my.usaflag.org scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:51.369Z'
 finalUrl: 'https://my.usaflag.org/'
 reachable: true

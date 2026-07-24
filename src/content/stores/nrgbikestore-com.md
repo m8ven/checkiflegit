@@ -1,10 +1,10 @@
 ---
 domain: nrgbikestore.com
 slug: nrgbikestore-com
-title: Is nrgbikestore.com Legit? Trust Signal Check
+title: Is nrgbikestore.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nrgbikestore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nrgbikestore.com scores 100/100 on our public trust checks. Established domain
+  — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:12.937Z'
 finalUrl: 'https://nrgbikestore.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: westwing.ch
 slug: westwing-ch
-title: Is westwing.ch Legit? Trust Signal Check
+title: Is westwing.ch Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for westwing.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  westwing.ch scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:24:20.380Z'
 finalUrl: 'https://www.westwing.ch/'
 reachable: true

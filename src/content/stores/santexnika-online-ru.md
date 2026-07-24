@@ -1,10 +1,10 @@
 ---
 domain: santexnika-online.ru
 slug: santexnika-online-ru
-title: Is santexnika-online.ru Legit? Trust Signal Check
+title: Is santexnika-online.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for santexnika-online.ru: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  santexnika-online.ru scores 82/100 on our public trust checks. Established
+  domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:08.876Z'
 finalUrl: 'https://santexnika-online.ru/'
 reachable: true

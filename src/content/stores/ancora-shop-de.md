@@ -1,10 +1,10 @@
 ---
 domain: ancora-shop.de
 slug: ancora-shop-de
-title: Is ancora-shop.de Legit? Trust Signal Check
+title: Is ancora-shop.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ancora-shop.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ancora-shop.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:12:06.447Z'
 finalUrl: 'https://www.ancora-shop.de/'
 reachable: true

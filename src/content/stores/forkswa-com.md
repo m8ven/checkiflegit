@@ -1,10 +1,10 @@
 ---
 domain: forkswa.com
 slug: forkswa-com
-title: Is forkswa.com Legit? Trust Signal Check
+title: Is forkswa.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for forkswa.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  forkswa.com scores 88/100 on our public trust checks. Established domain —
+  registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:46.818Z'
 finalUrl: 'https://forkswa.com/'
 reachable: true

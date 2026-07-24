@@ -1,10 +1,10 @@
 ---
 domain: islandbcn.com
 slug: islandbcn-com
-title: Is islandbcn.com Legit? Trust Signal Check
+title: Is islandbcn.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for islandbcn.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  islandbcn.com scores 100/100 on our public trust checks. Established domain —
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:38:32.558Z'
 finalUrl: 'https://islandbcn.com/'
 reachable: true

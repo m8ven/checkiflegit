@@ -1,11 +1,11 @@
 ---
 domain: store.costosperu.com
 slug: store-costosperu-com
-title: Is store.costosperu.com Legit? Trust Signal Check
+title: Is store.costosperu.com Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for store.costosperu.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  store.costosperu.com scores 19/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T02:52:25.255Z'
 finalUrl: 'https://store.costosperu.com/'
 reachable: true

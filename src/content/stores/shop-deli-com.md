@@ -1,10 +1,10 @@
 ---
 domain: shop-deli.com
 slug: shop-deli-com
-title: Is shop-deli.com Legit? Trust Signal Check
+title: Is shop-deli.com Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for shop-deli.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  shop-deli.com scores 31/100 on our public trust checks. Domain registered very
+  recently (14 days ago).
 fetchedAt: '2026-06-25T03:55:16.925Z'
 finalUrl: 'https://shop-deli.com/'
 reachable: true

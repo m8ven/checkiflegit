@@ -1,10 +1,10 @@
 ---
 domain: foliageliving.ca
 slug: foliageliving-ca
-title: Is foliageliving.ca Legit? Trust Signal Check
+title: Is foliageliving.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for foliageliving.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  foliageliving.ca scores 100/100 on our public trust checks. Established domain
+  — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:54.833Z'
 finalUrl: 'https://foliageliving.ca/'
 reachable: true

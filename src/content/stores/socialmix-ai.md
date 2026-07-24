@@ -1,10 +1,10 @@
 ---
 domain: socialmix.ai
 slug: socialmix-ai
-title: Is socialmix.ai Legit? Trust Signal Check
+title: Is socialmix.ai Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for socialmix.ai: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  socialmix.ai scores 88/100 on our public trust checks. Established domain —
+  registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:43.879Z'
 finalUrl: 'https://socialmix.ai/'
 reachable: true

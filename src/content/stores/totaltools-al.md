@@ -1,10 +1,11 @@
 ---
 domain: totaltools.al
 slug: totaltools-al
-title: Is totaltools.al Legit? Trust Signal Check
+title: Is totaltools.al Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for totaltools.al: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  totaltools.al scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:54:12.257Z'
 finalUrl: 'https://totaltools.al/'
 reachable: true

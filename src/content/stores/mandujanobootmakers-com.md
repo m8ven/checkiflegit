@@ -1,10 +1,10 @@
 ---
 domain: mandujanobootmakers.com
 slug: mandujanobootmakers-com
-title: Is mandujanobootmakers.com Legit? Trust Signal Check
+title: Is mandujanobootmakers.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mandujanobootmakers.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mandujanobootmakers.com scores 100/100 on our public trust checks. Established
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:11.562Z'
 finalUrl: 'https://mandujanobootmakers.com/'
 reachable: true

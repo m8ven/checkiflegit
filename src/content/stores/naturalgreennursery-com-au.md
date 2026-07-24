@@ -1,10 +1,10 @@
 ---
 domain: naturalgreennursery.com.au
 slug: naturalgreennursery-com-au
-title: Is naturalgreennursery.com.au Legit? Trust Signal Check
+title: Is naturalgreennursery.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for naturalgreennursery.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  naturalgreennursery.com.au scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:45:35.562Z'
 finalUrl: 'https://naturalgreennursery.com.au/'
 reachable: true

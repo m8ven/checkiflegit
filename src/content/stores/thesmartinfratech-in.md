@@ -1,10 +1,10 @@
 ---
 domain: thesmartinfratech.in
 slug: thesmartinfratech-in
-title: Is thesmartinfratech.in Legit? Trust Signal Check
+title: Is thesmartinfratech.in Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for thesmartinfratech.in: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thesmartinfratech.in scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:53:51.414Z'
 finalUrl: 'https://thesmartinfratech.in/'
 reachable: true

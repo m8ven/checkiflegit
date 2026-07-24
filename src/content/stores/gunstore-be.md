@@ -1,10 +1,10 @@
 ---
 domain: gunstore.be
 slug: gunstore-be
-title: Is gunstore.be Legit? Trust Signal Check
+title: Is gunstore.be Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for gunstore.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gunstore.be scores 82/100 on our public trust checks. Established domain —
+  registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:35.258Z'
 finalUrl: 'https://gunstore.be/'
 reachable: true

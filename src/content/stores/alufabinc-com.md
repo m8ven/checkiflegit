@@ -1,10 +1,10 @@
 ---
 domain: alufabinc.com
 slug: alufabinc-com
-title: Is alufabinc.com Legit? Trust Signal Check
+title: Is alufabinc.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for alufabinc.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alufabinc.com scores 88/100 on our public trust checks. Established domain —
+  registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:12:38.818Z'
 finalUrl: 'https://www.alufabinc.com/'
 reachable: true

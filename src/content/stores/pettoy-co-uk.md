@@ -1,10 +1,10 @@
 ---
 domain: pettoy.co.uk
 slug: pettoy-co-uk
-title: Is pettoy.co.uk Legit? Trust Signal Check
+title: Is pettoy.co.uk Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for pettoy.co.uk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pettoy.co.uk scores 76/100 on our public trust checks. Established domain —
+  registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:53.899Z'
 finalUrl: 'https://www.pettoy.co.uk/'
 reachable: true

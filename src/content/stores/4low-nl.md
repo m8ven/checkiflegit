@@ -1,10 +1,10 @@
 ---
 domain: 4low.nl
 slug: 4low-nl
-title: Is 4low.nl Legit? Trust Signal Check
+title: Is 4low.nl Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 4low.nl: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  4low.nl scores 82/100 on our public trust checks. Established domain —
+  registered 18.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:24.135Z'
 finalUrl: 'https://www.4low.nl/'
 reachable: true

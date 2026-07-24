@@ -1,10 +1,10 @@
 ---
 domain: lux-wine.it
 slug: lux-wine-it
-title: Is lux-wine.it Legit? Trust Signal Check
+title: Is lux-wine.it Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lux-wine.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lux-wine.it scores 88/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:27:11.011Z'
 finalUrl: 'https://www.lux-wine.it/'
 reachable: true

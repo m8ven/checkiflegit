@@ -1,10 +1,10 @@
 ---
 domain: myasnuyray.com.ua
 slug: myasnuyray-com-ua
-title: Is myasnuyray.com.ua Legit? Trust Signal Check
+title: Is myasnuyray.com.ua Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for myasnuyray.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  myasnuyray.com.ua scores 70/100 on our public trust checks. Established domain
+  — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:57:41.270Z'
 finalUrl: 'https://myasnuyray.com.ua/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: laramblastore.com
 slug: laramblastore-com
-title: Is laramblastore.com Legit? Trust Signal Check
+title: Is laramblastore.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for laramblastore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  laramblastore.com scores 76/100 on our public trust checks. Established domain
+  — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:44.680Z'
 finalUrl: 'https://laramblastore.com/'
 reachable: true

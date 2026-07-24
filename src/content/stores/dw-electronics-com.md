@@ -1,10 +1,10 @@
 ---
 domain: dw-electronics.com
 slug: dw-electronics-com
-title: Is dw-electronics.com Legit? Trust Signal Check
+title: Is dw-electronics.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for dw-electronics.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dw-electronics.com scores 73/100 on our public trust checks. Established
+  domain — registered 17.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:34.476Z'
 finalUrl: 'https://dw-electronics.com/'
 reachable: true

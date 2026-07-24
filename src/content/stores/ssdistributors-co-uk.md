@@ -1,10 +1,10 @@
 ---
 domain: ssdistributors.co.uk
 slug: ssdistributors-co-uk
-title: Is ssdistributors.co.uk Legit? Trust Signal Check
+title: Is ssdistributors.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for ssdistributors.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ssdistributors.co.uk scores 73/100 on our public trust checks. Established
+  domain — registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:19.251Z'
 finalUrl: 'https://ssdistributors.co.uk/'
 reachable: true

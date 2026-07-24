@@ -1,10 +1,10 @@
 ---
 domain: senshi-sushi-radom.pl
 slug: senshi-sushi-radom-pl
-title: Is senshi-sushi-radom.pl Legit? Trust Signal Check
+title: Is senshi-sushi-radom.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for senshi-sushi-radom.pl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  senshi-sushi-radom.pl scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:36:37.141Z'
 finalUrl: 'https://senshi-sushi-radom.pl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: solartechbg.info
 slug: solartechbg-info
-title: Is solartechbg.info Legit? Trust Signal Check
+title: Is solartechbg.info Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for solartechbg.info: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  solartechbg.info scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:39:11.079Z'
 finalUrl: 'https://solartechbg.info/'
 reachable: true

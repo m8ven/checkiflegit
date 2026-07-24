@@ -1,10 +1,10 @@
 ---
 domain: weinhelden.de
 slug: weinhelden-de
-title: Is weinhelden.de Legit? Trust Signal Check
+title: Is weinhelden.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for weinhelden.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  weinhelden.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:11:41.970Z'
 finalUrl: 'https://weinhelden.de/'
 reachable: true

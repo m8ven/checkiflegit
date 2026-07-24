@@ -1,10 +1,10 @@
 ---
 domain: canyon-news.com
 slug: canyon-news-com
-title: Is canyon-news.com Legit? Trust Signal Check
+title: Is canyon-news.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for canyon-news.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  canyon-news.com scores 88/100 on our public trust checks. Established domain —
+  registered 22.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:34.174Z'
 finalUrl: 'https://www.canyon-news.com/'
 reachable: true

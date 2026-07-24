@@ -1,10 +1,10 @@
 ---
 domain: albertirsagazdabolt.hu
 slug: albertirsagazdabolt-hu
-title: Is albertirsagazdabolt.hu Legit? Trust Signal Check
+title: Is albertirsagazdabolt.hu Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for albertirsagazdabolt.hu: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  albertirsagazdabolt.hu scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:12:20.041Z'
 finalUrl: 'https://www.albertirsagazdabolt.hu/'
 reachable: true

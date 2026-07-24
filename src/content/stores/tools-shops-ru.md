@@ -1,10 +1,10 @@
 ---
 domain: tools-shops.ru
 slug: tools-shops-ru
-title: Is tools-shops.ru Legit? Trust Signal Check
+title: Is tools-shops.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for tools-shops.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  tools-shops.ru scores 43/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:06:46.869Z'
 finalUrl: 'https://tools-shops.ru/'
 reachable: true

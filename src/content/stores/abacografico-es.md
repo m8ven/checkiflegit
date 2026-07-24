@@ -1,10 +1,10 @@
 ---
 domain: abacografico.es
 slug: abacografico-es
-title: Is abacografico.es Legit? Trust Signal Check
+title: Is abacografico.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for abacografico.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  abacografico.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:57:59.769Z'
 finalUrl: 'https://abacografico.es/'
 reachable: true

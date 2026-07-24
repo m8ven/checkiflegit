@@ -1,10 +1,10 @@
 ---
 domain: lafabrikmouff.fr
 slug: lafabrikmouff-fr
-title: Is lafabrikmouff.fr Legit? Trust Signal Check
+title: Is lafabrikmouff.fr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for lafabrikmouff.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lafabrikmouff.fr scores 73/100 on our public trust checks. Established domain
+  — registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:45.624Z'
 finalUrl: 'https://www.lafabrikmouff.fr/'
 reachable: true

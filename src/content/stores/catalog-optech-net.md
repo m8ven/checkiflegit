@@ -1,10 +1,10 @@
 ---
 domain: catalog.optech.net
 slug: catalog-optech-net
-title: Is catalog.optech.net Legit? Trust Signal Check
+title: Is catalog.optech.net Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for catalog.optech.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  catalog.optech.net scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:22:21.591Z'
 finalUrl: 'https://catalog.optech.net/avcat/ctl19093/index.cfm'
 reachable: true

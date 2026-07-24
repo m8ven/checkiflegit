@@ -1,10 +1,11 @@
 ---
 domain: iris-groebe.de
 slug: iris-groebe-de
-title: Is iris-groebe.de Legit? Trust Signal Check
+title: Is iris-groebe.de Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for iris-groebe.de: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  iris-groebe.de scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:16:09.718Z'
 finalUrl: 'https://www.iris-groebe.de/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: chantalculturedalmondo.it
 slug: chantalculturedalmondo-it
-title: Is chantalculturedalmondo.it Legit? Trust Signal Check
+title: Is chantalculturedalmondo.it Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for chantalculturedalmondo.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  chantalculturedalmondo.it scores 76/100 on our public trust checks.
+  Established domain — registered 6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:55:27.915Z'
 finalUrl: 'https://www.chantalculturedalmondo.it/'
 reachable: true

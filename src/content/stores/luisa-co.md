@@ -1,10 +1,10 @@
 ---
 domain: luisa.co
 slug: luisa-co
-title: Is luisa.co Legit? Trust Signal Check
+title: Is luisa.co Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for luisa.co: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  luisa.co scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:34:55.125Z'
 finalUrl: 'https://luisa.co/'
 reachable: true

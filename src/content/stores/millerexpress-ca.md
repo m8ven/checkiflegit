@@ -1,10 +1,10 @@
 ---
 domain: millerexpress.ca
 slug: millerexpress-ca
-title: Is millerexpress.ca Legit? Trust Signal Check
+title: Is millerexpress.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for millerexpress.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  millerexpress.ca scores 100/100 on our public trust checks. Established domain
+  — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:30.251Z'
 finalUrl: 'https://millerexpress.ca/'
 reachable: true

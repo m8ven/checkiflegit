@@ -1,10 +1,10 @@
 ---
 domain: aclimports.com
 slug: aclimports-com
-title: Is aclimports.com Legit? Trust Signal Check
+title: Is aclimports.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for aclimports.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aclimports.com scores 85/100 on our public trust checks. Established domain —
+  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:25.975Z'
 finalUrl: 'https://aclimports.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: danaplast.vn
 slug: danaplast-vn
-title: Is danaplast.vn Legit? Trust Signal Check
+title: Is danaplast.vn Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for danaplast.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  danaplast.vn scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T15:08:02.726Z'
 finalUrl: 'https://danaplast.vn/'
 reachable: true

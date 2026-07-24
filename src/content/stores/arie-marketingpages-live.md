@@ -1,10 +1,10 @@
 ---
 domain: arie.marketingpages.live
 slug: arie-marketingpages-live
-title: Is arie.marketingpages.live Legit? Trust Signal Check
+title: Is arie.marketingpages.live Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for arie.marketingpages.live: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  arie.marketingpages.live scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:24:57.343Z'
 finalUrl: 'https://arie.marketingpages.live/'
 reachable: true

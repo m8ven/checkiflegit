@@ -1,10 +1,10 @@
 ---
 domain: bichette-lingerie.com
 slug: bichette-lingerie-com
-title: Is bichette-lingerie.com Legit? Trust Signal Check
+title: Is bichette-lingerie.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bichette-lingerie.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bichette-lingerie.com scores 88/100 on our public trust checks. Established
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:00.169Z'
 finalUrl: 'https://bichette-lingerie.com/'
 reachable: true

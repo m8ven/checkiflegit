@@ -1,10 +1,10 @@
 ---
 domain: polinetmoi.com
 slug: polinetmoi-com
-title: Is polinetmoi.com Legit? Trust Signal Check
+title: Is polinetmoi.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for polinetmoi.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  polinetmoi.com scores 88/100 on our public trust checks. Established domain —
+  registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:30.374Z'
 finalUrl: >-
   https://www.polinetmoi.com/en/?fbclid=PAZXh0bgNhZW0BMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAad9RND7wt0jOnLesfTwVBVkgWhZPxeap3KnT-7anejvTKmqRl7doIySxwpH5A_aem_IoMECHtSPZwhEpa8j5N3qA&utm_content=link_in_bio&utm_id=97760_v0_s00_e0_tv3&utm_medium=social&utm_source=ig

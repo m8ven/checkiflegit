@@ -1,10 +1,10 @@
 ---
 domain: 9dwunastych.org
 slug: 9dwunastych-org
-title: Is 9dwunastych.org Legit? Trust Signal Check
+title: Is 9dwunastych.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for 9dwunastych.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  9dwunastych.org scores 88/100 on our public trust checks. Established domain —
+  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:40.690Z'
 finalUrl: 'https://9dwunastych.org/'
 reachable: true

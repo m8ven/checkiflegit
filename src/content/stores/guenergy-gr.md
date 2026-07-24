@@ -1,10 +1,10 @@
 ---
 domain: guenergy.gr
 slug: guenergy-gr
-title: Is guenergy.gr Legit? Trust Signal Check
+title: Is guenergy.gr Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for guenergy.gr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  guenergy.gr scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:10:18.783Z'
 finalUrl: 'https://www.guenergy.gr/'
 reachable: true

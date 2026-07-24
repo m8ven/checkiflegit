@@ -1,10 +1,10 @@
 ---
 domain: musclebeachsupps.com
 slug: musclebeachsupps-com
-title: Is musclebeachsupps.com Legit? Trust Signal Check
+title: Is musclebeachsupps.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for musclebeachsupps.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  musclebeachsupps.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:37:42.735Z'
 finalUrl: 'https://musclebeachsupps.com/'
 reachable: true

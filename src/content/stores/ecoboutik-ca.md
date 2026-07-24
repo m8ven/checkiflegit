@@ -1,10 +1,10 @@
 ---
 domain: ecoboutik.ca
 slug: ecoboutik-ca
-title: Is ecoboutik.ca Legit? Trust Signal Check
+title: Is ecoboutik.ca Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ecoboutik.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ecoboutik.ca scores 88/100 on our public trust checks. Established domain —
+  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:34.917Z'
 finalUrl: 'https://www.ecoboutik.ca/'
 reachable: true

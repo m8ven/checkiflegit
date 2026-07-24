@@ -1,10 +1,10 @@
 ---
 domain: advancedcustomfields.com
 slug: advancedcustomfields-com
-title: Is advancedcustomfields.com Legit? Trust Signal Check
+title: Is advancedcustomfields.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for advancedcustomfields.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  advancedcustomfields.com scores 64/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-24T21:45:13.308Z'
 finalUrl: 'https://www.advancedcustomfields.com/'
 reachable: true

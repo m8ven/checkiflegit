@@ -1,10 +1,10 @@
 ---
 domain: nik-nak.eu
 slug: nik-nak-eu
-title: Is nik-nak.eu Legit? Trust Signal Check
+title: Is nik-nak.eu Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nik-nak.eu: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nik-nak.eu scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:23:16.315Z'
 finalUrl: 'https://nik-nak.eu/'
 reachable: true

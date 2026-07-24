@@ -1,10 +1,10 @@
 ---
 domain: us.rubbdeodorant.com
 slug: us-rubbdeodorant-com
-title: Is us.rubbdeodorant.com Legit? Trust Signal Check
+title: Is us.rubbdeodorant.com Legit? Trust Score 46/100
 description: >-
-  An automated trust-signal check for us.rubbdeodorant.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  us.rubbdeodorant.com scores 46/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:30:31.838Z'
 finalUrl: 'https://us.rubbdeodorant.com/'
 reachable: true

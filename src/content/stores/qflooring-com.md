@@ -1,10 +1,10 @@
 ---
 domain: qflooring.com
 slug: qflooring-com
-title: Is qflooring.com Legit? Trust Signal Check
+title: Is qflooring.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for qflooring.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  qflooring.com scores 88/100 on our public trust checks. Established domain —
+  registered 22 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:14.264Z'
 finalUrl: 'https://www.qflooring.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tukanforlag.se
 slug: tukanforlag-se
-title: Is tukanforlag.se Legit? Trust Signal Check
+title: Is tukanforlag.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for tukanforlag.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tukanforlag.se scores 88/100 on our public trust checks. Established domain —
+  registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:50.283Z'
 finalUrl: 'https://tukanforlag.se/'
 reachable: true

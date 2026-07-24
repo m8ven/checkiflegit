@@ -1,10 +1,10 @@
 ---
 domain: a24films.com
 slug: a24films-com
-title: Is a24films.com Legit? Trust Signal Check
+title: Is a24films.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for a24films.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  a24films.com scores 76/100 on our public trust checks. Established domain —
+  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:14.260Z'
 finalUrl: 'https://a24films.com/'
 reachable: true

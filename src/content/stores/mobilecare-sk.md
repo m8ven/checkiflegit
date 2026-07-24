@@ -1,10 +1,11 @@
 ---
 domain: mobilecare.sk
 slug: mobilecare-sk
-title: Is mobilecare.sk Legit? Trust Signal Check
+title: Is mobilecare.sk Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for mobilecare.sk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mobilecare.sk scores 76/100 on our public trust checks. Public business
+  contact details are listed. Maintains links to multiple social media
+  platforms.
 fetchedAt: '2026-06-25T03:56:12.938Z'
 finalUrl: 'https://mobilecare.sk/'
 reachable: true

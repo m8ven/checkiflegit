@@ -1,10 +1,10 @@
 ---
 domain: tdparitet.com.ua
 slug: tdparitet-com-ua
-title: Is tdparitet.com.ua Legit? Trust Signal Check
+title: Is tdparitet.com.ua Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for tdparitet.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tdparitet.com.ua scores 85/100 on our public trust checks. Established domain
+  — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:01.705Z'
 finalUrl: 'https://tdparitet.com.ua/'
 reachable: true

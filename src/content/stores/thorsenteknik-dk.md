@@ -1,10 +1,10 @@
 ---
 domain: thorsenteknik.dk
 slug: thorsenteknik-dk
-title: Is thorsenteknik.dk Legit? Trust Signal Check
+title: Is thorsenteknik.dk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thorsenteknik.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thorsenteknik.dk scores 100/100 on our public trust checks. Established domain
+  — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:15.334Z'
 finalUrl: 'https://thorsenteknik.dk/'
 reachable: true

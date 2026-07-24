@@ -1,10 +1,10 @@
 ---
 domain: sewvacauthority.com
 slug: sewvacauthority-com
-title: Is sewvacauthority.com Legit? Trust Signal Check
+title: Is sewvacauthority.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sewvacauthority.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sewvacauthority.com scores 100/100 on our public trust checks. Established
+  domain — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:34.725Z'
 finalUrl: 'https://sewvacauthority.com/'
 reachable: true

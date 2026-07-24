@@ -1,10 +1,10 @@
 ---
 domain: catalogo.welcomenext.com
 slug: catalogo-welcomenext-com
-title: Is catalogo.welcomenext.com Legit? Trust Signal Check
+title: Is catalogo.welcomenext.com Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for catalogo.welcomenext.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  catalogo.welcomenext.com scores 91/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:03.191Z'
 finalUrl: 'https://catalogo.welcomenext.com/'
 reachable: true

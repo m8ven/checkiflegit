@@ -1,10 +1,10 @@
 ---
 domain: hcs.la
 slug: hcs-la
-title: Is hcs.la Legit? Trust Signal Check
+title: Is hcs.la Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hcs.la: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  hcs.la scores 94/100 on our public trust checks. Established domain —
+  registered 8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:52.916Z'
 finalUrl: 'https://hcs.la/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: traxxion.com
 slug: traxxion-com
-title: Is traxxion.com Legit? Trust Signal Check
+title: Is traxxion.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for traxxion.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  traxxion.com scores 85/100 on our public trust checks. Established domain —
+  registered 28 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:13.445Z'
 finalUrl: 'https://traxxion.com/'
 reachable: true

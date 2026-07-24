@@ -1,10 +1,10 @@
 ---
 domain: ledthaibinh.com
 slug: ledthaibinh-com
-title: Is ledthaibinh.com Legit? Trust Signal Check
+title: Is ledthaibinh.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ledthaibinh.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ledthaibinh.com scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:29:28.310Z'
 finalUrl: 'https://ledthaibinh.com/'
 reachable: true

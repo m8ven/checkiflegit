@@ -1,10 +1,10 @@
 ---
 domain: tuinmeubelsale.nl
 slug: tuinmeubelsale-nl
-title: Is tuinmeubelsale.nl Legit? Trust Signal Check
+title: Is tuinmeubelsale.nl Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for tuinmeubelsale.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tuinmeubelsale.nl scores 70/100 on our public trust checks. Established domain
+  — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:40.119Z'
 finalUrl: 'https://tuinmeubelsale.nl/'
 reachable: true

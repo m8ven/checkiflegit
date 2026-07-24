@@ -1,10 +1,10 @@
 ---
 domain: calzedonia.com
 slug: calzedonia-com
-title: Is calzedonia.com Legit? Trust Signal Check
+title: Is calzedonia.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for calzedonia.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  calzedonia.com scores 85/100 on our public trust checks. Established domain —
+  registered 27.9 years ago.
 fetchedAt: '2026-06-24T21:45:16.888Z'
 finalUrl: 'https://www.calzedonia.com/us/'
 reachable: true

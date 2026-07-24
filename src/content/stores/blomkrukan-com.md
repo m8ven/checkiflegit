@@ -1,10 +1,10 @@
 ---
 domain: blomkrukan.com
 slug: blomkrukan-com
-title: Is blomkrukan.com Legit? Trust Signal Check
+title: Is blomkrukan.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for blomkrukan.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blomkrukan.com scores 73/100 on our public trust checks. Established domain —
+  registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:35.881Z'
 finalUrl: 'https://www.blomkrukan.com/'
 reachable: true

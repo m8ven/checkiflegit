@@ -1,10 +1,10 @@
 ---
 domain: agsl.fr
 slug: agsl-fr
-title: Is agsl.fr Legit? Trust Signal Check
+title: Is agsl.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for agsl.fr: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  agsl.fr scores 88/100 on our public trust checks. Established domain —
+  registered 20.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:35.848Z'
 finalUrl: 'https://agsl.fr/'
 reachable: true

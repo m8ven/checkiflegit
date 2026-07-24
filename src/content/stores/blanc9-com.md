@@ -1,10 +1,10 @@
 ---
 domain: blanc9.com
 slug: blanc9-com
-title: Is blanc9.com Legit? Trust Signal Check
+title: Is blanc9.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for blanc9.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  blanc9.com scores 100/100 on our public trust checks. Established domain —
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:54.212Z'
 finalUrl: 'https://blanc9.com/'
 reachable: true

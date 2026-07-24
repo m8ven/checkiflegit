@@ -1,10 +1,11 @@
 ---
 domain: arfacraft.com
 slug: arfacraft-com
-title: Is arfacraft.com Legit? Trust Signal Check
+title: Is arfacraft.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for arfacraft.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arfacraft.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:00:23.084Z'
 finalUrl: 'https://arfacraft.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dgat.interieur.gouv.ci
 slug: dgat-interieur-gouv-ci
-title: Is dgat.interieur.gouv.ci Legit? Trust Signal Check
+title: Is dgat.interieur.gouv.ci Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for dgat.interieur.gouv.ci: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dgat.interieur.gouv.ci scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:24:48.656Z'
 finalUrl: 'https://dgat.interieur.gouv.ci/'
 reachable: true

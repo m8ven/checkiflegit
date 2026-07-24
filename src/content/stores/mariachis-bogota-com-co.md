@@ -1,10 +1,10 @@
 ---
 domain: mariachis-bogota.com.co
 slug: mariachis-bogota-com-co
-title: Is mariachis-bogota.com.co Legit? Trust Signal Check
+title: Is mariachis-bogota.com.co Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mariachis-bogota.com.co: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mariachis-bogota.com.co scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:11.069Z'
 finalUrl: 'https://mariachis-bogota.com.co/'
 reachable: true

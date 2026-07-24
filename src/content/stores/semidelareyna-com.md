@@ -1,10 +1,10 @@
 ---
 domain: semidelareyna.com
 slug: semidelareyna-com
-title: Is semidelareyna.com Legit? Trust Signal Check
+title: Is semidelareyna.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for semidelareyna.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  semidelareyna.com scores 88/100 on our public trust checks. Established domain
+  — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:00:32.572Z'
 finalUrl: 'https://semidelareyna.com/'
 reachable: true

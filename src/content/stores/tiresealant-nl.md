@@ -1,10 +1,10 @@
 ---
 domain: tiresealant.nl
 slug: tiresealant-nl
-title: Is tiresealant.nl Legit? Trust Signal Check
+title: Is tiresealant.nl Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for tiresealant.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tiresealant.nl scores 94/100 on our public trust checks. Established domain —
+  registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:39.431Z'
 finalUrl: 'https://tiresealant.nl/'
 reachable: true

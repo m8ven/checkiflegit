@@ -1,10 +1,10 @@
 ---
 domain: boerwinkelvanhetland.nl
 slug: boerwinkelvanhetland-nl
-title: Is boerwinkelvanhetland.nl Legit? Trust Signal Check
+title: Is boerwinkelvanhetland.nl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for boerwinkelvanhetland.nl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  boerwinkelvanhetland.nl scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:48:50.895Z'
 finalUrl: 'https://boerwinkelvanhetland.nl/'
 reachable: true

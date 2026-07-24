@@ -1,10 +1,10 @@
 ---
 domain: calzadoslares.com
 slug: calzadoslares-com
-title: Is calzadoslares.com Legit? Trust Signal Check
+title: Is calzadoslares.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for calzadoslares.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  calzadoslares.com scores 100/100 on our public trust checks. Established
+  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:19.952Z'
 finalUrl: 'https://calzadoslares.com/'
 reachable: true

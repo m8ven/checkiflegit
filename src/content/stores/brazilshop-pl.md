@@ -1,10 +1,11 @@
 ---
 domain: brazilshop.pl
 slug: brazilshop-pl
-title: Is brazilshop.pl Legit? Trust Signal Check
+title: Is brazilshop.pl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for brazilshop.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brazilshop.pl scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T15:37:43.509Z'
 finalUrl: 'https://brazilshop.pl/'
 reachable: true

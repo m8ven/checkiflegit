@@ -1,10 +1,10 @@
 ---
 domain: cobadis.es
 slug: cobadis-es
-title: Is cobadis.es Legit? Trust Signal Check
+title: Is cobadis.es Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for cobadis.es: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cobadis.es scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:39:06.367Z'
 finalUrl: 'https://cobadis.es/'
 reachable: true

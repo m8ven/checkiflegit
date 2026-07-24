@@ -1,10 +1,11 @@
 ---
 domain: haokan.com.tw
 slug: haokan-com-tw
-title: Is haokan.com.tw Legit? Trust Signal Check
+title: Is haokan.com.tw Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for haokan.com.tw: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  haokan.com.tw scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T15:14:35.988Z'
 finalUrl: 'https://haokan.com.tw/'
 reachable: true

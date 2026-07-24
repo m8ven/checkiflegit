@@ -1,10 +1,10 @@
 ---
 domain: serreco-messtechnik.ch
 slug: serreco-messtechnik-ch
-title: Is serreco-messtechnik.ch Legit? Trust Signal Check
+title: Is serreco-messtechnik.ch Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for serreco-messtechnik.ch: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  serreco-messtechnik.ch scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:30:56.861Z'
 finalUrl: 'https://serreco-messtechnik.ch/'
 reachable: true

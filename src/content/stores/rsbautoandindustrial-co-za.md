@@ -1,10 +1,10 @@
 ---
 domain: rsbautoandindustrial.co.za
 slug: rsbautoandindustrial-co-za
-title: Is rsbautoandindustrial.co.za Legit? Trust Signal Check
+title: Is rsbautoandindustrial.co.za Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for rsbautoandindustrial.co.za: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rsbautoandindustrial.co.za scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:27:26.111Z'
 finalUrl: 'https://www.rsbautoandindustrial.co.za/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: zavodnex.ru
 slug: zavodnex-ru
-title: Is zavodnex.ru Legit? Trust Signal Check
+title: Is zavodnex.ru Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for zavodnex.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zavodnex.ru scores 82/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:01.122Z'
 finalUrl: 'https://zavodnex.ru/'
 reachable: true

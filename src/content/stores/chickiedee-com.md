@@ -1,10 +1,10 @@
 ---
 domain: chickiedee.com
 slug: chickiedee-com
-title: Is chickiedee.com Legit? Trust Signal Check
+title: Is chickiedee.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for chickiedee.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chickiedee.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:28:53.091Z'
 finalUrl: 'https://chickiedee.com/'
 reachable: true

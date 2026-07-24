@@ -1,10 +1,10 @@
 ---
 domain: eautocheck.de
 slug: eautocheck-de
-title: Is eautocheck.de Legit? Trust Signal Check
+title: Is eautocheck.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for eautocheck.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eautocheck.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:35:58.258Z'
 finalUrl: 'https://eautocheck.de/'
 reachable: true

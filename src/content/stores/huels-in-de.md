@@ -1,10 +1,10 @@
 ---
 domain: huels-in.de
 slug: huels-in-de
-title: Is huels-in.de Legit? Trust Signal Check
+title: Is huels-in.de Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for huels-in.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  huels-in.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:02:46.120Z'
 finalUrl: 'https://www.huels-in.de/'
 reachable: true

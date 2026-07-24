@@ -1,10 +1,10 @@
 ---
 domain: ontdekenbenut.nl
 slug: ontdekenbenut-nl
-title: Is ontdekenbenut.nl Legit? Trust Signal Check
+title: Is ontdekenbenut.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for ontdekenbenut.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ontdekenbenut.nl scores 82/100 on our public trust checks. Established domain
+  — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:28.404Z'
 finalUrl: 'https://ontdekenbenut.nl/'
 reachable: true

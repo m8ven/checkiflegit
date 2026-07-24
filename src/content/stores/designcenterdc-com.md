@@ -1,10 +1,10 @@
 ---
 domain: designcenterdc.com
 slug: designcenterdc-com
-title: Is designcenterdc.com Legit? Trust Signal Check
+title: Is designcenterdc.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for designcenterdc.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  designcenterdc.com scores 76/100 on our public trust checks. Established
+  domain — registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:23.177Z'
 finalUrl: 'https://designcenterdc.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: amourdebebe.fr
 slug: amourdebebe-fr
-title: Is amourdebebe.fr Legit? Trust Signal Check
+title: Is amourdebebe.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for amourdebebe.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  amourdebebe.fr scores 100/100 on our public trust checks. Established domain —
+  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:19.336Z'
 finalUrl: 'https://www.amourdebebe.fr/'
 reachable: true

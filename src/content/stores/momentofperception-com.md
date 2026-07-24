@@ -1,10 +1,10 @@
 ---
 domain: momentofperception.com
 slug: momentofperception-com
-title: Is momentofperception.com Legit? Trust Signal Check
+title: Is momentofperception.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for momentofperception.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  momentofperception.com scores 85/100 on our public trust checks. Established
+  domain — registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:31.461Z'
 finalUrl: 'https://momentofperception.com/'
 reachable: true

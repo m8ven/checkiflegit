@@ -1,10 +1,10 @@
 ---
 domain: vlt.ro
 slug: vlt-ro
-title: Is vlt.ro Legit? Trust Signal Check
+title: Is vlt.ro Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for vlt.ro: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  vlt.ro scores 100/100 on our public trust checks. Established domain —
+  registered 21.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:43.463Z'
 finalUrl: 'https://vlt.ro/'
 reachable: true

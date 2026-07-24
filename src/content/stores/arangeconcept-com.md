@@ -1,10 +1,10 @@
 ---
 domain: arangeconcept.com
 slug: arangeconcept-com
-title: Is arangeconcept.com Legit? Trust Signal Check
+title: Is arangeconcept.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for arangeconcept.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arangeconcept.com scores 82/100 on our public trust checks. Established domain
+  — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:06.221Z'
 finalUrl: 'https://arangeconcept.com/'
 reachable: true

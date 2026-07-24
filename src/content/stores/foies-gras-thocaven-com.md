@@ -1,10 +1,10 @@
 ---
 domain: foies-gras-thocaven.com
 slug: foies-gras-thocaven-com
-title: Is foies-gras-thocaven.com Legit? Trust Signal Check
+title: Is foies-gras-thocaven.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for foies-gras-thocaven.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  foies-gras-thocaven.com scores 82/100 on our public trust checks. Established
+  domain — registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:01.105Z'
 finalUrl: 'https://www.foies-gras-thocaven.com/'
 reachable: true

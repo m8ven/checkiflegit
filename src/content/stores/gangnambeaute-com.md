@@ -1,10 +1,10 @@
 ---
 domain: gangnambeaute.com
 slug: gangnambeaute-com
-title: Is gangnambeaute.com Legit? Trust Signal Check
+title: Is gangnambeaute.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for gangnambeaute.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gangnambeaute.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:49:58.604Z'
 finalUrl: 'https://gangnambeaute.com/'
 reachable: true

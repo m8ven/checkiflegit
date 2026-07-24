@@ -1,10 +1,10 @@
 ---
 domain: miglioresalute.com
 slug: miglioresalute-com
-title: Is miglioresalute.com Legit? Trust Signal Check
+title: Is miglioresalute.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for miglioresalute.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  miglioresalute.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:44:26.756Z'
 finalUrl: 'https://miglioresalute.com/'
 reachable: true

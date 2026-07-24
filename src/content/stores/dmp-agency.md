@@ -1,10 +1,10 @@
 ---
 domain: dmp.agency
 slug: dmp-agency
-title: Is dmp.agency Legit? Trust Signal Check
+title: Is dmp.agency Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dmp.agency: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dmp.agency scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:24:55.015Z'
 finalUrl: 'https://dmp.agency/'
 reachable: true

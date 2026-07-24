@@ -1,10 +1,10 @@
 ---
 domain: peax.sk
 slug: peax-sk
-title: Is peax.sk Legit? Trust Signal Check
+title: Is peax.sk Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for peax.sk: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  peax.sk scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:40:41.578Z'
 finalUrl: 'https://www.peax.sk/'
 reachable: true

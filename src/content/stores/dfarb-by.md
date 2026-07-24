@@ -1,10 +1,10 @@
 ---
 domain: dfarb.by
 slug: dfarb-by
-title: Is dfarb.by Legit? Trust Signal Check
+title: Is dfarb.by Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dfarb.by: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dfarb.by scores 88/100 on our public trust checks. Established domain —
+  registered 16.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:04.416Z'
 finalUrl: 'https://dfarb.by/'
 reachable: true

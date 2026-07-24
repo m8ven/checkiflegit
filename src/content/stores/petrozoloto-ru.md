@@ -1,10 +1,10 @@
 ---
 domain: petrozoloto.ru
 slug: petrozoloto-ru
-title: Is petrozoloto.ru Legit? Trust Signal Check
+title: Is petrozoloto.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for petrozoloto.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  petrozoloto.ru scores 73/100 on our public trust checks. Established domain —
+  registered 23.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:30.372Z'
 finalUrl: 'https://petrozoloto.ru/'
 reachable: true

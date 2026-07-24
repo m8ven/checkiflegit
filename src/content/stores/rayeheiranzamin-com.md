@@ -1,10 +1,10 @@
 ---
 domain: rayeheiranzamin.com
 slug: rayeheiranzamin-com
-title: Is rayeheiranzamin.com Legit? Trust Signal Check
+title: Is rayeheiranzamin.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for rayeheiranzamin.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rayeheiranzamin.com scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:19:10.921Z'
 finalUrl: 'https://rayeheiranzamin.com/'
 reachable: true

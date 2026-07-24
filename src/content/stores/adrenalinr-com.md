@@ -1,10 +1,10 @@
 ---
 domain: adrenalinr.com
 slug: adrenalinr-com
-title: Is adrenalinr.com Legit? Trust Signal Check
+title: Is adrenalinr.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for adrenalinr.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  adrenalinr.com scores 100/100 on our public trust checks. Established domain —
+  registered 20.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:51.520Z'
 finalUrl: 'https://adrenalinr.com/'
 reachable: true

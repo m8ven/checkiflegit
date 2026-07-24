@@ -1,10 +1,10 @@
 ---
 domain: ramnssd.com
 slug: ramnssd-com
-title: Is ramnssd.com Legit? Trust Signal Check
+title: Is ramnssd.com Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ramnssd.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ramnssd.com scores 67/100 on our public trust checks. No links to major social
+  platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:42:18.318Z'
 finalUrl: 'https://ramnssd.com/'
 reachable: true

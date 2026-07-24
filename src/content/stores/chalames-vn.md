@@ -1,10 +1,10 @@
 ---
 domain: chalames.vn
 slug: chalames-vn
-title: Is chalames.vn Legit? Trust Signal Check
+title: Is chalames.vn Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for chalames.vn: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  chalames.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:27:17.463Z'
 finalUrl: 'https://chalames.vn/'
 reachable: true

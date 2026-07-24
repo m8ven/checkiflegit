@@ -1,10 +1,10 @@
 ---
 domain: miswakpk.com
 slug: miswakpk-com
-title: Is miswakpk.com Legit? Trust Signal Check
+title: Is miswakpk.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for miswakpk.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  miswakpk.com scores 88/100 on our public trust checks. Established domain —
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:16.324Z'
 finalUrl: 'https://www.miswakpk.com/'
 reachable: true

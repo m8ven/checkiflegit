@@ -1,10 +1,10 @@
 ---
 domain: simlife.com.br
 slug: simlife-com-br
-title: Is simlife.com.br Legit? Trust Signal Check
+title: Is simlife.com.br Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for simlife.com.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  simlife.com.br scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:06:30.083Z'
 finalUrl: 'https://simlife.com.br/'
 reachable: true

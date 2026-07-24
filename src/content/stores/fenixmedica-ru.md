@@ -1,10 +1,10 @@
 ---
 domain: fenixmedica.ru
 slug: fenixmedica-ru
-title: Is fenixmedica.ru Legit? Trust Signal Check
+title: Is fenixmedica.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for fenixmedica.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fenixmedica.ru scores 82/100 on our public trust checks. Established domain —
+  registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:29.215Z'
 finalUrl: 'https://fenixmedica.ru/'
 reachable: true

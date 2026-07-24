@@ -1,10 +1,10 @@
 ---
 domain: hisgifts.us
 slug: hisgifts-us
-title: Is hisgifts.us Legit? Trust Signal Check
+title: Is hisgifts.us Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hisgifts.us: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hisgifts.us scores 100/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:06.807Z'
 finalUrl: 'https://www.hisgifts.us/'
 reachable: true

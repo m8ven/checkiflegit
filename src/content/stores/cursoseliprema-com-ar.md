@@ -1,10 +1,10 @@
 ---
 domain: cursoseliprema.com.ar
 slug: cursoseliprema-com-ar
-title: Is cursoseliprema.com.ar Legit? Trust Signal Check
+title: Is cursoseliprema.com.ar Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for cursoseliprema.com.ar: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cursoseliprema.com.ar scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:40:41.021Z'
 finalUrl: 'https://cursoseliprema.com.ar/'
 reachable: true

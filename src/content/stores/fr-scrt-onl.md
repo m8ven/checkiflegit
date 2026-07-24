@@ -1,10 +1,10 @@
 ---
 domain: fr.scrt.onl
 slug: fr-scrt-onl
-title: Is fr.scrt.onl Legit? Trust Signal Check
+title: Is fr.scrt.onl Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fr.scrt.onl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fr.scrt.onl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:45:47.239Z'
 finalUrl: 'https://fr.scrt.onl/'
 reachable: true

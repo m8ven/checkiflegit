@@ -1,10 +1,10 @@
 ---
 domain: roden55.ru
 slug: roden55-ru
-title: Is roden55.ru Legit? Trust Signal Check
+title: Is roden55.ru Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for roden55.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  roden55.ru scores 70/100 on our public trust checks. Established domain —
+  registered 10.5 years ago. Maintains links to multiple social media platforms.
 fetchedAt: '2026-06-25T03:47:28.327Z'
 finalUrl: 'https://roden55.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kuradashi.jp
 slug: kuradashi-jp
-title: Is kuradashi.jp Legit? Trust Signal Check
+title: Is kuradashi.jp Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kuradashi.jp: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kuradashi.jp scores 100/100 on our public trust checks. Established domain —
+  registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:31.652Z'
 finalUrl: 'https://kuradashi.jp/'
 reachable: true

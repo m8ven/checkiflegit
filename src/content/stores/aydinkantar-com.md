@@ -1,10 +1,10 @@
 ---
 domain: aydinkantar.com
 slug: aydinkantar-com
-title: Is aydinkantar.com Legit? Trust Signal Check
+title: Is aydinkantar.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for aydinkantar.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  aydinkantar.com scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:00:37.301Z'
 finalUrl: 'https://aydinkantar.com/'
 reachable: true

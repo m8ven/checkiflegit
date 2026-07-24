@@ -1,10 +1,10 @@
 ---
 domain: store.thaihousebh.com
 slug: store-thaihousebh-com
-title: Is store.thaihousebh.com Legit? Trust Signal Check
+title: Is store.thaihousebh.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for store.thaihousebh.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  store.thaihousebh.com scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:30.664Z'
 finalUrl: 'https://store.thaihousebh.com/'
 reachable: true

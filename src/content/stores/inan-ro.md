@@ -1,10 +1,10 @@
 ---
 domain: inan.ro
 slug: inan-ro
-title: Is inan.ro Legit? Trust Signal Check
+title: Is inan.ro Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for inan.ro: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  inan.ro scores 76/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:18.562Z'
 finalUrl: 'https://inan.ro/'
 reachable: true

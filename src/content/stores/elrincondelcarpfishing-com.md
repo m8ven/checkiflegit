@@ -1,10 +1,11 @@
 ---
 domain: elrincondelcarpfishing.com
 slug: elrincondelcarpfishing-com
-title: Is elrincondelcarpfishing.com Legit? Trust Signal Check
+title: Is elrincondelcarpfishing.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for elrincondelcarpfishing.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  elrincondelcarpfishing.com scores 88/100 on our public trust checks.
+  Established domain — registered 13.8 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:42:03.109Z'
 finalUrl: 'https://elrincondelcarpfishing.com/'
 reachable: true

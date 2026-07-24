@@ -1,10 +1,11 @@
 ---
 domain: selfish.com.ar
 slug: selfish-com-ar
-title: Is selfish.com.ar Legit? Trust Signal Check
+title: Is selfish.com.ar Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for selfish.com.ar: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  selfish.com.ar scores 76/100 on our public trust checks. Public business
+  contact details are listed. Maintains links to multiple social media
+  platforms.
 fetchedAt: '2026-06-25T15:03:25.986Z'
 finalUrl: 'https://selfish.com.ar/'
 reachable: true

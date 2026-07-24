@@ -1,10 +1,10 @@
 ---
 domain: merzcargoarg.com
 slug: merzcargoarg-com
-title: Is merzcargoarg.com Legit? Trust Signal Check
+title: Is merzcargoarg.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for merzcargoarg.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  merzcargoarg.com scores 88/100 on our public trust checks. Established domain
+  — registered 17.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:30.416Z'
 finalUrl: 'https://merzcargoarg.com/'
 reachable: true

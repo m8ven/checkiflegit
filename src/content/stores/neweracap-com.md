@@ -1,10 +1,10 @@
 ---
 domain: neweracap.com
 slug: neweracap-com
-title: Is neweracap.com Legit? Trust Signal Check
+title: Is neweracap.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for neweracap.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  neweracap.com scores 70/100 on our public trust checks. Established domain —
+  registered 29.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:36.462Z'
 finalUrl: 'https://www.neweracap.com/'
 reachable: true

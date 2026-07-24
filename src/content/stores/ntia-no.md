@@ -1,10 +1,10 @@
 ---
 domain: ntia.no
 slug: ntia-no
-title: Is ntia.no Legit? Trust Signal Check
+title: Is ntia.no Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ntia.no: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  ntia.no scores 73/100 on our public trust checks. Established domain —
+  registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:36.143Z'
 finalUrl: 'https://ntia.no/'
 reachable: true

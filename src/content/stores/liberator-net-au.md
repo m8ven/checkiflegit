@@ -1,10 +1,10 @@
 ---
 domain: liberator.net.au
 slug: liberator-net-au
-title: Is liberator.net.au Legit? Trust Signal Check
+title: Is liberator.net.au Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for liberator.net.au: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  liberator.net.au scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:52:55.910Z'
 finalUrl: 'https://liberator.net.au/'
 reachable: true

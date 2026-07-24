@@ -1,10 +1,10 @@
 ---
 domain: santehholl.ru
 slug: santehholl-ru
-title: Is santehholl.ru Legit? Trust Signal Check
+title: Is santehholl.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for santehholl.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  santehholl.ru scores 73/100 on our public trust checks. Established domain —
+  registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:18.035Z'
 finalUrl: 'https://santehholl.ru/'
 reachable: true

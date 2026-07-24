@@ -1,10 +1,10 @@
 ---
 domain: credenza-furniture.com
 slug: credenza-furniture-com
-title: Is credenza-furniture.com Legit? Trust Signal Check
+title: Is credenza-furniture.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for credenza-furniture.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  credenza-furniture.com scores 73/100 on our public trust checks. Established
+  domain — registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:17.145Z'
 finalUrl: 'https://credenza-furniture.com/'
 reachable: true

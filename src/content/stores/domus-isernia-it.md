@@ -1,10 +1,10 @@
 ---
 domain: domus-isernia.it
 slug: domus-isernia-it
-title: Is domus-isernia.it Legit? Trust Signal Check
+title: Is domus-isernia.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for domus-isernia.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  domus-isernia.it scores 100/100 on our public trust checks. Established domain
+  — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:11.747Z'
 finalUrl: 'https://domus-isernia.it/'
 reachable: true

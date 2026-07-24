@@ -1,10 +1,10 @@
 ---
 domain: shawnhorton.com
 slug: shawnhorton-com
-title: Is shawnhorton.com Legit? Trust Signal Check
+title: Is shawnhorton.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for shawnhorton.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shawnhorton.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:22:33.177Z'
 finalUrl: 'https://shawnhorton.com/'
 reachable: true

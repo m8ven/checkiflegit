@@ -1,10 +1,10 @@
 ---
 domain: faberindia.com
 slug: faberindia-com
-title: Is faberindia.com Legit? Trust Signal Check
+title: Is faberindia.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for faberindia.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  faberindia.com scores 100/100 on our public trust checks. Established domain —
+  registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:40.265Z'
 finalUrl: 'https://faberindia.com/'
 reachable: true

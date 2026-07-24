@@ -1,10 +1,10 @@
 ---
 domain: mundopanda.com
 slug: mundopanda-com
-title: Is mundopanda.com Legit? Trust Signal Check
+title: Is mundopanda.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for mundopanda.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mundopanda.com scores 82/100 on our public trust checks. Established domain —
+  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:16.350Z'
 finalUrl: 'https://mundopanda.com/'
 reachable: true

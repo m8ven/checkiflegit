@@ -1,10 +1,10 @@
 ---
 domain: sweetfit.com.au
 slug: sweetfit-com-au
-title: Is sweetfit.com.au Legit? Trust Signal Check
+title: Is sweetfit.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sweetfit.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sweetfit.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:22:35.748Z'
 finalUrl: 'https://www.sweetfit.com.au/'
 reachable: true

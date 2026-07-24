@@ -1,10 +1,10 @@
 ---
 domain: gmsgida.com
 slug: gmsgida-com
-title: Is gmsgida.com Legit? Trust Signal Check
+title: Is gmsgida.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for gmsgida.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gmsgida.com scores 58/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:54:40.521Z'
 finalUrl: 'https://www.gmsgida.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: 2k-trade.com
 slug: 2k-trade-com
-title: Is 2k-trade.com Legit? Trust Signal Check
+title: Is 2k-trade.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for 2k-trade.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  2k-trade.com scores 88/100 on our public trust checks. Established domain —
+  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:56.063Z'
 finalUrl: 'https://2k-trade.com/'
 reachable: true

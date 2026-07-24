@@ -1,10 +1,10 @@
 ---
 domain: premierindustrial.com
 slug: premierindustrial-com
-title: Is premierindustrial.com Legit? Trust Signal Check
+title: Is premierindustrial.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for premierindustrial.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  premierindustrial.com scores 94/100 on our public trust checks. Established
+  domain — registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:00.201Z'
 finalUrl: 'https://premierindustrial.com/'
 reachable: true

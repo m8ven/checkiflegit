@@ -1,10 +1,10 @@
 ---
 domain: 123modellauto.de
 slug: 123modellauto-de
-title: Is 123modellauto.de Legit? Trust Signal Check
+title: Is 123modellauto.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for 123modellauto.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  123modellauto.de scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:16:42.607Z'
 finalUrl: 'https://123modellauto.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: schooluniformsdirect.com.au
 slug: schooluniformsdirect-com-au
-title: Is schooluniformsdirect.com.au Legit? Trust Signal Check
+title: Is schooluniformsdirect.com.au Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for schooluniformsdirect.com.au: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  schooluniformsdirect.com.au scores 61/100 on our public trust checks. No links
+  to major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:02:09.443Z'
 finalUrl: 'https://schooluniformsdirect.com.au/'
 reachable: true

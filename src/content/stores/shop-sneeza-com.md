@@ -1,10 +1,10 @@
 ---
 domain: shop.sneeza.com
 slug: shop-sneeza-com
-title: Is shop.sneeza.com Legit? Trust Signal Check
+title: Is shop.sneeza.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for shop.sneeza.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.sneeza.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:01:10.746Z'
 finalUrl: 'https://shop.sneeza.com/'
 reachable: true

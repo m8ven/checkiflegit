@@ -1,10 +1,10 @@
 ---
 domain: boothconstructor.com
 slug: boothconstructor-com
-title: Is boothconstructor.com Legit? Trust Signal Check
+title: Is boothconstructor.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for boothconstructor.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  boothconstructor.com scores 88/100 on our public trust checks. Established
+  domain — registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:24.147Z'
 finalUrl: 'https://boothconstructor.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: neffmusic.com
 slug: neffmusic-com
-title: Is neffmusic.com Legit? Trust Signal Check
+title: Is neffmusic.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for neffmusic.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  neffmusic.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:24:38.535Z'
 finalUrl: 'https://www.neffmusic.com/blog/'
 reachable: true

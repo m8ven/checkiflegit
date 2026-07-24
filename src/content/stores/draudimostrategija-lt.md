@@ -1,10 +1,10 @@
 ---
 domain: draudimostrategija.lt
 slug: draudimostrategija-lt
-title: Is draudimostrategija.lt Legit? Trust Signal Check
+title: Is draudimostrategija.lt Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for draudimostrategija.lt: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  draudimostrategija.lt scores 82/100 on our public trust checks. Established
+  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:51.718Z'
 finalUrl: 'https://draudimostrategija.lt/'
 reachable: true

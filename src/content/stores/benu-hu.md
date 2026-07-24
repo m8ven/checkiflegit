@@ -1,10 +1,10 @@
 ---
 domain: benu.hu
 slug: benu-hu
-title: Is benu.hu Legit? Trust Signal Check
+title: Is benu.hu Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for benu.hu: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  benu.hu scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:45.842Z'
 finalUrl: 'https://benu.hu/'
 reachable: true

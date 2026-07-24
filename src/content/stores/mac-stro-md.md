@@ -1,10 +1,10 @@
 ---
 domain: mac-stro.md
 slug: mac-stro-md
-title: Is mac-stro.md Legit? Trust Signal Check
+title: Is mac-stro.md Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mac-stro.md: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mac-stro.md scores 82/100 on our public trust checks. Established domain —
+  registered 22.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:04.850Z'
 finalUrl: 'https://mac-stro.md/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: madhavleatherhouse.com
 slug: madhavleatherhouse-com
-title: Is madhavleatherhouse.com Legit? Trust Signal Check
+title: Is madhavleatherhouse.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for madhavleatherhouse.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  madhavleatherhouse.com scores 88/100 on our public trust checks. Established
+  domain — registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:27:25.397Z'
 finalUrl: 'https://www.madhavleatherhouse.com/'
 reachable: true

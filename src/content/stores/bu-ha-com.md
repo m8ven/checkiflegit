@@ -1,10 +1,10 @@
 ---
 domain: bu-ha.com
 slug: bu-ha-com
-title: Is bu-ha.com Legit? Trust Signal Check
+title: Is bu-ha.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bu-ha.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bu-ha.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:57:32.222Z'
 finalUrl: 'https://bu-ha.com/'
 reachable: true

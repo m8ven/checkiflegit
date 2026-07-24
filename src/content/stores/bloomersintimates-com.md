@@ -1,10 +1,10 @@
 ---
 domain: bloomersintimates.com
 slug: bloomersintimates-com
-title: Is bloomersintimates.com Legit? Trust Signal Check
+title: Is bloomersintimates.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bloomersintimates.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bloomersintimates.com scores 100/100 on our public trust checks. Established
+  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:18.674Z'
 finalUrl: 'https://bloomersintimates.com/'
 reachable: true

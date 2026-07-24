@@ -1,10 +1,10 @@
 ---
 domain: ital2b.com
 slug: ital2b-com
-title: Is ital2b.com Legit? Trust Signal Check
+title: Is ital2b.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ital2b.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ital2b.com scores 73/100 on our public trust checks. Established domain —
+  registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:34.834Z'
 finalUrl: 'https://ital2b.com/'
 reachable: true

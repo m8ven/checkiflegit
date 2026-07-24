@@ -1,10 +1,10 @@
 ---
 domain: zavod-alyoshina.ru
 slug: zavod-alyoshina-ru
-title: Is zavod-alyoshina.ru Legit? Trust Signal Check
+title: Is zavod-alyoshina.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for zavod-alyoshina.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  zavod-alyoshina.ru scores 82/100 on our public trust checks. Established
+  domain — registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:29:55.036Z'
 finalUrl: 'https://zavod-alyoshina.ru/'
 reachable: true

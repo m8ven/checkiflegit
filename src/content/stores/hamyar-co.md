@@ -1,10 +1,11 @@
 ---
 domain: hamyar.co
 slug: hamyar-co
-title: Is hamyar.co Legit? Trust Signal Check
+title: Is hamyar.co Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hamyar.co: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hamyar.co scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T14:51:15.398Z'
 finalUrl: 'https://hamyar.co/'
 reachable: true

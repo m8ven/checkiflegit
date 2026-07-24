@@ -1,10 +1,11 @@
 ---
 domain: faimdetrail.fr
 slug: faimdetrail-fr
-title: Is faimdetrail.fr Legit? Trust Signal Check
+title: Is faimdetrail.fr Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for faimdetrail.fr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  faimdetrail.fr scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:27:15.257Z'
 finalUrl: 'https://faimdetrail.fr/'
 reachable: true

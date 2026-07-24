@@ -1,10 +1,10 @@
 ---
 domain: rebootstore.it
 slug: rebootstore-it
-title: Is rebootstore.it Legit? Trust Signal Check
+title: Is rebootstore.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rebootstore.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rebootstore.it scores 100/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:21:03.512Z'
 finalUrl: 'https://www.rebootstore.it/'
 reachable: true

@@ -1,11 +1,10 @@
 ---
 domain: live.theclassictemplates.com
 slug: live-theclassictemplates-com
-title: Is live.theclassictemplates.com Legit? Trust Signal Check
+title: Is live.theclassictemplates.com Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for live.theclassictemplates.com: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  live.theclassictemplates.com scores 36/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:47:18.904Z'
 finalUrl: 'https://live.theclassictemplates.com/'
 reachable: true

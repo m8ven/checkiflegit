@@ -1,10 +1,10 @@
 ---
 domain: krinos.com
 slug: krinos-com
-title: Is krinos.com Legit? Trust Signal Check
+title: Is krinos.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for krinos.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  krinos.com scores 70/100 on our public trust checks. Established domain —
+  registered 31.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:04.735Z'
 finalUrl: 'https://krinos.com/'
 reachable: true

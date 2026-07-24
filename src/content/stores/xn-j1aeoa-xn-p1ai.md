@@ -1,10 +1,10 @@
 ---
 domain: xn--j1aeoa.xn--p1ai
 slug: xn-j1aeoa-xn-p1ai
-title: Is xn--j1aeoa.xn--p1ai Legit? Trust Signal Check
+title: Is xn--j1aeoa.xn--p1ai Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for xn--j1aeoa.xn--p1ai: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  xn--j1aeoa.xn--p1ai scores 73/100 on our public trust checks. Established
+  domain — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:27.496Z'
 finalUrl: 'https://xn--j1aeoa.xn--p1ai/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: skill-veda.com
 slug: skill-veda-com
-title: Is skill-veda.com Legit? Trust Signal Check
+title: Is skill-veda.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for skill-veda.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  skill-veda.com scores 100/100 on our public trust checks. Established domain —
+  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:19.013Z'
 finalUrl: 'https://skill-veda.com/'
 reachable: true

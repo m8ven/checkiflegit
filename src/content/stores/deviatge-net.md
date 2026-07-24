@@ -1,10 +1,10 @@
 ---
 domain: deviatge.net
 slug: deviatge-net
-title: Is deviatge.net Legit? Trust Signal Check
+title: Is deviatge.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for deviatge.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  deviatge.net scores 100/100 on our public trust checks. Established domain —
+  registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:04.187Z'
 finalUrl: 'https://deviatge.net/'
 reachable: true

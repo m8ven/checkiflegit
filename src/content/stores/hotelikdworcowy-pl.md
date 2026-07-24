@@ -1,10 +1,10 @@
 ---
 domain: hotelikdworcowy.pl
 slug: hotelikdworcowy-pl
-title: Is hotelikdworcowy.pl Legit? Trust Signal Check
+title: Is hotelikdworcowy.pl Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for hotelikdworcowy.pl: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  hotelikdworcowy.pl scores 19/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:35:27.897Z'
 finalUrl: 'https://hotelikdworcowy.pl/'
 reachable: true

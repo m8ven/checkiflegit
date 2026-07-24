@@ -1,10 +1,10 @@
 ---
 domain: concejohospederia.com
 slug: concejohospederia-com
-title: Is concejohospederia.com Legit? Trust Signal Check
+title: Is concejohospederia.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for concejohospederia.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  concejohospederia.com scores 58/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:23:44.169Z'
 finalUrl: 'https://concejohospederia.com/'
 reachable: true

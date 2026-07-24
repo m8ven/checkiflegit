@@ -1,10 +1,10 @@
 ---
 domain: sportnews-romania.ro
 slug: sportnews-romania-ro
-title: Is sportnews-romania.ro Legit? Trust Signal Check
+title: Is sportnews-romania.ro Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for sportnews-romania.ro: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sportnews-romania.ro scores 52/100 on our public trust checks. No public
+  contact details detected on the homepage. Domain is relatively young.
 fetchedAt: '2026-06-25T12:02:51.184Z'
 finalUrl: 'https://sportnews-romania.ro/'
 reachable: true

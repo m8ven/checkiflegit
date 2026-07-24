@@ -1,10 +1,10 @@
 ---
 domain: seedtopia.asia
 slug: seedtopia-asia
-title: Is seedtopia.asia Legit? Trust Signal Check
+title: Is seedtopia.asia Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for seedtopia.asia: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  seedtopia.asia scores 70/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:55.104Z'
 finalUrl: 'https://seedtopia.asia/'
 reachable: true

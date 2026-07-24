@@ -1,10 +1,11 @@
 ---
 domain: lepiantagionidelcaffe.com
 slug: lepiantagionidelcaffe-com
-title: Is lepiantagionidelcaffe.com Legit? Trust Signal Check
+title: Is lepiantagionidelcaffe.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lepiantagionidelcaffe.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lepiantagionidelcaffe.com scores 88/100 on our public trust checks.
+  Established domain — registered 26.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:20:49.641Z'
 finalUrl: 'https://www.lepiantagionidelcaffe.com/'
 reachable: true

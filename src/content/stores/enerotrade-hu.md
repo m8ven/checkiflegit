@@ -1,10 +1,10 @@
 ---
 domain: enerotrade.hu
 slug: enerotrade-hu
-title: Is enerotrade.hu Legit? Trust Signal Check
+title: Is enerotrade.hu Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for enerotrade.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  enerotrade.hu scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:16:46.296Z'
 finalUrl: 'https://enerotrade.hu/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: melandrigaudenzio.com
 slug: melandrigaudenzio-com
-title: Is melandrigaudenzio.com Legit? Trust Signal Check
+title: Is melandrigaudenzio.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for melandrigaudenzio.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  melandrigaudenzio.com scores 100/100 on our public trust checks. Established
+  domain — registered 26 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:07.304Z'
 finalUrl: 'https://www.melandrigaudenzio.com/'
 reachable: true

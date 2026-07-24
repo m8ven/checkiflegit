@@ -1,10 +1,10 @@
 ---
 domain: canadiantiremotorsportpark.com
 slug: canadiantiremotorsportpark-com
-title: Is canadiantiremotorsportpark.com Legit? Trust Signal Check
+title: Is canadiantiremotorsportpark.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for canadiantiremotorsportpark.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  canadiantiremotorsportpark.com scores 100/100 on our public trust checks.
+  Established domain — registered 14.4 years ago.
 fetchedAt: '2026-06-25T02:20:57.538Z'
 finalUrl: 'https://canadiantiremotorsportpark.com/'
 reachable: true

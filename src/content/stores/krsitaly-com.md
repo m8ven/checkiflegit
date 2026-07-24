@@ -1,10 +1,10 @@
 ---
 domain: krsitaly.com
 slug: krsitaly-com
-title: Is krsitaly.com Legit? Trust Signal Check
+title: Is krsitaly.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for krsitaly.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  krsitaly.com scores 100/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:07.156Z'
 finalUrl: 'https://krsitaly.com/'
 reachable: true

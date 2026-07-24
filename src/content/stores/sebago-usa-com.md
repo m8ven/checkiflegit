@@ -1,10 +1,10 @@
 ---
 domain: sebago-usa.com
 slug: sebago-usa-com
-title: Is sebago-usa.com Legit? Trust Signal Check
+title: Is sebago-usa.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sebago-usa.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sebago-usa.com scores 88/100 on our public trust checks. Established domain —
+  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:32.130Z'
 finalUrl: 'https://sebago-usa.com/'
 reachable: true

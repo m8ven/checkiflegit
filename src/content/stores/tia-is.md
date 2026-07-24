@@ -1,10 +1,10 @@
 ---
 domain: tia.is
 slug: tia-is
-title: Is tia.is Legit? Trust Signal Check
+title: Is tia.is Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tia.is: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  tia.is scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:34:16.646Z'
 finalUrl: 'https://tia.is/'
 reachable: true

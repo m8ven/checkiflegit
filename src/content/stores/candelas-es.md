@@ -1,10 +1,10 @@
 ---
 domain: candelas.es
 slug: candelas-es
-title: Is candelas.es Legit? Trust Signal Check
+title: Is candelas.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for candelas.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  candelas.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:59:31.063Z'
 finalUrl: 'https://www.candelas.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: thuma.co
 slug: thuma-co
-title: Is thuma.co Legit? Trust Signal Check
+title: Is thuma.co Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for thuma.co: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  thuma.co scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:13.774Z'
 finalUrl: 'https://www.thuma.co/'
 reachable: true

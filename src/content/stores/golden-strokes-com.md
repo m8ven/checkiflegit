@@ -1,10 +1,10 @@
 ---
 domain: golden-strokes.com
 slug: golden-strokes-com
-title: Is golden-strokes.com Legit? Trust Signal Check
+title: Is golden-strokes.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for golden-strokes.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  golden-strokes.com scores 70/100 on our public trust checks. Established
+  domain — registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:32.281Z'
 finalUrl: 'https://golden-strokes.com/'
 reachable: true

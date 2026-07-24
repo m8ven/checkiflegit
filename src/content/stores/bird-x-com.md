@@ -1,10 +1,10 @@
 ---
 domain: bird-x.com
 slug: bird-x-com
-title: Is bird-x.com Legit? Trust Signal Check
+title: Is bird-x.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bird-x.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bird-x.com scores 88/100 on our public trust checks. Established domain —
+  registered 29.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:44.545Z'
 finalUrl: 'https://bird-x.com/'
 reachable: true

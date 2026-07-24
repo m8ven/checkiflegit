@@ -1,10 +1,10 @@
 ---
 domain: vinitrola.cl
 slug: vinitrola-cl
-title: Is vinitrola.cl Legit? Trust Signal Check
+title: Is vinitrola.cl Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for vinitrola.cl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vinitrola.cl scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:29:10.676Z'
 finalUrl: 'https://www.vinitrola.cl/'
 reachable: true

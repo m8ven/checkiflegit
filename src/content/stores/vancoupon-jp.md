@@ -1,10 +1,10 @@
 ---
 domain: vancoupon.jp
 slug: vancoupon-jp
-title: Is vancoupon.jp Legit? Trust Signal Check
+title: Is vancoupon.jp Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for vancoupon.jp: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vancoupon.jp scores 70/100 on our public trust checks. Established domain —
+  registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:55.134Z'
 finalUrl: 'https://vancoupon.jp/'
 reachable: true

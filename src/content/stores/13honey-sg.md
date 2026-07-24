@@ -1,10 +1,10 @@
 ---
 domain: 13honey.sg
 slug: 13honey-sg
-title: Is 13honey.sg Legit? Trust Signal Check
+title: Is 13honey.sg Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 13honey.sg: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  13honey.sg scores 100/100 on our public trust checks. Established domain —
+  registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:09.524Z'
 finalUrl: 'https://13honey.sg/'
 reachable: true

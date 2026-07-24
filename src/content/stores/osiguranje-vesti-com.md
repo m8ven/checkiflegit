@@ -1,11 +1,11 @@
 ---
 domain: osiguranje-vesti.com
 slug: osiguranje-vesti-com
-title: Is osiguranje-vesti.com Legit? Trust Signal Check
+title: Is osiguranje-vesti.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for osiguranje-vesti.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  osiguranje-vesti.com scores 43/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:43:05.504Z'
 finalUrl: 'https://osiguranje-vesti.com/'
 reachable: true

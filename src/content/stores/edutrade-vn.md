@@ -1,10 +1,10 @@
 ---
 domain: edutrade.vn
 slug: edutrade-vn
-title: Is edutrade.vn Legit? Trust Signal Check
+title: Is edutrade.vn Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for edutrade.vn: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  edutrade.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:26:32.464Z'
 finalUrl: 'https://edutrade.vn/'
 reachable: true

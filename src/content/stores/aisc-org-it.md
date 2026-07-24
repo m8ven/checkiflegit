@@ -1,10 +1,10 @@
 ---
 domain: aisc-org.it
 slug: aisc-org-it
-title: Is aisc-org.it Legit? Trust Signal Check
+title: Is aisc-org.it Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for aisc-org.it: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aisc-org.it scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:38:33.597Z'
 finalUrl: 'https://aisc-org.it/'
 reachable: true

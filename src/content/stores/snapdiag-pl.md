@@ -1,10 +1,10 @@
 ---
 domain: snapdiag.pl
 slug: snapdiag-pl
-title: Is snapdiag.pl Legit? Trust Signal Check
+title: Is snapdiag.pl Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for snapdiag.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  snapdiag.pl scores 73/100 on our public trust checks. Established domain —
+  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:43.971Z'
 finalUrl: 'https://snapdiag.pl/'
 reachable: true

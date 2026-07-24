@@ -1,10 +1,10 @@
 ---
 domain: celeirointegral.pt
 slug: celeirointegral-pt
-title: Is celeirointegral.pt Legit? Trust Signal Check
+title: Is celeirointegral.pt Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for celeirointegral.pt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  celeirointegral.pt scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:21:34.188Z'
 finalUrl: 'https://celeirointegral.pt/?v=4863acf3a6f2'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dressex.ru
 slug: dressex-ru
-title: Is dressex.ru Legit? Trust Signal Check
+title: Is dressex.ru Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dressex.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dressex.ru scores 76/100 on our public trust checks. Established domain —
+  registered 10.8 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:31:40.090Z'
 finalUrl: 'http://www.dressex.ru/'
 reachable: true

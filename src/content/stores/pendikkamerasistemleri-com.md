@@ -1,11 +1,10 @@
 ---
 domain: pendikkamerasistemleri.com
 slug: pendikkamerasistemleri-com
-title: Is pendikkamerasistemleri.com Legit? Trust Signal Check
+title: Is pendikkamerasistemleri.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for pendikkamerasistemleri.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  pendikkamerasistemleri.com scores 25/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T12:01:31.128Z'
 finalUrl: 'https://pendikkamerasistemleri.com/city/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: capetocairo.com.au
 slug: capetocairo-com-au
-title: Is capetocairo.com.au Legit? Trust Signal Check
+title: Is capetocairo.com.au Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for capetocairo.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  capetocairo.com.au scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:15:09.512Z'
 finalUrl: 'https://www.capetocairo.com.au/'
 reachable: true

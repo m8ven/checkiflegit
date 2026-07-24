@@ -1,10 +1,10 @@
 ---
 domain: editorialkipus.com
 slug: editorialkipus-com
-title: Is editorialkipus.com Legit? Trust Signal Check
+title: Is editorialkipus.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for editorialkipus.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  editorialkipus.com scores 88/100 on our public trust checks. Established
+  domain — registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:12.794Z'
 finalUrl: 'https://editorialkipus.com/'
 reachable: true

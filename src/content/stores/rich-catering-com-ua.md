@@ -1,10 +1,10 @@
 ---
 domain: rich-catering.com.ua
 slug: rich-catering-com-ua
-title: Is rich-catering.com.ua Legit? Trust Signal Check
+title: Is rich-catering.com.ua Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for rich-catering.com.ua: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rich-catering.com.ua scores 76/100 on our public trust checks. Established
+  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:06.405Z'
 finalUrl: 'https://rich-catering.com.ua/'
 reachable: true

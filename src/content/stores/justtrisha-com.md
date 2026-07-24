@@ -1,10 +1,10 @@
 ---
 domain: justtrisha.com
 slug: justtrisha-com
-title: Is justtrisha.com Legit? Trust Signal Check
+title: Is justtrisha.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for justtrisha.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  justtrisha.com scores 88/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:06.834Z'
 finalUrl: 'https://www.justtrisha.com/'
 reachable: true

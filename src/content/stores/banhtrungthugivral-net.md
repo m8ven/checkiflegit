@@ -1,10 +1,10 @@
 ---
 domain: banhtrungthugivral.net
 slug: banhtrungthugivral-net
-title: Is banhtrungthugivral.net Legit? Trust Signal Check
+title: Is banhtrungthugivral.net Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for banhtrungthugivral.net: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  banhtrungthugivral.net scores 82/100 on our public trust checks. Established
+  domain — registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:46.018Z'
 finalUrl: 'https://banhtrungthugivral.net/'
 reachable: true

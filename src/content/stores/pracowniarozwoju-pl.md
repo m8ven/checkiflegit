@@ -1,10 +1,10 @@
 ---
 domain: pracowniarozwoju.pl
 slug: pracowniarozwoju-pl
-title: Is pracowniarozwoju.pl Legit? Trust Signal Check
+title: Is pracowniarozwoju.pl Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for pracowniarozwoju.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pracowniarozwoju.pl scores 70/100 on our public trust checks. Established
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:40.001Z'
 finalUrl: 'https://pracowniarozwoju.pl/'
 reachable: true

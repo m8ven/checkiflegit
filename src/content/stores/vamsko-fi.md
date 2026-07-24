@@ -1,10 +1,11 @@
 ---
 domain: vamsko.fi
 slug: vamsko-fi
-title: Is vamsko.fi Legit? Trust Signal Check
+title: Is vamsko.fi Legit? Trust Score 14/100
 description: >-
-  An automated trust-signal check for vamsko.fi: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  vamsko.fi scores 14/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T15:36:28.443Z'
 finalUrl: 'https://vamsko.fi/'
 reachable: true

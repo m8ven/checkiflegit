@@ -1,10 +1,10 @@
 ---
 domain: motorsportauctions.com
 slug: motorsportauctions-com
-title: Is motorsportauctions.com Legit? Trust Signal Check
+title: Is motorsportauctions.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for motorsportauctions.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  motorsportauctions.com scores 82/100 on our public trust checks. Established
+  domain — registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:20.262Z'
 finalUrl: 'https://www.motorsportauctions.com/'
 reachable: true

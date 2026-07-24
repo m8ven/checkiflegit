@@ -1,10 +1,10 @@
 ---
 domain: vrataplus.hr
 slug: vrataplus-hr
-title: Is vrataplus.hr Legit? Trust Signal Check
+title: Is vrataplus.hr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for vrataplus.hr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vrataplus.hr scores 88/100 on our public trust checks. Established domain —
+  registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:52.862Z'
 finalUrl: 'https://vrataplus.hr/'
 reachable: true

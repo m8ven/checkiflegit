@@ -1,10 +1,10 @@
 ---
 domain: connagri.com
 slug: connagri-com
-title: Is connagri.com Legit? Trust Signal Check
+title: Is connagri.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for connagri.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  connagri.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:22:44.637Z'
 finalUrl: 'https://connagri.com/'
 reachable: true

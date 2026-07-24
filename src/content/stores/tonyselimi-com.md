@@ -1,10 +1,10 @@
 ---
 domain: tonyselimi.com
 slug: tonyselimi-com
-title: Is tonyselimi.com Legit? Trust Signal Check
+title: Is tonyselimi.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for tonyselimi.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tonyselimi.com scores 100/100 on our public trust checks. Established domain —
+  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:12:03.197Z'
 finalUrl: 'https://tonyselimi.com/'
 reachable: true

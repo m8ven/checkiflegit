@@ -1,10 +1,10 @@
 ---
 domain: acrylicphotoframes.com
 slug: acrylicphotoframes-com
-title: Is acrylicphotoframes.com Legit? Trust Signal Check
+title: Is acrylicphotoframes.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for acrylicphotoframes.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  acrylicphotoframes.com scores 85/100 on our public trust checks. Established
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:17:09.513Z'
 finalUrl: 'https://acrylicphotoframes.com/'
 reachable: true

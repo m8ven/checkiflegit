@@ -1,10 +1,10 @@
 ---
 domain: get-the-dance.com
 slug: get-the-dance-com
-title: Is get-the-dance.com Legit? Trust Signal Check
+title: Is get-the-dance.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for get-the-dance.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  get-the-dance.com scores 88/100 on our public trust checks. Established domain
+  — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:34.283Z'
 finalUrl: 'https://get-the-dance.com/'
 reachable: true

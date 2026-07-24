@@ -1,10 +1,10 @@
 ---
 domain: pawimex.pl
 slug: pawimex-pl
-title: Is pawimex.pl Legit? Trust Signal Check
+title: Is pawimex.pl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pawimex.pl: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pawimex.pl scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:29:20.040Z'
 finalUrl: 'https://pawimex.pl/'
 reachable: true

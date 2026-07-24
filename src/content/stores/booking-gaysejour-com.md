@@ -1,10 +1,10 @@
 ---
 domain: booking-gaysejour.com
 slug: booking-gaysejour-com
-title: Is booking-gaysejour.com Legit? Trust Signal Check
+title: Is booking-gaysejour.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for booking-gaysejour.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  booking-gaysejour.com scores 70/100 on our public trust checks. Established
+  domain — registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:16.085Z'
 finalUrl: 'https://booking-gaysejour.com/'
 reachable: true

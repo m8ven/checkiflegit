@@ -1,10 +1,10 @@
 ---
 domain: khaadi.com
 slug: khaadi-com
-title: Is khaadi.com Legit? Trust Signal Check
+title: Is khaadi.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for khaadi.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  khaadi.com scores 73/100 on our public trust checks. Established domain —
+  registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:59.047Z'
 finalUrl: 'https://www.khaadi.com/'
 reachable: true

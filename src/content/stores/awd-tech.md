@@ -1,10 +1,10 @@
 ---
 domain: awd.tech
 slug: awd-tech
-title: Is awd.tech Legit? Trust Signal Check
+title: Is awd.tech Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for awd.tech: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  awd.tech scores 88/100 on our public trust checks. Established domain —
+  registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:44.158Z'
 finalUrl: 'https://awd.tech/'
 reachable: true

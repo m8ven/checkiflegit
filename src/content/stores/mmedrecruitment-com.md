@@ -1,10 +1,10 @@
 ---
 domain: mmedrecruitment.com
 slug: mmedrecruitment-com
-title: Is mmedrecruitment.com Legit? Trust Signal Check
+title: Is mmedrecruitment.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for mmedrecruitment.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mmedrecruitment.com scores 73/100 on our public trust checks. Established
+  domain — registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:36.619Z'
 finalUrl: 'https://mmedrecruitment.com/'
 reachable: true

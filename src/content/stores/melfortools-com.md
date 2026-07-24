@@ -1,10 +1,10 @@
 ---
 domain: melfortools.com
 slug: melfortools-com
-title: Is melfortools.com Legit? Trust Signal Check
+title: Is melfortools.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for melfortools.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  melfortools.com scores 85/100 on our public trust checks. Established domain —
+  registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:14.190Z'
 finalUrl: 'https://melfortools.com/'
 reachable: true

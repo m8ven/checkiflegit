@@ -1,10 +1,10 @@
 ---
 domain: heskins.fr
 slug: heskins-fr
-title: Is heskins.fr Legit? Trust Signal Check
+title: Is heskins.fr Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for heskins.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  heskins.fr scores 100/100 on our public trust checks. Established domain —
+  registered 19.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:59.896Z'
 finalUrl: 'https://www.heskins.fr/'
 reachable: true

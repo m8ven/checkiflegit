@@ -1,10 +1,10 @@
 ---
 domain: fregat42.ru
 slug: fregat42-ru
-title: Is fregat42.ru Legit? Trust Signal Check
+title: Is fregat42.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fregat42.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fregat42.ru scores 73/100 on our public trust checks. Established domain —
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:55.416Z'
 finalUrl: 'https://fregat42.ru/'
 reachable: true

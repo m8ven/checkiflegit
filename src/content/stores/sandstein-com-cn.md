@@ -1,10 +1,10 @@
 ---
 domain: sandstein.com.cn
 slug: sandstein-com-cn
-title: Is sandstein.com.cn Legit? Trust Signal Check
+title: Is sandstein.com.cn Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for sandstein.com.cn: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sandstein.com.cn scores 70/100 on our public trust checks. Established domain
+  — registered 21.9 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:56:23.573Z'
 finalUrl: 'http://www.sandstein.com.cn/'
 reachable: true

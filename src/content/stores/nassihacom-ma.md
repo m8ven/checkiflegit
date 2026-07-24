@@ -1,10 +1,10 @@
 ---
 domain: nassihacom.ma
 slug: nassihacom-ma
-title: Is nassihacom.ma Legit? Trust Signal Check
+title: Is nassihacom.ma Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for nassihacom.ma: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nassihacom.ma scores 88/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:33.408Z'
 finalUrl: 'https://nassihacom.ma/'
 reachable: true

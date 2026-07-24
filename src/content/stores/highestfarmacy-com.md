@@ -1,10 +1,10 @@
 ---
 domain: highestfarmacy.com
 slug: highestfarmacy-com
-title: Is highestfarmacy.com Legit? Trust Signal Check
+title: Is highestfarmacy.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for highestfarmacy.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  highestfarmacy.com scores 94/100 on our public trust checks. Established
+  domain — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:04.070Z'
 finalUrl: 'https://highestfarmacy.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: canex-shop.dk
 slug: canex-shop-dk
-title: Is canex-shop.dk Legit? Trust Signal Check
+title: Is canex-shop.dk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for canex-shop.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  canex-shop.dk scores 88/100 on our public trust checks. Established domain —
+  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:44:40.043Z'
 finalUrl: 'https://canex-shop.dk/'
 reachable: true

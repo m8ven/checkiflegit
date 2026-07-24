@@ -1,10 +1,10 @@
 ---
 domain: pistons.com.pl
 slug: pistons-com-pl
-title: Is pistons.com.pl Legit? Trust Signal Check
+title: Is pistons.com.pl Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for pistons.com.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pistons.com.pl scores 76/100 on our public trust checks. Established domain —
+  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:16.110Z'
 finalUrl: 'https://pistons.com.pl/'
 reachable: true

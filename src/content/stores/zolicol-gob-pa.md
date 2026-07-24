@@ -1,10 +1,10 @@
 ---
 domain: zolicol.gob.pa
 slug: zolicol-gob-pa
-title: Is zolicol.gob.pa Legit? Trust Signal Check
+title: Is zolicol.gob.pa Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for zolicol.gob.pa: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  zolicol.gob.pa scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found.
 fetchedAt: '2026-06-25T02:22:04.969Z'
 finalUrl: 'http://zolicol.gob.pa/'
 reachable: true

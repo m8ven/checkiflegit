@@ -1,10 +1,10 @@
 ---
 domain: ja.suburban.com.hk
 slug: ja-suburban-com-hk
-title: Is ja.suburban.com.hk Legit? Trust Signal Check
+title: Is ja.suburban.com.hk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ja.suburban.com.hk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ja.suburban.com.hk scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:43:07.342Z'
 finalUrl: 'https://ja.suburban.com.hk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nativeunion.com
 slug: nativeunion-com
-title: Is nativeunion.com Legit? Trust Signal Check
+title: Is nativeunion.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for nativeunion.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nativeunion.com scores 70/100 on our public trust checks. Established domain —
+  registered 17 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:36.030Z'
 finalUrl: 'https://www.nativeunion.com/'
 reachable: true

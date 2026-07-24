@@ -1,10 +1,10 @@
 ---
 domain: shewritespress.com
 slug: shewritespress-com
-title: Is shewritespress.com Legit? Trust Signal Check
+title: Is shewritespress.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for shewritespress.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shewritespress.com scores 76/100 on our public trust checks. Established
+  domain — registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:26.842Z'
 finalUrl: 'https://shewritespress.com/'
 reachable: true

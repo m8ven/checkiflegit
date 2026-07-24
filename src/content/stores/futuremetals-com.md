@@ -1,10 +1,10 @@
 ---
 domain: futuremetals.com
 slug: futuremetals-com
-title: Is futuremetals.com Legit? Trust Signal Check
+title: Is futuremetals.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for futuremetals.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  futuremetals.com scores 94/100 on our public trust checks. Established domain
+  — registered 29.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:40.989Z'
 finalUrl: 'https://futuremetals.com/'
 reachable: true

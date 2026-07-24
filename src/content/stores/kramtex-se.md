@@ -1,10 +1,10 @@
 ---
 domain: kramtex.se
 slug: kramtex-se
-title: Is kramtex.se Legit? Trust Signal Check
+title: Is kramtex.se Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kramtex.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kramtex.se scores 76/100 on our public trust checks. Established domain —
+  registered 28.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:51.609Z'
 finalUrl: 'https://kramtex.se/'
 reachable: true

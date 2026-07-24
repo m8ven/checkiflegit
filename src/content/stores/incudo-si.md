@@ -1,10 +1,10 @@
 ---
 domain: incudo.si
 slug: incudo-si
-title: Is incudo.si Legit? Trust Signal Check
+title: Is incudo.si Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for incudo.si: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  incudo.si scores 88/100 on our public trust checks. Established domain —
+  registered 13.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:51.626Z'
 finalUrl: 'https://www.incudo.si/'
 reachable: true

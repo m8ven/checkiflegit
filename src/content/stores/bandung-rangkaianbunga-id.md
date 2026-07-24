@@ -1,11 +1,10 @@
 ---
 domain: bandung.rangkaianbunga.id
 slug: bandung-rangkaianbunga-id
-title: Is bandung.rangkaianbunga.id Legit? Trust Signal Check
+title: Is bandung.rangkaianbunga.id Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for bandung.rangkaianbunga.id: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  bandung.rangkaianbunga.id scores 19/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T12:42:48.746Z'
 finalUrl: 'https://bandung.rangkaianbunga.id/'
 reachable: true

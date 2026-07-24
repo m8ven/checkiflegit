@@ -1,10 +1,10 @@
 ---
 domain: starskyimportaciones.uy
 slug: starskyimportaciones-uy
-title: Is starskyimportaciones.uy Legit? Trust Signal Check
+title: Is starskyimportaciones.uy Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for starskyimportaciones.uy: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  starskyimportaciones.uy scores 57/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:12:40.386Z'
 finalUrl: 'https://starskyimportaciones.uy/'
 reachable: true

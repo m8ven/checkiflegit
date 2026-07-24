@@ -1,10 +1,10 @@
 ---
 domain: arteventi.pl
 slug: arteventi-pl
-title: Is arteventi.pl Legit? Trust Signal Check
+title: Is arteventi.pl Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for arteventi.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  arteventi.pl scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:46:16.943Z'
 finalUrl: 'https://arteventi.pl/'
 reachable: true

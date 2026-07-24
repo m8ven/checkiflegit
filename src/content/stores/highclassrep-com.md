@@ -1,10 +1,10 @@
 ---
 domain: highclassrep.com
 slug: highclassrep-com
-title: Is highclassrep.com Legit? Trust Signal Check
+title: Is highclassrep.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for highclassrep.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  highclassrep.com scores 70/100 on our public trust checks. Established domain
+  — registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:47.497Z'
 finalUrl: 'https://highclassrep.com/'
 reachable: true

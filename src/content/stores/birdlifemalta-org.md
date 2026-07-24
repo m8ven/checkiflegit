@@ -1,10 +1,10 @@
 ---
 domain: birdlifemalta.org
 slug: birdlifemalta-org
-title: Is birdlifemalta.org Legit? Trust Signal Check
+title: Is birdlifemalta.org Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for birdlifemalta.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  birdlifemalta.org scores 70/100 on our public trust checks. Established domain
+  — registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:31.581Z'
 finalUrl: 'https://birdlifemalta.org/'
 reachable: true

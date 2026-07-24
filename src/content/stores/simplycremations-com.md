@@ -1,10 +1,10 @@
 ---
 domain: simplycremations.com
 slug: simplycremations-com
-title: Is simplycremations.com Legit? Trust Signal Check
+title: Is simplycremations.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for simplycremations.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  simplycremations.com scores 73/100 on our public trust checks. Established
+  domain — registered 23.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:31.958Z'
 finalUrl: 'https://simplycremations.com/'
 reachable: true

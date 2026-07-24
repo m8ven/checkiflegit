@@ -1,10 +1,10 @@
 ---
 domain: vanhunen.nl
 slug: vanhunen-nl
-title: Is vanhunen.nl Legit? Trust Signal Check
+title: Is vanhunen.nl Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for vanhunen.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vanhunen.nl scores 70/100 on our public trust checks. Established domain —
+  registered 29.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:55.538Z'
 finalUrl: 'https://www.vanhunen.nl/'
 reachable: true

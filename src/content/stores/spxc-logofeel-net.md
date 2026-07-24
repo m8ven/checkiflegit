@@ -1,10 +1,10 @@
 ---
 domain: spxc.logofeel.net
 slug: spxc-logofeel-net
-title: Is spxc.logofeel.net Legit? Trust Signal Check
+title: Is spxc.logofeel.net Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for spxc.logofeel.net: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  spxc.logofeel.net scores 31/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:01:25.409Z'
 finalUrl: 'https://spxc.logofeel.net/'
 reachable: true

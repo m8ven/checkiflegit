@@ -1,10 +1,10 @@
 ---
 domain: studyoneo.com
 slug: studyoneo-com
-title: Is studyoneo.com Legit? Trust Signal Check
+title: Is studyoneo.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for studyoneo.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  studyoneo.com scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:13:06.031Z'
 finalUrl: 'https://studyoneo.com/'
 reachable: true

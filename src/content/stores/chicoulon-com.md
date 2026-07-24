@@ -1,10 +1,10 @@
 ---
 domain: chicoulon.com
 slug: chicoulon-com
-title: Is chicoulon.com Legit? Trust Signal Check
+title: Is chicoulon.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for chicoulon.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chicoulon.com scores 76/100 on our public trust checks. Established domain —
+  registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:55.559Z'
 finalUrl: 'https://www.chicoulon.com/'
 reachable: true

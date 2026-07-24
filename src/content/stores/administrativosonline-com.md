@@ -1,10 +1,11 @@
 ---
 domain: administrativosonline.com
 slug: administrativosonline-com
-title: Is administrativosonline.com Legit? Trust Signal Check
+title: Is administrativosonline.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for administrativosonline.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  administrativosonline.com scores 100/100 on our public trust checks.
+  Established domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:58:12.900Z'
 finalUrl: 'https://administrativosonline.com/'
 reachable: true

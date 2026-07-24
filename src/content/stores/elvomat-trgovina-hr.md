@@ -1,10 +1,10 @@
 ---
 domain: elvomat-trgovina.hr
 slug: elvomat-trgovina-hr
-title: Is elvomat-trgovina.hr Legit? Trust Signal Check
+title: Is elvomat-trgovina.hr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for elvomat-trgovina.hr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elvomat-trgovina.hr scores 73/100 on our public trust checks. Established
+  domain — registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:15.114Z'
 finalUrl: 'https://elvomat-trgovina.hr/'
 reachable: true

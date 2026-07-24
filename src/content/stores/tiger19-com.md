@@ -1,10 +1,10 @@
 ---
 domain: tiger19.com
 slug: tiger19-com
-title: Is tiger19.com Legit? Trust Signal Check
+title: Is tiger19.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for tiger19.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  tiger19.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:23:41.153Z'
 finalUrl: 'https://tiger19.com/'
 reachable: true

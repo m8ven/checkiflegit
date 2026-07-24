@@ -1,10 +1,10 @@
 ---
 domain: tehzdrav.ru
 slug: tehzdrav-ru
-title: Is tehzdrav.ru Legit? Trust Signal Check
+title: Is tehzdrav.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tehzdrav.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tehzdrav.ru scores 73/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:25.719Z'
 finalUrl: 'https://tehzdrav.ru/'
 reachable: true

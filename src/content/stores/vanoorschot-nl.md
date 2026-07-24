@@ -1,10 +1,10 @@
 ---
 domain: vanoorschot.nl
 slug: vanoorschot-nl
-title: Is vanoorschot.nl Legit? Trust Signal Check
+title: Is vanoorschot.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for vanoorschot.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vanoorschot.nl scores 88/100 on our public trust checks. Established domain —
+  registered 28.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:06.474Z'
 finalUrl: 'https://www.vanoorschot.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: bouwhuis-enthoven.com
 slug: bouwhuis-enthoven-com
-title: Is bouwhuis-enthoven.com Legit? Trust Signal Check
+title: Is bouwhuis-enthoven.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for bouwhuis-enthoven.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bouwhuis-enthoven.com scores 82/100 on our public trust checks. Established
+  domain — registered 20.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:09.950Z'
 finalUrl: 'https://www.bouwhuis-enthoven.com/'
 reachable: true

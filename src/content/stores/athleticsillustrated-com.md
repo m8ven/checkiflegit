@@ -1,10 +1,10 @@
 ---
 domain: athleticsillustrated.com
 slug: athleticsillustrated-com
-title: Is athleticsillustrated.com Legit? Trust Signal Check
+title: Is athleticsillustrated.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for athleticsillustrated.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  athleticsillustrated.com scores 88/100 on our public trust checks. Established
+  domain — registered 15 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:06.066Z'
 finalUrl: 'https://athleticsillustrated.com/'
 reachable: true

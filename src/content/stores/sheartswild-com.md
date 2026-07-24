@@ -1,10 +1,10 @@
 ---
 domain: sheartswild.com
 slug: sheartswild-com
-title: Is sheartswild.com Legit? Trust Signal Check
+title: Is sheartswild.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for sheartswild.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sheartswild.com scores 70/100 on our public trust checks. Established domain —
+  registered 10.4 years ago. Maintains links to multiple social media platforms.
 fetchedAt: '2026-06-25T15:26:02.514Z'
 finalUrl: 'https://www.sheartswild.com/fr/accueil/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: laportedelhistoire.fr
 slug: laportedelhistoire-fr
-title: Is laportedelhistoire.fr Legit? Trust Signal Check
+title: Is laportedelhistoire.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for laportedelhistoire.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  laportedelhistoire.fr scores 100/100 on our public trust checks. Established
+  domain — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:50.768Z'
 finalUrl: 'https://www.laportedelhistoire.fr/'
 reachable: true

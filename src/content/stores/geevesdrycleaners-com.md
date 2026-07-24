@@ -1,10 +1,10 @@
 ---
 domain: geevesdrycleaners.com
 slug: geevesdrycleaners-com
-title: Is geevesdrycleaners.com Legit? Trust Signal Check
+title: Is geevesdrycleaners.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for geevesdrycleaners.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  geevesdrycleaners.com scores 88/100 on our public trust checks. Established
+  domain — registered 21.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:52.728Z'
 finalUrl: 'https://geevesdrycleaners.com/'
 reachable: true

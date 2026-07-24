@@ -1,10 +1,10 @@
 ---
 domain: newcanadianjobs.ca
 slug: newcanadianjobs-ca
-title: Is newcanadianjobs.ca Legit? Trust Signal Check
+title: Is newcanadianjobs.ca Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for newcanadianjobs.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  newcanadianjobs.ca scores 94/100 on our public trust checks. Established
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:36.255Z'
 finalUrl: 'https://newcanadianjobs.ca/'
 reachable: true

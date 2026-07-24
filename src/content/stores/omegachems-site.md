@@ -1,10 +1,10 @@
 ---
 domain: omegachems.site
 slug: omegachems-site
-title: Is omegachems.site Legit? Trust Signal Check
+title: Is omegachems.site Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for omegachems.site: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  omegachems.site scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T03:21:15.728Z'
 finalUrl: 'https://omegachems.site/'
 reachable: true

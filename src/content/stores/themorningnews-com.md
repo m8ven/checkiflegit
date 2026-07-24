@@ -1,10 +1,10 @@
 ---
 domain: themorningnews.com
 slug: themorningnews-com
-title: Is themorningnews.com Legit? Trust Signal Check
+title: Is themorningnews.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for themorningnews.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  themorningnews.com scores 100/100 on our public trust checks. Established
+  domain — registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:46.859Z'
 finalUrl: 'https://themorningnews.com/'
 reachable: true

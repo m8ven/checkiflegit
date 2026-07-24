@@ -1,10 +1,10 @@
 ---
 domain: rosiinc.com
 slug: rosiinc-com
-title: Is rosiinc.com Legit? Trust Signal Check
+title: Is rosiinc.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rosiinc.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rosiinc.com scores 100/100 on our public trust checks. Established domain —
+  registered 22.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:27:20.425Z'
 finalUrl: 'https://www.rosiinc.com/'
 reachable: true

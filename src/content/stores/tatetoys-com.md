@@ -1,10 +1,10 @@
 ---
 domain: tatetoys.com
 slug: tatetoys-com
-title: Is tatetoys.com Legit? Trust Signal Check
+title: Is tatetoys.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for tatetoys.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tatetoys.com scores 73/100 on our public trust checks. Established domain —
+  registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:27.355Z'
 finalUrl: 'https://tatetoys.com/'
 reachable: true

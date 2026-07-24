@@ -1,10 +1,10 @@
 ---
 domain: bostonskiandtennis.com
 slug: bostonskiandtennis-com
-title: Is bostonskiandtennis.com Legit? Trust Signal Check
+title: Is bostonskiandtennis.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bostonskiandtennis.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bostonskiandtennis.com scores 100/100 on our public trust checks. Established
+  domain — registered 16 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:44:07.497Z'
 finalUrl: 'https://bostonskiandtennis.com/'
 reachable: true

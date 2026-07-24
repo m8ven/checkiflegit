@@ -1,10 +1,10 @@
 ---
 domain: podrozezhubertem.pl
 slug: podrozezhubertem-pl
-title: Is podrozezhubertem.pl Legit? Trust Signal Check
+title: Is podrozezhubertem.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for podrozezhubertem.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  podrozezhubertem.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:30:03.959Z'
 finalUrl: 'https://podrozezhubertem.pl/'
 reachable: true

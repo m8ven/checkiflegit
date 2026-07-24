@@ -1,10 +1,10 @@
 ---
 domain: ankersolix.com
 slug: ankersolix-com
-title: Is ankersolix.com Legit? Trust Signal Check
+title: Is ankersolix.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ankersolix.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ankersolix.com scores 100/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:24.573Z'
 finalUrl: 'https://www.ankersolix.com/'
 reachable: true

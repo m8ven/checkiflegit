@@ -1,10 +1,10 @@
 ---
 domain: ra11.es
 slug: ra11-es
-title: Is ra11.es Legit? Trust Signal Check
+title: Is ra11.es Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ra11.es: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  ra11.es scores 74/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T15:27:05.632Z'
 finalUrl: 'https://ra11.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pavonedoors.com
 slug: pavonedoors-com
-title: Is pavonedoors.com Legit? Trust Signal Check
+title: Is pavonedoors.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for pavonedoors.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pavonedoors.com scores 73/100 on our public trust checks. Established domain —
+  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:32.871Z'
 finalUrl: 'https://pavonedoors.com/'
 reachable: true

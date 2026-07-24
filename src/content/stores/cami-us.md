@@ -1,10 +1,10 @@
 ---
 domain: cami.us
 slug: cami-us
-title: Is cami.us Legit? Trust Signal Check
+title: Is cami.us Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cami.us: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  cami.us scores 88/100 on our public trust checks. Established domain —
+  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:12.150Z'
 finalUrl: 'https://cami.us/'
 reachable: true

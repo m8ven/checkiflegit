@@ -1,10 +1,10 @@
 ---
 domain: laptopcusaigon.com
 slug: laptopcusaigon-com
-title: Is laptopcusaigon.com Legit? Trust Signal Check
+title: Is laptopcusaigon.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for laptopcusaigon.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  laptopcusaigon.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T03:52:35.457Z'
 finalUrl: 'https://laptopcusaigon.com/'
 reachable: true

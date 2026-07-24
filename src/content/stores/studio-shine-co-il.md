@@ -1,10 +1,10 @@
 ---
 domain: studio-shine.co.il
 slug: studio-shine-co-il
-title: Is studio-shine.co.il Legit? Trust Signal Check
+title: Is studio-shine.co.il Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for studio-shine.co.il: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  studio-shine.co.il scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:03:39.591Z'
 finalUrl: 'https://studio-shine.co.il/'
 reachable: true

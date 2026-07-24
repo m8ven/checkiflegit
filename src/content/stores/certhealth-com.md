@@ -1,10 +1,10 @@
 ---
 domain: certhealth.com
 slug: certhealth-com
-title: Is certhealth.com Legit? Trust Signal Check
+title: Is certhealth.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for certhealth.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  certhealth.com scores 82/100 on our public trust checks. Established domain —
+  registered 27.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:06.520Z'
 finalUrl: 'https://certhealth.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: wm.wirecut-cnc.com
 slug: wm-wirecut-cnc-com
-title: Is wm.wirecut-cnc.com Legit? Trust Signal Check
+title: Is wm.wirecut-cnc.com Legit? Trust Score 22/100
 description: >-
-  An automated trust-signal check for wm.wirecut-cnc.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  wm.wirecut-cnc.com scores 22/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:38:17.595Z'
 finalUrl: 'http://wm.wirecut-cnc.com/'
 reachable: true

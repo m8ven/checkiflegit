@@ -1,10 +1,10 @@
 ---
 domain: yourmotoparts.com
 slug: yourmotoparts-com
-title: Is yourmotoparts.com Legit? Trust Signal Check
+title: Is yourmotoparts.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for yourmotoparts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  yourmotoparts.com scores 85/100 on our public trust checks. Established domain
+  — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:30:04.395Z'
 finalUrl: 'https://yourmotoparts.com/'
 reachable: true

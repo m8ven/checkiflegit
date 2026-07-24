@@ -1,10 +1,11 @@
 ---
 domain: bahazit.co.il
 slug: bahazit-co-il
-title: Is bahazit.co.il Legit? Trust Signal Check
+title: Is bahazit.co.il Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bahazit.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bahazit.co.il scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:35:32.116Z'
 finalUrl: 'https://bahazit.co.il/'
 reachable: true

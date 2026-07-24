@@ -1,10 +1,10 @@
 ---
 domain: steamyfun.com
 slug: steamyfun-com
-title: Is steamyfun.com Legit? Trust Signal Check
+title: Is steamyfun.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for steamyfun.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  steamyfun.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:07:35.305Z'
 finalUrl: 'https://steamyfun.com/'
 reachable: true

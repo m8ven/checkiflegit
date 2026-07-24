@@ -1,10 +1,10 @@
 ---
 domain: komfortfactory.com
 slug: komfortfactory-com
-title: Is komfortfactory.com Legit? Trust Signal Check
+title: Is komfortfactory.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for komfortfactory.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  komfortfactory.com scores 85/100 on our public trust checks. Established
+  domain — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:31.908Z'
 finalUrl: 'https://komfortfactory.com/'
 reachable: true

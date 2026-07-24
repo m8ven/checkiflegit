@@ -1,10 +1,10 @@
 ---
 domain: holtzco.com
 slug: holtzco-com
-title: Is holtzco.com Legit? Trust Signal Check
+title: Is holtzco.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for holtzco.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  holtzco.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:20:25.506Z'
 finalUrl: 'https://www.holtzco.com/'
 reachable: true

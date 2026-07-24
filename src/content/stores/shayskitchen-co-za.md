@@ -1,10 +1,10 @@
 ---
 domain: shayskitchen.co.za
 slug: shayskitchen-co-za
-title: Is shayskitchen.co.za Legit? Trust Signal Check
+title: Is shayskitchen.co.za Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shayskitchen.co.za: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shayskitchen.co.za scores 100/100 on our public trust checks. Has a contact
+  page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:00:42.762Z'
 finalUrl: 'https://shayskitchen.co.za/'
 reachable: true

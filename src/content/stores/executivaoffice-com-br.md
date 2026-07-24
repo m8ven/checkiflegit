@@ -1,10 +1,10 @@
 ---
 domain: executivaoffice.com.br
 slug: executivaoffice-com-br
-title: Is executivaoffice.com.br Legit? Trust Signal Check
+title: Is executivaoffice.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for executivaoffice.com.br: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  executivaoffice.com.br scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:55:57.799Z'
 finalUrl: 'https://executivaoffice.com.br/'
 reachable: true

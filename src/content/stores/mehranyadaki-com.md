@@ -1,10 +1,10 @@
 ---
 domain: mehranyadaki.com
 slug: mehranyadaki-com
-title: Is mehranyadaki.com Legit? Trust Signal Check
+title: Is mehranyadaki.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for mehranyadaki.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mehranyadaki.com scores 85/100 on our public trust checks. Established domain
+  — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:16.395Z'
 finalUrl: 'https://mehranyadaki.com/'
 reachable: true

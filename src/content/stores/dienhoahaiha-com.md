@@ -1,10 +1,10 @@
 ---
 domain: dienhoahaiha.com
 slug: dienhoahaiha-com
-title: Is dienhoahaiha.com Legit? Trust Signal Check
+title: Is dienhoahaiha.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for dienhoahaiha.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dienhoahaiha.com scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:53:20.192Z'
 finalUrl: 'https://dienhoahaiha.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ageti.fr
 slug: ageti-fr
-title: Is ageti.fr Legit? Trust Signal Check
+title: Is ageti.fr Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ageti.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ageti.fr scores 70/100 on our public trust checks. Established domain —
+  registered 24.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:54.256Z'
 finalUrl: 'https://www.ageti.fr/'
 reachable: true

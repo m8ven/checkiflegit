@@ -1,10 +1,10 @@
 ---
 domain: ilsalvagente.it
 slug: ilsalvagente-it
-title: Is ilsalvagente.it Legit? Trust Signal Check
+title: Is ilsalvagente.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ilsalvagente.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ilsalvagente.it scores 88/100 on our public trust checks. Established domain —
+  registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:38:01.815Z'
 finalUrl: 'https://ilsalvagente.it/'
 reachable: true

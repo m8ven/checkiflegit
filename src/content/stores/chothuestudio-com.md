@@ -1,10 +1,10 @@
 ---
 domain: chothuestudio.com
 slug: chothuestudio-com
-title: Is chothuestudio.com Legit? Trust Signal Check
+title: Is chothuestudio.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for chothuestudio.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chothuestudio.com scores 88/100 on our public trust checks. Established domain
+  — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:50.738Z'
 finalUrl: 'https://chothuestudio.com/'
 reachable: true

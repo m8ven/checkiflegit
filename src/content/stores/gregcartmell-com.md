@@ -1,10 +1,10 @@
 ---
 domain: gregcartmell.com
 slug: gregcartmell-com
-title: Is gregcartmell.com Legit? Trust Signal Check
+title: Is gregcartmell.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for gregcartmell.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gregcartmell.com scores 70/100 on our public trust checks. Established domain
+  — registered 26 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:58.551Z'
 finalUrl: 'https://gregcartmell.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: math123.ru
 slug: math123-ru
-title: Is math123.ru Legit? Trust Signal Check
+title: Is math123.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for math123.ru: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  math123.ru scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:35:43.807Z'
 finalUrl: 'https://math123.ru/'
 reachable: true

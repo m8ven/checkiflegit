@@ -1,10 +1,10 @@
 ---
 domain: shop.kreos.fr
 slug: shop-kreos-fr
-title: Is shop.kreos.fr Legit? Trust Signal Check
+title: Is shop.kreos.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.kreos.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.kreos.fr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:35:56.750Z'
 finalUrl: 'https://shop.kreos.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kamislargaleri.com
 slug: kamislargaleri-com
-title: Is kamislargaleri.com Legit? Trust Signal Check
+title: Is kamislargaleri.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for kamislargaleri.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kamislargaleri.com scores 76/100 on our public trust checks. Established
+  domain — registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:10:00.206Z'
 finalUrl: 'https://kamislargaleri.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: orotech.lt
 slug: orotech-lt
-title: Is orotech.lt Legit? Trust Signal Check
+title: Is orotech.lt Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for orotech.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  orotech.lt scores 82/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:04.313Z'
 finalUrl: 'https://orotech.lt/'
 reachable: true

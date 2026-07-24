@@ -1,10 +1,10 @@
 ---
 domain: adgifts.eu
 slug: adgifts-eu
-title: Is adgifts.eu Legit? Trust Signal Check
+title: Is adgifts.eu Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for adgifts.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  adgifts.eu scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:33:00.272Z'
 finalUrl: 'https://adgifts.eu/'
 reachable: true

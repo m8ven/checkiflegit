@@ -1,10 +1,10 @@
 ---
 domain: 2bbeauty.hu
 slug: 2bbeauty-hu
-title: Is 2bbeauty.hu Legit? Trust Signal Check
+title: Is 2bbeauty.hu Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 2bbeauty.hu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  2bbeauty.hu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:38:35.139Z'
 finalUrl: 'https://www.2bbeauty.hu/'
 reachable: true

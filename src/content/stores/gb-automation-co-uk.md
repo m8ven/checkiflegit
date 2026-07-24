@@ -1,10 +1,10 @@
 ---
 domain: gb-automation.co.uk
 slug: gb-automation-co-uk
-title: Is gb-automation.co.uk Legit? Trust Signal Check
+title: Is gb-automation.co.uk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for gb-automation.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gb-automation.co.uk scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:50:03.303Z'
 finalUrl: 'https://gb-automation.co.uk/'
 reachable: true

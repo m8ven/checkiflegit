@@ -1,10 +1,10 @@
 ---
 domain: oanasavu.com
 slug: oanasavu-com
-title: Is oanasavu.com Legit? Trust Signal Check
+title: Is oanasavu.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for oanasavu.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  oanasavu.com scores 70/100 on our public trust checks. Established domain —
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:34.346Z'
 finalUrl: 'https://oanasavu.com/'
 reachable: true

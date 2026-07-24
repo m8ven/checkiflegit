@@ -1,10 +1,10 @@
 ---
 domain: hifiparts.net
 slug: hifiparts-net
-title: Is hifiparts.net Legit? Trust Signal Check
+title: Is hifiparts.net Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for hifiparts.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hifiparts.net scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:34:49.782Z'
 finalUrl: 'https://hifiparts.net/'
 reachable: true

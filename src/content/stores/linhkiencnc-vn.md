@@ -1,10 +1,10 @@
 ---
 domain: linhkiencnc.vn
 slug: linhkiencnc-vn
-title: Is linhkiencnc.vn Legit? Trust Signal Check
+title: Is linhkiencnc.vn Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for linhkiencnc.vn: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  linhkiencnc.vn scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:49:37.357Z'
 finalUrl: 'https://linhkiencnc.vn/'
 reachable: true

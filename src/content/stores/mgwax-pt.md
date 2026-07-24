@@ -1,10 +1,10 @@
 ---
 domain: mgwax.pt
 slug: mgwax-pt
-title: Is mgwax.pt Legit? Trust Signal Check
+title: Is mgwax.pt Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mgwax.pt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mgwax.pt scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:30:19.051Z'
 finalUrl: 'https://mgwax.pt/'
 reachable: true

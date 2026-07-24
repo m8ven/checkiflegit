@@ -1,11 +1,11 @@
 ---
 domain: thietbivietmaianh.vn
 slug: thietbivietmaianh-vn
-title: Is thietbivietmaianh.vn Legit? Trust Signal Check
+title: Is thietbivietmaianh.vn Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for thietbivietmaianh.vn: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  thietbivietmaianh.vn scores 40/100 on our public trust checks. Standard
+  contact and policy pages were not found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:10:49.295Z'
 finalUrl: 'https://thietbivietmaianh.vn/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: latuamoto.it
 slug: latuamoto-it
-title: Is latuamoto.it Legit? Trust Signal Check
+title: Is latuamoto.it Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for latuamoto.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  latuamoto.it scores 85/100 on our public trust checks. Established domain —
+  registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:39.104Z'
 finalUrl: 'https://latuamoto.it/'
 reachable: true

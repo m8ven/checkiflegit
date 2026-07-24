@@ -1,10 +1,10 @@
 ---
 domain: corgil.com.co
 slug: corgil-com-co
-title: Is corgil.com.co Legit? Trust Signal Check
+title: Is corgil.com.co Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for corgil.com.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  corgil.com.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:07:29.364Z'
 finalUrl: 'https://corgil.com.co/'
 reachable: true

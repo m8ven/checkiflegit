@@ -1,10 +1,10 @@
 ---
 domain: izitec.ru
 slug: izitec-ru
-title: Is izitec.ru Legit? Trust Signal Check
+title: Is izitec.ru Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for izitec.ru: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  izitec.ru scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:38:50.725Z'
 finalUrl: 'https://izitec.ru/'
 reachable: true

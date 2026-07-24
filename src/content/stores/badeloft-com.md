@@ -1,10 +1,10 @@
 ---
 domain: badeloft.com
 slug: badeloft-com
-title: Is badeloft.com Legit? Trust Signal Check
+title: Is badeloft.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for badeloft.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  badeloft.com scores 88/100 on our public trust checks. Established domain —
+  registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:18.763Z'
 finalUrl: 'https://www.badeloft.com/'
 reachable: true

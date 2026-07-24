@@ -1,10 +1,10 @@
 ---
 domain: massagen-in-leipzig.de
 slug: massagen-in-leipzig-de
-title: Is massagen-in-leipzig.de Legit? Trust Signal Check
+title: Is massagen-in-leipzig.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for massagen-in-leipzig.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  massagen-in-leipzig.de scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:06.529Z'
 finalUrl: 'https://www.massagen-in-leipzig.de/'
 reachable: true

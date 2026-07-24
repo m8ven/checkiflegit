@@ -1,11 +1,11 @@
 ---
 domain: babycarriersdirect.com
 slug: babycarriersdirect-com
-title: Is babycarriersdirect.com Legit? Trust Signal Check
+title: Is babycarriersdirect.com Legit? Trust Score 37/100
 description: >-
-  An automated trust-signal check for babycarriersdirect.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  babycarriersdirect.com scores 37/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T14:51:48.293Z'
 finalUrl: 'https://www.babycarriersdirect.com/'
 reachable: true

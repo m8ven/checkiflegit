@@ -1,10 +1,10 @@
 ---
 domain: hochzeits-fotograf-leipzig.de
 slug: hochzeits-fotograf-leipzig-de
-title: Is hochzeits-fotograf-leipzig.de Legit? Trust Signal Check
+title: Is hochzeits-fotograf-leipzig.de Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for hochzeits-fotograf-leipzig.de: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  hochzeits-fotograf-leipzig.de scores 57/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T11:56:34.595Z'
 finalUrl: 'https://hochzeits-fotograf-leipzig.de/'
 reachable: true

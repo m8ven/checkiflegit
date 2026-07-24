@@ -1,10 +1,10 @@
 ---
 domain: molimextherm.com
 slug: molimextherm-com
-title: Is molimextherm.com Legit? Trust Signal Check
+title: Is molimextherm.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for molimextherm.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  molimextherm.com scores 100/100 on our public trust checks. Established domain
+  — registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:27.894Z'
 finalUrl: 'https://www.molimextherm.com/'
 reachable: true

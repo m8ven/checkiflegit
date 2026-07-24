@@ -1,11 +1,11 @@
 ---
 domain: vi.tramhuongnguyen.com
 slug: vi-tramhuongnguyen-com
-title: Is vi.tramhuongnguyen.com Legit? Trust Signal Check
+title: Is vi.tramhuongnguyen.com Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for vi.tramhuongnguyen.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  vi.tramhuongnguyen.com scores 36/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:18:16.069Z'
 finalUrl: 'https://vi.tramhuongnguyen.com/'
 reachable: true

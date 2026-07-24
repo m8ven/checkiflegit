@@ -1,10 +1,10 @@
 ---
 domain: icpostavshik.ru
 slug: icpostavshik-ru
-title: Is icpostavshik.ru Legit? Trust Signal Check
+title: Is icpostavshik.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for icpostavshik.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  icpostavshik.ru scores 85/100 on our public trust checks. Established domain —
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:56.180Z'
 finalUrl: 'https://www.icpostavshik.ru/'
 reachable: true

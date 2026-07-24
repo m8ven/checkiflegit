@@ -1,10 +1,10 @@
 ---
 domain: psychiatrie-verlag.de
 slug: psychiatrie-verlag-de
-title: Is psychiatrie-verlag.de Legit? Trust Signal Check
+title: Is psychiatrie-verlag.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for psychiatrie-verlag.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  psychiatrie-verlag.de scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:48.490Z'
 finalUrl: 'https://psychiatrie-verlag.de/'
 reachable: true

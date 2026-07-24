@@ -1,10 +1,10 @@
 ---
 domain: somm-recordings.com
 slug: somm-recordings-com
-title: Is somm-recordings.com Legit? Trust Signal Check
+title: Is somm-recordings.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for somm-recordings.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  somm-recordings.com scores 100/100 on our public trust checks. Established
+  domain — registered 20.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:02.541Z'
 finalUrl: 'https://somm-recordings.com/'
 reachable: true

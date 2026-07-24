@@ -1,10 +1,11 @@
 ---
 domain: kms.kultur-schleswig-flensburg.de
 slug: kms-kultur-schleswig-flensburg-de
-title: Is kms.kultur-schleswig-flensburg.de Legit? Trust Signal Check
+title: Is kms.kultur-schleswig-flensburg.de Legit? Score 83/100
 description: >-
-  An automated trust-signal check for kms.kultur-schleswig-flensburg.de: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  kms.kultur-schleswig-flensburg.de scores 83/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place. Public business contact details are
+  listed.
 fetchedAt: '2026-06-25T03:51:56.380Z'
 finalUrl: 'https://kms.kultur-schleswig-flensburg.de/'
 reachable: true

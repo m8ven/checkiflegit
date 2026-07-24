@@ -1,10 +1,10 @@
 ---
 domain: digitaldominar.com
 slug: digitaldominar-com
-title: Is digitaldominar.com Legit? Trust Signal Check
+title: Is digitaldominar.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for digitaldominar.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  digitaldominar.com scores 76/100 on our public trust checks. Established
+  domain — registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:30.470Z'
 finalUrl: 'https://digitaldominar.com/'
 reachable: true

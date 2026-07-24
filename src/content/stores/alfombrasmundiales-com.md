@@ -1,10 +1,10 @@
 ---
 domain: alfombrasmundiales.com
 slug: alfombrasmundiales-com
-title: Is alfombrasmundiales.com Legit? Trust Signal Check
+title: Is alfombrasmundiales.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for alfombrasmundiales.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  alfombrasmundiales.com scores 82/100 on our public trust checks. Established
+  domain — registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:42.966Z'
 finalUrl: 'https://alfombrasmundiales.com/'
 reachable: true

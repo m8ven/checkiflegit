@@ -1,10 +1,10 @@
 ---
 domain: holyland-olivewood.com
 slug: holyland-olivewood-com
-title: Is holyland-olivewood.com Legit? Trust Signal Check
+title: Is holyland-olivewood.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for holyland-olivewood.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  holyland-olivewood.com scores 88/100 on our public trust checks. Established
+  domain — registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:09.500Z'
 finalUrl: 'https://holyland-olivewood.com/'
 reachable: true

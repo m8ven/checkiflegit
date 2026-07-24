@@ -1,10 +1,10 @@
 ---
 domain: casalille.com.br
 slug: casalille-com-br
-title: Is casalille.com.br Legit? Trust Signal Check
+title: Is casalille.com.br Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for casalille.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  casalille.com.br scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:44:50.989Z'
 finalUrl: 'https://casalille.com.br/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ajwa.london
 slug: ajwa-london
-title: Is ajwa.london Legit? Trust Signal Check
+title: Is ajwa.london Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ajwa.london: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ajwa.london scores 100/100 on our public trust checks. Established domain —
+  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:34.426Z'
 finalUrl: 'https://ajwa.london/'
 reachable: true

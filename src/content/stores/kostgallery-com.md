@@ -1,10 +1,11 @@
 ---
 domain: kostgallery.com
 slug: kostgallery-com
-title: Is kostgallery.com Legit? Trust Signal Check
+title: Is kostgallery.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for kostgallery.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  kostgallery.com scores 43/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:25:50.854Z'
 finalUrl: 'https://www.kostgallery.com/'
 reachable: true

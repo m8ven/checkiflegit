@@ -1,10 +1,10 @@
 ---
 domain: hortongolfpark.com
 slug: hortongolfpark-com
-title: Is hortongolfpark.com Legit? Trust Signal Check
+title: Is hortongolfpark.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for hortongolfpark.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hortongolfpark.com scores 88/100 on our public trust checks. Established
+  domain — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:55:39.580Z'
 finalUrl: 'https://hortongolfpark.com/'
 reachable: true

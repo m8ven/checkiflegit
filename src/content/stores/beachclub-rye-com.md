@@ -1,10 +1,10 @@
 ---
 domain: beachclub-rye.com
 slug: beachclub-rye-com
-title: Is beachclub-rye.com Legit? Trust Signal Check
+title: Is beachclub-rye.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for beachclub-rye.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beachclub-rye.com scores 85/100 on our public trust checks. Established domain
+  — registered 19.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:20.921Z'
 finalUrl: 'https://beachclub-rye.com/'
 reachable: true

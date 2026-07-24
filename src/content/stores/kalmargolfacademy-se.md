@@ -1,10 +1,10 @@
 ---
 domain: kalmargolfacademy.se
 slug: kalmargolfacademy-se
-title: Is kalmargolfacademy.se Legit? Trust Signal Check
+title: Is kalmargolfacademy.se Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for kalmargolfacademy.se: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kalmargolfacademy.se scores 76/100 on our public trust checks. Established
+  domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:57.963Z'
 finalUrl: 'https://kalmargolfacademy.se/'
 reachable: true

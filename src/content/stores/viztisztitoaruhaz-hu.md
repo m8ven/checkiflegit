@@ -1,10 +1,10 @@
 ---
 domain: viztisztitoaruhaz.hu
 slug: viztisztitoaruhaz-hu
-title: Is viztisztitoaruhaz.hu Legit? Trust Signal Check
+title: Is viztisztitoaruhaz.hu Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for viztisztitoaruhaz.hu: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  viztisztitoaruhaz.hu scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:38.202Z'
 finalUrl: 'https://viztisztitoaruhaz.hu/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: oblist.com
 slug: oblist-com
-title: Is oblist.com Legit? Trust Signal Check
+title: Is oblist.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for oblist.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  oblist.com scores 100/100 on our public trust checks. Established domain —
+  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:05.335Z'
 finalUrl: 'https://oblist.com/'
 reachable: true

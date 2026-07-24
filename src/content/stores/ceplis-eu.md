@@ -1,10 +1,11 @@
 ---
 domain: ceplis.eu
 slug: ceplis-eu
-title: Is ceplis.eu Legit? Trust Signal Check
+title: Is ceplis.eu Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ceplis.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ceplis.eu scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T02:21:35.753Z'
 finalUrl: 'https://ceplis.eu/'
 reachable: true

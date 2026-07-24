@@ -1,10 +1,10 @@
 ---
 domain: labgrownauctions.com
 slug: labgrownauctions-com
-title: Is labgrownauctions.com Legit? Trust Signal Check
+title: Is labgrownauctions.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for labgrownauctions.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  labgrownauctions.com scores 85/100 on our public trust checks. Established
+  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:23.880Z'
 finalUrl: 'https://labgrownauctions.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: zeldeseyecenter.com
 slug: zeldeseyecenter-com
-title: Is zeldeseyecenter.com Legit? Trust Signal Check
+title: Is zeldeseyecenter.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for zeldeseyecenter.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  zeldeseyecenter.com scores 100/100 on our public trust checks. Established
+  domain — registered 22 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:24.145Z'
 finalUrl: 'https://www.zeldeseyecenter.com/'
 reachable: true

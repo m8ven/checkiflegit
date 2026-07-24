@@ -1,10 +1,10 @@
 ---
 domain: primosportswear.nl
 slug: primosportswear-nl
-title: Is primosportswear.nl Legit? Trust Signal Check
+title: Is primosportswear.nl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for primosportswear.nl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  primosportswear.nl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T14:50:50.334Z'
 finalUrl: 'https://primosportswear.nl/'
 reachable: true

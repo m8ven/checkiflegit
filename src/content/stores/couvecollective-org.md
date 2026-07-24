@@ -1,10 +1,10 @@
 ---
 domain: couvecollective.org
 slug: couvecollective-org
-title: Is couvecollective.org Legit? Trust Signal Check
+title: Is couvecollective.org Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for couvecollective.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  couvecollective.org scores 94/100 on our public trust checks. Established
+  domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:12.049Z'
 finalUrl: 'https://couvecollective.org/'
 reachable: true

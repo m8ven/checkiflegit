@@ -1,10 +1,11 @@
 ---
 domain: svbony.eu
 slug: svbony-eu
-title: Is svbony.eu Legit? Trust Signal Check
+title: Is svbony.eu Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for svbony.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  svbony.eu scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:40:30.220Z'
 finalUrl: 'https://svbony.eu/'
 reachable: true

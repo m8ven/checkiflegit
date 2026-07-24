@@ -1,10 +1,10 @@
 ---
 domain: karethailand.com
 slug: karethailand-com
-title: Is karethailand.com Legit? Trust Signal Check
+title: Is karethailand.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for karethailand.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  karethailand.com scores 88/100 on our public trust checks. Established domain
+  — registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:21:43.147Z'
 finalUrl: 'https://www.karethailand.com/'
 reachable: true

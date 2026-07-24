@@ -1,10 +1,10 @@
 ---
 domain: latelier-st-heand.fr
 slug: latelier-st-heand-fr
-title: Is latelier-st-heand.fr Legit? Trust Signal Check
+title: Is latelier-st-heand.fr Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for latelier-st-heand.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  latelier-st-heand.fr scores 85/100 on our public trust checks. Established
+  domain — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:50.490Z'
 finalUrl: 'https://latelier-st-heand.fr/'
 reachable: true

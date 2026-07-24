@@ -1,10 +1,10 @@
 ---
 domain: bobiland.pl
 slug: bobiland-pl
-title: Is bobiland.pl Legit? Trust Signal Check
+title: Is bobiland.pl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bobiland.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bobiland.pl scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:22:50.184Z'
 finalUrl: 'https://bobiland.pl/'
 reachable: true

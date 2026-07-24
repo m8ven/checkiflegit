@@ -1,10 +1,10 @@
 ---
 domain: fadi.es
 slug: fadi-es
-title: Is fadi.es Legit? Trust Signal Check
+title: Is fadi.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fadi.es: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  fadi.es scores 100/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T14:48:35.440Z'
 finalUrl: 'https://fadi.es/'
 reachable: true

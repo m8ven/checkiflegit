@@ -1,10 +1,10 @@
 ---
 domain: inmobiliariarochi.com
 slug: inmobiliariarochi-com
-title: Is inmobiliariarochi.com Legit? Trust Signal Check
+title: Is inmobiliariarochi.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for inmobiliariarochi.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  inmobiliariarochi.com scores 85/100 on our public trust checks. Established
+  domain — registered 2.6 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:00:07.667Z'
 finalUrl: 'https://inmobiliariarochi.com/'
 reachable: true

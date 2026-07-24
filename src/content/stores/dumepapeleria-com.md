@@ -1,10 +1,10 @@
 ---
 domain: dumepapeleria.com
 slug: dumepapeleria-com
-title: Is dumepapeleria.com Legit? Trust Signal Check
+title: Is dumepapeleria.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for dumepapeleria.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dumepapeleria.com scores 94/100 on our public trust checks. Established domain
+  — registered 19 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:39.771Z'
 finalUrl: 'https://dumepapeleria.com/'
 reachable: true

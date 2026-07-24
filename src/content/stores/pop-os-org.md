@@ -1,10 +1,10 @@
 ---
 domain: pop-os.org
 slug: pop-os-org
-title: Is pop-os.org Legit? Trust Signal Check
+title: Is pop-os.org Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pop-os.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pop-os.org scores 70/100 on our public trust checks. Established domain —
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:57.904Z'
 finalUrl: 'https://system76.com/pop'
 reachable: true

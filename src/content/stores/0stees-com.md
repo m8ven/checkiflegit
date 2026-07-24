@@ -1,10 +1,10 @@
 ---
 domain: 0stees.com
 slug: 0stees-com
-title: Is 0stees.com Legit? Trust Signal Check
+title: Is 0stees.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 0stees.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  0stees.com scores 88/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:06.987Z'
 finalUrl: 'https://www.0stees.com/'
 reachable: true

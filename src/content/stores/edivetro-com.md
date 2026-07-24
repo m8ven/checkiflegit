@@ -1,10 +1,10 @@
 ---
 domain: edivetro.com
 slug: edivetro-com
-title: Is edivetro.com Legit? Trust Signal Check
+title: Is edivetro.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for edivetro.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  edivetro.com scores 82/100 on our public trust checks. Established domain —
+  registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:49.890Z'
 finalUrl: 'https://edivetro.com/'
 reachable: true

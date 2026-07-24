@@ -1,10 +1,10 @@
 ---
 domain: nationalwatercarts.com.au
 slug: nationalwatercarts-com-au
-title: Is nationalwatercarts.com.au Legit? Trust Signal Check
+title: Is nationalwatercarts.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nationalwatercarts.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nationalwatercarts.com.au scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:55:45.846Z'
 finalUrl: 'https://nationalwatercarts.com.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: threadedneedle.com.au
 slug: threadedneedle-com-au
-title: Is threadedneedle.com.au Legit? Trust Signal Check
+title: Is threadedneedle.com.au Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for threadedneedle.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  threadedneedle.com.au scores 91/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:30.556Z'
 finalUrl: 'https://threadedneedle.com.au/'
 reachable: true

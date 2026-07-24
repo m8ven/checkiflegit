@@ -1,10 +1,10 @@
 ---
 domain: jerplaz.cl
 slug: jerplaz-cl
-title: Is jerplaz.cl Legit? Trust Signal Check
+title: Is jerplaz.cl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for jerplaz.cl: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jerplaz.cl scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:03:29.052Z'
 finalUrl: 'https://jerplaz.cl/'
 reachable: true

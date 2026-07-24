@@ -1,10 +1,10 @@
 ---
 domain: theflooringguys.com.au
 slug: theflooringguys-com-au
-title: Is theflooringguys.com.au Legit? Trust Signal Check
+title: Is theflooringguys.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for theflooringguys.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  theflooringguys.com.au scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:43.572Z'
 finalUrl: 'https://theflooringguys.com.au/'
 reachable: true

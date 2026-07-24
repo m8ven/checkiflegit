@@ -1,10 +1,10 @@
 ---
 domain: aquafizz.nl
 slug: aquafizz-nl
-title: Is aquafizz.nl Legit? Trust Signal Check
+title: Is aquafizz.nl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for aquafizz.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aquafizz.nl scores 88/100 on our public trust checks. Established domain —
+  registered 15.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:08.840Z'
 finalUrl: 'https://www.aquafizz.nl/'
 reachable: true

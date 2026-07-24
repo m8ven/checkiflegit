@@ -1,10 +1,10 @@
 ---
 domain: rimrubber.sa
 slug: rimrubber-sa
-title: Is rimrubber.sa Legit? Trust Signal Check
+title: Is rimrubber.sa Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rimrubber.sa: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rimrubber.sa scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:06:42.223Z'
 finalUrl: 'https://rimrubber.sa/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: advancelam.com
 slug: advancelam-com
-title: Is advancelam.com Legit? Trust Signal Check
+title: Is advancelam.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for advancelam.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  advancelam.com scores 76/100 on our public trust checks. Established domain —
+  registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:22.888Z'
 finalUrl: 'https://advancelam.com/'
 reachable: true

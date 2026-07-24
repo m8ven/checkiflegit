@@ -1,10 +1,11 @@
 ---
 domain: glimmerbox.pl
 slug: glimmerbox-pl
-title: Is glimmerbox.pl Legit? Trust Signal Check
+title: Is glimmerbox.pl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for glimmerbox.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  glimmerbox.pl scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T14:59:18.493Z'
 finalUrl: 'https://glimmerbox.pl/'
 reachable: true

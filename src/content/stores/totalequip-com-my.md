@@ -1,10 +1,10 @@
 ---
 domain: totalequip.com.my
 slug: totalequip-com-my
-title: Is totalequip.com.my Legit? Trust Signal Check
+title: Is totalequip.com.my Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for totalequip.com.my: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  totalequip.com.my scores 82/100 on our public trust checks. Established domain
+  — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:52.584Z'
 finalUrl: 'https://totalequip.com.my/'
 reachable: true

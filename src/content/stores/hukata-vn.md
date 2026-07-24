@@ -1,10 +1,10 @@
 ---
 domain: hukata.vn
 slug: hukata-vn
-title: Is hukata.vn Legit? Trust Signal Check
+title: Is hukata.vn Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for hukata.vn: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hukata.vn scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:52:12.497Z'
 finalUrl: 'https://hukata.vn/'
 reachable: true

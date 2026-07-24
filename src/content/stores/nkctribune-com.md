@@ -1,10 +1,10 @@
 ---
 domain: nkctribune.com
 slug: nkctribune-com
-title: Is nkctribune.com Legit? Trust Signal Check
+title: Is nkctribune.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for nkctribune.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nkctribune.com scores 94/100 on our public trust checks. Established domain —
+  registered 25.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:40.414Z'
 finalUrl: 'https://nkctribune.com/'
 reachable: true

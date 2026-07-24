@@ -1,10 +1,10 @@
 ---
 domain: hermansdal.com
 slug: hermansdal-com
-title: Is hermansdal.com Legit? Trust Signal Check
+title: Is hermansdal.com Legit? Trust Score 63/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for hermansdal.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hermansdal.com scores 63/100 on our public trust checks. Standard contact and
+  policy pages were not found. Established domain — registered 12.1 years ago.
 fetchedAt: '2026-06-25T02:36:56.355Z'
 finalUrl: 'https://hermansdal.com/'
 reachable: true

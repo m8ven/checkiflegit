@@ -1,10 +1,10 @@
 ---
 domain: zoomflick.in
 slug: zoomflick-in
-title: Is zoomflick.in Legit? Trust Signal Check
+title: Is zoomflick.in Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for zoomflick.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zoomflick.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:30:28.840Z'
 finalUrl: 'https://zoomflick.in/'
 reachable: true

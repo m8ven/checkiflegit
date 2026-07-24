@@ -1,10 +1,10 @@
 ---
 domain: dislon.com.br
 slug: dislon-com-br
-title: Is dislon.com.br Legit? Trust Signal Check
+title: Is dislon.com.br Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for dislon.com.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dislon.com.br scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:41:02.454Z'
 finalUrl: 'https://www.dislon.com.br/'
 reachable: true

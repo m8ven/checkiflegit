@@ -1,10 +1,10 @@
 ---
 domain: beyondletters.com
 slug: beyondletters-com
-title: Is beyondletters.com Legit? Trust Signal Check
+title: Is beyondletters.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for beyondletters.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beyondletters.com scores 88/100 on our public trust checks. Established domain
+  — registered 25.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:16.231Z'
 finalUrl: 'https://www.beyondletters.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: climbmountanalog.com
 slug: climbmountanalog-com
-title: Is climbmountanalog.com Legit? Trust Signal Check
+title: Is climbmountanalog.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for climbmountanalog.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  climbmountanalog.com scores 52/100 on our public trust checks. Standard
+  contact and policy pages were not found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T15:06:38.958Z'
 finalUrl: 'https://climbmountanalog.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tristatemvm.org
 slug: tristatemvm-org
-title: Is tristatemvm.org Legit? Trust Signal Check
+title: Is tristatemvm.org Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for tristatemvm.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tristatemvm.org scores 73/100 on our public trust checks. Established domain —
+  registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:42.571Z'
 finalUrl: 'https://tristatemvm.org/'
 reachable: true

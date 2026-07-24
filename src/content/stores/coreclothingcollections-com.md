@@ -1,10 +1,11 @@
 ---
 domain: coreclothingcollections.com
 slug: coreclothingcollections-com
-title: Is coreclothingcollections.com Legit? Trust Signal Check
+title: Is coreclothingcollections.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for coreclothingcollections.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  coreclothingcollections.com scores 64/100 on our public trust checks. Domain
+  is relatively young. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:40:01.948Z'
 finalUrl: 'https://coreclothingcollections.com/'
 reachable: true

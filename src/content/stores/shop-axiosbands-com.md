@@ -1,10 +1,10 @@
 ---
 domain: shop.axiosbands.com
 slug: shop-axiosbands-com
-title: Is shop.axiosbands.com Legit? Trust Signal Check
+title: Is shop.axiosbands.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for shop.axiosbands.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.axiosbands.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:37:30.766Z'
 finalUrl: 'https://shop.axiosbands.com/'
 reachable: true

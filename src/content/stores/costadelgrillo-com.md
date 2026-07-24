@@ -1,10 +1,10 @@
 ---
 domain: costadelgrillo.com
 slug: costadelgrillo-com
-title: Is costadelgrillo.com Legit? Trust Signal Check
+title: Is costadelgrillo.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for costadelgrillo.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  costadelgrillo.com scores 76/100 on our public trust checks. Established
+  domain — registered 15.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:10.883Z'
 finalUrl: 'https://costadelgrillo.com/'
 reachable: true

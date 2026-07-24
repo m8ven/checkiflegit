@@ -1,10 +1,11 @@
 ---
 domain: articles.listnr.com
 slug: articles-listnr-com
-title: Is articles.listnr.com Legit? Trust Signal Check
+title: Is articles.listnr.com Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for articles.listnr.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  articles.listnr.com scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:25:23.813Z'
 finalUrl: 'https://articles.listnr.com/'
 reachable: true

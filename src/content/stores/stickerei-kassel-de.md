@@ -1,10 +1,10 @@
 ---
 domain: stickerei-kassel.de
 slug: stickerei-kassel-de
-title: Is stickerei-kassel.de Legit? Trust Signal Check
+title: Is stickerei-kassel.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for stickerei-kassel.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stickerei-kassel.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:07:39.963Z'
 finalUrl: 'https://stickerei-kassel.de/'
 reachable: true

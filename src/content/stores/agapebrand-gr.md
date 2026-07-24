@@ -1,10 +1,10 @@
 ---
 domain: agapebrand.gr
 slug: agapebrand-gr
-title: Is agapebrand.gr Legit? Trust Signal Check
+title: Is agapebrand.gr Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for agapebrand.gr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  agapebrand.gr scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:12:42.029Z'
 finalUrl: 'https://www.agapebrand.gr/'
 reachable: true

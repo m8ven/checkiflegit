@@ -1,10 +1,10 @@
 ---
 domain: havehegn.dk
 slug: havehegn-dk
-title: Is havehegn.dk Legit? Trust Signal Check
+title: Is havehegn.dk Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for havehegn.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  havehegn.dk scores 88/100 on our public trust checks. Established domain —
+  registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:14.329Z'
 finalUrl: 'https://havehegn.dk/'
 reachable: true

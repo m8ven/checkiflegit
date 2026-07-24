@@ -1,10 +1,10 @@
 ---
 domain: data.chonghanggia.vn
 slug: data-chonghanggia-vn
-title: Is data.chonghanggia.vn Legit? Trust Signal Check
+title: Is data.chonghanggia.vn Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for data.chonghanggia.vn: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  data.chonghanggia.vn scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:08:16.099Z'
 finalUrl: 'https://data.chonghanggia.vn/'
 reachable: true

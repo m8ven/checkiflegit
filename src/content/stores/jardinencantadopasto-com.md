@@ -1,10 +1,10 @@
 ---
 domain: jardinencantadopasto.com
 slug: jardinencantadopasto-com
-title: Is jardinencantadopasto.com Legit? Trust Signal Check
+title: Is jardinencantadopasto.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for jardinencantadopasto.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  jardinencantadopasto.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:31:27.057Z'
 finalUrl: 'https://jardinencantadopasto.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: texaspressurewashingstoredallas.com
 slug: texaspressurewashingstoredallas-com
-title: Is texaspressurewashingstoredallas.com Legit? Trust Signal Check
+title: Is texaspressurewashingstoredallas.com Legit? Score 100/100
 description: >-
-  An automated trust-signal check for texaspressurewashingstoredallas.com:
-  strong trust signals. Domain age, SSL, contact info, reviews and more.
+  texaspressurewashingstoredallas.com scores 100/100 on our public trust checks.
+  Established domain — registered 3.1 years ago.
 fetchedAt: '2026-06-25T12:08:19.345Z'
 finalUrl: 'https://texaspressurewashingstoredallas.com/'
 reachable: true

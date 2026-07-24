@@ -1,10 +1,10 @@
 ---
 domain: alsamerjewellery.ae
 slug: alsamerjewellery-ae
-title: Is alsamerjewellery.ae Legit? Trust Signal Check
+title: Is alsamerjewellery.ae Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for alsamerjewellery.ae: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alsamerjewellery.ae scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:33:53.907Z'
 finalUrl: 'https://alsamerjewellery.ae/'
 reachable: true

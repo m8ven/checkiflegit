@@ -1,10 +1,10 @@
 ---
 domain: dianitaart.pl
 slug: dianitaart-pl
-title: Is dianitaart.pl Legit? Trust Signal Check
+title: Is dianitaart.pl Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for dianitaart.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  dianitaart.pl scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:28:56.030Z'
 finalUrl: 'https://www.dianitaart.pl/'
 reachable: true

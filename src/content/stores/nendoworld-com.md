@@ -1,10 +1,10 @@
 ---
 domain: nendoworld.com
 slug: nendoworld-com
-title: Is nendoworld.com Legit? Trust Signal Check
+title: Is nendoworld.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nendoworld.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nendoworld.com scores 100/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:38:18.260Z'
 finalUrl: 'https://nendoworld.com/'
 reachable: true

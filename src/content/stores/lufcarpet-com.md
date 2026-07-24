@@ -1,10 +1,10 @@
 ---
 domain: lufcarpet.com
 slug: lufcarpet-com
-title: Is lufcarpet.com Legit? Trust Signal Check
+title: Is lufcarpet.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for lufcarpet.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lufcarpet.com scores 100/100 on our public trust checks. Established domain —
+  registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:35.688Z'
 finalUrl: 'https://lufcarpet.com/'
 reachable: true

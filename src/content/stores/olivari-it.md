@@ -1,10 +1,10 @@
 ---
 domain: olivari.it
 slug: olivari-it
-title: Is olivari.it Legit? Trust Signal Check
+title: Is olivari.it Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for olivari.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  olivari.it scores 88/100 on our public trust checks. Established domain —
+  registered 29.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:50.127Z'
 finalUrl: 'https://www.olivari.it/'
 reachable: true

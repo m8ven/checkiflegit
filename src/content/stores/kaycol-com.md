@@ -1,10 +1,10 @@
 ---
 domain: kaycol.com
 slug: kaycol-com
-title: Is kaycol.com Legit? Trust Signal Check
+title: Is kaycol.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kaycol.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kaycol.com scores 85/100 on our public trust checks. Established domain —
+  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:11:04.846Z'
 finalUrl: 'https://kaycol.com/'
 reachable: true

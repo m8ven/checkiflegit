@@ -1,10 +1,10 @@
 ---
 domain: andalubox.com
 slug: andalubox-com
-title: Is andalubox.com Legit? Trust Signal Check
+title: Is andalubox.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for andalubox.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  andalubox.com scores 100/100 on our public trust checks. Established domain —
+  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:10.992Z'
 finalUrl: 'https://andalubox.com/'
 reachable: true

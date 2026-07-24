@@ -1,10 +1,10 @@
 ---
 domain: hardsetshop.com
 slug: hardsetshop-com
-title: Is hardsetshop.com Legit? Trust Signal Check
+title: Is hardsetshop.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for hardsetshop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hardsetshop.com scores 76/100 on our public trust checks. Established domain —
+  registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:25.725Z'
 finalUrl: 'https://www.hardsetshop.com/'
 reachable: true

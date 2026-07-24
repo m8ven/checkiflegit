@@ -1,10 +1,10 @@
 ---
 domain: kirov.superlestnica.com
 slug: kirov-superlestnica-com
-title: Is kirov.superlestnica.com Legit? Trust Signal Check
+title: Is kirov.superlestnica.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for kirov.superlestnica.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kirov.superlestnica.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:06:44.185Z'
 finalUrl: 'https://kirov.superlestnica.com/'
 reachable: true

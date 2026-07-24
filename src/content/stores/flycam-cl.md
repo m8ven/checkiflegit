@@ -1,10 +1,11 @@
 ---
 domain: flycam.cl
 slug: flycam-cl
-title: Is flycam.cl Legit? Trust Signal Check
+title: Is flycam.cl Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for flycam.cl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  flycam.cl scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T14:57:21.520Z'
 finalUrl: 'https://flycam.cl/'
 reachable: true

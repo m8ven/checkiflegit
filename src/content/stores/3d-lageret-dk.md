@@ -1,10 +1,10 @@
 ---
 domain: 3d-lageret.dk
 slug: 3d-lageret-dk
-title: Is 3d-lageret.dk Legit? Trust Signal Check
+title: Is 3d-lageret.dk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for 3d-lageret.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  3d-lageret.dk scores 82/100 on our public trust checks. Established domain —
+  registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:59.270Z'
 finalUrl: 'https://3d-lageret.dk/'
 reachable: true

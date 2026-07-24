@@ -1,10 +1,10 @@
 ---
 domain: lyxxa.se
 slug: lyxxa-se
-title: Is lyxxa.se Legit? Trust Signal Check
+title: Is lyxxa.se Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lyxxa.se: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lyxxa.se scores 58/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T12:36:52.598Z'
 finalUrl: 'https://www.lyxxa.se/'
 reachable: true

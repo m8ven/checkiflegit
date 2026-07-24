@@ -1,10 +1,10 @@
 ---
 domain: 1837barossa.com.au
 slug: 1837barossa-com-au
-title: Is 1837barossa.com.au Legit? Trust Signal Check
+title: Is 1837barossa.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for 1837barossa.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  1837barossa.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:44:31.359Z'
 finalUrl: 'https://1837barossa.com.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: alienroad.com
 slug: alienroad-com
-title: Is alienroad.com Legit? Trust Signal Check
+title: Is alienroad.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for alienroad.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alienroad.com scores 88/100 on our public trust checks. Established domain —
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:39.798Z'
 finalUrl: 'https://alienroad.com/'
 reachable: true

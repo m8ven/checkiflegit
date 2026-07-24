@@ -1,10 +1,10 @@
 ---
 domain: ndpnoticias.com.mx
 slug: ndpnoticias-com-mx
-title: Is ndpnoticias.com.mx Legit? Trust Signal Check
+title: Is ndpnoticias.com.mx Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ndpnoticias.com.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ndpnoticias.com.mx scores 76/100 on our public trust checks. Established
+  domain — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:35.671Z'
 finalUrl: 'https://ndpnoticias.com.mx/'
 reachable: true

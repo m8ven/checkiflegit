@@ -1,10 +1,10 @@
 ---
 domain: asimakishairshop.com
 slug: asimakishairshop-com
-title: Is asimakishairshop.com Legit? Trust Signal Check
+title: Is asimakishairshop.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for asimakishairshop.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  asimakishairshop.com scores 70/100 on our public trust checks. Established
+  domain — registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:47.629Z'
 finalUrl: 'https://www.asimakishairshop.com/'
 reachable: true

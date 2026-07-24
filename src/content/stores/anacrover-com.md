@@ -1,10 +1,11 @@
 ---
 domain: anacrover.com
 slug: anacrover-com
-title: Is anacrover.com Legit? Trust Signal Check
+title: Is anacrover.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for anacrover.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  anacrover.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:36:34.081Z'
 finalUrl: 'https://anacrover.com/'
 reachable: true

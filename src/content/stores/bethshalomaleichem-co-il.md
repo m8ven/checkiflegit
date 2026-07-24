@@ -1,11 +1,10 @@
 ---
 domain: bethshalomaleichem.co.il
 slug: bethshalomaleichem-co-il
-title: Is bethshalomaleichem.co.il Legit? Trust Signal Check
+title: Is bethshalomaleichem.co.il Legit? Trust Score 14/100
 description: >-
-  An automated trust-signal check for bethshalomaleichem.co.il: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  bethshalomaleichem.co.il scores 14/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T03:36:27.307Z'
 finalUrl: 'https://bethshalomaleichem.co.il/'
 reachable: true

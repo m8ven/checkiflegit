@@ -1,10 +1,10 @@
 ---
 domain: turkishbazaar.ca
 slug: turkishbazaar-ca
-title: Is turkishbazaar.ca Legit? Trust Signal Check
+title: Is turkishbazaar.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for turkishbazaar.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  turkishbazaar.ca scores 100/100 on our public trust checks. Established domain
+  — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:31.443Z'
 finalUrl: 'https://www.turkishbazaar.ca/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dssmasks.com
 slug: dssmasks-com
-title: Is dssmasks.com Legit? Trust Signal Check
+title: Is dssmasks.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for dssmasks.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dssmasks.com scores 70/100 on our public trust checks. Established domain —
+  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:23.063Z'
 finalUrl: 'https://dssmasks.com/'
 reachable: true

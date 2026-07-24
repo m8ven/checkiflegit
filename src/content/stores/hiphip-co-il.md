@@ -1,10 +1,10 @@
 ---
 domain: hiphip.co.il
 slug: hiphip-co-il
-title: Is hiphip.co.il Legit? Trust Signal Check
+title: Is hiphip.co.il Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for hiphip.co.il: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hiphip.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:30:01.289Z'
 finalUrl: 'https://hiphip.co.il/'
 reachable: true

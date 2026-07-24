@@ -1,10 +1,10 @@
 ---
 domain: rapidholdingsystems.com
 slug: rapidholdingsystems-com
-title: Is rapidholdingsystems.com Legit? Trust Signal Check
+title: Is rapidholdingsystems.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rapidholdingsystems.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rapidholdingsystems.com scores 88/100 on our public trust checks. Established
+  domain — registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:05:36.902Z'
 finalUrl: 'https://rapidholdingsystems.com/'
 reachable: true

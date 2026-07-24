@@ -1,10 +1,10 @@
 ---
 domain: jardins-sidiamor.com
 slug: jardins-sidiamor-com
-title: Is jardins-sidiamor.com Legit? Trust Signal Check
+title: Is jardins-sidiamor.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for jardins-sidiamor.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  jardins-sidiamor.com scores 70/100 on our public trust checks. Established
+  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:05.270Z'
 finalUrl: 'https://www.jardins-sidiamor.com/'
 reachable: true

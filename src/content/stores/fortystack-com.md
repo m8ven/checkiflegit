@@ -1,10 +1,11 @@
 ---
 domain: fortystack.com
 slug: fortystack-com
-title: Is fortystack.com Legit? Trust Signal Check
+title: Is fortystack.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for fortystack.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  fortystack.com scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T02:29:51.942Z'
 finalUrl: 'https://fortystack.com/'
 reachable: true

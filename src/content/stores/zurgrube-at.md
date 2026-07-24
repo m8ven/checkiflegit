@@ -1,10 +1,10 @@
 ---
 domain: zurgrube.at
 slug: zurgrube-at
-title: Is zurgrube.at Legit? Trust Signal Check
+title: Is zurgrube.at Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for zurgrube.at: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zurgrube.at scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:25:26.427Z'
 finalUrl: 'https://www.zurgrube.at/'
 reachable: true

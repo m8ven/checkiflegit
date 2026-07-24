@@ -1,10 +1,10 @@
 ---
 domain: bestleathercouches.com
 slug: bestleathercouches-com
-title: Is bestleathercouches.com Legit? Trust Signal Check
+title: Is bestleathercouches.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for bestleathercouches.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bestleathercouches.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:36:19.003Z'
 finalUrl: 'https://bestleathercouches.com/'
 reachable: true

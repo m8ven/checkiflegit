@@ -1,10 +1,10 @@
 ---
 domain: anruibio.com
 slug: anruibio-com
-title: Is anruibio.com Legit? Trust Signal Check
+title: Is anruibio.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for anruibio.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  anruibio.com scores 73/100 on our public trust checks. Established domain —
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:40.993Z'
 finalUrl: 'https://anruibio.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: restoranoved.ru
 slug: restoranoved-ru
-title: Is restoranoved.ru Legit? Trust Signal Check
+title: Is restoranoved.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for restoranoved.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  restoranoved.ru scores 73/100 on our public trust checks. Established domain —
+  registered 17.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:45.145Z'
 finalUrl: 'https://restoranoved.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nkwalitraining.com
 slug: nkwalitraining-com
-title: Is nkwalitraining.com Legit? Trust Signal Check
+title: Is nkwalitraining.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for nkwalitraining.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nkwalitraining.com scores 70/100 on our public trust checks. Established
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:58.403Z'
 finalUrl: 'https://nkwalitraining.com/'
 reachable: true

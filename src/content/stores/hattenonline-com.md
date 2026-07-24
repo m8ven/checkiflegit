@@ -1,10 +1,10 @@
 ---
 domain: hattenonline.com
 slug: hattenonline-com
-title: Is hattenonline.com Legit? Trust Signal Check
+title: Is hattenonline.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for hattenonline.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hattenonline.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T14:51:22.959Z'
 finalUrl: 'https://hattenonline.com/'
 reachable: true

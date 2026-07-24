@@ -1,10 +1,10 @@
 ---
 domain: bodycharger.com.tw
 slug: bodycharger-com-tw
-title: Is bodycharger.com.tw Legit? Trust Signal Check
+title: Is bodycharger.com.tw Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for bodycharger.com.tw: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bodycharger.com.tw scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:21:24.243Z'
 finalUrl: 'https://bodycharger.com.tw/'
 reachable: true

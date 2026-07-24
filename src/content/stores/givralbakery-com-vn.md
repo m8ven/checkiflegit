@@ -1,10 +1,10 @@
 ---
 domain: givralbakery.com.vn
 slug: givralbakery-com-vn
-title: Is givralbakery.com.vn Legit? Trust Signal Check
+title: Is givralbakery.com.vn Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for givralbakery.com.vn: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  givralbakery.com.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:13:48.657Z'
 finalUrl: 'https://givralbakery.com.vn/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: society6.com
 slug: society6-com
-title: Is society6.com Legit? Trust Signal Check
+title: Is society6.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for society6.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  society6.com scores 100/100 on our public trust checks. Established domain —
+  registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:50.158Z'
 finalUrl: 'https://society6.com/'
 reachable: true

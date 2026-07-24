@@ -1,10 +1,10 @@
 ---
 domain: kansascitymag.com
 slug: kansascitymag-com
-title: Is kansascitymag.com Legit? Trust Signal Check
+title: Is kansascitymag.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for kansascitymag.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kansascitymag.com scores 70/100 on our public trust checks. Established domain
+  — registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:04.087Z'
 finalUrl: 'https://kansascitymag.com/'
 reachable: true

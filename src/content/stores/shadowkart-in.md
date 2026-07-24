@@ -1,10 +1,10 @@
 ---
 domain: shadowkart.in
 slug: shadowkart-in
-title: Is shadowkart.in Legit? Trust Signal Check
+title: Is shadowkart.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shadowkart.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shadowkart.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:54:25.587Z'
 finalUrl: 'https://shadowkart.in/'
 reachable: true

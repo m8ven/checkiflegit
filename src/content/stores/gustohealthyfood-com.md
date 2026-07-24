@@ -1,10 +1,10 @@
 ---
 domain: gustohealthyfood.com
 slug: gustohealthyfood-com
-title: Is gustohealthyfood.com Legit? Trust Signal Check
+title: Is gustohealthyfood.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for gustohealthyfood.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  gustohealthyfood.com scores 94/100 on our public trust checks. Established
+  domain — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:55:10.824Z'
 finalUrl: 'https://gustohealthyfood.com/'
 reachable: true

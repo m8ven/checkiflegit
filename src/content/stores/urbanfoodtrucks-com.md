@@ -1,10 +1,10 @@
 ---
 domain: urbanfoodtrucks.com
 slug: urbanfoodtrucks-com
-title: Is urbanfoodtrucks.com Legit? Trust Signal Check
+title: Is urbanfoodtrucks.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for urbanfoodtrucks.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  urbanfoodtrucks.com scores 76/100 on our public trust checks. Established
+  domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:36.103Z'
 finalUrl: 'https://www.urbanfoodtrucks.com/'
 reachable: true

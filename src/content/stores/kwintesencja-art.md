@@ -1,10 +1,10 @@
 ---
 domain: kwintesencja.art
 slug: kwintesencja-art
-title: Is kwintesencja.art Legit? Trust Signal Check
+title: Is kwintesencja.art Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for kwintesencja.art: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kwintesencja.art scores 76/100 on our public trust checks. Established domain
+  — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:43:44.661Z'
 finalUrl: 'https://kwintesencja.art/pl/'
 reachable: true

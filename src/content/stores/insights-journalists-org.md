@@ -1,10 +1,10 @@
 ---
 domain: insights.journalists.org
 slug: insights-journalists-org
-title: Is insights.journalists.org Legit? Trust Signal Check
+title: Is insights.journalists.org Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for insights.journalists.org: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  insights.journalists.org scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:00:53.362Z'
 finalUrl: 'https://insights.journalists.org/'
 reachable: true

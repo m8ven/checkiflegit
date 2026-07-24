@@ -1,10 +1,10 @@
 ---
 domain: cleanandpaper.gr
 slug: cleanandpaper-gr
-title: Is cleanandpaper.gr Legit? Trust Signal Check
+title: Is cleanandpaper.gr Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for cleanandpaper.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cleanandpaper.gr scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:22:14.930Z'
 finalUrl: 'https://cleanandpaper.gr/'
 reachable: true

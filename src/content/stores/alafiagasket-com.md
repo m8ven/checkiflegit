@@ -1,10 +1,10 @@
 ---
 domain: alafiagasket.com
 slug: alafiagasket-com
-title: Is alafiagasket.com Legit? Trust Signal Check
+title: Is alafiagasket.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for alafiagasket.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alafiagasket.com scores 73/100 on our public trust checks. Established domain
+  — registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:17.235Z'
 finalUrl: 'https://alafiagasket.com/'
 reachable: true

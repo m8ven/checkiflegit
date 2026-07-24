@@ -1,10 +1,10 @@
 ---
 domain: shop.intriguecosmeticclinic.com
 slug: shop-intriguecosmeticclinic-com
-title: Is shop.intriguecosmeticclinic.com Legit? Trust Signal Check
+title: Is shop.intriguecosmeticclinic.com Legit? Score 100/100
 description: >-
-  An automated trust-signal check for shop.intriguecosmeticclinic.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  shop.intriguecosmeticclinic.com scores 100/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:56:24.129Z'
 finalUrl: 'https://shop.intriguecosmeticclinic.com/'
 reachable: true

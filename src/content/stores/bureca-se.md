@@ -1,10 +1,10 @@
 ---
 domain: bureca.se
 slug: bureca-se
-title: Is bureca.se Legit? Trust Signal Check
+title: Is bureca.se Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bureca.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bureca.se scores 88/100 on our public trust checks. Established domain —
+  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:27.917Z'
 finalUrl: 'https://bureca.se/'
 reachable: true

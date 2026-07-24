@@ -1,10 +1,10 @@
 ---
 domain: aquaristik-blinninger.de
 slug: aquaristik-blinninger-de
-title: Is aquaristik-blinninger.de Legit? Trust Signal Check
+title: Is aquaristik-blinninger.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for aquaristik-blinninger.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  aquaristik-blinninger.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:28.946Z'
 finalUrl: 'https://aquaristik-blinninger.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: amarantashop.com
 slug: amarantashop-com
-title: Is amarantashop.com Legit? Trust Signal Check
+title: Is amarantashop.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for amarantashop.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  amarantashop.com scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:53:43.544Z'
 finalUrl: 'https://amarantashop.com/'
 reachable: true

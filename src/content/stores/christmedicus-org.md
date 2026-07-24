@@ -1,10 +1,10 @@
 ---
 domain: christmedicus.org
 slug: christmedicus-org
-title: Is christmedicus.org Legit? Trust Signal Check
+title: Is christmedicus.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for christmedicus.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  christmedicus.org scores 88/100 on our public trust checks. Established domain
+  — registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:28:09.565Z'
 finalUrl: 'https://christmedicus.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: rockkids.it
 slug: rockkids-it
-title: Is rockkids.it Legit? Trust Signal Check
+title: Is rockkids.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rockkids.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rockkids.it scores 100/100 on our public trust checks. Established domain —
+  registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:25.210Z'
 finalUrl: 'https://rockkids.it/'
 reachable: true

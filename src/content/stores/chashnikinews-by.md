@@ -1,10 +1,10 @@
 ---
 domain: chashnikinews.by
 slug: chashnikinews-by
-title: Is chashnikinews.by Legit? Trust Signal Check
+title: Is chashnikinews.by Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for chashnikinews.by: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chashnikinews.by scores 88/100 on our public trust checks. Established domain
+  — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:54.213Z'
 finalUrl: 'https://www.chashnikinews.by/'
 reachable: true

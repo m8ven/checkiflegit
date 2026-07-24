@@ -1,10 +1,10 @@
 ---
 domain: delyse.com
 slug: delyse-com
-title: Is delyse.com Legit? Trust Signal Check
+title: Is delyse.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for delyse.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  delyse.com scores 70/100 on our public trust checks. Established domain —
+  registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:30.123Z'
 finalUrl: 'https://delyse.com/'
 reachable: true

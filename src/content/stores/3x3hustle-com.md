@@ -1,10 +1,10 @@
 ---
 domain: 3x3hustle.com
 slug: 3x3hustle-com
-title: Is 3x3hustle.com Legit? Trust Signal Check
+title: Is 3x3hustle.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for 3x3hustle.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  3x3hustle.com scores 100/100 on our public trust checks. Established domain —
+  registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:22:40.126Z'
 finalUrl: 'https://3x3hustle.com/'
 reachable: true

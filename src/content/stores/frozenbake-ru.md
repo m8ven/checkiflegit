@@ -1,10 +1,10 @@
 ---
 domain: frozenbake.ru
 slug: frozenbake-ru
-title: Is frozenbake.ru Legit? Trust Signal Check
+title: Is frozenbake.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for frozenbake.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  frozenbake.ru scores 73/100 on our public trust checks. Established domain —
+  registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:27.472Z'
 finalUrl: 'https://frozenbake.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: italianhome.de
 slug: italianhome-de
-title: Is italianhome.de Legit? Trust Signal Check
+title: Is italianhome.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for italianhome.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  italianhome.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:50:16.136Z'
 finalUrl: 'https://italianhome.de/'
 reachable: true

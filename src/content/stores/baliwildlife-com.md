@@ -1,10 +1,10 @@
 ---
 domain: baliwildlife.com
 slug: baliwildlife-com
-title: Is baliwildlife.com Legit? Trust Signal Check
+title: Is baliwildlife.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for baliwildlife.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  baliwildlife.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:20:21.780Z'
 finalUrl: 'https://baliwildlife.com/'
 reachable: true

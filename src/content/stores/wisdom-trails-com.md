@@ -1,10 +1,10 @@
 ---
 domain: wisdom-trails.com
 slug: wisdom-trails-com
-title: Is wisdom-trails.com Legit? Trust Signal Check
+title: Is wisdom-trails.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for wisdom-trails.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wisdom-trails.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage. Domain is relatively young.
 fetchedAt: '2026-06-25T02:50:52.010Z'
 finalUrl: 'https://wisdom-trails.com/'
 reachable: true

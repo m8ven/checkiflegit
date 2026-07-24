@@ -1,10 +1,10 @@
 ---
 domain: anandecor.vn
 slug: anandecor-vn
-title: Is anandecor.vn Legit? Trust Signal Check
+title: Is anandecor.vn Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for anandecor.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  anandecor.vn scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:43:26.473Z'
 finalUrl: 'https://anandecor.vn/'
 reachable: true

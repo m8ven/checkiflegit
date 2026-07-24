@@ -1,10 +1,10 @@
 ---
 domain: multiplo.com.ar
 slug: multiplo-com-ar
-title: Is multiplo.com.ar Legit? Trust Signal Check
+title: Is multiplo.com.ar Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for multiplo.com.ar: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  multiplo.com.ar scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:57:07.874Z'
 finalUrl: 'https://multiplo.com.ar/'
 reachable: true

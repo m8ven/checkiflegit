@@ -1,10 +1,10 @@
 ---
 domain: karibinfo.com
 slug: karibinfo-com
-title: Is karibinfo.com Legit? Trust Signal Check
+title: Is karibinfo.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for karibinfo.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  karibinfo.com scores 76/100 on our public trust checks. Established domain —
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:53.696Z'
 finalUrl: 'https://www.karibinfo.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: vintage-ignition.com
 slug: vintage-ignition-com
-title: Is vintage-ignition.com Legit? Trust Signal Check
+title: Is vintage-ignition.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for vintage-ignition.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  vintage-ignition.com scores 55/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T02:55:40.715Z'
 finalUrl: 'https://vintage-ignition.com/'
 reachable: true

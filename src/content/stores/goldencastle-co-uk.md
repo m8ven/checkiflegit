@@ -1,10 +1,10 @@
 ---
 domain: goldencastle.co.uk
 slug: goldencastle-co-uk
-title: Is goldencastle.co.uk Legit? Trust Signal Check
+title: Is goldencastle.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for goldencastle.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  goldencastle.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:21.570Z'
 finalUrl: 'https://www.goldencastle.co.uk/'
 reachable: true

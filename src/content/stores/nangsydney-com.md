@@ -1,10 +1,10 @@
 ---
 domain: nangsydney.com
 slug: nangsydney-com
-title: Is nangsydney.com Legit? Trust Signal Check
+title: Is nangsydney.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nangsydney.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nangsydney.com scores 100/100 on our public trust checks. Established domain —
+  registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:21.241Z'
 finalUrl: 'https://nangsydney.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: turbocevi.si
 slug: turbocevi-si
-title: Is turbocevi.si Legit? Trust Signal Check
+title: Is turbocevi.si Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for turbocevi.si: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  turbocevi.si scores 73/100 on our public trust checks. Established domain —
+  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:43.082Z'
 finalUrl: 'https://turbocevi.si/'
 reachable: true

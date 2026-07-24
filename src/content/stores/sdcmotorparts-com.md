@@ -1,10 +1,10 @@
 ---
 domain: sdcmotorparts.com
 slug: sdcmotorparts-com
-title: Is sdcmotorparts.com Legit? Trust Signal Check
+title: Is sdcmotorparts.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for sdcmotorparts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sdcmotorparts.com scores 82/100 on our public trust checks. Established domain
+  — registered 22.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:19.325Z'
 finalUrl: 'https://sdcmotorparts.com/'
 reachable: true

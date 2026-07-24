@@ -1,10 +1,10 @@
 ---
 domain: sportavellino.it
 slug: sportavellino-it
-title: Is sportavellino.it Legit? Trust Signal Check
+title: Is sportavellino.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sportavellino.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sportavellino.it scores 88/100 on our public trust checks. Established domain
+  — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:22:16.213Z'
 finalUrl: 'https://www.sportavellino.it/'
 reachable: true

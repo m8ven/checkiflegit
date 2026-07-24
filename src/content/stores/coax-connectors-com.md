@@ -1,10 +1,10 @@
 ---
 domain: coax-connectors.com
 slug: coax-connectors-com
-title: Is coax-connectors.com Legit? Trust Signal Check
+title: Is coax-connectors.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for coax-connectors.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  coax-connectors.com scores 100/100 on our public trust checks. Established
+  domain — registered 26.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:15.924Z'
 finalUrl: 'https://coax-connectors.com/'
 reachable: true

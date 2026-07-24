@@ -1,10 +1,10 @@
 ---
 domain: fincascostamaresme.com
 slug: fincascostamaresme-com
-title: Is fincascostamaresme.com Legit? Trust Signal Check
+title: Is fincascostamaresme.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for fincascostamaresme.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fincascostamaresme.com scores 76/100 on our public trust checks. Established
+  domain — registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:22:20.068Z'
 finalUrl: 'https://www.fincascostamaresme.com/'
 reachable: true

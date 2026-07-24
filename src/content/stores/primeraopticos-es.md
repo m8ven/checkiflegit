@@ -1,10 +1,10 @@
 ---
 domain: primeraopticos.es
 slug: primeraopticos-es
-title: Is primeraopticos.es Legit? Trust Signal Check
+title: Is primeraopticos.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for primeraopticos.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  primeraopticos.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:31:06.739Z'
 finalUrl: 'https://primeraopticos.es/'
 reachable: true

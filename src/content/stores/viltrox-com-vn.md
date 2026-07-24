@@ -1,10 +1,10 @@
 ---
 domain: viltrox.com.vn
 slug: viltrox-com-vn
-title: Is viltrox.com.vn Legit? Trust Signal Check
+title: Is viltrox.com.vn Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for viltrox.com.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  viltrox.com.vn scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:18:32.143Z'
 finalUrl: 'https://viltrox.com.vn/'
 reachable: true

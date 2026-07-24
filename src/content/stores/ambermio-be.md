@@ -1,10 +1,10 @@
 ---
 domain: ambermio.be
 slug: ambermio-be
-title: Is ambermio.be Legit? Trust Signal Check
+title: Is ambermio.be Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ambermio.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ambermio.be scores 76/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:58.538Z'
 finalUrl: 'https://ambermio.be/'
 reachable: true

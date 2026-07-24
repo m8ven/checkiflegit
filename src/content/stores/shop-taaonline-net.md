@@ -1,10 +1,10 @@
 ---
 domain: shop.taaonline.net
 slug: shop-taaonline-net
-title: Is shop.taaonline.net Legit? Trust Signal Check
+title: Is shop.taaonline.net Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for shop.taaonline.net: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  shop.taaonline.net scores 19/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:01:12.912Z'
 finalUrl: 'https://shop.taaonline.net/'
 reachable: true

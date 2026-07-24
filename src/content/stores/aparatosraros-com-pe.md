@@ -1,10 +1,10 @@
 ---
 domain: aparatosraros.com.pe
 slug: aparatosraros-com-pe
-title: Is aparatosraros.com.pe Legit? Trust Signal Check
+title: Is aparatosraros.com.pe Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for aparatosraros.com.pe: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  aparatosraros.com.pe scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:47.891Z'
 finalUrl: 'https://aparatosraros.com.pe/'
 reachable: true

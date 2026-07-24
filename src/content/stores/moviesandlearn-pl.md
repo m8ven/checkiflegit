@@ -1,10 +1,10 @@
 ---
 domain: moviesandlearn.pl
 slug: moviesandlearn-pl
-title: Is moviesandlearn.pl Legit? Trust Signal Check
+title: Is moviesandlearn.pl Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for moviesandlearn.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  moviesandlearn.pl scores 31/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:56:15.707Z'
 finalUrl: 'https://moviesandlearn.pl/'
 reachable: true

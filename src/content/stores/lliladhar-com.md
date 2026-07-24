@@ -1,10 +1,10 @@
 ---
 domain: lliladhar.com
 slug: lliladhar-com
-title: Is lliladhar.com Legit? Trust Signal Check
+title: Is lliladhar.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for lliladhar.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lliladhar.com scores 73/100 on our public trust checks. Established domain —
+  registered 22.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:47.134Z'
 finalUrl: 'https://lliladhar.com/'
 reachable: true

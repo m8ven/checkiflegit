@@ -1,10 +1,10 @@
 ---
 domain: fandc.co.za
 slug: fandc-co-za
-title: Is fandc.co.za Legit? Trust Signal Check
+title: Is fandc.co.za Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fandc.co.za: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fandc.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:30:29.316Z'
 finalUrl: 'https://www.fandc.co.za/'
 reachable: true

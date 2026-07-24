@@ -1,10 +1,10 @@
 ---
 domain: plan-ideal.fr
 slug: plan-ideal-fr
-title: Is plan-ideal.fr Legit? Trust Signal Check
+title: Is plan-ideal.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for plan-ideal.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  plan-ideal.fr scores 88/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:19.595Z'
 finalUrl: 'https://plan-ideal.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lampen24.de
 slug: lampen24-de
-title: Is lampen24.de Legit? Trust Signal Check
+title: Is lampen24.de Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for lampen24.de: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  lampen24.de scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:22:48.565Z'
 finalUrl: 'https://www.lampen24.de/'
 reachable: true

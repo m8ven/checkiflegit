@@ -1,10 +1,10 @@
 ---
 domain: usfloorcare.com
 slug: usfloorcare-com
-title: Is usfloorcare.com Legit? Trust Signal Check
+title: Is usfloorcare.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for usfloorcare.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  usfloorcare.com scores 94/100 on our public trust checks. Established domain —
+  registered 20.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:57.882Z'
 finalUrl: 'https://usfloorcare.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: citycashandcarry.pk
 slug: citycashandcarry-pk
-title: Is citycashandcarry.pk Legit? Trust Signal Check
+title: Is citycashandcarry.pk Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for citycashandcarry.pk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  citycashandcarry.pk scores 70/100 on our public trust checks. Established
+  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:06.411Z'
 finalUrl: 'https://citycashandcarry.pk/'
 reachable: true

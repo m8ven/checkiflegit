@@ -1,10 +1,10 @@
 ---
 domain: kinauramed.com
 slug: kinauramed-com
-title: Is kinauramed.com Legit? Trust Signal Check
+title: Is kinauramed.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kinauramed.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kinauramed.com scores 88/100 on our public trust checks. Established domain —
+  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:25.813Z'
 finalUrl: 'https://kinauramed.com/'
 reachable: true

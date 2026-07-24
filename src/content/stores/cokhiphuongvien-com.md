@@ -1,10 +1,10 @@
 ---
 domain: cokhiphuongvien.com
 slug: cokhiphuongvien-com
-title: Is cokhiphuongvien.com Legit? Trust Signal Check
+title: Is cokhiphuongvien.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for cokhiphuongvien.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cokhiphuongvien.com scores 70/100 on our public trust checks. Established
+  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:47.981Z'
 finalUrl: 'https://cokhiphuongvien.com/'
 reachable: true

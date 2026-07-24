@@ -1,10 +1,10 @@
 ---
 domain: ak-pferd.de
 slug: ak-pferd-de
-title: Is ak-pferd.de Legit? Trust Signal Check
+title: Is ak-pferd.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ak-pferd.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ak-pferd.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:11:41.106Z'
 finalUrl: 'https://www.ak-pferd.de/'
 reachable: true

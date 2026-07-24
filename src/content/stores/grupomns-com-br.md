@@ -1,10 +1,11 @@
 ---
 domain: grupomns.com.br
 slug: grupomns-com-br
-title: Is grupomns.com.br Legit? Trust Signal Check
+title: Is grupomns.com.br Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for grupomns.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  grupomns.com.br scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T15:14:21.449Z'
 finalUrl: 'https://grupomns.com.br/'
 reachable: true

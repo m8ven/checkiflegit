@@ -1,10 +1,10 @@
 ---
 domain: decoratietakken.nl
 slug: decoratietakken-nl
-title: Is decoratietakken.nl Legit? Trust Signal Check
+title: Is decoratietakken.nl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for decoratietakken.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  decoratietakken.nl scores 100/100 on our public trust checks. Established
+  domain — registered 21.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:18.760Z'
 finalUrl: 'https://www.decoratietakken.nl/'
 reachable: true

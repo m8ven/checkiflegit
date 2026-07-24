@@ -1,10 +1,10 @@
 ---
 domain: daimtraders.pk
 slug: daimtraders-pk
-title: Is daimtraders.pk Legit? Trust Signal Check
+title: Is daimtraders.pk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for daimtraders.pk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  daimtraders.pk scores 88/100 on our public trust checks. Established domain —
+  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:03.116Z'
 finalUrl: 'https://daimtraders.pk/'
 reachable: true

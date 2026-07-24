@@ -1,11 +1,10 @@
 ---
 domain: 100x100italiatipicita.it
 slug: 100x100italiatipicita-it
-title: Is 100x100italiatipicita.it Legit? Trust Signal Check
+title: Is 100x100italiatipicita.it Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for 100x100italiatipicita.it: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  100x100italiatipicita.it scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:10:55.468Z'
 finalUrl: 'https://www.100x100italiatipicita.it/'
 reachable: true

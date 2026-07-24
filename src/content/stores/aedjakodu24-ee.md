@@ -1,10 +1,10 @@
 ---
 domain: aedjakodu24.ee
 slug: aedjakodu24-ee
-title: Is aedjakodu24.ee Legit? Trust Signal Check
+title: Is aedjakodu24.ee Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for aedjakodu24.ee: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aedjakodu24.ee scores 82/100 on our public trust checks. Established domain —
+  registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:17:18.339Z'
 finalUrl: 'https://aedjakodu24.ee/'
 reachable: true

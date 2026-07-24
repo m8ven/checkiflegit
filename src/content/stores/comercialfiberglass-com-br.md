@@ -1,10 +1,10 @@
 ---
 domain: comercialfiberglass.com.br
 slug: comercialfiberglass-com-br
-title: Is comercialfiberglass.com.br Legit? Trust Signal Check
+title: Is comercialfiberglass.com.br Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for comercialfiberglass.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  comercialfiberglass.com.br scores 57/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:37:20.625Z'
 finalUrl: 'https://www.comercialfiberglass.com.br/'
 reachable: true

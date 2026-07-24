@@ -1,10 +1,10 @@
 ---
 domain: place-des-pains.fr
 slug: place-des-pains-fr
-title: Is place-des-pains.fr Legit? Trust Signal Check
+title: Is place-des-pains.fr Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for place-des-pains.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  place-des-pains.fr scores 70/100 on our public trust checks. Established
+  domain — registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:37.947Z'
 finalUrl: 'https://place-des-pains.fr/'
 reachable: true

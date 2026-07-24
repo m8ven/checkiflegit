@@ -1,10 +1,10 @@
 ---
 domain: dnh.su
 slug: dnh-su
-title: Is dnh.su Legit? Trust Signal Check
+title: Is dnh.su Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dnh.su: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  dnh.su scores 73/100 on our public trust checks. Established domain —
+  registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:49.146Z'
 finalUrl: 'https://dnh.su/'
 reachable: true

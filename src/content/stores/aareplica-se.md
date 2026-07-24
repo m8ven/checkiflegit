@@ -1,10 +1,10 @@
 ---
 domain: aareplica.se
 slug: aareplica-se
-title: Is aareplica.se Legit? Trust Signal Check
+title: Is aareplica.se Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for aareplica.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aareplica.se scores 73/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:07.944Z'
 finalUrl: 'https://aareplica.se/'
 reachable: true

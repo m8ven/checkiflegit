@@ -1,10 +1,10 @@
 ---
 domain: spaceinafrica.com
 slug: spaceinafrica-com
-title: Is spaceinafrica.com Legit? Trust Signal Check
+title: Is spaceinafrica.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for spaceinafrica.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  spaceinafrica.com scores 100/100 on our public trust checks. Established
+  domain — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:02:45.405Z'
 finalUrl: 'https://spaceinafrica.com/'
 reachable: true

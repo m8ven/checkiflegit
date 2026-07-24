@@ -1,10 +1,11 @@
 ---
 domain: videoset.co.il
 slug: videoset-co-il
-title: Is videoset.co.il Legit? Trust Signal Check
+title: Is videoset.co.il Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for videoset.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  videoset.co.il scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:55:34.356Z'
 finalUrl: 'https://videoset.co.il/'
 reachable: true

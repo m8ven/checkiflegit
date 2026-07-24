@@ -1,10 +1,10 @@
 ---
 domain: cannabisbenchmarks.com
 slug: cannabisbenchmarks-com
-title: Is cannabisbenchmarks.com Legit? Trust Signal Check
+title: Is cannabisbenchmarks.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for cannabisbenchmarks.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cannabisbenchmarks.com scores 70/100 on our public trust checks. Established
+  domain — registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:08.875Z'
 finalUrl: 'https://www.cannabisbenchmarks.com/'
 reachable: true

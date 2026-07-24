@@ -1,10 +1,10 @@
 ---
 domain: teltrilogy.com
 slug: teltrilogy-com
-title: Is teltrilogy.com Legit? Trust Signal Check
+title: Is teltrilogy.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for teltrilogy.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  teltrilogy.com scores 100/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:18.235Z'
 finalUrl: 'https://www.teltrilogy.com/'
 reachable: true

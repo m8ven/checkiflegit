@@ -1,10 +1,10 @@
 ---
 domain: nilicar.com
 slug: nilicar-com
-title: Is nilicar.com Legit? Trust Signal Check
+title: Is nilicar.com Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nilicar.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nilicar.com scores 94/100 on our public trust checks. Established domain —
+  registered 19.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:38.353Z'
 finalUrl: 'https://nilicar.com/'
 reachable: true

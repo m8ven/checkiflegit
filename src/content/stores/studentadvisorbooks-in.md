@@ -1,10 +1,10 @@
 ---
 domain: studentadvisorbooks.in
 slug: studentadvisorbooks-in
-title: Is studentadvisorbooks.in Legit? Trust Signal Check
+title: Is studentadvisorbooks.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for studentadvisorbooks.in: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  studentadvisorbooks.in scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:01.648Z'
 finalUrl: 'https://studentadvisorbooks.in/'
 reachable: true

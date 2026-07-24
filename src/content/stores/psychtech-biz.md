@@ -1,10 +1,10 @@
 ---
 domain: psychtech.biz
 slug: psychtech-biz
-title: Is psychtech.biz Legit? Trust Signal Check
+title: Is psychtech.biz Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for psychtech.biz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  psychtech.biz scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:03:24.038Z'
 finalUrl: 'https://psychtech.biz/'
 reachable: true

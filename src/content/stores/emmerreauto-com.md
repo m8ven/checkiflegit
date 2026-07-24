@@ -1,10 +1,10 @@
 ---
 domain: emmerreauto.com
 slug: emmerreauto-com
-title: Is emmerreauto.com Legit? Trust Signal Check
+title: Is emmerreauto.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for emmerreauto.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  emmerreauto.com scores 88/100 on our public trust checks. Established domain —
+  registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:17.509Z'
 finalUrl: 'https://emmerreauto.com/'
 reachable: true

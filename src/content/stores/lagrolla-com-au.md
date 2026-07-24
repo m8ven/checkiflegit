@@ -1,10 +1,10 @@
 ---
 domain: lagrolla.com.au
 slug: lagrolla-com-au
-title: Is lagrolla.com.au Legit? Trust Signal Check
+title: Is lagrolla.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for lagrolla.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lagrolla.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:23:21.979Z'
 finalUrl: 'https://www.lagrolla.com.au/'
 reachable: true

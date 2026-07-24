@@ -1,10 +1,10 @@
 ---
 domain: happy-baby.dk
 slug: happy-baby-dk
-title: Is happy-baby.dk Legit? Trust Signal Check
+title: Is happy-baby.dk Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for happy-baby.dk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  happy-baby.dk scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:20:16.077Z'
 finalUrl: 'https://www.happy-baby.dk/'
 reachable: true

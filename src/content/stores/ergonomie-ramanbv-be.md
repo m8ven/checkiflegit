@@ -1,10 +1,10 @@
 ---
 domain: ergonomie.ramanbv.be
 slug: ergonomie-ramanbv-be
-title: Is ergonomie.ramanbv.be Legit? Trust Signal Check
+title: Is ergonomie.ramanbv.be Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for ergonomie.ramanbv.be: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ergonomie.ramanbv.be scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:32:40.999Z'
 finalUrl: 'https://ergonomie.ramanbv.be/'
 reachable: true

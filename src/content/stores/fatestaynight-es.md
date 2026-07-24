@@ -1,10 +1,10 @@
 ---
 domain: fatestaynight.es
 slug: fatestaynight-es
-title: Is fatestaynight.es Legit? Trust Signal Check
+title: Is fatestaynight.es Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for fatestaynight.es: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fatestaynight.es scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:11:47.615Z'
 finalUrl: 'https://fatestaynight.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: revue-contacts.com
 slug: revue-contacts-com
-title: Is revue-contacts.com Legit? Trust Signal Check
+title: Is revue-contacts.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for revue-contacts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  revue-contacts.com scores 73/100 on our public trust checks. Established
+  domain — registered 20.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:24.674Z'
 finalUrl: 'https://revue-contacts.com/'
 reachable: true

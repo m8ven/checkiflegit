@@ -1,10 +1,10 @@
 ---
 domain: maggiemake.com.tw
 slug: maggiemake-com-tw
-title: Is maggiemake.com.tw Legit? Trust Signal Check
+title: Is maggiemake.com.tw Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for maggiemake.com.tw: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  maggiemake.com.tw scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:51:26.935Z'
 finalUrl: 'https://maggiemake.com.tw/'
 reachable: true

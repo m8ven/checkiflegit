@@ -1,10 +1,10 @@
 ---
 domain: bettenstudio-arentz.de
 slug: bettenstudio-arentz-de
-title: Is bettenstudio-arentz.de Legit? Trust Signal Check
+title: Is bettenstudio-arentz.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for bettenstudio-arentz.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bettenstudio-arentz.de scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:41.561Z'
 finalUrl: 'https://www.bettenstudio-arentz.de/'
 reachable: true

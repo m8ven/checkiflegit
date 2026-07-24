@@ -1,10 +1,10 @@
 ---
 domain: diannaraejewelry.com
 slug: diannaraejewelry-com
-title: Is diannaraejewelry.com Legit? Trust Signal Check
+title: Is diannaraejewelry.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for diannaraejewelry.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  diannaraejewelry.com scores 100/100 on our public trust checks. Established
+  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:05.962Z'
 finalUrl: 'https://diannaraejewelry.com/'
 reachable: true

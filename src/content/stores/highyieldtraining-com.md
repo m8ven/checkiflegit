@@ -1,10 +1,10 @@
 ---
 domain: highyieldtraining.com
 slug: highyieldtraining-com
-title: Is highyieldtraining.com Legit? Trust Signal Check
+title: Is highyieldtraining.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for highyieldtraining.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  highyieldtraining.com scores 76/100 on our public trust checks. Established
+  domain — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:24.600Z'
 finalUrl: 'https://highyieldtraining.com/'
 reachable: true

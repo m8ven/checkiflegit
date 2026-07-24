@@ -1,10 +1,10 @@
 ---
 domain: suportetcc.com.br
 slug: suportetcc-com-br
-title: Is suportetcc.com.br Legit? Trust Signal Check
+title: Is suportetcc.com.br Legit? Trust Score 0/100
 description: >-
-  An automated trust-signal check for suportetcc.com.br: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  suportetcc.com.br scores 0/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T15:15:01.664Z'
 finalUrl: 'https://suportetcc.com.br/'
 reachable: true

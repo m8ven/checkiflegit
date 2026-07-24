@@ -1,10 +1,10 @@
 ---
 domain: wildcat.fi
 slug: wildcat-fi
-title: Is wildcat.fi Legit? Trust Signal Check
+title: Is wildcat.fi Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for wildcat.fi: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  wildcat.fi scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:56:08.665Z'
 finalUrl: 'https://wildcat.fi/'
 reachable: true

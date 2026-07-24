@@ -1,11 +1,11 @@
 ---
 domain: australiamart.com.vn
 slug: australiamart-com-vn
-title: Is australiamart.com.vn Legit? Trust Signal Check
+title: Is australiamart.com.vn Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for australiamart.com.vn: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  australiamart.com.vn scores 36/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T03:35:15.922Z'
 finalUrl: 'https://australiamart.com.vn/'
 reachable: true

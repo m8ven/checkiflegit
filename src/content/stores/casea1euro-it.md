@@ -1,10 +1,10 @@
 ---
 domain: casea1euro.it
 slug: casea1euro-it
-title: Is casea1euro.it Legit? Trust Signal Check
+title: Is casea1euro.it Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for casea1euro.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  casea1euro.it scores 82/100 on our public trust checks. Established domain —
+  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:19.042Z'
 finalUrl: 'https://casea1euro.it/'
 reachable: true

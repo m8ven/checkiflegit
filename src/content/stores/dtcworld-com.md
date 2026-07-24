@@ -1,10 +1,10 @@
 ---
 domain: dtcworld.com
 slug: dtcworld-com
-title: Is dtcworld.com Legit? Trust Signal Check
+title: Is dtcworld.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dtcworld.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dtcworld.com scores 88/100 on our public trust checks. Established domain —
+  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:12.672Z'
 finalUrl: 'https://dtcworld.com/'
 reachable: true

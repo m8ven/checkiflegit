@@ -1,10 +1,10 @@
 ---
 domain: musicstateofmind.com
 slug: musicstateofmind-com
-title: Is musicstateofmind.com Legit? Trust Signal Check
+title: Is musicstateofmind.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for musicstateofmind.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  musicstateofmind.com scores 70/100 on our public trust checks. Established
+  domain — registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:45.280Z'
 finalUrl: 'https://musicstateofmind.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: hicasino.net
 slug: hicasino-net
-title: Is hicasino.net Legit? Trust Signal Check
+title: Is hicasino.net Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for hicasino.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hicasino.net scores 85/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:50.213Z'
 finalUrl: 'https://hicasino.net/'
 reachable: true

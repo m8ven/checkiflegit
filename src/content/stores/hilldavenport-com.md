@@ -1,10 +1,10 @@
 ---
 domain: hilldavenport.com
 slug: hilldavenport-com
-title: Is hilldavenport.com Legit? Trust Signal Check
+title: Is hilldavenport.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for hilldavenport.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hilldavenport.com scores 88/100 on our public trust checks. Established domain
+  — registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:59.967Z'
 finalUrl: 'https://hilldavenport.com/'
 reachable: true

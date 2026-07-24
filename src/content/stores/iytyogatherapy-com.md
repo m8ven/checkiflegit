@@ -1,10 +1,10 @@
 ---
 domain: iytyogatherapy.com
 slug: iytyogatherapy-com
-title: Is iytyogatherapy.com Legit? Trust Signal Check
+title: Is iytyogatherapy.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for iytyogatherapy.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  iytyogatherapy.com scores 88/100 on our public trust checks. Established
+  domain — registered 27.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:18.764Z'
 finalUrl: 'https://iytyogatherapy.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: master-rent.de
 slug: master-rent-de
-title: Is master-rent.de Legit? Trust Signal Check
+title: Is master-rent.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for master-rent.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  master-rent.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:22:24.806Z'
 finalUrl: 'https://www.master-rent.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: unikalnite.com
 slug: unikalnite-com
-title: Is unikalnite.com Legit? Trust Signal Check
+title: Is unikalnite.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for unikalnite.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  unikalnite.com scores 88/100 on our public trust checks. Established domain —
+  registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:13.565Z'
 finalUrl: 'https://unikalnite.com/'
 reachable: true

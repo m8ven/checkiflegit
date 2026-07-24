@@ -1,10 +1,10 @@
 ---
 domain: madelka63.ru
 slug: madelka63-ru
-title: Is madelka63.ru Legit? Trust Signal Check
+title: Is madelka63.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for madelka63.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  madelka63.ru scores 73/100 on our public trust checks. Established domain —
+  registered 15 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:12.576Z'
 finalUrl: 'https://madelka63.ru/'
 reachable: true

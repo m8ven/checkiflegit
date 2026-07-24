@@ -1,10 +1,10 @@
 ---
 domain: proathlete.in
 slug: proathlete-in
-title: Is proathlete.in Legit? Trust Signal Check
+title: Is proathlete.in Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for proathlete.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  proathlete.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:41:37.031Z'
 finalUrl: 'https://proathlete.in/'
 reachable: true

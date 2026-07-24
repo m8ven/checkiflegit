@@ -1,10 +1,10 @@
 ---
 domain: beans-hobby.com
 slug: beans-hobby-com
-title: Is beans-hobby.com Legit? Trust Signal Check
+title: Is beans-hobby.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for beans-hobby.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beans-hobby.com scores 70/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:03.006Z'
 finalUrl: 'https://beans-hobby.com/'
 reachable: true

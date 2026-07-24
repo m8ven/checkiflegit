@@ -1,10 +1,10 @@
 ---
 domain: janasvak.org.tr
 slug: janasvak-org-tr
-title: Is janasvak.org.tr Legit? Trust Signal Check
+title: Is janasvak.org.tr Legit? Trust Score 14/100
 description: >-
-  An automated trust-signal check for janasvak.org.tr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  janasvak.org.tr scores 14/100 on our public trust checks. Standard contact and
+  policy pages were not found.
 fetchedAt: '2026-06-25T15:03:19.333Z'
 finalUrl: 'https://janasvak.org.tr/'
 reachable: true

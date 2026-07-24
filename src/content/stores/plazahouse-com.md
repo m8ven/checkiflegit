@@ -1,10 +1,10 @@
 ---
 domain: plazahouse.com
 slug: plazahouse-com
-title: Is plazahouse.com Legit? Trust Signal Check
+title: Is plazahouse.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for plazahouse.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  plazahouse.com scores 94/100 on our public trust checks. Established domain —
+  registered 28.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:42.182Z'
 finalUrl: 'https://plazahouse.com/'
 reachable: true

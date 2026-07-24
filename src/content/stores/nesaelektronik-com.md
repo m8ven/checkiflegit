@@ -1,10 +1,10 @@
 ---
 domain: nesaelektronik.com
 slug: nesaelektronik-com
-title: Is nesaelektronik.com Legit? Trust Signal Check
+title: Is nesaelektronik.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for nesaelektronik.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nesaelektronik.com scores 88/100 on our public trust checks. Established
+  domain — registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:45.150Z'
 finalUrl: 'https://nesaelektronik.com/'
 reachable: true

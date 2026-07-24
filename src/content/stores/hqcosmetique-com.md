@@ -1,10 +1,10 @@
 ---
 domain: hqcosmetique.com
 slug: hqcosmetique-com
-title: Is hqcosmetique.com Legit? Trust Signal Check
+title: Is hqcosmetique.com Legit? Trust Score 46/100
 description: >-
-  An automated trust-signal check for hqcosmetique.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hqcosmetique.com scores 46/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T02:16:19.808Z'
 finalUrl: 'http://hqcosmetique.com/'
 reachable: true

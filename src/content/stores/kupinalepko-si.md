@@ -1,10 +1,10 @@
 ---
 domain: kupinalepko.si
 slug: kupinalepko-si
-title: Is kupinalepko.si Legit? Trust Signal Check
+title: Is kupinalepko.si Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for kupinalepko.si: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kupinalepko.si scores 76/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:52.146Z'
 finalUrl: 'https://kupinalepko.si/'
 reachable: true

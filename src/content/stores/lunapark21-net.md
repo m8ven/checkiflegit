@@ -1,10 +1,10 @@
 ---
 domain: lunapark21.net
 slug: lunapark21-net
-title: Is lunapark21.net Legit? Trust Signal Check
+title: Is lunapark21.net Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for lunapark21.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lunapark21.net scores 94/100 on our public trust checks. Established domain —
+  registered 18.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:06.317Z'
 finalUrl: 'https://www.lunapark21.net/'
 reachable: true

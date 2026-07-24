@@ -1,10 +1,10 @@
 ---
 domain: tntmakeupacademy.com
 slug: tntmakeupacademy-com
-title: Is tntmakeupacademy.com Legit? Trust Signal Check
+title: Is tntmakeupacademy.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for tntmakeupacademy.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tntmakeupacademy.com scores 100/100 on our public trust checks. Established
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:11:43.772Z'
 finalUrl: 'https://tntmakeupacademy.com/'
 reachable: true

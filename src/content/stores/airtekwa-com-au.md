@@ -1,10 +1,10 @@
 ---
 domain: airtekwa.com.au
 slug: airtekwa-com-au
-title: Is airtekwa.com.au Legit? Trust Signal Check
+title: Is airtekwa.com.au Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for airtekwa.com.au: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  airtekwa.com.au scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:11:38.469Z'
 finalUrl: 'https://www.airtekwa.com.au/'
 reachable: true

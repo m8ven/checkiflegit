@@ -1,10 +1,10 @@
 ---
 domain: mountainmercantile.shop
 slug: mountainmercantile-shop
-title: Is mountainmercantile.shop Legit? Trust Signal Check
+title: Is mountainmercantile.shop Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mountainmercantile.shop: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mountainmercantile.shop scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:43.802Z'
 finalUrl: 'https://mountainmercantile.shop/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sciowl.us
 slug: sciowl-us
-title: Is sciowl.us Legit? Trust Signal Check
+title: Is sciowl.us Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for sciowl.us: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  sciowl.us scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:00:19.115Z'
 finalUrl: 'https://sciowl.us/'
 reachable: true

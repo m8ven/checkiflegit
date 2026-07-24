@@ -1,10 +1,10 @@
 ---
 domain: szynaka.pl
 slug: szynaka-pl
-title: Is szynaka.pl Legit? Trust Signal Check
+title: Is szynaka.pl Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for szynaka.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  szynaka.pl scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:46:55.276Z'
 finalUrl: 'https://szynaka.pl/'
 reachable: true

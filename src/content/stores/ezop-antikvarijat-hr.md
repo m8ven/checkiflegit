@@ -1,10 +1,10 @@
 ---
 domain: ezop-antikvarijat.hr
 slug: ezop-antikvarijat-hr
-title: Is ezop-antikvarijat.hr Legit? Trust Signal Check
+title: Is ezop-antikvarijat.hr Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ezop-antikvarijat.hr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ezop-antikvarijat.hr scores 76/100 on our public trust checks. Established
+  domain — registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:04.865Z'
 finalUrl: 'https://ezop-antikvarijat.hr/'
 reachable: true

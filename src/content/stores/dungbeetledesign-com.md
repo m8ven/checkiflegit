@@ -1,10 +1,10 @@
 ---
 domain: dungbeetledesign.com
 slug: dungbeetledesign-com
-title: Is dungbeetledesign.com Legit? Trust Signal Check
+title: Is dungbeetledesign.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for dungbeetledesign.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dungbeetledesign.com scores 70/100 on our public trust checks. Established
+  domain — registered 19.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:33.623Z'
 finalUrl: 'https://dungbeetledesign.com/'
 reachable: true

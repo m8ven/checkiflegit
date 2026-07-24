@@ -1,10 +1,10 @@
 ---
 domain: semproniana.net
 slug: semproniana-net
-title: Is semproniana.net Legit? Trust Signal Check
+title: Is semproniana.net Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for semproniana.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  semproniana.net scores 94/100 on our public trust checks. Established domain —
+  registered 25.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:43.219Z'
 finalUrl: 'https://semproniana.net/'
 reachable: true

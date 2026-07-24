@@ -1,10 +1,10 @@
 ---
 domain: autofornalczesci.pl
 slug: autofornalczesci-pl
-title: Is autofornalczesci.pl Legit? Trust Signal Check
+title: Is autofornalczesci.pl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for autofornalczesci.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  autofornalczesci.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:36:10.067Z'
 finalUrl: 'https://autofornalczesci.pl/'
 reachable: true

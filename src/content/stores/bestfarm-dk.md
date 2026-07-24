@@ -1,10 +1,10 @@
 ---
 domain: bestfarm.dk
 slug: bestfarm-dk
-title: Is bestfarm.dk Legit? Trust Signal Check
+title: Is bestfarm.dk Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bestfarm.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bestfarm.dk scores 94/100 on our public trust checks. Established domain —
+  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:51:01.668Z'
 finalUrl: 'https://bestfarm.dk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: djustyle.ca
 slug: djustyle-ca
-title: Is djustyle.ca Legit? Trust Signal Check
+title: Is djustyle.ca Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for djustyle.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  djustyle.ca scores 76/100 on our public trust checks. Established domain —
+  registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:15.303Z'
 finalUrl: 'https://djustyle.ca/'
 reachable: true

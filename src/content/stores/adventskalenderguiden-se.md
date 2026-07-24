@@ -1,10 +1,10 @@
 ---
 domain: adventskalenderguiden.se
 slug: adventskalenderguiden-se
-title: Is adventskalenderguiden.se Legit? Trust Signal Check
+title: Is adventskalenderguiden.se Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for adventskalenderguiden.se: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  adventskalenderguiden.se scores 82/100 on our public trust checks. Established
+  domain — registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:23.073Z'
 finalUrl: 'https://adventskalenderguiden.se/'
 reachable: true

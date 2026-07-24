@@ -1,10 +1,10 @@
 ---
 domain: skimania.at
 slug: skimania-at
-title: Is skimania.at Legit? Trust Signal Check
+title: Is skimania.at Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for skimania.at: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  skimania.at scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:51:33.860Z'
 finalUrl: 'https://skimania.at/'
 reachable: true

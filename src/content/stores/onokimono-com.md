@@ -1,10 +1,10 @@
 ---
 domain: onokimono.com
 slug: onokimono-com
-title: Is onokimono.com Legit? Trust Signal Check
+title: Is onokimono.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for onokimono.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  onokimono.com scores 76/100 on our public trust checks. Established domain —
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:01.025Z'
 finalUrl: 'https://onokimono.com/'
 reachable: true

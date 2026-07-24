@@ -1,10 +1,10 @@
 ---
 domain: avrilmserene.com
 slug: avrilmserene-com
-title: Is avrilmserene.com Legit? Trust Signal Check
+title: Is avrilmserene.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for avrilmserene.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  avrilmserene.com scores 82/100 on our public trust checks. Established domain
+  — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:25.569Z'
 finalUrl: 'https://avrilmserene.com/'
 reachable: true

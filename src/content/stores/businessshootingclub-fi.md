@@ -1,10 +1,10 @@
 ---
 domain: businessshootingclub.fi
 slug: businessshootingclub-fi
-title: Is businessshootingclub.fi Legit? Trust Signal Check
+title: Is businessshootingclub.fi Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for businessshootingclub.fi: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  businessshootingclub.fi scores 57/100 on our public trust checks. Standard
+  contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:55.871Z'
 finalUrl: 'https://businessshootingclub.fi/'
 reachable: true

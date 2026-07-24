@@ -1,10 +1,10 @@
 ---
 domain: dreambeanscoffee.ie
 slug: dreambeanscoffee-ie
-title: Is dreambeanscoffee.ie Legit? Trust Signal Check
+title: Is dreambeanscoffee.ie Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dreambeanscoffee.ie: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dreambeanscoffee.ie scores 88/100 on our public trust checks. Established
+  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:29.118Z'
 finalUrl: 'https://dreambeanscoffee.ie/'
 reachable: true

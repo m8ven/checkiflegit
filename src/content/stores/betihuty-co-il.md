@@ -1,10 +1,10 @@
 ---
 domain: betihuty.co.il
 slug: betihuty-co-il
-title: Is betihuty.co.il Legit? Trust Signal Check
+title: Is betihuty.co.il Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for betihuty.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  betihuty.co.il scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:58:45.431Z'
 finalUrl: 'https://www.betihuty.co.il/'
 reachable: true

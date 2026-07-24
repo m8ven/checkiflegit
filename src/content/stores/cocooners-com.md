@@ -1,10 +1,10 @@
 ---
 domain: cocooners.com
 slug: cocooners-com
-title: Is cocooners.com Legit? Trust Signal Check
+title: Is cocooners.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for cocooners.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cocooners.com scores 76/100 on our public trust checks. Established domain —
+  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:27.460Z'
 finalUrl: 'https://www.cocooners.com/'
 reachable: true

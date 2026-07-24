@@ -1,10 +1,10 @@
 ---
 domain: tskantares.ru
 slug: tskantares-ru
-title: Is tskantares.ru Legit? Trust Signal Check
+title: Is tskantares.ru Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for tskantares.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tskantares.ru scores 100/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:31.867Z'
 finalUrl: 'https://tskantares.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tabletcompleet.nl
 slug: tabletcompleet-nl
-title: Is tabletcompleet.nl Legit? Trust Signal Check
+title: Is tabletcompleet.nl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for tabletcompleet.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tabletcompleet.nl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:05:25.297Z'
 finalUrl: 'https://tabletcompleet.nl/'
 reachable: true

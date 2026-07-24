@@ -1,10 +1,11 @@
 ---
 domain: loccitane.com
 slug: loccitane-com
-title: Is loccitane.com Legit? Trust Signal Check
+title: Is loccitane.com Legit? Trust Score 13/100
 description: >-
-  An automated trust-signal check for loccitane.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  loccitane.com scores 13/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-24T21:44:37.307Z'
 finalUrl: 'https://www.loccitane.com/'
 reachable: true

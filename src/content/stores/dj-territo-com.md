@@ -1,10 +1,10 @@
 ---
 domain: dj-territo.com
 slug: dj-territo-com
-title: Is dj-territo.com Legit? Trust Signal Check
+title: Is dj-territo.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for dj-territo.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dj-territo.com scores 58/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T15:31:45.316Z'
 finalUrl: 'http://dj-territo.com/'
 reachable: true

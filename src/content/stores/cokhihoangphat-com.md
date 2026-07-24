@@ -1,10 +1,10 @@
 ---
 domain: cokhihoangphat.com
 slug: cokhihoangphat-com
-title: Is cokhihoangphat.com Legit? Trust Signal Check
+title: Is cokhihoangphat.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for cokhihoangphat.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cokhihoangphat.com scores 70/100 on our public trust checks. Established
+  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:36.490Z'
 finalUrl: 'https://cokhihoangphat.com/'
 reachable: true

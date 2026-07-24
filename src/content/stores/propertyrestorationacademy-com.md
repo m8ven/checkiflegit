@@ -1,10 +1,10 @@
 ---
 domain: propertyrestorationacademy.com
 slug: propertyrestorationacademy-com
-title: Is propertyrestorationacademy.com Legit? Trust Signal Check
+title: Is propertyrestorationacademy.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for propertyrestorationacademy.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  propertyrestorationacademy.com scores 100/100 on our public trust checks.
+  Established domain — registered 14.1 years ago.
 fetchedAt: '2026-06-25T02:48:40.242Z'
 finalUrl: 'https://propertyrestorationacademy.com/'
 reachable: true

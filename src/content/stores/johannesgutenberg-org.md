@@ -1,10 +1,10 @@
 ---
 domain: johannesgutenberg.org
 slug: johannesgutenberg-org
-title: Is johannesgutenberg.org Legit? Trust Signal Check
+title: Is johannesgutenberg.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for johannesgutenberg.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  johannesgutenberg.org scores 88/100 on our public trust checks. Established
+  domain — registered 16 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:42.398Z'
 finalUrl: 'https://johannesgutenberg.org/'
 reachable: true

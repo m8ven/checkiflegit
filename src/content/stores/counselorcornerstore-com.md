@@ -1,11 +1,10 @@
 ---
 domain: counselorcornerstore.com
 slug: counselorcornerstore-com
-title: Is counselorcornerstore.com Legit? Trust Signal Check
+title: Is counselorcornerstore.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for counselorcornerstore.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  counselorcornerstore.com scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:24:04.368Z'
 finalUrl: 'https://counselorcornerstore.com/'
 reachable: true

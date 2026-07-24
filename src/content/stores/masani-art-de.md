@@ -1,10 +1,10 @@
 ---
 domain: masani-art.de
 slug: masani-art-de
-title: Is masani-art.de Legit? Trust Signal Check
+title: Is masani-art.de Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for masani-art.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  masani-art.de scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:19.663Z'
 finalUrl: 'https://masani-art.de/'
 reachable: true

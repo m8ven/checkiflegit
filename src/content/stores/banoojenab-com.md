@@ -1,10 +1,10 @@
 ---
 domain: banoojenab.com
 slug: banoojenab-com
-title: Is banoojenab.com Legit? Trust Signal Check
+title: Is banoojenab.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for banoojenab.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  banoojenab.com scores 82/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:49.078Z'
 finalUrl: 'https://banoojenab.com/'
 reachable: true

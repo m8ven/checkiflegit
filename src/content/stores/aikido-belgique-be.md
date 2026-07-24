@@ -1,10 +1,10 @@
 ---
 domain: aikido-belgique.be
 slug: aikido-belgique-be
-title: Is aikido-belgique.be Legit? Trust Signal Check
+title: Is aikido-belgique.be Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for aikido-belgique.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aikido-belgique.be scores 82/100 on our public trust checks. Established
+  domain — registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:12:08.437Z'
 finalUrl: 'https://www.aikido-belgique.be/'
 reachable: true

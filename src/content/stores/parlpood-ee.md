@@ -1,10 +1,10 @@
 ---
 domain: parlpood.ee
 slug: parlpood-ee
-title: Is parlpood.ee Legit? Trust Signal Check
+title: Is parlpood.ee Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for parlpood.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  parlpood.ee scores 70/100 on our public trust checks. Established domain —
+  registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:20.005Z'
 finalUrl: 'https://parlpood.ee/'
 reachable: true

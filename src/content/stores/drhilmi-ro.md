@@ -1,10 +1,10 @@
 ---
 domain: drhilmi.ro
 slug: drhilmi-ro
-title: Is drhilmi.ro Legit? Trust Signal Check
+title: Is drhilmi.ro Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for drhilmi.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  drhilmi.ro scores 100/100 on our public trust checks. Established domain —
+  registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:49.607Z'
 finalUrl: 'https://drhilmi.ro/?v=b724ba6aff0a'
 reachable: true

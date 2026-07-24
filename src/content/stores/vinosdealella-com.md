@@ -1,10 +1,10 @@
 ---
 domain: vinosdealella.com
 slug: vinosdealella-com
-title: Is vinosdealella.com Legit? Trust Signal Check
+title: Is vinosdealella.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for vinosdealella.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vinosdealella.com scores 85/100 on our public trust checks. Established domain
+  — registered 16.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:14.349Z'
 finalUrl: 'https://vinosdealella.com/'
 reachable: true

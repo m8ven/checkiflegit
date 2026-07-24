@@ -1,10 +1,10 @@
 ---
 domain: allsportsoutlet.com
 slug: allsportsoutlet-com
-title: Is allsportsoutlet.com Legit? Trust Signal Check
+title: Is allsportsoutlet.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for allsportsoutlet.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  allsportsoutlet.com scores 85/100 on our public trust checks. Established
+  domain — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:08.128Z'
 finalUrl: 'https://www.allsportsoutlet.com/'
 reachable: true

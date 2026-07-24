@@ -1,10 +1,10 @@
 ---
 domain: vsss.sk
 slug: vsss-sk
-title: Is vsss.sk Legit? Trust Signal Check
+title: Is vsss.sk Legit? Trust Score 44/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for vsss.sk: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  vsss.sk scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:19:34.675Z'
 finalUrl: 'https://vsss.sk/'
 reachable: true

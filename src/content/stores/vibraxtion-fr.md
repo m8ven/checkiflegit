@@ -1,10 +1,10 @@
 ---
 domain: vibraxtion.fr
 slug: vibraxtion-fr
-title: Is vibraxtion.fr Legit? Trust Signal Check
+title: Is vibraxtion.fr Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for vibraxtion.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vibraxtion.fr scores 82/100 on our public trust checks. Established domain —
+  registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:24.974Z'
 finalUrl: 'https://vibraxtion.fr/'
 reachable: true

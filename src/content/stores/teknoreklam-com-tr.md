@@ -1,10 +1,10 @@
 ---
 domain: teknoreklam.com.tr
 slug: teknoreklam-com-tr
-title: Is teknoreklam.com.tr Legit? Trust Signal Check
+title: Is teknoreklam.com.tr Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for teknoreklam.com.tr: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  teknoreklam.com.tr scores 19/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:53:20.528Z'
 finalUrl: 'https://teknoreklam.com.tr/'
 reachable: true

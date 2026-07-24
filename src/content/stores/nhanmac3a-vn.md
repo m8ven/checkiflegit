@@ -1,10 +1,10 @@
 ---
 domain: nhanmac3a.vn
 slug: nhanmac3a-vn
-title: Is nhanmac3a.vn Legit? Trust Signal Check
+title: Is nhanmac3a.vn Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nhanmac3a.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nhanmac3a.vn scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:55:45.845Z'
 finalUrl: 'https://nhanmac3a.vn/'
 reachable: true

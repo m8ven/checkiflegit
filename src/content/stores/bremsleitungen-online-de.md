@@ -1,11 +1,10 @@
 ---
 domain: bremsleitungen-online.de
 slug: bremsleitungen-online-de
-title: Is bremsleitungen-online.de Legit? Trust Signal Check
+title: Is bremsleitungen-online.de Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for bremsleitungen-online.de: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  bremsleitungen-online.de scores 44/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:59:16.299Z'
 finalUrl: 'https://www.bremsleitungen-online.de/'
 reachable: true

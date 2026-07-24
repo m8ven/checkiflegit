@@ -1,10 +1,10 @@
 ---
 domain: mproveyourenglish.com
 slug: mproveyourenglish-com
-title: Is mproveyourenglish.com Legit? Trust Signal Check
+title: Is mproveyourenglish.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mproveyourenglish.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mproveyourenglish.com scores 100/100 on our public trust checks. Established
+  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:20:13.703Z'
 finalUrl: 'https://mproveyourenglish.com/'
 reachable: true

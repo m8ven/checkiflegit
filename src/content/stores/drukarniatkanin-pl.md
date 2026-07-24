@@ -1,10 +1,10 @@
 ---
 domain: drukarniatkanin.pl
 slug: drukarniatkanin-pl
-title: Is drukarniatkanin.pl Legit? Trust Signal Check
+title: Is drukarniatkanin.pl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for drukarniatkanin.pl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  drukarniatkanin.pl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:34:45.705Z'
 finalUrl: 'https://drukarniatkanin.pl/'
 reachable: true

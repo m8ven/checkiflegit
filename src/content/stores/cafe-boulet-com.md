@@ -1,10 +1,10 @@
 ---
 domain: cafe-boulet.com
 slug: cafe-boulet-com
-title: Is cafe-boulet.com Legit? Trust Signal Check
+title: Is cafe-boulet.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for cafe-boulet.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cafe-boulet.com scores 70/100 on our public trust checks. Established domain —
+  registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:17.934Z'
 finalUrl: 'https://www.cafe-boulet.com/'
 reachable: true

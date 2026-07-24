@@ -1,10 +1,10 @@
 ---
 domain: gameskeys.net
 slug: gameskeys-net
-title: Is gameskeys.net Legit? Trust Signal Check
+title: Is gameskeys.net Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for gameskeys.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gameskeys.net scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:46:22.973Z'
 finalUrl: 'https://gameskeys.net/'
 reachable: true

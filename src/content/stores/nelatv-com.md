@@ -1,10 +1,10 @@
 ---
 domain: nelatv.com
 slug: nelatv-com
-title: Is nelatv.com Legit? Trust Signal Check
+title: Is nelatv.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nelatv.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nelatv.com scores 70/100 on our public trust checks. Established domain —
+  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:40.389Z'
 finalUrl: 'https://nelatv.com/'
 reachable: true

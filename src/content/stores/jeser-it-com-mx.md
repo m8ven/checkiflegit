@@ -1,10 +1,10 @@
 ---
 domain: jeser-it.com.mx
 slug: jeser-it-com-mx
-title: Is jeser-it.com.mx Legit? Trust Signal Check
+title: Is jeser-it.com.mx Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for jeser-it.com.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jeser-it.com.mx scores 88/100 on our public trust checks. Established domain —
+  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:46.718Z'
 finalUrl: 'https://jeser-it.com.mx/'
 reachable: true

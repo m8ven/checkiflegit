@@ -1,10 +1,11 @@
 ---
 domain: znachki.spb.su
 slug: znachki-spb-su
-title: Is znachki.spb.su Legit? Trust Signal Check
+title: Is znachki.spb.su Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for znachki.spb.su: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  znachki.spb.su scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:33:46.172Z'
 finalUrl: 'https://znachki.spb.su/?v=f9308c5d0596'
 reachable: true

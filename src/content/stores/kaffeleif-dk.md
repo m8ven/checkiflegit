@@ -1,10 +1,10 @@
 ---
 domain: kaffeleif.dk
 slug: kaffeleif-dk
-title: Is kaffeleif.dk Legit? Trust Signal Check
+title: Is kaffeleif.dk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for kaffeleif.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kaffeleif.dk scores 73/100 on our public trust checks. Established domain —
+  registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:20.436Z'
 finalUrl: 'https://kaffeleif.dk/'
 reachable: true

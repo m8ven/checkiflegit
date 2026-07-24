@@ -1,10 +1,10 @@
 ---
 domain: congeladosmoreira.com
 slug: congeladosmoreira-com
-title: Is congeladosmoreira.com Legit? Trust Signal Check
+title: Is congeladosmoreira.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for congeladosmoreira.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  congeladosmoreira.com scores 100/100 on our public trust checks. Established
+  domain — registered 24.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:38.450Z'
 finalUrl: 'https://congeladosmoreira.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: disturbia.co.uk
 slug: disturbia-co-uk
-title: Is disturbia.co.uk Legit? Trust Signal Check
+title: Is disturbia.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for disturbia.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  disturbia.co.uk scores 100/100 on our public trust checks. Established domain
+  — registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:12.712Z'
 finalUrl: 'https://www.disturbia.co.uk/'
 reachable: true

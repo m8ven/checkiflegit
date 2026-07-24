@@ -1,10 +1,10 @@
 ---
 domain: toneristas.gr
 slug: toneristas-gr
-title: Is toneristas.gr Legit? Trust Signal Check
+title: Is toneristas.gr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for toneristas.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  toneristas.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:06:06.093Z'
 finalUrl: 'https://toneristas.gr/'
 reachable: true

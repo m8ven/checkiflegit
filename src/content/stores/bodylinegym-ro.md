@@ -1,10 +1,10 @@
 ---
 domain: bodylinegym.ro
 slug: bodylinegym-ro
-title: Is bodylinegym.ro Legit? Trust Signal Check
+title: Is bodylinegym.ro Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for bodylinegym.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bodylinegym.ro scores 70/100 on our public trust checks. Established domain —
+  registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:43.242Z'
 finalUrl: 'https://www.bodylinegym.ro/'
 reachable: true

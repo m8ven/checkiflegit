@@ -1,10 +1,10 @@
 ---
 domain: zigzagvelos.fr
 slug: zigzagvelos-fr
-title: Is zigzagvelos.fr Legit? Trust Signal Check
+title: Is zigzagvelos.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for zigzagvelos.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  zigzagvelos.fr scores 100/100 on our public trust checks. Established domain —
+  registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:05.394Z'
 finalUrl: 'https://zigzagvelos.fr/'
 reachable: true

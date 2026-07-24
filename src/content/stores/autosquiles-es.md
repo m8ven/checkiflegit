@@ -1,10 +1,10 @@
 ---
 domain: autosquiles.es
 slug: autosquiles-es
-title: Is autosquiles.es Legit? Trust Signal Check
+title: Is autosquiles.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for autosquiles.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  autosquiles.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:20:06.920Z'
 finalUrl: 'https://autosquiles.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pestlockdown.com
 slug: pestlockdown-com
-title: Is pestlockdown.com Legit? Trust Signal Check
+title: Is pestlockdown.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for pestlockdown.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pestlockdown.com scores 73/100 on our public trust checks. Established domain
+  — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:28.799Z'
 finalUrl: 'https://pestlockdown.com/'
 reachable: true

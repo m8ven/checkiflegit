@@ -1,10 +1,10 @@
 ---
 domain: webshopimago.nl
 slug: webshopimago-nl
-title: Is webshopimago.nl Legit? Trust Signal Check
+title: Is webshopimago.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for webshopimago.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  webshopimago.nl scores 82/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:54.378Z'
 finalUrl: 'https://www.webshopimago.nl/'
 reachable: true

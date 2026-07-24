@@ -1,10 +1,10 @@
 ---
 domain: d-data.ro
 slug: d-data-ro
-title: Is d-data.ro Legit? Trust Signal Check
+title: Is d-data.ro Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for d-data.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  d-data.ro scores 88/100 on our public trust checks. Established domain —
+  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:46.210Z'
 finalUrl: 'https://d-data.ro/'
 reachable: true

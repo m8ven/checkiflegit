@@ -1,10 +1,10 @@
 ---
 domain: kankokeizai.com
 slug: kankokeizai-com
-title: Is kankokeizai.com Legit? Trust Signal Check
+title: Is kankokeizai.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for kankokeizai.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kankokeizai.com scores 76/100 on our public trust checks. Established domain —
+  registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:47.501Z'
 finalUrl: 'https://www.kankokeizai.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: helpingindia.com
 slug: helpingindia-com
-title: Is helpingindia.com Legit? Trust Signal Check
+title: Is helpingindia.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for helpingindia.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  helpingindia.com scores 70/100 on our public trust checks. Established domain
+  — registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:56.885Z'
 finalUrl: 'https://www.helpingindia.com/'
 reachable: true

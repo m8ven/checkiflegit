@@ -1,10 +1,11 @@
 ---
 domain: cemon.eu
 slug: cemon-eu
-title: Is cemon.eu Legit? Trust Signal Check
+title: Is cemon.eu Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cemon.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cemon.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T03:00:28.674Z'
 finalUrl: 'https://cemon.eu/'
 reachable: true

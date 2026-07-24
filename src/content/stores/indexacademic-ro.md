@@ -1,10 +1,10 @@
 ---
 domain: indexacademic.ro
 slug: indexacademic-ro
-title: Is indexacademic.ro Legit? Trust Signal Check
+title: Is indexacademic.ro Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for indexacademic.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  indexacademic.ro scores 100/100 on our public trust checks. Established domain
+  — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:06.071Z'
 finalUrl: 'https://www.indexacademic.ro/'
 reachable: true

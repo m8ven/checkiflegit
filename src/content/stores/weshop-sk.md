@@ -1,10 +1,10 @@
 ---
 domain: weshop.sk
 slug: weshop-sk
-title: Is weshop.sk Legit? Trust Signal Check
+title: Is weshop.sk Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for weshop.sk: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  weshop.sk scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:10:09.338Z'
 finalUrl: 'https://weshop.sk/'
 reachable: true

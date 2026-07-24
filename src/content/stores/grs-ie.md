@@ -1,10 +1,10 @@
 ---
 domain: grs.ie
 slug: grs-ie
-title: Is grs.ie Legit? Trust Signal Check
+title: Is grs.ie Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for grs.ie: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  grs.ie scores 85/100 on our public trust checks. Established domain —
+  registered 25.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:26.017Z'
 finalUrl: 'https://grs.ie/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: linhkiendienthoaihlf.com
 slug: linhkiendienthoaihlf-com
-title: Is linhkiendienthoaihlf.com Legit? Trust Signal Check
+title: Is linhkiendienthoaihlf.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for linhkiendienthoaihlf.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  linhkiendienthoaihlf.com scores 52/100 on our public trust checks. Standard
+  contact and policy pages were not found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:16:25.270Z'
 finalUrl: 'https://linhkiendienthoaihlf.com/'
 reachable: true

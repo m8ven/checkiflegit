@@ -1,10 +1,10 @@
 ---
 domain: viox.com
 slug: viox-com
-title: Is viox.com Legit? Trust Signal Check
+title: Is viox.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for viox.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  viox.com scores 100/100 on our public trust checks. Established domain —
+  registered 30.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:04.918Z'
 finalUrl: 'https://viox.com/'
 reachable: true

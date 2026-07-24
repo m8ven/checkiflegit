@@ -1,10 +1,10 @@
 ---
 domain: koisadeadulto.com.br
 slug: koisadeadulto-com-br
-title: Is koisadeadulto.com.br Legit? Trust Signal Check
+title: Is koisadeadulto.com.br Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for koisadeadulto.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  koisadeadulto.com.br scores 49/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:07:43.808Z'
 finalUrl: 'https://koisadeadulto.com.br/'
 reachable: true

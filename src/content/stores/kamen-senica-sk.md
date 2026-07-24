@@ -1,10 +1,10 @@
 ---
 domain: kamen-senica.sk
 slug: kamen-senica-sk
-title: Is kamen-senica.sk Legit? Trust Signal Check
+title: Is kamen-senica.sk Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for kamen-senica.sk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kamen-senica.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:54:01.915Z'
 finalUrl: 'https://kamen-senica.sk/'
 reachable: true

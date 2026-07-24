@@ -1,10 +1,10 @@
 ---
 domain: bestipharma.com
 slug: bestipharma-com
-title: Is bestipharma.com Legit? Trust Signal Check
+title: Is bestipharma.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for bestipharma.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  bestipharma.com scores 25/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:43:15.079Z'
 finalUrl: 'https://bestipharma.com/'
 reachable: true

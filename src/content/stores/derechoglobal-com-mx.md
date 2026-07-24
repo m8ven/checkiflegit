@@ -1,10 +1,10 @@
 ---
 domain: derechoglobal.com.mx
 slug: derechoglobal-com-mx
-title: Is derechoglobal.com.mx Legit? Trust Signal Check
+title: Is derechoglobal.com.mx Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for derechoglobal.com.mx: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  derechoglobal.com.mx scores 85/100 on our public trust checks. Established
+  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:35.018Z'
 finalUrl: 'https://derechoglobal.com.mx/'
 reachable: true

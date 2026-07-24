@@ -1,10 +1,10 @@
 ---
 domain: gebakkerij.nl
 slug: gebakkerij-nl
-title: Is gebakkerij.nl Legit? Trust Signal Check
+title: Is gebakkerij.nl Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for gebakkerij.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gebakkerij.nl scores 76/100 on our public trust checks. Established domain —
+  registered 14.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:44.707Z'
 finalUrl: 'https://gebakkerij.nl/'
 reachable: true

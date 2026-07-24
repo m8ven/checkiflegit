@@ -1,10 +1,11 @@
 ---
 domain: pettown.com.br
 slug: pettown-com-br
-title: Is pettown.com.br Legit? Trust Signal Check
+title: Is pettown.com.br Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pettown.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pettown.com.br scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:46:57.107Z'
 finalUrl: 'https://pettown.com.br/'
 reachable: true

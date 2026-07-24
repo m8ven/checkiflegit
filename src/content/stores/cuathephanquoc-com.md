@@ -1,10 +1,10 @@
 ---
 domain: cuathephanquoc.com
 slug: cuathephanquoc-com
-title: Is cuathephanquoc.com Legit? Trust Signal Check
+title: Is cuathephanquoc.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for cuathephanquoc.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cuathephanquoc.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:07:49.836Z'
 finalUrl: 'https://cuathephanquoc.com/'
 reachable: true

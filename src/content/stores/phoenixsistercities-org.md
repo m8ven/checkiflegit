@@ -1,10 +1,10 @@
 ---
 domain: phoenixsistercities.org
 slug: phoenixsistercities-org
-title: Is phoenixsistercities.org Legit? Trust Signal Check
+title: Is phoenixsistercities.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for phoenixsistercities.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  phoenixsistercities.org scores 88/100 on our public trust checks. Established
+  domain — registered 25.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:03.462Z'
 finalUrl: 'https://phoenixsistercities.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: btpandco.fr
 slug: btpandco-fr
-title: Is btpandco.fr Legit? Trust Signal Check
+title: Is btpandco.fr Legit? Trust Score 13/100
 description: >-
-  An automated trust-signal check for btpandco.fr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  btpandco.fr scores 13/100 on our public trust checks. No valid SSL certificate
+  — connection may not be secure.
 fetchedAt: '2026-06-25T03:28:25.837Z'
 finalUrl: 'http://btpandco.fr/'
 reachable: true

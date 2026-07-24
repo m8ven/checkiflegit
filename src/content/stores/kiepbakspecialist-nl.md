@@ -1,10 +1,10 @@
 ---
 domain: kiepbakspecialist.nl
 slug: kiepbakspecialist-nl
-title: Is kiepbakspecialist.nl Legit? Trust Signal Check
+title: Is kiepbakspecialist.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for kiepbakspecialist.nl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kiepbakspecialist.nl scores 73/100 on our public trust checks. Established
+  domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:18.919Z'
 finalUrl: 'https://www.kiepbakspecialist.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: balihealingoil.com
 slug: balihealingoil-com
-title: Is balihealingoil.com Legit? Trust Signal Check
+title: Is balihealingoil.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for balihealingoil.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  balihealingoil.com scores 52/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:14:07.966Z'
 finalUrl: 'https://www.balihealingoil.com/'
 reachable: true

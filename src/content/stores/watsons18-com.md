@@ -1,10 +1,11 @@
 ---
 domain: watsons18.com
 slug: watsons18-com
-title: Is watsons18.com Legit? Trust Signal Check
+title: Is watsons18.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for watsons18.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  watsons18.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:09:46.014Z'
 finalUrl: 'https://watsons18.com/'
 reachable: true

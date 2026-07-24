@@ -1,10 +1,10 @@
 ---
 domain: store.cityfirst.church
 slug: store-cityfirst-church
-title: Is store.cityfirst.church Legit? Trust Signal Check
+title: Is store.cityfirst.church Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for store.cityfirst.church: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  store.cityfirst.church scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:32:36.465Z'
 finalUrl: 'https://store.cityfirst.church/'
 reachable: true

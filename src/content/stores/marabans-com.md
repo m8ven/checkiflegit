@@ -1,10 +1,10 @@
 ---
 domain: marabans.com
 slug: marabans-com
-title: Is marabans.com Legit? Trust Signal Check
+title: Is marabans.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for marabans.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  marabans.com scores 100/100 on our public trust checks. Established domain —
+  registered 23.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:02.894Z'
 finalUrl: 'https://marabans.com/'
 reachable: true

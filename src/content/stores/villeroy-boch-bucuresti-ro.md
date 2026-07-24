@@ -1,10 +1,11 @@
 ---
 domain: villeroy-boch-bucuresti.ro
 slug: villeroy-boch-bucuresti-ro
-title: Is villeroy-boch-bucuresti.ro Legit? Trust Signal Check
+title: Is villeroy-boch-bucuresti.ro Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for villeroy-boch-bucuresti.ro: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  villeroy-boch-bucuresti.ro scores 85/100 on our public trust checks.
+  Established domain — registered 10.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:08:35.442Z'
 finalUrl: 'https://villeroy-boch-bucuresti.ro/'
 reachable: true

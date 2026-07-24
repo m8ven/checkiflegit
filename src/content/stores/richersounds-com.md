@@ -1,10 +1,10 @@
 ---
 domain: richersounds.com
 slug: richersounds-com
-title: Is richersounds.com Legit? Trust Signal Check
+title: Is richersounds.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for richersounds.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  richersounds.com scores 88/100 on our public trust checks. Established domain
+  — registered 29.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:48.767Z'
 finalUrl: 'https://www.richersounds.com/'
 reachable: true

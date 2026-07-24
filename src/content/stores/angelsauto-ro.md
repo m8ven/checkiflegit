@@ -1,10 +1,10 @@
 ---
 domain: angelsauto.ro
 slug: angelsauto-ro
-title: Is angelsauto.ro Legit? Trust Signal Check
+title: Is angelsauto.ro Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for angelsauto.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  angelsauto.ro scores 88/100 on our public trust checks. Established domain —
+  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:37.967Z'
 finalUrl: 'https://www.angelsauto.ro/'
 reachable: true

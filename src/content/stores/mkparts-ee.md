@@ -1,10 +1,10 @@
 ---
 domain: mkparts.ee
 slug: mkparts-ee
-title: Is mkparts.ee Legit? Trust Signal Check
+title: Is mkparts.ee Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mkparts.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mkparts.ee scores 100/100 on our public trust checks. Established domain —
+  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:02.881Z'
 finalUrl: 'https://mkparts.ee/'
 reachable: true

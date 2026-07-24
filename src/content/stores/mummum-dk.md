@@ -1,10 +1,10 @@
 ---
 domain: mummum.dk
 slug: mummum-dk
-title: Is mummum.dk Legit? Trust Signal Check
+title: Is mummum.dk Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mummum.dk: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mummum.dk scores 58/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T02:45:15.216Z'
 finalUrl: 'https://mummum.dk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: msk.a2-epigraf.ru
 slug: msk-a2-epigraf-ru
-title: Is msk.a2-epigraf.ru Legit? Trust Signal Check
+title: Is msk.a2-epigraf.ru Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for msk.a2-epigraf.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  msk.a2-epigraf.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:20:18.239Z'
 finalUrl: 'https://msk.a2-epigraf.ru/'
 reachable: true

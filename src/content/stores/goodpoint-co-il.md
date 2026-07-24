@@ -1,10 +1,10 @@
 ---
 domain: goodpoint.co.il
 slug: goodpoint-co-il
-title: Is goodpoint.co.il Legit? Trust Signal Check
+title: Is goodpoint.co.il Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for goodpoint.co.il: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  goodpoint.co.il scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:48:42.868Z'
 finalUrl: 'https://goodpoint.co.il/'
 reachable: true

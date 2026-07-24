@@ -1,10 +1,11 @@
 ---
 domain: alerma.kz
 slug: alerma-kz
-title: Is alerma.kz Legit? Trust Signal Check
+title: Is alerma.kz Legit? Trust Score 14/100
 description: >-
-  An automated trust-signal check for alerma.kz: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  alerma.kz scores 14/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T02:23:52.046Z'
 finalUrl: 'https://alerma.kz/'
 reachable: true

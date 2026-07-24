@@ -1,10 +1,10 @@
 ---
 domain: iizukaco.co.jp
 slug: iizukaco-co-jp
-title: Is iizukaco.co.jp Legit? Trust Signal Check
+title: Is iizukaco.co.jp Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for iizukaco.co.jp: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  iizukaco.co.jp scores 70/100 on our public trust checks. Established domain —
+  registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:56.375Z'
 finalUrl: 'https://iizukaco.co.jp/'
 reachable: true

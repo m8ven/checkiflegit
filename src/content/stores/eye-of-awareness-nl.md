@@ -1,10 +1,10 @@
 ---
 domain: eye-of-awareness.nl
 slug: eye-of-awareness-nl
-title: Is eye-of-awareness.nl Legit? Trust Signal Check
+title: Is eye-of-awareness.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for eye-of-awareness.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eye-of-awareness.nl scores 73/100 on our public trust checks. Established
+  domain — registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:11.498Z'
 finalUrl: 'https://eye-of-awareness.nl/'
 reachable: true

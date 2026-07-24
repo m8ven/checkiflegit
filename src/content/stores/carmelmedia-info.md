@@ -1,10 +1,10 @@
 ---
 domain: carmelmedia.info
 slug: carmelmedia-info
-title: Is carmelmedia.info Legit? Trust Signal Check
+title: Is carmelmedia.info Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for carmelmedia.info: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  carmelmedia.info scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:25:56.900Z'
 finalUrl: 'https://www.carmelmedia.info/'
 reachable: true

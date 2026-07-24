@@ -1,10 +1,10 @@
 ---
 domain: old300title.com
 slug: old300title-com
-title: Is old300title.com Legit? Trust Signal Check
+title: Is old300title.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for old300title.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  old300title.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:16:45.413Z'
 finalUrl: 'https://old300title.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: leslumieresdudruide.fr
 slug: leslumieresdudruide-fr
-title: Is leslumieresdudruide.fr Legit? Trust Signal Check
+title: Is leslumieresdudruide.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for leslumieresdudruide.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  leslumieresdudruide.fr scores 100/100 on our public trust checks. Established
+  domain — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:37.756Z'
 finalUrl: 'https://www.leslumieresdudruide.fr/'
 reachable: true

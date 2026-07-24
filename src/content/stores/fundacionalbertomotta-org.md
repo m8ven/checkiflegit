@@ -1,10 +1,11 @@
 ---
 domain: fundacionalbertomotta.org
 slug: fundacionalbertomotta-org
-title: Is fundacionalbertomotta.org Legit? Trust Signal Check
+title: Is fundacionalbertomotta.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fundacionalbertomotta.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fundacionalbertomotta.org scores 100/100 on our public trust checks.
+  Established domain — registered 14.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:30:33.493Z'
 finalUrl: 'https://fundacionalbertomotta.org/'
 reachable: true

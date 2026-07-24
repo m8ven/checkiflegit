@@ -1,10 +1,10 @@
 ---
 domain: whiffy.co.nz
 slug: whiffy-co-nz
-title: Is whiffy.co.nz Legit? Trust Signal Check
+title: Is whiffy.co.nz Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for whiffy.co.nz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  whiffy.co.nz scores 100/100 on our public trust checks. Established domain —
+  registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:06.825Z'
 finalUrl: 'https://whiffy.co.nz/'
 reachable: true

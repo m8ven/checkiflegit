@@ -1,10 +1,10 @@
 ---
 domain: jaipurkurti.com
 slug: jaipurkurti-com
-title: Is jaipurkurti.com Legit? Trust Signal Check
+title: Is jaipurkurti.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for jaipurkurti.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jaipurkurti.com scores 100/100 on our public trust checks. Established domain
+  — registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:15.403Z'
 finalUrl: 'https://jaipurkurti.com/'
 reachable: true

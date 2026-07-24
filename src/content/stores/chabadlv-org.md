@@ -1,10 +1,10 @@
 ---
 domain: chabadlv.org
 slug: chabadlv-org
-title: Is chabadlv.org Legit? Trust Signal Check
+title: Is chabadlv.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for chabadlv.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  chabadlv.org scores 88/100 on our public trust checks. Established domain —
+  registered 27.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:44.816Z'
 finalUrl: 'https://chabadlv.org/'
 reachable: true

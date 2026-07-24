@@ -1,10 +1,10 @@
 ---
 domain: russian-models.in
 slug: russian-models-in
-title: Is russian-models.in Legit? Trust Signal Check
+title: Is russian-models.in Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for russian-models.in: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  russian-models.in scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:01:17.821Z'
 finalUrl: 'https://russian-models.in/'
 reachable: true

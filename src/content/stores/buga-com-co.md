@@ -1,10 +1,10 @@
 ---
 domain: buga.com.co
 slug: buga-com-co
-title: Is buga.com.co Legit? Trust Signal Check
+title: Is buga.com.co Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for buga.com.co: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  buga.com.co scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:57:38.202Z'
 finalUrl: 'https://buga.com.co/'
 reachable: true

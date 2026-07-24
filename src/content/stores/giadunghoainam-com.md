@@ -1,10 +1,10 @@
 ---
 domain: giadunghoainam.com
 slug: giadunghoainam-com
-title: Is giadunghoainam.com Legit? Trust Signal Check
+title: Is giadunghoainam.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for giadunghoainam.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  giadunghoainam.com scores 76/100 on our public trust checks. Established
+  domain — registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:20.625Z'
 finalUrl: 'https://giadunghoainam.com/'
 reachable: true

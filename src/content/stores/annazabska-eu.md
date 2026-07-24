@@ -1,10 +1,10 @@
 ---
 domain: annazabska.eu
 slug: annazabska-eu
-title: Is annazabska.eu Legit? Trust Signal Check
+title: Is annazabska.eu Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for annazabska.eu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  annazabska.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:55:05.585Z'
 finalUrl: 'https://annazabska.eu/'
 reachable: true

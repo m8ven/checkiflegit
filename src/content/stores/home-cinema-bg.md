@@ -1,10 +1,11 @@
 ---
 domain: home-cinema.bg
 slug: home-cinema-bg
-title: Is home-cinema.bg Legit? Trust Signal Check
+title: Is home-cinema.bg Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for home-cinema.bg: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  home-cinema.bg scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:20:29.927Z'
 finalUrl: 'https://www.home-cinema.bg/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: saucony.com
 slug: saucony-com
-title: Is saucony.com Legit? Trust Signal Check
+title: Is saucony.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for saucony.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  saucony.com scores 70/100 on our public trust checks. Established domain —
+  registered 31.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:18.237Z'
 finalUrl: 'https://www.saucony.com/en/home'
 reachable: true

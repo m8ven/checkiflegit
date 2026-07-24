@@ -1,10 +1,10 @@
 ---
 domain: intex.ua
 slug: intex-ua
-title: Is intex.ua Legit? Trust Signal Check
+title: Is intex.ua Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for intex.ua: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  intex.ua scores 88/100 on our public trust checks. Established domain —
+  registered 19.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:54.558Z'
 finalUrl: 'https://intex.ua/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: miletensewing.com
 slug: miletensewing-com
-title: Is miletensewing.com Legit? Trust Signal Check
+title: Is miletensewing.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for miletensewing.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  miletensewing.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:18:46.301Z'
 finalUrl: 'https://miletensewing.com/'
 reachable: true

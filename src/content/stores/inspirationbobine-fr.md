@@ -1,10 +1,10 @@
 ---
 domain: inspirationbobine.fr
 slug: inspirationbobine-fr
-title: Is inspirationbobine.fr Legit? Trust Signal Check
+title: Is inspirationbobine.fr Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for inspirationbobine.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  inspirationbobine.fr scores 76/100 on our public trust checks. Established
+  domain — registered 12 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:47.916Z'
 finalUrl: 'https://inspirationbobine.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ja-drancy.com
 slug: ja-drancy-com
-title: Is ja-drancy.com Legit? Trust Signal Check
+title: Is ja-drancy.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ja-drancy.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ja-drancy.com scores 76/100 on our public trust checks. Established domain —
+  registered 17.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:20.505Z'
 finalUrl: 'https://ja-drancy.com/'
 reachable: true

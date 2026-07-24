@@ -1,10 +1,10 @@
 ---
 domain: originconstruction.in
 slug: originconstruction-in
-title: Is originconstruction.in Legit? Trust Signal Check
+title: Is originconstruction.in Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for originconstruction.in: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  originconstruction.in scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:24:28.848Z'
 finalUrl: 'https://originconstruction.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: actionproducts.com
 slug: actionproducts-com
-title: Is actionproducts.com Legit? Trust Signal Check
+title: Is actionproducts.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for actionproducts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  actionproducts.com scores 100/100 on our public trust checks. Established
+  domain — registered 30 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:37.553Z'
 finalUrl: 'https://www.actionproducts.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: aviaparkgrandprix.ru
 slug: aviaparkgrandprix-ru
-title: Is aviaparkgrandprix.ru Legit? Trust Signal Check
+title: Is aviaparkgrandprix.ru Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for aviaparkgrandprix.ru: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  aviaparkgrandprix.ru scores 70/100 on our public trust checks. Established
+  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:28.986Z'
 finalUrl: 'https://aviaparkgrandprix.ru/'
 reachable: true

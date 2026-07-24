@@ -1,10 +1,10 @@
 ---
 domain: sumoopskrba.hr
 slug: sumoopskrba-hr
-title: Is sumoopskrba.hr Legit? Trust Signal Check
+title: Is sumoopskrba.hr Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for sumoopskrba.hr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sumoopskrba.hr scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:32:43.744Z'
 finalUrl: 'https://sumoopskrba.hr/'
 reachable: true

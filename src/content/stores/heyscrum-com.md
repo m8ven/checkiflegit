@@ -1,10 +1,10 @@
 ---
 domain: heyscrum.com
 slug: heyscrum-com
-title: Is heyscrum.com Legit? Trust Signal Check
+title: Is heyscrum.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for heyscrum.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  heyscrum.com scores 70/100 on our public trust checks. Established domain —
+  registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:41.937Z'
 finalUrl: 'https://heyscrum.com/'
 reachable: true

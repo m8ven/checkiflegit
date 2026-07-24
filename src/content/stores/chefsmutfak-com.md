@@ -1,10 +1,10 @@
 ---
 domain: chefsmutfak.com
 slug: chefsmutfak-com
-title: Is chefsmutfak.com Legit? Trust Signal Check
+title: Is chefsmutfak.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for chefsmutfak.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chefsmutfak.com scores 73/100 on our public trust checks. Established domain —
+  registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:01.497Z'
 finalUrl: 'https://chefsmutfak.com/'
 reachable: true

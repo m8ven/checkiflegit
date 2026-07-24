@@ -1,10 +1,10 @@
 ---
 domain: stopflex-ccb.com
 slug: stopflex-ccb-com
-title: Is stopflex-ccb.com Legit? Trust Signal Check
+title: Is stopflex-ccb.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for stopflex-ccb.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stopflex-ccb.com scores 100/100 on our public trust checks. Established domain
+  — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:27.731Z'
 finalUrl: 'https://stopflex-ccb.com/'
 reachable: true

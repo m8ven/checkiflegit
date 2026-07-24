@@ -1,10 +1,10 @@
 ---
 domain: cannontruckequipment.com
 slug: cannontruckequipment-com
-title: Is cannontruckequipment.com Legit? Trust Signal Check
+title: Is cannontruckequipment.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for cannontruckequipment.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cannontruckequipment.com scores 76/100 on our public trust checks. Established
+  domain — registered 15 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:30.853Z'
 finalUrl: 'https://www.cannontruckequipment.com/'
 reachable: true

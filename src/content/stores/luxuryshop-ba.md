@@ -1,10 +1,10 @@
 ---
 domain: luxuryshop.ba
 slug: luxuryshop-ba
-title: Is luxuryshop.ba Legit? Trust Signal Check
+title: Is luxuryshop.ba Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for luxuryshop.ba: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  luxuryshop.ba scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:53:47.642Z'
 finalUrl: 'https://luxuryshop.ba/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: obiecte-cult.ro
 slug: obiecte-cult-ro
-title: Is obiecte-cult.ro Legit? Trust Signal Check
+title: Is obiecte-cult.ro Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for obiecte-cult.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  obiecte-cult.ro scores 82/100 on our public trust checks. Established domain —
+  registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:04.355Z'
 finalUrl: 'https://obiecte-cult.ro/'
 reachable: true

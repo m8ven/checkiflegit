@@ -1,10 +1,10 @@
 ---
 domain: foodcolor.in
 slug: foodcolor-in
-title: Is foodcolor.in Legit? Trust Signal Check
+title: Is foodcolor.in Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for foodcolor.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  foodcolor.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:34:18.641Z'
 finalUrl: 'https://foodcolor.in/'
 reachable: true

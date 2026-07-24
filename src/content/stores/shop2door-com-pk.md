@@ -1,10 +1,10 @@
 ---
 domain: shop2door.com.pk
 slug: shop2door-com-pk
-title: Is shop2door.com.pk Legit? Trust Signal Check
+title: Is shop2door.com.pk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for shop2door.com.pk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop2door.com.pk scores 88/100 on our public trust checks. Established domain
+  — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:19.283Z'
 finalUrl: 'https://shop2door.com.pk/'
 reachable: true

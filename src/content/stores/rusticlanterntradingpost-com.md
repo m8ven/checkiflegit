@@ -1,10 +1,11 @@
 ---
 domain: rusticlanterntradingpost.com
 slug: rusticlanterntradingpost-com
-title: Is rusticlanterntradingpost.com Legit? Trust Signal Check
+title: Is rusticlanterntradingpost.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for rusticlanterntradingpost.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rusticlanterntradingpost.com scores 76/100 on our public trust checks.
+  Established domain — registered 6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:59:59.766Z'
 finalUrl: 'https://rusticlanterntradingpost.com/'
 reachable: true

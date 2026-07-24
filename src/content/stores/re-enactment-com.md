@@ -1,10 +1,10 @@
 ---
 domain: re-enactment.com
 slug: re-enactment-com
-title: Is re-enactment.com Legit? Trust Signal Check
+title: Is re-enactment.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for re-enactment.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  re-enactment.com scores 94/100 on our public trust checks. Established domain
+  — registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:05:39.002Z'
 finalUrl: 'https://re-enactment.com/'
 reachable: true

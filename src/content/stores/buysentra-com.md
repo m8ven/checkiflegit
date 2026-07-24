@@ -1,10 +1,10 @@
 ---
 domain: buysentra.com
 slug: buysentra-com
-title: Is buysentra.com Legit? Trust Signal Check
+title: Is buysentra.com Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for buysentra.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  buysentra.com scores 67/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T03:22:17.853Z'
 finalUrl: 'https://buysentra.com/'
 reachable: true

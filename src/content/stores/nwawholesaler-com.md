@@ -1,10 +1,10 @@
 ---
 domain: nwawholesaler.com
 slug: nwawholesaler-com
-title: Is nwawholesaler.com Legit? Trust Signal Check
+title: Is nwawholesaler.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nwawholesaler.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nwawholesaler.com scores 100/100 on our public trust checks. Established
+  domain — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:00.935Z'
 finalUrl: 'https://www.nwawholesaler.com/'
 reachable: true

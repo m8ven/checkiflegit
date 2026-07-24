@@ -1,10 +1,10 @@
 ---
 domain: fashionfabricsclub.com
 slug: fashionfabricsclub-com
-title: Is fashionfabricsclub.com Legit? Trust Signal Check
+title: Is fashionfabricsclub.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for fashionfabricsclub.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fashionfabricsclub.com scores 70/100 on our public trust checks. Established
+  domain — registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:49.420Z'
 finalUrl: 'https://fashionfabricsclub.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pebblelondon.com
 slug: pebblelondon-com
-title: Is pebblelondon.com Legit? Trust Signal Check
+title: Is pebblelondon.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for pebblelondon.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pebblelondon.com scores 70/100 on our public trust checks. Established domain
+  — registered 19.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:55:45.843Z'
 finalUrl: 'https://pebblelondon.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: fleuren.nu
 slug: fleuren-nu
-title: Is fleuren.nu Legit? Trust Signal Check
+title: Is fleuren.nu Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fleuren.nu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fleuren.nu scores 100/100 on our public trust checks. Established domain —
+  registered 17.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:07.599Z'
 finalUrl: 'https://fleuren.nu/'
 reachable: true

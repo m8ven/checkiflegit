@@ -1,10 +1,10 @@
 ---
 domain: auto360.ae
 slug: auto360-ae
-title: Is auto360.ae Legit? Trust Signal Check
+title: Is auto360.ae Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for auto360.ae: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  auto360.ae scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:01:27.869Z'
 finalUrl: 'https://auto360.ae/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: bstextract.com
 slug: bstextract-com
-title: Is bstextract.com Legit? Trust Signal Check
+title: Is bstextract.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bstextract.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bstextract.com scores 88/100 on our public trust checks. Established domain —
+  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:37:53.163Z'
 finalUrl: 'https://bstextract.com/'
 reachable: true

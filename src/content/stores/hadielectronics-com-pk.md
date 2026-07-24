@@ -1,10 +1,10 @@
 ---
 domain: hadielectronics.com.pk
 slug: hadielectronics-com-pk
-title: Is hadielectronics.com.pk Legit? Trust Signal Check
+title: Is hadielectronics.com.pk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hadielectronics.com.pk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hadielectronics.com.pk scores 100/100 on our public trust checks. Established
+  domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:38.783Z'
 finalUrl: 'https://hadielectronics.com.pk/'
 reachable: true

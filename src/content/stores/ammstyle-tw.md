@@ -1,10 +1,10 @@
 ---
 domain: ammstyle.tw
 slug: ammstyle-tw
-title: Is ammstyle.tw Legit? Trust Signal Check
+title: Is ammstyle.tw Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ammstyle.tw: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ammstyle.tw scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:12:04.248Z'
 finalUrl: 'https://www.ammstyle.tw/'
 reachable: true

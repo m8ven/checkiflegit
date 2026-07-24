@@ -1,10 +1,10 @@
 ---
 domain: ourpaintbynumbers.com
 slug: ourpaintbynumbers-com
-title: Is ourpaintbynumbers.com Legit? Trust Signal Check
+title: Is ourpaintbynumbers.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for ourpaintbynumbers.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ourpaintbynumbers.com scores 73/100 on our public trust checks. Established
+  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:17.791Z'
 finalUrl: 'https://ourpaintbynumbers.com/'
 reachable: true

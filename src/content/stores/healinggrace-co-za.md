@@ -1,10 +1,10 @@
 ---
 domain: healinggrace.co.za
 slug: healinggrace-co-za
-title: Is healinggrace.co.za Legit? Trust Signal Check
+title: Is healinggrace.co.za Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for healinggrace.co.za: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  healinggrace.co.za scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:00:25.957Z'
 finalUrl: 'https://healinggrace.co.za/'
 reachable: true

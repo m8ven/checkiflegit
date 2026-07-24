@@ -1,10 +1,10 @@
 ---
 domain: sculptdtla.com
 slug: sculptdtla-com
-title: Is sculptdtla.com Legit? Trust Signal Check
+title: Is sculptdtla.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sculptdtla.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sculptdtla.com scores 88/100 on our public trust checks. Established domain —
+  registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:05:12.849Z'
 finalUrl: 'https://sculptdtla.com/'
 reachable: true

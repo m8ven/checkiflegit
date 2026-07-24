@@ -1,10 +1,10 @@
 ---
 domain: meda.lt
 slug: meda-lt
-title: Is meda.lt Legit? Trust Signal Check
+title: Is meda.lt Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for meda.lt: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  meda.lt scores 88/100 on our public trust checks. Established domain —
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:15.509Z'
 finalUrl: 'https://meda.lt/'
 reachable: true

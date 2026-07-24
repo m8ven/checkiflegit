@@ -1,10 +1,10 @@
 ---
 domain: coutellerie-ocean.fr
 slug: coutellerie-ocean-fr
-title: Is coutellerie-ocean.fr Legit? Trust Signal Check
+title: Is coutellerie-ocean.fr Legit? Trust Score 67/100
 description: >-
-  An automated trust-signal check for coutellerie-ocean.fr: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  coutellerie-ocean.fr scores 67/100 on our public trust checks. No links to
+  major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T03:39:13.532Z'
 finalUrl: 'https://coutellerie-ocean.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: eng.etnoyasna.com
 slug: eng-etnoyasna-com
-title: Is eng.etnoyasna.com Legit? Trust Signal Check
+title: Is eng.etnoyasna.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for eng.etnoyasna.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eng.etnoyasna.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:10:49.872Z'
 finalUrl: 'https://eng.etnoyasna.com/'
 reachable: true

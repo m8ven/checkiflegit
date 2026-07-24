@@ -1,10 +1,10 @@
 ---
 domain: organism.com.tw
 slug: organism-com-tw
-title: Is organism.com.tw Legit? Trust Signal Check
+title: Is organism.com.tw Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for organism.com.tw: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  organism.com.tw scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:40:10.896Z'
 finalUrl: 'https://www.organism.com.tw/'
 reachable: true

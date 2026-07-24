@@ -1,10 +1,10 @@
 ---
 domain: legnideltitano.com
 slug: legnideltitano-com
-title: Is legnideltitano.com Legit? Trust Signal Check
+title: Is legnideltitano.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for legnideltitano.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  legnideltitano.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:01:58.545Z'
 finalUrl: 'https://www.legnideltitano.com/'
 reachable: true

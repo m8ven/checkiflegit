@@ -1,10 +1,10 @@
 ---
 domain: edenland.info
 slug: edenland-info
-title: Is edenland.info Legit? Trust Signal Check
+title: Is edenland.info Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for edenland.info: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  edenland.info scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:01:55.669Z'
 finalUrl: 'https://www.edenland.info/'
 reachable: true

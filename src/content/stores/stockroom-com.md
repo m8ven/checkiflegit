@@ -1,10 +1,10 @@
 ---
 domain: stockroom.com
 slug: stockroom-com
-title: Is stockroom.com Legit? Trust Signal Check
+title: Is stockroom.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for stockroom.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stockroom.com scores 100/100 on our public trust checks. Established domain —
+  registered 30.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:42.469Z'
 finalUrl: 'https://stockroom.com/'
 reachable: true

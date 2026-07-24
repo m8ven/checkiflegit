@@ -1,11 +1,10 @@
 ---
 domain: tests.machon-galil.co.il
 slug: tests-machon-galil-co-il
-title: Is tests.machon-galil.co.il Legit? Trust Signal Check
+title: Is tests.machon-galil.co.il Legit? Trust Score 0/100
 description: >-
-  An automated trust-signal check for tests.machon-galil.co.il: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  tests.machon-galil.co.il scores 0/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T15:08:31.169Z'
 finalUrl: 'https://tests.machon-galil.co.il/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: happyendingmassage.org
 slug: happyendingmassage-org
-title: Is happyendingmassage.org Legit? Trust Signal Check
+title: Is happyendingmassage.org Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for happyendingmassage.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  happyendingmassage.org scores 82/100 on our public trust checks. Established
+  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:21.515Z'
 finalUrl: 'https://happyendingmassage.org/vi/'
 reachable: true

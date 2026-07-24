@@ -1,10 +1,10 @@
 ---
 domain: letschert.net
 slug: letschert-net
-title: Is letschert.net Legit? Trust Signal Check
+title: Is letschert.net Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for letschert.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  letschert.net scores 73/100 on our public trust checks. Established domain —
+  registered 25.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:11:20.541Z'
 finalUrl: 'https://letschert.net/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: samlerborsen.no
 slug: samlerborsen-no
-title: Is samlerborsen.no Legit? Trust Signal Check
+title: Is samlerborsen.no Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for samlerborsen.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  samlerborsen.no scores 82/100 on our public trust checks. Established domain —
+  registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:06.221Z'
 finalUrl: 'https://samlerborsen.no/'
 reachable: true

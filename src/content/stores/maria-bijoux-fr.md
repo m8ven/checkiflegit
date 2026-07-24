@@ -1,10 +1,10 @@
 ---
 domain: maria-bijoux.fr
 slug: maria-bijoux-fr
-title: Is maria-bijoux.fr Legit? Trust Signal Check
+title: Is maria-bijoux.fr Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for maria-bijoux.fr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  maria-bijoux.fr scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T03:54:14.807Z'
 finalUrl: 'https://maria-bijoux.fr/'
 reachable: true

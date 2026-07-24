@@ -1,10 +1,10 @@
 ---
 domain: techmedico.se
 slug: techmedico-se
-title: Is techmedico.se Legit? Trust Signal Check
+title: Is techmedico.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for techmedico.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  techmedico.se scores 88/100 on our public trust checks. Established domain —
+  registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:28.566Z'
 finalUrl: 'https://techmedico.se/'
 reachable: true

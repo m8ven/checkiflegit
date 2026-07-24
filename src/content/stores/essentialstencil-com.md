@@ -1,10 +1,10 @@
 ---
 domain: essentialstencil.com
 slug: essentialstencil-com
-title: Is essentialstencil.com Legit? Trust Signal Check
+title: Is essentialstencil.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for essentialstencil.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  essentialstencil.com scores 88/100 on our public trust checks. Established
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:00.768Z'
 finalUrl: 'https://essentialstencil.com/'
 reachable: true

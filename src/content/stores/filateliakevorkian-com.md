@@ -1,10 +1,10 @@
 ---
 domain: filateliakevorkian.com
 slug: filateliakevorkian-com
-title: Is filateliakevorkian.com Legit? Trust Signal Check
+title: Is filateliakevorkian.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for filateliakevorkian.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  filateliakevorkian.com scores 88/100 on our public trust checks. Established
+  domain — registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:01.289Z'
 finalUrl: 'https://filateliakevorkian.com/'
 reachable: true

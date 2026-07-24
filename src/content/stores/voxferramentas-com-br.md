@@ -1,11 +1,10 @@
 ---
 domain: voxferramentas.com.br
 slug: voxferramentas-com-br
-title: Is voxferramentas.com.br Legit? Trust Signal Check
+title: Is voxferramentas.com.br Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for voxferramentas.com.br: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  voxferramentas.com.br scores 44/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:48:59.653Z'
 finalUrl: 'https://voxferramentas.com.br/'
 reachable: true

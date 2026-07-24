@@ -1,10 +1,10 @@
 ---
 domain: lelaundry.in
 slug: lelaundry-in
-title: Is lelaundry.in Legit? Trust Signal Check
+title: Is lelaundry.in Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for lelaundry.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lelaundry.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:41:53.220Z'
 finalUrl: 'https://lelaundry.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: auto-italia.co.uk
 slug: auto-italia-co-uk
-title: Is auto-italia.co.uk Legit? Trust Signal Check
+title: Is auto-italia.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for auto-italia.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  auto-italia.co.uk scores 73/100 on our public trust checks. Established domain
+  — registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:58.067Z'
 finalUrl: 'https://www.auto-italia.co.uk/'
 reachable: true

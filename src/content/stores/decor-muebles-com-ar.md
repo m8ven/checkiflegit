@@ -1,11 +1,10 @@
 ---
 domain: decor-muebles.com.ar
 slug: decor-muebles-com-ar
-title: Is decor-muebles.com.ar Legit? Trust Signal Check
+title: Is decor-muebles.com.ar Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for decor-muebles.com.ar: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  decor-muebles.com.ar scores 40/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T14:52:56.499Z'
 finalUrl: 'https://decor-muebles.com.ar/'
 reachable: true

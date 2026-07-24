@@ -1,10 +1,11 @@
 ---
 domain: lotaria-sa.gr
 slug: lotaria-sa-gr
-title: Is lotaria-sa.gr Legit? Trust Signal Check
+title: Is lotaria-sa.gr Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for lotaria-sa.gr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  lotaria-sa.gr scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:12:52.525Z'
 finalUrl: 'https://lotaria-sa.gr/'
 reachable: true

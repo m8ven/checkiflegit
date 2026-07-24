@@ -1,10 +1,10 @@
 ---
 domain: tempario.it
 slug: tempario-it
-title: Is tempario.it Legit? Trust Signal Check
+title: Is tempario.it Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tempario.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tempario.it scores 73/100 on our public trust checks. Established domain —
+  registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:50.331Z'
 finalUrl: 'https://tempario.it/'
 reachable: true

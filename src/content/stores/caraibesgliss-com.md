@@ -1,10 +1,10 @@
 ---
 domain: caraibesgliss.com
 slug: caraibesgliss-com
-title: Is caraibesgliss.com Legit? Trust Signal Check
+title: Is caraibesgliss.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for caraibesgliss.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  caraibesgliss.com scores 82/100 on our public trust checks. Established domain
+  — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:22.315Z'
 finalUrl: 'https://caraibesgliss.com/'
 reachable: true

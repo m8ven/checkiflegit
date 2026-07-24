@@ -1,10 +1,10 @@
 ---
 domain: baynuts.com.au
 slug: baynuts-com-au
-title: Is baynuts.com.au Legit? Trust Signal Check
+title: Is baynuts.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for baynuts.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  baynuts.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:02:01.301Z'
 finalUrl: 'https://baynuts.com.au/'
 reachable: true

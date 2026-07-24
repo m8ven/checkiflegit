@@ -1,10 +1,10 @@
 ---
 domain: joyoptions.org
 slug: joyoptions-org
-title: Is joyoptions.org Legit? Trust Signal Check
+title: Is joyoptions.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for joyoptions.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  joyoptions.org scores 88/100 on our public trust checks. Established domain —
+  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:58.692Z'
 finalUrl: 'https://joyoptions.org/'
 reachable: true

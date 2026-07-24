@@ -1,10 +1,10 @@
 ---
 domain: jedto.com
 slug: jedto-com
-title: Is jedto.com Legit? Trust Signal Check
+title: Is jedto.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for jedto.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jedto.com scores 76/100 on our public trust checks. Established domain —
+  registered 9.2 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:53:15.197Z'
 finalUrl: 'http://jedto.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: grandir.app
 slug: grandir-app
-title: Is grandir.app Legit? Trust Signal Check
+title: Is grandir.app Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for grandir.app: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  grandir.app scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:14:08.352Z'
 finalUrl: 'https://grandir.app/'
 reachable: true

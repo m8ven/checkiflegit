@@ -1,10 +1,10 @@
 ---
 domain: showthecrow.com
 slug: showthecrow-com
-title: Is showthecrow.com Legit? Trust Signal Check
+title: Is showthecrow.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for showthecrow.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  showthecrow.com scores 100/100 on our public trust checks. Established domain
+  — registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:19.469Z'
 finalUrl: 'https://www.showthecrow.com/'
 reachable: true

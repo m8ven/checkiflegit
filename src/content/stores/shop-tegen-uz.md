@@ -1,10 +1,10 @@
 ---
 domain: shop.tegen.uz
 slug: shop-tegen-uz
-title: Is shop.tegen.uz Legit? Trust Signal Check
+title: Is shop.tegen.uz Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for shop.tegen.uz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.tegen.uz scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:56:55.820Z'
 finalUrl: 'https://shop.tegen.uz/'
 reachable: true

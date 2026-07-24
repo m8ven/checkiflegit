@@ -1,10 +1,10 @@
 ---
 domain: lagardeniablu.it
 slug: lagardeniablu-it
-title: Is lagardeniablu.it Legit? Trust Signal Check
+title: Is lagardeniablu.it Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for lagardeniablu.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lagardeniablu.it scores 70/100 on our public trust checks. Established domain
+  — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:31.745Z'
 finalUrl: 'https://lagardeniablu.it/'
 reachable: true

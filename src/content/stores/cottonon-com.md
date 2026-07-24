@@ -1,10 +1,10 @@
 ---
 domain: cottonon.com
 slug: cottonon-com
-title: Is cottonon.com Legit? Trust Signal Check
+title: Is cottonon.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for cottonon.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cottonon.com scores 82/100 on our public trust checks. Established domain —
+  registered 24.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:31.500Z'
 finalUrl: 'https://cottonon.com/US/'
 reachable: true

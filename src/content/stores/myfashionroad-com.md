@@ -1,10 +1,10 @@
 ---
 domain: myfashionroad.com
 slug: myfashionroad-com
-title: Is myfashionroad.com Legit? Trust Signal Check
+title: Is myfashionroad.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for myfashionroad.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  myfashionroad.com scores 94/100 on our public trust checks. Established domain
+  — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:11.065Z'
 finalUrl: 'https://myfashionroad.com/'
 reachable: true

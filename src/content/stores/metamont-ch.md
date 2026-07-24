@@ -1,10 +1,10 @@
 ---
 domain: metamont.ch
 slug: metamont-ch
-title: Is metamont.ch Legit? Trust Signal Check
+title: Is metamont.ch Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for metamont.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  metamont.ch scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:26:36.128Z'
 finalUrl: 'https://www.metamont.ch/'
 reachable: true

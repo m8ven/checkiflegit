@@ -1,10 +1,11 @@
 ---
 domain: villavejbod.dk
 slug: villavejbod-dk
-title: Is villavejbod.dk Legit? Trust Signal Check
+title: Is villavejbod.dk Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for villavejbod.dk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  villavejbod.dk scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:09:00.198Z'
 finalUrl: 'https://villavejbod.dk/'
 reachable: true

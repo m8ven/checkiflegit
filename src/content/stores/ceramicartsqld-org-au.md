@@ -1,10 +1,10 @@
 ---
 domain: ceramicartsqld.org.au
 slug: ceramicartsqld-org-au
-title: Is ceramicartsqld.org.au Legit? Trust Signal Check
+title: Is ceramicartsqld.org.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ceramicartsqld.org.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ceramicartsqld.org.au scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:44.197Z'
 finalUrl: 'https://ceramicartsqld.org.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: icmtrade.com.ua
 slug: icmtrade-com-ua
-title: Is icmtrade.com.ua Legit? Trust Signal Check
+title: Is icmtrade.com.ua Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for icmtrade.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  icmtrade.com.ua scores 82/100 on our public trust checks. Established domain —
+  registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:16:22.244Z'
 finalUrl: 'https://icmtrade.com.ua/'
 reachable: true

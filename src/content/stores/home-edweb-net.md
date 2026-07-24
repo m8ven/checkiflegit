@@ -1,10 +1,10 @@
 ---
 domain: home.edweb.net
 slug: home-edweb-net
-title: Is home.edweb.net Legit? Trust Signal Check
+title: Is home.edweb.net Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for home.edweb.net: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  home.edweb.net scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:35:17.428Z'
 finalUrl: 'https://home.edweb.net/'
 reachable: true

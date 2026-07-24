@@ -1,10 +1,11 @@
 ---
 domain: notonmusic.com
 slug: notonmusic-com
-title: Is notonmusic.com Legit? Trust Signal Check
+title: Is notonmusic.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for notonmusic.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  notonmusic.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:00:30.074Z'
 finalUrl: 'https://notonmusic.com/'
 reachable: true

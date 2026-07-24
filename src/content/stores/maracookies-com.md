@@ -1,10 +1,10 @@
 ---
 domain: maracookies.com
 slug: maracookies-com
-title: Is maracookies.com Legit? Trust Signal Check
+title: Is maracookies.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for maracookies.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  maracookies.com scores 100/100 on our public trust checks. Established domain
+  — registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:35.886Z'
 finalUrl: 'https://www.maracookies.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: heisenbergreport.com
 slug: heisenbergreport-com
-title: Is heisenbergreport.com Legit? Trust Signal Check
+title: Is heisenbergreport.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for heisenbergreport.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  heisenbergreport.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:45:41.010Z'
 finalUrl: 'https://heisenbergreport.com/'
 reachable: true

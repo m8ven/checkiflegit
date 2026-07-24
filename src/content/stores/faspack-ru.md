@@ -1,10 +1,10 @@
 ---
 domain: faspack.ru
 slug: faspack-ru
-title: Is faspack.ru Legit? Trust Signal Check
+title: Is faspack.ru Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for faspack.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  faspack.ru scores 82/100 on our public trust checks. Established domain —
+  registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:26.444Z'
 finalUrl: 'https://faspack.ru/'
 reachable: true

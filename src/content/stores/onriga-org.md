@@ -1,10 +1,10 @@
 ---
 domain: onriga.org
 slug: onriga-org
-title: Is onriga.org Legit? Trust Signal Check
+title: Is onriga.org Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for onriga.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  onriga.org scores 73/100 on our public trust checks. Established domain —
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:46.909Z'
 finalUrl: 'https://onriga.org/'
 reachable: true

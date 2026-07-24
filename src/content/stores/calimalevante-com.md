@@ -1,10 +1,10 @@
 ---
 domain: calimalevante.com
 slug: calimalevante-com
-title: Is calimalevante.com Legit? Trust Signal Check
+title: Is calimalevante.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for calimalevante.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  calimalevante.com scores 94/100 on our public trust checks. Established domain
+  — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:22.843Z'
 finalUrl: 'https://www.calimalevante.com/'
 reachable: true

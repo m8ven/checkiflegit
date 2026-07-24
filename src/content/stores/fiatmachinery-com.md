@@ -1,10 +1,10 @@
 ---
 domain: fiatmachinery.com
 slug: fiatmachinery-com
-title: Is fiatmachinery.com Legit? Trust Signal Check
+title: Is fiatmachinery.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for fiatmachinery.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fiatmachinery.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T14:56:43.685Z'
 finalUrl: 'https://fiatmachinery.com/'
 reachable: true

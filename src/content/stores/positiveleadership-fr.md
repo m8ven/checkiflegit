@@ -1,10 +1,10 @@
 ---
 domain: positiveleadership.fr
 slug: positiveleadership-fr
-title: Is positiveleadership.fr Legit? Trust Signal Check
+title: Is positiveleadership.fr Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for positiveleadership.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  positiveleadership.fr scores 76/100 on our public trust checks. Established
+  domain — registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:14.473Z'
 finalUrl: 'https://positiveleadership.fr/'
 reachable: true

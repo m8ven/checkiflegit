@@ -1,10 +1,10 @@
 ---
 domain: climasdetablero.com.mx
 slug: climasdetablero-com-mx
-title: Is climasdetablero.com.mx Legit? Trust Signal Check
+title: Is climasdetablero.com.mx Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for climasdetablero.com.mx: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  climasdetablero.com.mx scores 100/100 on our public trust checks. Established
+  domain — registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:38.770Z'
 finalUrl: 'https://climasdetablero.com.mx/'
 reachable: true

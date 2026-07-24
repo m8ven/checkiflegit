@@ -1,10 +1,10 @@
 ---
 domain: almercatino.fr
 slug: almercatino-fr
-title: Is almercatino.fr Legit? Trust Signal Check
+title: Is almercatino.fr Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for almercatino.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  almercatino.fr scores 85/100 on our public trust checks. Established domain —
+  registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:09.142Z'
 finalUrl: 'https://almercatino.fr/'
 reachable: true

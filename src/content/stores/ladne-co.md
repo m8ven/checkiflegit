@@ -1,10 +1,10 @@
 ---
 domain: ladne.co
 slug: ladne-co
-title: Is ladne.co Legit? Trust Signal Check
+title: Is ladne.co Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ladne.co: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ladne.co scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:47:31.771Z'
 finalUrl: 'https://ladne.co/'
 reachable: true

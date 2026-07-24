@@ -1,10 +1,10 @@
 ---
 domain: ehcwaldkraiburg.com
 slug: ehcwaldkraiburg-com
-title: Is ehcwaldkraiburg.com Legit? Trust Signal Check
+title: Is ehcwaldkraiburg.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ehcwaldkraiburg.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ehcwaldkraiburg.com scores 76/100 on our public trust checks. Established
+  domain — registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:59.109Z'
 finalUrl: 'https://ehcwaldkraiburg.com/'
 reachable: true

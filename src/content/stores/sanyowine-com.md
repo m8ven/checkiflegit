@@ -1,10 +1,10 @@
 ---
 domain: sanyowine.com
 slug: sanyowine-com
-title: Is sanyowine.com Legit? Trust Signal Check
+title: Is sanyowine.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for sanyowine.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sanyowine.com scores 76/100 on our public trust checks. Established domain —
+  registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:08.358Z'
 finalUrl: 'https://sanyowine.com/'
 reachable: true

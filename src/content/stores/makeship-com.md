@@ -1,10 +1,10 @@
 ---
 domain: makeship.com
 slug: makeship-com
-title: Is makeship.com Legit? Trust Signal Check
+title: Is makeship.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for makeship.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  makeship.com scores 88/100 on our public trust checks. Established domain —
+  registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:30.954Z'
 finalUrl: 'https://www.makeship.com/'
 reachable: true

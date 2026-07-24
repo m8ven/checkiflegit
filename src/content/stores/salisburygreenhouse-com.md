@@ -1,10 +1,10 @@
 ---
 domain: salisburygreenhouse.com
 slug: salisburygreenhouse-com
-title: Is salisburygreenhouse.com Legit? Trust Signal Check
+title: Is salisburygreenhouse.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for salisburygreenhouse.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  salisburygreenhouse.com scores 100/100 on our public trust checks. Has a
+  contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:01:33.850Z'
 finalUrl: 'https://salisburygreenhouse.com/'
 reachable: true

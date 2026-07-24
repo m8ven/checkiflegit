@@ -1,10 +1,10 @@
 ---
 domain: gstarcad.shop
 slug: gstarcad-shop
-title: Is gstarcad.shop Legit? Trust Signal Check
+title: Is gstarcad.shop Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for gstarcad.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gstarcad.shop scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:59:36.951Z'
 finalUrl: 'https://www.gstarcad.shop/'
 reachable: true

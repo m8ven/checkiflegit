@@ -1,10 +1,10 @@
 ---
 domain: efficientpumps.co.za
 slug: efficientpumps-co-za
-title: Is efficientpumps.co.za Legit? Trust Signal Check
+title: Is efficientpumps.co.za Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for efficientpumps.co.za: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  efficientpumps.co.za scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:40:58.439Z'
 finalUrl: 'https://efficientpumps.co.za/'
 reachable: true

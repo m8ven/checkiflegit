@@ -1,10 +1,10 @@
 ---
 domain: eliterent.com
 slug: eliterent-com
-title: Is eliterent.com Legit? Trust Signal Check
+title: Is eliterent.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for eliterent.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eliterent.com scores 88/100 on our public trust checks. Established domain —
+  registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:07.381Z'
 finalUrl: 'https://www.eliterent.com/'
 reachable: true

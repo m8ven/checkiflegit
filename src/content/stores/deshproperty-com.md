@@ -1,10 +1,10 @@
 ---
 domain: deshproperty.com
 slug: deshproperty-com
-title: Is deshproperty.com Legit? Trust Signal Check
+title: Is deshproperty.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for deshproperty.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  deshproperty.com scores 73/100 on our public trust checks. Established domain
+  — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:53.185Z'
 finalUrl: 'https://deshproperty.com/'
 reachable: true

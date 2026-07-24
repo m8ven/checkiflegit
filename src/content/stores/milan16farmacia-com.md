@@ -1,10 +1,10 @@
 ---
 domain: milan16farmacia.com
 slug: milan16farmacia-com
-title: Is milan16farmacia.com Legit? Trust Signal Check
+title: Is milan16farmacia.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for milan16farmacia.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  milan16farmacia.com scores 100/100 on our public trust checks. Established
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:41.124Z'
 finalUrl: 'https://milan16farmacia.com/'
 reachable: true

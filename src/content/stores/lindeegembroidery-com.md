@@ -1,10 +1,10 @@
 ---
 domain: lindeegembroidery.com
 slug: lindeegembroidery-com
-title: Is lindeegembroidery.com Legit? Trust Signal Check
+title: Is lindeegembroidery.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lindeegembroidery.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lindeegembroidery.com scores 88/100 on our public trust checks. Established
+  domain — registered 17.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:29.858Z'
 finalUrl: 'https://lindeegembroidery.com/'
 reachable: true

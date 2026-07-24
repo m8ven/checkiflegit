@@ -1,10 +1,10 @@
 ---
 domain: frisianknitting.com
 slug: frisianknitting-com
-title: Is frisianknitting.com Legit? Trust Signal Check
+title: Is frisianknitting.com Legit? Trust Score 28/100
 description: >-
-  An automated trust-signal check for frisianknitting.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  frisianknitting.com scores 28/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T14:51:20.352Z'
 finalUrl: 'https://www.frisianknitting.com/'
 reachable: true

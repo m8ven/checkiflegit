@@ -1,10 +1,10 @@
 ---
 domain: metalartwall.com
 slug: metalartwall-com
-title: Is metalartwall.com Legit? Trust Signal Check
+title: Is metalartwall.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for metalartwall.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  metalartwall.com scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:52:30.939Z'
 finalUrl: 'https://metalartwall.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: shop.catnautic.com
 slug: shop-catnautic-com
-title: Is shop.catnautic.com Legit? Trust Signal Check
+title: Is shop.catnautic.com Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for shop.catnautic.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  shop.catnautic.com scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:55:39.239Z'
 finalUrl: 'https://shop.catnautic.com/'
 reachable: true

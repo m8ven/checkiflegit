@@ -1,10 +1,10 @@
 ---
 domain: daycadivi.com
 slug: daycadivi-com
-title: Is daycadivi.com Legit? Trust Signal Check
+title: Is daycadivi.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for daycadivi.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  daycadivi.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T03:22:07.881Z'
 finalUrl: 'https://daycadivi.com/'
 reachable: true

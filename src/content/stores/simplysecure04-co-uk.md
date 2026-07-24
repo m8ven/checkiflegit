@@ -1,10 +1,10 @@
 ---
 domain: simplysecure04.co.uk
 slug: simplysecure04-co-uk
-title: Is simplysecure04.co.uk Legit? Trust Signal Check
+title: Is simplysecure04.co.uk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for simplysecure04.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  simplysecure04.co.uk scores 82/100 on our public trust checks. Established
+  domain — registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:22.481Z'
 finalUrl: 'https://www.simplysecure04.co.uk/'
 reachable: true

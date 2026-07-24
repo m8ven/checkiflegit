@@ -1,10 +1,10 @@
 ---
 domain: caquetaenbici.com
 slug: caquetaenbici-com
-title: Is caquetaenbici.com Legit? Trust Signal Check
+title: Is caquetaenbici.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for caquetaenbici.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  caquetaenbici.com scores 25/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T14:50:16.159Z'
 finalUrl: 'https://caquetaenbici.com/'
 reachable: true

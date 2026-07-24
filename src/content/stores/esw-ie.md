@@ -1,10 +1,10 @@
 ---
 domain: esw.ie
 slug: esw-ie
-title: Is esw.ie Legit? Trust Signal Check
+title: Is esw.ie Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for esw.ie: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  esw.ie scores 88/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:16.545Z'
 finalUrl: 'https://www.esw.ie/'
 reachable: true

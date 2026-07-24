@@ -1,10 +1,10 @@
 ---
 domain: madonieat.com
 slug: madonieat-com
-title: Is madonieat.com Legit? Trust Signal Check
+title: Is madonieat.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for madonieat.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  madonieat.com scores 88/100 on our public trust checks. Established domain —
+  registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:35.436Z'
 finalUrl: 'https://www.madonieat.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: rx.pawsomepet.co
 slug: rx-pawsomepet-co
-title: Is rx.pawsomepet.co Legit? Trust Signal Check
+title: Is rx.pawsomepet.co Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rx.pawsomepet.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rx.pawsomepet.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:00:09.791Z'
 finalUrl: 'https://rx.pawsomepet.co/'
 reachable: true

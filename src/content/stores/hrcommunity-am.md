@@ -1,10 +1,10 @@
 ---
 domain: hrcommunity.am
 slug: hrcommunity-am
-title: Is hrcommunity.am Legit? Trust Signal Check
+title: Is hrcommunity.am Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for hrcommunity.am: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hrcommunity.am scores 88/100 on our public trust checks. Established domain —
+  registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:37.312Z'
 finalUrl: 'https://hrcommunity.am/en/'
 reachable: true

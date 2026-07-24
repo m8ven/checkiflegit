@@ -1,10 +1,10 @@
 ---
 domain: yrkesbilprodukter.no
 slug: yrkesbilprodukter-no
-title: Is yrkesbilprodukter.no Legit? Trust Signal Check
+title: Is yrkesbilprodukter.no Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for yrkesbilprodukter.no: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  yrkesbilprodukter.no scores 70/100 on our public trust checks. Established
+  domain — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:47.064Z'
 finalUrl: 'https://yrkesbilprodukter.no/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: autotherm.ro
 slug: autotherm-ro
-title: Is autotherm.ro Legit? Trust Signal Check
+title: Is autotherm.ro Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for autotherm.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  autotherm.ro scores 73/100 on our public trust checks. Established domain —
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:26.389Z'
 finalUrl: 'https://autotherm.ro/'
 reachable: true

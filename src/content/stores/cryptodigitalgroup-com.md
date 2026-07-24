@@ -1,10 +1,10 @@
 ---
 domain: cryptodigitalgroup.com
 slug: cryptodigitalgroup-com
-title: Is cryptodigitalgroup.com Legit? Trust Signal Check
+title: Is cryptodigitalgroup.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for cryptodigitalgroup.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cryptodigitalgroup.com scores 76/100 on our public trust checks. Established
+  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:39.436Z'
 finalUrl: 'https://www.cryptodigitalgroup.com/'
 reachable: true

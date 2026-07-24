@@ -1,10 +1,10 @@
 ---
 domain: skillboostplatform.com
 slug: skillboostplatform-com
-title: Is skillboostplatform.com Legit? Trust Signal Check
+title: Is skillboostplatform.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for skillboostplatform.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  skillboostplatform.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:17.782Z'
 finalUrl: 'https://skillboostplatform.com/'
 reachable: true

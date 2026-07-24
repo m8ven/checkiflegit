@@ -1,10 +1,10 @@
 ---
 domain: menaibaptist.org.au
 slug: menaibaptist-org-au
-title: Is menaibaptist.org.au Legit? Trust Signal Check
+title: Is menaibaptist.org.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for menaibaptist.org.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  menaibaptist.org.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:54:56.031Z'
 finalUrl: 'https://menaibaptist.org.au/'
 reachable: true

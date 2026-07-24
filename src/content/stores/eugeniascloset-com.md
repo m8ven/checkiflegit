@@ -1,10 +1,10 @@
 ---
 domain: eugeniascloset.com
 slug: eugeniascloset-com
-title: Is eugeniascloset.com Legit? Trust Signal Check
+title: Is eugeniascloset.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for eugeniascloset.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  eugeniascloset.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:44:13.155Z'
 finalUrl: 'https://eugeniascloset.com/'
 reachable: true

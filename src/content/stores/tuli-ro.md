@@ -1,10 +1,10 @@
 ---
 domain: tuli.ro
 slug: tuli-ro
-title: Is tuli.ro Legit? Trust Signal Check
+title: Is tuli.ro Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tuli.ro: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  tuli.ro scores 76/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:14:29.362Z'
 finalUrl: 'https://tuli.ro/'
 reachable: true

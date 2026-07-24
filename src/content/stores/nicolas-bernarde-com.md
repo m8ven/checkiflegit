@@ -1,10 +1,10 @@
 ---
 domain: nicolas-bernarde.com
 slug: nicolas-bernarde-com
-title: Is nicolas-bernarde.com Legit? Trust Signal Check
+title: Is nicolas-bernarde.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nicolas-bernarde.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nicolas-bernarde.com scores 100/100 on our public trust checks. Established
+  domain — registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:20.615Z'
 finalUrl: 'https://nicolas-bernarde.com/'
 reachable: true

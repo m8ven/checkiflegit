@@ -1,10 +1,10 @@
 ---
 domain: ugsmag.com
 slug: ugsmag-com
-title: Is ugsmag.com Legit? Trust Signal Check
+title: Is ugsmag.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ugsmag.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ugsmag.com scores 76/100 on our public trust checks. Established domain —
+  registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:10.836Z'
 finalUrl: 'https://ugsmag.com/'
 reachable: true

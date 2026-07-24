@@ -1,10 +1,10 @@
 ---
 domain: blockx.be
 slug: blockx-be
-title: Is blockx.be Legit? Trust Signal Check
+title: Is blockx.be Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for blockx.be: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  blockx.be scores 64/100 on our public trust checks. No public contact details
+  detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T03:00:43.704Z'
 finalUrl: 'https://blockx.be/'
 reachable: true

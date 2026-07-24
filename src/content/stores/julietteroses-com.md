@@ -1,10 +1,10 @@
 ---
 domain: julietteroses.com
 slug: julietteroses-com
-title: Is julietteroses.com Legit? Trust Signal Check
+title: Is julietteroses.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for julietteroses.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  julietteroses.com scores 43/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:16:24.929Z'
 finalUrl: 'https://julietteroses.com/'
 reachable: true

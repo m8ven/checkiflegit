@@ -1,11 +1,10 @@
 ---
 domain: shorashim.hesedtikva32.ru
 slug: shorashim-hesedtikva32-ru
-title: Is shorashim.hesedtikva32.ru Legit? Trust Signal Check
+title: Is shorashim.hesedtikva32.ru Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for shorashim.hesedtikva32.ru: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  shorashim.hesedtikva32.ru scores 44/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T12:01:17.696Z'
 finalUrl: 'https://shorashim.hesedtikva32.ru/'
 reachable: true

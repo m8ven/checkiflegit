@@ -1,10 +1,10 @@
 ---
 domain: bodasnm.com
 slug: bodasnm-com
-title: Is bodasnm.com Legit? Trust Signal Check
+title: Is bodasnm.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bodasnm.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bodasnm.com scores 82/100 on our public trust checks. Established domain —
+  registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:53.840Z'
 finalUrl: 'https://bodasnm.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: marketinglawyers.io
 slug: marketinglawyers-io
-title: Is marketinglawyers.io Legit? Trust Signal Check
+title: Is marketinglawyers.io Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for marketinglawyers.io: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  marketinglawyers.io scores 88/100 on our public trust checks. Established
+  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:25.313Z'
 finalUrl: 'https://marketinglawyers.io/'
 reachable: true

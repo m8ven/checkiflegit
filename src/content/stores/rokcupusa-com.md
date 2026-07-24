@@ -1,10 +1,10 @@
 ---
 domain: rokcupusa.com
 slug: rokcupusa-com
-title: Is rokcupusa.com Legit? Trust Signal Check
+title: Is rokcupusa.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rokcupusa.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rokcupusa.com scores 88/100 on our public trust checks. Established domain —
+  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:30:06.356Z'
 finalUrl: 'https://rokcupusa.com/'
 reachable: true

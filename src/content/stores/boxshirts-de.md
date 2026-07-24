@@ -1,10 +1,10 @@
 ---
 domain: boxshirts.de
 slug: boxshirts-de
-title: Is boxshirts.de Legit? Trust Signal Check
+title: Is boxshirts.de Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for boxshirts.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  boxshirts.de scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:20:20.559Z'
 finalUrl: 'https://boxshirts.de/'
 reachable: true

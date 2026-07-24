@@ -1,10 +1,10 @@
 ---
 domain: mystoresavvy.com
 slug: mystoresavvy-com
-title: Is mystoresavvy.com Legit? Trust Signal Check
+title: Is mystoresavvy.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mystoresavvy.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mystoresavvy.com scores 100/100 on our public trust checks. Established domain
+  — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:17.169Z'
 finalUrl: 'https://mystoresavvy.com/'
 reachable: true

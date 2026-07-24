@@ -1,10 +1,11 @@
 ---
 domain: charitychristianfellowship.org
 slug: charitychristianfellowship-org
-title: Is charitychristianfellowship.org Legit? Trust Signal Check
+title: Is charitychristianfellowship.org Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for charitychristianfellowship.org: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  charitychristianfellowship.org scores 73/100 on our public trust checks.
+  Established domain — registered 18.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:28:45.908Z'
 finalUrl: 'https://charitychristianfellowship.org/'
 reachable: true

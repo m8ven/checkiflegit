@@ -1,10 +1,10 @@
 ---
 domain: thepackagingedge.com
 slug: thepackagingedge-com
-title: Is thepackagingedge.com Legit? Trust Signal Check
+title: Is thepackagingedge.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for thepackagingedge.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thepackagingedge.com scores 73/100 on our public trust checks. Established
+  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:49.810Z'
 finalUrl: 'https://thepackagingedge.com/'
 reachable: true

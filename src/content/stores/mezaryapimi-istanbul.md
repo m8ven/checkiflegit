@@ -1,10 +1,11 @@
 ---
 domain: mezaryapimi.istanbul
 slug: mezaryapimi-istanbul
-title: Is mezaryapimi.istanbul Legit? Trust Signal Check
+title: Is mezaryapimi.istanbul Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for mezaryapimi.istanbul: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mezaryapimi.istanbul scores 58/100 on our public trust checks. Standard
+  contact and policy pages were not found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:55:08.646Z'
 finalUrl: 'https://mezaryapimi.istanbul/'
 reachable: true

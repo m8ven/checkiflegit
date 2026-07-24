@@ -1,10 +1,10 @@
 ---
 domain: sominetworks.lt
 slug: sominetworks-lt
-title: Is sominetworks.lt Legit? Trust Signal Check
+title: Is sominetworks.lt Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sominetworks.lt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sominetworks.lt scores 88/100 on our public trust checks. Established domain —
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:17.946Z'
 finalUrl: 'https://sominetworks.lt/'
 reachable: true

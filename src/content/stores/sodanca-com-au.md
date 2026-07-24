@@ -1,10 +1,10 @@
 ---
 domain: sodanca.com.au
 slug: sodanca-com-au
-title: Is sodanca.com.au Legit? Trust Signal Check
+title: Is sodanca.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sodanca.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sodanca.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:06:55.782Z'
 finalUrl: 'https://sodanca.com.au/'
 reachable: true

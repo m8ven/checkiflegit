@@ -1,10 +1,10 @@
 ---
 domain: bop.in
 slug: bop-in
-title: Is bop.in Legit? Trust Signal Check
+title: Is bop.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bop.in: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  bop.in scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T03:37:11.377Z'
 finalUrl: 'https://bop.in/'
 reachable: true

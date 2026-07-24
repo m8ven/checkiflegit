@@ -1,10 +1,10 @@
 ---
 domain: kidsplancity.gr
 slug: kidsplancity-gr
-title: Is kidsplancity.gr Legit? Trust Signal Check
+title: Is kidsplancity.gr Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for kidsplancity.gr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  kidsplancity.gr scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:32:24.723Z'
 finalUrl: 'https://kidsplancity.gr/'
 reachable: true

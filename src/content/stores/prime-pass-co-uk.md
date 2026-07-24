@@ -1,10 +1,10 @@
 ---
 domain: prime-pass.co.uk
 slug: prime-pass-co-uk
-title: Is prime-pass.co.uk Legit? Trust Signal Check
+title: Is prime-pass.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for prime-pass.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  prime-pass.co.uk scores 100/100 on our public trust checks. Established domain
+  — registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:52.126Z'
 finalUrl: 'https://prime-pass.co.uk/'
 reachable: true

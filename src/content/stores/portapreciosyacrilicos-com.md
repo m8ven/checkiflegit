@@ -1,10 +1,11 @@
 ---
 domain: portapreciosyacrilicos.com
 slug: portapreciosyacrilicos-com
-title: Is portapreciosyacrilicos.com Legit? Trust Signal Check
+title: Is portapreciosyacrilicos.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for portapreciosyacrilicos.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  portapreciosyacrilicos.com scores 100/100 on our public trust checks.
+  Established domain — registered 3.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:30:34.470Z'
 finalUrl: 'https://portapreciosyacrilicos.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: victoryartevents.ro
 slug: victoryartevents-ro
-title: Is victoryartevents.ro Legit? Trust Signal Check
+title: Is victoryartevents.ro Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for victoryartevents.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  victoryartevents.ro scores 73/100 on our public trust checks. Established
+  domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:32.692Z'
 finalUrl: 'https://victoryartevents.ro/'
 reachable: true

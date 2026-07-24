@@ -1,10 +1,10 @@
 ---
 domain: cigarsplace.ru
 slug: cigarsplace-ru
-title: Is cigarsplace.ru Legit? Trust Signal Check
+title: Is cigarsplace.ru Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cigarsplace.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cigarsplace.ru scores 100/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:28:33.649Z'
 finalUrl: 'https://cigarsplace.ru/'
 reachable: true

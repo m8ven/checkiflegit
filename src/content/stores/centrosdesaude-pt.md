@@ -1,10 +1,10 @@
 ---
 domain: centrosdesaude.pt
 slug: centrosdesaude-pt
-title: Is centrosdesaude.pt Legit? Trust Signal Check
+title: Is centrosdesaude.pt Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for centrosdesaude.pt: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  centrosdesaude.pt scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:28:33.591Z'
 finalUrl: 'https://centrosdesaude.pt/'
 reachable: true

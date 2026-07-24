@@ -1,10 +1,10 @@
 ---
 domain: bmw.car-repair.top
 slug: bmw-car-repair-top
-title: Is bmw.car-repair.top Legit? Trust Signal Check
+title: Is bmw.car-repair.top Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for bmw.car-repair.top: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  bmw.car-repair.top scores 19/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:21:19.382Z'
 finalUrl: 'https://bmw.car-repair.top/'
 reachable: true

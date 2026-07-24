@@ -1,10 +1,10 @@
 ---
 domain: biohy-reiniger.de
 slug: biohy-reiniger-de
-title: Is biohy-reiniger.de Legit? Trust Signal Check
+title: Is biohy-reiniger.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for biohy-reiniger.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  biohy-reiniger.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:20:04.519Z'
 finalUrl: 'https://biohy-reiniger.de/'
 reachable: true

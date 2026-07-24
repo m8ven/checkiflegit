@@ -1,10 +1,10 @@
 ---
 domain: eamt.ee
 slug: eamt-ee
-title: Is eamt.ee Legit? Trust Signal Check
+title: Is eamt.ee Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for eamt.ee: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  eamt.ee scores 100/100 on our public trust checks. Established domain —
+  registered 8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:02.757Z'
 finalUrl: 'https://eamt.ee/'
 reachable: true

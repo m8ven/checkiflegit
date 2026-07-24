@@ -1,10 +1,10 @@
 ---
 domain: bijouxserpent.com
 slug: bijouxserpent-com
-title: Is bijouxserpent.com Legit? Trust Signal Check
+title: Is bijouxserpent.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for bijouxserpent.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bijouxserpent.com scores 73/100 on our public trust checks. Established domain
+  — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:20.001Z'
 finalUrl: 'https://bijouxserpent.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: genclercanta.com
 slug: genclercanta-com
-title: Is genclercanta.com Legit? Trust Signal Check
+title: Is genclercanta.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for genclercanta.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  genclercanta.com scores 88/100 on our public trust checks. Established domain
+  — registered 24.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:55.780Z'
 finalUrl: 'https://genclercanta.com/'
 reachable: true

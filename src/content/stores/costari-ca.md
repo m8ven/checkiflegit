@@ -1,10 +1,10 @@
 ---
 domain: costari.ca
 slug: costari-ca
-title: Is costari.ca Legit? Trust Signal Check
+title: Is costari.ca Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for costari.ca: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  costari.ca scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:40:05.479Z'
 finalUrl: 'https://costari.ca/'
 reachable: true

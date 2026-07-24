@@ -1,10 +1,10 @@
 ---
 domain: pinball-restorations.com
 slug: pinball-restorations-com
-title: Is pinball-restorations.com Legit? Trust Signal Check
+title: Is pinball-restorations.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for pinball-restorations.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pinball-restorations.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:29:26.056Z'
 finalUrl: 'https://pinball-restorations.com/'
 reachable: true

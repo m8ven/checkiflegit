@@ -1,10 +1,10 @@
 ---
 domain: pawa.com.na
 slug: pawa-com-na
-title: Is pawa.com.na Legit? Trust Signal Check
+title: Is pawa.com.na Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for pawa.com.na: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  pawa.com.na scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:57:58.505Z'
 finalUrl: 'https://pawa.com.na/'
 reachable: true

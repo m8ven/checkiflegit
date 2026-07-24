@@ -1,10 +1,10 @@
 ---
 domain: lyonbars.gold
 slug: lyonbars-gold
-title: Is lyonbars.gold Legit? Trust Signal Check
+title: Is lyonbars.gold Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for lyonbars.gold: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lyonbars.gold scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:13:40.769Z'
 finalUrl: 'https://lyonbars.gold/'
 reachable: true

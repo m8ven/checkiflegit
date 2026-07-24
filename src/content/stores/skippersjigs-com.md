@@ -1,10 +1,10 @@
 ---
 domain: skippersjigs.com
 slug: skippersjigs-com
-title: Is skippersjigs.com Legit? Trust Signal Check
+title: Is skippersjigs.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for skippersjigs.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  skippersjigs.com scores 73/100 on our public trust checks. Established domain
+  — registered 16.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:29.611Z'
 finalUrl: 'https://skippersjigs.com/'
 reachable: true

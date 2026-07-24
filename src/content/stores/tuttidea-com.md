@@ -1,10 +1,10 @@
 ---
 domain: tuttidea.com
 slug: tuttidea-com
-title: Is tuttidea.com Legit? Trust Signal Check
+title: Is tuttidea.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for tuttidea.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tuttidea.com scores 100/100 on our public trust checks. Established domain —
+  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:01.592Z'
 finalUrl: 'https://tuttidea.com/'
 reachable: true

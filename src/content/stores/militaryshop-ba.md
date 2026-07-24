@@ -1,10 +1,11 @@
 ---
 domain: militaryshop.ba
 slug: militaryshop-ba
-title: Is militaryshop.ba Legit? Trust Signal Check
+title: Is militaryshop.ba Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for militaryshop.ba: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  militaryshop.ba scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:18:49.756Z'
 finalUrl: 'https://militaryshop.ba/'
 reachable: true

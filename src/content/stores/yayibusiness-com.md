@@ -1,10 +1,10 @@
 ---
 domain: yayibusiness.com
 slug: yayibusiness-com
-title: Is yayibusiness.com Legit? Trust Signal Check
+title: Is yayibusiness.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for yayibusiness.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  yayibusiness.com scores 88/100 on our public trust checks. Established domain
+  — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:50.167Z'
 finalUrl: 'https://yayibusiness.com/'
 reachable: true

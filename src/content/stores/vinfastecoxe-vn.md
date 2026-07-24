@@ -1,10 +1,10 @@
 ---
 domain: vinfastecoxe.vn
 slug: vinfastecoxe-vn
-title: Is vinfastecoxe.vn Legit? Trust Signal Check
+title: Is vinfastecoxe.vn Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for vinfastecoxe.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vinfastecoxe.vn scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:04.799Z'
 finalUrl: 'https://vinfastecoxe.vn/'
 reachable: true

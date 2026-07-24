@@ -1,10 +1,10 @@
 ---
 domain: huawaiimotorsuganda.com
 slug: huawaiimotorsuganda-com
-title: Is huawaiimotorsuganda.com Legit? Trust Signal Check
+title: Is huawaiimotorsuganda.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for huawaiimotorsuganda.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  huawaiimotorsuganda.com scores 73/100 on our public trust checks. Established
+  domain — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:38.694Z'
 finalUrl: 'https://huawaiimotorsuganda.com/'
 reachable: true

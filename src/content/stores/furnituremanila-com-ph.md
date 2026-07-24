@@ -1,10 +1,10 @@
 ---
 domain: furnituremanila.com.ph
 slug: furnituremanila-com-ph
-title: Is furnituremanila.com.ph Legit? Trust Signal Check
+title: Is furnituremanila.com.ph Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for furnituremanila.com.ph: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  furnituremanila.com.ph scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:23.038Z'
 finalUrl: 'https://www.furnituremanila.com.ph/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: domseniorakonary.pl
 slug: domseniorakonary-pl
-title: Is domseniorakonary.pl Legit? Trust Signal Check
+title: Is domseniorakonary.pl Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for domseniorakonary.pl: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  domseniorakonary.pl scores 19/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:40:21.689Z'
 finalUrl: 'https://domseniorakonary.pl/'
 reachable: true

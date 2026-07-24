@@ -1,10 +1,10 @@
 ---
 domain: apteka-zakaz.ru
 slug: apteka-zakaz-ru
-title: Is apteka-zakaz.ru Legit? Trust Signal Check
+title: Is apteka-zakaz.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for apteka-zakaz.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  apteka-zakaz.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:41:37.781Z'
 finalUrl: 'https://apteka-zakaz.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: parqueengenhoca.com.br
 slug: parqueengenhoca-com-br
-title: Is parqueengenhoca.com.br Legit? Trust Signal Check
+title: Is parqueengenhoca.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for parqueengenhoca.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  parqueengenhoca.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:20:00.192Z'
 finalUrl: 'https://www.parqueengenhoca.com.br/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: grand.gocviet17.com
 slug: grand-gocviet17-com
-title: Is grand.gocviet17.com Legit? Trust Signal Check
+title: Is grand.gocviet17.com Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for grand.gocviet17.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  grand.gocviet17.com scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:49:26.693Z'
 finalUrl: 'https://grand.gocviet17.com/'
 reachable: true

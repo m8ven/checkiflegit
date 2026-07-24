@@ -1,10 +1,10 @@
 ---
 domain: chicagometalsupply.com
 slug: chicagometalsupply-com
-title: Is chicagometalsupply.com Legit? Trust Signal Check
+title: Is chicagometalsupply.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for chicagometalsupply.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  chicagometalsupply.com scores 88/100 on our public trust checks. Established
+  domain — registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:51.272Z'
 finalUrl: 'https://chicagometalsupply.com/'
 reachable: true

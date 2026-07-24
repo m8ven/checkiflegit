@@ -1,10 +1,10 @@
 ---
 domain: novacolor-germany.de
 slug: novacolor-germany-de
-title: Is novacolor-germany.de Legit? Trust Signal Check
+title: Is novacolor-germany.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for novacolor-germany.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  novacolor-germany.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:23:43.912Z'
 finalUrl: 'https://novacolor-germany.de/'
 reachable: true

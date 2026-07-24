@@ -1,11 +1,11 @@
 ---
 domain: midcenturymidland.org
 slug: midcenturymidland-org
-title: Is midcenturymidland.org Legit? Trust Signal Check
+title: Is midcenturymidland.org Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for midcenturymidland.org: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  midcenturymidland.org scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T02:44:21.896Z'
 finalUrl: 'https://midcenturymidland.org/'
 reachable: true

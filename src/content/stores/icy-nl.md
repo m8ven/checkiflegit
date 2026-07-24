@@ -1,10 +1,10 @@
 ---
 domain: icy.nl
 slug: icy-nl
-title: Is icy.nl Legit? Trust Signal Check
+title: Is icy.nl Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for icy.nl: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  icy.nl scores 100/100 on our public trust checks. Established domain —
+  registered 28.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:17.954Z'
 finalUrl: 'https://www.icy.nl/'
 reachable: true

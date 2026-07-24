@@ -1,10 +1,10 @@
 ---
 domain: shivohams.com
 slug: shivohams-com
-title: Is shivohams.com Legit? Trust Signal Check
+title: Is shivohams.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shivohams.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shivohams.com scores 100/100 on our public trust checks. Established domain —
+  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:04.862Z'
 finalUrl: 'https://www.shivohams.com/'
 reachable: true

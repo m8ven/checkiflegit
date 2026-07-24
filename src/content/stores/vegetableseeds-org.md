@@ -1,10 +1,10 @@
 ---
 domain: vegetableseeds.org
 slug: vegetableseeds-org
-title: Is vegetableseeds.org Legit? Trust Signal Check
+title: Is vegetableseeds.org Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for vegetableseeds.org: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  vegetableseeds.org scores 25/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T15:31:28.722Z'
 finalUrl: 'https://vegetableseeds.org/'
 reachable: true

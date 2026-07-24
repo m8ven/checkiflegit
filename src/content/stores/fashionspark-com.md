@@ -1,10 +1,10 @@
 ---
 domain: fashionspark.com
 slug: fashionspark-com
-title: Is fashionspark.com Legit? Trust Signal Check
+title: Is fashionspark.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fashionspark.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fashionspark.com scores 100/100 on our public trust checks. Established domain
+  — registered 20.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:46.461Z'
 finalUrl: 'https://fashionspark.com/'
 reachable: true

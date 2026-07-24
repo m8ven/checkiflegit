@@ -1,10 +1,10 @@
 ---
 domain: sig-shop.tn
 slug: sig-shop-tn
-title: Is sig-shop.tn Legit? Trust Signal Check
+title: Is sig-shop.tn Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sig-shop.tn: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sig-shop.tn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:31:21.364Z'
 finalUrl: 'https://sig-shop.tn/'
 reachable: true

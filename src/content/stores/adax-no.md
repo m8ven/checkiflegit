@@ -1,10 +1,10 @@
 ---
 domain: adax.no
 slug: adax-no
-title: Is adax.no Legit? Trust Signal Check
+title: Is adax.no Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for adax.no: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  adax.no scores 55/100 on our public trust checks. Domain registered very
+  recently (6 days ago). Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:10.773Z'
 finalUrl: 'https://adax.no/'
 reachable: true

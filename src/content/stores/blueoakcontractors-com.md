@@ -1,10 +1,10 @@
 ---
 domain: blueoakcontractors.com
 slug: blueoakcontractors-com
-title: Is blueoakcontractors.com Legit? Trust Signal Check
+title: Is blueoakcontractors.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for blueoakcontractors.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  blueoakcontractors.com scores 88/100 on our public trust checks. Established
+  domain — registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:49.093Z'
 finalUrl: 'https://blueoakcontractors.com/'
 reachable: true

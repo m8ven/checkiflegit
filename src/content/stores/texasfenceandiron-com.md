@@ -1,10 +1,10 @@
 ---
 domain: texasfenceandiron.com
 slug: texasfenceandiron-com
-title: Is texasfenceandiron.com Legit? Trust Signal Check
+title: Is texasfenceandiron.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for texasfenceandiron.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  texasfenceandiron.com scores 88/100 on our public trust checks. Established
+  domain — registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:22.291Z'
 finalUrl: 'https://texasfenceandiron.com/'
 reachable: true

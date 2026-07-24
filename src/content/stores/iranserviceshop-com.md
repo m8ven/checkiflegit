@@ -1,10 +1,10 @@
 ---
 domain: iranserviceshop.com
 slug: iranserviceshop-com
-title: Is iranserviceshop.com Legit? Trust Signal Check
+title: Is iranserviceshop.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for iranserviceshop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  iranserviceshop.com scores 88/100 on our public trust checks. Established
+  domain — registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:58.164Z'
 finalUrl: 'https://iranserviceshop.com/'
 reachable: true

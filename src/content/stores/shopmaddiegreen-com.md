@@ -1,10 +1,10 @@
 ---
 domain: shopmaddiegreen.com
 slug: shopmaddiegreen-com
-title: Is shopmaddiegreen.com Legit? Trust Signal Check
+title: Is shopmaddiegreen.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for shopmaddiegreen.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shopmaddiegreen.com scores 70/100 on our public trust checks. Established
+  domain — registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:19.071Z'
 finalUrl: 'https://www.shopmaddiegreen.com/'
 reachable: true

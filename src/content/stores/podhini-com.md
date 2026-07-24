@@ -1,10 +1,10 @@
 ---
 domain: podhini.com
 slug: podhini-com
-title: Is podhini.com Legit? Trust Signal Check
+title: Is podhini.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for podhini.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  podhini.com scores 85/100 on our public trust checks. Established domain —
+  registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:42.651Z'
 finalUrl: 'https://podhini.com/'
 reachable: true

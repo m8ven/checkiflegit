@@ -1,10 +1,10 @@
 ---
 domain: bufeteinternacional.us
 slug: bufeteinternacional-us
-title: Is bufeteinternacional.us Legit? Trust Signal Check
+title: Is bufeteinternacional.us Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for bufeteinternacional.us: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bufeteinternacional.us scores 85/100 on our public trust checks. Established
+  domain — registered 13.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:37:54.327Z'
 finalUrl: 'https://bufeteinternacional.us/'
 reachable: true

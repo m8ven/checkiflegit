@@ -1,10 +1,10 @@
 ---
 domain: welshotimaging.co.uk
 slug: welshotimaging-co-uk
-title: Is welshotimaging.co.uk Legit? Trust Signal Check
+title: Is welshotimaging.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for welshotimaging.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  welshotimaging.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:55.918Z'
 finalUrl: 'https://welshotimaging.co.uk/'
 reachable: true

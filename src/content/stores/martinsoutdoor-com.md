@@ -1,10 +1,10 @@
 ---
 domain: martinsoutdoor.com
 slug: martinsoutdoor-com
-title: Is martinsoutdoor.com Legit? Trust Signal Check
+title: Is martinsoutdoor.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for martinsoutdoor.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  martinsoutdoor.com scores 100/100 on our public trust checks. Established
+  domain — registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:32.673Z'
 finalUrl: 'https://martinsoutdoor.com/'
 reachable: true

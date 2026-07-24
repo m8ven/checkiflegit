@@ -1,10 +1,10 @@
 ---
 domain: theawakenedstate.net
 slug: theawakenedstate-net
-title: Is theawakenedstate.net Legit? Trust Signal Check
+title: Is theawakenedstate.net Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for theawakenedstate.net: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  theawakenedstate.net scores 88/100 on our public trust checks. Established
+  domain — registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:28:16.779Z'
 finalUrl: 'https://www.theawakenedstate.net/'
 reachable: true

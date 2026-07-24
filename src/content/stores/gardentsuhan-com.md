@@ -1,10 +1,10 @@
 ---
 domain: gardentsuhan.com
 slug: gardentsuhan-com
-title: Is gardentsuhan.com Legit? Trust Signal Check
+title: Is gardentsuhan.com Legit? Trust Score 37/100
 description: >-
-  An automated trust-signal check for gardentsuhan.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  gardentsuhan.com scores 37/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:28:48.163Z'
 finalUrl: 'https://gardentsuhan.com/'
 reachable: true

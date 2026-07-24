@@ -1,10 +1,10 @@
 ---
 domain: nhietphatloc.vn
 slug: nhietphatloc-vn
-title: Is nhietphatloc.vn Legit? Trust Signal Check
+title: Is nhietphatloc.vn Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for nhietphatloc.vn: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nhietphatloc.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:59:58.284Z'
 finalUrl: 'https://nhietphatloc.vn/'
 reachable: true

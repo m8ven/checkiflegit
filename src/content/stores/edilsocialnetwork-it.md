@@ -1,10 +1,10 @@
 ---
 domain: edilsocialnetwork.it
 slug: edilsocialnetwork-it
-title: Is edilsocialnetwork.it Legit? Trust Signal Check
+title: Is edilsocialnetwork.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for edilsocialnetwork.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  edilsocialnetwork.it scores 88/100 on our public trust checks. Established
+  domain — registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:20:58.413Z'
 finalUrl: 'https://www.edilsocialnetwork.it/'
 reachable: true

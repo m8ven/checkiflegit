@@ -1,10 +1,10 @@
 ---
 domain: rains.com
 slug: rains-com
-title: Is rains.com Legit? Trust Signal Check
+title: Is rains.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for rains.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rains.com scores 88/100 on our public trust checks. Established domain —
+  registered 30.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:44.315Z'
 finalUrl: 'https://www.rains.com/'
 reachable: true

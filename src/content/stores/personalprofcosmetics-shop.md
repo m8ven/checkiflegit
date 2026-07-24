@@ -1,10 +1,10 @@
 ---
 domain: personalprofcosmetics.shop
 slug: personalprofcosmetics-shop
-title: Is personalprofcosmetics.shop Legit? Trust Signal Check
+title: Is personalprofcosmetics.shop Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for personalprofcosmetics.shop: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  personalprofcosmetics.shop scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:20:16.256Z'
 finalUrl: 'https://www.personalprofcosmetics.shop/'
 reachable: true

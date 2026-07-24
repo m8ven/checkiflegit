@@ -1,10 +1,10 @@
 ---
 domain: korihomevietnam.com
 slug: korihomevietnam-com
-title: Is korihomevietnam.com Legit? Trust Signal Check
+title: Is korihomevietnam.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for korihomevietnam.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  korihomevietnam.com scores 64/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T15:18:09.873Z'
 finalUrl: 'https://korihomevietnam.com/'
 reachable: true

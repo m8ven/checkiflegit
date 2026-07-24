@@ -1,10 +1,10 @@
 ---
 domain: parts4karts.nl
 slug: parts4karts-nl
-title: Is parts4karts.nl Legit? Trust Signal Check
+title: Is parts4karts.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for parts4karts.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  parts4karts.nl scores 73/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:56.058Z'
 finalUrl: 'https://parts4karts.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: aquaculturemag.com
 slug: aquaculturemag-com
-title: Is aquaculturemag.com Legit? Trust Signal Check
+title: Is aquaculturemag.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for aquaculturemag.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aquaculturemag.com scores 94/100 on our public trust checks. Established
+  domain — registered 29.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:24.776Z'
 finalUrl: 'https://aquaculturemag.com/'
 reachable: true

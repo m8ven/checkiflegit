@@ -1,10 +1,10 @@
 ---
 domain: chironpublications.com
 slug: chironpublications-com
-title: Is chironpublications.com Legit? Trust Signal Check
+title: Is chironpublications.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for chironpublications.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  chironpublications.com scores 70/100 on our public trust checks. Established
+  domain — registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:36.670Z'
 finalUrl: 'https://www.chironpublications.com/'
 reachable: true

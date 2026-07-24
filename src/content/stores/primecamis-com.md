@@ -1,10 +1,10 @@
 ---
 domain: primecamis.com
 slug: primecamis-com
-title: Is primecamis.com Legit? Trust Signal Check
+title: Is primecamis.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for primecamis.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  primecamis.com scores 82/100 on our public trust checks. Established domain —
+  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:50.144Z'
 finalUrl: 'https://primecamis.com/'
 reachable: true

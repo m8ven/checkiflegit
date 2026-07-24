@@ -1,10 +1,10 @@
 ---
 domain: otophuman.com.vn
 slug: otophuman-com-vn
-title: Is otophuman.com.vn Legit? Trust Signal Check
+title: Is otophuman.com.vn Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for otophuman.com.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  otophuman.com.vn scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:53.826Z'
 finalUrl: 'https://otophuman.com.vn/'
 reachable: true

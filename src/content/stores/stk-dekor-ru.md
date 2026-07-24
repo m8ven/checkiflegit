@@ -1,10 +1,11 @@
 ---
 domain: stk-dekor.ru
 slug: stk-dekor-ru
-title: Is stk-dekor.ru Legit? Trust Signal Check
+title: Is stk-dekor.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for stk-dekor.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stk-dekor.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:52:22.191Z'
 finalUrl: 'https://stk-dekor.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: opti-com.si
 slug: opti-com-si
-title: Is opti-com.si Legit? Trust Signal Check
+title: Is opti-com.si Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for opti-com.si: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  opti-com.si scores 88/100 on our public trust checks. Established domain —
+  registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:13.608Z'
 finalUrl: 'https://www.opti-com.si/'
 reachable: true

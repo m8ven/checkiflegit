@@ -1,10 +1,10 @@
 ---
 domain: kuguar.pl
 slug: kuguar-pl
-title: Is kuguar.pl Legit? Trust Signal Check
+title: Is kuguar.pl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kuguar.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kuguar.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:55:08.515Z'
 finalUrl: 'https://kuguar.pl/'
 reachable: true

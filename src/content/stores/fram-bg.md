@@ -1,10 +1,10 @@
 ---
 domain: fram.bg
 slug: fram-bg
-title: Is fram.bg Legit? Trust Signal Check
+title: Is fram.bg Legit? Trust Score 40/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for fram.bg: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  fram.bg scores 40/100 on our public trust checks. Standard contact and policy
+  pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:19:09.850Z'
 finalUrl: 'https://www.fram.bg/'
 reachable: true

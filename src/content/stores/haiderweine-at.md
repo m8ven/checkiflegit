@@ -1,10 +1,10 @@
 ---
 domain: haiderweine.at
 slug: haiderweine-at
-title: Is haiderweine.at Legit? Trust Signal Check
+title: Is haiderweine.at Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for haiderweine.at: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  haiderweine.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:59:59.043Z'
 finalUrl: 'https://haiderweine.at/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: martingoode.com
 slug: martingoode-com
-title: Is martingoode.com Legit? Trust Signal Check
+title: Is martingoode.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for martingoode.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  martingoode.com scores 82/100 on our public trust checks. Established domain —
+  registered 23.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:32.785Z'
 finalUrl: 'https://martingoode.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lemonacademy.co.uk
 slug: lemonacademy-co-uk
-title: Is lemonacademy.co.uk Legit? Trust Signal Check
+title: Is lemonacademy.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lemonacademy.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lemonacademy.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:48.562Z'
 finalUrl: 'https://lemonacademy.co.uk/'
 reachable: true

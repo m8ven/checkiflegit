@@ -1,10 +1,10 @@
 ---
 domain: artepro.net
 slug: artepro-net
-title: Is artepro.net Legit? Trust Signal Check
+title: Is artepro.net Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for artepro.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  artepro.net scores 76/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:37.033Z'
 finalUrl: 'https://artepro.net/'
 reachable: true

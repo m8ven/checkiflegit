@@ -1,10 +1,10 @@
 ---
 domain: prospect.org
 slug: prospect-org
-title: Is prospect.org Legit? Trust Signal Check
+title: Is prospect.org Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for prospect.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  prospect.org scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-24T21:44:48.321Z'
 finalUrl: 'https://prospect.org/'
 reachable: true

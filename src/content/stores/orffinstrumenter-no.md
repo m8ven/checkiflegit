@@ -1,10 +1,10 @@
 ---
 domain: orffinstrumenter.no
 slug: orffinstrumenter-no
-title: Is orffinstrumenter.no Legit? Trust Signal Check
+title: Is orffinstrumenter.no Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for orffinstrumenter.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  orffinstrumenter.no scores 88/100 on our public trust checks. Established
+  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:01.424Z'
 finalUrl: 'https://orffinstrumenter.no/'
 reachable: true

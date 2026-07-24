@@ -1,10 +1,10 @@
 ---
 domain: shriramfarmsolutions.com
 slug: shriramfarmsolutions-com
-title: Is shriramfarmsolutions.com Legit? Trust Signal Check
+title: Is shriramfarmsolutions.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for shriramfarmsolutions.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shriramfarmsolutions.com scores 58/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:06:21.144Z'
 finalUrl: 'https://shriramfarmsolutions.com/'
 reachable: true

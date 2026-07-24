@@ -1,10 +1,10 @@
 ---
 domain: purestrat.fr
 slug: purestrat-fr
-title: Is purestrat.fr Legit? Trust Signal Check
+title: Is purestrat.fr Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for purestrat.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  purestrat.fr scores 82/100 on our public trust checks. Established domain —
+  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:53.813Z'
 finalUrl: 'https://www.purestrat.fr/'
 reachable: true

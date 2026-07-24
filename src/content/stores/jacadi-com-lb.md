@@ -1,10 +1,10 @@
 ---
 domain: jacadi.com.lb
 slug: jacadi-com-lb
-title: Is jacadi.com.lb Legit? Trust Signal Check
+title: Is jacadi.com.lb Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for jacadi.com.lb: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jacadi.com.lb scores 70/100 on our public trust checks. Established domain —
+  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:10.146Z'
 finalUrl: 'https://jacadi.com.lb/'
 reachable: true

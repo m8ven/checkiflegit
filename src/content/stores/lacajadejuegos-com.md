@@ -1,10 +1,10 @@
 ---
 domain: lacajadejuegos.com
 slug: lacajadejuegos-com
-title: Is lacajadejuegos.com Legit? Trust Signal Check
+title: Is lacajadejuegos.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lacajadejuegos.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lacajadejuegos.com scores 88/100 on our public trust checks. Established
+  domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:24.735Z'
 finalUrl: 'https://lacajadejuegos.com/'
 reachable: true

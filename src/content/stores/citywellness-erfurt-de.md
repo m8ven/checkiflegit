@@ -1,10 +1,10 @@
 ---
 domain: citywellness-erfurt.de
 slug: citywellness-erfurt-de
-title: Is citywellness-erfurt.de Legit? Trust Signal Check
+title: Is citywellness-erfurt.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for citywellness-erfurt.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  citywellness-erfurt.de scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:27:53.415Z'
 finalUrl: 'https://citywellness-erfurt.de/'
 reachable: true

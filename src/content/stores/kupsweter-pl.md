@@ -1,10 +1,10 @@
 ---
 domain: kupsweter.pl
 slug: kupsweter-pl
-title: Is kupsweter.pl Legit? Trust Signal Check
+title: Is kupsweter.pl Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kupsweter.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kupsweter.pl scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:13.653Z'
 finalUrl: 'https://kupsweter.pl/'
 reachable: true

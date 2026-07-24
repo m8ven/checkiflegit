@@ -1,10 +1,10 @@
 ---
 domain: theamericapost.com
 slug: theamericapost-com
-title: Is theamericapost.com Legit? Trust Signal Check
+title: Is theamericapost.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for theamericapost.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  theamericapost.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:33:50.143Z'
 finalUrl: 'https://theamericapost.com/'
 reachable: true

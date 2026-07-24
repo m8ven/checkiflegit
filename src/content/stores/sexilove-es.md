@@ -1,10 +1,10 @@
 ---
 domain: sexilove.es
 slug: sexilove-es
-title: Is sexilove.es Legit? Trust Signal Check
+title: Is sexilove.es Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for sexilove.es: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  sexilove.es scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:54:02.442Z'
 finalUrl: 'https://sexilove.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: asnestos.gr
 slug: asnestos-gr
-title: Is asnestos.gr Legit? Trust Signal Check
+title: Is asnestos.gr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for asnestos.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  asnestos.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:48:47.625Z'
 finalUrl: 'https://asnestos.gr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nomada.biz
 slug: nomada-biz
-title: Is nomada.biz Legit? Trust Signal Check
+title: Is nomada.biz Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nomada.biz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nomada.biz scores 100/100 on our public trust checks. Established domain —
+  registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:57.296Z'
 finalUrl: 'https://www.nomada.biz/en/'
 reachable: true

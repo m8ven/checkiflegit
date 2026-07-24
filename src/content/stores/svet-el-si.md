@@ -1,10 +1,10 @@
 ---
 domain: svet-el.si
 slug: svet-el-si
-title: Is svet-el.si Legit? Trust Signal Check
+title: Is svet-el.si Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for svet-el.si: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  svet-el.si scores 88/100 on our public trust checks. Established domain —
+  registered 31.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:32.966Z'
 finalUrl: 'https://svet-el.si/'
 reachable: true

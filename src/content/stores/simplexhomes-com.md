@@ -1,10 +1,10 @@
 ---
 domain: simplexhomes.com
 slug: simplexhomes-com
-title: Is simplexhomes.com Legit? Trust Signal Check
+title: Is simplexhomes.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for simplexhomes.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  simplexhomes.com scores 88/100 on our public trust checks. Established domain
+  — registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:31:24.659Z'
 finalUrl: 'https://simplexhomes.com/'
 reachable: true

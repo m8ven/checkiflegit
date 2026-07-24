@@ -1,10 +1,11 @@
 ---
 domain: jozsagumi.hu
 slug: jozsagumi-hu
-title: Is jozsagumi.hu Legit? Trust Signal Check
+title: Is jozsagumi.hu Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for jozsagumi.hu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jozsagumi.hu scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:47:44.618Z'
 finalUrl: 'https://jozsagumi.hu/'
 reachable: true

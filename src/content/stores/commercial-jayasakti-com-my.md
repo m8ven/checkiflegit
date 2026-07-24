@@ -1,10 +1,10 @@
 ---
 domain: commercial.jayasakti.com.my
 slug: commercial-jayasakti-com-my
-title: Is commercial.jayasakti.com.my Legit? Trust Signal Check
+title: Is commercial.jayasakti.com.my Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for commercial.jayasakti.com.my: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  commercial.jayasakti.com.my scores 55/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T03:03:37.224Z'
 finalUrl: 'https://commercial.jayasakti.com.my/'
 reachable: true

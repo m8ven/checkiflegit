@@ -1,10 +1,10 @@
 ---
 domain: teamconfetti.nl
 slug: teamconfetti-nl
-title: Is teamconfetti.nl Legit? Trust Signal Check
+title: Is teamconfetti.nl Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for teamconfetti.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  teamconfetti.nl scores 58/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:32:37.033Z'
 finalUrl: 'https://www.teamconfetti.nl/'
 reachable: true

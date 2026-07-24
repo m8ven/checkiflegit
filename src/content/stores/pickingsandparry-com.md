@@ -1,10 +1,10 @@
 ---
 domain: pickingsandparry.com
 slug: pickingsandparry-com
-title: Is pickingsandparry.com Legit? Trust Signal Check
+title: Is pickingsandparry.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pickingsandparry.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pickingsandparry.com scores 100/100 on our public trust checks. Established
+  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:09.448Z'
 finalUrl: 'https://pickingsandparry.com/'
 reachable: true

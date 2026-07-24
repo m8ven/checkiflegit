@@ -1,10 +1,10 @@
 ---
 domain: durbah.net
 slug: durbah-net
-title: Is durbah.net Legit? Trust Signal Check
+title: Is durbah.net Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for durbah.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  durbah.net scores 76/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:05.011Z'
 finalUrl: 'https://durbah.net/'
 reachable: true

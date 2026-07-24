@@ -1,10 +1,10 @@
 ---
 domain: truongthanh.vn
 slug: truongthanh-vn
-title: Is truongthanh.vn Legit? Trust Signal Check
+title: Is truongthanh.vn Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for truongthanh.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  truongthanh.vn scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:06:58.806Z'
 finalUrl: 'https://truongthanh.vn/'
 reachable: true

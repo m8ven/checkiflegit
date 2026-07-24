@@ -1,10 +1,10 @@
 ---
 domain: couplestoystore.com
 slug: couplestoystore-com
-title: Is couplestoystore.com Legit? Trust Signal Check
+title: Is couplestoystore.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for couplestoystore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  couplestoystore.com scores 88/100 on our public trust checks. Established
+  domain — registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:10.032Z'
 finalUrl: 'https://couplestoystore.com/'
 reachable: true

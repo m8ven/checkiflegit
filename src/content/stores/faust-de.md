@@ -1,10 +1,11 @@
 ---
 domain: faust.de
 slug: faust-de
-title: Is faust.de Legit? Trust Signal Check
+title: Is faust.de Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for faust.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  faust.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T03:46:37.560Z'
 finalUrl: 'https://faust.de/'
 reachable: true

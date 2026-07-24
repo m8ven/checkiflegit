@@ -1,10 +1,10 @@
 ---
 domain: sandamaso.es
 slug: sandamaso-es
-title: Is sandamaso.es Legit? Trust Signal Check
+title: Is sandamaso.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sandamaso.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sandamaso.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:25:46.653Z'
 finalUrl: 'https://www.sandamaso.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: botslab.com
 slug: botslab-com
-title: Is botslab.com Legit? Trust Signal Check
+title: Is botslab.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for botslab.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  botslab.com scores 100/100 on our public trust checks. Established domain —
+  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:27.368Z'
 finalUrl: 'https://www.botslab.com/'
 reachable: true

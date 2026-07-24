@@ -1,10 +1,10 @@
 ---
 domain: confitures-raphael.fr
 slug: confitures-raphael-fr
-title: Is confitures-raphael.fr Legit? Trust Signal Check
+title: Is confitures-raphael.fr Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for confitures-raphael.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  confitures-raphael.fr scores 76/100 on our public trust checks. Established
+  domain — registered 18 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:40.587Z'
 finalUrl: 'https://confitures-raphael.fr/'
 reachable: true

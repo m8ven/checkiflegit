@@ -1,10 +1,10 @@
 ---
 domain: funartwholesale.dk
 slug: funartwholesale-dk
-title: Is funartwholesale.dk Legit? Trust Signal Check
+title: Is funartwholesale.dk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for funartwholesale.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  funartwholesale.dk scores 73/100 on our public trust checks. Established
+  domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:03.974Z'
 finalUrl: 'https://funartwholesale.dk/'
 reachable: true

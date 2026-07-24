@@ -1,10 +1,10 @@
 ---
 domain: instants-plaisirs.com
 slug: instants-plaisirs-com
-title: Is instants-plaisirs.com Legit? Trust Signal Check
+title: Is instants-plaisirs.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for instants-plaisirs.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  instants-plaisirs.com scores 70/100 on our public trust checks. Established
+  domain — registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:50.716Z'
 finalUrl: 'https://instants-plaisirs.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: queensworldfilmfestival.org
 slug: queensworldfilmfestival-org
-title: Is queensworldfilmfestival.org Legit? Trust Signal Check
+title: Is queensworldfilmfestival.org Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for queensworldfilmfestival.org: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  queensworldfilmfestival.org scores 58/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T11:57:44.615Z'
 finalUrl: 'https://queensworldfilmfestival.org/'
 reachable: true

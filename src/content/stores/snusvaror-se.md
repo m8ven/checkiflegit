@@ -1,10 +1,10 @@
 ---
 domain: snusvaror.se
 slug: snusvaror-se
-title: Is snusvaror.se Legit? Trust Signal Check
+title: Is snusvaror.se Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for snusvaror.se: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  snusvaror.se scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:38:49.664Z'
 finalUrl: 'https://snusvaror.se/'
 reachable: true

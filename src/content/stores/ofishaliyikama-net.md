@@ -1,10 +1,10 @@
 ---
 domain: ofishaliyikama.net
 slug: ofishaliyikama-net
-title: Is ofishaliyikama.net Legit? Trust Signal Check
+title: Is ofishaliyikama.net Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for ofishaliyikama.net: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ofishaliyikama.net scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:19:25.317Z'
 finalUrl: 'https://www.ofishaliyikama.net/'
 reachable: true

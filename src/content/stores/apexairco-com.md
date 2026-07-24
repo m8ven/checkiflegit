@@ -1,10 +1,10 @@
 ---
 domain: apexairco.com
 slug: apexairco-com
-title: Is apexairco.com Legit? Trust Signal Check
+title: Is apexairco.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for apexairco.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  apexairco.com scores 100/100 on our public trust checks. Established domain —
+  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:54.746Z'
 finalUrl: 'https://apexairco.com/'
 reachable: true

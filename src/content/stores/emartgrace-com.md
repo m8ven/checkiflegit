@@ -1,10 +1,10 @@
 ---
 domain: emartgrace.com
 slug: emartgrace-com
-title: Is emartgrace.com Legit? Trust Signal Check
+title: Is emartgrace.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for emartgrace.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  emartgrace.com scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:26:59.977Z'
 finalUrl: 'https://emartgrace.com/'
 reachable: true

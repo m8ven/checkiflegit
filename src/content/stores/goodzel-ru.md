@@ -1,10 +1,10 @@
 ---
 domain: goodzel.ru
 slug: goodzel-ru
-title: Is goodzel.ru Legit? Trust Signal Check
+title: Is goodzel.ru Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for goodzel.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  goodzel.ru scores 100/100 on our public trust checks. Established domain —
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:37.519Z'
 finalUrl: 'https://goodzel.ru/'
 reachable: true

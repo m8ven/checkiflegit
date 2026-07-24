@@ -1,10 +1,10 @@
 ---
 domain: fs-peru.com
 slug: fs-peru-com
-title: Is fs-peru.com Legit? Trust Signal Check
+title: Is fs-peru.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fs-peru.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fs-peru.com scores 100/100 on our public trust checks. Established domain —
+  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:58.637Z'
 finalUrl: 'https://fs-peru.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: akukupracownia.pl
 slug: akukupracownia-pl
-title: Is akukupracownia.pl Legit? Trust Signal Check
+title: Is akukupracownia.pl Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for akukupracownia.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  akukupracownia.pl scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:34:45.212Z'
 finalUrl: 'https://akukupracownia.pl/'
 reachable: true

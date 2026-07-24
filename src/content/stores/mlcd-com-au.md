@@ -1,10 +1,10 @@
 ---
 domain: mlcd.com.au
 slug: mlcd-com-au
-title: Is mlcd.com.au Legit? Trust Signal Check
+title: Is mlcd.com.au Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mlcd.com.au: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mlcd.com.au scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:28:31.545Z'
 finalUrl: 'https://www.mlcd.com.au/'
 reachable: true

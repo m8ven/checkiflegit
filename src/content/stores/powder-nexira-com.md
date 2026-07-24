@@ -1,10 +1,10 @@
 ---
 domain: powder.nexira.com
 slug: powder-nexira-com
-title: Is powder.nexira.com Legit? Trust Signal Check
+title: Is powder.nexira.com Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for powder.nexira.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  powder.nexira.com scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:48:17.841Z'
 finalUrl: 'https://powder.nexira.com/'
 reachable: true

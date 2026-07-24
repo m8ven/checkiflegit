@@ -1,10 +1,10 @@
 ---
 domain: myfitbeauty.com
 slug: myfitbeauty-com
-title: Is myfitbeauty.com Legit? Trust Signal Check
+title: Is myfitbeauty.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for myfitbeauty.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  myfitbeauty.com scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:37:55.841Z'
 finalUrl: 'https://myfitbeauty.com/'
 reachable: true

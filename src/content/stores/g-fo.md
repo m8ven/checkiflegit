@@ -1,10 +1,11 @@
 ---
 domain: g.fo
 slug: g-fo
-title: Is g.fo Legit? Trust Signal Check
+title: Is g.fo Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for g.fo: moderate trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  g.fo scores 58/100 on our public trust checks. No public contact details
+  detected on the homepage. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:18:03.904Z'
 finalUrl: 'https://www.g.fo/'
 reachable: true

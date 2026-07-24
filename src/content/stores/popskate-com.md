@@ -1,10 +1,10 @@
 ---
 domain: popskate.com
 slug: popskate-com
-title: Is popskate.com Legit? Trust Signal Check
+title: Is popskate.com Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for popskate.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  popskate.com scores 31/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:33:17.255Z'
 finalUrl: 'http://www.popskate.com/'
 reachable: true

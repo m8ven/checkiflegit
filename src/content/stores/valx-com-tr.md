@@ -1,10 +1,10 @@
 ---
 domain: valx.com.tr
 slug: valx-com-tr
-title: Is valx.com.tr Legit? Trust Signal Check
+title: Is valx.com.tr Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for valx.com.tr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  valx.com.tr scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:26.661Z'
 finalUrl: 'https://valx.com.tr/'
 reachable: true

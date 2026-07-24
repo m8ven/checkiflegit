@@ -1,10 +1,10 @@
 ---
 domain: jademotor.com
 slug: jademotor-com
-title: Is jademotor.com Legit? Trust Signal Check
+title: Is jademotor.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for jademotor.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jademotor.com scores 76/100 on our public trust checks. Established domain —
+  registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:27.828Z'
 finalUrl: 'https://jademotor.com/'
 reachable: true

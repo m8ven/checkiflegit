@@ -1,10 +1,10 @@
 ---
 domain: julien-daillere.com
 slug: julien-daillere-com
-title: Is julien-daillere.com Legit? Trust Signal Check
+title: Is julien-daillere.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for julien-daillere.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  julien-daillere.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:21:36.626Z'
 finalUrl: 'https://www.julien-daillere.com/fr/'
 reachable: true

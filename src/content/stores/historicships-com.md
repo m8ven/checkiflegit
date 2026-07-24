@@ -1,10 +1,10 @@
 ---
 domain: historicships.com
 slug: historicships-com
-title: Is historicships.com Legit? Trust Signal Check
+title: Is historicships.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for historicships.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  historicships.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T03:20:22.209Z'
 finalUrl: 'https://www.historicships.com/'
 reachable: true

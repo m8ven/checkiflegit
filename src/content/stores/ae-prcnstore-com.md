@@ -1,10 +1,10 @@
 ---
 domain: ae.prcnstore.com
 slug: ae-prcnstore-com
-title: Is ae.prcnstore.com Legit? Trust Signal Check
+title: Is ae.prcnstore.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for ae.prcnstore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ae.prcnstore.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:40:51.184Z'
 finalUrl: 'https://ae.prcnstore.com/'
 reachable: true

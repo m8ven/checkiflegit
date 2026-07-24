@@ -1,10 +1,10 @@
 ---
 domain: b2b.gomeriasaltamirano.com.ar
 slug: b2b-gomeriasaltamirano-com-ar
-title: Is b2b.gomeriasaltamirano.com.ar Legit? Trust Signal Check
+title: Is b2b.gomeriasaltamirano.com.ar Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for b2b.gomeriasaltamirano.com.ar: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  b2b.gomeriasaltamirano.com.ar scores 61/100 on our public trust checks. No
+  links to major social platforms found.
 fetchedAt: '2026-06-25T03:35:35.626Z'
 finalUrl: 'https://b2b.gomeriasaltamirano.com.ar/'
 reachable: true

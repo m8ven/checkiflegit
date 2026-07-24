@@ -1,10 +1,10 @@
 ---
 domain: istina-vnutri.ru
 slug: istina-vnutri-ru
-title: Is istina-vnutri.ru Legit? Trust Signal Check
+title: Is istina-vnutri.ru Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for istina-vnutri.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  istina-vnutri.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:42:30.613Z'
 finalUrl: 'https://istina-vnutri.ru/'
 reachable: true

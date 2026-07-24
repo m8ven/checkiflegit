@@ -1,10 +1,10 @@
 ---
 domain: dreamfashion.lk
 slug: dreamfashion-lk
-title: Is dreamfashion.lk Legit? Trust Signal Check
+title: Is dreamfashion.lk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for dreamfashion.lk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dreamfashion.lk scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:34:30.461Z'
 finalUrl: 'https://dreamfashion.lk/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: msk.rialta.ru
 slug: msk-rialta-ru
-title: Is msk.rialta.ru Legit? Trust Signal Check
+title: Is msk.rialta.ru Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for msk.rialta.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  msk.rialta.ru scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T14:58:51.656Z'
 finalUrl: 'https://msk.rialta.ru/'
 reachable: true

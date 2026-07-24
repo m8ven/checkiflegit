@@ -1,10 +1,11 @@
 ---
 domain: primor.eu
 slug: primor-eu
-title: Is primor.eu Legit? Trust Signal Check
+title: Is primor.eu Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for primor.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  primor.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-24T21:44:27.369Z'
 finalUrl: 'https://www.primor.eu/es_es/'
 reachable: true

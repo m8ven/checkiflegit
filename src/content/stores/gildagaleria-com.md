@@ -1,10 +1,10 @@
 ---
 domain: gildagaleria.com
 slug: gildagaleria-com
-title: Is gildagaleria.com Legit? Trust Signal Check
+title: Is gildagaleria.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for gildagaleria.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gildagaleria.com scores 76/100 on our public trust checks. Established domain
+  — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:48.370Z'
 finalUrl: 'https://gildagaleria.com/'
 reachable: true

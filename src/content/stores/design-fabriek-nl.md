@@ -1,10 +1,10 @@
 ---
 domain: design-fabriek.nl
 slug: design-fabriek-nl
-title: Is design-fabriek.nl Legit? Trust Signal Check
+title: Is design-fabriek.nl Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for design-fabriek.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  design-fabriek.nl scores 85/100 on our public trust checks. Established domain
+  — registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:12.408Z'
 finalUrl: 'https://www.design-fabriek.nl/'
 reachable: true

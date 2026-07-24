@@ -1,10 +1,10 @@
 ---
 domain: lametierartz.com
 slug: lametierartz-com
-title: Is lametierartz.com Legit? Trust Signal Check
+title: Is lametierartz.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lametierartz.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lametierartz.com scores 88/100 on our public trust checks. Established domain
+  — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:22.389Z'
 finalUrl: 'https://lametierartz.com/'
 reachable: true

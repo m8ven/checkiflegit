@@ -1,10 +1,10 @@
 ---
 domain: nestasia.in
 slug: nestasia-in
-title: Is nestasia.in Legit? Trust Signal Check
+title: Is nestasia.in Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nestasia.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nestasia.in scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:22:16.864Z'
 finalUrl: 'https://nestasia.in/'
 reachable: true

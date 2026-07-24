@@ -1,10 +1,10 @@
 ---
 domain: collecthors.eu
 slug: collecthors-eu
-title: Is collecthors.eu Legit? Trust Signal Check
+title: Is collecthors.eu Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for collecthors.eu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  collecthors.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:55:29.658Z'
 finalUrl: 'https://www.collecthors.eu/'
 reachable: true

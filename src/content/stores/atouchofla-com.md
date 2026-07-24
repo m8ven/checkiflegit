@@ -1,10 +1,10 @@
 ---
 domain: atouchofla.com
 slug: atouchofla-com
-title: Is atouchofla.com Legit? Trust Signal Check
+title: Is atouchofla.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for atouchofla.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  atouchofla.com scores 70/100 on our public trust checks. Established domain —
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:25.589Z'
 finalUrl: 'https://atouchofla.com/'
 reachable: true

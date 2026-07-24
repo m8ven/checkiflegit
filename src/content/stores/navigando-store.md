@@ -1,10 +1,10 @@
 ---
 domain: navigando.store
 slug: navigando-store
-title: Is navigando.store Legit? Trust Signal Check
+title: Is navigando.store Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for navigando.store: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  navigando.store scores 100/100 on our public trust checks. Established domain
+  — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:53.563Z'
 finalUrl: 'https://www.navigando.store/'
 reachable: true

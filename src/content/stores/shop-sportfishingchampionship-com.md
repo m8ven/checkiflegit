@@ -1,11 +1,10 @@
 ---
 domain: shop.sportfishingchampionship.com
 slug: shop-sportfishingchampionship-com
-title: Is shop.sportfishingchampionship.com Legit? Trust Signal Check
+title: Is shop.sportfishingchampionship.com Legit? Score 19/100
 description: >-
-  An automated trust-signal check for shop.sportfishingchampionship.com: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  shop.sportfishingchampionship.com scores 19/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:05:55.223Z'
 finalUrl: 'https://shop.sportfishingchampionship.com/'
 reachable: true

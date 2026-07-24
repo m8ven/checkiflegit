@@ -1,10 +1,10 @@
 ---
 domain: pacificinstallations.co.za
 slug: pacificinstallations-co-za
-title: Is pacificinstallations.co.za Legit? Trust Signal Check
+title: Is pacificinstallations.co.za Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for pacificinstallations.co.za: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pacificinstallations.co.za scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:24:10.050Z'
 finalUrl: 'https://www.pacificinstallations.co.za/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: apamehgraph.ir
 slug: apamehgraph-ir
-title: Is apamehgraph.ir Legit? Trust Signal Check
+title: Is apamehgraph.ir Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for apamehgraph.ir: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  apamehgraph.ir scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T14:59:45.414Z'
 finalUrl: 'https://apamehgraph.ir/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dziadborowy.pl
 slug: dziadborowy-pl
-title: Is dziadborowy.pl Legit? Trust Signal Check
+title: Is dziadborowy.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for dziadborowy.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dziadborowy.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:35:18.882Z'
 finalUrl: 'https://dziadborowy.pl/'
 reachable: true

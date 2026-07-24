@@ -1,10 +1,10 @@
 ---
 domain: silkgramtextiles.com
 slug: silkgramtextiles-com
-title: Is silkgramtextiles.com Legit? Trust Signal Check
+title: Is silkgramtextiles.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for silkgramtextiles.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  silkgramtextiles.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:01:27.454Z'
 finalUrl: 'https://silkgramtextiles.com/'
 reachable: true

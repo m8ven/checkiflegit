@@ -1,10 +1,10 @@
 ---
 domain: quotidianodifoggia.it
 slug: quotidianodifoggia-it
-title: Is quotidianodifoggia.it Legit? Trust Signal Check
+title: Is quotidianodifoggia.it Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for quotidianodifoggia.it: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  quotidianodifoggia.it scores 64/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T11:57:47.643Z'
 finalUrl: 'https://quotidianodifoggia.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pideloto.com
 slug: pideloto-com
-title: Is pideloto.com Legit? Trust Signal Check
+title: Is pideloto.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for pideloto.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pideloto.com scores 73/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:31.058Z'
 finalUrl: 'https://pideloto.com/'
 reachable: true

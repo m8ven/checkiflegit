@@ -1,10 +1,10 @@
 ---
 domain: coolwaterjewelry.net
 slug: coolwaterjewelry-net
-title: Is coolwaterjewelry.net Legit? Trust Signal Check
+title: Is coolwaterjewelry.net Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for coolwaterjewelry.net: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  coolwaterjewelry.net scores 94/100 on our public trust checks. Established
+  domain — registered 17.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:37.753Z'
 finalUrl: 'https://coolwaterjewelry.net/'
 reachable: true

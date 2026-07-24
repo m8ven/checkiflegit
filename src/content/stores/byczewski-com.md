@@ -1,10 +1,10 @@
 ---
 domain: byczewski.com
 slug: byczewski-com
-title: Is byczewski.com Legit? Trust Signal Check
+title: Is byczewski.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for byczewski.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  byczewski.com scores 94/100 on our public trust checks. Established domain —
+  registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:53.152Z'
 finalUrl: 'https://byczewski.com/'
 reachable: true

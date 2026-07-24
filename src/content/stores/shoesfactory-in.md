@@ -1,10 +1,10 @@
 ---
 domain: shoesfactory.in
 slug: shoesfactory-in
-title: Is shoesfactory.in Legit? Trust Signal Check
+title: Is shoesfactory.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shoesfactory.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shoesfactory.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:35:28.343Z'
 finalUrl: 'https://shoesfactory.in/'
 reachable: true

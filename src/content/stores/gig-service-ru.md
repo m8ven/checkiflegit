@@ -1,10 +1,11 @@
 ---
 domain: gig-service.ru
 slug: gig-service-ru
-title: Is gig-service.ru Legit? Trust Signal Check
+title: Is gig-service.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for gig-service.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gig-service.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:46:45.194Z'
 finalUrl: 'https://gig-service.ru/'
 reachable: true

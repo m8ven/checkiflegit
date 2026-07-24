@@ -1,10 +1,10 @@
 ---
 domain: nexyto.com
 slug: nexyto-com
-title: Is nexyto.com Legit? Trust Signal Check
+title: Is nexyto.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for nexyto.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  nexyto.com scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:15:22.575Z'
 finalUrl: 'https://nexyto.com/'
 reachable: true

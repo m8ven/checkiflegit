@@ -1,10 +1,10 @@
 ---
 domain: movnat.com
 slug: movnat-com
-title: Is movnat.com Legit? Trust Signal Check
+title: Is movnat.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for movnat.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  movnat.com scores 100/100 on our public trust checks. Established domain —
+  registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:21.956Z'
 finalUrl: 'https://movnat.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ten-golf.com
 slug: ten-golf-com
-title: Is ten-golf.com Legit? Trust Signal Check
+title: Is ten-golf.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ten-golf.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ten-golf.com scores 100/100 on our public trust checks. Established domain —
+  registered 19.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:30.060Z'
 finalUrl: 'https://ten-golf.com/es/'
 reachable: true

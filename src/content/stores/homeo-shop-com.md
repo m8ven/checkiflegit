@@ -1,10 +1,10 @@
 ---
 domain: homeo-shop.com
 slug: homeo-shop-com
-title: Is homeo-shop.com Legit? Trust Signal Check
+title: Is homeo-shop.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for homeo-shop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  homeo-shop.com scores 100/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:47.583Z'
 finalUrl: 'https://homeo-shop.com/'
 reachable: true

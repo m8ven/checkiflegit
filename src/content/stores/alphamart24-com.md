@@ -1,10 +1,10 @@
 ---
 domain: alphamart24.com
 slug: alphamart24-com
-title: Is alphamart24.com Legit? Trust Signal Check
+title: Is alphamart24.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for alphamart24.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alphamart24.com scores 58/100 on our public trust checks. Domain is relatively
+  young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:34:59.082Z'
 finalUrl: 'https://alphamart24.com/'
 reachable: true

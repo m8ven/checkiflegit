@@ -1,10 +1,10 @@
 ---
 domain: koach-hatodaa.co.il
 slug: koach-hatodaa-co-il
-title: Is koach-hatodaa.co.il Legit? Trust Signal Check
+title: Is koach-hatodaa.co.il Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for koach-hatodaa.co.il: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  koach-hatodaa.co.il scores 40/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:46:28.104Z'
 finalUrl: 'https://koach-hatodaa.co.il/'
 reachable: true

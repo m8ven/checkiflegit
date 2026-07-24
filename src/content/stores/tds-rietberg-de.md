@@ -1,10 +1,10 @@
 ---
 domain: tds-rietberg.de
 slug: tds-rietberg-de
-title: Is tds-rietberg.de Legit? Trust Signal Check
+title: Is tds-rietberg.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for tds-rietberg.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tds-rietberg.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:33:24.938Z'
 finalUrl: 'https://tds-rietberg.de/'
 reachable: true

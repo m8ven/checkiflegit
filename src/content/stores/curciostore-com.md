@@ -1,10 +1,10 @@
 ---
 domain: curciostore.com
 slug: curciostore-com
-title: Is curciostore.com Legit? Trust Signal Check
+title: Is curciostore.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for curciostore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  curciostore.com scores 100/100 on our public trust checks. Established domain
+  — registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:31:46.914Z'
 finalUrl: 'https://curciostore.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: easiestswing.com
 slug: easiestswing-com
-title: Is easiestswing.com Legit? Trust Signal Check
+title: Is easiestswing.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for easiestswing.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  easiestswing.com scores 88/100 on our public trust checks. Established domain
+  — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:35.202Z'
 finalUrl: 'https://easiestswing.com/'
 reachable: true

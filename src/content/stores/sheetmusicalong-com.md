@@ -1,10 +1,10 @@
 ---
 domain: sheetmusicalong.com
 slug: sheetmusicalong-com
-title: Is sheetmusicalong.com Legit? Trust Signal Check
+title: Is sheetmusicalong.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for sheetmusicalong.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sheetmusicalong.com scores 73/100 on our public trust checks. Established
+  domain — registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:21:37.421Z'
 finalUrl: 'https://www.sheetmusicalong.com/'
 reachable: true

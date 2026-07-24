@@ -1,10 +1,10 @@
 ---
 domain: thedailysky.net
 slug: thedailysky-net
-title: Is thedailysky.net Legit? Trust Signal Check
+title: Is thedailysky.net Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for thedailysky.net: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  thedailysky.net scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found.
 fetchedAt: '2026-06-25T15:08:39.274Z'
 finalUrl: 'https://thedailysky.net/'
 reachable: true

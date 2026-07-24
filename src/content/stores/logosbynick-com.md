@@ -1,10 +1,10 @@
 ---
 domain: logosbynick.com
 slug: logosbynick-com
-title: Is logosbynick.com Legit? Trust Signal Check
+title: Is logosbynick.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for logosbynick.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  logosbynick.com scores 88/100 on our public trust checks. Established domain —
+  registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:28.584Z'
 finalUrl: 'https://logosbynick.com/'
 reachable: true

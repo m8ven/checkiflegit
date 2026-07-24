@@ -1,10 +1,10 @@
 ---
 domain: business.floridasmart.com
 slug: business-floridasmart-com
-title: Is business.floridasmart.com Legit? Trust Signal Check
+title: Is business.floridasmart.com Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for business.floridasmart.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  business.floridasmart.com scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:54.413Z'
 finalUrl: 'https://business.floridasmart.com/'
 reachable: true

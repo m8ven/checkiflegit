@@ -1,10 +1,10 @@
 ---
 domain: helenabynature.com
 slug: helenabynature-com
-title: Is helenabynature.com Legit? Trust Signal Check
+title: Is helenabynature.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for helenabynature.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  helenabynature.com scores 64/100 on our public trust checks. Domain is
+  relatively young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:57:37.786Z'
 finalUrl: 'https://helenabynature.com/'
 reachable: true

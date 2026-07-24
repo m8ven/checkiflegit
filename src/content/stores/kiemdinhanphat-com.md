@@ -1,10 +1,10 @@
 ---
 domain: kiemdinhanphat.com
 slug: kiemdinhanphat-com
-title: Is kiemdinhanphat.com Legit? Trust Signal Check
+title: Is kiemdinhanphat.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for kiemdinhanphat.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kiemdinhanphat.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:45:47.398Z'
 finalUrl: 'https://kiemdinhanphat.com/'
 reachable: true

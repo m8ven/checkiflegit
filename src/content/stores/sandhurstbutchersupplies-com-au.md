@@ -1,11 +1,10 @@
 ---
 domain: sandhurstbutchersupplies.com.au
 slug: sandhurstbutchersupplies-com-au
-title: Is sandhurstbutchersupplies.com.au Legit? Trust Signal Check
+title: Is sandhurstbutchersupplies.com.au Legit? Trust Score 6/100
 description: >-
-  An automated trust-signal check for sandhurstbutchersupplies.com.au: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  sandhurstbutchersupplies.com.au scores 6/100 on our public trust checks.
+  Standard contact and policy pages were not found.
 fetchedAt: '2026-06-25T12:34:09.191Z'
 finalUrl: 'https://www.sandhurstbutchersupplies.com.au/'
 reachable: true

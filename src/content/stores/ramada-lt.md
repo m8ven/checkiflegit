@@ -1,10 +1,10 @@
 ---
 domain: ramada.lt
 slug: ramada-lt
-title: Is ramada.lt Legit? Trust Signal Check
+title: Is ramada.lt Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ramada.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ramada.lt scores 88/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:38.780Z'
 finalUrl: 'https://ramada.lt/'
 reachable: true

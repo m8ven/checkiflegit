@@ -1,10 +1,10 @@
 ---
 domain: ius-sdb.com
 slug: ius-sdb-com
-title: Is ius-sdb.com Legit? Trust Signal Check
+title: Is ius-sdb.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ius-sdb.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ius-sdb.com scores 76/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:18.384Z'
 finalUrl: 'https://ius-sdb.com/'
 reachable: true

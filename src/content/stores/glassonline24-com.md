@@ -1,10 +1,10 @@
 ---
 domain: glassonline24.com
 slug: glassonline24-com
-title: Is glassonline24.com Legit? Trust Signal Check
+title: Is glassonline24.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for glassonline24.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  glassonline24.com scores 100/100 on our public trust checks. Established
+  domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:22.725Z'
 finalUrl: 'https://www.glassonline24.com/'
 reachable: true

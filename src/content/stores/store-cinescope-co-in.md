@@ -1,10 +1,10 @@
 ---
 domain: store.cinescope.co.in
 slug: store-cinescope-co-in
-title: Is store.cinescope.co.in Legit? Trust Signal Check
+title: Is store.cinescope.co.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for store.cinescope.co.in: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  store.cinescope.co.in scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:27.165Z'
 finalUrl: 'https://store.cinescope.co.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ivorymix.com
 slug: ivorymix-com
-title: Is ivorymix.com Legit? Trust Signal Check
+title: Is ivorymix.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for ivorymix.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ivorymix.com scores 70/100 on our public trust checks. Established domain —
+  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:38:41.868Z'
 finalUrl: 'https://ivorymix.com/'
 reachable: true

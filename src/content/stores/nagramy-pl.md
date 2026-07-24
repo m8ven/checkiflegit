@@ -1,10 +1,10 @@
 ---
 domain: nagramy.pl
 slug: nagramy-pl
-title: Is nagramy.pl Legit? Trust Signal Check
+title: Is nagramy.pl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nagramy.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nagramy.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:39:47.475Z'
 finalUrl: 'https://www.nagramy.pl/'
 reachable: true

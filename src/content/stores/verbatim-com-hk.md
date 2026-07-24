@@ -1,10 +1,10 @@
 ---
 domain: verbatim.com.hk
 slug: verbatim-com-hk
-title: Is verbatim.com.hk Legit? Trust Signal Check
+title: Is verbatim.com.hk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for verbatim.com.hk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  verbatim.com.hk scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:36:40.672Z'
 finalUrl: 'https://verbatim.com.hk/'
 reachable: true

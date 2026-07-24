@@ -1,10 +1,10 @@
 ---
 domain: liveupresources.com
 slug: liveupresources-com
-title: Is liveupresources.com Legit? Trust Signal Check
+title: Is liveupresources.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for liveupresources.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  liveupresources.com scores 100/100 on our public trust checks. Established
+  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:12:19.226Z'
 finalUrl: 'https://liveupresources.com/'
 reachable: true

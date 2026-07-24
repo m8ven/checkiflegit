@@ -1,10 +1,11 @@
 ---
 domain: thebusinessdirectory.co.za
 slug: thebusinessdirectory-co-za
-title: Is thebusinessdirectory.co.za Legit? Trust Signal Check
+title: Is thebusinessdirectory.co.za Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for thebusinessdirectory.co.za: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thebusinessdirectory.co.za scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:31:24.933Z'
 finalUrl: 'https://www.thebusinessdirectory.co.za/'
 reachable: true

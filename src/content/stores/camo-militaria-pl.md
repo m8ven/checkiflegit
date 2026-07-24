@@ -1,10 +1,10 @@
 ---
 domain: camo-militaria.pl
 slug: camo-militaria-pl
-title: Is camo-militaria.pl Legit? Trust Signal Check
+title: Is camo-militaria.pl Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for camo-militaria.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  camo-militaria.pl scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:22:03.194Z'
 finalUrl: 'https://camo-militaria.pl/'
 reachable: true

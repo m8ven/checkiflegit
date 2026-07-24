@@ -1,10 +1,10 @@
 ---
 domain: natalsanrafael.es
 slug: natalsanrafael-es
-title: Is natalsanrafael.es Legit? Trust Signal Check
+title: Is natalsanrafael.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for natalsanrafael.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  natalsanrafael.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:38:08.950Z'
 finalUrl: 'https://natalsanrafael.es/'
 reachable: true

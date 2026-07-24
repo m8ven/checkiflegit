@@ -1,10 +1,10 @@
 ---
 domain: nzradiators.com
 slug: nzradiators-com
-title: Is nzradiators.com Legit? Trust Signal Check
+title: Is nzradiators.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for nzradiators.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nzradiators.com scores 73/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:56:05.497Z'
 finalUrl: 'https://nzradiators.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: katjaharders.de
 slug: katjaharders-de
-title: Is katjaharders.de Legit? Trust Signal Check
+title: Is katjaharders.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for katjaharders.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  katjaharders.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:51:30.000Z'
 finalUrl: 'https://katjaharders.de/'
 reachable: true

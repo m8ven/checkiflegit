@@ -1,10 +1,10 @@
 ---
 domain: javadiart.ir
 slug: javadiart-ir
-title: Is javadiart.ir Legit? Trust Signal Check
+title: Is javadiart.ir Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for javadiart.ir: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  javadiart.ir scores 31/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:03:21.405Z'
 finalUrl: 'https://javadiart.ir/'
 reachable: true

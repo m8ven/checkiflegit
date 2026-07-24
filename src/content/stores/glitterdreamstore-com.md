@@ -1,10 +1,10 @@
 ---
 domain: glitterdreamstore.com
 slug: glitterdreamstore-com
-title: Is glitterdreamstore.com Legit? Trust Signal Check
+title: Is glitterdreamstore.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for glitterdreamstore.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  glitterdreamstore.com scores 94/100 on our public trust checks. Established
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:58.560Z'
 finalUrl: 'https://glitterdreamstore.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: bilder-fuchs.de
 slug: bilder-fuchs-de
-title: Is bilder-fuchs.de Legit? Trust Signal Check
+title: Is bilder-fuchs.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bilder-fuchs.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bilder-fuchs.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:52:55.238Z'
 finalUrl: 'https://www.bilder-fuchs.de/'
 reachable: true

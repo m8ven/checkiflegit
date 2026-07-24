@@ -1,10 +1,11 @@
 ---
 domain: farmaciadelsoleonline.it
 slug: farmaciadelsoleonline-it
-title: Is farmaciadelsoleonline.it Legit? Trust Signal Check
+title: Is farmaciadelsoleonline.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for farmaciadelsoleonline.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  farmaciadelsoleonline.it scores 100/100 on our public trust checks.
+  Established domain — registered 7.1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:42:20.064Z'
 finalUrl: 'https://farmaciadelsoleonline.it/'
 reachable: true

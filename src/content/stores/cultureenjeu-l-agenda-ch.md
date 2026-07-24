@@ -1,10 +1,10 @@
 ---
 domain: cultureenjeu.l-agenda.ch
 slug: cultureenjeu-l-agenda-ch
-title: Is cultureenjeu.l-agenda.ch Legit? Trust Signal Check
+title: Is cultureenjeu.l-agenda.ch Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for cultureenjeu.l-agenda.ch: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cultureenjeu.l-agenda.ch scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:39:30.593Z'
 finalUrl: 'https://cultureenjeu.l-agenda.ch/'
 reachable: true

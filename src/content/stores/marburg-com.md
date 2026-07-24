@@ -1,10 +1,10 @@
 ---
 domain: marburg.com
 slug: marburg-com
-title: Is marburg.com Legit? Trust Signal Check
+title: Is marburg.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for marburg.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  marburg.com scores 70/100 on our public trust checks. Established domain —
+  registered 30.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:08.032Z'
 finalUrl: 'https://marburg.com/de/'
 reachable: true

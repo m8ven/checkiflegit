@@ -1,10 +1,10 @@
 ---
 domain: matriz.psarj.com.br
 slug: matriz-psarj-com-br
-title: Is matriz.psarj.com.br Legit? Trust Signal Check
+title: Is matriz.psarj.com.br Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for matriz.psarj.com.br: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  matriz.psarj.com.br scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:21:44.458Z'
 finalUrl: 'https://matriz.psarj.com.br/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: rhodeskin.com
 slug: rhodeskin-com
-title: Is rhodeskin.com Legit? Trust Signal Check
+title: Is rhodeskin.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rhodeskin.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rhodeskin.com scores 88/100 on our public trust checks. Established domain —
+  registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:16.648Z'
 finalUrl: 'https://www.rhodeskin.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: denlongviet.vn
 slug: denlongviet-vn
-title: Is denlongviet.vn Legit? Trust Signal Check
+title: Is denlongviet.vn Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for denlongviet.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  denlongviet.vn scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:39:52.375Z'
 finalUrl: 'https://denlongviet.vn/'
 reachable: true

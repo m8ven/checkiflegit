@@ -1,10 +1,10 @@
 ---
 domain: londonschoolobs.com
 slug: londonschoolobs-com
-title: Is londonschoolobs.com Legit? Trust Signal Check
+title: Is londonschoolobs.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for londonschoolobs.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  londonschoolobs.com scores 73/100 on our public trust checks. Established
+  domain — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:31.102Z'
 finalUrl: 'https://londonschoolobs.com/'
 reachable: true

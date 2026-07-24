@@ -1,10 +1,10 @@
 ---
 domain: 4youcommunication.fr
 slug: 4youcommunication-fr
-title: Is 4youcommunication.fr Legit? Trust Signal Check
+title: Is 4youcommunication.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for 4youcommunication.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  4youcommunication.fr scores 88/100 on our public trust checks. Established
+  domain — registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:09.771Z'
 finalUrl: 'https://4youcommunication.fr/'
 reachable: true

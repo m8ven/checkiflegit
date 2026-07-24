@@ -1,10 +1,10 @@
 ---
 domain: cookingmonster.net
 slug: cookingmonster-net
-title: Is cookingmonster.net Legit? Trust Signal Check
+title: Is cookingmonster.net Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for cookingmonster.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cookingmonster.net scores 76/100 on our public trust checks. Established
+  domain — registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:01.878Z'
 finalUrl: 'https://cookingmonster.net/'
 reachable: true

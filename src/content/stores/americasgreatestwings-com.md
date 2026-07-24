@@ -1,10 +1,10 @@
 ---
 domain: americasgreatestwings.com
 slug: americasgreatestwings-com
-title: Is americasgreatestwings.com Legit? Trust Signal Check
+title: Is americasgreatestwings.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for americasgreatestwings.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  americasgreatestwings.com scores 70/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:00.132Z'
 finalUrl: 'https://americasgreatestwings.com/'
 reachable: true

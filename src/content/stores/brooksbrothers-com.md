@@ -1,10 +1,10 @@
 ---
 domain: brooksbrothers.com
 slug: brooksbrothers-com
-title: Is brooksbrothers.com Legit? Trust Signal Check
+title: Is brooksbrothers.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for brooksbrothers.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brooksbrothers.com scores 70/100 on our public trust checks. Established
+  domain — registered 28.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:50.579Z'
 finalUrl: 'https://www.brooksbrothers.com/'
 reachable: true

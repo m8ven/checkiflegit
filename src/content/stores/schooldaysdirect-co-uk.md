@@ -1,10 +1,10 @@
 ---
 domain: schooldaysdirect.co.uk
 slug: schooldaysdirect-co-uk
-title: Is schooldaysdirect.co.uk Legit? Trust Signal Check
+title: Is schooldaysdirect.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for schooldaysdirect.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  schooldaysdirect.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:17.108Z'
 finalUrl: 'https://www.schooldaysdirect.co.uk/'
 reachable: true

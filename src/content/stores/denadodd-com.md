@@ -1,10 +1,10 @@
 ---
 domain: denadodd.com
 slug: denadodd-com
-title: Is denadodd.com Legit? Trust Signal Check
+title: Is denadodd.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for denadodd.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  denadodd.com scores 88/100 on our public trust checks. Established domain —
+  registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:07.813Z'
 finalUrl: 'https://denadodd.com/'
 reachable: true

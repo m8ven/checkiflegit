@@ -1,10 +1,10 @@
 ---
 domain: toptuning.nl
 slug: toptuning-nl
-title: Is toptuning.nl Legit? Trust Signal Check
+title: Is toptuning.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for toptuning.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  toptuning.nl scores 88/100 on our public trust checks. Established domain —
+  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:42.051Z'
 finalUrl: 'https://www.toptuning.nl/'
 reachable: true

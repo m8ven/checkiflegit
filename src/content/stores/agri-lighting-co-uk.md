@@ -1,10 +1,10 @@
 ---
 domain: agri-lighting.co.uk
 slug: agri-lighting-co-uk
-title: Is agri-lighting.co.uk Legit? Trust Signal Check
+title: Is agri-lighting.co.uk Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for agri-lighting.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  agri-lighting.co.uk scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:40:28.819Z'
 finalUrl: 'https://agri-lighting.co.uk/'
 reachable: true

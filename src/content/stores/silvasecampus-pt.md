@@ -1,10 +1,10 @@
 ---
 domain: silvasecampus.pt
 slug: silvasecampus-pt
-title: Is silvasecampus.pt Legit? Trust Signal Check
+title: Is silvasecampus.pt Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for silvasecampus.pt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  silvasecampus.pt scores 94/100 on our public trust checks. Established domain
+  — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:44:44.372Z'
 finalUrl: 'https://www.silvasecampus.pt/'
 reachable: true

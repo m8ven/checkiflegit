@@ -1,10 +1,10 @@
 ---
 domain: boutique.snhf.org
 slug: boutique-snhf-org
-title: Is boutique.snhf.org Legit? Trust Signal Check
+title: Is boutique.snhf.org Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for boutique.snhf.org: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  boutique.snhf.org scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:20:19.582Z'
 finalUrl: 'https://boutique.snhf.org/'
 reachable: true

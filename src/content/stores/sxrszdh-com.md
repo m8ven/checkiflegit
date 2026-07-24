@@ -1,10 +1,10 @@
 ---
 domain: sxrszdh.com
 slug: sxrszdh-com
-title: Is sxrszdh.com Legit? Trust Signal Check
+title: Is sxrszdh.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sxrszdh.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sxrszdh.com scores 73/100 on our public trust checks. Established domain —
+  registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:10.279Z'
 finalUrl: 'https://www.sxrszdh.com/'
 reachable: true

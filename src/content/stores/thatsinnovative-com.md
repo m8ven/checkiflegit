@@ -1,10 +1,10 @@
 ---
 domain: thatsinnovative.com
 slug: thatsinnovative-com
-title: Is thatsinnovative.com Legit? Trust Signal Check
+title: Is thatsinnovative.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for thatsinnovative.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thatsinnovative.com scores 76/100 on our public trust checks. Established
+  domain — registered 24.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:26.031Z'
 finalUrl: 'https://thatsinnovative.com/'
 reachable: true

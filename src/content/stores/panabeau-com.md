@@ -1,10 +1,10 @@
 ---
 domain: panabeau.com
 slug: panabeau-com
-title: Is panabeau.com Legit? Trust Signal Check
+title: Is panabeau.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for panabeau.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  panabeau.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:32.089Z'
 finalUrl: 'https://panabeau.com/'
 reachable: true

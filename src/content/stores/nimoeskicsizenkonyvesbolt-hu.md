@@ -1,10 +1,10 @@
 ---
 domain: nimoeskicsizenkonyvesbolt.hu
 slug: nimoeskicsizenkonyvesbolt-hu
-title: Is nimoeskicsizenkonyvesbolt.hu Legit? Trust Signal Check
+title: Is nimoeskicsizenkonyvesbolt.hu Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for nimoeskicsizenkonyvesbolt.hu: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  nimoeskicsizenkonyvesbolt.hu scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:23:34.051Z'
 finalUrl: 'https://www.nimoeskicsizenkonyvesbolt.hu/'
 reachable: true

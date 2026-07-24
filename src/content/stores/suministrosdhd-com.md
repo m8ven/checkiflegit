@@ -1,10 +1,10 @@
 ---
 domain: suministrosdhd.com
 slug: suministrosdhd-com
-title: Is suministrosdhd.com Legit? Trust Signal Check
+title: Is suministrosdhd.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for suministrosdhd.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  suministrosdhd.com scores 73/100 on our public trust checks. Established
+  domain — registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:48.700Z'
 finalUrl: 'https://www.suministrosdhd.com/'
 reachable: true

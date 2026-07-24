@@ -1,10 +1,10 @@
 ---
 domain: lush-lash.com
 slug: lush-lash-com
-title: Is lush-lash.com Legit? Trust Signal Check
+title: Is lush-lash.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for lush-lash.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lush-lash.com scores 100/100 on our public trust checks. Established domain —
+  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:42.524Z'
 finalUrl: 'https://lush-lash.com/'
 reachable: true

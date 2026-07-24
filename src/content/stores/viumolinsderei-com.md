@@ -1,10 +1,10 @@
 ---
 domain: viumolinsderei.com
 slug: viumolinsderei-com
-title: Is viumolinsderei.com Legit? Trust Signal Check
+title: Is viumolinsderei.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for viumolinsderei.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  viumolinsderei.com scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:55:44.290Z'
 finalUrl: 'https://viumolinsderei.com/'
 reachable: true

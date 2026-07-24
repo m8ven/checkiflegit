@@ -1,10 +1,10 @@
 ---
 domain: convoqsignature.com
 slug: convoqsignature-com
-title: Is convoqsignature.com Legit? Trust Signal Check
+title: Is convoqsignature.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for convoqsignature.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  convoqsignature.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:16:22.746Z'
 finalUrl: 'https://www.convoqsignature.com/'
 reachable: true

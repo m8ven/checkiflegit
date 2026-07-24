@@ -1,10 +1,10 @@
 ---
 domain: hongthaipackaging.com
 slug: hongthaipackaging-com
-title: Is hongthaipackaging.com Legit? Trust Signal Check
+title: Is hongthaipackaging.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for hongthaipackaging.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hongthaipackaging.com scores 88/100 on our public trust checks. Established
+  domain — registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:24.721Z'
 finalUrl: 'https://hongthaipackaging.com/'
 reachable: true

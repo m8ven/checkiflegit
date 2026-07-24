@@ -1,10 +1,10 @@
 ---
 domain: medlife.com.ua
 slug: medlife-com-ua
-title: Is medlife.com.ua Legit? Trust Signal Check
+title: Is medlife.com.ua Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for medlife.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  medlife.com.ua scores 73/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:46.015Z'
 finalUrl: 'https://www.medlife.com.ua/'
 reachable: true

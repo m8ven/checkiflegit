@@ -1,10 +1,10 @@
 ---
 domain: cipokellekek.hu
 slug: cipokellekek-hu
-title: Is cipokellekek.hu Legit? Trust Signal Check
+title: Is cipokellekek.hu Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for cipokellekek.hu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cipokellekek.hu scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T03:39:06.163Z'
 finalUrl: 'https://cipokellekek.hu/'
 reachable: true

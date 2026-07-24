@@ -1,10 +1,10 @@
 ---
 domain: bajkmanija.si
 slug: bajkmanija-si
-title: Is bajkmanija.si Legit? Trust Signal Check
+title: Is bajkmanija.si Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for bajkmanija.si: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bajkmanija.si scores 70/100 on our public trust checks. Established domain —
+  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:06.315Z'
 finalUrl: 'https://www.bajkmanija.si/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: felino-pro.com
 slug: felino-pro-com
-title: Is felino-pro.com Legit? Trust Signal Check
+title: Is felino-pro.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for felino-pro.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  felino-pro.com scores 94/100 on our public trust checks. Established domain —
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:47.905Z'
 finalUrl: 'https://felino-pro.com/'
 reachable: true

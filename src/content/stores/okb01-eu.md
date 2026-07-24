@@ -1,10 +1,10 @@
 ---
 domain: okb01.eu
 slug: okb01-eu
-title: Is okb01.eu Legit? Trust Signal Check
+title: Is okb01.eu Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for okb01.eu: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  okb01.eu scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T11:56:35.391Z'
 finalUrl: 'https://okb01.eu/'
 reachable: true

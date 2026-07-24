@@ -1,10 +1,10 @@
 ---
 domain: merci.mx
 slug: merci-mx
-title: Is merci.mx Legit? Trust Signal Check
+title: Is merci.mx Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for merci.mx: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  merci.mx scores 88/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:28.551Z'
 finalUrl: 'https://merci.mx/'
 reachable: true

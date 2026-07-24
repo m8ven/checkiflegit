@@ -1,10 +1,11 @@
 ---
 domain: camaranacionaldenegocios.com
 slug: camaranacionaldenegocios-com
-title: Is camaranacionaldenegocios.com Legit? Trust Signal Check
+title: Is camaranacionaldenegocios.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for camaranacionaldenegocios.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  camaranacionaldenegocios.com scores 64/100 on our public trust checks. No
+  public contact details detected on the homepage. Limited social media
+  presence.
 fetchedAt: '2026-06-25T14:49:57.905Z'
 finalUrl: 'https://camaranacionaldenegocios.com/'
 reachable: true

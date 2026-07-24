@@ -1,10 +1,10 @@
 ---
 domain: sellastudio.com
 slug: sellastudio-com
-title: Is sellastudio.com Legit? Trust Signal Check
+title: Is sellastudio.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sellastudio.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sellastudio.com scores 100/100 on our public trust checks. Established domain
+  — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:26.985Z'
 finalUrl: 'https://sellastudio.com/'
 reachable: true

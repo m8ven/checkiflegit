@@ -1,10 +1,10 @@
 ---
 domain: aplimancha.es
 slug: aplimancha-es
-title: Is aplimancha.es Legit? Trust Signal Check
+title: Is aplimancha.es Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for aplimancha.es: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  aplimancha.es scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:33:35.422Z'
 finalUrl: 'https://aplimancha.es/'
 reachable: true

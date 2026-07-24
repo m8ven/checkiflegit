@@ -1,10 +1,10 @@
 ---
 domain: leppich.com.br
 slug: leppich-com-br
-title: Is leppich.com.br Legit? Trust Signal Check
+title: Is leppich.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for leppich.com.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  leppich.com.br scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:48:39.892Z'
 finalUrl: 'https://leppich.com.br/'
 reachable: true

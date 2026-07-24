@@ -1,10 +1,10 @@
 ---
 domain: flit-transit.com
 slug: flit-transit-com
-title: Is flit-transit.com Legit? Trust Signal Check
+title: Is flit-transit.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for flit-transit.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  flit-transit.com scores 94/100 on our public trust checks. Established domain
+  — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:31:22.572Z'
 finalUrl: 'https://flit-transit.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: optica-europa.es
 slug: optica-europa-es
-title: Is optica-europa.es Legit? Trust Signal Check
+title: Is optica-europa.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for optica-europa.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  optica-europa.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:56:54.383Z'
 finalUrl: 'https://optica-europa.es/'
 reachable: true

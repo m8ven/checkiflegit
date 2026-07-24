@@ -1,10 +1,10 @@
 ---
 domain: atozsoulmate.com
 slug: atozsoulmate-com
-title: Is atozsoulmate.com Legit? Trust Signal Check
+title: Is atozsoulmate.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for atozsoulmate.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  atozsoulmate.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:01:03.147Z'
 finalUrl: 'https://atozsoulmate.com/'
 reachable: true

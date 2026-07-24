@@ -1,10 +1,10 @@
 ---
 domain: hubertclothes.com
 slug: hubertclothes-com
-title: Is hubertclothes.com Legit? Trust Signal Check
+title: Is hubertclothes.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for hubertclothes.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hubertclothes.com scores 94/100 on our public trust checks. Established domain
+  — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:40.374Z'
 finalUrl: 'https://hubertclothes.com/'
 reachable: true

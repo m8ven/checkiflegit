@@ -1,10 +1,10 @@
 ---
 domain: verent.pl
 slug: verent-pl
-title: Is verent.pl Legit? Trust Signal Check
+title: Is verent.pl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for verent.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  verent.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:47:43.062Z'
 finalUrl: 'https://verent.pl/'
 reachable: true

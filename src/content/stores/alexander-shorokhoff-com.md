@@ -1,10 +1,10 @@
 ---
 domain: alexander-shorokhoff.com
 slug: alexander-shorokhoff-com
-title: Is alexander-shorokhoff.com Legit? Trust Signal Check
+title: Is alexander-shorokhoff.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for alexander-shorokhoff.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  alexander-shorokhoff.com scores 88/100 on our public trust checks. Established
+  domain — registered 23.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:51.932Z'
 finalUrl: 'https://alexander-shorokhoff.com/'
 reachable: true

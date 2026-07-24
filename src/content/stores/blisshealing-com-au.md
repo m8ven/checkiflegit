@@ -1,10 +1,10 @@
 ---
 domain: blisshealing.com.au
 slug: blisshealing-com-au
-title: Is blisshealing.com.au Legit? Trust Signal Check
+title: Is blisshealing.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for blisshealing.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blisshealing.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:36:49.374Z'
 finalUrl: 'https://blisshealing.com.au/'
 reachable: true

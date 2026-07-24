@@ -1,10 +1,10 @@
 ---
 domain: sydec.com.mx
 slug: sydec-com-mx
-title: Is sydec.com.mx Legit? Trust Signal Check
+title: Is sydec.com.mx Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sydec.com.mx: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sydec.com.mx scores 100/100 on our public trust checks. Established domain —
+  registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:56.280Z'
 finalUrl: 'https://sydec.com.mx/'
 reachable: true

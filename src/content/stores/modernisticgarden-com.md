@@ -1,10 +1,10 @@
 ---
 domain: modernisticgarden.com
 slug: modernisticgarden-com
-title: Is modernisticgarden.com Legit? Trust Signal Check
+title: Is modernisticgarden.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for modernisticgarden.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  modernisticgarden.com scores 85/100 on our public trust checks. Established
+  domain — registered 16.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:48.114Z'
 finalUrl: 'https://modernisticgarden.com/'
 reachable: true

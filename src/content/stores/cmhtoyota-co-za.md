@@ -1,10 +1,10 @@
 ---
 domain: cmhtoyota.co.za
 slug: cmhtoyota-co-za
-title: Is cmhtoyota.co.za Legit? Trust Signal Check
+title: Is cmhtoyota.co.za Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for cmhtoyota.co.za: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cmhtoyota.co.za scores 49/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:22:22.113Z'
 finalUrl: 'https://cmhtoyota.co.za/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: airtacvietnam.net
 slug: airtacvietnam-net
-title: Is airtacvietnam.net Legit? Trust Signal Check
+title: Is airtacvietnam.net Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for airtacvietnam.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  airtacvietnam.net scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:46:38.685Z'
 finalUrl: 'https://airtacvietnam.net/'
 reachable: true

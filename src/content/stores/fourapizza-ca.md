@@ -1,10 +1,11 @@
 ---
 domain: fourapizza.ca
 slug: fourapizza-ca
-title: Is fourapizza.ca Legit? Trust Signal Check
+title: Is fourapizza.ca Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for fourapizza.ca: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fourapizza.ca scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T14:57:47.944Z'
 finalUrl: 'https://fourapizza.ca/'
 reachable: true

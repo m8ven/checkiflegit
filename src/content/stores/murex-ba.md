@@ -1,10 +1,10 @@
 ---
 domain: murex.ba
 slug: murex-ba
-title: Is murex.ba Legit? Trust Signal Check
+title: Is murex.ba Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for murex.ba: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  murex.ba scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:28:56.666Z'
 finalUrl: 'https://www.murex.ba/'
 reachable: true

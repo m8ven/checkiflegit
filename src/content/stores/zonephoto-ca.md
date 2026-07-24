@@ -1,10 +1,11 @@
 ---
 domain: zonephoto.ca
 slug: zonephoto-ca
-title: Is zonephoto.ca Legit? Trust Signal Check
+title: Is zonephoto.ca Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for zonephoto.ca: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  zonephoto.ca scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T12:39:20.844Z'
 finalUrl: 'https://zonephoto.ca/'
 reachable: true

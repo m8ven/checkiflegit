@@ -1,10 +1,10 @@
 ---
 domain: decofurnsa.co.za
 slug: decofurnsa-co-za
-title: Is decofurnsa.co.za Legit? Trust Signal Check
+title: Is decofurnsa.co.za Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for decofurnsa.co.za: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  decofurnsa.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-24T21:46:34.417Z'
 finalUrl: 'https://decofurnsa.co.za/'
 reachable: true

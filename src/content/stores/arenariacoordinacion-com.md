@@ -1,10 +1,10 @@
 ---
 domain: arenariacoordinacion.com
 slug: arenariacoordinacion-com
-title: Is arenariacoordinacion.com Legit? Trust Signal Check
+title: Is arenariacoordinacion.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for arenariacoordinacion.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  arenariacoordinacion.com scores 88/100 on our public trust checks. Established
+  domain — registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:57:30.908Z'
 finalUrl: 'https://arenariacoordinacion.com/'
 reachable: true

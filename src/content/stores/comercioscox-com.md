@@ -1,10 +1,10 @@
 ---
 domain: comercioscox.com
 slug: comercioscox-com
-title: Is comercioscox.com Legit? Trust Signal Check
+title: Is comercioscox.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for comercioscox.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  comercioscox.com scores 82/100 on our public trust checks. Established domain
+  — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:28.095Z'
 finalUrl: 'https://comercioscox.com/'
 reachable: true

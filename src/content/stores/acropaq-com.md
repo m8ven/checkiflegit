@@ -1,10 +1,10 @@
 ---
 domain: acropaq.com
 slug: acropaq-com
-title: Is acropaq.com Legit? Trust Signal Check
+title: Is acropaq.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for acropaq.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  acropaq.com scores 82/100 on our public trust checks. Established domain —
+  registered 19 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:11.746Z'
 finalUrl: 'https://acropaq.com/'
 reachable: true

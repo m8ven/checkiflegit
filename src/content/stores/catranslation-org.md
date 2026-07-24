@@ -1,10 +1,10 @@
 ---
 domain: catranslation.org
 slug: catranslation-org
-title: Is catranslation.org Legit? Trust Signal Check
+title: Is catranslation.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for catranslation.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  catranslation.org scores 76/100 on our public trust checks. Established domain
+  — registered 25.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:18.238Z'
 finalUrl: 'https://www.catranslation.org/'
 reachable: true

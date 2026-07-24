@@ -1,10 +1,10 @@
 ---
 domain: kahkeshaanmobile.com
 slug: kahkeshaanmobile-com
-title: Is kahkeshaanmobile.com Legit? Trust Signal Check
+title: Is kahkeshaanmobile.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kahkeshaanmobile.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kahkeshaanmobile.com scores 88/100 on our public trust checks. Established
+  domain — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:55.774Z'
 finalUrl: 'https://kahkeshaanmobile.com/'
 reachable: true

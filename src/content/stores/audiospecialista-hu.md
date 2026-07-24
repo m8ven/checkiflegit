@@ -1,10 +1,10 @@
 ---
 domain: audiospecialista.hu
 slug: audiospecialista-hu
-title: Is audiospecialista.hu Legit? Trust Signal Check
+title: Is audiospecialista.hu Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for audiospecialista.hu: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  audiospecialista.hu scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:36:02.940Z'
 finalUrl: 'https://audiospecialista.hu/'
 reachable: true

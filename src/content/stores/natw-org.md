@@ -1,10 +1,10 @@
 ---
 domain: natw.org
 slug: natw-org
-title: Is natw.org Legit? Trust Signal Check
+title: Is natw.org Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for natw.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  natw.org scores 82/100 on our public trust checks. Established domain —
+  registered 28.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:49.584Z'
 finalUrl: 'https://natw.org/'
 reachable: true

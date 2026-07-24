@@ -1,10 +1,10 @@
 ---
 domain: music2you.co.uk
 slug: music2you-co-uk
-title: Is music2you.co.uk Legit? Trust Signal Check
+title: Is music2you.co.uk Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for music2you.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  music2you.co.uk scores 85/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:44.710Z'
 finalUrl: 'https://music2you.co.uk/'
 reachable: true

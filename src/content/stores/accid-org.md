@@ -1,10 +1,10 @@
 ---
 domain: accid.org
 slug: accid-org
-title: Is accid.org Legit? Trust Signal Check
+title: Is accid.org Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for accid.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  accid.org scores 100/100 on our public trust checks. Established domain —
+  registered 23.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:09.329Z'
 finalUrl: 'https://accid.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: agrifarmsupino.it
 slug: agrifarmsupino-it
-title: Is agrifarmsupino.it Legit? Trust Signal Check
+title: Is agrifarmsupino.it Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for agrifarmsupino.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  agrifarmsupino.it scores 82/100 on our public trust checks. Established domain
+  — registered 22.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:02.153Z'
 finalUrl: 'https://www.agrifarmsupino.it/'
 reachable: true

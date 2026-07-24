@@ -1,10 +1,10 @@
 ---
 domain: trendsettingawards.com
 slug: trendsettingawards-com
-title: Is trendsettingawards.com Legit? Trust Signal Check
+title: Is trendsettingawards.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for trendsettingawards.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  trendsettingawards.com scores 70/100 on our public trust checks. Established
+  domain — registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:23.852Z'
 finalUrl: 'https://www.trendsettingawards.com/'
 reachable: true

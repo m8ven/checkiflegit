@@ -1,10 +1,10 @@
 ---
 domain: 2easy2learn.com
 slug: 2easy2learn-com
-title: Is 2easy2learn.com Legit? Trust Signal Check
+title: Is 2easy2learn.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for 2easy2learn.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  2easy2learn.com scores 70/100 on our public trust checks. Established domain —
+  registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:36.561Z'
 finalUrl: 'https://2easy2learn.com/'
 reachable: true

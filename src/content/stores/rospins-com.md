@@ -1,10 +1,10 @@
 ---
 domain: rospins.com
 slug: rospins-com
-title: Is rospins.com Legit? Trust Signal Check
+title: Is rospins.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rospins.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rospins.com scores 100/100 on our public trust checks. Established domain —
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:27:23.550Z'
 finalUrl: 'https://www.rospins.com/'
 reachable: true

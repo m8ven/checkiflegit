@@ -1,10 +1,10 @@
 ---
 domain: new-ortho.fr
 slug: new-ortho-fr
-title: Is new-ortho.fr Legit? Trust Signal Check
+title: Is new-ortho.fr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for new-ortho.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  new-ortho.fr scores 73/100 on our public trust checks. Established domain —
+  registered 25.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:51.439Z'
 finalUrl: 'https://new-ortho.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lightsounds.com.au
 slug: lightsounds-com-au
-title: Is lightsounds.com.au Legit? Trust Signal Check
+title: Is lightsounds.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for lightsounds.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lightsounds.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:34:33.015Z'
 finalUrl: 'https://lightsounds.com.au/'
 reachable: true

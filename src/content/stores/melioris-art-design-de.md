@@ -1,10 +1,10 @@
 ---
 domain: melioris-art-design.de
 slug: melioris-art-design-de
-title: Is melioris-art-design.de Legit? Trust Signal Check
+title: Is melioris-art-design.de Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for melioris-art-design.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  melioris-art-design.de scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:23.102Z'
 finalUrl: 'https://melioris-art-design.de/'
 reachable: true

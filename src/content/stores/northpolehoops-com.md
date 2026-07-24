@@ -1,10 +1,10 @@
 ---
 domain: northpolehoops.com
 slug: northpolehoops-com
-title: Is northpolehoops.com Legit? Trust Signal Check
+title: Is northpolehoops.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for northpolehoops.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  northpolehoops.com scores 88/100 on our public trust checks. Established
+  domain — registered 16 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:55:36.449Z'
 finalUrl: 'https://northpolehoops.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ecobotautonomous.com
 slug: ecobotautonomous-com
-title: Is ecobotautonomous.com Legit? Trust Signal Check
+title: Is ecobotautonomous.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ecobotautonomous.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ecobotautonomous.com scores 88/100 on our public trust checks. Established
+  domain — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:08.189Z'
 finalUrl: 'https://ecobotautonomous.com/'
 reachable: true

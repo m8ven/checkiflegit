@@ -1,10 +1,10 @@
 ---
 domain: hersstyle.com
 slug: hersstyle-com
-title: Is hersstyle.com Legit? Trust Signal Check
+title: Is hersstyle.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hersstyle.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hersstyle.com scores 100/100 on our public trust checks. Established domain —
+  registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:55.345Z'
 finalUrl: 'https://hersstyle.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: copybazaar.ir
 slug: copybazaar-ir
-title: Is copybazaar.ir Legit? Trust Signal Check
+title: Is copybazaar.ir Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for copybazaar.ir: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  copybazaar.ir scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:30:39.392Z'
 finalUrl: 'https://copybazaar.ir/'
 reachable: true

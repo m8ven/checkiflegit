@@ -1,10 +1,10 @@
 ---
 domain: uswah.my
 slug: uswah-my
-title: Is uswah.my Legit? Trust Signal Check
+title: Is uswah.my Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for uswah.my: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  uswah.my scores 100/100 on our public trust checks. Established domain —
+  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:21.403Z'
 finalUrl: 'https://uswah.my/'
 reachable: true

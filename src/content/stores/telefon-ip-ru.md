@@ -1,10 +1,10 @@
 ---
 domain: telefon-ip.ru
 slug: telefon-ip-ru
-title: Is telefon-ip.ru Legit? Trust Signal Check
+title: Is telefon-ip.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for telefon-ip.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  telefon-ip.ru scores 73/100 on our public trust checks. Established domain —
+  registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:37.441Z'
 finalUrl: 'https://telefon-ip.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: storelocator-us.smnovella.com
 slug: storelocator-us-smnovella-com
-title: Is storelocator-us.smnovella.com Legit? Trust Signal Check
+title: Is storelocator-us.smnovella.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for storelocator-us.smnovella.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  storelocator-us.smnovella.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:46.991Z'
 finalUrl: 'https://storelocator-us.smnovella.com/en'
 reachable: true

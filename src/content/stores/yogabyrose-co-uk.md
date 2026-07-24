@@ -1,10 +1,10 @@
 ---
 domain: yogabyrose.co.uk
 slug: yogabyrose-co-uk
-title: Is yogabyrose.co.uk Legit? Trust Signal Check
+title: Is yogabyrose.co.uk Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for yogabyrose.co.uk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  yogabyrose.co.uk scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:38:53.270Z'
 finalUrl: 'https://yogabyrose.co.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mineralscollector.com
 slug: mineralscollector-com
-title: Is mineralscollector.com Legit? Trust Signal Check
+title: Is mineralscollector.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mineralscollector.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mineralscollector.com scores 88/100 on our public trust checks. Established
+  domain — registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:56.868Z'
 finalUrl: 'https://mineralscollector.com/'
 reachable: true

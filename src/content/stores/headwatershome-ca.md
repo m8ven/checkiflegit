@@ -1,10 +1,10 @@
 ---
 domain: headwatershome.ca
 slug: headwatershome-ca
-title: Is headwatershome.ca Legit? Trust Signal Check
+title: Is headwatershome.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for headwatershome.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  headwatershome.ca scores 100/100 on our public trust checks. Established
+  domain — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:40.330Z'
 finalUrl: 'https://headwatershome.ca/'
 reachable: true

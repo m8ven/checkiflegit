@@ -1,10 +1,10 @@
 ---
 domain: bilimselkolej.com.tr
 slug: bilimselkolej-com-tr
-title: Is bilimselkolej.com.tr Legit? Trust Signal Check
+title: Is bilimselkolej.com.tr Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for bilimselkolej.com.tr: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bilimselkolej.com.tr scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:15:20.252Z'
 finalUrl: 'https://www.bilimselkolej.com.tr/'
 reachable: true

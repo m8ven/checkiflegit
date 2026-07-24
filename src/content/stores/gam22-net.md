@@ -1,10 +1,10 @@
 ---
 domain: gam22.net
 slug: gam22-net
-title: Is gam22.net Legit? Trust Signal Check
+title: Is gam22.net Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for gam22.net: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gam22.net scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:51:14.650Z'
 finalUrl: 'https://gam22.net/'
 reachable: true

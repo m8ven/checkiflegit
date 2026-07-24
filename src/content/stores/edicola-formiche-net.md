@@ -1,10 +1,10 @@
 ---
 domain: edicola.formiche.net
 slug: edicola-formiche-net
-title: Is edicola.formiche.net Legit? Trust Signal Check
+title: Is edicola.formiche.net Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for edicola.formiche.net: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  edicola.formiche.net scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:26:12.717Z'
 finalUrl: 'https://edicola.formiche.net/'
 reachable: true

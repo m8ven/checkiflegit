@@ -1,10 +1,10 @@
 ---
 domain: dmtcartridgesshop.com
 slug: dmtcartridgesshop-com
-title: Is dmtcartridgesshop.com Legit? Trust Signal Check
+title: Is dmtcartridgesshop.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for dmtcartridgesshop.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dmtcartridgesshop.com scores 85/100 on our public trust checks. Established
+  domain — registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:17.812Z'
 finalUrl: 'https://dmtcartridgesshop.com/'
 reachable: true

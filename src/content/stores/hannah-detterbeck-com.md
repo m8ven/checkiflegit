@@ -1,10 +1,10 @@
 ---
 domain: hannah-detterbeck.com
 slug: hannah-detterbeck-com
-title: Is hannah-detterbeck.com Legit? Trust Signal Check
+title: Is hannah-detterbeck.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for hannah-detterbeck.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hannah-detterbeck.com scores 88/100 on our public trust checks. Established
+  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:46.849Z'
 finalUrl: 'https://hannah-detterbeck.com/'
 reachable: true

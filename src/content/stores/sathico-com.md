@@ -1,10 +1,10 @@
 ---
 domain: sathico.com
 slug: sathico-com
-title: Is sathico.com Legit? Trust Signal Check
+title: Is sathico.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sathico.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sathico.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:00.490Z'
 finalUrl: 'https://sathico.com/'
 reachable: true

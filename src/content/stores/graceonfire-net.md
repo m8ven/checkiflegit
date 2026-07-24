@@ -1,10 +1,10 @@
 ---
 domain: graceonfire.net
 slug: graceonfire-net
-title: Is graceonfire.net Legit? Trust Signal Check
+title: Is graceonfire.net Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for graceonfire.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  graceonfire.net scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:35:48.469Z'
 finalUrl: 'https://graceonfire.net/'
 reachable: true

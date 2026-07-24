@@ -1,10 +1,10 @@
 ---
 domain: tembotarangirelodge.com
 slug: tembotarangirelodge-com
-title: Is tembotarangirelodge.com Legit? Trust Signal Check
+title: Is tembotarangirelodge.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for tembotarangirelodge.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tembotarangirelodge.com scores 76/100 on our public trust checks. Established
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:05:49.135Z'
 finalUrl: 'https://tembotarangirelodge.com/'
 reachable: true

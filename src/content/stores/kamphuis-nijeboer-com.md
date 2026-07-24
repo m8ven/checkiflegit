@@ -1,11 +1,11 @@
 ---
 domain: kamphuis-nijeboer.com
 slug: kamphuis-nijeboer-com
-title: Is kamphuis-nijeboer.com Legit? Trust Signal Check
+title: Is kamphuis-nijeboer.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for kamphuis-nijeboer.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  kamphuis-nijeboer.com scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:04:53.532Z'
 finalUrl: 'https://kamphuis-nijeboer.com/'
 reachable: true

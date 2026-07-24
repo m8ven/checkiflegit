@@ -1,10 +1,10 @@
 ---
 domain: 13melbourneairporttaxi.com.au
 slug: 13melbourneairporttaxi-com-au
-title: Is 13melbourneairporttaxi.com.au Legit? Trust Signal Check
+title: Is 13melbourneairporttaxi.com.au Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for 13melbourneairporttaxi.com.au: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  13melbourneairporttaxi.com.au scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:36:12.261Z'
 finalUrl: 'https://13melbourneairporttaxi.com.au/'
 reachable: true

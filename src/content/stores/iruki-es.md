@@ -1,10 +1,10 @@
 ---
 domain: iruki.es
 slug: iruki-es
-title: Is iruki.es Legit? Trust Signal Check
+title: Is iruki.es Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for iruki.es: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  iruki.es scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:29.789Z'
 finalUrl: 'https://iruki.es/'
 reachable: true

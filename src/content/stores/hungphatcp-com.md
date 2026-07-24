@@ -1,10 +1,10 @@
 ---
 domain: hungphatcp.com
 slug: hungphatcp-com
-title: Is hungphatcp.com Legit? Trust Signal Check
+title: Is hungphatcp.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for hungphatcp.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  hungphatcp.com scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:57:12.318Z'
 finalUrl: 'https://hungphatcp.com/'
 reachable: true

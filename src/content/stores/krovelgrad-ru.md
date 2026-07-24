@@ -1,10 +1,11 @@
 ---
 domain: krovelgrad.ru
 slug: krovelgrad-ru
-title: Is krovelgrad.ru Legit? Trust Signal Check
+title: Is krovelgrad.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for krovelgrad.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  krovelgrad.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T14:55:06.995Z'
 finalUrl: 'https://krovelgrad.ru/'
 reachable: true

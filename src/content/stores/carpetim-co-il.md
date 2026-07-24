@@ -1,10 +1,10 @@
 ---
 domain: carpetim.co.il
 slug: carpetim-co-il
-title: Is carpetim.co.il Legit? Trust Signal Check
+title: Is carpetim.co.il Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for carpetim.co.il: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  carpetim.co.il scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:54:32.579Z'
 finalUrl: 'https://www.carpetim.co.il/'
 reachable: true

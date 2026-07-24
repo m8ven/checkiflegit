@@ -1,10 +1,10 @@
 ---
 domain: stringydingding.com
 slug: stringydingding-com
-title: Is stringydingding.com Legit? Trust Signal Check
+title: Is stringydingding.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for stringydingding.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stringydingding.com scores 85/100 on our public trust checks. Established
+  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:39.563Z'
 finalUrl: 'https://stringydingding.com/'
 reachable: true

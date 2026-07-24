@@ -1,10 +1,10 @@
 ---
 domain: palmgarden.com.pl
 slug: palmgarden-com-pl
-title: Is palmgarden.com.pl Legit? Trust Signal Check
+title: Is palmgarden.com.pl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for palmgarden.com.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  palmgarden.com.pl scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:18:37.355Z'
 finalUrl: 'https://palmgarden.com.pl/'
 reachable: true

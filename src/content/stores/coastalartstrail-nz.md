@@ -1,10 +1,10 @@
 ---
 domain: coastalartstrail.nz
 slug: coastalartstrail-nz
-title: Is coastalartstrail.nz Legit? Trust Signal Check
+title: Is coastalartstrail.nz Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for coastalartstrail.nz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  coastalartstrail.nz scores 100/100 on our public trust checks. Established
+  domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:04.911Z'
 finalUrl: 'https://coastalartstrail.nz/'
 reachable: true

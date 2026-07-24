@@ -1,10 +1,10 @@
 ---
 domain: nutricare.com.vn
 slug: nutricare-com-vn
-title: Is nutricare.com.vn Legit? Trust Signal Check
+title: Is nutricare.com.vn Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for nutricare.com.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nutricare.com.vn scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:52.759Z'
 finalUrl: 'https://nutricare.com.vn/'
 reachable: true

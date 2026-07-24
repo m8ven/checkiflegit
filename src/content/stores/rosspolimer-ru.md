@@ -1,10 +1,10 @@
 ---
 domain: rosspolimer.ru
 slug: rosspolimer-ru
-title: Is rosspolimer.ru Legit? Trust Signal Check
+title: Is rosspolimer.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for rosspolimer.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rosspolimer.ru scores 73/100 on our public trust checks. Established domain —
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:44.993Z'
 finalUrl: 'https://rosspolimer.ru/'
 reachable: true

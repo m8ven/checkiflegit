@@ -1,10 +1,10 @@
 ---
 domain: aiaseattle.org
 slug: aiaseattle-org
-title: Is aiaseattle.org Legit? Trust Signal Check
+title: Is aiaseattle.org Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for aiaseattle.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aiaseattle.org scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:33:22.512Z'
 finalUrl: 'https://aiaseattle.org/'
 reachable: true

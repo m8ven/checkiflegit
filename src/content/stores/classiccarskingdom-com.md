@@ -1,10 +1,10 @@
 ---
 domain: classiccarskingdom.com
 slug: classiccarskingdom-com
-title: Is classiccarskingdom.com Legit? Trust Signal Check
+title: Is classiccarskingdom.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for classiccarskingdom.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  classiccarskingdom.com scores 88/100 on our public trust checks. Established
+  domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:23.578Z'
 finalUrl: 'https://classiccarskingdom.com/'
 reachable: true

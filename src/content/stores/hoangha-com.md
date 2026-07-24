@@ -1,10 +1,10 @@
 ---
 domain: hoangha.com
 slug: hoangha-com
-title: Is hoangha.com Legit? Trust Signal Check
+title: Is hoangha.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hoangha.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hoangha.com scores 88/100 on our public trust checks. Established domain —
+  registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:08.081Z'
 finalUrl: 'https://hoangha.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gingerjoys.ru
 slug: gingerjoys-ru
-title: Is gingerjoys.ru Legit? Trust Signal Check
+title: Is gingerjoys.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for gingerjoys.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gingerjoys.ru scores 73/100 on our public trust checks. Established domain —
+  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:32.388Z'
 finalUrl: 'https://gingerjoys.ru/'
 reachable: true

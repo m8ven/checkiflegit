@@ -1,10 +1,10 @@
 ---
 domain: nath.com.co
 slug: nath-com-co
-title: Is nath.com.co Legit? Trust Signal Check
+title: Is nath.com.co Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for nath.com.co: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  nath.com.co scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:59:04.322Z'
 finalUrl: 'https://nath.com.co/'
 reachable: true

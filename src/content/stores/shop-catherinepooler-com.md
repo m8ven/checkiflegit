@@ -1,10 +1,11 @@
 ---
 domain: shop.catherinepooler.com
 slug: shop-catherinepooler-com
-title: Is shop.catherinepooler.com Legit? Trust Signal Check
+title: Is shop.catherinepooler.com Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for shop.catherinepooler.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.catherinepooler.com scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:45:00.730Z'
 finalUrl: 'https://shop.catherinepooler.com/'
 reachable: true

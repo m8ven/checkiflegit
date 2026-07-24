@@ -1,11 +1,10 @@
 ---
 domain: hungrypetwarehouse.com
 slug: hungrypetwarehouse-com
-title: Is hungrypetwarehouse.com Legit? Trust Signal Check
+title: Is hungrypetwarehouse.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for hungrypetwarehouse.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  hungrypetwarehouse.com scores 40/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T12:24:15.800Z'
 finalUrl: 'https://www.hungrypetwarehouse.com/'
 reachable: true

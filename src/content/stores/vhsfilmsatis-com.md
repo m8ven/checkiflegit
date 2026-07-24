@@ -1,10 +1,10 @@
 ---
 domain: vhsfilmsatis.com
 slug: vhsfilmsatis-com
-title: Is vhsfilmsatis.com Legit? Trust Signal Check
+title: Is vhsfilmsatis.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for vhsfilmsatis.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vhsfilmsatis.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:11:09.610Z'
 finalUrl: 'https://vhsfilmsatis.com/'
 reachable: true

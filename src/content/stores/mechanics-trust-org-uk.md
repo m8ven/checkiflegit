@@ -1,10 +1,10 @@
 ---
 domain: mechanics-trust.org.uk
 slug: mechanics-trust-org-uk
-title: Is mechanics-trust.org.uk Legit? Trust Signal Check
+title: Is mechanics-trust.org.uk Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for mechanics-trust.org.uk: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mechanics-trust.org.uk scores 58/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:52:09.922Z'
 finalUrl: 'https://mechanics-trust.org.uk/'
 reachable: true

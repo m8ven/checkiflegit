@@ -1,10 +1,10 @@
 ---
 domain: fr.presonus.com
 slug: fr-presonus-com
-title: Is fr.presonus.com Legit? Trust Signal Check
+title: Is fr.presonus.com Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for fr.presonus.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fr.presonus.com scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:09.875Z'
 finalUrl: 'https://fr.presonus.com/'
 reachable: true

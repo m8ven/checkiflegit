@@ -1,10 +1,10 @@
 ---
 domain: sarantenen.com
 slug: sarantenen-com
-title: Is sarantenen.com Legit? Trust Signal Check
+title: Is sarantenen.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for sarantenen.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sarantenen.com scores 58/100 on our public trust checks. Domain is relatively
+  young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:01:45.516Z'
 finalUrl: 'https://sarantenen.com/'
 reachable: true

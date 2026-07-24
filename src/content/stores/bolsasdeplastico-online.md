@@ -1,10 +1,10 @@
 ---
 domain: bolsasdeplastico.online
 slug: bolsasdeplastico-online
-title: Is bolsasdeplastico.online Legit? Trust Signal Check
+title: Is bolsasdeplastico.online Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bolsasdeplastico.online: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bolsasdeplastico.online scores 88/100 on our public trust checks. Established
+  domain — registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:20:02.226Z'
 finalUrl: 'https://bolsasdeplastico.online/'
 reachable: true

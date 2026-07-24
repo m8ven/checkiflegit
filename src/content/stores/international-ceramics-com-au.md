@@ -1,10 +1,10 @@
 ---
 domain: international-ceramics.com.au
 slug: international-ceramics-com-au
-title: Is international-ceramics.com.au Legit? Trust Signal Check
+title: Is international-ceramics.com.au Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for international-ceramics.com.au: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  international-ceramics.com.au scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:53.392Z'
 finalUrl: 'https://international-ceramics.com.au/'
 reachable: true

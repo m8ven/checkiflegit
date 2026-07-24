@@ -1,10 +1,10 @@
 ---
 domain: tsuki.org
 slug: tsuki-org
-title: Is tsuki.org Legit? Trust Signal Check
+title: Is tsuki.org Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tsuki.org: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tsuki.org scores 58/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T12:36:34.819Z'
 finalUrl: 'https://tsuki.org/'
 reachable: true

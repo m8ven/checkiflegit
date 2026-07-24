@@ -1,10 +1,10 @@
 ---
 domain: platoacademia.com.br
 slug: platoacademia-com-br
-title: Is platoacademia.com.br Legit? Trust Signal Check
+title: Is platoacademia.com.br Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for platoacademia.com.br: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  platoacademia.com.br scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:27:37.044Z'
 finalUrl: 'https://platoacademia.com.br/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: zoozverok.kz
 slug: zoozverok-kz
-title: Is zoozverok.kz Legit? Trust Signal Check
+title: Is zoozverok.kz Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for zoozverok.kz: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  zoozverok.kz scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:35:02.095Z'
 finalUrl: 'https://zoozverok.kz/'
 reachable: true

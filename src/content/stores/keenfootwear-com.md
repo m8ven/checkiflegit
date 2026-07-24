@@ -1,10 +1,10 @@
 ---
 domain: keenfootwear.com
 slug: keenfootwear-com
-title: Is keenfootwear.com Legit? Trust Signal Check
+title: Is keenfootwear.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for keenfootwear.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  keenfootwear.com scores 70/100 on our public trust checks. Established domain
+  — registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:02.611Z'
 finalUrl: 'https://www.keenfootwear.com/'
 reachable: true

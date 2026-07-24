@@ -1,10 +1,10 @@
 ---
 domain: erbarium.infiniteofficinedeveloper.it
 slug: erbarium-infiniteofficinedeveloper-it
-title: Is erbarium.infiniteofficinedeveloper.it Legit? Trust Signal Check
+title: Is erbarium.infiniteofficinedeveloper.it Legit? Score 61/100
 description: >-
-  An automated trust-signal check for erbarium.infiniteofficinedeveloper.it:
-  moderate trust signals. Domain age, SSL, contact info, reviews and more.
+  erbarium.infiniteofficinedeveloper.it scores 61/100 on our public trust
+  checks. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:17:05.954Z'
 finalUrl: 'https://www.erbarium.infiniteofficinedeveloper.it/'
 reachable: true

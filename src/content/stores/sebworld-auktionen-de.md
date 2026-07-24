@@ -1,10 +1,10 @@
 ---
 domain: sebworld-auktionen.de
 slug: sebworld-auktionen-de
-title: Is sebworld-auktionen.de Legit? Trust Signal Check
+title: Is sebworld-auktionen.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sebworld-auktionen.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sebworld-auktionen.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:44:12.017Z'
 finalUrl: 'https://www.sebworld-auktionen.de/'
 reachable: true

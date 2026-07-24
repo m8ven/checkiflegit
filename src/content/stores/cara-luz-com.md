@@ -1,10 +1,10 @@
 ---
 domain: cara-luz.com
 slug: cara-luz-com
-title: Is cara-luz.com Legit? Trust Signal Check
+title: Is cara-luz.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for cara-luz.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cara-luz.com scores 70/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:27.205Z'
 finalUrl: 'https://cara-luz.com/'
 reachable: true

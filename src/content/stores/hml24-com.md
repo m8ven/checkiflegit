@@ -1,10 +1,10 @@
 ---
 domain: hml24.com
 slug: hml24-com
-title: Is hml24.com Legit? Trust Signal Check
+title: Is hml24.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hml24.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hml24.com scores 85/100 on our public trust checks. Established domain —
+  registered 20.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:04.648Z'
 finalUrl: 'https://hml24.com/'
 reachable: true

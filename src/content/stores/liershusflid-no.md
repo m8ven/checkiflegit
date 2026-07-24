@@ -1,10 +1,10 @@
 ---
 domain: liershusflid.no
 slug: liershusflid-no
-title: Is liershusflid.no Legit? Trust Signal Check
+title: Is liershusflid.no Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for liershusflid.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  liershusflid.no scores 88/100 on our public trust checks. Established domain —
+  registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:19:47.345Z'
 finalUrl: 'https://liershusflid.no/'
 reachable: true

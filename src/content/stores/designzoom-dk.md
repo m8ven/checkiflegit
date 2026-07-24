@@ -1,10 +1,10 @@
 ---
 domain: designzoom.dk
 slug: designzoom-dk
-title: Is designzoom.dk Legit? Trust Signal Check
+title: Is designzoom.dk Legit? Trust Score 37/100
 description: >-
-  An automated trust-signal check for designzoom.dk: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  designzoom.dk scores 37/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:40:26.456Z'
 finalUrl: 'https://designzoom.dk/'
 reachable: true

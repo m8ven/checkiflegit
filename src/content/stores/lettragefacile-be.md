@@ -1,10 +1,10 @@
 ---
 domain: lettragefacile.be
 slug: lettragefacile-be
-title: Is lettragefacile.be Legit? Trust Signal Check
+title: Is lettragefacile.be Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for lettragefacile.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lettragefacile.be scores 94/100 on our public trust checks. Established domain
+  — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:36:21.241Z'
 finalUrl: 'https://www.lettragefacile.be/'
 reachable: true

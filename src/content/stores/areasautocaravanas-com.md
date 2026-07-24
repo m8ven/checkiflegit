@@ -1,10 +1,10 @@
 ---
 domain: areasautocaravanas.com
 slug: areasautocaravanas-com
-title: Is areasautocaravanas.com Legit? Trust Signal Check
+title: Is areasautocaravanas.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for areasautocaravanas.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  areasautocaravanas.com scores 100/100 on our public trust checks. Established
+  domain — registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:57:26.699Z'
 finalUrl: 'https://areasautocaravanas.com/'
 reachable: true

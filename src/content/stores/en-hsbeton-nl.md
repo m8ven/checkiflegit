@@ -1,10 +1,10 @@
 ---
 domain: en.hsbeton.nl
 slug: en-hsbeton-nl
-title: Is en.hsbeton.nl Legit? Trust Signal Check
+title: Is en.hsbeton.nl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for en.hsbeton.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  en.hsbeton.nl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:50:27.348Z'
 finalUrl: 'https://en.hsbeton.nl/'
 reachable: true

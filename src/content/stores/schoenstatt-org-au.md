@@ -1,10 +1,10 @@
 ---
 domain: schoenstatt.org.au
 slug: schoenstatt-org-au
-title: Is schoenstatt.org.au Legit? Trust Signal Check
+title: Is schoenstatt.org.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for schoenstatt.org.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  schoenstatt.org.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:30:28.454Z'
 finalUrl: 'https://schoenstatt.org.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: eddiebauer.com
 slug: eddiebauer-com
-title: Is eddiebauer.com Legit? Trust Signal Check
+title: Is eddiebauer.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for eddiebauer.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eddiebauer.com scores 73/100 on our public trust checks. Established domain —
+  registered 29 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:38.617Z'
 finalUrl: 'https://www.eddiebauer.com/'
 reachable: true

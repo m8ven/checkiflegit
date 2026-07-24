@@ -1,10 +1,10 @@
 ---
 domain: adenuez.co
 slug: adenuez-co
-title: Is adenuez.co Legit? Trust Signal Check
+title: Is adenuez.co Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for adenuez.co: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  adenuez.co scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:22.003Z'
 finalUrl: 'https://adenuez.co/'
 reachable: true

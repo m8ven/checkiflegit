@@ -1,10 +1,10 @@
 ---
 domain: freilinger-landmaschinen.de
 slug: freilinger-landmaschinen-de
-title: Is freilinger-landmaschinen.de Legit? Trust Signal Check
+title: Is freilinger-landmaschinen.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for freilinger-landmaschinen.de: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  freilinger-landmaschinen.de scores 61/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T12:31:25.128Z'
 finalUrl: 'https://www.freilinger-landmaschinen.de/'
 reachable: true

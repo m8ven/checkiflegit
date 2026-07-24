@@ -1,10 +1,11 @@
 ---
 domain: tranhphongthuyvietnam.com
 slug: tranhphongthuyvietnam-com
-title: Is tranhphongthuyvietnam.com Legit? Trust Signal Check
+title: Is tranhphongthuyvietnam.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for tranhphongthuyvietnam.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tranhphongthuyvietnam.com scores 70/100 on our public trust checks.
+  Established domain — registered 9.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:09:39.264Z'
 finalUrl: 'https://tranhphongthuyvietnam.com/'
 reachable: true

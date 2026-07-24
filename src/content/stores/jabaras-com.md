@@ -1,10 +1,10 @@
 ---
 domain: jabaras.com
 slug: jabaras-com
-title: Is jabaras.com Legit? Trust Signal Check
+title: Is jabaras.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for jabaras.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jabaras.com scores 88/100 on our public trust checks. Established domain —
+  registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:19.854Z'
 finalUrl: 'https://www.jabaras.com/'
 reachable: true

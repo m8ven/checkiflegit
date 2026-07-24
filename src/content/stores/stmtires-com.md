@@ -1,10 +1,10 @@
 ---
 domain: stmtires.com
 slug: stmtires-com
-title: Is stmtires.com Legit? Trust Signal Check
+title: Is stmtires.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for stmtires.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  stmtires.com scores 82/100 on our public trust checks. Established domain —
+  registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:35.060Z'
 finalUrl: 'https://stmtires.com/'
 reachable: true

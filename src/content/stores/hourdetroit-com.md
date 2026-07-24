@@ -1,10 +1,10 @@
 ---
 domain: hourdetroit.com
 slug: hourdetroit-com
-title: Is hourdetroit.com Legit? Trust Signal Check
+title: Is hourdetroit.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hourdetroit.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hourdetroit.com scores 100/100 on our public trust checks. Established domain
+  — registered 27.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:32.731Z'
 finalUrl: 'https://www.hourdetroit.com/'
 reachable: true

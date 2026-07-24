@@ -1,10 +1,10 @@
 ---
 domain: boutique.secours-catholique.org
 slug: boutique-secours-catholique-org
-title: Is boutique.secours-catholique.org Legit? Trust Signal Check
+title: Is boutique.secours-catholique.org Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for boutique.secours-catholique.org: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  boutique.secours-catholique.org scores 57/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:44:09.038Z'
 finalUrl: 'https://boutique.secours-catholique.org/'
 reachable: true

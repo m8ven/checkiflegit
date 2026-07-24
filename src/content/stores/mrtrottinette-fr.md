@@ -1,10 +1,10 @@
 ---
 domain: mrtrottinette.fr
 slug: mrtrottinette-fr
-title: Is mrtrottinette.fr Legit? Trust Signal Check
+title: Is mrtrottinette.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mrtrottinette.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mrtrottinette.fr scores 100/100 on our public trust checks. Established domain
+  — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:42.776Z'
 finalUrl: 'https://mrtrottinette.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vstor.me
 slug: vstor-me
-title: Is vstor.me Legit? Trust Signal Check
+title: Is vstor.me Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for vstor.me: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vstor.me scores 85/100 on our public trust checks. Established domain —
+  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:19.113Z'
 finalUrl: 'https://vstor.me/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vianney.com.mx
 slug: vianney-com-mx
-title: Is vianney.com.mx Legit? Trust Signal Check
+title: Is vianney.com.mx Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for vianney.com.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vianney.com.mx scores 100/100 on our public trust checks. Established domain —
+  registered 28.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:11.523Z'
 finalUrl: 'https://vianney.com.mx/'
 reachable: true

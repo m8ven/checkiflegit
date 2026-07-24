@@ -1,10 +1,10 @@
 ---
 domain: hyundaigiaiphong.com.vn
 slug: hyundaigiaiphong-com-vn
-title: Is hyundaigiaiphong.com.vn Legit? Trust Signal Check
+title: Is hyundaigiaiphong.com.vn Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for hyundaigiaiphong.com.vn: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hyundaigiaiphong.com.vn scores 57/100 on our public trust checks. Standard
+  contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:48.078Z'
 finalUrl: 'https://hyundaigiaiphong.com.vn/'
 reachable: true

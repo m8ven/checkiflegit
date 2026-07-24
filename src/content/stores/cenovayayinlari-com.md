@@ -1,10 +1,10 @@
 ---
 domain: cenovayayinlari.com
 slug: cenovayayinlari-com
-title: Is cenovayayinlari.com Legit? Trust Signal Check
+title: Is cenovayayinlari.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for cenovayayinlari.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cenovayayinlari.com scores 73/100 on our public trust checks. Established
+  domain — registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:27.986Z'
 finalUrl: 'https://cenovayayinlari.com/'
 reachable: true

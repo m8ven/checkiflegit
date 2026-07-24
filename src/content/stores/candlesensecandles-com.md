@@ -1,10 +1,10 @@
 ---
 domain: candlesensecandles.com
 slug: candlesensecandles-com
-title: Is candlesensecandles.com Legit? Trust Signal Check
+title: Is candlesensecandles.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for candlesensecandles.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  candlesensecandles.com scores 88/100 on our public trust checks. Established
+  domain — registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:05:00.827Z'
 finalUrl: 'https://candlesensecandles.com/'
 reachable: true

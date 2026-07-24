@@ -1,10 +1,11 @@
 ---
 domain: leonidas-universitate.ro
 slug: leonidas-universitate-ro
-title: Is leonidas-universitate.ro Legit? Trust Signal Check
+title: Is leonidas-universitate.ro Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for leonidas-universitate.ro: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  leonidas-universitate.ro scores 100/100 on our public trust checks.
+  Established domain — registered 3.8 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:19:26.530Z'
 finalUrl: 'https://leonidas-universitate.ro/'
 reachable: true

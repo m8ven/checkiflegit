@@ -1,10 +1,10 @@
 ---
 domain: rockpoint-apparel.com
 slug: rockpoint-apparel-com
-title: Is rockpoint-apparel.com Legit? Trust Signal Check
+title: Is rockpoint-apparel.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for rockpoint-apparel.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rockpoint-apparel.com scores 73/100 on our public trust checks. Established
+  domain — registered 25.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:16.836Z'
 finalUrl: 'https://rockpoint-apparel.com/'
 reachable: true

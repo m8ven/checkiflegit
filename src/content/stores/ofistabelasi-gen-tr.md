@@ -1,10 +1,10 @@
 ---
 domain: ofistabelasi.gen.tr
 slug: ofistabelasi-gen-tr
-title: Is ofistabelasi.gen.tr Legit? Trust Signal Check
+title: Is ofistabelasi.gen.tr Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for ofistabelasi.gen.tr: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  ofistabelasi.gen.tr scores 19/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:24:49.154Z'
 finalUrl: 'https://www.ofistabelasi.gen.tr/'
 reachable: true

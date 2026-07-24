@@ -1,10 +1,10 @@
 ---
 domain: asindexing.org
 slug: asindexing-org
-title: Is asindexing.org Legit? Trust Signal Check
+title: Is asindexing.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for asindexing.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  asindexing.org scores 76/100 on our public trust checks. Established domain —
+  registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:28.408Z'
 finalUrl: 'https://asindexing.org/'
 reachable: true

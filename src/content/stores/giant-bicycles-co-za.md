@@ -1,10 +1,10 @@
 ---
 domain: giant-bicycles.co.za
 slug: giant-bicycles-co-za
-title: Is giant-bicycles.co.za Legit? Trust Signal Check
+title: Is giant-bicycles.co.za Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for giant-bicycles.co.za: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  giant-bicycles.co.za scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:22.334Z'
 finalUrl: 'https://giant-bicycles.co.za/'
 reachable: true

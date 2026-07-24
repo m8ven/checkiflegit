@@ -1,10 +1,10 @@
 ---
 domain: lwljewelry.com
 slug: lwljewelry-com
-title: Is lwljewelry.com Legit? Trust Signal Check
+title: Is lwljewelry.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lwljewelry.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lwljewelry.com scores 88/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:33.403Z'
 finalUrl: 'https://lwljewelry.com/'
 reachable: true

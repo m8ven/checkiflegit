@@ -1,10 +1,10 @@
 ---
 domain: kamelion-couture.fr
 slug: kamelion-couture-fr
-title: Is kamelion-couture.fr Legit? Trust Signal Check
+title: Is kamelion-couture.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kamelion-couture.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kamelion-couture.fr scores 88/100 on our public trust checks. Established
+  domain — registered 15 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:43.237Z'
 finalUrl: 'https://www.kamelion-couture.fr/'
 reachable: true

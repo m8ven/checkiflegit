@@ -1,10 +1,10 @@
 ---
 domain: bagallery.com
 slug: bagallery-com
-title: Is bagallery.com Legit? Trust Signal Check
+title: Is bagallery.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bagallery.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bagallery.com scores 88/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:31.750Z'
 finalUrl: 'https://bagallery.com/en-us'
 reachable: true

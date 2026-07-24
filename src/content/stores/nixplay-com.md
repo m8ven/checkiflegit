@@ -1,10 +1,10 @@
 ---
 domain: nixplay.com
 slug: nixplay-com
-title: Is nixplay.com Legit? Trust Signal Check
+title: Is nixplay.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nixplay.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nixplay.com scores 88/100 on our public trust checks. Established domain —
+  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:37.380Z'
 finalUrl: 'https://www.nixplay.com/'
 reachable: true

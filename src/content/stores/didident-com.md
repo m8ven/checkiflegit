@@ -1,10 +1,10 @@
 ---
 domain: didident.com
 slug: didident-com
-title: Is didident.com Legit? Trust Signal Check
+title: Is didident.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for didident.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  didident.com scores 76/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:30.206Z'
 finalUrl: 'https://didident.com/'
 reachable: true

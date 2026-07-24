@@ -1,10 +1,10 @@
 ---
 domain: kigata.de
 slug: kigata-de
-title: Is kigata.de Legit? Trust Signal Check
+title: Is kigata.de Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kigata.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kigata.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:01:19.608Z'
 finalUrl: 'https://www.kigata.de/'
 reachable: true

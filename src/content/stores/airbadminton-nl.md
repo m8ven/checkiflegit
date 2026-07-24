@@ -1,10 +1,10 @@
 ---
 domain: airbadminton.nl
 slug: airbadminton-nl
-title: Is airbadminton.nl Legit? Trust Signal Check
+title: Is airbadminton.nl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for airbadminton.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  airbadminton.nl scores 100/100 on our public trust checks. Established domain
+  — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:05.129Z'
 finalUrl: 'https://www.airbadminton.nl/'
 reachable: true

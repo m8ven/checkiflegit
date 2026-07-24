@@ -1,10 +1,10 @@
 ---
 domain: closeoutsneakers.it
 slug: closeoutsneakers-it
-title: Is closeoutsneakers.it Legit? Trust Signal Check
+title: Is closeoutsneakers.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for closeoutsneakers.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  closeoutsneakers.it scores 88/100 on our public trust checks. Established
+  domain — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:13.983Z'
 finalUrl: 'https://www.closeoutsneakers.it/'
 reachable: true

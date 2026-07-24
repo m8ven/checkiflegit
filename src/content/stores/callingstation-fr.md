@@ -1,10 +1,10 @@
 ---
 domain: callingstation.fr
 slug: callingstation-fr
-title: Is callingstation.fr Legit? Trust Signal Check
+title: Is callingstation.fr Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for callingstation.fr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  callingstation.fr scores 40/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure. Domain is relatively young.
 fetchedAt: '2026-06-25T02:59:04.607Z'
 finalUrl: 'https://callingstation.fr/'
 reachable: true

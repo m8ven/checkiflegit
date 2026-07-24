@@ -1,10 +1,10 @@
 ---
 domain: prioritynetworks.ca
 slug: prioritynetworks-ca
-title: Is prioritynetworks.ca Legit? Trust Signal Check
+title: Is prioritynetworks.ca Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for prioritynetworks.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  prioritynetworks.ca scores 76/100 on our public trust checks. Established
+  domain — registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:04.468Z'
 finalUrl: 'https://prioritynetworks.ca/'
 reachable: true

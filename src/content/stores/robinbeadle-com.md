@@ -1,10 +1,10 @@
 ---
 domain: robinbeadle.com
 slug: robinbeadle-com
-title: Is robinbeadle.com Legit? Trust Signal Check
+title: Is robinbeadle.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for robinbeadle.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  robinbeadle.com scores 88/100 on our public trust checks. Established domain —
+  registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:57.658Z'
 finalUrl: 'https://www.robinbeadle.com/'
 reachable: true

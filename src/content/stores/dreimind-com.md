@@ -1,10 +1,10 @@
 ---
 domain: dreimind.com
 slug: dreimind-com
-title: Is dreimind.com Legit? Trust Signal Check
+title: Is dreimind.com Legit? Trust Score 37/100
 description: >-
-  An automated trust-signal check for dreimind.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  dreimind.com scores 37/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:31:21.421Z'
 finalUrl: 'https://dreimind.com/'
 reachable: true

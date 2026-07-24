@@ -1,10 +1,10 @@
 ---
 domain: obj.ca
 slug: obj-ca
-title: Is obj.ca Legit? Trust Signal Check
+title: Is obj.ca Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for obj.ca: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  obj.ca scores 88/100 on our public trust checks. Established domain —
+  registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:58.098Z'
 finalUrl: 'https://obj.ca/'
 reachable: true

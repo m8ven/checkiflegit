@@ -1,10 +1,10 @@
 ---
 domain: hangermou.gr
 slug: hangermou-gr
-title: Is hangermou.gr Legit? Trust Signal Check
+title: Is hangermou.gr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hangermou.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hangermou.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:47:41.953Z'
 finalUrl: 'https://hangermou.gr/'
 reachable: true

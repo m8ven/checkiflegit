@@ -1,10 +1,10 @@
 ---
 domain: thetranquilstays.com
 slug: thetranquilstays-com
-title: Is thetranquilstays.com Legit? Trust Signal Check
+title: Is thetranquilstays.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for thetranquilstays.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thetranquilstays.com scores 88/100 on our public trust checks. Established
+  domain — registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:49.381Z'
 finalUrl: 'https://thetranquilstays.com/'
 reachable: true

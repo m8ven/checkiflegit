@@ -1,10 +1,10 @@
 ---
 domain: alma-medical.eu
 slug: alma-medical-eu
-title: Is alma-medical.eu Legit? Trust Signal Check
+title: Is alma-medical.eu Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for alma-medical.eu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  alma-medical.eu scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:47:02.059Z'
 finalUrl: 'https://alma-medical.eu/'
 reachable: true

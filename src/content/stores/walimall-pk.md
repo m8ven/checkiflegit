@@ -1,10 +1,10 @@
 ---
 domain: walimall.pk
 slug: walimall-pk
-title: Is walimall.pk Legit? Trust Signal Check
+title: Is walimall.pk Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for walimall.pk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  walimall.pk scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:49:07.770Z'
 finalUrl: 'https://walimall.pk/'
 reachable: true

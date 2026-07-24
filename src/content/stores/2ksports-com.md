@@ -1,10 +1,10 @@
 ---
 domain: 2ksports.com
 slug: 2ksports-com
-title: Is 2ksports.com Legit? Trust Signal Check
+title: Is 2ksports.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for 2ksports.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  2ksports.com scores 70/100 on our public trust checks. Established domain —
+  registered 24.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:27.370Z'
 finalUrl: 'https://2k.com/en-US/'
 reachable: true

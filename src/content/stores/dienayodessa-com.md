@@ -1,10 +1,10 @@
 ---
 domain: dienayodessa.com
 slug: dienayodessa-com
-title: Is dienayodessa.com Legit? Trust Signal Check
+title: Is dienayodessa.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for dienayodessa.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dienayodessa.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:31:44.761Z'
 finalUrl: 'http://dienayodessa.com/'
 reachable: true

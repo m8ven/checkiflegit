@@ -1,10 +1,10 @@
 ---
 domain: globalk.es
 slug: globalk-es
-title: Is globalk.es Legit? Trust Signal Check
+title: Is globalk.es Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for globalk.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  globalk.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:44:37.175Z'
 finalUrl: 'https://globalk.es/'
 reachable: true

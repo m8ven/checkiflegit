@@ -1,10 +1,10 @@
 ---
 domain: pctronic.com.py
 slug: pctronic-com-py
-title: Is pctronic.com.py Legit? Trust Signal Check
+title: Is pctronic.com.py Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for pctronic.com.py: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pctronic.com.py scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:40:29.739Z'
 finalUrl: 'https://pctronic.com.py/'
 reachable: true

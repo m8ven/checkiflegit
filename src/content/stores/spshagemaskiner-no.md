@@ -1,10 +1,10 @@
 ---
 domain: spshagemaskiner.no
 slug: spshagemaskiner-no
-title: Is spshagemaskiner.no Legit? Trust Signal Check
+title: Is spshagemaskiner.no Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for spshagemaskiner.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  spshagemaskiner.no scores 73/100 on our public trust checks. Established
+  domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:45:56.491Z'
 finalUrl: 'https://www.spshagemaskiner.no/'
 reachable: true

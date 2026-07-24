@@ -1,10 +1,10 @@
 ---
 domain: billiger-autoreifen.com
 slug: billiger-autoreifen-com
-title: Is billiger-autoreifen.com Legit? Trust Signal Check
+title: Is billiger-autoreifen.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for billiger-autoreifen.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  billiger-autoreifen.com scores 85/100 on our public trust checks. Established
+  domain — registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:58.090Z'
 finalUrl: 'https://billiger-autoreifen.com/'
 reachable: true

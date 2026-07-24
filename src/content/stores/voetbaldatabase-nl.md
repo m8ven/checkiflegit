@@ -1,10 +1,10 @@
 ---
 domain: voetbaldatabase.nl
 slug: voetbaldatabase-nl
-title: Is voetbaldatabase.nl Legit? Trust Signal Check
+title: Is voetbaldatabase.nl Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for voetbaldatabase.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  voetbaldatabase.nl scores 85/100 on our public trust checks. Established
+  domain — registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:10.759Z'
 finalUrl: 'https://voetbaldatabase.nl/'
 reachable: true

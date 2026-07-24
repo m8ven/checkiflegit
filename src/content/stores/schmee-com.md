@@ -1,10 +1,10 @@
 ---
 domain: schmee.com
 slug: schmee-com
-title: Is schmee.com Legit? Trust Signal Check
+title: Is schmee.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for schmee.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  schmee.com scores 88/100 on our public trust checks. Established domain —
+  registered 22 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:12.505Z'
 finalUrl: 'https://schmee.com/'
 reachable: true

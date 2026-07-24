@@ -1,10 +1,10 @@
 ---
 domain: lafufuus.com
 slug: lafufuus-com
-title: Is lafufuus.com Legit? Trust Signal Check
+title: Is lafufuus.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lafufuus.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lafufuus.com scores 64/100 on our public trust checks. Domain is relatively
+  young. Only limited contact details were found. Limited social media presence.
 fetchedAt: '2026-06-25T12:09:38.022Z'
 finalUrl: 'https://lafufuus.com/'
 reachable: true

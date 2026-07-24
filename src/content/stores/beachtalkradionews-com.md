@@ -1,10 +1,10 @@
 ---
 domain: beachtalkradionews.com
 slug: beachtalkradionews-com
-title: Is beachtalkradionews.com Legit? Trust Signal Check
+title: Is beachtalkradionews.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for beachtalkradionews.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  beachtalkradionews.com scores 100/100 on our public trust checks. Established
+  domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:20:31.961Z'
 finalUrl: 'https://beachtalkradionews.com/'
 reachable: true

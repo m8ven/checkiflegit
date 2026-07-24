@@ -1,10 +1,10 @@
 ---
 domain: glifewatches.com.au
 slug: glifewatches-com-au
-title: Is glifewatches.com.au Legit? Trust Signal Check
+title: Is glifewatches.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for glifewatches.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  glifewatches.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:47:53.297Z'
 finalUrl: 'https://glifewatches.com.au/'
 reachable: true

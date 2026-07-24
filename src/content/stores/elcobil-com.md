@@ -1,10 +1,10 @@
 ---
 domain: elcobil.com
 slug: elcobil-com
-title: Is elcobil.com Legit? Trust Signal Check
+title: Is elcobil.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for elcobil.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  elcobil.com scores 70/100 on our public trust checks. Established domain —
+  registered 20 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:11.870Z'
 finalUrl: 'https://elcobil.com/'
 reachable: true

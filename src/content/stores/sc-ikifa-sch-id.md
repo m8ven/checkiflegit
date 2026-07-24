@@ -1,10 +1,10 @@
 ---
 domain: sc.ikifa.sch.id
 slug: sc-ikifa-sch-id
-title: Is sc.ikifa.sch.id Legit? Trust Signal Check
+title: Is sc.ikifa.sch.id Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for sc.ikifa.sch.id: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sc.ikifa.sch.id scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:05:08.207Z'
 finalUrl: 'https://sc.ikifa.sch.id/'
 reachable: true

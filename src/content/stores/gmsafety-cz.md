@@ -1,10 +1,10 @@
 ---
 domain: gmsafety.cz
 slug: gmsafety-cz
-title: Is gmsafety.cz Legit? Trust Signal Check
+title: Is gmsafety.cz Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for gmsafety.cz: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  gmsafety.cz scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:19:46.591Z'
 finalUrl: 'https://www.gmsafety.cz/'
 reachable: true

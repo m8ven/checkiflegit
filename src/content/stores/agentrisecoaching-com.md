@@ -1,10 +1,10 @@
 ---
 domain: agentrisecoaching.com
 slug: agentrisecoaching-com
-title: Is agentrisecoaching.com Legit? Trust Signal Check
+title: Is agentrisecoaching.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for agentrisecoaching.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  agentrisecoaching.com scores 76/100 on our public trust checks. Established
+  domain — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:13.257Z'
 finalUrl: 'https://agentrisecoaching.com/'
 reachable: true

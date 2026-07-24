@@ -1,10 +1,10 @@
 ---
 domain: iconautomotive.be
 slug: iconautomotive-be
-title: Is iconautomotive.be Legit? Trust Signal Check
+title: Is iconautomotive.be Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for iconautomotive.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  iconautomotive.be scores 88/100 on our public trust checks. Established domain
+  — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:54.024Z'
 finalUrl: 'https://iconautomotive.be/'
 reachable: true

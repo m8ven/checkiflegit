@@ -1,11 +1,11 @@
 ---
 domain: dreamscapejewelry.com
 slug: dreamscapejewelry-com
-title: Is dreamscapejewelry.com Legit? Trust Signal Check
+title: Is dreamscapejewelry.com Legit? Trust Score 29/100
 description: >-
-  An automated trust-signal check for dreamscapejewelry.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  dreamscapejewelry.com scores 29/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T02:25:47.258Z'
 finalUrl: 'https://dreamscapejewelry.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: isabellenails.com
 slug: isabellenails-com
-title: Is isabellenails.com Legit? Trust Signal Check
+title: Is isabellenails.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for isabellenails.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  isabellenails.com scores 88/100 on our public trust checks. Established domain
+  — registered 16.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:15.671Z'
 finalUrl: 'https://www.isabellenails.com/'
 reachable: true

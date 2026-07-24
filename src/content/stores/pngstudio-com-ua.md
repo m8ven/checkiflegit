@@ -1,10 +1,10 @@
 ---
 domain: pngstudio.com.ua
 slug: pngstudio-com-ua
-title: Is pngstudio.com.ua Legit? Trust Signal Check
+title: Is pngstudio.com.ua Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for pngstudio.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pngstudio.com.ua scores 76/100 on our public trust checks. Established domain
+  — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:59.944Z'
 finalUrl: 'https://pngstudio.com.ua/'
 reachable: true

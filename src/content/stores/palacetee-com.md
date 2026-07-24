@@ -1,10 +1,10 @@
 ---
 domain: palacetee.com
 slug: palacetee-com
-title: Is palacetee.com Legit? Trust Signal Check
+title: Is palacetee.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for palacetee.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  palacetee.com scores 85/100 on our public trust checks. Established domain —
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:53.522Z'
 finalUrl: 'https://palacetee.com/'
 reachable: true

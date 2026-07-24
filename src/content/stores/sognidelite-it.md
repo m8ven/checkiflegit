@@ -1,10 +1,10 @@
 ---
 domain: sognidelite.it
 slug: sognidelite-it
-title: Is sognidelite.it Legit? Trust Signal Check
+title: Is sognidelite.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sognidelite.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sognidelite.it scores 88/100 on our public trust checks. Established domain —
+  registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:56.171Z'
 finalUrl: 'https://sognidelite.it/'
 reachable: true

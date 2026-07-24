@@ -1,10 +1,10 @@
 ---
 domain: geniuslighting.io
 slug: geniuslighting-io
-title: Is geniuslighting.io Legit? Trust Signal Check
+title: Is geniuslighting.io Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for geniuslighting.io: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  geniuslighting.io scores 85/100 on our public trust checks. Established domain
+  — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:07.846Z'
 finalUrl: 'https://geniuslighting.io/'
 reachable: true

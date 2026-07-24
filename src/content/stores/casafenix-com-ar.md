@@ -1,10 +1,10 @@
 ---
 domain: casafenix.com.ar
 slug: casafenix-com-ar
-title: Is casafenix.com.ar Legit? Trust Signal Check
+title: Is casafenix.com.ar Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for casafenix.com.ar: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  casafenix.com.ar scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:05:13.278Z'
 finalUrl: 'https://casafenix.com.ar/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gtrcritic.com
 slug: gtrcritic-com
-title: Is gtrcritic.com Legit? Trust Signal Check
+title: Is gtrcritic.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for gtrcritic.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gtrcritic.com scores 100/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:52.054Z'
 finalUrl: 'https://gtrcritic.com/'
 reachable: true

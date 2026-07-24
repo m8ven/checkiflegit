@@ -1,10 +1,10 @@
 ---
 domain: camping-shop.bg
 slug: camping-shop-bg
-title: Is camping-shop.bg Legit? Trust Signal Check
+title: Is camping-shop.bg Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for camping-shop.bg: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  camping-shop.bg scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:25:26.920Z'
 finalUrl: 'https://camping-shop.bg/'
 reachable: true

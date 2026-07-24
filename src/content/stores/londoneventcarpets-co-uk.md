@@ -1,10 +1,10 @@
 ---
 domain: londoneventcarpets.co.uk
 slug: londoneventcarpets-co-uk
-title: Is londoneventcarpets.co.uk Legit? Trust Signal Check
+title: Is londoneventcarpets.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for londoneventcarpets.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  londoneventcarpets.co.uk scores 73/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:51.025Z'
 finalUrl: 'https://londoneventcarpets.co.uk/'
 reachable: true

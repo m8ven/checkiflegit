@@ -1,10 +1,10 @@
 ---
 domain: ninetyplusstore.ae
 slug: ninetyplusstore-ae
-title: Is ninetyplusstore.ae Legit? Trust Signal Check
+title: Is ninetyplusstore.ae Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for ninetyplusstore.ae: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ninetyplusstore.ae scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:01:26.919Z'
 finalUrl: 'https://ninetyplusstore.ae/'
 reachable: true

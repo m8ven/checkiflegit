@@ -1,10 +1,10 @@
 ---
 domain: ditronix.net
 slug: ditronix-net
-title: Is ditronix.net Legit? Trust Signal Check
+title: Is ditronix.net Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for ditronix.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ditronix.net scores 94/100 on our public trust checks. Established domain —
+  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:09.259Z'
 finalUrl: 'https://ditronix.net/'
 reachable: true

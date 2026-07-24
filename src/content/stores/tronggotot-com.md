@@ -1,10 +1,10 @@
 ---
 domain: tronggotot.com
 slug: tronggotot-com
-title: Is tronggotot.com Legit? Trust Signal Check
+title: Is tronggotot.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tronggotot.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tronggotot.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:16:42.677Z'
 finalUrl: 'https://tronggotot.com/'
 reachable: true

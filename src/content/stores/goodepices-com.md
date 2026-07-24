@@ -1,10 +1,10 @@
 ---
 domain: goodepices.com
 slug: goodepices-com
-title: Is goodepices.com Legit? Trust Signal Check
+title: Is goodepices.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for goodepices.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  goodepices.com scores 100/100 on our public trust checks. Established domain —
+  registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:23.368Z'
 finalUrl: 'https://goodepices.com/'
 reachable: true

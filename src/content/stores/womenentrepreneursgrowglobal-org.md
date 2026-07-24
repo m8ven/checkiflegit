@@ -1,10 +1,10 @@
 ---
 domain: womenentrepreneursgrowglobal.org
 slug: womenentrepreneursgrowglobal-org
-title: Is womenentrepreneursgrowglobal.org Legit? Trust Signal Check
+title: Is womenentrepreneursgrowglobal.org Legit? Score 100/100
 description: >-
-  An automated trust-signal check for womenentrepreneursgrowglobal.org: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  womenentrepreneursgrowglobal.org scores 100/100 on our public trust checks.
+  Established domain — registered 18.4 years ago.
 fetchedAt: '2026-06-25T02:50:58.966Z'
 finalUrl: 'https://womenentrepreneursgrowglobal.org/'
 reachable: true

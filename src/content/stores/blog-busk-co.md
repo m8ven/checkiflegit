@@ -1,10 +1,10 @@
 ---
 domain: blog.busk.co
 slug: blog-busk-co
-title: Is blog.busk.co Legit? Trust Signal Check
+title: Is blog.busk.co Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for blog.busk.co: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  blog.busk.co scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:03:16.171Z'
 finalUrl: 'https://blog.busk.co/'
 reachable: true

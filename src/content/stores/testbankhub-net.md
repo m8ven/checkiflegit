@@ -1,10 +1,10 @@
 ---
 domain: testbankhub.net
 slug: testbankhub-net
-title: Is testbankhub.net Legit? Trust Signal Check
+title: Is testbankhub.net Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for testbankhub.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  testbankhub.net scores 70/100 on our public trust checks. Established domain —
+  registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:30.387Z'
 finalUrl: 'https://testbankhub.net/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: comecap2025.com
 slug: comecap2025-com
-title: Is comecap2025.com Legit? Trust Signal Check
+title: Is comecap2025.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for comecap2025.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  comecap2025.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:22:35.540Z'
 finalUrl: 'https://comecap2025.com/'
 reachable: true

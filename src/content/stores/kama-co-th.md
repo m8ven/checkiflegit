@@ -1,10 +1,10 @@
 ---
 domain: kama.co.th
 slug: kama-co-th
-title: Is kama.co.th Legit? Trust Signal Check
+title: Is kama.co.th Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kama.co.th: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kama.co.th scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:04:52.540Z'
 finalUrl: 'https://kama.co.th/'
 reachable: true

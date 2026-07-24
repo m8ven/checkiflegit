@@ -1,10 +1,10 @@
 ---
 domain: synctrack.io
 slug: synctrack-io
-title: Is synctrack.io Legit? Trust Signal Check
+title: Is synctrack.io Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for synctrack.io: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  synctrack.io scores 88/100 on our public trust checks. Established domain —
+  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:45.122Z'
 finalUrl: 'https://synctrack.io/'
 reachable: true

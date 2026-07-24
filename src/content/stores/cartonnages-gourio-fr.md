@@ -1,10 +1,10 @@
 ---
 domain: cartonnages-gourio.fr
 slug: cartonnages-gourio-fr
-title: Is cartonnages-gourio.fr Legit? Trust Signal Check
+title: Is cartonnages-gourio.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cartonnages-gourio.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cartonnages-gourio.fr scores 88/100 on our public trust checks. Established
+  domain — registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:11.697Z'
 finalUrl: 'https://www.cartonnages-gourio.fr/'
 reachable: true

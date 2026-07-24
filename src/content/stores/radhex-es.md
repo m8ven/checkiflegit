@@ -1,10 +1,10 @@
 ---
 domain: radhex.es
 slug: radhex-es
-title: Is radhex.es Legit? Trust Signal Check
+title: Is radhex.es Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for radhex.es: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  radhex.es scores 57/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:49:03.592Z'
 finalUrl: 'https://radhex.es/'
 reachable: true

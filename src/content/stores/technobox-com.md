@@ -1,10 +1,10 @@
 ---
 domain: technobox.com
 slug: technobox-com
-title: Is technobox.com Legit? Trust Signal Check
+title: Is technobox.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for technobox.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  technobox.com scores 100/100 on our public trust checks. Established domain —
+  registered 30.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:16.154Z'
 finalUrl: 'https://technobox.com/'
 reachable: true

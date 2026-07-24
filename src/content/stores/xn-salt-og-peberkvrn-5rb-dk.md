@@ -1,10 +1,11 @@
 ---
 domain: xn--salt-og-peberkvrn-5rb.dk
 slug: xn-salt-og-peberkvrn-5rb-dk
-title: Is xn--salt-og-peberkvrn-5rb.dk Legit? Trust Signal Check
+title: Is xn--salt-og-peberkvrn-5rb.dk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for xn--salt-og-peberkvrn-5rb.dk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  xn--salt-og-peberkvrn-5rb.dk scores 82/100 on our public trust checks.
+  Established domain — registered 1.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:29:43.075Z'
 finalUrl: 'https://xn--salt-og-peberkvrn-5rb.dk/'
 reachable: true

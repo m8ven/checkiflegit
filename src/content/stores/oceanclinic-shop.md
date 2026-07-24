@@ -1,10 +1,10 @@
 ---
 domain: oceanclinic.shop
 slug: oceanclinic-shop
-title: Is oceanclinic.shop Legit? Trust Signal Check
+title: Is oceanclinic.shop Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for oceanclinic.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  oceanclinic.shop scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:20:57.417Z'
 finalUrl: 'https://oceanclinic.shop/'
 reachable: true

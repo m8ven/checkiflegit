@@ -1,10 +1,10 @@
 ---
 domain: bonpetit.se
 slug: bonpetit-se
-title: Is bonpetit.se Legit? Trust Signal Check
+title: Is bonpetit.se Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bonpetit.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bonpetit.se scores 73/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:17.090Z'
 finalUrl: 'https://bonpetit.se/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tradingarabix.com
 slug: tradingarabix-com
-title: Is tradingarabix.com Legit? Trust Signal Check
+title: Is tradingarabix.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for tradingarabix.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tradingarabix.com scores 88/100 on our public trust checks. Established domain
+  — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:57.521Z'
 finalUrl: 'https://tradingarabix.com/'
 reachable: true

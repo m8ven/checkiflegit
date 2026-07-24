@@ -1,10 +1,10 @@
 ---
 domain: matriprerna.com
 slug: matriprerna-com
-title: Is matriprerna.com Legit? Trust Signal Check
+title: Is matriprerna.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for matriprerna.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  matriprerna.com scores 73/100 on our public trust checks. Established domain —
+  registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:39.764Z'
 finalUrl: 'https://matriprerna.com/'
 reachable: true

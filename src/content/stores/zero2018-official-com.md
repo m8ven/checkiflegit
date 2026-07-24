@@ -1,10 +1,10 @@
 ---
 domain: zero2018-official.com
 slug: zero2018-official-com
-title: Is zero2018-official.com Legit? Trust Signal Check
+title: Is zero2018-official.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for zero2018-official.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  zero2018-official.com scores 100/100 on our public trust checks. Established
+  domain — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:58.787Z'
 finalUrl: 'https://zero2018-official.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: iliosmpaxarika.gr
 slug: iliosmpaxarika-gr
-title: Is iliosmpaxarika.gr Legit? Trust Signal Check
+title: Is iliosmpaxarika.gr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for iliosmpaxarika.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  iliosmpaxarika.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:59:36.051Z'
 finalUrl: 'https://iliosmpaxarika.gr/'
 reachable: true

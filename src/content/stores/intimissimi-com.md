@@ -1,10 +1,10 @@
 ---
 domain: intimissimi.com
 slug: intimissimi-com
-title: Is intimissimi.com Legit? Trust Signal Check
+title: Is intimissimi.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for intimissimi.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  intimissimi.com scores 100/100 on our public trust checks. Established domain
+  — registered 27.9 years ago.
 fetchedAt: '2026-06-24T21:44:43.461Z'
 finalUrl: 'https://www.intimissimi.com/us/'
 reachable: true

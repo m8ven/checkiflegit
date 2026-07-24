@@ -1,10 +1,10 @@
 ---
 domain: newphasesupermarket.com
 slug: newphasesupermarket-com
-title: Is newphasesupermarket.com Legit? Trust Signal Check
+title: Is newphasesupermarket.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for newphasesupermarket.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  newphasesupermarket.com scores 94/100 on our public trust checks. Established
+  domain — registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:45.708Z'
 finalUrl: 'https://newphasesupermarket.com/'
 reachable: true

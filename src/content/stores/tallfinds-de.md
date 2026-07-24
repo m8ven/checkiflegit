@@ -1,10 +1,10 @@
 ---
 domain: tallfinds.de
 slug: tallfinds-de
-title: Is tallfinds.de Legit? Trust Signal Check
+title: Is tallfinds.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for tallfinds.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tallfinds.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:06:29.038Z'
 finalUrl: 'https://tallfinds.de/'
 reachable: true

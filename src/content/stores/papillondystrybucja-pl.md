@@ -1,10 +1,10 @@
 ---
 domain: papillondystrybucja.pl
 slug: papillondystrybucja-pl
-title: Is papillondystrybucja.pl Legit? Trust Signal Check
+title: Is papillondystrybucja.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for papillondystrybucja.pl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  papillondystrybucja.pl scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:30:21.234Z'
 finalUrl: 'https://www.papillondystrybucja.pl/'
 reachable: true

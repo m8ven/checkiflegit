@@ -1,10 +1,10 @@
 ---
 domain: boing-inflatables.com
 slug: boing-inflatables-com
-title: Is boing-inflatables.com Legit? Trust Signal Check
+title: Is boing-inflatables.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for boing-inflatables.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  boing-inflatables.com scores 100/100 on our public trust checks. Established
+  domain — registered 26 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:56.742Z'
 finalUrl: 'https://boing-inflatables.com/nl-eu'
 reachable: true

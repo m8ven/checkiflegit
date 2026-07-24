@@ -1,10 +1,10 @@
 ---
 domain: minimall.gr
 slug: minimall-gr
-title: Is minimall.gr Legit? Trust Signal Check
+title: Is minimall.gr Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for minimall.gr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  minimall.gr scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:36:50.578Z'
 finalUrl: 'https://minimall.gr/'
 reachable: true

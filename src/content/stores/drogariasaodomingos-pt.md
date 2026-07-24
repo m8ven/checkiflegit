@@ -1,10 +1,10 @@
 ---
 domain: drogariasaodomingos.pt
 slug: drogariasaodomingos-pt
-title: Is drogariasaodomingos.pt Legit? Trust Signal Check
+title: Is drogariasaodomingos.pt Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for drogariasaodomingos.pt: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  drogariasaodomingos.pt scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:27:14.820Z'
 finalUrl: 'https://drogariasaodomingos.pt/'
 reachable: true

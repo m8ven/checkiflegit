@@ -1,10 +1,10 @@
 ---
 domain: heartfitclinic.com
 slug: heartfitclinic-com
-title: Is heartfitclinic.com Legit? Trust Signal Check
+title: Is heartfitclinic.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for heartfitclinic.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  heartfitclinic.com scores 100/100 on our public trust checks. Established
+  domain — registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:23.412Z'
 finalUrl: 'https://heartfitclinic.com/'
 reachable: true

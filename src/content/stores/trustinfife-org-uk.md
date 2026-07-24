@@ -1,10 +1,10 @@
 ---
 domain: trustinfife.org.uk
 slug: trustinfife-org-uk
-title: Is trustinfife.org.uk Legit? Trust Signal Check
+title: Is trustinfife.org.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for trustinfife.org.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  trustinfife.org.uk scores 100/100 on our public trust checks. Established
+  domain — registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:43.664Z'
 finalUrl: 'https://trustinfife.org.uk/'
 reachable: true

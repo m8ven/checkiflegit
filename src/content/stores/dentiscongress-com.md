@@ -1,10 +1,10 @@
 ---
 domain: dentiscongress.com
 slug: dentiscongress-com
-title: Is dentiscongress.com Legit? Trust Signal Check
+title: Is dentiscongress.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dentiscongress.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dentiscongress.com scores 88/100 on our public trust checks. Established
+  domain — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:50.304Z'
 finalUrl: 'https://dentiscongress.com/'
 reachable: true

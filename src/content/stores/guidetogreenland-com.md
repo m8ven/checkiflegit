@@ -1,10 +1,10 @@
 ---
 domain: guidetogreenland.com
 slug: guidetogreenland-com
-title: Is guidetogreenland.com Legit? Trust Signal Check
+title: Is guidetogreenland.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for guidetogreenland.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  guidetogreenland.com scores 88/100 on our public trust checks. Established
+  domain — registered 11 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:34.302Z'
 finalUrl: 'https://guidetogreenland.com/'
 reachable: true

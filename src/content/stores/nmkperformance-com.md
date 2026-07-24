@@ -1,10 +1,10 @@
 ---
 domain: nmkperformance.com
 slug: nmkperformance-com
-title: Is nmkperformance.com Legit? Trust Signal Check
+title: Is nmkperformance.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for nmkperformance.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nmkperformance.com scores 88/100 on our public trust checks. Established
+  domain — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:13.723Z'
 finalUrl: 'https://nmkperformance.com/'
 reachable: true

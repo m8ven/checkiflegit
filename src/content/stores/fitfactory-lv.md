@@ -1,10 +1,11 @@
 ---
 domain: fitfactory.lv
 slug: fitfactory-lv
-title: Is fitfactory.lv Legit? Trust Signal Check
+title: Is fitfactory.lv Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for fitfactory.lv: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fitfactory.lv scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:30:56.316Z'
 finalUrl: 'https://www.fitfactory.lv/'
 reachable: true

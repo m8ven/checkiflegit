@@ -1,10 +1,10 @@
 ---
 domain: nisioptics.pt
 slug: nisioptics-pt
-title: Is nisioptics.pt Legit? Trust Signal Check
+title: Is nisioptics.pt Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nisioptics.pt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nisioptics.pt scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:55:52.686Z'
 finalUrl: 'https://nisioptics.pt/'
 reachable: true

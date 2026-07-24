@@ -1,10 +1,10 @@
 ---
 domain: doiie.com
 slug: doiie-com
-title: Is doiie.com Legit? Trust Signal Check
+title: Is doiie.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for doiie.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  doiie.com scores 73/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:13.591Z'
 finalUrl: 'https://doiie.com/'
 reachable: true

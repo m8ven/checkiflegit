@@ -1,10 +1,10 @@
 ---
 domain: doorsonline.co.za
 slug: doorsonline-co-za
-title: Is doorsonline.co.za Legit? Trust Signal Check
+title: Is doorsonline.co.za Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for doorsonline.co.za: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  doorsonline.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:34:08.011Z'
 finalUrl: 'https://doorsonline.co.za/'
 reachable: true

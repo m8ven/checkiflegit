@@ -1,10 +1,10 @@
 ---
 domain: donsiliaprofessional.pt
 slug: donsiliaprofessional-pt
-title: Is donsiliaprofessional.pt Legit? Trust Signal Check
+title: Is donsiliaprofessional.pt Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for donsiliaprofessional.pt: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  donsiliaprofessional.pt scores 100/100 on our public trust checks. Established
+  domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:04.096Z'
 finalUrl: 'https://donsiliaprofessional.pt/'
 reachable: true

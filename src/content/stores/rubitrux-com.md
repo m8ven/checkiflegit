@@ -1,10 +1,10 @@
 ---
 domain: rubitrux.com
 slug: rubitrux-com
-title: Is rubitrux.com Legit? Trust Signal Check
+title: Is rubitrux.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rubitrux.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rubitrux.com scores 100/100 on our public trust checks. Established domain —
+  registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:05.807Z'
 finalUrl: 'https://www.rubitrux.com/'
 reachable: true

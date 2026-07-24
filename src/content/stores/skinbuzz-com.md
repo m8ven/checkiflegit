@@ -1,10 +1,10 @@
 ---
 domain: skinbuzz.com
 slug: skinbuzz-com
-title: Is skinbuzz.com Legit? Trust Signal Check
+title: Is skinbuzz.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for skinbuzz.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  skinbuzz.com scores 100/100 on our public trust checks. Established domain —
+  registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:27.713Z'
 finalUrl: 'https://skinbuzz.com/'
 reachable: true

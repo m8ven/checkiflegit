@@ -1,10 +1,10 @@
 ---
 domain: drivertraining.psp.co.th
 slug: drivertraining-psp-co-th
-title: Is drivertraining.psp.co.th Legit? Trust Signal Check
+title: Is drivertraining.psp.co.th Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for drivertraining.psp.co.th: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  drivertraining.psp.co.th scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:34:36.859Z'
 finalUrl: 'https://drivertraining.psp.co.th/'
 reachable: true

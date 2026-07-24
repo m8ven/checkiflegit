@@ -1,11 +1,10 @@
 ---
 domain: xn----8sbagbffkc5a5aneiaebjtm4ap4hrevb.xn--p1ai
 slug: xn-8sbagbffkc5a5aneiaebjtm4ap4hrevb-xn-p1ai
-title: Is xn----8sbagbffkc5a5aneiaebjtm4ap4hrevb.xn--p1ai Legit? Trust Signal Check
+title: Is xn----8sbagbffkc5a5aneiaebjtm4ap4hrevb.xn--p1ai Legit? Score 55/100
 description: >-
-  An automated trust-signal check for
-  xn----8sbagbffkc5a5aneiaebjtm4ap4hrevb.xn--p1ai: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  xn----8sbagbffkc5a5aneiaebjtm4ap4hrevb.xn--p1ai scores 55/100 on our public
+  trust checks. Standard contact and policy pages were not found.
 fetchedAt: '2026-06-25T15:29:40.776Z'
 finalUrl: 'https://xn----8sbagbffkc5a5aneiaebjtm4ap4hrevb.xn--p1ai/'
 reachable: true

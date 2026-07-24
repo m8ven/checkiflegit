@@ -1,10 +1,10 @@
 ---
 domain: oficynamm.pl
 slug: oficynamm-pl
-title: Is oficynamm.pl Legit? Trust Signal Check
+title: Is oficynamm.pl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for oficynamm.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  oficynamm.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:46:24.345Z'
 finalUrl: 'https://oficynamm.pl/'
 reachable: true

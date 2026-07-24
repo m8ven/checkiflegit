@@ -1,10 +1,10 @@
 ---
 domain: kneerehab.net
 slug: kneerehab-net
-title: Is kneerehab.net Legit? Trust Signal Check
+title: Is kneerehab.net Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kneerehab.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kneerehab.net scores 88/100 on our public trust checks. Established domain —
+  registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:41.603Z'
 finalUrl: 'https://kneerehab.net/'
 reachable: true

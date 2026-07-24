@@ -1,10 +1,10 @@
 ---
 domain: soft-inc.ru
 slug: soft-inc-ru
-title: Is soft-inc.ru Legit? Trust Signal Check
+title: Is soft-inc.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for soft-inc.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  soft-inc.ru scores 73/100 on our public trust checks. Established domain —
+  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:17.698Z'
 finalUrl: 'https://soft-inc.ru/'
 reachable: true

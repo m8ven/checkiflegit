@@ -1,10 +1,11 @@
 ---
 domain: knowneworldcourtesans.org
 slug: knowneworldcourtesans-org
-title: Is knowneworldcourtesans.org Legit? Trust Signal Check
+title: Is knowneworldcourtesans.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for knowneworldcourtesans.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  knowneworldcourtesans.org scores 76/100 on our public trust checks.
+  Established domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:42:28.668Z'
 finalUrl: 'https://knowneworldcourtesans.org/'
 reachable: true

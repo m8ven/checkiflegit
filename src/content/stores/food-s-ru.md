@@ -1,10 +1,10 @@
 ---
 domain: food-s.ru
 slug: food-s-ru
-title: Is food-s.ru Legit? Trust Signal Check
+title: Is food-s.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for food-s.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  food-s.ru scores 73/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:17.736Z'
 finalUrl: 'https://food-s.ru/'
 reachable: true

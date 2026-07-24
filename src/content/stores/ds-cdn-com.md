@@ -1,10 +1,11 @@
 ---
 domain: ds-cdn.com
 slug: ds-cdn-com
-title: Is ds-cdn.com Legit? Trust Signal Check
+title: Is ds-cdn.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for ds-cdn.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  ds-cdn.com scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-24T21:46:03.496Z'
 finalUrl: 'https://ds-cdn.com/merchant-admin/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mecafe.ma
 slug: mecafe-ma
-title: Is mecafe.ma Legit? Trust Signal Check
+title: Is mecafe.ma Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mecafe.ma: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mecafe.ma scores 88/100 on our public trust checks. Established domain —
+  registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:09.789Z'
 finalUrl: 'https://mecafe.ma/'
 reachable: true

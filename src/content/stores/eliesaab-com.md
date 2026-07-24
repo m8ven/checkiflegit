@@ -1,10 +1,10 @@
 ---
 domain: eliesaab.com
 slug: eliesaab-com
-title: Is eliesaab.com Legit? Trust Signal Check
+title: Is eliesaab.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for eliesaab.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  eliesaab.com scores 76/100 on our public trust checks. Established domain —
+  registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:07.983Z'
 finalUrl: 'https://eliesaab.com/'
 reachable: true

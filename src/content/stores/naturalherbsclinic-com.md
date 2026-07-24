@@ -1,10 +1,10 @@
 ---
 domain: naturalherbsclinic.com
 slug: naturalherbsclinic-com
-title: Is naturalherbsclinic.com Legit? Trust Signal Check
+title: Is naturalherbsclinic.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for naturalherbsclinic.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  naturalherbsclinic.com scores 85/100 on our public trust checks. Established
+  domain — registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:41.839Z'
 finalUrl: 'https://www.naturalherbsclinic.com/'
 reachable: true

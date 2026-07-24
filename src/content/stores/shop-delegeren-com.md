@@ -1,10 +1,10 @@
 ---
 domain: shop.delegeren.com
 slug: shop-delegeren-com
-title: Is shop.delegeren.com Legit? Trust Signal Check
+title: Is shop.delegeren.com Legit? Trust Score 0/100
 description: >-
-  An automated trust-signal check for shop.delegeren.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  shop.delegeren.com scores 0/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T12:02:54.298Z'
 finalUrl: 'https://shop.delegeren.com/'
 reachable: true

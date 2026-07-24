@@ -1,10 +1,10 @@
 ---
 domain: tahelsadot.com
 slug: tahelsadot-com
-title: Is tahelsadot.com Legit? Trust Signal Check
+title: Is tahelsadot.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for tahelsadot.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tahelsadot.com scores 70/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:58.836Z'
 finalUrl: 'https://tahelsadot.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: castiyuste.com
 slug: castiyuste-com
-title: Is castiyuste.com Legit? Trust Signal Check
+title: Is castiyuste.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for castiyuste.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  castiyuste.com scores 76/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:31.863Z'
 finalUrl: 'https://castiyuste.com/'
 reachable: true

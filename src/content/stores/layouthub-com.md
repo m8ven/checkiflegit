@@ -1,10 +1,10 @@
 ---
 domain: layouthub.com
 slug: layouthub-com
-title: Is layouthub.com Legit? Trust Signal Check
+title: Is layouthub.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for layouthub.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  layouthub.com scores 70/100 on our public trust checks. Established domain —
+  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:29.543Z'
 finalUrl: 'https://layouthub.com/'
 reachable: true

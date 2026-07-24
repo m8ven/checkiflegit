@@ -1,10 +1,10 @@
 ---
 domain: shop.wishlist.it
 slug: shop-wishlist-it
-title: Is shop.wishlist.it Legit? Trust Signal Check
+title: Is shop.wishlist.it Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for shop.wishlist.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.wishlist.it scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:06:08.782Z'
 finalUrl: 'https://shop.wishlist.it/'
 reachable: true

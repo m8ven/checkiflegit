@@ -1,10 +1,10 @@
 ---
 domain: kastenwagenzubehoer.de
 slug: kastenwagenzubehoer-de
-title: Is kastenwagenzubehoer.de Legit? Trust Signal Check
+title: Is kastenwagenzubehoer.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kastenwagenzubehoer.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kastenwagenzubehoer.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:08.836Z'
 finalUrl: 'https://kastenwagenzubehoer.de/'
 reachable: true

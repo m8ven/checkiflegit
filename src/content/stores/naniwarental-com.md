@@ -1,10 +1,10 @@
 ---
 domain: naniwarental.com
 slug: naniwarental-com
-title: Is naniwarental.com Legit? Trust Signal Check
+title: Is naniwarental.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for naniwarental.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  naniwarental.com scores 76/100 on our public trust checks. Established domain
+  — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:59.083Z'
 finalUrl: 'https://naniwarental.com/'
 reachable: true

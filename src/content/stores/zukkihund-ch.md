@@ -1,10 +1,11 @@
 ---
 domain: zukkihund.ch
 slug: zukkihund-ch
-title: Is zukkihund.ch Legit? Trust Signal Check
+title: Is zukkihund.ch Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for zukkihund.ch: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  zukkihund.ch scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:29:31.877Z'
 finalUrl: 'https://www.zukkihund.ch/'
 reachable: true

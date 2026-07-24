@@ -1,10 +1,10 @@
 ---
 domain: lovely-handbag.de
 slug: lovely-handbag-de
-title: Is lovely-handbag.de Legit? Trust Signal Check
+title: Is lovely-handbag.de Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for lovely-handbag.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lovely-handbag.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:08:05.470Z'
 finalUrl: 'https://lovely-handbag.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: bios-dump.ru
 slug: bios-dump-ru
-title: Is bios-dump.ru Legit? Trust Signal Check
+title: Is bios-dump.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for bios-dump.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  bios-dump.ru scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:36:46.747Z'
 finalUrl: 'https://bios-dump.ru/'
 reachable: true

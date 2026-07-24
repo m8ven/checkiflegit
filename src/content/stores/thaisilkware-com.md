@@ -1,10 +1,10 @@
 ---
 domain: thaisilkware.com
 slug: thaisilkware-com
-title: Is thaisilkware.com Legit? Trust Signal Check
+title: Is thaisilkware.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for thaisilkware.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thaisilkware.com scores 82/100 on our public trust checks. Established domain
+  — registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:34.983Z'
 finalUrl: 'https://thaisilkware.com/'
 reachable: true

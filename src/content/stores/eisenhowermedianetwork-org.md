@@ -1,10 +1,11 @@
 ---
 domain: eisenhowermedianetwork.org
 slug: eisenhowermedianetwork-org
-title: Is eisenhowermedianetwork.org Legit? Trust Signal Check
+title: Is eisenhowermedianetwork.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for eisenhowermedianetwork.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  eisenhowermedianetwork.org scores 76/100 on our public trust checks.
+  Established domain — registered 6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:31:55.010Z'
 finalUrl: 'https://eisenhowermedianetwork.org/'
 reachable: true

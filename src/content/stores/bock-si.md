@@ -1,10 +1,10 @@
 ---
 domain: bock.si
 slug: bock-si
-title: Is bock.si Legit? Trust Signal Check
+title: Is bock.si Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bock.si: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  bock.si scores 88/100 on our public trust checks. Established domain —
+  registered 22.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:17.865Z'
 finalUrl: 'https://bock.si/'
 reachable: true

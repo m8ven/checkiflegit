@@ -1,10 +1,10 @@
 ---
 domain: bestjobmate.com
 slug: bestjobmate-com
-title: Is bestjobmate.com Legit? Trust Signal Check
+title: Is bestjobmate.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bestjobmate.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bestjobmate.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T14:48:21.365Z'
 finalUrl: 'https://bestjobmate.com/'
 reachable: true

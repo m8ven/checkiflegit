@@ -1,11 +1,10 @@
 ---
 domain: service.serica-watches.com
 slug: service-serica-watches-com
-title: Is service.serica-watches.com Legit? Trust Signal Check
+title: Is service.serica-watches.com Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for service.serica-watches.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  service.serica-watches.com scores 19/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:44:39.771Z'
 finalUrl: 'https://service.serica-watches.com/fr-FR'
 reachable: true

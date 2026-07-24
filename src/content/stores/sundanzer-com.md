@@ -1,10 +1,10 @@
 ---
 domain: sundanzer.com
 slug: sundanzer-com
-title: Is sundanzer.com Legit? Trust Signal Check
+title: Is sundanzer.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sundanzer.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sundanzer.com scores 88/100 on our public trust checks. Established domain —
+  registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:18.708Z'
 finalUrl: 'https://sundanzer.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ddz.dk
 slug: ddz-dk
-title: Is ddz.dk Legit? Trust Signal Check
+title: Is ddz.dk Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ddz.dk: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ddz.dk scores 64/100 on our public trust checks. Standard contact and policy
+  pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T03:41:13.923Z'
 finalUrl: 'https://ddz.dk/'
 reachable: true

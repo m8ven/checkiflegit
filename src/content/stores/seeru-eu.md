@@ -1,10 +1,11 @@
 ---
 domain: seeru.eu
 slug: seeru-eu
-title: Is seeru.eu Legit? Trust Signal Check
+title: Is seeru.eu Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for seeru.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  seeru.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T15:05:21.518Z'
 finalUrl: 'https://seeru.eu/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: leukemeubels.nl
 slug: leukemeubels-nl
-title: Is leukemeubels.nl Legit? Trust Signal Check
+title: Is leukemeubels.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for leukemeubels.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  leukemeubels.nl scores 88/100 on our public trust checks. Established domain —
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:20:48.388Z'
 finalUrl: 'https://leukemeubels.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lick2cum.com
 slug: lick2cum-com
-title: Is lick2cum.com Legit? Trust Signal Check
+title: Is lick2cum.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for lick2cum.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lick2cum.com scores 70/100 on our public trust checks. Established domain —
+  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:13.915Z'
 finalUrl: 'https://lick2cum.com/'
 reachable: true

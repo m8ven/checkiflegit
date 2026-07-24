@@ -1,10 +1,10 @@
 ---
 domain: klugewahl.de
 slug: klugewahl-de
-title: Is klugewahl.de Legit? Trust Signal Check
+title: Is klugewahl.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for klugewahl.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  klugewahl.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:46:20.647Z'
 finalUrl: 'https://klugewahl.de/'
 reachable: true

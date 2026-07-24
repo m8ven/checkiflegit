@@ -1,10 +1,10 @@
 ---
 domain: daralbanat.com
 slug: daralbanat-com
-title: Is daralbanat.com Legit? Trust Signal Check
+title: Is daralbanat.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for daralbanat.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  daralbanat.com scores 94/100 on our public trust checks. Established domain —
+  registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:13.036Z'
 finalUrl: 'https://daralbanat.com/'
 reachable: true

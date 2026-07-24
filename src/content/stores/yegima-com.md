@@ -1,10 +1,10 @@
 ---
 domain: yegima.com
 slug: yegima-com
-title: Is yegima.com Legit? Trust Signal Check
+title: Is yegima.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for yegima.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  yegima.com scores 76/100 on our public trust checks. Public business contact
+  details are listed. Maintains links to multiple social media platforms.
 fetchedAt: '2026-06-25T15:29:54.569Z'
 finalUrl: 'https://yegima.com/'
 reachable: true

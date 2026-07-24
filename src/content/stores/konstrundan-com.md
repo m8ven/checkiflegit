@@ -1,10 +1,10 @@
 ---
 domain: konstrundan.com
 slug: konstrundan-com
-title: Is konstrundan.com Legit? Trust Signal Check
+title: Is konstrundan.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for konstrundan.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  konstrundan.com scores 76/100 on our public trust checks. Established domain —
+  registered 23.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:09.338Z'
 finalUrl: 'https://konstrundan.com/'
 reachable: true

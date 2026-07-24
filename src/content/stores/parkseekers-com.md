@@ -1,10 +1,10 @@
 ---
 domain: parkseekers.com
 slug: parkseekers-com
-title: Is parkseekers.com Legit? Trust Signal Check
+title: Is parkseekers.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for parkseekers.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  parkseekers.com scores 70/100 on our public trust checks. Established domain —
+  registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:59.099Z'
 finalUrl: 'https://www.parkseekers.com/'
 reachable: true

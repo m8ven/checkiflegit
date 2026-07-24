@@ -1,10 +1,10 @@
 ---
 domain: tecquimica.com.bo
 slug: tecquimica-com-bo
-title: Is tecquimica.com.bo Legit? Trust Signal Check
+title: Is tecquimica.com.bo Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for tecquimica.com.bo: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tecquimica.com.bo scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:05:44.450Z'
 finalUrl: 'https://tecquimica.com.bo/es/'
 reachable: true

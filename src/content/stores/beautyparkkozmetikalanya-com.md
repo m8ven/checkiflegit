@@ -1,11 +1,10 @@
 ---
 domain: beautyparkkozmetikalanya.com
 slug: beautyparkkozmetikalanya-com
-title: Is beautyparkkozmetikalanya.com Legit? Trust Signal Check
+title: Is beautyparkkozmetikalanya.com Legit? Trust Score 13/100
 description: >-
-  An automated trust-signal check for beautyparkkozmetikalanya.com: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  beautyparkkozmetikalanya.com scores 13/100 on our public trust checks. Domain
+  registered very recently (56 days ago).
 fetchedAt: '2026-06-25T02:26:23.914Z'
 finalUrl: 'https://beautyparkkozmetikalanya.com/'
 reachable: true

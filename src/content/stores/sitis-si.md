@@ -1,10 +1,10 @@
 ---
 domain: sitis.si
 slug: sitis-si
-title: Is sitis.si Legit? Trust Signal Check
+title: Is sitis.si Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sitis.si: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sitis.si scores 88/100 on our public trust checks. Established domain —
+  registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:37:38.269Z'
 finalUrl: 'https://sitis.si/'
 reachable: true

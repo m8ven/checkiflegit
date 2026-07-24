@@ -1,10 +1,10 @@
 ---
 domain: globeoffice.it
 slug: globeoffice-it
-title: Is globeoffice.it Legit? Trust Signal Check
+title: Is globeoffice.it Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for globeoffice.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  globeoffice.it scores 73/100 on our public trust checks. Established domain —
+  registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:15.036Z'
 finalUrl: 'https://www.globeoffice.it/'
 reachable: true

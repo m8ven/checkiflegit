@@ -1,10 +1,10 @@
 ---
 domain: elimasqueperfumes.es
 slug: elimasqueperfumes-es
-title: Is elimasqueperfumes.es Legit? Trust Signal Check
+title: Is elimasqueperfumes.es Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for elimasqueperfumes.es: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  elimasqueperfumes.es scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:50:13.262Z'
 finalUrl: 'https://elimasqueperfumes.es/'
 reachable: true

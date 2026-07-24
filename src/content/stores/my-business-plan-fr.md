@@ -1,10 +1,10 @@
 ---
 domain: my-business-plan.fr
 slug: my-business-plan-fr
-title: Is my-business-plan.fr Legit? Trust Signal Check
+title: Is my-business-plan.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for my-business-plan.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  my-business-plan.fr scores 88/100 on our public trust checks. Established
+  domain — registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:06.404Z'
 finalUrl: 'https://www.my-business-plan.fr/'
 reachable: true

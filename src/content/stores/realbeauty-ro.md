@@ -1,10 +1,10 @@
 ---
 domain: realbeauty.ro
 slug: realbeauty-ro
-title: Is realbeauty.ro Legit? Trust Signal Check
+title: Is realbeauty.ro Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for realbeauty.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  realbeauty.ro scores 76/100 on our public trust checks. Established domain —
+  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:59.418Z'
 finalUrl: 'https://realbeauty.ro/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tezenis.com
 slug: tezenis-com
-title: Is tezenis.com Legit? Trust Signal Check
+title: Is tezenis.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tezenis.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tezenis.com scores 85/100 on our public trust checks. Established domain —
+  registered 23 years ago.
 fetchedAt: '2026-06-24T21:44:36.478Z'
 finalUrl: 'https://www.tezenis.com/it/'
 reachable: true

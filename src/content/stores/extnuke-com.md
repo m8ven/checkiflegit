@@ -1,10 +1,10 @@
 ---
 domain: extnuke.com
 slug: extnuke-com
-title: Is extnuke.com Legit? Trust Signal Check
+title: Is extnuke.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for extnuke.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  extnuke.com scores 82/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:58.785Z'
 finalUrl: 'https://www.extnuke.com/'
 reachable: true

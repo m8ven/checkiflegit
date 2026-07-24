@@ -1,10 +1,10 @@
 ---
 domain: kvk.be
 slug: kvk-be
-title: Is kvk.be Legit? Trust Signal Check
+title: Is kvk.be Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kvk.be: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  kvk.be scores 88/100 on our public trust checks. Established domain —
+  registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:22:40.289Z'
 finalUrl: 'https://www.kvk.be/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: immanuelbookstore.co.id
 slug: immanuelbookstore-co-id
-title: Is immanuelbookstore.co.id Legit? Trust Signal Check
+title: Is immanuelbookstore.co.id Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for immanuelbookstore.co.id: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  immanuelbookstore.co.id scores 52/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:00:02.622Z'
 finalUrl: 'https://immanuelbookstore.co.id/'
 reachable: true

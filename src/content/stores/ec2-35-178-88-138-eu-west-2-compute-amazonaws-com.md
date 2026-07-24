@@ -1,11 +1,10 @@
 ---
 domain: ec2-35-178-88-138.eu-west-2.compute.amazonaws.com
 slug: ec2-35-178-88-138-eu-west-2-compute-amazonaws-com
-title: Is ec2-35-178-88-138.eu-west-2.compute.amazonaws.com Legit? Trust Signal Check
+title: Is ec2-35-178-88-138.eu-west-2.compute.amazonaws.com Legit? Score 23/100
 description: >-
-  An automated trust-signal check for
-  ec2-35-178-88-138.eu-west-2.compute.amazonaws.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  ec2-35-178-88-138.eu-west-2.compute.amazonaws.com scores 23/100 on our public
+  trust checks. Standard contact and policy pages were not found.
 fetchedAt: '2026-06-25T02:17:29.315Z'
 finalUrl: 'http://ec2-35-178-88-138.eu-west-2.compute.amazonaws.com/'
 reachable: true

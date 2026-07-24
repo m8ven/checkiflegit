@@ -1,10 +1,10 @@
 ---
 domain: paperboutique.co
 slug: paperboutique-co
-title: Is paperboutique.co Legit? Trust Signal Check
+title: Is paperboutique.co Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for paperboutique.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  paperboutique.co scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:57:34.241Z'
 finalUrl: 'https://paperboutique.co/'
 reachable: true

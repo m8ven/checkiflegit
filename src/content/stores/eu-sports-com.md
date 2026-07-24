@@ -1,10 +1,10 @@
 ---
 domain: eu-sports.com
 slug: eu-sports-com
-title: Is eu-sports.com Legit? Trust Signal Check
+title: Is eu-sports.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for eu-sports.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eu-sports.com scores 85/100 on our public trust checks. Established domain —
+  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:37.342Z'
 finalUrl: 'https://www.eu-sports.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: casalopes.com.br
 slug: casalopes-com-br
-title: Is casalopes.com.br Legit? Trust Signal Check
+title: Is casalopes.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for casalopes.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  casalopes.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:28:13.011Z'
 finalUrl: 'https://casalopes.com.br/'
 reachable: true

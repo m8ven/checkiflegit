@@ -1,10 +1,10 @@
 ---
 domain: floralgarden.it
 slug: floralgarden-it
-title: Is floralgarden.it Legit? Trust Signal Check
+title: Is floralgarden.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for floralgarden.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  floralgarden.it scores 100/100 on our public trust checks. Established domain
+  — registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:12.543Z'
 finalUrl: 'https://www.floralgarden.it/'
 reachable: true

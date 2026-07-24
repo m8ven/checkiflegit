@@ -1,10 +1,10 @@
 ---
 domain: meinlastenrad.de
 slug: meinlastenrad-de
-title: Is meinlastenrad.de Legit? Trust Signal Check
+title: Is meinlastenrad.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for meinlastenrad.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  meinlastenrad.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:28:06.090Z'
 finalUrl: 'https://www.meinlastenrad.de/'
 reachable: true

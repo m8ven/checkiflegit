@@ -1,10 +1,10 @@
 ---
 domain: ecvsv.at
 slug: ecvsv-at
-title: Is ecvsv.at Legit? Trust Signal Check
+title: Is ecvsv.at Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ecvsv.at: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ecvsv.at scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:20:52.315Z'
 finalUrl: 'https://www.ecvsv.at/'
 reachable: true

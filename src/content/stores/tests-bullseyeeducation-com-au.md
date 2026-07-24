@@ -1,10 +1,11 @@
 ---
 domain: tests.bullseyeeducation.com.au
 slug: tests-bullseyeeducation-com-au
-title: Is tests.bullseyeeducation.com.au Legit? Trust Signal Check
+title: Is tests.bullseyeeducation.com.au Legit? Trust Score 46/100
 description: >-
-  An automated trust-signal check for tests.bullseyeeducation.com.au: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  tests.bullseyeeducation.com.au scores 46/100 on our public trust checks. No
+  links to major social platforms found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:05:07.513Z'
 finalUrl: 'https://tests.bullseyeeducation.com.au/'
 reachable: true

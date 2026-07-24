@@ -1,10 +1,10 @@
 ---
 domain: moreheadspeedworks.com
 slug: moreheadspeedworks-com
-title: Is moreheadspeedworks.com Legit? Trust Signal Check
+title: Is moreheadspeedworks.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for moreheadspeedworks.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  moreheadspeedworks.com scores 100/100 on our public trust checks. Established
+  domain — registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:08.740Z'
 finalUrl: 'https://www.moreheadspeedworks.com/'
 reachable: true

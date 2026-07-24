@@ -1,10 +1,10 @@
 ---
 domain: vitaminscollection.com
 slug: vitaminscollection-com
-title: Is vitaminscollection.com Legit? Trust Signal Check
+title: Is vitaminscollection.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for vitaminscollection.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  vitaminscollection.com scores 100/100 on our public trust checks. Established
+  domain — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:39.020Z'
 finalUrl: 'https://vitaminscollection.com/'
 reachable: true

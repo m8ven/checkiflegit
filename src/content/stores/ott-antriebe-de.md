@@ -1,10 +1,10 @@
 ---
 domain: ott-antriebe.de
 slug: ott-antriebe-de
-title: Is ott-antriebe.de Legit? Trust Signal Check
+title: Is ott-antriebe.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for ott-antriebe.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ott-antriebe.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:40:17.280Z'
 finalUrl: 'https://www.ott-antriebe.de/'
 reachable: true

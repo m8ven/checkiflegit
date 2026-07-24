@@ -1,10 +1,10 @@
 ---
 domain: keter.kz
 slug: keter-kz
-title: Is keter.kz Legit? Trust Signal Check
+title: Is keter.kz Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for keter.kz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  keter.kz scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:04:39.558Z'
 finalUrl: 'https://keter.kz/'
 reachable: true

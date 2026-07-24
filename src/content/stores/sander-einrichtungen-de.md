@@ -1,10 +1,10 @@
 ---
 domain: sander-einrichtungen.de
 slug: sander-einrichtungen-de
-title: Is sander-einrichtungen.de Legit? Trust Signal Check
+title: Is sander-einrichtungen.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sander-einrichtungen.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sander-einrichtungen.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:43:47.012Z'
 finalUrl: 'https://sander-einrichtungen.de/'
 reachable: true

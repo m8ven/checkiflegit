@@ -1,10 +1,10 @@
 ---
 domain: wiktordoktor.pl
 slug: wiktordoktor-pl
-title: Is wiktordoktor.pl Legit? Trust Signal Check
+title: Is wiktordoktor.pl Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for wiktordoktor.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  wiktordoktor.pl scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:50:15.745Z'
 finalUrl: 'https://wiktordoktor.pl/'
 reachable: true

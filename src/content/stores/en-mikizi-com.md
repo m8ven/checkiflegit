@@ -1,10 +1,10 @@
 ---
 domain: en.mikizi.com
 slug: en-mikizi-com
-title: Is en.mikizi.com Legit? Trust Signal Check
+title: Is en.mikizi.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for en.mikizi.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  en.mikizi.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:43:40.041Z'
 finalUrl: 'https://en.mikizi.com/'
 reachable: true

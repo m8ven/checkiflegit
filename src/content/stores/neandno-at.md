@@ -1,10 +1,10 @@
 ---
 domain: neandno.at
 slug: neandno-at
-title: Is neandno.at Legit? Trust Signal Check
+title: Is neandno.at Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for neandno.at: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  neandno.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:40:57.681Z'
 finalUrl: 'https://www.neandno.at/'
 reachable: true

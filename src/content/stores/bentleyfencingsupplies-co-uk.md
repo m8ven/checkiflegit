@@ -1,10 +1,11 @@
 ---
 domain: bentleyfencingsupplies.co.uk
 slug: bentleyfencingsupplies-co-uk
-title: Is bentleyfencingsupplies.co.uk Legit? Trust Signal Check
+title: Is bentleyfencingsupplies.co.uk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for bentleyfencingsupplies.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bentleyfencingsupplies.co.uk scores 82/100 on our public trust checks.
+  Established domain — registered 14.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:23:12.310Z'
 finalUrl: 'https://www.bentleyfencingsupplies.co.uk/'
 reachable: true

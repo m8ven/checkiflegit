@@ -1,10 +1,10 @@
 ---
 domain: ghemassagechan.vn
 slug: ghemassagechan-vn
-title: Is ghemassagechan.vn Legit? Trust Signal Check
+title: Is ghemassagechan.vn Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for ghemassagechan.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  ghemassagechan.vn scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:13:41.887Z'
 finalUrl: 'https://ghemassagechan.vn/'
 reachable: true

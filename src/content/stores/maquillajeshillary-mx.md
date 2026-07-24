@@ -1,10 +1,10 @@
 ---
 domain: maquillajeshillary.mx
 slug: maquillajeshillary-mx
-title: Is maquillajeshillary.mx Legit? Trust Signal Check
+title: Is maquillajeshillary.mx Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for maquillajeshillary.mx: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  maquillajeshillary.mx scores 82/100 on our public trust checks. Established
+  domain — registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:02.361Z'
 finalUrl: 'https://maquillajeshillary.mx/'
 reachable: true

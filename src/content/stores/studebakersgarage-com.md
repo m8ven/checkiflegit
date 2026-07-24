@@ -1,10 +1,10 @@
 ---
 domain: studebakersgarage.com
 slug: studebakersgarage-com
-title: Is studebakersgarage.com Legit? Trust Signal Check
+title: Is studebakersgarage.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for studebakersgarage.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  studebakersgarage.com scores 85/100 on our public trust checks. Established
+  domain — registered 3.9 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:13:01.320Z'
 finalUrl: 'https://studebakersgarage.com/'
 reachable: true

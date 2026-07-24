@@ -1,10 +1,10 @@
 ---
 domain: liberivaikai.lt
 slug: liberivaikai-lt
-title: Is liberivaikai.lt Legit? Trust Signal Check
+title: Is liberivaikai.lt Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for liberivaikai.lt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  liberivaikai.lt scores 88/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:57.294Z'
 finalUrl: 'https://liberivaikai.lt/'
 reachable: true

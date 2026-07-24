@@ -1,10 +1,10 @@
 ---
 domain: moisturemeterstore.in
 slug: moisturemeterstore-in
-title: Is moisturemeterstore.in Legit? Trust Signal Check
+title: Is moisturemeterstore.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for moisturemeterstore.in: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  moisturemeterstore.in scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:16.539Z'
 finalUrl: 'https://moisturemeterstore.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: julia-kokke-music.de
 slug: julia-kokke-music-de
-title: Is julia-kokke-music.de Legit? Trust Signal Check
+title: Is julia-kokke-music.de Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for julia-kokke-music.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  julia-kokke-music.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:01:04.648Z'
 finalUrl: 'https://www.julia-kokke-music.de/'
 reachable: true

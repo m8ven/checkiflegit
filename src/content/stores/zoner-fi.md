@@ -1,10 +1,11 @@
 ---
 domain: zoner.fi
 slug: zoner-fi
-title: Is zoner.fi Legit? Trust Signal Check
+title: Is zoner.fi Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for zoner.fi: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zoner.fi scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-24T21:46:03.437Z'
 finalUrl: 'https://www.zoner.fi/'
 reachable: true

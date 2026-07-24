@@ -1,10 +1,10 @@
 ---
 domain: alkomaster63.ru
 slug: alkomaster63-ru
-title: Is alkomaster63.ru Legit? Trust Signal Check
+title: Is alkomaster63.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for alkomaster63.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alkomaster63.ru scores 73/100 on our public trust checks. Established domain —
+  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:33.584Z'
 finalUrl: 'https://alkomaster63.ru/'
 reachable: true

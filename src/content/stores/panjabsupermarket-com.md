@@ -1,10 +1,10 @@
 ---
 domain: panjabsupermarket.com
 slug: panjabsupermarket-com
-title: Is panjabsupermarket.com Legit? Trust Signal Check
+title: Is panjabsupermarket.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for panjabsupermarket.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  panjabsupermarket.com scores 85/100 on our public trust checks. Established
+  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:33.338Z'
 finalUrl: 'https://panjabsupermarket.com/'
 reachable: true

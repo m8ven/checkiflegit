@@ -1,10 +1,10 @@
 ---
 domain: ademkocplastik.com.tr
 slug: ademkocplastik-com-tr
-title: Is ademkocplastik.com.tr Legit? Trust Signal Check
+title: Is ademkocplastik.com.tr Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for ademkocplastik.com.tr: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ademkocplastik.com.tr scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:20:45.648Z'
 finalUrl: 'https://www.ademkocplastik.com.tr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: en.hartmutkiewert.de
 slug: en-hartmutkiewert-de
-title: Is en.hartmutkiewert.de Legit? Trust Signal Check
+title: Is en.hartmutkiewert.de Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for en.hartmutkiewert.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  en.hartmutkiewert.de scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:50:26.584Z'
 finalUrl: 'https://en.hartmutkiewert.de/'
 reachable: true

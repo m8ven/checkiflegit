@@ -1,10 +1,10 @@
 ---
 domain: smartsolutionskw.com
 slug: smartsolutionskw-com
-title: Is smartsolutionskw.com Legit? Trust Signal Check
+title: Is smartsolutionskw.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for smartsolutionskw.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  smartsolutionskw.com scores 100/100 on our public trust checks. Established
+  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:44.526Z'
 finalUrl: 'https://smartsolutionskw.com/'
 reachable: true

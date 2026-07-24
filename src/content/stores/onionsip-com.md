@@ -1,10 +1,10 @@
 ---
 domain: onionsip.com
 slug: onionsip-com
-title: Is onionsip.com Legit? Trust Signal Check
+title: Is onionsip.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for onionsip.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  onionsip.com scores 85/100 on our public trust checks. Established domain —
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:54.845Z'
 finalUrl: 'https://www.onionsip.com/'
 reachable: true

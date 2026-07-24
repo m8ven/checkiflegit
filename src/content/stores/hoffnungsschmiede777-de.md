@@ -1,10 +1,10 @@
 ---
 domain: hoffnungsschmiede777.de
 slug: hoffnungsschmiede777-de
-title: Is hoffnungsschmiede777.de Legit? Trust Signal Check
+title: Is hoffnungsschmiede777.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for hoffnungsschmiede777.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hoffnungsschmiede777.de scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:04.864Z'
 finalUrl: 'https://hoffnungsschmiede777.de/'
 reachable: true

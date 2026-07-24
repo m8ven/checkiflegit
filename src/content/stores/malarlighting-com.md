@@ -1,10 +1,10 @@
 ---
 domain: malarlighting.com
 slug: malarlighting-com
-title: Is malarlighting.com Legit? Trust Signal Check
+title: Is malarlighting.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for malarlighting.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  malarlighting.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:54:07.747Z'
 finalUrl: 'https://malarlighting.com/'
 reachable: true

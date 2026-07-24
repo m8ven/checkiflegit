@@ -1,10 +1,10 @@
 ---
 domain: regula-v.de
 slug: regula-v-de
-title: Is regula-v.de Legit? Trust Signal Check
+title: Is regula-v.de Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for regula-v.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  regula-v.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:26:44.410Z'
 finalUrl: 'https://www.regula-v.de/'
 reachable: true

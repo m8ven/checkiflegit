@@ -1,10 +1,10 @@
 ---
 domain: casadelpneumatico.it
 slug: casadelpneumatico-it
-title: Is casadelpneumatico.it Legit? Trust Signal Check
+title: Is casadelpneumatico.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for casadelpneumatico.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  casadelpneumatico.it scores 88/100 on our public trust checks. Established
+  domain — registered 26 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:20.200Z'
 finalUrl: 'https://casadelpneumatico.it/'
 reachable: true

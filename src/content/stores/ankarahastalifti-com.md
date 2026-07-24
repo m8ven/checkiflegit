@@ -1,10 +1,10 @@
 ---
 domain: ankarahastalifti.com
 slug: ankarahastalifti-com
-title: Is ankarahastalifti.com Legit? Trust Signal Check
+title: Is ankarahastalifti.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for ankarahastalifti.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ankarahastalifti.com scores 64/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:47:33.776Z'
 finalUrl: 'https://ankarahastalifti.com/'
 reachable: true

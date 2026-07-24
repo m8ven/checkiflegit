@@ -1,10 +1,10 @@
 ---
 domain: nadapulse.co.uk
 slug: nadapulse-co-uk
-title: Is nadapulse.co.uk Legit? Trust Signal Check
+title: Is nadapulse.co.uk Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for nadapulse.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nadapulse.co.uk scores 76/100 on our public trust checks. Established domain —
+  registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:13.469Z'
 finalUrl: 'https://nadapulse.co.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: southwallart.com.au
 slug: southwallart-com-au
-title: Is southwallart.com.au Legit? Trust Signal Check
+title: Is southwallart.com.au Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for southwallart.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  southwallart.com.au scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:11:53.666Z'
 finalUrl: 'https://southwallart.com.au/'
 reachable: true

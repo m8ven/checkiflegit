@@ -1,10 +1,10 @@
 ---
 domain: mc18.fr
 slug: mc18-fr
-title: Is mc18.fr Legit? Trust Signal Check
+title: Is mc18.fr Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mc18.fr: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  mc18.fr scores 100/100 on our public trust checks. Established domain —
+  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:25.936Z'
 finalUrl: 'https://www.mc18.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mar1.biz
 slug: mar1-biz
-title: Is mar1.biz Legit? Trust Signal Check
+title: Is mar1.biz Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mar1.biz: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mar1.biz scores 58/100 on our public trust checks. Standard contact and policy
+  pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:54:14.394Z'
 finalUrl: 'https://mar1.biz/'
 reachable: true

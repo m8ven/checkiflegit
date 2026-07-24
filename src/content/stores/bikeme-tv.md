@@ -1,10 +1,10 @@
 ---
 domain: bikeme.tv
 slug: bikeme-tv
-title: Is bikeme.tv Legit? Trust Signal Check
+title: Is bikeme.tv Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bikeme.tv: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bikeme.tv scores 58/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T02:26:39.816Z'
 finalUrl: 'https://bikeme.tv/'
 reachable: true

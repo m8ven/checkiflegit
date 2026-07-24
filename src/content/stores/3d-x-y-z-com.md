@@ -1,10 +1,10 @@
 ---
 domain: 3d-x-y-z.com
 slug: 3d-x-y-z-com
-title: Is 3d-x-y-z.com Legit? Trust Signal Check
+title: Is 3d-x-y-z.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for 3d-x-y-z.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  3d-x-y-z.com scores 82/100 on our public trust checks. Established domain —
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:16:49.330Z'
 finalUrl: 'https://3d-x-y-z.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jodhpurtrends.in
 slug: jodhpurtrends-in
-title: Is jodhpurtrends.in Legit? Trust Signal Check
+title: Is jodhpurtrends.in Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for jodhpurtrends.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jodhpurtrends.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:47:40.524Z'
 finalUrl: 'https://jodhpurtrends.in/'
 reachable: true

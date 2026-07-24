@@ -1,10 +1,10 @@
 ---
 domain: mojafaktoriapolishpottery.com.pl
 slug: mojafaktoriapolishpottery-com-pl
-title: Is mojafaktoriapolishpottery.com.pl Legit? Trust Signal Check
+title: Is mojafaktoriapolishpottery.com.pl Legit? Score 76/100
 description: >-
-  An automated trust-signal check for mojafaktoriapolishpottery.com.pl: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  mojafaktoriapolishpottery.com.pl scores 76/100 on our public trust checks.
+  Public business contact details are listed.
 fetchedAt: '2026-06-25T03:56:19.115Z'
 finalUrl: 'https://mojafaktoriapolishpottery.com.pl/'
 reachable: true

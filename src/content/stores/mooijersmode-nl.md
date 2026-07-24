@@ -1,10 +1,10 @@
 ---
 domain: mooijersmode.nl
 slug: mooijersmode-nl
-title: Is mooijersmode.nl Legit? Trust Signal Check
+title: Is mooijersmode.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mooijersmode.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mooijersmode.nl scores 88/100 on our public trust checks. Established domain —
+  registered 23.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:14.559Z'
 finalUrl: 'https://www.mooijersmode.nl/'
 reachable: true

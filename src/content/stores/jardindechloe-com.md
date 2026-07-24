@@ -1,10 +1,10 @@
 ---
 domain: jardindechloe.com
 slug: jardindechloe-com
-title: Is jardindechloe.com Legit? Trust Signal Check
+title: Is jardindechloe.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for jardindechloe.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jardindechloe.com scores 85/100 on our public trust checks. Established domain
+  — registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:03.080Z'
 finalUrl: 'https://www.jardindechloe.com/'
 reachable: true

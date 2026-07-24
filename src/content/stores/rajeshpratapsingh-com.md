@@ -1,10 +1,10 @@
 ---
 domain: rajeshpratapsingh.com
 slug: rajeshpratapsingh-com
-title: Is rajeshpratapsingh.com Legit? Trust Signal Check
+title: Is rajeshpratapsingh.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rajeshpratapsingh.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rajeshpratapsingh.com scores 100/100 on our public trust checks. Established
+  domain — registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:41.893Z'
 finalUrl: 'https://rajeshpratapsingh.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: moradviandes.fr
 slug: moradviandes-fr
-title: Is moradviandes.fr Legit? Trust Signal Check
+title: Is moradviandes.fr Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for moradviandes.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  moradviandes.fr scores 85/100 on our public trust checks. Established domain —
+  registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:22.846Z'
 finalUrl: 'https://moradviandes.fr/'
 reachable: true

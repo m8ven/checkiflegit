@@ -1,10 +1,10 @@
 ---
 domain: afena.fr
 slug: afena-fr
-title: Is afena.fr Legit? Trust Signal Check
+title: Is afena.fr Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for afena.fr: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  afena.fr scores 55/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:40:01.690Z'
 finalUrl: 'https://www.afena.fr/'
 reachable: true

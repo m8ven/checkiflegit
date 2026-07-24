@@ -1,10 +1,10 @@
 ---
 domain: konteynercim.com
 slug: konteynercim-com
-title: Is konteynercim.com Legit? Trust Signal Check
+title: Is konteynercim.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for konteynercim.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  konteynercim.com scores 88/100 on our public trust checks. Established domain
+  — registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:25:42.355Z'
 finalUrl: 'https://www.konteynercim.com/'
 reachable: true

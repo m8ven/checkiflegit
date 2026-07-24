@@ -1,10 +1,10 @@
 ---
 domain: barelieff.ru
 slug: barelieff-ru
-title: Is barelieff.ru Legit? Trust Signal Check
+title: Is barelieff.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for barelieff.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  barelieff.ru scores 43/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:41:08.711Z'
 finalUrl: 'https://barelieff.ru/'
 reachable: true

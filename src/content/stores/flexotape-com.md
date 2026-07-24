@@ -1,10 +1,10 @@
 ---
 domain: flexotape.com
 slug: flexotape-com
-title: Is flexotape.com Legit? Trust Signal Check
+title: Is flexotape.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for flexotape.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  flexotape.com scores 70/100 on our public trust checks. Established domain —
+  registered 27.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:19.024Z'
 finalUrl: 'https://flexotape.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: screamingbroccoli.com
 slug: screamingbroccoli-com
-title: Is screamingbroccoli.com Legit? Trust Signal Check
+title: Is screamingbroccoli.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for screamingbroccoli.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  screamingbroccoli.com scores 73/100 on our public trust checks. Established
+  domain — registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:19.001Z'
 finalUrl: 'https://screamingbroccoli.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: caut.ca
 slug: caut-ca
-title: Is caut.ca Legit? Trust Signal Check
+title: Is caut.ca Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for caut.ca: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  caut.ca scores 76/100 on our public trust checks. Established domain —
+  registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:46.249Z'
 finalUrl: 'https://www.caut.ca/'
 reachable: true

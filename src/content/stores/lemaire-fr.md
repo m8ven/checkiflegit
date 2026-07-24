@@ -1,10 +1,10 @@
 ---
 domain: lemaire.fr
 slug: lemaire-fr
-title: Is lemaire.fr Legit? Trust Signal Check
+title: Is lemaire.fr Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lemaire.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lemaire.fr scores 100/100 on our public trust checks. Established domain —
+  registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:23.630Z'
 finalUrl: 'https://www.lemaire.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: visionwear.com
 slug: visionwear-com
-title: Is visionwear.com Legit? Trust Signal Check
+title: Is visionwear.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for visionwear.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  visionwear.com scores 70/100 on our public trust checks. Established domain —
+  registered 28.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:33.978Z'
 finalUrl: 'https://visionwear.com/'
 reachable: true

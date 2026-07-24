@@ -1,10 +1,10 @@
 ---
 domain: aero-decor.com
 slug: aero-decor-com
-title: Is aero-decor.com Legit? Trust Signal Check
+title: Is aero-decor.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for aero-decor.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aero-decor.com scores 88/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:29.967Z'
 finalUrl: 'https://aero-decor.com/'
 reachable: true

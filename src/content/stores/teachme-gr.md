@@ -1,10 +1,10 @@
 ---
 domain: teachme.gr
 slug: teachme-gr
-title: Is teachme.gr Legit? Trust Signal Check
+title: Is teachme.gr Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for teachme.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  teachme.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:08:22.982Z'
 finalUrl: 'https://teachme.gr/'
 reachable: true

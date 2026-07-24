@@ -1,10 +1,10 @@
 ---
 domain: animemerch.com
 slug: animemerch-com
-title: Is animemerch.com Legit? Trust Signal Check
+title: Is animemerch.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for animemerch.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  animemerch.com scores 88/100 on our public trust checks. Established domain —
+  registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:16.579Z'
 finalUrl: 'https://animemerch.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: energypowerint.com
 slug: energypowerint-com
-title: Is energypowerint.com Legit? Trust Signal Check
+title: Is energypowerint.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for energypowerint.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  energypowerint.com scores 85/100 on our public trust checks. Established
+  domain — registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:47.283Z'
 finalUrl: 'https://energypowerint.com/'
 reachable: true

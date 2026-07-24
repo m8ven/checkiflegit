@@ -1,10 +1,10 @@
 ---
 domain: neew.gr
 slug: neew-gr
-title: Is neew.gr Legit? Trust Signal Check
+title: Is neew.gr Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for neew.gr: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  neew.gr scores 74/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:24:37.118Z'
 finalUrl: 'https://www.neew.gr/'
 reachable: true

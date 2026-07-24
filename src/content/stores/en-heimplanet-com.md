@@ -1,10 +1,10 @@
 ---
 domain: en.heimplanet.com
 slug: en-heimplanet-com
-title: Is en.heimplanet.com Legit? Trust Signal Check
+title: Is en.heimplanet.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for en.heimplanet.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  en.heimplanet.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:26:38.443Z'
 finalUrl: 'https://en.heimplanet.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kingdom-figurine.fr
 slug: kingdom-figurine-fr
-title: Is kingdom-figurine.fr Legit? Trust Signal Check
+title: Is kingdom-figurine.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kingdom-figurine.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kingdom-figurine.fr scores 88/100 on our public trust checks. Established
+  domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:44.739Z'
 finalUrl: 'https://www.kingdom-figurine.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: piccolo-house.com
 slug: piccolo-house-com
-title: Is piccolo-house.com Legit? Trust Signal Check
+title: Is piccolo-house.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for piccolo-house.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  piccolo-house.com scores 88/100 on our public trust checks. Established domain
+  — registered 20.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:56.407Z'
 finalUrl: 'https://www.piccolo-house.com/'
 reachable: true

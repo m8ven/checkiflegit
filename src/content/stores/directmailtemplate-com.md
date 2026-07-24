@@ -1,11 +1,10 @@
 ---
 domain: directmailtemplate.com
 slug: directmailtemplate-com
-title: Is directmailtemplate.com Legit? Trust Signal Check
+title: Is directmailtemplate.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for directmailtemplate.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  directmailtemplate.com scores 25/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T03:40:46.211Z'
 finalUrl: 'https://directmailtemplate.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: best4pet.hr
 slug: best4pet-hr
-title: Is best4pet.hr Legit? Trust Signal Check
+title: Is best4pet.hr Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for best4pet.hr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  best4pet.hr scores 82/100 on our public trust checks. Established domain —
+  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:52.301Z'
 finalUrl: 'https://best4pet.hr/'
 reachable: true

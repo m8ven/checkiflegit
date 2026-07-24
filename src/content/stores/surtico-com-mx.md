@@ -1,10 +1,10 @@
 ---
 domain: surtico.com.mx
 slug: surtico-com-mx
-title: Is surtico.com.mx Legit? Trust Signal Check
+title: Is surtico.com.mx Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for surtico.com.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  surtico.com.mx scores 73/100 on our public trust checks. Established domain —
+  registered 17.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:54.478Z'
 finalUrl: 'https://www.surtico.com.mx/'
 reachable: true

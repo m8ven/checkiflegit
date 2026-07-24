@@ -1,10 +1,10 @@
 ---
 domain: rhododendron-jord.dk
 slug: rhododendron-jord-dk
-title: Is rhododendron-jord.dk Legit? Trust Signal Check
+title: Is rhododendron-jord.dk Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for rhododendron-jord.dk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rhododendron-jord.dk scores 70/100 on our public trust checks. Established
+  domain — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:36.204Z'
 finalUrl: 'https://rhododendron-jord.dk/'
 reachable: true

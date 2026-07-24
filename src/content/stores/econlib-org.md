@@ -1,10 +1,10 @@
 ---
 domain: econlib.org
 slug: econlib-org
-title: Is econlib.org Legit? Trust Signal Check
+title: Is econlib.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for econlib.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  econlib.org scores 100/100 on our public trust checks. Established domain —
+  registered 26.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:45.800Z'
 finalUrl: 'https://www.econlib.org/'
 reachable: true

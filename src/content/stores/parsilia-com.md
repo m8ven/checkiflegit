@@ -1,10 +1,10 @@
 ---
 domain: parsilia.com
 slug: parsilia-com
-title: Is parsilia.com Legit? Trust Signal Check
+title: Is parsilia.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for parsilia.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  parsilia.com scores 82/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:44:39.865Z'
 finalUrl: 'https://parsilia.com/'
 reachable: true

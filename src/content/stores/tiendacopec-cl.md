@@ -1,10 +1,10 @@
 ---
 domain: tiendacopec.cl
 slug: tiendacopec-cl
-title: Is tiendacopec.cl Legit? Trust Signal Check
+title: Is tiendacopec.cl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tiendacopec.cl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tiendacopec.cl scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-24T21:46:21.783Z'
 finalUrl: 'https://www.tiendacopec.cl/'
 reachable: true

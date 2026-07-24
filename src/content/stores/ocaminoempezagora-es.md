@@ -1,10 +1,10 @@
 ---
 domain: ocaminoempezagora.es
 slug: ocaminoempezagora-es
-title: Is ocaminoempezagora.es Legit? Trust Signal Check
+title: Is ocaminoempezagora.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ocaminoempezagora.es: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ocaminoempezagora.es scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:39.160Z'
 finalUrl: 'https://ocaminoempezagora.es/'
 reachable: true

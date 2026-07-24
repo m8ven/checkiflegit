@@ -1,10 +1,10 @@
 ---
 domain: chelsea-garden.ru
 slug: chelsea-garden-ru
-title: Is chelsea-garden.ru Legit? Trust Signal Check
+title: Is chelsea-garden.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for chelsea-garden.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chelsea-garden.ru scores 73/100 on our public trust checks. Established domain
+  — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:32.168Z'
 finalUrl: 'https://chelsea-garden.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: wearabouts.ca
 slug: wearabouts-ca
-title: Is wearabouts.ca Legit? Trust Signal Check
+title: Is wearabouts.ca Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for wearabouts.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wearabouts.ca scores 76/100 on our public trust checks. Established domain —
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:48.706Z'
 finalUrl: 'https://wearabouts.ca/'
 reachable: true

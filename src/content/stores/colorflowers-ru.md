@@ -1,10 +1,10 @@
 ---
 domain: colorflowers.ru
 slug: colorflowers-ru
-title: Is colorflowers.ru Legit? Trust Signal Check
+title: Is colorflowers.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for colorflowers.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  colorflowers.ru scores 85/100 on our public trust checks. Established domain —
+  registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:11.098Z'
 finalUrl: 'https://colorflowers.ru/'
 reachable: true

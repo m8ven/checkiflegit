@@ -1,10 +1,10 @@
 ---
 domain: brilliant-engineers.com
 slug: brilliant-engineers-com
-title: Is brilliant-engineers.com Legit? Trust Signal Check
+title: Is brilliant-engineers.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for brilliant-engineers.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  brilliant-engineers.com scores 64/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:44:19.177Z'
 finalUrl: 'https://brilliant-engineers.com/'
 reachable: true

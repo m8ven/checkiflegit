@@ -1,10 +1,10 @@
 ---
 domain: hallofoon.nl
 slug: hallofoon-nl
-title: Is hallofoon.nl Legit? Trust Signal Check
+title: Is hallofoon.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for hallofoon.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hallofoon.nl scores 73/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:02.746Z'
 finalUrl: 'https://hallofoon.nl/'
 reachable: true

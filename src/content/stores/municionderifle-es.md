@@ -1,10 +1,10 @@
 ---
 domain: municionderifle.es
 slug: municionderifle-es
-title: Is municionderifle.es Legit? Trust Signal Check
+title: Is municionderifle.es Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for municionderifle.es: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  municionderifle.es scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:14:02.812Z'
 finalUrl: 'https://municionderifle.es/'
 reachable: true

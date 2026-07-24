@@ -1,10 +1,10 @@
 ---
 domain: candle-guy.com
 slug: candle-guy-com
-title: Is candle-guy.com Legit? Trust Signal Check
+title: Is candle-guy.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for candle-guy.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  candle-guy.com scores 85/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:06.124Z'
 finalUrl: 'https://candle-guy.com/'
 reachable: true

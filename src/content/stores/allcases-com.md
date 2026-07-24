@@ -1,10 +1,10 @@
 ---
 domain: allcases.com
 slug: allcases-com
-title: Is allcases.com Legit? Trust Signal Check
+title: Is allcases.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for allcases.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  allcases.com scores 100/100 on our public trust checks. Established domain —
+  registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:13.149Z'
 finalUrl: 'https://allcases.com/'
 reachable: true

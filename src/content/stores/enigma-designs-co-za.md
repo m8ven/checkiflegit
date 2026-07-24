@@ -1,10 +1,10 @@
 ---
 domain: enigma-designs.co.za
 slug: enigma-designs-co-za
-title: Is enigma-designs.co.za Legit? Trust Signal Check
+title: Is enigma-designs.co.za Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for enigma-designs.co.za: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  enigma-designs.co.za scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:55:21.115Z'
 finalUrl: 'https://enigma-designs.co.za/'
 reachable: true

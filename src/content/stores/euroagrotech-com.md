@@ -1,10 +1,10 @@
 ---
 domain: euroagrotech.com
 slug: euroagrotech-com
-title: Is euroagrotech.com Legit? Trust Signal Check
+title: Is euroagrotech.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for euroagrotech.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  euroagrotech.com scores 73/100 on our public trust checks. Established domain
+  — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:53.349Z'
 finalUrl: 'https://euroagrotech.com/'
 reachable: true

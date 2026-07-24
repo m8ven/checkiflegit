@@ -1,10 +1,11 @@
 ---
 domain: souris-pc.fr
 slug: souris-pc-fr
-title: Is souris-pc.fr Legit? Trust Signal Check
+title: Is souris-pc.fr Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for souris-pc.fr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  souris-pc.fr scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:26:31.525Z'
 finalUrl: 'https://www.souris-pc.fr/'
 reachable: true

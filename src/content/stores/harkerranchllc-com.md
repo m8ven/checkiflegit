@@ -1,10 +1,10 @@
 ---
 domain: harkerranchllc.com
 slug: harkerranchllc-com
-title: Is harkerranchllc.com Legit? Trust Signal Check
+title: Is harkerranchllc.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for harkerranchllc.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  harkerranchllc.com scores 73/100 on our public trust checks. Established
+  domain — registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:43.975Z'
 finalUrl: 'https://harkerranchllc.com/'
 reachable: true

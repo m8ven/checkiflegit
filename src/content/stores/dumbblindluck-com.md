@@ -1,10 +1,10 @@
 ---
 domain: dumbblindluck.com
 slug: dumbblindluck-com
-title: Is dumbblindluck.com Legit? Trust Signal Check
+title: Is dumbblindluck.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dumbblindluck.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dumbblindluck.com scores 88/100 on our public trust checks. Established domain
+  — registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:20.667Z'
 finalUrl: 'https://dumbblindluck.com/'
 reachable: true

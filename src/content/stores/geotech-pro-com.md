@@ -1,10 +1,10 @@
 ---
 domain: geotech-pro.com
 slug: geotech-pro-com
-title: Is geotech-pro.com Legit? Trust Signal Check
+title: Is geotech-pro.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for geotech-pro.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  geotech-pro.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:19:41.276Z'
 finalUrl: 'https://www.geotech-pro.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: canyonsedgeplants.com
 slug: canyonsedgeplants-com
-title: Is canyonsedgeplants.com Legit? Trust Signal Check
+title: Is canyonsedgeplants.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for canyonsedgeplants.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  canyonsedgeplants.com scores 88/100 on our public trust checks. Established
+  domain — registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:07.826Z'
 finalUrl: 'https://canyonsedgeplants.com/'
 reachable: true

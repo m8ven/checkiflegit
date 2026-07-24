@@ -1,10 +1,10 @@
 ---
 domain: elredactor.com.uy
 slug: elredactor-com-uy
-title: Is elredactor.com.uy Legit? Trust Signal Check
+title: Is elredactor.com.uy Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for elredactor.com.uy: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elredactor.com.uy scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:26:31.967Z'
 finalUrl: 'https://elredactor.com.uy/'
 reachable: true

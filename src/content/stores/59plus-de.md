@@ -1,10 +1,11 @@
 ---
 domain: 59plus.de
 slug: 59plus-de
-title: Is 59plus.de Legit? Trust Signal Check
+title: Is 59plus.de Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 59plus.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  59plus.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:11:22.203Z'
 finalUrl: 'https://www.59plus.de/'
 reachable: true

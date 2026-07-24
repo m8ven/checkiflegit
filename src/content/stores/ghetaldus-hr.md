@@ -1,10 +1,10 @@
 ---
 domain: ghetaldus.hr
 slug: ghetaldus-hr
-title: Is ghetaldus.hr Legit? Trust Signal Check
+title: Is ghetaldus.hr Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ghetaldus.hr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ghetaldus.hr scores 76/100 on our public trust checks. Established domain —
+  registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:00.220Z'
 finalUrl: 'https://ghetaldus.hr/'
 reachable: true

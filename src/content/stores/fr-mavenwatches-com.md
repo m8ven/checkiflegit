@@ -1,10 +1,10 @@
 ---
 domain: fr.mavenwatches.com
 slug: fr-mavenwatches-com
-title: Is fr.mavenwatches.com Legit? Trust Signal Check
+title: Is fr.mavenwatches.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for fr.mavenwatches.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fr.mavenwatches.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:12:41.087Z'
 finalUrl: 'https://fr.mavenwatches.com/'
 reachable: true

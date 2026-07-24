@@ -1,11 +1,10 @@
 ---
 domain: archery.solkarra.com.au
 slug: archery-solkarra-com-au
-title: Is archery.solkarra.com.au Legit? Trust Signal Check
+title: Is archery.solkarra.com.au Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for archery.solkarra.com.au: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  archery.solkarra.com.au scores 19/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:00:09.108Z'
 finalUrl: 'https://archery.solkarra.com.au/'
 reachable: true

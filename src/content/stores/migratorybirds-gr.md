@@ -1,10 +1,10 @@
 ---
 domain: migratorybirds.gr
 slug: migratorybirds-gr
-title: Is migratorybirds.gr Legit? Trust Signal Check
+title: Is migratorybirds.gr Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for migratorybirds.gr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  migratorybirds.gr scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:30:38.577Z'
 finalUrl: 'https://migratorybirds.gr/'
 reachable: true

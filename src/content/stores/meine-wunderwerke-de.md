@@ -1,10 +1,10 @@
 ---
 domain: meine-wunderwerke.de
 slug: meine-wunderwerke-de
-title: Is meine-wunderwerke.de Legit? Trust Signal Check
+title: Is meine-wunderwerke.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for meine-wunderwerke.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  meine-wunderwerke.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:15.031Z'
 finalUrl: 'https://meine-wunderwerke.de/'
 reachable: true

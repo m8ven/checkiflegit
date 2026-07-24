@@ -1,10 +1,10 @@
 ---
 domain: cl3.mcgill.chrisdrogaris.com
 slug: cl3-mcgill-chrisdrogaris-com
-title: Is cl3.mcgill.chrisdrogaris.com Legit? Trust Signal Check
+title: Is cl3.mcgill.chrisdrogaris.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for cl3.mcgill.chrisdrogaris.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  cl3.mcgill.chrisdrogaris.com scores 61/100 on our public trust checks. No
+  links to major social platforms found.
 fetchedAt: '2026-06-25T03:28:59.082Z'
 finalUrl: 'https://cl3.mcgill.chrisdrogaris.com/'
 reachable: true

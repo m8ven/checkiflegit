@@ -1,10 +1,10 @@
 ---
 domain: arsitalica.it
 slug: arsitalica-it
-title: Is arsitalica.it Legit? Trust Signal Check
+title: Is arsitalica.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for arsitalica.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arsitalica.it scores 100/100 on our public trust checks. Established domain —
+  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:14.215Z'
 finalUrl: 'https://arsitalica.it/'
 reachable: true

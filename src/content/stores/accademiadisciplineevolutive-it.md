@@ -1,10 +1,10 @@
 ---
 domain: accademiadisciplineevolutive.it
 slug: accademiadisciplineevolutive-it
-title: Is accademiadisciplineevolutive.it Legit? Trust Signal Check
+title: Is accademiadisciplineevolutive.it Legit? Score 100/100
 description: >-
-  An automated trust-signal check for accademiadisciplineevolutive.it: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  accademiadisciplineevolutive.it scores 100/100 on our public trust checks.
+  Established domain — registered 5.2 years ago.
 fetchedAt: '2026-06-25T03:32:16.954Z'
 finalUrl: 'https://accademiadisciplineevolutive.it/'
 reachable: true

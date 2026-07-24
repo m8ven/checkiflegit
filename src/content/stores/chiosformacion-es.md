@@ -1,10 +1,10 @@
 ---
 domain: chiosformacion.es
 slug: chiosformacion-es
-title: Is chiosformacion.es Legit? Trust Signal Check
+title: Is chiosformacion.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for chiosformacion.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chiosformacion.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:27:49.204Z'
 finalUrl: 'https://chiosformacion.es/'
 reachable: true

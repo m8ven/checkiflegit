@@ -1,10 +1,10 @@
 ---
 domain: shop.diaclon.net
 slug: shop-diaclon-net
-title: Is shop.diaclon.net Legit? Trust Signal Check
+title: Is shop.diaclon.net Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for shop.diaclon.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.diaclon.net scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:45:00.903Z'
 finalUrl: 'https://shop.diaclon.net/'
 reachable: true

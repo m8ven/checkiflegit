@@ -1,10 +1,10 @@
 ---
 domain: compitdistribution.com
 slug: compitdistribution-com
-title: Is compitdistribution.com Legit? Trust Signal Check
+title: Is compitdistribution.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for compitdistribution.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  compitdistribution.com scores 73/100 on our public trust checks. Established
+  domain — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:29:22.297Z'
 finalUrl: 'https://compitdistribution.com/'
 reachable: true

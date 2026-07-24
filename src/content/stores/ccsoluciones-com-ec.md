@@ -1,10 +1,10 @@
 ---
 domain: ccsoluciones.com.ec
 slug: ccsoluciones-com-ec
-title: Is ccsoluciones.com.ec Legit? Trust Signal Check
+title: Is ccsoluciones.com.ec Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ccsoluciones.com.ec: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ccsoluciones.com.ec scores 76/100 on our public trust checks. Established
+  domain — registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:16.386Z'
 finalUrl: 'https://ccsoluciones.com.ec/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lacompagniamassetti.it
 slug: lacompagniamassetti-it
-title: Is lacompagniamassetti.it Legit? Trust Signal Check
+title: Is lacompagniamassetti.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lacompagniamassetti.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lacompagniamassetti.it scores 88/100 on our public trust checks. Established
+  domain — registered 24.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:35:51.987Z'
 finalUrl: 'https://www.lacompagniamassetti.it/'
 reachable: true

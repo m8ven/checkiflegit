@@ -1,10 +1,11 @@
 ---
 domain: eu.publicdesire.com
 slug: eu-publicdesire-com
-title: Is eu.publicdesire.com Legit? Trust Signal Check
+title: Is eu.publicdesire.com Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for eu.publicdesire.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  eu.publicdesire.com scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:42:47.064Z'
 finalUrl: 'https://eu.publicdesire.com/'
 reachable: true

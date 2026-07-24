@@ -1,10 +1,10 @@
 ---
 domain: ons-schuurtje.nl
 slug: ons-schuurtje-nl
-title: Is ons-schuurtje.nl Legit? Trust Signal Check
+title: Is ons-schuurtje.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for ons-schuurtje.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ons-schuurtje.nl scores 82/100 on our public trust checks. Established domain
+  — registered 19.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:25:00.188Z'
 finalUrl: 'https://www.ons-schuurtje.nl/'
 reachable: true

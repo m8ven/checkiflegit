@@ -1,10 +1,10 @@
 ---
 domain: legarti.ee
 slug: legarti-ee
-title: Is legarti.ee Legit? Trust Signal Check
+title: Is legarti.ee Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for legarti.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  legarti.ee scores 73/100 on our public trust checks. Established domain —
+  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:06.990Z'
 finalUrl: 'https://legarti.ee/'
 reachable: true

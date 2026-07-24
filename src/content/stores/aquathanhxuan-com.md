@@ -1,10 +1,10 @@
 ---
 domain: aquathanhxuan.com
 slug: aquathanhxuan-com
-title: Is aquathanhxuan.com Legit? Trust Signal Check
+title: Is aquathanhxuan.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for aquathanhxuan.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aquathanhxuan.com scores 64/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:56:27.699Z'
 finalUrl: 'https://aquathanhxuan.com/'
 reachable: true

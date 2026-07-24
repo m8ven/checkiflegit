@@ -1,10 +1,10 @@
 ---
 domain: quicklab.in
 slug: quicklab-in
-title: Is quicklab.in Legit? Trust Signal Check
+title: Is quicklab.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for quicklab.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  quicklab.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:57:46.652Z'
 finalUrl: 'https://quicklab.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: themetalden.com
 slug: themetalden-com
-title: Is themetalden.com Legit? Trust Signal Check
+title: Is themetalden.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for themetalden.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  themetalden.com scores 88/100 on our public trust checks. Established domain —
+  registered 20.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:49.612Z'
 finalUrl: 'https://themetalden.com/'
 reachable: true

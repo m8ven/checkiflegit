@@ -1,10 +1,10 @@
 ---
 domain: dualcoach.com
 slug: dualcoach-com
-title: Is dualcoach.com Legit? Trust Signal Check
+title: Is dualcoach.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for dualcoach.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dualcoach.com scores 73/100 on our public trust checks. Established domain —
+  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:38.383Z'
 finalUrl: 'https://www.dualcoach.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: favagiorgioaxel.com
 slug: favagiorgioaxel-com
-title: Is favagiorgioaxel.com Legit? Trust Signal Check
+title: Is favagiorgioaxel.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for favagiorgioaxel.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  favagiorgioaxel.com scores 88/100 on our public trust checks. Established
+  domain — registered 25.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:48.901Z'
 finalUrl: 'https://favagiorgioaxel.com/'
 reachable: true

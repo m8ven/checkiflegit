@@ -1,10 +1,10 @@
 ---
 domain: stylo.pk
 slug: stylo-pk
-title: Is stylo.pk Legit? Trust Signal Check
+title: Is stylo.pk Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for stylo.pk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  stylo.pk scores 100/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:57.904Z'
 finalUrl: 'https://int.stylo.pk/?shpxid=605a4089-5b23-4a9f-9bda-7d626a7e13f9'
 reachable: true

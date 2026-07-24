@@ -1,10 +1,10 @@
 ---
 domain: vedicayurvedas.com
 slug: vedicayurvedas-com
-title: Is vedicayurvedas.com Legit? Trust Signal Check
+title: Is vedicayurvedas.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for vedicayurvedas.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  vedicayurvedas.com scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T15:28:09.296Z'
 finalUrl: 'https://www.vedicayurvedas.com/'
 reachable: true

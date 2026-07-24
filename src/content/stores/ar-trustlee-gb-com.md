@@ -1,10 +1,10 @@
 ---
 domain: ar.trustlee-gb.com
 slug: ar-trustlee-gb-com
-title: Is ar.trustlee-gb.com Legit? Trust Signal Check
+title: Is ar.trustlee-gb.com Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for ar.trustlee-gb.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ar.trustlee-gb.com scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:56:34.619Z'
 finalUrl: 'https://ar.trustlee-gb.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lampenwelt.de
 slug: lampenwelt-de
-title: Is lampenwelt.de Legit? Trust Signal Check
+title: Is lampenwelt.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for lampenwelt.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lampenwelt.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-24T21:46:20.185Z'
 finalUrl: 'https://www.lampenwelt.de/'
 reachable: true

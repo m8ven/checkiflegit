@@ -1,10 +1,11 @@
 ---
 domain: luvlyhouseholdcollections.co.ke
 slug: luvlyhouseholdcollections-co-ke
-title: Is luvlyhouseholdcollections.co.ke Legit? Trust Signal Check
+title: Is luvlyhouseholdcollections.co.ke Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for luvlyhouseholdcollections.co.ke: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  luvlyhouseholdcollections.co.ke scores 94/100 on our public trust checks.
+  Established domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:50:53.476Z'
 finalUrl: 'https://luvlyhouseholdcollections.co.ke/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gasel2000.com
 slug: gasel2000-com
-title: Is gasel2000.com Legit? Trust Signal Check
+title: Is gasel2000.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for gasel2000.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gasel2000.com scores 100/100 on our public trust checks. Established domain —
+  registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:18.936Z'
 finalUrl: 'https://gasel2000.com/'
 reachable: true

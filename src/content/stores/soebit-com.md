@@ -1,10 +1,10 @@
 ---
 domain: soebit.com
 slug: soebit-com
-title: Is soebit.com Legit? Trust Signal Check
+title: Is soebit.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for soebit.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  soebit.com scores 100/100 on our public trust checks. Established domain —
+  registered 21.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:54.938Z'
 finalUrl: 'https://soebit.com/'
 reachable: true

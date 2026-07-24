@@ -1,10 +1,10 @@
 ---
 domain: bold.co
 slug: bold-co
-title: Is bold.co Legit? Trust Signal Check
+title: Is bold.co Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bold.co: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  bold.co scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-24T21:45:37.943Z'
 finalUrl: 'https://bold.co/'
 reachable: true

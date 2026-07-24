@@ -1,10 +1,10 @@
 ---
 domain: slamdunk.shop
 slug: slamdunk-shop
-title: Is slamdunk.shop Legit? Trust Signal Check
+title: Is slamdunk.shop Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for slamdunk.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  slamdunk.shop scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:01:45.867Z'
 finalUrl: 'https://slamdunk.shop/'
 reachable: true

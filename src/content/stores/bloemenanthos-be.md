@@ -1,10 +1,10 @@
 ---
 domain: bloemenanthos.be
 slug: bloemenanthos-be
-title: Is bloemenanthos.be Legit? Trust Signal Check
+title: Is bloemenanthos.be Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bloemenanthos.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bloemenanthos.be scores 88/100 on our public trust checks. Established domain
+  — registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:25.970Z'
 finalUrl: 'https://www.bloemenanthos.be/'
 reachable: true

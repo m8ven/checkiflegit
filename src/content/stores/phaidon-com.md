@@ -1,10 +1,10 @@
 ---
 domain: phaidon.com
 slug: phaidon-com
-title: Is phaidon.com Legit? Trust Signal Check
+title: Is phaidon.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for phaidon.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  phaidon.com scores 88/100 on our public trust checks. Established domain —
+  registered 29.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:17.327Z'
 finalUrl: 'https://www.phaidon.com/en-us'
 reachable: true

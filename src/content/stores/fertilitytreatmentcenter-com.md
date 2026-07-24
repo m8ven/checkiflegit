@@ -1,10 +1,11 @@
 ---
 domain: fertilitytreatmentcenter.com
 slug: fertilitytreatmentcenter-com
-title: Is fertilitytreatmentcenter.com Legit? Trust Signal Check
+title: Is fertilitytreatmentcenter.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fertilitytreatmentcenter.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fertilitytreatmentcenter.com scores 100/100 on our public trust checks.
+  Established domain — registered 25.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:33:48.674Z'
 finalUrl: 'https://fertilitytreatmentcenter.com/'
 reachable: true

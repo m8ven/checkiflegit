@@ -1,10 +1,10 @@
 ---
 domain: centuryrentaltents.com
 slug: centuryrentaltents-com
-title: Is centuryrentaltents.com Legit? Trust Signal Check
+title: Is centuryrentaltents.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for centuryrentaltents.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  centuryrentaltents.com scores 94/100 on our public trust checks. Established
+  domain — registered 15.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:45:04.259Z'
 finalUrl: 'https://centuryrentaltents.com/'
 reachable: true

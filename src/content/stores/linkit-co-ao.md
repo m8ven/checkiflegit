@@ -1,10 +1,10 @@
 ---
 domain: linkit.co.ao
 slug: linkit-co-ao
-title: Is linkit.co.ao Legit? Trust Signal Check
+title: Is linkit.co.ao Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for linkit.co.ao: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  linkit.co.ao scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:19:51.906Z'
 finalUrl: 'https://linkit.co.ao/'
 reachable: true

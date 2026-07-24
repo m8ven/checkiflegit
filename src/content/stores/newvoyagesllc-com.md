@@ -1,10 +1,10 @@
 ---
 domain: newvoyagesllc.com
 slug: newvoyagesllc-com
-title: Is newvoyagesllc.com Legit? Trust Signal Check
+title: Is newvoyagesllc.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for newvoyagesllc.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  newvoyagesllc.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:48.074Z'
 finalUrl: 'https://newvoyagesllc.com/'
 reachable: true

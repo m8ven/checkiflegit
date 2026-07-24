@@ -1,10 +1,10 @@
 ---
 domain: 6ixice.com
 slug: 6ixice-com
-title: Is 6ixice.com Legit? Trust Signal Check
+title: Is 6ixice.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 6ixice.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  6ixice.com scores 100/100 on our public trust checks. Established domain —
+  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:45.681Z'
 finalUrl: 'https://6ixice.com/'
 reachable: true

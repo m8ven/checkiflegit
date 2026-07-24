@@ -1,10 +1,11 @@
 ---
 domain: characterandleadership.com
 slug: characterandleadership-com
-title: Is characterandleadership.com Legit? Trust Signal Check
+title: Is characterandleadership.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for characterandleadership.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  characterandleadership.com scores 94/100 on our public trust checks.
+  Established domain — registered 22.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:22:37.124Z'
 finalUrl: 'https://characterandleadership.com/'
 reachable: true

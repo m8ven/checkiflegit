@@ -1,10 +1,10 @@
 ---
 domain: pustak-szklany.pl
 slug: pustak-szklany-pl
-title: Is pustak-szklany.pl Legit? Trust Signal Check
+title: Is pustak-szklany.pl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for pustak-szklany.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pustak-szklany.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:28:29.363Z'
 finalUrl: 'https://pustak-szklany.pl/'
 reachable: true

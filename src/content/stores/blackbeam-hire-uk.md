@@ -1,10 +1,10 @@
 ---
 domain: blackbeam-hire.uk
 slug: blackbeam-hire-uk
-title: Is blackbeam-hire.uk Legit? Trust Signal Check
+title: Is blackbeam-hire.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for blackbeam-hire.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blackbeam-hire.uk scores 88/100 on our public trust checks. Established domain
+  — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:20:58.300Z'
 finalUrl: 'https://blackbeam-hire.uk/'
 reachable: true

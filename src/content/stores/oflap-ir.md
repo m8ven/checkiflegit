@@ -1,10 +1,10 @@
 ---
 domain: oflap.ir
 slug: oflap-ir
-title: Is oflap.ir Legit? Trust Signal Check
+title: Is oflap.ir Legit? Trust Score 36/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for oflap.ir: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  oflap.ir scores 36/100 on our public trust checks. Standard contact and policy
+  pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:24:49.561Z'
 finalUrl: 'https://www.oflap.ir/'
 reachable: true

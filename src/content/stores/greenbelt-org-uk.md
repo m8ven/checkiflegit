@@ -1,10 +1,10 @@
 ---
 domain: greenbelt.org.uk
 slug: greenbelt-org-uk
-title: Is greenbelt.org.uk Legit? Trust Signal Check
+title: Is greenbelt.org.uk Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for greenbelt.org.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  greenbelt.org.uk scores 70/100 on our public trust checks. Established domain
+  — registered 29.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:32.869Z'
 finalUrl: 'https://www.greenbelt.org.uk/'
 reachable: true

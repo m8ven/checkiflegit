@@ -1,10 +1,10 @@
 ---
 domain: planetgranite.us
 slug: planetgranite-us
-title: Is planetgranite.us Legit? Trust Signal Check
+title: Is planetgranite.us Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for planetgranite.us: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  planetgranite.us scores 100/100 on our public trust checks. Established domain
+  — registered 23.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:19.668Z'
 finalUrl: 'https://planetgranite.us/'
 reachable: true

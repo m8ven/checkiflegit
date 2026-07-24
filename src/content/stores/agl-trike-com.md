@@ -1,10 +1,10 @@
 ---
 domain: agl-trike.com
 slug: agl-trike-com
-title: Is agl-trike.com Legit? Trust Signal Check
+title: Is agl-trike.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for agl-trike.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  agl-trike.com scores 82/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:34.156Z'
 finalUrl: 'https://agl-trike.com/'
 reachable: true

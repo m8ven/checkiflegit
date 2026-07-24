@@ -1,10 +1,10 @@
 ---
 domain: snafu.de
 slug: snafu-de
-title: Is snafu.de Legit? Trust Signal Check
+title: Is snafu.de Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for snafu.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  snafu.de scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-24T21:45:02.466Z'
 finalUrl: 'https://www.snafu.de/'
 reachable: true

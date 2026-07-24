@@ -1,10 +1,10 @@
 ---
 domain: parkscientific.com
 slug: parkscientific-com
-title: Is parkscientific.com Legit? Trust Signal Check
+title: Is parkscientific.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for parkscientific.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  parkscientific.com scores 88/100 on our public trust checks. Established
+  domain — registered 24.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:20.998Z'
 finalUrl: 'https://parkscientific.com/'
 reachable: true

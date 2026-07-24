@@ -1,10 +1,10 @@
 ---
 domain: blomster-buket.dk
 slug: blomster-buket-dk
-title: Is blomster-buket.dk Legit? Trust Signal Check
+title: Is blomster-buket.dk Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for blomster-buket.dk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blomster-buket.dk scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:27:03.127Z'
 finalUrl: 'https://blomster-buket.dk/'
 reachable: true

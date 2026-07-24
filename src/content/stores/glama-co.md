@@ -1,10 +1,10 @@
 ---
 domain: glama.co
 slug: glama-co
-title: Is glama.co Legit? Trust Signal Check
+title: Is glama.co Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for glama.co: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  glama.co scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:47.142Z'
 finalUrl: 'https://glama.co/'
 reachable: true

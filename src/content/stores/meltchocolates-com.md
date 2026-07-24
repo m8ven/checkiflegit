@@ -1,10 +1,10 @@
 ---
 domain: meltchocolates.com
 slug: meltchocolates-com
-title: Is meltchocolates.com Legit? Trust Signal Check
+title: Is meltchocolates.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for meltchocolates.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  meltchocolates.com scores 100/100 on our public trust checks. Established
+  domain — registered 20.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:14.680Z'
 finalUrl: 'https://meltchocolates.com/'
 reachable: true

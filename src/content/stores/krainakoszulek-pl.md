@@ -1,10 +1,10 @@
 ---
 domain: krainakoszulek.pl
 slug: krainakoszulek-pl
-title: Is krainakoszulek.pl Legit? Trust Signal Check
+title: Is krainakoszulek.pl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for krainakoszulek.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  krainakoszulek.pl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:05:32.235Z'
 finalUrl: 'https://krainakoszulek.pl/'
 reachable: true

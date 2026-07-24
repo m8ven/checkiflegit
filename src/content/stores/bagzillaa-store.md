@@ -1,10 +1,10 @@
 ---
 domain: bagzillaa.store
 slug: bagzillaa-store
-title: Is bagzillaa.store Legit? Trust Signal Check
+title: Is bagzillaa.store Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bagzillaa.store: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bagzillaa.store scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage. Domain is relatively young.
 fetchedAt: '2026-06-25T12:42:35.651Z'
 finalUrl: 'https://bagzillaa.store/'
 reachable: true

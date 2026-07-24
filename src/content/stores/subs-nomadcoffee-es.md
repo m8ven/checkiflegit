@@ -1,10 +1,10 @@
 ---
 domain: subs.nomadcoffee.es
 slug: subs-nomadcoffee-es
-title: Is subs.nomadcoffee.es Legit? Trust Signal Check
+title: Is subs.nomadcoffee.es Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for subs.nomadcoffee.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  subs.nomadcoffee.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:32:38.594Z'
 finalUrl: 'https://nomadcoffee.es/'
 reachable: true

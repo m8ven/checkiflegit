@@ -1,10 +1,11 @@
 ---
 domain: mothersofafricamobilesoko.com
 slug: mothersofafricamobilesoko-com
-title: Is mothersofafricamobilesoko.com Legit? Trust Signal Check
+title: Is mothersofafricamobilesoko.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for mothersofafricamobilesoko.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  mothersofafricamobilesoko.com scores 73/100 on our public trust checks.
+  Established domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:56:50.920Z'
 finalUrl: 'https://mothersofafricamobilesoko.com/'
 reachable: true

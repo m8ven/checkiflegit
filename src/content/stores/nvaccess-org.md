@@ -1,10 +1,10 @@
 ---
 domain: nvaccess.org
 slug: nvaccess-org
-title: Is nvaccess.org Legit? Trust Signal Check
+title: Is nvaccess.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for nvaccess.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nvaccess.org scores 76/100 on our public trust checks. Established domain —
+  registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:08.162Z'
 finalUrl: 'https://www.nvaccess.org/'
 reachable: true

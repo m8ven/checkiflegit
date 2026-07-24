@@ -1,10 +1,10 @@
 ---
 domain: elitetruck.com
 slug: elitetruck-com
-title: Is elitetruck.com Legit? Trust Signal Check
+title: Is elitetruck.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for elitetruck.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elitetruck.com scores 100/100 on our public trust checks. Established domain —
+  registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:30.929Z'
 finalUrl: 'https://elitetruck.com/'
 reachable: true

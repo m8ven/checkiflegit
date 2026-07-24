@@ -1,10 +1,10 @@
 ---
 domain: congressrealty.com
 slug: congressrealty-com
-title: Is congressrealty.com Legit? Trust Signal Check
+title: Is congressrealty.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for congressrealty.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  congressrealty.com scores 88/100 on our public trust checks. Established
+  domain — registered 23.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:53.121Z'
 finalUrl: 'https://congressrealty.com/'
 reachable: true

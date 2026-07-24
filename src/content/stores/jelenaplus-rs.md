@@ -1,10 +1,10 @@
 ---
 domain: jelenaplus.rs
 slug: jelenaplus-rs
-title: Is jelenaplus.rs Legit? Trust Signal Check
+title: Is jelenaplus.rs Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for jelenaplus.rs: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jelenaplus.rs scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:21:21.001Z'
 finalUrl: 'http://www.jelenaplus.rs/'
 reachable: true

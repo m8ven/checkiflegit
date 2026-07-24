@@ -1,10 +1,10 @@
 ---
 domain: astrameda.com
 slug: astrameda-com
-title: Is astrameda.com Legit? Trust Signal Check
+title: Is astrameda.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for astrameda.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  astrameda.com scores 82/100 on our public trust checks. Established domain —
+  registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:35.656Z'
 finalUrl: 'https://astrameda.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: godspace.org.au
 slug: godspace-org-au
-title: Is godspace.org.au Legit? Trust Signal Check
+title: Is godspace.org.au Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for godspace.org.au: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  godspace.org.au scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:13:59.842Z'
 finalUrl: 'https://godspace.org.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: adsmisr.com
 slug: adsmisr-com
-title: Is adsmisr.com Legit? Trust Signal Check
+title: Is adsmisr.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for adsmisr.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  adsmisr.com scores 73/100 on our public trust checks. Established domain —
+  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:06.498Z'
 finalUrl: 'https://adsmisr.com/'
 reachable: true

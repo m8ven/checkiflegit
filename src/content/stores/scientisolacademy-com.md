@@ -1,10 +1,10 @@
 ---
 domain: scientisolacademy.com
 slug: scientisolacademy-com
-title: Is scientisolacademy.com Legit? Trust Signal Check
+title: Is scientisolacademy.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for scientisolacademy.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  scientisolacademy.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:39.144Z'
 finalUrl: 'https://scientisolacademy.com/'
 reachable: true

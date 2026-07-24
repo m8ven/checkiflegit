@@ -1,10 +1,10 @@
 ---
 domain: essen-nutrition.com
 slug: essen-nutrition-com
-title: Is essen-nutrition.com Legit? Trust Signal Check
+title: Is essen-nutrition.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for essen-nutrition.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  essen-nutrition.com scores 73/100 on our public trust checks. Established
+  domain — registered 29.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:18:19.049Z'
 finalUrl: 'https://www.essen-nutrition.com/'
 reachable: true

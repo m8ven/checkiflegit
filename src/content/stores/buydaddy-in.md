@@ -1,10 +1,10 @@
 ---
 domain: buydaddy.in
 slug: buydaddy-in
-title: Is buydaddy.in Legit? Trust Signal Check
+title: Is buydaddy.in Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for buydaddy.in: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  buydaddy.in scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:24:18.113Z'
 finalUrl: 'https://www.buydaddy.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: countrydesignstyle.com
 slug: countrydesignstyle-com
-title: Is countrydesignstyle.com Legit? Trust Signal Check
+title: Is countrydesignstyle.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for countrydesignstyle.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  countrydesignstyle.com scores 70/100 on our public trust checks. Established
+  domain — registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:06.903Z'
 finalUrl: 'https://countrydesignstyle.com/'
 reachable: true

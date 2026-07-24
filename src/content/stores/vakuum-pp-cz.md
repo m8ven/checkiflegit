@@ -1,10 +1,11 @@
 ---
 domain: vakuum-pp.cz
 slug: vakuum-pp-cz
-title: Is vakuum-pp.cz Legit? Trust Signal Check
+title: Is vakuum-pp.cz Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for vakuum-pp.cz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vakuum-pp.cz scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:36:22.894Z'
 finalUrl: 'https://vakuum-pp.cz/'
 reachable: true

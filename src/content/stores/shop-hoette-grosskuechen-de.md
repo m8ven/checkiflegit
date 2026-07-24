@@ -1,10 +1,10 @@
 ---
 domain: shop.hoette-grosskuechen.de
 slug: shop-hoette-grosskuechen-de
-title: Is shop.hoette-grosskuechen.de Legit? Trust Signal Check
+title: Is shop.hoette-grosskuechen.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.hoette-grosskuechen.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.hoette-grosskuechen.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:36.536Z'
 finalUrl: 'https://shop.hoette-grosskuechen.de/'
 reachable: true

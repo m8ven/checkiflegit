@@ -1,10 +1,10 @@
 ---
 domain: aquadepotinc.com
 slug: aquadepotinc-com
-title: Is aquadepotinc.com Legit? Trust Signal Check
+title: Is aquadepotinc.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for aquadepotinc.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aquadepotinc.com scores 100/100 on our public trust checks. Established domain
+  — registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:35.429Z'
 finalUrl: 'https://aquadepotinc.com/'
 reachable: true

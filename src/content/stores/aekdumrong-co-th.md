@@ -1,10 +1,10 @@
 ---
 domain: aekdumrong.co.th
 slug: aekdumrong-co-th
-title: Is aekdumrong.co.th Legit? Trust Signal Check
+title: Is aekdumrong.co.th Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for aekdumrong.co.th: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aekdumrong.co.th scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:20:58.979Z'
 finalUrl: 'https://www.aekdumrong.co.th/'
 reachable: true

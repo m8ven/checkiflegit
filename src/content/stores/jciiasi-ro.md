@@ -1,10 +1,10 @@
 ---
 domain: jciiasi.ro
 slug: jciiasi-ro
-title: Is jciiasi.ro Legit? Trust Signal Check
+title: Is jciiasi.ro Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for jciiasi.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jciiasi.ro scores 88/100 on our public trust checks. Established domain —
+  registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:32.158Z'
 finalUrl: 'https://jciiasi.ro/'
 reachable: true

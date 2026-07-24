@@ -1,10 +1,10 @@
 ---
 domain: trade.shopnewage.com
 slug: trade-shopnewage-com
-title: Is trade.shopnewage.com Legit? Trust Signal Check
+title: Is trade.shopnewage.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for trade.shopnewage.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  trade.shopnewage.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:28.231Z'
 finalUrl: 'https://trade.shopnewage.com/'
 reachable: true

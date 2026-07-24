@@ -1,10 +1,10 @@
 ---
 domain: avivpirsum.co.il
 slug: avivpirsum-co-il
-title: Is avivpirsum.co.il Legit? Trust Signal Check
+title: Is avivpirsum.co.il Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for avivpirsum.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  avivpirsum.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:25:56.944Z'
 finalUrl: 'https://avivpirsum.co.il/'
 reachable: true

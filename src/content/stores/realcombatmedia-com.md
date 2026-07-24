@@ -1,10 +1,10 @@
 ---
 domain: realcombatmedia.com
 slug: realcombatmedia-com
-title: Is realcombatmedia.com Legit? Trust Signal Check
+title: Is realcombatmedia.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for realcombatmedia.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  realcombatmedia.com scores 100/100 on our public trust checks. Established
+  domain — registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:32.012Z'
 finalUrl: 'https://realcombatmedia.com/'
 reachable: true

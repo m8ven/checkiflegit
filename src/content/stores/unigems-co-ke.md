@@ -1,10 +1,10 @@
 ---
 domain: unigems.co.ke
 slug: unigems-co-ke
-title: Is unigems.co.ke Legit? Trust Signal Check
+title: Is unigems.co.ke Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for unigems.co.ke: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  unigems.co.ke scores 58/100 on our public trust checks. Domain is relatively
+  young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:29:01.154Z'
 finalUrl: 'https://unigems.co.ke/'
 reachable: true

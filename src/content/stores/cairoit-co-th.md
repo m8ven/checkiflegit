@@ -1,10 +1,10 @@
 ---
 domain: cairoit.co.th
 slug: cairoit-co-th
-title: Is cairoit.co.th Legit? Trust Signal Check
+title: Is cairoit.co.th Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for cairoit.co.th: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cairoit.co.th scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:27:58.006Z'
 finalUrl: 'https://cairoit.co.th/'
 reachable: true

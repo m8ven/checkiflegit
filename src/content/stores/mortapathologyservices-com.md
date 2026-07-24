@@ -1,11 +1,11 @@
 ---
 domain: mortapathologyservices.com
 slug: mortapathologyservices-com
-title: Is mortapathologyservices.com Legit? Trust Signal Check
+title: Is mortapathologyservices.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for mortapathologyservices.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  mortapathologyservices.com scores 40/100 on our public trust checks. Domain
+  registered very recently (54 days ago). No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T02:55:53.454Z'
 finalUrl: 'https://mortapathologyservices.com/'
 reachable: true

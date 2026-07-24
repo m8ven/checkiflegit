@@ -1,10 +1,10 @@
 ---
 domain: copycatcleaning.com
 slug: copycatcleaning-com
-title: Is copycatcleaning.com Legit? Trust Signal Check
+title: Is copycatcleaning.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for copycatcleaning.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  copycatcleaning.com scores 85/100 on our public trust checks. Established
+  domain — registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:39.903Z'
 finalUrl: 'https://copycatcleaning.com/'
 reachable: true

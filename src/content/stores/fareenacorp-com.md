@@ -1,10 +1,10 @@
 ---
 domain: fareenacorp.com
 slug: fareenacorp-com
-title: Is fareenacorp.com Legit? Trust Signal Check
+title: Is fareenacorp.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fareenacorp.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fareenacorp.com scores 100/100 on our public trust checks. Established domain
+  — registered 18.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:09.711Z'
 finalUrl: 'https://fareenacorp.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: craftten.com
 slug: craftten-com
-title: Is craftten.com Legit? Trust Signal Check
+title: Is craftten.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for craftten.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  craftten.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:29:51.821Z'
 finalUrl: 'https://craftten.com/'
 reachable: true

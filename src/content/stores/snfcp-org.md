@@ -1,10 +1,10 @@
 ---
 domain: snfcp.org
 slug: snfcp-org
-title: Is snfcp.org Legit? Trust Signal Check
+title: Is snfcp.org Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for snfcp.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  snfcp.org scores 70/100 on our public trust checks. Established domain —
+  registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:22:00.342Z'
 finalUrl: 'https://www.snfcp.org/'
 reachable: true

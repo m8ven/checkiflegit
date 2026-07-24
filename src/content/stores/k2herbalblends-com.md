@@ -1,10 +1,10 @@
 ---
 domain: k2herbalblends.com
 slug: k2herbalblends-com
-title: Is k2herbalblends.com Legit? Trust Signal Check
+title: Is k2herbalblends.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for k2herbalblends.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  k2herbalblends.com scores 40/100 on our public trust checks. Domain registered
+  very recently (65 days ago). No links to major social platforms found.
 fetchedAt: '2026-06-25T12:09:04.547Z'
 finalUrl: 'https://k2herbalblends.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: my.healthlabsexpress.com
 slug: my-healthlabsexpress-com
-title: Is my.healthlabsexpress.com Legit? Trust Signal Check
+title: Is my.healthlabsexpress.com Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for my.healthlabsexpress.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  my.healthlabsexpress.com scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:48.781Z'
 finalUrl: 'https://my.healthlabsexpress.com/'
 reachable: true

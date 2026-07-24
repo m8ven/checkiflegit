@@ -1,10 +1,10 @@
 ---
 domain: amicablemondiale.com
 slug: amicablemondiale-com
-title: Is amicablemondiale.com Legit? Trust Signal Check
+title: Is amicablemondiale.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for amicablemondiale.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  amicablemondiale.com scores 100/100 on our public trust checks. Established
+  domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:01.120Z'
 finalUrl: 'https://amicablemondiale.com/'
 reachable: true

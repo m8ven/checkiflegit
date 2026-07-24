@@ -1,10 +1,10 @@
 ---
 domain: thibautdesign.com
 slug: thibautdesign-com
-title: Is thibautdesign.com Legit? Trust Signal Check
+title: Is thibautdesign.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thibautdesign.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thibautdesign.com scores 100/100 on our public trust checks. Established
+  domain — registered 23.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:43.267Z'
 finalUrl: 'https://www.thibautdesign.com/'
 reachable: true

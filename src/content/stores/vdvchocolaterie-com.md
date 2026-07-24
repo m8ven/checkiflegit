@@ -1,10 +1,10 @@
 ---
 domain: vdvchocolaterie.com
 slug: vdvchocolaterie-com
-title: Is vdvchocolaterie.com Legit? Trust Signal Check
+title: Is vdvchocolaterie.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for vdvchocolaterie.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vdvchocolaterie.com scores 82/100 on our public trust checks. Established
+  domain — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:07.120Z'
 finalUrl: 'https://www.vdvchocolaterie.com/'
 reachable: true

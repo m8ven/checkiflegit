@@ -1,10 +1,10 @@
 ---
 domain: tagrel.pl
 slug: tagrel-pl
-title: Is tagrel.pl Legit? Trust Signal Check
+title: Is tagrel.pl Legit? Trust Score 27/100
 description: >-
-  An automated trust-signal check for tagrel.pl: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  tagrel.pl scores 27/100 on our public trust checks. No links to major social
+  platforms found. HTTPS certificate present but its trust chain is incomplete.
 fetchedAt: '2026-06-25T02:16:26.613Z'
 finalUrl: 'http://tagrel.pl/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: motors-distribution-83.fr
 slug: motors-distribution-83-fr
-title: Is motors-distribution-83.fr Legit? Trust Signal Check
+title: Is motors-distribution-83.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for motors-distribution-83.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  motors-distribution-83.fr scores 100/100 on our public trust checks.
+  Established domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:33:15.708Z'
 finalUrl: 'https://motors-distribution-83.fr/'
 reachable: true

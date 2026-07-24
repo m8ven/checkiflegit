@@ -1,10 +1,10 @@
 ---
 domain: caribbean.globodyinc.com
 slug: caribbean-globodyinc-com
-title: Is caribbean.globodyinc.com Legit? Trust Signal Check
+title: Is caribbean.globodyinc.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for caribbean.globodyinc.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  caribbean.globodyinc.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:11.938Z'
 finalUrl: 'https://caribbean.globodyinc.com/'
 reachable: true

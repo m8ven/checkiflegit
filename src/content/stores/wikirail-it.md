@@ -1,10 +1,10 @@
 ---
 domain: wikirail.it
 slug: wikirail-it
-title: Is wikirail.it Legit? Trust Signal Check
+title: Is wikirail.it Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for wikirail.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  wikirail.it scores 73/100 on our public trust checks. Established domain —
+  registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:52.773Z'
 finalUrl: 'https://wikirail.it/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: atelier26.pl
 slug: atelier26-pl
-title: Is atelier26.pl Legit? Trust Signal Check
+title: Is atelier26.pl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for atelier26.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  atelier26.pl scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:34:41.925Z'
 finalUrl: 'https://atelier26.pl/'
 reachable: true

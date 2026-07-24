@@ -1,10 +1,10 @@
 ---
 domain: south-deco.fr
 slug: south-deco-fr
-title: Is south-deco.fr Legit? Trust Signal Check
+title: Is south-deco.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for south-deco.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  south-deco.fr scores 100/100 on our public trust checks. Established domain —
+  registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:56.388Z'
 finalUrl: 'https://south-deco.com/'
 reachable: true

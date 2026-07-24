@@ -1,10 +1,10 @@
 ---
 domain: valueelectronics.com
 slug: valueelectronics-com
-title: Is valueelectronics.com Legit? Trust Signal Check
+title: Is valueelectronics.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for valueelectronics.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  valueelectronics.com scores 100/100 on our public trust checks. Established
+  domain — registered 28.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:57.009Z'
 finalUrl: 'https://valueelectronics.com/'
 reachable: true

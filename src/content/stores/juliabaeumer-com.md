@@ -1,10 +1,10 @@
 ---
 domain: juliabaeumer.com
 slug: juliabaeumer-com
-title: Is juliabaeumer.com Legit? Trust Signal Check
+title: Is juliabaeumer.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for juliabaeumer.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  juliabaeumer.com scores 70/100 on our public trust checks. Established domain
+  — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:39.436Z'
 finalUrl: 'https://juliabaeumer.com/'
 reachable: true

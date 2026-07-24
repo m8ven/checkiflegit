@@ -1,10 +1,10 @@
 ---
 domain: thatsme.organic
 slug: thatsme-organic
-title: Is thatsme.organic Legit? Trust Signal Check
+title: Is thatsme.organic Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for thatsme.organic: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thatsme.organic scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:05:12.148Z'
 finalUrl: 'https://thatsme.organic/'
 reachable: true

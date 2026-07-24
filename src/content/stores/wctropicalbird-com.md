@@ -1,10 +1,10 @@
 ---
 domain: wctropicalbird.com
 slug: wctropicalbird-com
-title: Is wctropicalbird.com Legit? Trust Signal Check
+title: Is wctropicalbird.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for wctropicalbird.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wctropicalbird.com scores 73/100 on our public trust checks. Established
+  domain — registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:50.080Z'
 finalUrl: 'https://www.wctropicalbird.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: rebelsport.com.au
 slug: rebelsport-com-au
-title: Is rebelsport.com.au Legit? Trust Signal Check
+title: Is rebelsport.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for rebelsport.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rebelsport.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-24T21:46:05.839Z'
 finalUrl: 'https://www.rebelsport.com.au/'
 reachable: true

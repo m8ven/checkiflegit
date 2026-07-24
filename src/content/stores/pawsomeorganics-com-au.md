@@ -1,10 +1,11 @@
 ---
 domain: pawsomeorganics.com.au
 slug: pawsomeorganics-com-au
-title: Is pawsomeorganics.com.au Legit? Trust Signal Check
+title: Is pawsomeorganics.com.au Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for pawsomeorganics.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pawsomeorganics.com.au scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:40:27.678Z'
 finalUrl: 'https://pawsomeorganics.com.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: thaipkmn.shop
 slug: thaipkmn-shop
-title: Is thaipkmn.shop Legit? Trust Signal Check
+title: Is thaipkmn.shop Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thaipkmn.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thaipkmn.shop scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:53:29.432Z'
 finalUrl: 'https://thaipkmn.shop/en/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: chefandknife.be
 slug: chefandknife-be
-title: Is chefandknife.be Legit? Trust Signal Check
+title: Is chefandknife.be Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for chefandknife.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chefandknife.be scores 82/100 on our public trust checks. Established domain —
+  registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:49.148Z'
 finalUrl: 'https://chefandknife.be/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: newjerseycraftbeer.com
 slug: newjerseycraftbeer-com
-title: Is newjerseycraftbeer.com Legit? Trust Signal Check
+title: Is newjerseycraftbeer.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for newjerseycraftbeer.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  newjerseycraftbeer.com scores 76/100 on our public trust checks. Established
+  domain — registered 15.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:40.046Z'
 finalUrl: 'https://newjerseycraftbeer.com/'
 reachable: true

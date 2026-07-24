@@ -1,10 +1,10 @@
 ---
 domain: loft.com
 slug: loft-com
-title: Is loft.com Legit? Trust Signal Check
+title: Is loft.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for loft.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  loft.com scores 88/100 on our public trust checks. Established domain —
+  registered 29.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:36.443Z'
 finalUrl: 'https://www.loft.com/'
 reachable: true

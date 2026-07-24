@@ -1,10 +1,10 @@
 ---
 domain: born-in-flacht.com
 slug: born-in-flacht-com
-title: Is born-in-flacht.com Legit? Trust Signal Check
+title: Is born-in-flacht.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for born-in-flacht.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  born-in-flacht.com scores 85/100 on our public trust checks. Established
+  domain — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:48.289Z'
 finalUrl: 'https://born-in-flacht.com/'
 reachable: true

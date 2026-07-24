@@ -1,10 +1,10 @@
 ---
 domain: artmaja.at
 slug: artmaja-at
-title: Is artmaja.at Legit? Trust Signal Check
+title: Is artmaja.at Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for artmaja.at: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  artmaja.at scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:35:50.429Z'
 finalUrl: 'https://artmaja.at/'
 reachable: true

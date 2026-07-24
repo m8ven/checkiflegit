@@ -1,10 +1,10 @@
 ---
 domain: plaid-live.com
 slug: plaid-live-com
-title: Is plaid-live.com Legit? Trust Signal Check
+title: Is plaid-live.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for plaid-live.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  plaid-live.com scores 73/100 on our public trust checks. Established domain —
+  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:47.691Z'
 finalUrl: 'https://plaid-live.com/'
 reachable: true

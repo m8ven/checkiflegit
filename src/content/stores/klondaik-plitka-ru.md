@@ -1,10 +1,10 @@
 ---
 domain: klondaik-plitka.ru
 slug: klondaik-plitka-ru
-title: Is klondaik-plitka.ru Legit? Trust Signal Check
+title: Is klondaik-plitka.ru Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for klondaik-plitka.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  klondaik-plitka.ru scores 70/100 on our public trust checks. Established
+  domain — registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:19.943Z'
 finalUrl: 'https://klondaik-plitka.ru/'
 reachable: true

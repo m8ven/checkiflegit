@@ -1,10 +1,10 @@
 ---
 domain: chambre-hote.com
 slug: chambre-hote-com
-title: Is chambre-hote.com Legit? Trust Signal Check
+title: Is chambre-hote.com Legit? Trust Score 13/100
 description: >-
-  An automated trust-signal check for chambre-hote.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  chambre-hote.com scores 13/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T02:23:15.544Z'
 finalUrl: 'http://www.chambre-hote.com/'
 reachable: true

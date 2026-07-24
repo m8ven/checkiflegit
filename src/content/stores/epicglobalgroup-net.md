@@ -1,10 +1,10 @@
 ---
 domain: epicglobalgroup.net
 slug: epicglobalgroup-net
-title: Is epicglobalgroup.net Legit? Trust Signal Check
+title: Is epicglobalgroup.net Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for epicglobalgroup.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  epicglobalgroup.net scores 88/100 on our public trust checks. Established
+  domain — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:25.802Z'
 finalUrl: 'https://epicglobalgroup.net/'
 reachable: true

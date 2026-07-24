@@ -1,10 +1,10 @@
 ---
 domain: bestcoast.fi
 slug: bestcoast-fi
-title: Is bestcoast.fi Legit? Trust Signal Check
+title: Is bestcoast.fi Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bestcoast.fi: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bestcoast.fi scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T03:36:18.047Z'
 finalUrl: 'https://bestcoast.fi/'
 reachable: true

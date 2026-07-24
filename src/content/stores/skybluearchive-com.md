@@ -1,10 +1,10 @@
 ---
 domain: skybluearchive.com
 slug: skybluearchive-com
-title: Is skybluearchive.com Legit? Trust Signal Check
+title: Is skybluearchive.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for skybluearchive.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  skybluearchive.com scores 43/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:01:40.398Z'
 finalUrl: 'https://skybluearchive.com/'
 reachable: true

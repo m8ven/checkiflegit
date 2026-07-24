@@ -1,10 +1,10 @@
 ---
 domain: macarthurcastles.com.au
 slug: macarthurcastles-com-au
-title: Is macarthurcastles.com.au Legit? Trust Signal Check
+title: Is macarthurcastles.com.au Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for macarthurcastles.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  macarthurcastles.com.au scores 57/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T14:56:42.005Z'
 finalUrl: 'https://macarthurcastles.com.au/'
 reachable: true

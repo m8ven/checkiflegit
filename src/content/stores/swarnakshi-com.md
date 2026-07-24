@@ -1,10 +1,10 @@
 ---
 domain: swarnakshi.com
 slug: swarnakshi-com
-title: Is swarnakshi.com Legit? Trust Signal Check
+title: Is swarnakshi.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for swarnakshi.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  swarnakshi.com scores 100/100 on our public trust checks. Established domain —
+  registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:05:36.998Z'
 finalUrl: 'https://swarnakshi.com/'
 reachable: true

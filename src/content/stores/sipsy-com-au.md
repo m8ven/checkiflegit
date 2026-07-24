@@ -1,10 +1,10 @@
 ---
 domain: sipsy.com.au
 slug: sipsy-com-au
-title: Is sipsy.com.au Legit? Trust Signal Check
+title: Is sipsy.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sipsy.com.au: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sipsy.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:38:06.602Z'
 finalUrl: 'https://sipsy.com.au/'
 reachable: true

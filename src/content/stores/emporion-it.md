@@ -1,10 +1,10 @@
 ---
 domain: emporion.it
 slug: emporion-it
-title: Is emporion.it Legit? Trust Signal Check
+title: Is emporion.it Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for emporion.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  emporion.it scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:50:21.895Z'
 finalUrl: 'https://emporion.it/en'
 reachable: true

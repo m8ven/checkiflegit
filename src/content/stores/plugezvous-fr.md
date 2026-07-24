@@ -1,10 +1,10 @@
 ---
 domain: plugezvous.fr
 slug: plugezvous-fr
-title: Is plugezvous.fr Legit? Trust Signal Check
+title: Is plugezvous.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for plugezvous.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  plugezvous.fr scores 88/100 on our public trust checks. Established domain —
+  registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:41.727Z'
 finalUrl: 'https://plugezvous.fr/'
 reachable: true

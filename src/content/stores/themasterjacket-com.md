@@ -1,10 +1,10 @@
 ---
 domain: themasterjacket.com
 slug: themasterjacket-com
-title: Is themasterjacket.com Legit? Trust Signal Check
+title: Is themasterjacket.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for themasterjacket.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  themasterjacket.com scores 85/100 on our public trust checks. Established
+  domain — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:58.589Z'
 finalUrl: 'https://themasterjacket.com/'
 reachable: true

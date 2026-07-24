@@ -1,10 +1,10 @@
 ---
 domain: mariab.pk
 slug: mariab-pk
-title: Is mariab.pk Legit? Trust Signal Check
+title: Is mariab.pk Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mariab.pk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mariab.pk scores 100/100 on our public trust checks. Established domain —
+  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:48.123Z'
 finalUrl: 'https://www.mariab.pk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: navalchicolino.com
 slug: navalchicolino-com
-title: Is navalchicolino.com Legit? Trust Signal Check
+title: Is navalchicolino.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for navalchicolino.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  navalchicolino.com scores 94/100 on our public trust checks. Established
+  domain — registered 23.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:00.910Z'
 finalUrl: 'https://navalchicolino.com/?v=75bd8c82f05b'
 reachable: true

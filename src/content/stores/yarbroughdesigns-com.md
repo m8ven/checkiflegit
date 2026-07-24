@@ -1,11 +1,11 @@
 ---
 domain: yarbroughdesigns.com
 slug: yarbroughdesigns-com
-title: Is yarbroughdesigns.com Legit? Trust Signal Check
+title: Is yarbroughdesigns.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for yarbroughdesigns.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  yarbroughdesigns.com scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:34:38.162Z'
 finalUrl: 'https://yarbroughdesigns.com/'
 reachable: true

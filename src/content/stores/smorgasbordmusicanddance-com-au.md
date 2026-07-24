@@ -1,10 +1,10 @@
 ---
 domain: smorgasbordmusicanddance.com.au
 slug: smorgasbordmusicanddance-com-au
-title: Is smorgasbordmusicanddance.com.au Legit? Trust Signal Check
+title: Is smorgasbordmusicanddance.com.au Legit? Score 100/100
 description: >-
-  An automated trust-signal check for smorgasbordmusicanddance.com.au: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  smorgasbordmusicanddance.com.au scores 100/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:45.441Z'
 finalUrl: 'https://smorgasbordmusicanddance.com.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: corrieribrasil.com.br
 slug: corrieribrasil-com-br
-title: Is corrieribrasil.com.br Legit? Trust Signal Check
+title: Is corrieribrasil.com.br Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for corrieribrasil.com.br: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  corrieribrasil.com.br scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:08.720Z'
 finalUrl: 'https://corrieribrasil.com.br/'
 reachable: true

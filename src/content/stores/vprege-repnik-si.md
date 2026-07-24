@@ -1,10 +1,10 @@
 ---
 domain: vprege-repnik.si
 slug: vprege-repnik-si
-title: Is vprege-repnik.si Legit? Trust Signal Check
+title: Is vprege-repnik.si Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for vprege-repnik.si: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vprege-repnik.si scores 88/100 on our public trust checks. Established domain
+  — registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:27.073Z'
 finalUrl: 'https://vprege-repnik.si/'
 reachable: true

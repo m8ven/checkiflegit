@@ -1,10 +1,11 @@
 ---
 domain: tylkopilka.pl
 slug: tylkopilka-pl
-title: Is tylkopilka.pl Legit? Trust Signal Check
+title: Is tylkopilka.pl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tylkopilka.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tylkopilka.pl scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:17:03.217Z'
 finalUrl: 'https://tylkopilka.pl/'
 reachable: true

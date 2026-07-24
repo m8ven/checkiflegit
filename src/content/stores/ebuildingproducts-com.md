@@ -1,10 +1,10 @@
 ---
 domain: ebuildingproducts.com
 slug: ebuildingproducts-com
-title: Is ebuildingproducts.com Legit? Trust Signal Check
+title: Is ebuildingproducts.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ebuildingproducts.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ebuildingproducts.com scores 100/100 on our public trust checks. Established
+  domain — registered 22.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:40.001Z'
 finalUrl: 'https://ebuildingproducts.com/'
 reachable: true

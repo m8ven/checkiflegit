@@ -1,10 +1,10 @@
 ---
 domain: javaherian-gallery.com
 slug: javaherian-gallery-com
-title: Is javaherian-gallery.com Legit? Trust Signal Check
+title: Is javaherian-gallery.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for javaherian-gallery.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  javaherian-gallery.com scores 70/100 on our public trust checks. Established
+  domain — registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:48.544Z'
 finalUrl: 'https://www.javaherian-gallery.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: railfutures.org.au
 slug: railfutures-org-au
-title: Is railfutures.org.au Legit? Trust Signal Check
+title: Is railfutures.org.au Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for railfutures.org.au: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  railfutures.org.au scores 31/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:37:58.805Z'
 finalUrl: 'https://www.railfutures.org.au/'
 reachable: true

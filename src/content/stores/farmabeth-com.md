@@ -1,10 +1,10 @@
 ---
 domain: farmabeth.com
 slug: farmabeth-com
-title: Is farmabeth.com Legit? Trust Signal Check
+title: Is farmabeth.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for farmabeth.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  farmabeth.com scores 100/100 on our public trust checks. Established domain —
+  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:17.681Z'
 finalUrl: 'https://farmabeth.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nomads.ex-base.net
 slug: nomads-ex-base-net
-title: Is nomads.ex-base.net Legit? Trust Signal Check
+title: Is nomads.ex-base.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nomads.ex-base.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nomads.ex-base.net scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:46:04.500Z'
 finalUrl: 'https://nomads.ex-base.net/'
 reachable: true

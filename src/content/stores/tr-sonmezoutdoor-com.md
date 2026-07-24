@@ -1,11 +1,10 @@
 ---
 domain: tr.sonmezoutdoor.com
 slug: tr-sonmezoutdoor-com
-title: Is tr.sonmezoutdoor.com Legit? Trust Signal Check
+title: Is tr.sonmezoutdoor.com Legit? Trust Score 14/100
 description: >-
-  An automated trust-signal check for tr.sonmezoutdoor.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  tr.sonmezoutdoor.com scores 14/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T02:54:17.185Z'
 finalUrl: 'https://tr.sonmezoutdoor.com/'
 reachable: true

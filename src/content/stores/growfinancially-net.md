@@ -1,10 +1,10 @@
 ---
 domain: growfinancially.net
 slug: growfinancially-net
-title: Is growfinancially.net Legit? Trust Signal Check
+title: Is growfinancially.net Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for growfinancially.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  growfinancially.net scores 85/100 on our public trust checks. Established
+  domain — registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:18.593Z'
 finalUrl: 'https://growfinancially.net/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: hema.com
 slug: hema-com
-title: Is hema.com Legit? Trust Signal Check
+title: Is hema.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hema.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hema.com scores 82/100 on our public trust checks. Established domain —
+  registered 27.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:57.819Z'
 finalUrl: 'https://www.hema.com/'
 reachable: true

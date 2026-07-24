@@ -1,10 +1,10 @@
 ---
 domain: valleytee.com
 slug: valleytee-com
-title: Is valleytee.com Legit? Trust Signal Check
+title: Is valleytee.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for valleytee.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  valleytee.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:08:26.025Z'
 finalUrl: 'https://valleytee.com/'
 reachable: true

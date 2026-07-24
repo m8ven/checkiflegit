@@ -1,10 +1,10 @@
 ---
 domain: terrapinglass.com
 slug: terrapinglass-com
-title: Is terrapinglass.com Legit? Trust Signal Check
+title: Is terrapinglass.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for terrapinglass.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  terrapinglass.com scores 85/100 on our public trust checks. Established domain
+  — registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:25.493Z'
 finalUrl: 'https://terrapinglass.com/'
 reachable: true

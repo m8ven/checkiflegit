@@ -1,10 +1,10 @@
 ---
 domain: hajarian.com
 slug: hajarian-com
-title: Is hajarian.com Legit? Trust Signal Check
+title: Is hajarian.com Legit? Trust Score 0/100
 description: >-
-  An automated trust-signal check for hajarian.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  hajarian.com scores 0/100 on our public trust checks. No valid SSL certificate
+  — connection may not be secure.
 fetchedAt: '2026-06-25T12:41:52.022Z'
 finalUrl: 'http://hajarian.com/'
 reachable: true

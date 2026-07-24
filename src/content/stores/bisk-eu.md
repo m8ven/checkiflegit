@@ -1,10 +1,10 @@
 ---
 domain: bisk.eu
 slug: bisk-eu
-title: Is bisk.eu Legit? Trust Signal Check
+title: Is bisk.eu Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bisk.eu: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bisk.eu scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:20:54.913Z'
 finalUrl: 'https://bisk.eu/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: centrum-sciekow.pl
 slug: centrum-sciekow-pl
-title: Is centrum-sciekow.pl Legit? Trust Signal Check
+title: Is centrum-sciekow.pl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for centrum-sciekow.pl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  centrum-sciekow.pl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:21:34.519Z'
 finalUrl: 'https://centrum-sciekow.pl/'
 reachable: true

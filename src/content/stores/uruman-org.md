@@ -1,10 +1,10 @@
 ---
 domain: uruman.org
 slug: uruman-org
-title: Is uruman.org Legit? Trust Signal Check
+title: Is uruman.org Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for uruman.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  uruman.org scores 100/100 on our public trust checks. Established domain —
+  registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:44.203Z'
 finalUrl: 'https://uruman.org/'
 reachable: true

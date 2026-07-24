@@ -1,10 +1,10 @@
 ---
 domain: jesusandrose.org
 slug: jesusandrose-org
-title: Is jesusandrose.org Legit? Trust Signal Check
+title: Is jesusandrose.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for jesusandrose.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jesusandrose.org scores 88/100 on our public trust checks. Established domain
+  — registered 20.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:39.610Z'
 finalUrl: 'https://jesusandrose.org/'
 reachable: true

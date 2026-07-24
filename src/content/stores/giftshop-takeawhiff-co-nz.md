@@ -1,11 +1,10 @@
 ---
 domain: giftshop.takeawhiff.co.nz
 slug: giftshop-takeawhiff-co-nz
-title: Is giftshop.takeawhiff.co.nz Legit? Trust Signal Check
+title: Is giftshop.takeawhiff.co.nz Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for giftshop.takeawhiff.co.nz: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  giftshop.takeawhiff.co.nz scores 19/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T02:29:05.909Z'
 finalUrl: 'https://giftshop.takeawhiff.co.nz/'
 reachable: true

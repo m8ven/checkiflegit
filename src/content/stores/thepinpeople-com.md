@@ -1,10 +1,10 @@
 ---
 domain: thepinpeople.com
 slug: thepinpeople-com
-title: Is thepinpeople.com Legit? Trust Signal Check
+title: Is thepinpeople.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thepinpeople.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thepinpeople.com scores 100/100 on our public trust checks. Established domain
+  — registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:11.495Z'
 finalUrl: 'https://www.thepinpeople.com/'
 reachable: true

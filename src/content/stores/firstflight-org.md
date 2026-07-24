@@ -1,10 +1,10 @@
 ---
 domain: firstflight.org
 slug: firstflight-org
-title: Is firstflight.org Legit? Trust Signal Check
+title: Is firstflight.org Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for firstflight.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  firstflight.org scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:34:01.275Z'
 finalUrl: 'https://firstflight.org/'
 reachable: true

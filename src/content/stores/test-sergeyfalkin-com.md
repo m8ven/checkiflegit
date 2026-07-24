@@ -1,10 +1,10 @@
 ---
 domain: test.sergeyfalkin.com
 slug: test-sergeyfalkin-com
-title: Is test.sergeyfalkin.com Legit? Trust Signal Check
+title: Is test.sergeyfalkin.com Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for test.sergeyfalkin.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  test.sergeyfalkin.com scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:19:41.023Z'
 finalUrl: 'https://test.sergeyfalkin.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ladarsena151.com
 slug: ladarsena151-com
-title: Is ladarsena151.com Legit? Trust Signal Check
+title: Is ladarsena151.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ladarsena151.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ladarsena151.com scores 88/100 on our public trust checks. Established domain
+  — registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:34.587Z'
 finalUrl: 'https://ladarsena151.com/'
 reachable: true

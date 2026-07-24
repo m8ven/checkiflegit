@@ -1,10 +1,10 @@
 ---
 domain: lamaisondalice.fr
 slug: lamaisondalice-fr
-title: Is lamaisondalice.fr Legit? Trust Signal Check
+title: Is lamaisondalice.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lamaisondalice.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lamaisondalice.fr scores 88/100 on our public trust checks. Established domain
+  — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:24.443Z'
 finalUrl: 'https://lamaisondalice.fr/'
 reachable: true

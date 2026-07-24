@@ -1,10 +1,10 @@
 ---
 domain: floripadiscover.com.br
 slug: floripadiscover-com-br
-title: Is floripadiscover.com.br Legit? Trust Signal Check
+title: Is floripadiscover.com.br Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for floripadiscover.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  floripadiscover.com.br scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:45:26.485Z'
 finalUrl: 'https://floripadiscover.com.br/'
 reachable: true

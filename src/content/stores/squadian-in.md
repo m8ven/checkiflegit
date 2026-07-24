@@ -1,10 +1,10 @@
 ---
 domain: squadian.in
 slug: squadian-in
-title: Is squadian.in Legit? Trust Signal Check
+title: Is squadian.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for squadian.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  squadian.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:12:09.253Z'
 finalUrl: 'https://squadian.in/'
 reachable: true

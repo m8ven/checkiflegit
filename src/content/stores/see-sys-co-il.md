@@ -1,10 +1,10 @@
 ---
 domain: see-sys.co.il
 slug: see-sys-co-il
-title: Is see-sys.co.il Legit? Trust Signal Check
+title: Is see-sys.co.il Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for see-sys.co.il: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  see-sys.co.il scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:30:44.099Z'
 finalUrl: 'https://see-sys.co.il/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: confalone.com
 slug: confalone-com
-title: Is confalone.com Legit? Trust Signal Check
+title: Is confalone.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for confalone.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  confalone.com scores 76/100 on our public trust checks. Established domain —
+  registered 26.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:29:26.825Z'
 finalUrl: 'https://confalone.com/'
 reachable: true

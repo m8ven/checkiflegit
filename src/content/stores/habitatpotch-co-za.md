@@ -1,10 +1,10 @@
 ---
 domain: habitatpotch.co.za
 slug: habitatpotch-co-za
-title: Is habitatpotch.co.za Legit? Trust Signal Check
+title: Is habitatpotch.co.za Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for habitatpotch.co.za: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  habitatpotch.co.za scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:14:27.910Z'
 finalUrl: 'https://habitatpotch.co.za/'
 reachable: true

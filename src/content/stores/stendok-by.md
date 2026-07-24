@@ -1,10 +1,10 @@
 ---
 domain: stendok.by
 slug: stendok-by
-title: Is stendok.by Legit? Trust Signal Check
+title: Is stendok.by Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for stendok.by: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  stendok.by scores 82/100 on our public trust checks. Established domain —
+  registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:36.685Z'
 finalUrl: 'https://stendok.by/'
 reachable: true

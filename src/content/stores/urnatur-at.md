@@ -1,10 +1,10 @@
 ---
 domain: urnatur.at
 slug: urnatur-at
-title: Is urnatur.at Legit? Trust Signal Check
+title: Is urnatur.at Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for urnatur.at: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  urnatur.at scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:46.950Z'
 finalUrl: 'https://urnatur.at/'
 reachable: true

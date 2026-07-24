@@ -1,10 +1,10 @@
 ---
 domain: annalee.com
 slug: annalee-com
-title: Is annalee.com Legit? Trust Signal Check
+title: Is annalee.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for annalee.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  annalee.com scores 88/100 on our public trust checks. Established domain —
+  registered 30.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:00.948Z'
 finalUrl: 'https://annalee.com/'
 reachable: true

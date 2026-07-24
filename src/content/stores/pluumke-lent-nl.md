@@ -1,10 +1,10 @@
 ---
 domain: pluumke-lent.nl
 slug: pluumke-lent-nl
-title: Is pluumke-lent.nl Legit? Trust Signal Check
+title: Is pluumke-lent.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for pluumke-lent.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pluumke-lent.nl scores 82/100 on our public trust checks. Established domain —
+  registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:41:19.353Z'
 finalUrl: 'https://www.pluumke-lent.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: petify.ee
 slug: petify-ee
-title: Is petify.ee Legit? Trust Signal Check
+title: Is petify.ee Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for petify.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  petify.ee scores 70/100 on our public trust checks. Established domain —
+  registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:42.346Z'
 finalUrl: 'https://petify.ee/'
 reachable: true

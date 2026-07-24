@@ -1,10 +1,10 @@
 ---
 domain: humidor.hr
 slug: humidor-hr
-title: Is humidor.hr Legit? Trust Signal Check
+title: Is humidor.hr Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for humidor.hr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  humidor.hr scores 76/100 on our public trust checks. Established domain —
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:40.748Z'
 finalUrl: 'https://humidor.hr/hr/'
 reachable: true

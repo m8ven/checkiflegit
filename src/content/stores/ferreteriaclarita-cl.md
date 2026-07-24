@@ -1,10 +1,10 @@
 ---
 domain: ferreteriaclarita.cl
 slug: ferreteriaclarita-cl
-title: Is ferreteriaclarita.cl Legit? Trust Signal Check
+title: Is ferreteriaclarita.cl Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for ferreteriaclarita.cl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ferreteriaclarita.cl scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:17:38.414Z'
 finalUrl: 'https://www.ferreteriaclarita.cl/'
 reachable: true

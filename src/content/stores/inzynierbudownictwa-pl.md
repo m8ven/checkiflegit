@@ -1,10 +1,10 @@
 ---
 domain: inzynierbudownictwa.pl
 slug: inzynierbudownictwa-pl
-title: Is inzynierbudownictwa.pl Legit? Trust Signal Check
+title: Is inzynierbudownictwa.pl Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for inzynierbudownictwa.pl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  inzynierbudownictwa.pl scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:47:12.398Z'
 finalUrl: 'https://inzynierbudownictwa.pl/'
 reachable: true

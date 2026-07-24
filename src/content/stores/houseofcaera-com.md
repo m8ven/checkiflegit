@@ -1,10 +1,10 @@
 ---
 domain: houseofcaera.com
 slug: houseofcaera-com
-title: Is houseofcaera.com Legit? Trust Signal Check
+title: Is houseofcaera.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for houseofcaera.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  houseofcaera.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:52:07.247Z'
 finalUrl: 'https://houseofcaera.com/'
 reachable: true

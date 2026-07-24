@@ -1,10 +1,10 @@
 ---
 domain: peinturier.fr
 slug: peinturier-fr
-title: Is peinturier.fr Legit? Trust Signal Check
+title: Is peinturier.fr Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for peinturier.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  peinturier.fr scores 82/100 on our public trust checks. Established domain —
+  registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:51.739Z'
 finalUrl: 'https://peinturier.fr/'
 reachable: true

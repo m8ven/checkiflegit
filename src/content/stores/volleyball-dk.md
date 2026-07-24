@@ -1,10 +1,10 @@
 ---
 domain: volleyball.dk
 slug: volleyball-dk
-title: Is volleyball.dk Legit? Trust Signal Check
+title: Is volleyball.dk Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for volleyball.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  volleyball.dk scores 76/100 on our public trust checks. Established domain —
+  registered 29.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:26.031Z'
 finalUrl: 'https://volleyball.dk/'
 reachable: true

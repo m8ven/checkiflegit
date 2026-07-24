@@ -1,10 +1,10 @@
 ---
 domain: ramadan24.de
 slug: ramadan24-de
-title: Is ramadan24.de Legit? Trust Signal Check
+title: Is ramadan24.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ramadan24.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ramadan24.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:32:40.472Z'
 finalUrl: 'https://ramadan24.de/'
 reachable: true

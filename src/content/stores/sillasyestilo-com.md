@@ -1,10 +1,10 @@
 ---
 domain: sillasyestilo.com
 slug: sillasyestilo-com
-title: Is sillasyestilo.com Legit? Trust Signal Check
+title: Is sillasyestilo.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sillasyestilo.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sillasyestilo.com scores 100/100 on our public trust checks. Established
+  domain — registered 20 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:31:22.113Z'
 finalUrl: 'https://sillasyestilo.com/'
 reachable: true

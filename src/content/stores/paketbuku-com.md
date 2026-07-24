@@ -1,10 +1,11 @@
 ---
 domain: paketbuku.com
 slug: paketbuku-com
-title: Is paketbuku.com Legit? Trust Signal Check
+title: Is paketbuku.com Legit? Trust Score 34/100
 description: >-
-  An automated trust-signal check for paketbuku.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  paketbuku.com scores 34/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T15:26:32.790Z'
 finalUrl: 'https://paketbuku.com/'
 reachable: true

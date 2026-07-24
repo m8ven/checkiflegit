@@ -1,10 +1,10 @@
 ---
 domain: mordomias.pt
 slug: mordomias-pt
-title: Is mordomias.pt Legit? Trust Signal Check
+title: Is mordomias.pt Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for mordomias.pt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mordomias.pt scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:44:50.782Z'
 finalUrl: 'https://mordomias.pt/'
 reachable: true

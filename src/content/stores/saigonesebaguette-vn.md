@@ -1,10 +1,10 @@
 ---
 domain: saigonesebaguette.vn
 slug: saigonesebaguette-vn
-title: Is saigonesebaguette.vn Legit? Trust Signal Check
+title: Is saigonesebaguette.vn Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for saigonesebaguette.vn: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  saigonesebaguette.vn scores 57/100 on our public trust checks. Standard
+  contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:35:22.953Z'
 finalUrl: 'https://saigonesebaguette.vn/'
 reachable: true

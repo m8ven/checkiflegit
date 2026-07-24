@@ -1,10 +1,10 @@
 ---
 domain: haselhof-gaertnerei.ch
 slug: haselhof-gaertnerei-ch
-title: Is haselhof-gaertnerei.ch Legit? Trust Signal Check
+title: Is haselhof-gaertnerei.ch Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for haselhof-gaertnerei.ch: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  haselhof-gaertnerei.ch scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:48.132Z'
 finalUrl: 'https://haselhof-gaertnerei.ch/'
 reachable: true

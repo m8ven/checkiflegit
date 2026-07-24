@@ -1,10 +1,10 @@
 ---
 domain: pclima.bg
 slug: pclima-bg
-title: Is pclima.bg Legit? Trust Signal Check
+title: Is pclima.bg Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pclima.bg: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pclima.bg scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:45:27.399Z'
 finalUrl: 'https://pclima.bg/'
 reachable: true

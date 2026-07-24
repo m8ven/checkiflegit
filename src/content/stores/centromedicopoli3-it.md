@@ -1,10 +1,10 @@
 ---
 domain: centromedicopoli3.it
 slug: centromedicopoli3-it
-title: Is centromedicopoli3.it Legit? Trust Signal Check
+title: Is centromedicopoli3.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for centromedicopoli3.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  centromedicopoli3.it scores 100/100 on our public trust checks. Established
+  domain — registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:17.632Z'
 finalUrl: 'https://www.centromedicopoli3.it/'
 reachable: true

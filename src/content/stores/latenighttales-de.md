@@ -1,10 +1,10 @@
 ---
 domain: latenighttales.de
 slug: latenighttales-de
-title: Is latenighttales.de Legit? Trust Signal Check
+title: Is latenighttales.de Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for latenighttales.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  latenighttales.de scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:22:55.293Z'
 finalUrl: 'https://www.latenighttales.de/'
 reachable: true

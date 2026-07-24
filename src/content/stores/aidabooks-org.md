@@ -1,10 +1,10 @@
 ---
 domain: aidabooks.org
 slug: aidabooks-org
-title: Is aidabooks.org Legit? Trust Signal Check
+title: Is aidabooks.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for aidabooks.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aidabooks.org scores 100/100 on our public trust checks. Established domain —
+  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:40.484Z'
 finalUrl: 'https://aidabooks.org/'
 reachable: true

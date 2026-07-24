@@ -1,10 +1,10 @@
 ---
 domain: neveriachayos.com
 slug: neveriachayos-com
-title: Is neveriachayos.com Legit? Trust Signal Check
+title: Is neveriachayos.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for neveriachayos.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  neveriachayos.com scores 82/100 on our public trust checks. Established domain
+  — registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:05.378Z'
 finalUrl: 'https://neveriachayos.com/'
 reachable: true

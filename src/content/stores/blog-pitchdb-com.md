@@ -1,10 +1,10 @@
 ---
 domain: blog.pitchdb.com
 slug: blog-pitchdb-com
-title: Is blog.pitchdb.com Legit? Trust Signal Check
+title: Is blog.pitchdb.com Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for blog.pitchdb.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  blog.pitchdb.com scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:37:17.498Z'
 finalUrl: 'https://blog.pitchdb.com/'
 reachable: true

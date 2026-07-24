@@ -1,10 +1,10 @@
 ---
 domain: careexpress.com
 slug: careexpress-com
-title: Is careexpress.com Legit? Trust Signal Check
+title: Is careexpress.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for careexpress.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  careexpress.com scores 73/100 on our public trust checks. Established domain —
+  registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:11.109Z'
 finalUrl: 'https://careexpress.com/'
 reachable: true

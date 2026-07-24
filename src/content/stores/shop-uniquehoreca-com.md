@@ -1,10 +1,10 @@
 ---
 domain: shop.uniquehoreca.com
 slug: shop-uniquehoreca-com
-title: Is shop.uniquehoreca.com Legit? Trust Signal Check
+title: Is shop.uniquehoreca.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.uniquehoreca.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.uniquehoreca.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:43.690Z'
 finalUrl: 'https://shop.uniquehoreca.com/'
 reachable: true

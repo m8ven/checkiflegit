@@ -1,10 +1,10 @@
 ---
 domain: ramrajcotton.in
 slug: ramrajcotton-in
-title: Is ramrajcotton.in Legit? Trust Signal Check
+title: Is ramrajcotton.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ramrajcotton.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ramrajcotton.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-24T21:46:30.712Z'
 finalUrl: 'https://ramrajcotton.in/'
 reachable: true

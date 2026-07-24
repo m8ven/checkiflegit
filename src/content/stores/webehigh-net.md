@@ -1,10 +1,10 @@
 ---
 domain: webehigh.net
 slug: webehigh-net
-title: Is webehigh.net Legit? Trust Signal Check
+title: Is webehigh.net Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for webehigh.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  webehigh.net scores 73/100 on our public trust checks. Established domain —
+  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:17.843Z'
 finalUrl: 'https://webehigh.net/'
 reachable: true

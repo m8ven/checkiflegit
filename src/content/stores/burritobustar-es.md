@@ -1,10 +1,10 @@
 ---
 domain: burritobustar.es
 slug: burritobustar-es
-title: Is burritobustar.es Legit? Trust Signal Check
+title: Is burritobustar.es Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for burritobustar.es: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  burritobustar.es scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:21:47.241Z'
 finalUrl: 'https://burritobustar.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: diasflooring.es
 slug: diasflooring-es
-title: Is diasflooring.es Legit? Trust Signal Check
+title: Is diasflooring.es Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for diasflooring.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  diasflooring.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:41:43.800Z'
 finalUrl: 'https://diasflooring.es/'
 reachable: true

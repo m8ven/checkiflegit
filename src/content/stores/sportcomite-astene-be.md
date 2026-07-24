@@ -1,10 +1,10 @@
 ---
 domain: sportcomite-astene.be
 slug: sportcomite-astene-be
-title: Is sportcomite-astene.be Legit? Trust Signal Check
+title: Is sportcomite-astene.be Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sportcomite-astene.be: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sportcomite-astene.be scores 88/100 on our public trust checks. Established
+  domain — registered 20 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:36.847Z'
 finalUrl: 'https://www.sportcomite-astene.be/'
 reachable: true

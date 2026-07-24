@@ -1,10 +1,10 @@
 ---
 domain: griffinsgraphics.com
 slug: griffinsgraphics-com
-title: Is griffinsgraphics.com Legit? Trust Signal Check
+title: Is griffinsgraphics.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for griffinsgraphics.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  griffinsgraphics.com scores 64/100 on our public trust checks. Domain is
+  relatively young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:14:13.193Z'
 finalUrl: 'https://griffinsgraphics.com/'
 reachable: true

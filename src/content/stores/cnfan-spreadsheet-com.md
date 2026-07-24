@@ -1,11 +1,10 @@
 ---
 domain: cnfan-spreadsheet.com
 slug: cnfan-spreadsheet-com
-title: Is cnfan-spreadsheet.com Legit? Trust Signal Check
+title: Is cnfan-spreadsheet.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for cnfan-spreadsheet.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  cnfan-spreadsheet.com scores 25/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T15:39:06.085Z'
 finalUrl: 'https://cnfan-spreadsheet.com/'
 reachable: true

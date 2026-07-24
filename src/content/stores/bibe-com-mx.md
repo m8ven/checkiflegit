@@ -1,10 +1,10 @@
 ---
 domain: bibe.com.mx
 slug: bibe-com-mx
-title: Is bibe.com.mx Legit? Trust Signal Check
+title: Is bibe.com.mx Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bibe.com.mx: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bibe.com.mx scores 88/100 on our public trust checks. Established domain —
+  registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:23.289Z'
 finalUrl: 'https://bibe.com.mx/'
 reachable: true

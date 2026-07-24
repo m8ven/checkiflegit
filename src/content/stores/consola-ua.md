@@ -1,10 +1,10 @@
 ---
 domain: consola.ua
 slug: consola-ua
-title: Is consola.ua Legit? Trust Signal Check
+title: Is consola.ua Legit? Trust Score 16/100
 description: >-
-  An automated trust-signal check for consola.ua: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  consola.ua scores 16/100 on our public trust checks. Domain registered very
+  recently (58 days ago). No links to major social platforms found.
 fetchedAt: '2026-06-25T15:07:18.874Z'
 finalUrl: 'https://consola.ua/'
 reachable: true

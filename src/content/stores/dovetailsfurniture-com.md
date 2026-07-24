@@ -1,10 +1,10 @@
 ---
 domain: dovetailsfurniture.com
 slug: dovetailsfurniture-com
-title: Is dovetailsfurniture.com Legit? Trust Signal Check
+title: Is dovetailsfurniture.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for dovetailsfurniture.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dovetailsfurniture.com scores 73/100 on our public trust checks. Established
+  domain — registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:26.484Z'
 finalUrl: 'https://dovetailsfurniture.com/'
 reachable: true

@@ -1,11 +1,10 @@
 ---
 domain: shop.peeing-outdoors.com
 slug: shop-peeing-outdoors-com
-title: Is shop.peeing-outdoors.com Legit? Trust Signal Check
+title: Is shop.peeing-outdoors.com Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for shop.peeing-outdoors.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  shop.peeing-outdoors.com scores 44/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:45:14.215Z'
 finalUrl: 'https://shop.peeing-outdoors.com/'
 reachable: true

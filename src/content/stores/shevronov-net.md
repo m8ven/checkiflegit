@@ -1,10 +1,10 @@
 ---
 domain: shevronov.net
 slug: shevronov-net
-title: Is shevronov.net Legit? Trust Signal Check
+title: Is shevronov.net Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for shevronov.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shevronov.net scores 73/100 on our public trust checks. Established domain —
+  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:23.880Z'
 finalUrl: 'https://shevronov.net/'
 reachable: true

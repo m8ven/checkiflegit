@@ -1,10 +1,10 @@
 ---
 domain: bertocco.it
 slug: bertocco-it
-title: Is bertocco.it Legit? Trust Signal Check
+title: Is bertocco.it Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bertocco.it: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bertocco.it scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:20:41.379Z'
 finalUrl: 'https://bertocco.it/'
 reachable: true

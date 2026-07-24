@@ -1,10 +1,10 @@
 ---
 domain: nuveylive.com
 slug: nuveylive-com
-title: Is nuveylive.com Legit? Trust Signal Check
+title: Is nuveylive.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for nuveylive.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  nuveylive.com scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage. Domain is relatively young.
 fetchedAt: '2026-06-25T12:23:59.414Z'
 finalUrl: 'https://nuveylive.com/'
 reachable: true

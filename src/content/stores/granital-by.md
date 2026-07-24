@@ -1,10 +1,10 @@
 ---
 domain: granital.by
 slug: granital-by
-title: Is granital.by Legit? Trust Signal Check
+title: Is granital.by Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for granital.by: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  granital.by scores 82/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:40.202Z'
 finalUrl: 'https://granital.by/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: bildelarosby.se
 slug: bildelarosby-se
-title: Is bildelarosby.se Legit? Trust Signal Check
+title: Is bildelarosby.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bildelarosby.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bildelarosby.se scores 88/100 on our public trust checks. Established domain —
+  registered 28.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:32.270Z'
 finalUrl: 'https://bildelarosby.se/'
 reachable: true

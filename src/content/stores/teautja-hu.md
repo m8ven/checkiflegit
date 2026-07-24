@@ -1,10 +1,10 @@
 ---
 domain: teautja.hu
 slug: teautja-hu
-title: Is teautja.hu Legit? Trust Signal Check
+title: Is teautja.hu Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for teautja.hu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  teautja.hu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:04:39.733Z'
 finalUrl: 'https://teautja.hu/'
 reachable: true

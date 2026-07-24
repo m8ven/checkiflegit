@@ -1,10 +1,10 @@
 ---
 domain: iconografia.com.mx
 slug: iconografia-com-mx
-title: Is iconografia.com.mx Legit? Trust Signal Check
+title: Is iconografia.com.mx Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for iconografia.com.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  iconografia.com.mx scores 100/100 on our public trust checks. Established
+  domain — registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:19.893Z'
 finalUrl: 'https://iconografia.com.mx/'
 reachable: true

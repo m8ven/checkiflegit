@@ -1,10 +1,10 @@
 ---
 domain: petlandfrisco.com
 slug: petlandfrisco-com
-title: Is petlandfrisco.com Legit? Trust Signal Check
+title: Is petlandfrisco.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for petlandfrisco.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  petlandfrisco.com scores 100/100 on our public trust checks. Established
+  domain — registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:53.967Z'
 finalUrl: 'https://www.petlandfrisco.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vrcentrum.cz
 slug: vrcentrum-cz
-title: Is vrcentrum.cz Legit? Trust Signal Check
+title: Is vrcentrum.cz Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for vrcentrum.cz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vrcentrum.cz scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:49:58.850Z'
 finalUrl: 'https://vrcentrum.cz/'
 reachable: true

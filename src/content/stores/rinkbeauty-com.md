@@ -1,10 +1,10 @@
 ---
 domain: rinkbeauty.com
 slug: rinkbeauty-com
-title: Is rinkbeauty.com Legit? Trust Signal Check
+title: Is rinkbeauty.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for rinkbeauty.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rinkbeauty.com scores 82/100 on our public trust checks. Established domain —
+  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:56.482Z'
 finalUrl: 'https://rinkbeauty.com/'
 reachable: true

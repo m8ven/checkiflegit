@@ -1,10 +1,10 @@
 ---
 domain: covidarms.com
 slug: covidarms-com
-title: Is covidarms.com Legit? Trust Signal Check
+title: Is covidarms.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for covidarms.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  covidarms.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:16:03.437Z'
 finalUrl: 'https://www.covidarms.com/'
 reachable: true

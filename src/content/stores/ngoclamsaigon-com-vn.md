@@ -1,10 +1,10 @@
 ---
 domain: ngoclamsaigon.com.vn
 slug: ngoclamsaigon-com-vn
-title: Is ngoclamsaigon.com.vn Legit? Trust Signal Check
+title: Is ngoclamsaigon.com.vn Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ngoclamsaigon.com.vn: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ngoclamsaigon.com.vn scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:55:45.845Z'
 finalUrl: 'https://ngoclamsaigon.com.vn/'
 reachable: true

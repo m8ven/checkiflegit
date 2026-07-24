@@ -1,10 +1,10 @@
 ---
 domain: cerasus.ro
 slug: cerasus-ro
-title: Is cerasus.ro Legit? Trust Signal Check
+title: Is cerasus.ro Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cerasus.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cerasus.ro scores 76/100 on our public trust checks. Established domain —
+  registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:05:38.028Z'
 finalUrl: 'https://cerasus.ro/'
 reachable: true

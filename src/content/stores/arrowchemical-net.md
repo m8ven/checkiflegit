@@ -1,10 +1,10 @@
 ---
 domain: arrowchemical.net
 slug: arrowchemical-net
-title: Is arrowchemical.net Legit? Trust Signal Check
+title: Is arrowchemical.net Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for arrowchemical.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arrowchemical.net scores 73/100 on our public trust checks. Established domain
+  — registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:58:07.586Z'
 finalUrl: 'https://arrowchemical.net/'
 reachable: true

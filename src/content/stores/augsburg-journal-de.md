@@ -1,10 +1,10 @@
 ---
 domain: augsburg-journal.de
 slug: augsburg-journal-de
-title: Is augsburg-journal.de Legit? Trust Signal Check
+title: Is augsburg-journal.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for augsburg-journal.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  augsburg-journal.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:28:49.070Z'
 finalUrl: 'https://www.augsburg-journal.de/'
 reachable: true

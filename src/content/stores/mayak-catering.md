@@ -1,10 +1,11 @@
 ---
 domain: mayak.catering
 slug: mayak-catering
-title: Is mayak.catering Legit? Trust Signal Check
+title: Is mayak.catering Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mayak.catering: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mayak.catering scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:35:53.242Z'
 finalUrl: 'https://mayak.catering/'
 reachable: true

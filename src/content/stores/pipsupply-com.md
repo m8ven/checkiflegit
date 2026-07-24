@@ -1,10 +1,10 @@
 ---
 domain: pipsupply.com
 slug: pipsupply-com
-title: Is pipsupply.com Legit? Trust Signal Check
+title: Is pipsupply.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pipsupply.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pipsupply.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T15:21:30.161Z'
 finalUrl: 'https://pipsupply.com/'
 reachable: true

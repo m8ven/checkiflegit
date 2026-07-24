@@ -1,10 +1,10 @@
 ---
 domain: 11minimarket.com
 slug: 11minimarket-com
-title: Is 11minimarket.com Legit? Trust Signal Check
+title: Is 11minimarket.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for 11minimarket.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  11minimarket.com scores 70/100 on our public trust checks. Established domain
+  — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:08.100Z'
 finalUrl: 'https://11minimarket.com/'
 reachable: true

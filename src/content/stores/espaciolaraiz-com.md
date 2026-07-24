@@ -1,10 +1,10 @@
 ---
 domain: espaciolaraiz.com
 slug: espaciolaraiz-com
-title: Is espaciolaraiz.com Legit? Trust Signal Check
+title: Is espaciolaraiz.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for espaciolaraiz.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  espaciolaraiz.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:44:00.572Z'
 finalUrl: 'https://espaciolaraiz.com/'
 reachable: true

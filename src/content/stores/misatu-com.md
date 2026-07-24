@@ -1,10 +1,10 @@
 ---
 domain: misatu.com
 slug: misatu-com
-title: Is misatu.com Legit? Trust Signal Check
+title: Is misatu.com Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for misatu.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  misatu.com scores 94/100 on our public trust checks. Established domain —
+  registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:06.955Z'
 finalUrl: 'https://www.misatu.com/'
 reachable: true

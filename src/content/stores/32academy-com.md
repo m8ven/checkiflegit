@@ -1,10 +1,10 @@
 ---
 domain: 32academy.com
 slug: 32academy-com
-title: Is 32academy.com Legit? Trust Signal Check
+title: Is 32academy.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for 32academy.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  32academy.com scores 100/100 on our public trust checks. Has a contact page
+  and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:45:10.385Z'
 finalUrl: 'https://32academy.com/'
 reachable: true

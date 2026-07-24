@@ -1,10 +1,10 @@
 ---
 domain: padangos-ratlankiai.lt
 slug: padangos-ratlankiai-lt
-title: Is padangos-ratlankiai.lt Legit? Trust Signal Check
+title: Is padangos-ratlankiai.lt Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for padangos-ratlankiai.lt: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  padangos-ratlankiai.lt scores 73/100 on our public trust checks. Established
+  domain — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:25.280Z'
 finalUrl: 'https://www.padangos-ratlankiai.lt/'
 reachable: true

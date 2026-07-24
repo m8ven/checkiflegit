@@ -1,11 +1,10 @@
 ---
 domain: bhawanienterprises.net
 slug: bhawanienterprises-net
-title: Is bhawanienterprises.net Legit? Trust Signal Check
+title: Is bhawanienterprises.net Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for bhawanienterprises.net: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  bhawanienterprises.net scores 43/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T12:41:10.083Z'
 finalUrl: 'http://bhawanienterprises.net/'
 reachable: true

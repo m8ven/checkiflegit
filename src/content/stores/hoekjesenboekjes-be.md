@@ -1,10 +1,10 @@
 ---
 domain: hoekjesenboekjes.be
 slug: hoekjesenboekjes-be
-title: Is hoekjesenboekjes.be Legit? Trust Signal Check
+title: Is hoekjesenboekjes.be Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for hoekjesenboekjes.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hoekjesenboekjes.be scores 88/100 on our public trust checks. Established
+  domain — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:42.243Z'
 finalUrl: 'https://hoekjesenboekjes.be/'
 reachable: true

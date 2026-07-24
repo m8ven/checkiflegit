@@ -1,10 +1,10 @@
 ---
 domain: jyart.tw
 slug: jyart-tw
-title: Is jyart.tw Legit? Trust Signal Check
+title: Is jyart.tw Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for jyart.tw: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jyart.tw scores 49/100 on our public trust checks. Standard contact and policy
+  pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:35:37.564Z'
 finalUrl: 'https://www.jyart.tw/'
 reachable: true

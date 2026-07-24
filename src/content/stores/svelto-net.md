@@ -1,10 +1,10 @@
 ---
 domain: svelto.net
 slug: svelto-net
-title: Is svelto.net Legit? Trust Signal Check
+title: Is svelto.net Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for svelto.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  svelto.net scores 70/100 on our public trust checks. Established domain —
+  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:32.442Z'
 finalUrl: 'https://svelto.net/'
 reachable: true

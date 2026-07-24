@@ -1,10 +1,11 @@
 ---
 domain: chaossphere.de
 slug: chaossphere-de
-title: Is chaossphere.de Legit? Trust Signal Check
+title: Is chaossphere.de Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for chaossphere.de: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  chaossphere.de scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:15:19.870Z'
 finalUrl: 'https://www.chaossphere.de/'
 reachable: true

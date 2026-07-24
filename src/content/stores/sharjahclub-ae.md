@@ -1,10 +1,10 @@
 ---
 domain: sharjahclub.ae
 slug: sharjahclub-ae
-title: Is sharjahclub.ae Legit? Trust Signal Check
+title: Is sharjahclub.ae Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for sharjahclub.ae: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sharjahclub.ae scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:50:57.557Z'
 finalUrl: 'https://sharjahclub.ae/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ellert.at
 slug: ellert-at
-title: Is ellert.at Legit? Trust Signal Check
+title: Is ellert.at Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ellert.at: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ellert.at scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:54:56.019Z'
 finalUrl: 'https://ellert.at/'
 reachable: true

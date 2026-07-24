@@ -1,10 +1,10 @@
 ---
 domain: rclirrigation.co.uk
 slug: rclirrigation-co-uk
-title: Is rclirrigation.co.uk Legit? Trust Signal Check
+title: Is rclirrigation.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rclirrigation.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rclirrigation.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 12 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:25.899Z'
 finalUrl: 'https://www.rclirrigation.co.uk/'
 reachable: true

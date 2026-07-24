@@ -1,10 +1,10 @@
 ---
 domain: animalsunited.de
 slug: animalsunited-de
-title: Is animalsunited.de Legit? Trust Signal Check
+title: Is animalsunited.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for animalsunited.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  animalsunited.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:59:31.730Z'
 finalUrl: 'https://animalsunited.de/'
 reachable: true

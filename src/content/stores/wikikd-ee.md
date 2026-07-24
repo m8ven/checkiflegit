@@ -1,10 +1,10 @@
 ---
 domain: wikikd.ee
 slug: wikikd-ee
-title: Is wikikd.ee Legit? Trust Signal Check
+title: Is wikikd.ee Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for wikikd.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  wikikd.ee scores 82/100 on our public trust checks. Established domain —
+  registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:52.109Z'
 finalUrl: 'https://wikikd.ee/'
 reachable: true

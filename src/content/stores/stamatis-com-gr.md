@@ -1,10 +1,10 @@
 ---
 domain: stamatis.com.gr
 slug: stamatis-com-gr
-title: Is stamatis.com.gr Legit? Trust Signal Check
+title: Is stamatis.com.gr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for stamatis.com.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stamatis.com.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:39:37.221Z'
 finalUrl: 'https://stamatis.com.gr/'
 reachable: true

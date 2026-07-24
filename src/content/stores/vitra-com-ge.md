@@ -1,10 +1,10 @@
 ---
 domain: vitra.com.ge
 slug: vitra-com-ge
-title: Is vitra.com.ge Legit? Trust Signal Check
+title: Is vitra.com.ge Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for vitra.com.ge: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vitra.com.ge scores 88/100 on our public trust checks. Established domain —
+  registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:05.576Z'
 finalUrl: 'https://vitra.com.ge/ka/'
 reachable: true

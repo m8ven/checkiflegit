@@ -1,10 +1,11 @@
 ---
 domain: megastroy32.ru
 slug: megastroy32-ru
-title: Is megastroy32.ru Legit? Trust Signal Check
+title: Is megastroy32.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for megastroy32.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  megastroy32.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:36:17.162Z'
 finalUrl: 'https://megastroy32.ru/'
 reachable: true

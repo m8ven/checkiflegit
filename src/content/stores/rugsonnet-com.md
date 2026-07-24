@@ -1,10 +1,10 @@
 ---
 domain: rugsonnet.com
 slug: rugsonnet-com
-title: Is rugsonnet.com Legit? Trust Signal Check
+title: Is rugsonnet.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rugsonnet.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rugsonnet.com scores 88/100 on our public trust checks. Established domain —
+  registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:42.228Z'
 finalUrl: 'https://rugsonnet.com/'
 reachable: true

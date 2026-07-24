@@ -1,10 +1,10 @@
 ---
 domain: butikk.padda.no
 slug: butikk-padda-no
-title: Is butikk.padda.no Legit? Trust Signal Check
+title: Is butikk.padda.no Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for butikk.padda.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  butikk.padda.no scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:38:00.160Z'
 finalUrl: 'https://butikk.padda.no/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: hex-hex.net
 slug: hex-hex-net
-title: Is hex-hex.net Legit? Trust Signal Check
+title: Is hex-hex.net Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hex-hex.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hex-hex.net scores 82/100 on our public trust checks. Established domain —
+  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:46.520Z'
 finalUrl: 'https://hex-hex.net/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: podari-mylo.ru
 slug: podari-mylo-ru
-title: Is podari-mylo.ru Legit? Trust Signal Check
+title: Is podari-mylo.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for podari-mylo.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  podari-mylo.ru scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T11:56:30.589Z'
 finalUrl: 'https://podari-mylo.ru/'
 reachable: true

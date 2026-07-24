@@ -1,10 +1,10 @@
 ---
 domain: shop.greenpeace.it
 slug: shop-greenpeace-it
-title: Is shop.greenpeace.it Legit? Trust Signal Check
+title: Is shop.greenpeace.it Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for shop.greenpeace.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.greenpeace.it scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:31:13.658Z'
 finalUrl: 'https://shop.greenpeace.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mariomendeslda.pt
 slug: mariomendeslda-pt
-title: Is mariomendeslda.pt Legit? Trust Signal Check
+title: Is mariomendeslda.pt Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for mariomendeslda.pt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mariomendeslda.pt scores 82/100 on our public trust checks. Established domain
+  — registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:18.113Z'
 finalUrl: 'https://mariomendeslda.pt/'
 reachable: true

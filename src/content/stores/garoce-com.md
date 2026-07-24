@@ -1,10 +1,10 @@
 ---
 domain: garoce.com
 slug: garoce-com
-title: Is garoce.com Legit? Trust Signal Check
+title: Is garoce.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for garoce.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  garoce.com scores 88/100 on our public trust checks. Established domain —
+  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:48.537Z'
 finalUrl: 'https://garoce.com/'
 reachable: true

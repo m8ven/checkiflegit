@@ -1,10 +1,10 @@
 ---
 domain: eco-stylist.com
 slug: eco-stylist-com
-title: Is eco-stylist.com Legit? Trust Signal Check
+title: Is eco-stylist.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for eco-stylist.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eco-stylist.com scores 70/100 on our public trust checks. Established domain —
+  registered 8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:46.160Z'
 finalUrl: 'https://www.eco-stylist.com/'
 reachable: true

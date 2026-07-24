@@ -1,10 +1,10 @@
 ---
 domain: 3mamcukier.pl
 slug: 3mamcukier-pl
-title: Is 3mamcukier.pl Legit? Trust Signal Check
+title: Is 3mamcukier.pl Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for 3mamcukier.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  3mamcukier.pl scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:16:24.324Z'
 finalUrl: 'https://3mamcukier.pl/'
 reachable: true

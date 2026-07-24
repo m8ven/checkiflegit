@@ -1,10 +1,10 @@
 ---
 domain: wolnomularstwo.pl
 slug: wolnomularstwo-pl
-title: Is wolnomularstwo.pl Legit? Trust Signal Check
+title: Is wolnomularstwo.pl Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for wolnomularstwo.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wolnomularstwo.pl scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:38:34.055Z'
 finalUrl: 'https://wolnomularstwo.pl/'
 reachable: true

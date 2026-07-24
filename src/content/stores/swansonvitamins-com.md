@@ -1,10 +1,10 @@
 ---
 domain: swansonvitamins.com
 slug: swansonvitamins-com
-title: Is swansonvitamins.com Legit? Trust Signal Check
+title: Is swansonvitamins.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for swansonvitamins.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  swansonvitamins.com scores 100/100 on our public trust checks. Established
+  domain — registered 27.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:04.085Z'
 finalUrl: 'https://www.swansonvitamins.com/'
 reachable: true

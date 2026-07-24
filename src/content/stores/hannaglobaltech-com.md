@@ -1,10 +1,10 @@
 ---
 domain: hannaglobaltech.com
 slug: hannaglobaltech-com
-title: Is hannaglobaltech.com Legit? Trust Signal Check
+title: Is hannaglobaltech.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for hannaglobaltech.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hannaglobaltech.com scores 73/100 on our public trust checks. Established
+  domain — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:34.417Z'
 finalUrl: 'https://hannaglobaltech.com/'
 reachable: true

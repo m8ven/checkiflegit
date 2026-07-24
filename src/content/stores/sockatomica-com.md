@@ -1,10 +1,10 @@
 ---
 domain: sockatomica.com
 slug: sockatomica-com
-title: Is sockatomica.com Legit? Trust Signal Check
+title: Is sockatomica.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sockatomica.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sockatomica.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:08.074Z'
 finalUrl: 'https://sockatomica.com/'
 reachable: true

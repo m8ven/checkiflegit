@@ -1,10 +1,10 @@
 ---
 domain: softcare.fi
 slug: softcare-fi
-title: Is softcare.fi Legit? Trust Signal Check
+title: Is softcare.fi Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for softcare.fi: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  softcare.fi scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:22:04.543Z'
 finalUrl: 'https://www.softcare.fi/'
 reachable: true

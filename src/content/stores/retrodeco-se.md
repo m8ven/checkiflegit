@@ -1,10 +1,10 @@
 ---
 domain: retrodeco.se
 slug: retrodeco-se
-title: Is retrodeco.se Legit? Trust Signal Check
+title: Is retrodeco.se Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for retrodeco.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  retrodeco.se scores 76/100 on our public trust checks. Public business contact
+  details are listed. Maintains links to multiple social media platforms.
 fetchedAt: '2026-06-25T11:58:30.264Z'
 finalUrl: 'https://retrodeco.se/'
 reachable: true

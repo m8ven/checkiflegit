@@ -1,10 +1,10 @@
 ---
 domain: magiskemasker.no
 slug: magiskemasker-no
-title: Is magiskemasker.no Legit? Trust Signal Check
+title: Is magiskemasker.no Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for magiskemasker.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  magiskemasker.no scores 88/100 on our public trust checks. Established domain
+  — registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:17.356Z'
 finalUrl: 'https://magiskemasker.no/'
 reachable: true

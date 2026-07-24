@@ -1,10 +1,11 @@
 ---
 domain: techphant.cn
 slug: techphant-cn
-title: Is techphant.cn Legit? Trust Signal Check
+title: Is techphant.cn Legit? Trust Score 51/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for techphant.cn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  techphant.cn scores 51/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:28:11.359Z'
 finalUrl: 'https://www.techphant.cn/'
 reachable: true

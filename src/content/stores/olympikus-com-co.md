@@ -1,10 +1,10 @@
 ---
 domain: olympikus.com.co
 slug: olympikus-com-co
-title: Is olympikus.com.co Legit? Trust Signal Check
+title: Is olympikus.com.co Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for olympikus.com.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  olympikus.com.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:46:30.662Z'
 finalUrl: 'https://olympikus.com.co/'
 reachable: true

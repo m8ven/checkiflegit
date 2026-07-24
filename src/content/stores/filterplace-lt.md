@@ -1,10 +1,10 @@
 ---
 domain: filterplace.lt
 slug: filterplace-lt
-title: Is filterplace.lt Legit? Trust Signal Check
+title: Is filterplace.lt Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for filterplace.lt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  filterplace.lt scores 76/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:23.715Z'
 finalUrl: 'https://filterplace.lt/'
 reachable: true

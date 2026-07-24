@@ -1,10 +1,10 @@
 ---
 domain: easyspaparts.com
 slug: easyspaparts-com
-title: Is easyspaparts.com Legit? Trust Signal Check
+title: Is easyspaparts.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for easyspaparts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  easyspaparts.com scores 85/100 on our public trust checks. Established domain
+  — registered 21.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:06.056Z'
 finalUrl: 'https://easyspaparts.com/'
 reachable: true

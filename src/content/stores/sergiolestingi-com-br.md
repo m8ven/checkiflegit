@@ -1,11 +1,11 @@
 ---
 domain: sergiolestingi.com.br
 slug: sergiolestingi-com-br
-title: Is sergiolestingi.com.br Legit? Trust Signal Check
+title: Is sergiolestingi.com.br Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for sergiolestingi.com.br: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  sergiolestingi.com.br scores 19/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:02:36.007Z'
 finalUrl: 'https://sergiolestingi.com.br/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: elbocaodealbacete.com
 slug: elbocaodealbacete-com
-title: Is elbocaodealbacete.com Legit? Trust Signal Check
+title: Is elbocaodealbacete.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for elbocaodealbacete.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  elbocaodealbacete.com scores 100/100 on our public trust checks. Established
+  domain — registered 15 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:25.581Z'
 finalUrl: 'https://elbocaodealbacete.com/'
 reachable: true

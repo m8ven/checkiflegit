@@ -1,10 +1,10 @@
 ---
 domain: bodenfachhandel-hamburg.de
 slug: bodenfachhandel-hamburg-de
-title: Is bodenfachhandel-hamburg.de Legit? Trust Signal Check
+title: Is bodenfachhandel-hamburg.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bodenfachhandel-hamburg.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bodenfachhandel-hamburg.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:14.111Z'
 finalUrl: 'https://bodenfachhandel-hamburg.de/'
 reachable: true

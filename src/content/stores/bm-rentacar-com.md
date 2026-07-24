@@ -1,10 +1,10 @@
 ---
 domain: bm-rentacar.com
 slug: bm-rentacar-com
-title: Is bm-rentacar.com Legit? Trust Signal Check
+title: Is bm-rentacar.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for bm-rentacar.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bm-rentacar.com scores 73/100 on our public trust checks. Established domain —
+  registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:37:24.499Z'
 finalUrl: 'https://bm-rentacar.com/'
 reachable: true

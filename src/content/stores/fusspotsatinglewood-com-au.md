@@ -1,10 +1,10 @@
 ---
 domain: fusspotsatinglewood.com.au
 slug: fusspotsatinglewood-com-au
-title: Is fusspotsatinglewood.com.au Legit? Trust Signal Check
+title: Is fusspotsatinglewood.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fusspotsatinglewood.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fusspotsatinglewood.com.au scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:39.343Z'
 finalUrl: 'https://fusspotsatinglewood.com.au/'
 reachable: true

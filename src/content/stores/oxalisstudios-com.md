@@ -1,10 +1,10 @@
 ---
 domain: oxalisstudios.com
 slug: oxalisstudios-com
-title: Is oxalisstudios.com Legit? Trust Signal Check
+title: Is oxalisstudios.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for oxalisstudios.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  oxalisstudios.com scores 88/100 on our public trust checks. Established domain
+  — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:20.848Z'
 finalUrl: 'https://oxalisstudios.com/'
 reachable: true

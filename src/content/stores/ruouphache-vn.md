@@ -1,10 +1,10 @@
 ---
 domain: ruouphache.vn
 slug: ruouphache-vn
-title: Is ruouphache.vn Legit? Trust Signal Check
+title: Is ruouphache.vn Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ruouphache.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ruouphache.vn scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:43:27.385Z'
 finalUrl: 'https://ruouphache.vn/'
 reachable: true

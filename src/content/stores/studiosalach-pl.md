@@ -1,10 +1,10 @@
 ---
 domain: studiosalach.pl
 slug: studiosalach-pl
-title: Is studiosalach.pl Legit? Trust Signal Check
+title: Is studiosalach.pl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for studiosalach.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  studiosalach.pl scores 88/100 on our public trust checks. Established domain —
+  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:52.956Z'
 finalUrl: 'https://studiosalach.pl/'
 reachable: true

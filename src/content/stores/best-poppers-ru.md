@@ -1,10 +1,10 @@
 ---
 domain: best-poppers.ru
 slug: best-poppers-ru
-title: Is best-poppers.ru Legit? Trust Signal Check
+title: Is best-poppers.ru Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for best-poppers.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  best-poppers.ru scores 88/100 on our public trust checks. Established domain —
+  registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:16.017Z'
 finalUrl: 'https://best-poppers.ru/'
 reachable: true

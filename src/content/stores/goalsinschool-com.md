@@ -1,10 +1,10 @@
 ---
 domain: goalsinschool.com
 slug: goalsinschool-com
-title: Is goalsinschool.com Legit? Trust Signal Check
+title: Is goalsinschool.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for goalsinschool.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  goalsinschool.com scores 73/100 on our public trust checks. Established domain
+  — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:43.588Z'
 finalUrl: 'https://goalsinschool.com/'
 reachable: true

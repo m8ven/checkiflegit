@@ -1,10 +1,10 @@
 ---
 domain: tugraotocikma.com
 slug: tugraotocikma-com
-title: Is tugraotocikma.com Legit? Trust Signal Check
+title: Is tugraotocikma.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for tugraotocikma.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tugraotocikma.com scores 73/100 on our public trust checks. Established domain
+  — registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:27.146Z'
 finalUrl: 'https://tugraotocikma.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tbike.cz
 slug: tbike-cz
-title: Is tbike.cz Legit? Trust Signal Check
+title: Is tbike.cz Legit? Trust Score 36/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for tbike.cz: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  tbike.cz scores 36/100 on our public trust checks. Standard contact and policy
+  pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:47:11.357Z'
 finalUrl: 'https://tbike.cz/'
 reachable: true

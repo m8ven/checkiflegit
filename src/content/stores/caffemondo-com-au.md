@@ -1,10 +1,10 @@
 ---
 domain: caffemondo.com.au
 slug: caffemondo-com-au
-title: Is caffemondo.com.au Legit? Trust Signal Check
+title: Is caffemondo.com.au Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for caffemondo.com.au: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  caffemondo.com.au scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:36.023Z'
 finalUrl: 'https://caffemondo.com.au/'
 reachable: true

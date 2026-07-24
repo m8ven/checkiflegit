@@ -1,10 +1,10 @@
 ---
 domain: robertpietri.com
 slug: robertpietri-com
-title: Is robertpietri.com Legit? Trust Signal Check
+title: Is robertpietri.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for robertpietri.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  robertpietri.com scores 85/100 on our public trust checks. Established domain
+  — registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:56.578Z'
 finalUrl: 'https://robertpietri.com/'
 reachable: true

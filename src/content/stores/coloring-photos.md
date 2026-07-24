@@ -1,10 +1,11 @@
 ---
 domain: coloring.photos
 slug: coloring-photos
-title: Is coloring.photos Legit? Trust Signal Check
+title: Is coloring.photos Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for coloring.photos: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  coloring.photos scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:28:51.021Z'
 finalUrl: 'https://coloring.photos/'
 reachable: true

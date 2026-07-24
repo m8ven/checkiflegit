@@ -1,10 +1,10 @@
 ---
 domain: g-kenterprise.com
 slug: g-kenterprise-com
-title: Is g-kenterprise.com Legit? Trust Signal Check
+title: Is g-kenterprise.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for g-kenterprise.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  g-kenterprise.com scores 94/100 on our public trust checks. Established domain
+  — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:19.207Z'
 finalUrl: 'https://g-kenterprise.com/'
 reachable: true

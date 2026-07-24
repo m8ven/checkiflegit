@@ -1,10 +1,10 @@
 ---
 domain: lacompagnieducafe.com
 slug: lacompagnieducafe-com
-title: Is lacompagnieducafe.com Legit? Trust Signal Check
+title: Is lacompagnieducafe.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lacompagnieducafe.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lacompagnieducafe.com scores 88/100 on our public trust checks. Established
+  domain — registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:25.822Z'
 finalUrl: 'https://lacompagnieducafe.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: photonyaa.com
 slug: photonyaa-com
-title: Is photonyaa.com Legit? Trust Signal Check
+title: Is photonyaa.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for photonyaa.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  photonyaa.com scores 100/100 on our public trust checks. Established domain —
+  registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:05.699Z'
 finalUrl: 'https://photonyaa.com/'
 reachable: true

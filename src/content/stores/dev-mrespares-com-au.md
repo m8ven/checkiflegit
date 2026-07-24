@@ -1,10 +1,10 @@
 ---
 domain: dev.mrespares.com.au
 slug: dev-mrespares-com-au
-title: Is dev.mrespares.com.au Legit? Trust Signal Check
+title: Is dev.mrespares.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for dev.mrespares.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dev.mrespares.com.au scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:30.913Z'
 finalUrl: 'https://dev.mrespares.com.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sunxlaptop.lk
 slug: sunxlaptop-lk
-title: Is sunxlaptop.lk Legit? Trust Signal Check
+title: Is sunxlaptop.lk Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for sunxlaptop.lk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sunxlaptop.lk scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:40:14.424Z'
 finalUrl: 'https://sunxlaptop.lk/'
 reachable: true

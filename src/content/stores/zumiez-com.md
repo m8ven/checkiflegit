@@ -1,10 +1,10 @@
 ---
 domain: zumiez.com
 slug: zumiez-com
-title: Is zumiez.com Legit? Trust Signal Check
+title: Is zumiez.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for zumiez.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  zumiez.com scores 43/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-24T21:46:29.784Z'
 finalUrl: 'https://www.zumiez.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: petvillage.gr
 slug: petvillage-gr
-title: Is petvillage.gr Legit? Trust Signal Check
+title: Is petvillage.gr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for petvillage.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  petvillage.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:47:31.171Z'
 finalUrl: 'https://petvillage.gr/'
 reachable: true

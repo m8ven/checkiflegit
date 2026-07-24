@@ -1,10 +1,10 @@
 ---
 domain: kormi.xyz
 slug: kormi-xyz
-title: Is kormi.xyz Legit? Trust Signal Check
+title: Is kormi.xyz Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for kormi.xyz: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  kormi.xyz scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:42:56.393Z'
 finalUrl: 'https://kormi.xyz/'
 reachable: true

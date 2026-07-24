@@ -1,10 +1,10 @@
 ---
 domain: lamourartisans.com
 slug: lamourartisans-com
-title: Is lamourartisans.com Legit? Trust Signal Check
+title: Is lamourartisans.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for lamourartisans.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lamourartisans.com scores 94/100 on our public trust checks. Established
+  domain — registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:28.068Z'
 finalUrl: 'https://lamourartisans.com/'
 reachable: true

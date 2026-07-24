@@ -1,10 +1,10 @@
 ---
 domain: katalog.rovnovazka.eu
 slug: katalog-rovnovazka-eu
-title: Is katalog.rovnovazka.eu Legit? Trust Signal Check
+title: Is katalog.rovnovazka.eu Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for katalog.rovnovazka.eu: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  katalog.rovnovazka.eu scores 49/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:10:45.557Z'
 finalUrl: 'https://katalog.rovnovazka.eu/'
 reachable: true

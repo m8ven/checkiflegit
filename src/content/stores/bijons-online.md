@@ -1,10 +1,10 @@
 ---
 domain: bijons.online
 slug: bijons-online
-title: Is bijons.online Legit? Trust Signal Check
+title: Is bijons.online Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bijons.online: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bijons.online scores 88/100 on our public trust checks. Established domain —
+  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:34.562Z'
 finalUrl: 'https://bijons.online/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: weinhaus-grueneburgweg.de
 slug: weinhaus-grueneburgweg-de
-title: Is weinhaus-grueneburgweg.de Legit? Trust Signal Check
+title: Is weinhaus-grueneburgweg.de Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for weinhaus-grueneburgweg.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  weinhaus-grueneburgweg.de scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:49:46.102Z'
 finalUrl: 'https://weinhaus-grueneburgweg.de/'
 reachable: true

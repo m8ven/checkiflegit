@@ -1,10 +1,10 @@
 ---
 domain: verdeoro.it
 slug: verdeoro-it
-title: Is verdeoro.it Legit? Trust Signal Check
+title: Is verdeoro.it Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for verdeoro.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  verdeoro.it scores 70/100 on our public trust checks. Established domain —
+  registered 20.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:13.557Z'
 finalUrl: 'https://www.verdeoro.it/'
 reachable: true

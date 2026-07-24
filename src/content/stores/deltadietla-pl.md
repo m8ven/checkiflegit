@@ -1,10 +1,10 @@
 ---
 domain: deltadietla.pl
 slug: deltadietla-pl
-title: Is deltadietla.pl Legit? Trust Signal Check
+title: Is deltadietla.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for deltadietla.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  deltadietla.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:33:26.347Z'
 finalUrl: 'https://deltadietla.pl/'
 reachable: true

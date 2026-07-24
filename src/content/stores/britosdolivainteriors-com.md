@@ -1,10 +1,11 @@
 ---
 domain: britosdolivainteriors.com
 slug: britosdolivainteriors-com
-title: Is britosdolivainteriors.com Legit? Trust Signal Check
+title: Is britosdolivainteriors.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for britosdolivainteriors.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  britosdolivainteriors.com scores 100/100 on our public trust checks.
+  Established domain — registered 3.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:57:01.734Z'
 finalUrl: 'https://britosdolivainteriors.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ebajk.sk
 slug: ebajk-sk
-title: Is ebajk.sk Legit? Trust Signal Check
+title: Is ebajk.sk Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ebajk.sk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ebajk.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:49:39.034Z'
 finalUrl: 'https://ebajk.sk/'
 reachable: true

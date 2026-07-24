@@ -1,10 +1,10 @@
 ---
 domain: autobild.bg
 slug: autobild-bg
-title: Is autobild.bg Legit? Trust Signal Check
+title: Is autobild.bg Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for autobild.bg: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  autobild.bg scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:25:48.738Z'
 finalUrl: 'https://autobild.bg/'
 reachable: true

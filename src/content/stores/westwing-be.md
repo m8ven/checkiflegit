@@ -1,10 +1,10 @@
 ---
 domain: westwing.be
 slug: westwing-be
-title: Is westwing.be Legit? Trust Signal Check
+title: Is westwing.be Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for westwing.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  westwing.be scores 100/100 on our public trust checks. Established domain —
+  registered 15 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:48.806Z'
 finalUrl: 'https://www.westwing.be/'
 reachable: true

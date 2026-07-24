@@ -1,10 +1,11 @@
 ---
 domain: institutps.cz
 slug: institutps-cz
-title: Is institutps.cz Legit? Trust Signal Check
+title: Is institutps.cz Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for institutps.cz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  institutps.cz scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:37:49.805Z'
 finalUrl: 'https://institutps.cz/'
 reachable: true

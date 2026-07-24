@@ -1,10 +1,10 @@
 ---
 domain: xtool.com
 slug: xtool-com
-title: Is xtool.com Legit? Trust Signal Check
+title: Is xtool.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for xtool.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  xtool.com scores 100/100 on our public trust checks. Established domain —
+  registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:01.336Z'
 finalUrl: 'https://www.xtool.com/'
 reachable: true

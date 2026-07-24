@@ -1,10 +1,10 @@
 ---
 domain: laboiteabijoux.ca
 slug: laboiteabijoux-ca
-title: Is laboiteabijoux.ca Legit? Trust Signal Check
+title: Is laboiteabijoux.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for laboiteabijoux.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  laboiteabijoux.ca scores 100/100 on our public trust checks. Established
+  domain — registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:37.921Z'
 finalUrl: 'https://laboiteabijoux.ca/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: colorantic.com
 slug: colorantic-com
-title: Is colorantic.com Legit? Trust Signal Check
+title: Is colorantic.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for colorantic.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  colorantic.com scores 100/100 on our public trust checks. Established domain —
+  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:23.900Z'
 finalUrl: 'https://colorantic.com/'
 reachable: true

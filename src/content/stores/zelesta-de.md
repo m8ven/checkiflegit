@@ -1,10 +1,10 @@
 ---
 domain: zelesta.de
 slug: zelesta-de
-title: Is zelesta.de Legit? Trust Signal Check
+title: Is zelesta.de Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for zelesta.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zelesta.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-24T21:46:39.627Z'
 finalUrl: 'https://zelesta.de/'
 reachable: true

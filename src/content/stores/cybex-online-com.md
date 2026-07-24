@@ -1,10 +1,10 @@
 ---
 domain: cybex-online.com
 slug: cybex-online-com
-title: Is cybex-online.com Legit? Trust Signal Check
+title: Is cybex-online.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cybex-online.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cybex-online.com scores 88/100 on our public trust checks. Established domain
+  — registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:55.240Z'
 finalUrl: 'https://www.cybex-online.com/en/us'
 reachable: true

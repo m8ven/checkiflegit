@@ -1,11 +1,11 @@
 ---
 domain: postcrossingyhdistys.fi
 slug: postcrossingyhdistys-fi
-title: Is postcrossingyhdistys.fi Legit? Trust Signal Check
+title: Is postcrossingyhdistys.fi Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for postcrossingyhdistys.fi: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  postcrossingyhdistys.fi scores 40/100 on our public trust checks. Standard
+  contact and policy pages were not found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T15:24:43.786Z'
 finalUrl: 'https://www.postcrossingyhdistys.fi/'
 reachable: true

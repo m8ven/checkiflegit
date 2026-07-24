@@ -1,10 +1,10 @@
 ---
 domain: ijmpre2.katarsisdigital.com
 slug: ijmpre2-katarsisdigital-com
-title: Is ijmpre2.katarsisdigital.com Legit? Trust Signal Check
+title: Is ijmpre2.katarsisdigital.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for ijmpre2.katarsisdigital.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ijmpre2.katarsisdigital.com scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:12.556Z'
 finalUrl: 'https://ijmpre2.katarsisdigital.com/'
 reachable: true

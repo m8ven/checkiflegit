@@ -1,10 +1,10 @@
 ---
 domain: elmashurma.com
 slug: elmashurma-com
-title: Is elmashurma.com Legit? Trust Signal Check
+title: Is elmashurma.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for elmashurma.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elmashurma.com scores 70/100 on our public trust checks. Established domain —
+  registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:09.755Z'
 finalUrl: 'https://www.elmashurma.com/'
 reachable: true

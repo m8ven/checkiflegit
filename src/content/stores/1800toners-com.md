@@ -1,10 +1,10 @@
 ---
 domain: 1800toners.com
 slug: 1800toners-com
-title: Is 1800toners.com Legit? Trust Signal Check
+title: Is 1800toners.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for 1800toners.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  1800toners.com scores 88/100 on our public trust checks. Established domain —
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:21.061Z'
 finalUrl: 'https://1800toners.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: august.com
 slug: august-com
-title: Is august.com Legit? Trust Signal Check
+title: Is august.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for august.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  august.com scores 100/100 on our public trust checks. Established domain —
+  registered 34.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:29.366Z'
 finalUrl: 'https://august.com/'
 reachable: true

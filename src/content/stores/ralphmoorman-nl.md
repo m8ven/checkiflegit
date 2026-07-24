@@ -1,10 +1,10 @@
 ---
 domain: ralphmoorman.nl
 slug: ralphmoorman-nl
-title: Is ralphmoorman.nl Legit? Trust Signal Check
+title: Is ralphmoorman.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ralphmoorman.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ralphmoorman.nl scores 88/100 on our public trust checks. Established domain —
+  registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:00:02.189Z'
 finalUrl: 'https://ralphmoorman.nl/nl/'
 reachable: true

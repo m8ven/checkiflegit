@@ -1,10 +1,10 @@
 ---
 domain: marienhof-sankelmark.de
 slug: marienhof-sankelmark-de
-title: Is marienhof-sankelmark.de Legit? Trust Signal Check
+title: Is marienhof-sankelmark.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for marienhof-sankelmark.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  marienhof-sankelmark.de scores 91/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:17.940Z'
 finalUrl: 'https://marienhof-sankelmark.de/'
 reachable: true

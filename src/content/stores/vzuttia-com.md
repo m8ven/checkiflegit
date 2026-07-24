@@ -1,10 +1,10 @@
 ---
 domain: vzuttia.com
 slug: vzuttia-com
-title: Is vzuttia.com Legit? Trust Signal Check
+title: Is vzuttia.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for vzuttia.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vzuttia.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:33:19.423Z'
 finalUrl: 'https://www.vzuttia.com/'
 reachable: true

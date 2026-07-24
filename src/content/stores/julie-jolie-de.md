@@ -1,10 +1,10 @@
 ---
 domain: julie-jolie.de
 slug: julie-jolie-de
-title: Is julie-jolie.de Legit? Trust Signal Check
+title: Is julie-jolie.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for julie-jolie.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  julie-jolie.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:39:37.456Z'
 finalUrl: 'https://julie-jolie.de/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: in.elfcosmetics.com
 slug: in-elfcosmetics-com
-title: Is in.elfcosmetics.com Legit? Trust Signal Check
+title: Is in.elfcosmetics.com Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for in.elfcosmetics.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  in.elfcosmetics.com scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:00:19.557Z'
 finalUrl: 'https://in.elfcosmetics.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mycustomdoormats.com
 slug: mycustomdoormats-com
-title: Is mycustomdoormats.com Legit? Trust Signal Check
+title: Is mycustomdoormats.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for mycustomdoormats.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mycustomdoormats.com scores 85/100 on our public trust checks. Established
+  domain — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:00.491Z'
 finalUrl: 'https://mycustomdoormats.com/'
 reachable: true

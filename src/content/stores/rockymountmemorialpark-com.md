@@ -1,10 +1,11 @@
 ---
 domain: rockymountmemorialpark.com
 slug: rockymountmemorialpark-com
-title: Is rockymountmemorialpark.com Legit? Trust Signal Check
+title: Is rockymountmemorialpark.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for rockymountmemorialpark.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rockymountmemorialpark.com scores 73/100 on our public trust checks.
+  Established domain — registered 10.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:29:27.220Z'
 finalUrl: 'https://rockymountmemorialpark.com/'
 reachable: true

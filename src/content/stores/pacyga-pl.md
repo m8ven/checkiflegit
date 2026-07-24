@@ -1,10 +1,10 @@
 ---
 domain: pacyga.pl
 slug: pacyga-pl
-title: Is pacyga.pl Legit? Trust Signal Check
+title: Is pacyga.pl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pacyga.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pacyga.pl scores 88/100 on our public trust checks. Established domain —
+  registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:47.898Z'
 finalUrl: 'https://pacyga.pl/'
 reachable: true

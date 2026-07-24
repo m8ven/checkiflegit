@@ -1,10 +1,11 @@
 ---
 domain: fundatiacaleavictoriei.ro
 slug: fundatiacaleavictoriei-ro
-title: Is fundatiacaleavictoriei.ro Legit? Trust Signal Check
+title: Is fundatiacaleavictoriei.ro Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for fundatiacaleavictoriei.ro: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fundatiacaleavictoriei.ro scores 88/100 on our public trust checks.
+  Established domain — registered 19.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:22:48.519Z'
 finalUrl: 'https://www.fundatiacaleavictoriei.ro/'
 reachable: true

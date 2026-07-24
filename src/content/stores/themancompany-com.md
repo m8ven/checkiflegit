@@ -1,10 +1,10 @@
 ---
 domain: themancompany.com
 slug: themancompany-com
-title: Is themancompany.com Legit? Trust Signal Check
+title: Is themancompany.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for themancompany.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  themancompany.com scores 88/100 on our public trust checks. Established domain
+  — registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:37.230Z'
 finalUrl: 'https://www.themancompany.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: epuff.cz
 slug: epuff-cz
-title: Is epuff.cz Legit? Trust Signal Check
+title: Is epuff.cz Legit? Trust Score 19/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for epuff.cz: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  epuff.cz scores 19/100 on our public trust checks. Standard contact and policy
+  pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T14:55:28.862Z'
 finalUrl: 'https://epuff.cz/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: fovissste.gob.mx
 slug: fovissste-gob-mx
-title: Is fovissste.gob.mx Legit? Trust Signal Check
+title: Is fovissste.gob.mx Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fovissste.gob.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fovissste.gob.mx scores 100/100 on our public trust checks. Established domain
+  — registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:33.114Z'
 finalUrl: 'https://fovissste.gob.mx/'
 reachable: true

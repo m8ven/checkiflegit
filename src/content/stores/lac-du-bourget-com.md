@@ -1,10 +1,10 @@
 ---
 domain: lac-du-bourget.com
 slug: lac-du-bourget-com
-title: Is lac-du-bourget.com Legit? Trust Signal Check
+title: Is lac-du-bourget.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lac-du-bourget.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lac-du-bourget.com scores 88/100 on our public trust checks. Established
+  domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:22:34.622Z'
 finalUrl: 'https://www.lac-du-bourget.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: rapid-tech.co.uk
 slug: rapid-tech-co-uk
-title: Is rapid-tech.co.uk Legit? Trust Signal Check
+title: Is rapid-tech.co.uk Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for rapid-tech.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rapid-tech.co.uk scores 85/100 on our public trust checks. Established domain
+  — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:47.937Z'
 finalUrl: 'https://rapid-tech.co.uk/'
 reachable: true

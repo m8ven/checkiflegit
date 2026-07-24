@@ -1,10 +1,10 @@
 ---
 domain: blackburnian.ca
 slug: blackburnian-ca
-title: Is blackburnian.ca Legit? Trust Signal Check
+title: Is blackburnian.ca Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for blackburnian.ca: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  blackburnian.ca scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:20:58.541Z'
 finalUrl: 'https://blackburnian.ca/'
 reachable: true

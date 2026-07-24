@@ -1,10 +1,11 @@
 ---
 domain: elcombazo.com
 slug: elcombazo-com
-title: Is elcombazo.com Legit? Trust Signal Check
+title: Is elcombazo.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for elcombazo.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elcombazo.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:37:13.082Z'
 finalUrl: 'https://elcombazo.com/'
 reachable: true

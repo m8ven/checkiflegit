@@ -1,10 +1,10 @@
 ---
 domain: ribsc.org.br
 slug: ribsc-org-br
-title: Is ribsc.org.br Legit? Trust Signal Check
+title: Is ribsc.org.br Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ribsc.org.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ribsc.org.br scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:42:54.649Z'
 finalUrl: 'https://ribsc.org.br/'
 reachable: true

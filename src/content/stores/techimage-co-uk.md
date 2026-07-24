@@ -1,10 +1,10 @@
 ---
 domain: techimage.co.uk
 slug: techimage-co-uk
-title: Is techimage.co.uk Legit? Trust Signal Check
+title: Is techimage.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for techimage.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  techimage.co.uk scores 73/100 on our public trust checks. Established domain —
+  registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:05:41.444Z'
 finalUrl: 'https://techimage.co.uk/'
 reachable: true

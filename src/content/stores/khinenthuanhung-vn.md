@@ -1,10 +1,10 @@
 ---
 domain: khinenthuanhung.vn
 slug: khinenthuanhung-vn
-title: Is khinenthuanhung.vn Legit? Trust Signal Check
+title: Is khinenthuanhung.vn Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for khinenthuanhung.vn: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  khinenthuanhung.vn scores 49/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:06:06.976Z'
 finalUrl: 'https://khinenthuanhung.vn/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gitara22.ru
 slug: gitara22-ru
-title: Is gitara22.ru Legit? Trust Signal Check
+title: Is gitara22.ru Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for gitara22.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gitara22.ru scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:35:26.243Z'
 finalUrl: 'https://gitara22.ru/'
 reachable: true

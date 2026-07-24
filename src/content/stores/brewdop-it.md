@@ -1,10 +1,10 @@
 ---
 domain: brewdop.it
 slug: brewdop-it
-title: Is brewdop.it Legit? Trust Signal Check
+title: Is brewdop.it Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for brewdop.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  brewdop.it scores 76/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:16.790Z'
 finalUrl: 'https://www.brewdop.it/'
 reachable: true

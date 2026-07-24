@@ -1,10 +1,10 @@
 ---
 domain: ia-tx.com
 slug: ia-tx-com
-title: Is ia-tx.com Legit? Trust Signal Check
+title: Is ia-tx.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ia-tx.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ia-tx.com scores 82/100 on our public trust checks. Established domain —
+  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:22.675Z'
 finalUrl: 'https://www.ia-tx.com/'
 reachable: true

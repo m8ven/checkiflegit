@@ -1,10 +1,11 @@
 ---
 domain: partyverhuurkoopmanshoekje.nl
 slug: partyverhuurkoopmanshoekje-nl
-title: Is partyverhuurkoopmanshoekje.nl Legit? Trust Signal Check
+title: Is partyverhuurkoopmanshoekje.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for partyverhuurkoopmanshoekje.nl: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  partyverhuurkoopmanshoekje.nl scores 73/100 on our public trust checks.
+  Established domain — registered 8.1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:28:25.994Z'
 finalUrl: 'https://partyverhuurkoopmanshoekje.nl/'
 reachable: true

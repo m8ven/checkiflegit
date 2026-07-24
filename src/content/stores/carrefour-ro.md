@@ -1,10 +1,10 @@
 ---
 domain: carrefour.ro
 slug: carrefour-ro
-title: Is carrefour.ro Legit? Trust Signal Check
+title: Is carrefour.ro Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for carrefour.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  carrefour.ro scores 88/100 on our public trust checks. Established domain —
+  registered 25.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:24.779Z'
 finalUrl: 'https://carrefour.ro/'
 reachable: true

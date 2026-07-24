@@ -1,10 +1,10 @@
 ---
 domain: mentocreativo.com
 slug: mentocreativo-com
-title: Is mentocreativo.com Legit? Trust Signal Check
+title: Is mentocreativo.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mentocreativo.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mentocreativo.com scores 88/100 on our public trust checks. Established domain
+  — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:56.240Z'
 finalUrl: 'https://mentocreativo.com/'
 reachable: true

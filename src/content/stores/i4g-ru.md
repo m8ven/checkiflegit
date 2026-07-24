@@ -1,10 +1,10 @@
 ---
 domain: i4g.ru
 slug: i4g-ru
-title: Is i4g.ru Legit? Trust Signal Check
+title: Is i4g.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for i4g.ru: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  i4g.ru scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:15:30.812Z'
 finalUrl: 'https://i4g.ru/'
 reachable: true

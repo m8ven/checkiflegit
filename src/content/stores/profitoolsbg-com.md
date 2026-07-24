@@ -1,10 +1,10 @@
 ---
 domain: profitoolsbg.com
 slug: profitoolsbg-com
-title: Is profitoolsbg.com Legit? Trust Signal Check
+title: Is profitoolsbg.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for profitoolsbg.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  profitoolsbg.com scores 82/100 on our public trust checks. Established domain
+  — registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:21.702Z'
 finalUrl: 'https://profitoolsbg.com/'
 reachable: true

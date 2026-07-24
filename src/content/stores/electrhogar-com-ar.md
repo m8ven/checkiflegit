@@ -1,10 +1,10 @@
 ---
 domain: electrhogar.com.ar
 slug: electrhogar-com-ar
-title: Is electrhogar.com.ar Legit? Trust Signal Check
+title: Is electrhogar.com.ar Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for electrhogar.com.ar: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  electrhogar.com.ar scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:26:22.968Z'
 finalUrl: 'https://electrhogar.com.ar/'
 reachable: true

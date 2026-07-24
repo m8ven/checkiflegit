@@ -1,10 +1,10 @@
 ---
 domain: nil.store
 slug: nil-store
-title: Is nil.store Legit? Trust Signal Check
+title: Is nil.store Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nil.store: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nil.store scores 70/100 on our public trust checks. Established domain —
+  registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:57.382Z'
 finalUrl: 'https://nil.store/'
 reachable: true

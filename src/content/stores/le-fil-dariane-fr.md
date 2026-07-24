@@ -1,10 +1,10 @@
 ---
 domain: le-fil-dariane.fr
 slug: le-fil-dariane-fr
-title: Is le-fil-dariane.fr Legit? Trust Signal Check
+title: Is le-fil-dariane.fr Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for le-fil-dariane.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  le-fil-dariane.fr scores 85/100 on our public trust checks. Established domain
+  — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:53.086Z'
 finalUrl: 'https://le-fil-dariane.fr/'
 reachable: true

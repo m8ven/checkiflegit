@@ -1,10 +1,10 @@
 ---
 domain: vioapeikonisi.gr
 slug: vioapeikonisi-gr
-title: Is vioapeikonisi.gr Legit? Trust Signal Check
+title: Is vioapeikonisi.gr Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for vioapeikonisi.gr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vioapeikonisi.gr scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:18:38.940Z'
 finalUrl: 'https://vioapeikonisi.gr/'
 reachable: true

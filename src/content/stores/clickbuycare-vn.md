@@ -1,10 +1,10 @@
 ---
 domain: clickbuycare.vn
 slug: clickbuycare-vn
-title: Is clickbuycare.vn Legit? Trust Signal Check
+title: Is clickbuycare.vn Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for clickbuycare.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  clickbuycare.vn scores 31/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:51:26.639Z'
 finalUrl: 'https://clickbuycare.vn/'
 reachable: true

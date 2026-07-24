@@ -1,10 +1,10 @@
 ---
 domain: armco.fr
 slug: armco-fr
-title: Is armco.fr Legit? Trust Signal Check
+title: Is armco.fr Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for armco.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  armco.fr scores 100/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:20.662Z'
 finalUrl: 'https://armco.fr/'
 reachable: true

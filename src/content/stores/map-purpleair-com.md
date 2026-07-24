@@ -1,10 +1,10 @@
 ---
 domain: map.purpleair.com
 slug: map-purpleair-com
-title: Is map.purpleair.com Legit? Trust Signal Check
+title: Is map.purpleair.com Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for map.purpleair.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  map.purpleair.com scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:51:39.664Z'
 finalUrl: 'https://map.purpleair.com/'
 reachable: true

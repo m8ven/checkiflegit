@@ -1,10 +1,10 @@
 ---
 domain: rotfirearms.com
 slug: rotfirearms-com
-title: Is rotfirearms.com Legit? Trust Signal Check
+title: Is rotfirearms.com Legit? Trust Score 46/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for rotfirearms.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rotfirearms.com scores 46/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:07:09.648Z'
 finalUrl: 'https://rotfirearms.com/'
 reachable: true

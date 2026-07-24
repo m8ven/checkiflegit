@@ -1,10 +1,10 @@
 ---
 domain: 13gramm.com
 slug: 13gramm-com
-title: Is 13gramm.com Legit? Trust Signal Check
+title: Is 13gramm.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 13gramm.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  13gramm.com scores 82/100 on our public trust checks. Established domain —
+  registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:16:43.535Z'
 finalUrl: 'https://13gramm.com/'
 reachable: true

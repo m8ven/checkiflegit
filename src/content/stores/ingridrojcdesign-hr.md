@@ -1,10 +1,10 @@
 ---
 domain: ingridrojcdesign.hr
 slug: ingridrojcdesign-hr
-title: Is ingridrojcdesign.hr Legit? Trust Signal Check
+title: Is ingridrojcdesign.hr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ingridrojcdesign.hr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ingridrojcdesign.hr scores 88/100 on our public trust checks. Established
+  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:46.320Z'
 finalUrl: 'https://ingridrojcdesign.hr/'
 reachable: true

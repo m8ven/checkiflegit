@@ -1,10 +1,10 @@
 ---
 domain: triodamotor.hu
 slug: triodamotor-hu
-title: Is triodamotor.hu Legit? Trust Signal Check
+title: Is triodamotor.hu Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for triodamotor.hu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  triodamotor.hu scores 66/100 on our public trust checks. HTTPS certificate
+  present but its trust chain is incomplete.
 fetchedAt: '2026-06-25T03:23:24.530Z'
 finalUrl: 'https://www.triodamotor.hu/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vivekpolymer.com
 slug: vivekpolymer-com
-title: Is vivekpolymer.com Legit? Trust Signal Check
+title: Is vivekpolymer.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for vivekpolymer.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vivekpolymer.com scores 73/100 on our public trust checks. Established domain
+  — registered 18.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:05.886Z'
 finalUrl: 'https://vivekpolymer.com/'
 reachable: true

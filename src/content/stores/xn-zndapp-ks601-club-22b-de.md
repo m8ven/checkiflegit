@@ -1,11 +1,10 @@
 ---
 domain: xn--zndapp-ks601-club-22b.de
 slug: xn-zndapp-ks601-club-22b-de
-title: Is xn--zndapp-ks601-club-22b.de Legit? Trust Signal Check
+title: Is xn--zndapp-ks601-club-22b.de Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for xn--zndapp-ks601-club-22b.de: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  xn--zndapp-ks601-club-22b.de scores 44/100 on our public trust checks. No
+  links to major social platforms found.
 fetchedAt: '2026-06-25T14:49:23.572Z'
 finalUrl: 'https://xn--zndapp-ks601-club-22b.de/'
 reachable: true

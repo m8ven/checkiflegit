@@ -1,10 +1,10 @@
 ---
 domain: smshoppingmascotas.com
 slug: smshoppingmascotas-com
-title: Is smshoppingmascotas.com Legit? Trust Signal Check
+title: Is smshoppingmascotas.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for smshoppingmascotas.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  smshoppingmascotas.com scores 76/100 on our public trust checks. Public
+  business contact details are listed.
 fetchedAt: '2026-06-25T12:45:07.201Z'
 finalUrl: 'https://www.smshoppingmascotas.com/'
 reachable: true

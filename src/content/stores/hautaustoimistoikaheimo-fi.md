@@ -1,10 +1,10 @@
 ---
 domain: hautaustoimistoikaheimo.fi
 slug: hautaustoimistoikaheimo-fi
-title: Is hautaustoimistoikaheimo.fi Legit? Trust Signal Check
+title: Is hautaustoimistoikaheimo.fi Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for hautaustoimistoikaheimo.fi: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hautaustoimistoikaheimo.fi scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:25.452Z'
 finalUrl: 'https://hautaustoimistoikaheimo.fi/'
 reachable: true

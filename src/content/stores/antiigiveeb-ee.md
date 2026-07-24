@@ -1,10 +1,10 @@
 ---
 domain: antiigiveeb.ee
 slug: antiigiveeb-ee
-title: Is antiigiveeb.ee Legit? Trust Signal Check
+title: Is antiigiveeb.ee Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for antiigiveeb.ee: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  antiigiveeb.ee scores 82/100 on our public trust checks. Established domain —
+  registered 16 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:26.356Z'
 finalUrl: 'https://antiigiveeb.ee/'
 reachable: true

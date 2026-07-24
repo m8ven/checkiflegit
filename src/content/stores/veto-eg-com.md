@@ -1,10 +1,10 @@
 ---
 domain: veto-eg.com
 slug: veto-eg-com
-title: Is veto-eg.com Legit? Trust Signal Check
+title: Is veto-eg.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for veto-eg.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  veto-eg.com scores 73/100 on our public trust checks. Established domain —
+  registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:20.634Z'
 finalUrl: 'https://veto-eg.com/'
 reachable: true

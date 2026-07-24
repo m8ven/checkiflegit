@@ -1,11 +1,11 @@
 ---
 domain: prachechnaya-volna.ru
 slug: prachechnaya-volna-ru
-title: Is prachechnaya-volna.ru Legit? Trust Signal Check
+title: Is prachechnaya-volna.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for prachechnaya-volna.ru: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  prachechnaya-volna.ru scores 43/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T15:23:44.454Z'
 finalUrl: 'https://prachechnaya-volna.ru/'
 reachable: true

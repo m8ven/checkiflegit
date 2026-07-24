@@ -1,10 +1,10 @@
 ---
 domain: shop.novasonix.es
 slug: shop-novasonix-es
-title: Is shop.novasonix.es Legit? Trust Signal Check
+title: Is shop.novasonix.es Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for shop.novasonix.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.novasonix.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:02:58.448Z'
 finalUrl: 'https://shop.novasonix.es/'
 reachable: true

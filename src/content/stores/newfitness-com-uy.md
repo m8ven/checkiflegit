@@ -1,10 +1,10 @@
 ---
 domain: newfitness.com.uy
 slug: newfitness-com-uy
-title: Is newfitness.com.uy Legit? Trust Signal Check
+title: Is newfitness.com.uy Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for newfitness.com.uy: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  newfitness.com.uy scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:45:45.583Z'
 finalUrl: 'https://newfitness.com.uy/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: arthousekuwait.com
 slug: arthousekuwait-com
-title: Is arthousekuwait.com Legit? Trust Signal Check
+title: Is arthousekuwait.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for arthousekuwait.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arthousekuwait.com scores 70/100 on our public trust checks. Established
+  domain — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:22.397Z'
 finalUrl: 'https://arthousekuwait.com/'
 reachable: true

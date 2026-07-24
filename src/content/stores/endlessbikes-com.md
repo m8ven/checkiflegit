@@ -1,10 +1,10 @@
 ---
 domain: endlessbikes.com
 slug: endlessbikes-com
-title: Is endlessbikes.com Legit? Trust Signal Check
+title: Is endlessbikes.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for endlessbikes.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  endlessbikes.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:42:20.353Z'
 finalUrl: 'https://endlessbikes.com/'
 reachable: true

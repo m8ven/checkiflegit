@@ -1,10 +1,10 @@
 ---
 domain: bluegold-watermakers.com
 slug: bluegold-watermakers-com
-title: Is bluegold-watermakers.com Legit? Trust Signal Check
+title: Is bluegold-watermakers.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for bluegold-watermakers.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bluegold-watermakers.com scores 85/100 on our public trust checks. Established
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:22:28.973Z'
 finalUrl: 'https://bluegold-watermakers.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: citadelstone.us
 slug: citadelstone-us
-title: Is citadelstone.us Legit? Trust Signal Check
+title: Is citadelstone.us Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for citadelstone.us: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  citadelstone.us scores 70/100 on our public trust checks. Established domain —
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:55.039Z'
 finalUrl: 'https://citadelstone.us/'
 reachable: true

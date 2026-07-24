@@ -1,10 +1,10 @@
 ---
 domain: cfasocietyindia.org
 slug: cfasocietyindia-org
-title: Is cfasocietyindia.org Legit? Trust Signal Check
+title: Is cfasocietyindia.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cfasocietyindia.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cfasocietyindia.org scores 88/100 on our public trust checks. Established
+  domain — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:13.663Z'
 finalUrl: 'https://cfasocietyindia.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nainawa.fr
 slug: nainawa-fr
-title: Is nainawa.fr Legit? Trust Signal Check
+title: Is nainawa.fr Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nainawa.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nainawa.fr scores 85/100 on our public trust checks. Established domain —
+  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:32.765Z'
 finalUrl: 'https://nainawa.fr/'
 reachable: true

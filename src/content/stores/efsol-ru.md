@@ -1,10 +1,10 @@
 ---
 domain: efsol.ru
 slug: efsol-ru
-title: Is efsol.ru Legit? Trust Signal Check
+title: Is efsol.ru Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for efsol.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  efsol.ru scores 94/100 on our public trust checks. Established domain —
+  registered 22 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:55.040Z'
 finalUrl: 'https://efsol.ru/'
 reachable: true

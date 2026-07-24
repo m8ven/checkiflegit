@@ -1,10 +1,10 @@
 ---
 domain: sievilainenlehti.fi
 slug: sievilainenlehti-fi
-title: Is sievilainenlehti.fi Legit? Trust Signal Check
+title: Is sievilainenlehti.fi Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for sievilainenlehti.fi: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sievilainenlehti.fi scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:45:20.029Z'
 finalUrl: 'https://sievilainenlehti.fi/'
 reachable: true

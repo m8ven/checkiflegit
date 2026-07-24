@@ -1,10 +1,10 @@
 ---
 domain: lomisport.com
 slug: lomisport-com
-title: Is lomisport.com Legit? Trust Signal Check
+title: Is lomisport.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for lomisport.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lomisport.com scores 73/100 on our public trust checks. Established domain —
+  registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:56:24.953Z'
 finalUrl: 'https://lomisport.com/'
 reachable: true

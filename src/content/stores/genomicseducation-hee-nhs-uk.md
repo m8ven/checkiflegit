@@ -1,10 +1,10 @@
 ---
 domain: genomicseducation.hee.nhs.uk
 slug: genomicseducation-hee-nhs-uk
-title: Is genomicseducation.hee.nhs.uk Legit? Trust Signal Check
+title: Is genomicseducation.hee.nhs.uk Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for genomicseducation.hee.nhs.uk: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  genomicseducation.hee.nhs.uk scores 57/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:24:51.101Z'
 finalUrl: 'https://www.genomicseducation.hee.nhs.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pahomesupply.com
 slug: pahomesupply-com
-title: Is pahomesupply.com Legit? Trust Signal Check
+title: Is pahomesupply.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for pahomesupply.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pahomesupply.com scores 88/100 on our public trust checks. Established domain
+  — registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:36.167Z'
 finalUrl: 'https://pahomesupply.com/'
 reachable: true

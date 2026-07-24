@@ -1,11 +1,10 @@
 ---
 domain: televizyonparcalari.com
 slug: televizyonparcalari-com
-title: Is televizyonparcalari.com Legit? Trust Signal Check
+title: Is televizyonparcalari.com Legit? Trust Score 22/100
 description: >-
-  An automated trust-signal check for televizyonparcalari.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  televizyonparcalari.com scores 22/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:14:39.803Z'
 finalUrl: 'https://televizyonparcalari.com/'
 reachable: true

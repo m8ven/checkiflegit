@@ -1,10 +1,10 @@
 ---
 domain: zolototver.ru
 slug: zolototver-ru
-title: Is zolototver.ru Legit? Trust Signal Check
+title: Is zolototver.ru Legit? Trust Score 13/100
 description: >-
-  An automated trust-signal check for zolototver.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  zolototver.ru scores 13/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T12:39:49.411Z'
 finalUrl: 'http://zolototver.ru/'
 reachable: true

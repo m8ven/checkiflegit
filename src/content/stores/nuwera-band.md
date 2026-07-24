@@ -1,10 +1,10 @@
 ---
 domain: nuwera.band
 slug: nuwera-band
-title: Is nuwera.band Legit? Trust Signal Check
+title: Is nuwera.band Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for nuwera.band: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  nuwera.band scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:23:59.931Z'
 finalUrl: 'https://nuwera.band/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mypragathi.com
 slug: mypragathi-com
-title: Is mypragathi.com Legit? Trust Signal Check
+title: Is mypragathi.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mypragathi.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mypragathi.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:37:59.387Z'
 finalUrl: 'https://mypragathi.com/'
 reachable: true

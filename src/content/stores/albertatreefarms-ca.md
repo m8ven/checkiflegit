@@ -1,10 +1,10 @@
 ---
 domain: albertatreefarms.ca
 slug: albertatreefarms-ca
-title: Is albertatreefarms.ca Legit? Trust Signal Check
+title: Is albertatreefarms.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for albertatreefarms.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  albertatreefarms.ca scores 100/100 on our public trust checks. Established
+  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:49:39.050Z'
 finalUrl: 'https://www.albertatreefarms.ca/'
 reachable: true

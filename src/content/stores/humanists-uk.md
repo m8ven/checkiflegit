@@ -1,10 +1,10 @@
 ---
 domain: humanists.uk
 slug: humanists-uk
-title: Is humanists.uk Legit? Trust Signal Check
+title: Is humanists.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for humanists.uk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  humanists.uk scores 100/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:42.364Z'
 finalUrl: 'https://humanists.uk/'
 reachable: true

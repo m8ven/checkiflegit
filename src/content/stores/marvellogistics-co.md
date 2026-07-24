@@ -1,10 +1,10 @@
 ---
 domain: marvellogistics.co
 slug: marvellogistics-co
-title: Is marvellogistics.co Legit? Trust Signal Check
+title: Is marvellogistics.co Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for marvellogistics.co: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  marvellogistics.co scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T14:57:13.507Z'
 finalUrl: 'https://marvellogistics.co/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: packaging.co.id
 slug: packaging-co-id
-title: Is packaging.co.id Legit? Trust Signal Check
+title: Is packaging.co.id Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for packaging.co.id: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  packaging.co.id scores 76/100 on our public trust checks. Established domain —
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:26.075Z'
 finalUrl: 'https://packaging.co.id/'
 reachable: true

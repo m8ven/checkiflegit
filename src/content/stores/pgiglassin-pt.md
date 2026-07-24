@@ -1,10 +1,10 @@
 ---
 domain: pgiglassin.pt
 slug: pgiglassin-pt
-title: Is pgiglassin.pt Legit? Trust Signal Check
+title: Is pgiglassin.pt Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pgiglassin.pt: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pgiglassin.pt scores 49/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T15:02:23.600Z'
 finalUrl: 'https://pgiglassin.pt/'
 reachable: true

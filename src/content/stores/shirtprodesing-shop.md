@@ -1,10 +1,10 @@
 ---
 domain: shirtprodesing.shop
 slug: shirtprodesing-shop
-title: Is shirtprodesing.shop Legit? Trust Signal Check
+title: Is shirtprodesing.shop Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for shirtprodesing.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shirtprodesing.shop scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:37:09.911Z'
 finalUrl: 'https://shirtprodesing.shop/'
 reachable: true

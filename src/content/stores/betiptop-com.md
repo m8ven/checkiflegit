@@ -1,10 +1,10 @@
 ---
 domain: betiptop.com
 slug: betiptop-com
-title: Is betiptop.com Legit? Trust Signal Check
+title: Is betiptop.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for betiptop.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  betiptop.com scores 88/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:23.199Z'
 finalUrl: 'https://www.betiptop.com/'
 reachable: true

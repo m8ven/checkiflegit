@@ -1,10 +1,10 @@
 ---
 domain: strategiccontent.co.uk
 slug: strategiccontent-co-uk
-title: Is strategiccontent.co.uk Legit? Trust Signal Check
+title: Is strategiccontent.co.uk Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for strategiccontent.co.uk: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  strategiccontent.co.uk scores 58/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:26:55.535Z'
 finalUrl: 'https://www.strategiccontent.co.uk/'
 reachable: true

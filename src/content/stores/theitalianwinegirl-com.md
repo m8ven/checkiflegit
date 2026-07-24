@@ -1,10 +1,10 @@
 ---
 domain: theitalianwinegirl.com
 slug: theitalianwinegirl-com
-title: Is theitalianwinegirl.com Legit? Trust Signal Check
+title: Is theitalianwinegirl.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for theitalianwinegirl.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  theitalianwinegirl.com scores 100/100 on our public trust checks. Established
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:43.464Z'
 finalUrl: 'https://theitalianwinegirl.com/'
 reachable: true

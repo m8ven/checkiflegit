@@ -1,10 +1,10 @@
 ---
 domain: mobiliere.ru
 slug: mobiliere-ru
-title: Is mobiliere.ru Legit? Trust Signal Check
+title: Is mobiliere.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for mobiliere.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mobiliere.ru scores 73/100 on our public trust checks. Established domain —
+  registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:04.000Z'
 finalUrl: 'https://mobiliere.ru/'
 reachable: true

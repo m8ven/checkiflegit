@@ -1,10 +1,10 @@
 ---
 domain: nhomxingfanhapkhau.com
 slug: nhomxingfanhapkhau-com
-title: Is nhomxingfanhapkhau.com Legit? Trust Signal Check
+title: Is nhomxingfanhapkhau.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for nhomxingfanhapkhau.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nhomxingfanhapkhau.com scores 64/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:38:33.551Z'
 finalUrl: 'https://nhomxingfanhapkhau.com/'
 reachable: true

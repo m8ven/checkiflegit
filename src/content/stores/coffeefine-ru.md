@@ -1,10 +1,10 @@
 ---
 domain: coffeefine.ru
 slug: coffeefine-ru
-title: Is coffeefine.ru Legit? Trust Signal Check
+title: Is coffeefine.ru Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for coffeefine.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  coffeefine.ru scores 94/100 on our public trust checks. Established domain —
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:38.241Z'
 finalUrl: 'https://coffeefine.ru/'
 reachable: true

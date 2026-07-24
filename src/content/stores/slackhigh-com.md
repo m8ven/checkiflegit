@@ -1,10 +1,10 @@
 ---
 domain: slackhigh.com
 slug: slackhigh-com
-title: Is slackhigh.com Legit? Trust Signal Check
+title: Is slackhigh.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for slackhigh.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  slackhigh.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:03:35.922Z'
 finalUrl: 'https://slackhigh.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: new.societechimiquedefrance.fr
 slug: new-societechimiquedefrance-fr
-title: Is new.societechimiquedefrance.fr Legit? Trust Signal Check
+title: Is new.societechimiquedefrance.fr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for new.societechimiquedefrance.fr: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  new.societechimiquedefrance.fr scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:42.776Z'
 finalUrl: 'https://new.societechimiquedefrance.fr/'
 reachable: true

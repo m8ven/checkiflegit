@@ -1,10 +1,10 @@
 ---
 domain: donyagrayli.com
 slug: donyagrayli-com
-title: Is donyagrayli.com Legit? Trust Signal Check
+title: Is donyagrayli.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for donyagrayli.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  donyagrayli.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T15:40:30.079Z'
 finalUrl: 'https://donyagrayli.com/'
 reachable: true

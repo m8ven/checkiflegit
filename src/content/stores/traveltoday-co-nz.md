@@ -1,10 +1,10 @@
 ---
 domain: traveltoday.co.nz
 slug: traveltoday-co-nz
-title: Is traveltoday.co.nz Legit? Trust Signal Check
+title: Is traveltoday.co.nz Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for traveltoday.co.nz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  traveltoday.co.nz scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:48:40.426Z'
 finalUrl: 'https://traveltoday.co.nz/'
 reachable: true

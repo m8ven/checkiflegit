@@ -1,10 +1,10 @@
 ---
 domain: yaosecret.com
 slug: yaosecret-com
-title: Is yaosecret.com Legit? Trust Signal Check
+title: Is yaosecret.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for yaosecret.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  yaosecret.com scores 70/100 on our public trust checks. Established domain —
+  registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:29:48.828Z'
 finalUrl: 'https://yaosecret.com/'
 reachable: true

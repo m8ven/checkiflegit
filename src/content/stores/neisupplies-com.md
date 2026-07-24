@@ -1,10 +1,10 @@
 ---
 domain: neisupplies.com
 slug: neisupplies-com
-title: Is neisupplies.com Legit? Trust Signal Check
+title: Is neisupplies.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for neisupplies.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  neisupplies.com scores 100/100 on our public trust checks. Established domain
+  — registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:38.825Z'
 finalUrl: 'https://www.neisupplies.com/'
 reachable: true

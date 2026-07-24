@@ -1,10 +1,10 @@
 ---
 domain: insulationboard.co.uk
 slug: insulationboard-co-uk
-title: Is insulationboard.co.uk Legit? Trust Signal Check
+title: Is insulationboard.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for insulationboard.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  insulationboard.co.uk scores 73/100 on our public trust checks. Established
+  domain — registered 20.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:05.630Z'
 finalUrl: 'https://www.insulationboard.co.uk/'
 reachable: true

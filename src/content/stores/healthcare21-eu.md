@@ -1,10 +1,10 @@
 ---
 domain: healthcare21.eu
 slug: healthcare21-eu
-title: Is healthcare21.eu Legit? Trust Signal Check
+title: Is healthcare21.eu Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for healthcare21.eu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  healthcare21.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:52:13.745Z'
 finalUrl: 'https://healthcare21.eu/'
 reachable: true

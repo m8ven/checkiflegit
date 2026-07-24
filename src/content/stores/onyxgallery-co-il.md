@@ -1,10 +1,10 @@
 ---
 domain: onyxgallery.co.il
 slug: onyxgallery-co-il
-title: Is onyxgallery.co.il Legit? Trust Signal Check
+title: Is onyxgallery.co.il Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for onyxgallery.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  onyxgallery.co.il scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:22:51.137Z'
 finalUrl: 'https://onyxgallery.co.il/'
 reachable: true

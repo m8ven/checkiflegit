@@ -1,10 +1,10 @@
 ---
 domain: dsstem.org
 slug: dsstem-org
-title: Is dsstem.org Legit? Trust Signal Check
+title: Is dsstem.org Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dsstem.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dsstem.org scores 73/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:18.617Z'
 finalUrl: 'https://www.dsstem.org/'
 reachable: true

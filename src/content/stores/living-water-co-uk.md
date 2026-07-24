@@ -1,10 +1,10 @@
 ---
 domain: living-water.co.uk
 slug: living-water-co-uk
-title: Is living-water.co.uk Legit? Trust Signal Check
+title: Is living-water.co.uk Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for living-water.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  living-water.co.uk scores 85/100 on our public trust checks. Established
+  domain — registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:22.431Z'
 finalUrl: 'https://www.living-water.co.uk/'
 reachable: true

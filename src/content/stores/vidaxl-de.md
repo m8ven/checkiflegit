@@ -1,10 +1,11 @@
 ---
 domain: vidaxl.de
 slug: vidaxl-de
-title: Is vidaxl.de Legit? Trust Signal Check
+title: Is vidaxl.de Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for vidaxl.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vidaxl.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-24T21:46:21.264Z'
 finalUrl: 'https://www.vidaxl.de/'
 reachable: true

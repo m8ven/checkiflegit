@@ -1,10 +1,10 @@
 ---
 domain: heller-medizintechnik.de
 slug: heller-medizintechnik-de
-title: Is heller-medizintechnik.de Legit? Trust Signal Check
+title: Is heller-medizintechnik.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for heller-medizintechnik.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  heller-medizintechnik.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:09.635Z'
 finalUrl: 'https://www.heller-medizintechnik.de/'
 reachable: true

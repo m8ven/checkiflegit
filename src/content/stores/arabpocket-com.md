@@ -1,10 +1,11 @@
 ---
 domain: arabpocket.com
 slug: arabpocket-com
-title: Is arabpocket.com Legit? Trust Signal Check
+title: Is arabpocket.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for arabpocket.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  arabpocket.com scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T02:56:53.139Z'
 finalUrl: 'https://arabpocket.com/'
 reachable: true

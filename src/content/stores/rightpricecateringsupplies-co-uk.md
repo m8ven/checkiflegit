@@ -1,10 +1,10 @@
 ---
 domain: rightpricecateringsupplies.co.uk
 slug: rightpricecateringsupplies-co-uk
-title: Is rightpricecateringsupplies.co.uk Legit? Trust Signal Check
+title: Is rightpricecateringsupplies.co.uk Legit? Score 85/100
 description: >-
-  An automated trust-signal check for rightpricecateringsupplies.co.uk: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  rightpricecateringsupplies.co.uk scores 85/100 on our public trust checks.
+  Established domain — registered 13.2 years ago.
 fetchedAt: '2026-06-25T02:42:56.466Z'
 finalUrl: 'https://rightpricecateringsupplies.co.uk/'
 reachable: true

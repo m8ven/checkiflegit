@@ -1,10 +1,10 @@
 ---
 domain: lerempart.ca
 slug: lerempart-ca
-title: Is lerempart.ca Legit? Trust Signal Check
+title: Is lerempart.ca Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lerempart.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lerempart.ca scores 88/100 on our public trust checks. Established domain —
+  registered 23.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:19:26.769Z'
 finalUrl: 'https://lerempart.ca/'
 reachable: true

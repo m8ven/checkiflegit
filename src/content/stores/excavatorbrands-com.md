@@ -1,10 +1,10 @@
 ---
 domain: excavatorbrands.com
 slug: excavatorbrands-com
-title: Is excavatorbrands.com Legit? Trust Signal Check
+title: Is excavatorbrands.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for excavatorbrands.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  excavatorbrands.com scores 85/100 on our public trust checks. Established
+  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:09.197Z'
 finalUrl: 'https://excavatorbrands.com/'
 reachable: true

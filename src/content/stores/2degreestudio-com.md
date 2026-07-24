@@ -1,10 +1,10 @@
 ---
 domain: 2degreestudio.com
 slug: 2degreestudio-com
-title: Is 2degreestudio.com Legit? Trust Signal Check
+title: Is 2degreestudio.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for 2degreestudio.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  2degreestudio.com scores 76/100 on our public trust checks. Established domain
+  — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:10:54.957Z'
 finalUrl: 'https://2degreestudio.com/'
 reachable: true

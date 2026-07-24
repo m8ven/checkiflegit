@@ -1,10 +1,10 @@
 ---
 domain: voltagecoffeesupply.com
 slug: voltagecoffeesupply-com
-title: Is voltagecoffeesupply.com Legit? Trust Signal Check
+title: Is voltagecoffeesupply.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for voltagecoffeesupply.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  voltagecoffeesupply.com scores 100/100 on our public trust checks. Established
+  domain — registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:14.451Z'
 finalUrl: 'https://www.voltagecoffeesupply.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tripmeegypt.com
 slug: tripmeegypt-com
-title: Is tripmeegypt.com Legit? Trust Signal Check
+title: Is tripmeegypt.com Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tripmeegypt.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tripmeegypt.com scores 67/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:07:25.713Z'
 finalUrl: 'https://tripmeegypt.com/'
 reachable: true

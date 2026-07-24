@@ -1,10 +1,10 @@
 ---
 domain: stpauls.ph
 slug: stpauls-ph
-title: Is stpauls.ph Legit? Trust Signal Check
+title: Is stpauls.ph Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for stpauls.ph: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  stpauls.ph scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:39:54.362Z'
 finalUrl: 'https://stpauls.ph/'
 reachable: true

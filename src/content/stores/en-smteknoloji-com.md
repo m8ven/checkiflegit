@@ -1,10 +1,10 @@
 ---
 domain: en.smteknoloji.com
 slug: en-smteknoloji-com
-title: Is en.smteknoloji.com Legit? Trust Signal Check
+title: Is en.smteknoloji.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for en.smteknoloji.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  en.smteknoloji.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:57:35.335Z'
 finalUrl: 'https://www.en.smteknoloji.com/'
 reachable: true

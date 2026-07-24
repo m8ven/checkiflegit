@@ -1,10 +1,10 @@
 ---
 domain: alwanpaintingllc.com
 slug: alwanpaintingllc-com
-title: Is alwanpaintingllc.com Legit? Trust Signal Check
+title: Is alwanpaintingllc.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for alwanpaintingllc.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  alwanpaintingllc.com scores 73/100 on our public trust checks. Established
+  domain — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:06.449Z'
 finalUrl: 'https://alwanpaintingllc.com/'
 reachable: true

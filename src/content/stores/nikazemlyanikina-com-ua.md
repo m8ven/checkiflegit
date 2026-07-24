@@ -1,10 +1,10 @@
 ---
 domain: nikazemlyanikina.com.ua
 slug: nikazemlyanikina-com-ua
-title: Is nikazemlyanikina.com.ua Legit? Trust Signal Check
+title: Is nikazemlyanikina.com.ua Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for nikazemlyanikina.com.ua: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nikazemlyanikina.com.ua scores 76/100 on our public trust checks. Established
+  domain — registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:21.908Z'
 finalUrl: 'https://nikazemlyanikina.com.ua/'
 reachable: true

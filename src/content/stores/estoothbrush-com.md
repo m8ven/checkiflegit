@@ -1,10 +1,10 @@
 ---
 domain: estoothbrush.com
 slug: estoothbrush-com
-title: Is estoothbrush.com Legit? Trust Signal Check
+title: Is estoothbrush.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for estoothbrush.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  estoothbrush.com scores 94/100 on our public trust checks. Established domain
+  — registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:02.970Z'
 finalUrl: 'https://estoothbrush.com/'
 reachable: true

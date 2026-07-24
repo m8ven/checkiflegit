@@ -1,10 +1,10 @@
 ---
 domain: kansas.ae
 slug: kansas-ae
-title: Is kansas.ae Legit? Trust Signal Check
+title: Is kansas.ae Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kansas.ae: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kansas.ae scores 76/100 on our public trust checks. Public business contact
+  details are listed. Maintains links to multiple social media platforms.
 fetchedAt: '2026-06-25T15:18:48.484Z'
 finalUrl: 'https://www.kansas.ae/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: cricut.com
 slug: cricut-com
-title: Is cricut.com Legit? Trust Signal Check
+title: Is cricut.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cricut.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cricut.com scores 88/100 on our public trust checks. Established domain —
+  registered 21.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:33.029Z'
 finalUrl: 'https://cricut.com/en-us/'
 reachable: true

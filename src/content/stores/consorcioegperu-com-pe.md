@@ -1,10 +1,10 @@
 ---
 domain: consorcioegperu.com.pe
 slug: consorcioegperu-com-pe
-title: Is consorcioegperu.com.pe Legit? Trust Signal Check
+title: Is consorcioegperu.com.pe Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for consorcioegperu.com.pe: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  consorcioegperu.com.pe scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:03.418Z'
 finalUrl: 'https://consorcioegperu.com.pe/'
 reachable: true

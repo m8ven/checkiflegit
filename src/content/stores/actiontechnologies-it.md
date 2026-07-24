@@ -1,10 +1,10 @@
 ---
 domain: actiontechnologies.it
 slug: actiontechnologies-it
-title: Is actiontechnologies.it Legit? Trust Signal Check
+title: Is actiontechnologies.it Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for actiontechnologies.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  actiontechnologies.it scores 94/100 on our public trust checks. Established
+  domain — registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:48:48.661Z'
 finalUrl: 'https://www.actiontechnologies.it/'
 reachable: true

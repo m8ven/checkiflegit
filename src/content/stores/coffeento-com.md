@@ -1,10 +1,11 @@
 ---
 domain: coffeento.com
 slug: coffeento-com
-title: Is coffeento.com Legit? Trust Signal Check
+title: Is coffeento.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for coffeento.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  coffeento.com scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T14:56:30.764Z'
 finalUrl: 'https://www.coffeento.com/'
 reachable: true

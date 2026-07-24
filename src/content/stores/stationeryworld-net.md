@@ -1,10 +1,10 @@
 ---
 domain: stationeryworld.net
 slug: stationeryworld-net
-title: Is stationeryworld.net Legit? Trust Signal Check
+title: Is stationeryworld.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for stationeryworld.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stationeryworld.net scores 100/100 on our public trust checks. Established
+  domain — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:55.372Z'
 finalUrl: 'https://stationeryworld.net/'
 reachable: true

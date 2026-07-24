@@ -1,10 +1,10 @@
 ---
 domain: pulmodyne.com
 slug: pulmodyne-com
-title: Is pulmodyne.com Legit? Trust Signal Check
+title: Is pulmodyne.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pulmodyne.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pulmodyne.com scores 100/100 on our public trust checks. Established domain —
+  registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:05.710Z'
 finalUrl: 'https://www.pulmodyne.com/'
 reachable: true

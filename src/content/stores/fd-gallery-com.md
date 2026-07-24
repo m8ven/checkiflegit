@@ -1,10 +1,10 @@
 ---
 domain: fd-gallery.com
 slug: fd-gallery-com
-title: Is fd-gallery.com Legit? Trust Signal Check
+title: Is fd-gallery.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for fd-gallery.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fd-gallery.com scores 94/100 on our public trust checks. Established domain —
+  registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:50.391Z'
 finalUrl: 'https://fd-gallery.com/'
 reachable: true

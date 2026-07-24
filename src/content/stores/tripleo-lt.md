@@ -1,10 +1,10 @@
 ---
 domain: tripleo.lt
 slug: tripleo-lt
-title: Is tripleo.lt Legit? Trust Signal Check
+title: Is tripleo.lt Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tripleo.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tripleo.lt scores 88/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:25.391Z'
 finalUrl: 'https://www.tripleo.lt/'
 reachable: true

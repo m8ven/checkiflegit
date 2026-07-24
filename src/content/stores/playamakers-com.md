@@ -1,10 +1,10 @@
 ---
 domain: playamakers.com
 slug: playamakers-com
-title: Is playamakers.com Legit? Trust Signal Check
+title: Is playamakers.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for playamakers.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  playamakers.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:49:27.390Z'
 finalUrl: 'https://playamakers.com/'
 reachable: true

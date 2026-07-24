@@ -1,10 +1,10 @@
 ---
 domain: regionals.dk
 slug: regionals-dk
-title: Is regionals.dk Legit? Trust Signal Check
+title: Is regionals.dk Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for regionals.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  regionals.dk scores 76/100 on our public trust checks. Established domain —
+  registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:44.074Z'
 finalUrl: 'https://www.regionals.dk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: thienkimcorp.com
 slug: thienkimcorp-com
-title: Is thienkimcorp.com Legit? Trust Signal Check
+title: Is thienkimcorp.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for thienkimcorp.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thienkimcorp.com scores 88/100 on our public trust checks. Established domain
+  — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:54.720Z'
 finalUrl: 'https://thienkimcorp.com/'
 reachable: true

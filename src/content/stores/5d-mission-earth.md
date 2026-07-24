@@ -1,10 +1,10 @@
 ---
 domain: 5d-mission.earth
 slug: 5d-mission-earth
-title: Is 5d-mission.earth Legit? Trust Signal Check
+title: Is 5d-mission.earth Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for 5d-mission.earth: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  5d-mission.earth scores 70/100 on our public trust checks. Established domain
+  — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:32.366Z'
 finalUrl: 'https://5d-mission.earth/'
 reachable: true

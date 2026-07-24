@@ -1,10 +1,10 @@
 ---
 domain: napaview.com
 slug: napaview-com
-title: Is napaview.com Legit? Trust Signal Check
+title: Is napaview.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for napaview.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  napaview.com scores 73/100 on our public trust checks. Established domain —
+  registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:26.737Z'
 finalUrl: 'https://napaview.com/?v=a284e24d5f46'
 reachable: true

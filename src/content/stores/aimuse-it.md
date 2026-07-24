@@ -1,10 +1,10 @@
 ---
 domain: aimuse.it
 slug: aimuse-it
-title: Is aimuse.it Legit? Trust Signal Check
+title: Is aimuse.it Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for aimuse.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aimuse.it scores 76/100 on our public trust checks. Established domain —
+  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:57.882Z'
 finalUrl: 'https://www.aimuse.it/'
 reachable: true

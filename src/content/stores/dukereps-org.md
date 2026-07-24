@@ -1,10 +1,10 @@
 ---
 domain: dukereps.org
 slug: dukereps-org
-title: Is dukereps.org Legit? Trust Signal Check
+title: Is dukereps.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for dukereps.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dukereps.org scores 76/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:39:02.397Z'
 finalUrl: 'https://dukereps.org/'
 reachable: true

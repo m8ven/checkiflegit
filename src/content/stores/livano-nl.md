@@ -1,10 +1,10 @@
 ---
 domain: livano.nl
 slug: livano-nl
-title: Is livano.nl Legit? Trust Signal Check
+title: Is livano.nl Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for livano.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  livano.nl scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:56:15.320Z'
 finalUrl: 'https://livano.nl/'
 reachable: true

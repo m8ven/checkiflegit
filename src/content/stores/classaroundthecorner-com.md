@@ -1,10 +1,10 @@
 ---
 domain: classaroundthecorner.com
 slug: classaroundthecorner-com
-title: Is classaroundthecorner.com Legit? Trust Signal Check
+title: Is classaroundthecorner.com Legit? Trust Score 63/100
 description: >-
-  An automated trust-signal check for classaroundthecorner.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  classaroundthecorner.com scores 63/100 on our public trust checks. Domain is
+  relatively young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:17:32.298Z'
 finalUrl: 'http://classaroundthecorner.com/'
 reachable: true

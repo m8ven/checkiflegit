@@ -1,10 +1,10 @@
 ---
 domain: puitunistus.com
 slug: puitunistus-com
-title: Is puitunistus.com Legit? Trust Signal Check
+title: Is puitunistus.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for puitunistus.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  puitunistus.com scores 88/100 on our public trust checks. Established domain —
+  registered 1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:58.006Z'
 finalUrl: 'https://puitunistus.com/'
 reachable: true

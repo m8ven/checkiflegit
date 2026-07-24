@@ -1,10 +1,10 @@
 ---
 domain: santos-wellness.de
 slug: santos-wellness-de
-title: Is santos-wellness.de Legit? Trust Signal Check
+title: Is santos-wellness.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for santos-wellness.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  santos-wellness.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:59:52.263Z'
 finalUrl: 'https://santos-wellness.de/'
 reachable: true

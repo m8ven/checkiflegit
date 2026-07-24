@@ -1,10 +1,10 @@
 ---
 domain: abkoimarum.nl
 slug: abkoimarum-nl
-title: Is abkoimarum.nl Legit? Trust Signal Check
+title: Is abkoimarum.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for abkoimarum.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  abkoimarum.nl scores 88/100 on our public trust checks. Established domain —
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:09.688Z'
 finalUrl: 'https://www.abkoimarum.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: yellowyarnyyak.com
 slug: yellowyarnyyak-com
-title: Is yellowyarnyyak.com Legit? Trust Signal Check
+title: Is yellowyarnyyak.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for yellowyarnyyak.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  yellowyarnyyak.com scores 88/100 on our public trust checks. Established
+  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:52.019Z'
 finalUrl: 'https://yellowyarnyyak.com/'
 reachable: true

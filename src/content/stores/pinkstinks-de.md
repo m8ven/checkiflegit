@@ -1,10 +1,10 @@
 ---
 domain: pinkstinks.de
 slug: pinkstinks-de
-title: Is pinkstinks.de Legit? Trust Signal Check
+title: Is pinkstinks.de Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pinkstinks.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pinkstinks.de scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:22.937Z'
 finalUrl: 'https://pinkstinks.de/'
 reachable: true

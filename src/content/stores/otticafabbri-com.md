@@ -1,10 +1,10 @@
 ---
 domain: otticafabbri.com
 slug: otticafabbri-com
-title: Is otticafabbri.com Legit? Trust Signal Check
+title: Is otticafabbri.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for otticafabbri.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  otticafabbri.com scores 100/100 on our public trust checks. Established domain
+  — registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:12.147Z'
 finalUrl: 'https://otticafabbri.com/'
 reachable: true

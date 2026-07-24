@@ -1,10 +1,10 @@
 ---
 domain: bountyland.org
 slug: bountyland-org
-title: Is bountyland.org Legit? Trust Signal Check
+title: Is bountyland.org Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for bountyland.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bountyland.org scores 73/100 on our public trust checks. Established domain —
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:49:05.894Z'
 finalUrl: 'https://bountyland.org/'
 reachable: true

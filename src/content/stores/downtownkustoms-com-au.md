@@ -1,10 +1,10 @@
 ---
 domain: downtownkustoms.com.au
 slug: downtownkustoms-com-au
-title: Is downtownkustoms.com.au Legit? Trust Signal Check
+title: Is downtownkustoms.com.au Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for downtownkustoms.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  downtownkustoms.com.au scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:16:35.615Z'
 finalUrl: 'https://www.downtownkustoms.com.au/'
 reachable: true

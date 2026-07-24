@@ -1,10 +1,10 @@
 ---
 domain: 4meyewear.com
 slug: 4meyewear-com
-title: Is 4meyewear.com Legit? Trust Signal Check
+title: Is 4meyewear.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for 4meyewear.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  4meyewear.com scores 100/100 on our public trust checks. Established domain —
+  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:22:45.285Z'
 finalUrl: 'https://www.4meyewear.com/'
 reachable: true

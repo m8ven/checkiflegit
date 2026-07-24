@@ -1,10 +1,10 @@
 ---
 domain: e.rus-anaboliki9.net
 slug: e-rus-anaboliki9-net
-title: Is e.rus-anaboliki9.net Legit? Trust Signal Check
+title: Is e.rus-anaboliki9.net Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for e.rus-anaboliki9.net: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  e.rus-anaboliki9.net scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:42:44.154Z'
 finalUrl: 'https://e.rus-anaboliki9.net/'
 reachable: true

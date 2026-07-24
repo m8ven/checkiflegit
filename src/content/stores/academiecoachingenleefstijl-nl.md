@@ -1,10 +1,11 @@
 ---
 domain: academiecoachingenleefstijl.nl
 slug: academiecoachingenleefstijl-nl
-title: Is academiecoachingenleefstijl.nl Legit? Trust Signal Check
+title: Is academiecoachingenleefstijl.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for academiecoachingenleefstijl.nl: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  academiecoachingenleefstijl.nl scores 88/100 on our public trust checks.
+  Established domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:40:13.388Z'
 finalUrl: 'https://academiecoachingenleefstijl.nl/'
 reachable: true

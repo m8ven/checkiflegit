@@ -1,10 +1,10 @@
 ---
 domain: imi-dalse.ru
 slug: imi-dalse-ru
-title: Is imi-dalse.ru Legit? Trust Signal Check
+title: Is imi-dalse.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for imi-dalse.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  imi-dalse.ru scores 82/100 on our public trust checks. Established domain —
+  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:33.997Z'
 finalUrl: 'https://imi-dalse.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: climazone.com.mx
 slug: climazone-com-mx
-title: Is climazone.com.mx Legit? Trust Signal Check
+title: Is climazone.com.mx Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for climazone.com.mx: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  climazone.com.mx scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:46:10.484Z'
 finalUrl: 'https://climazone.com.mx/'
 reachable: true

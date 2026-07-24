@@ -1,10 +1,10 @@
 ---
 domain: bikeis.life
 slug: bikeis-life
-title: Is bikeis.life Legit? Trust Signal Check
+title: Is bikeis.life Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bikeis.life: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bikeis.life scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:36:34.934Z'
 finalUrl: 'https://bikeis.life/'
 reachable: true

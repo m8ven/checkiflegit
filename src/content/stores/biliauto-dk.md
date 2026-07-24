@@ -1,10 +1,10 @@
 ---
 domain: biliauto.dk
 slug: biliauto-dk
-title: Is biliauto.dk Legit? Trust Signal Check
+title: Is biliauto.dk Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for biliauto.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  biliauto.dk scores 70/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:34.066Z'
 finalUrl: 'https://biliauto.dk/'
 reachable: true

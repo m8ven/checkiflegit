@@ -1,10 +1,10 @@
 ---
 domain: ana.it
 slug: ana-it
-title: Is ana.it Legit? Trust Signal Check
+title: Is ana.it Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ana.it: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  ana.it scores 76/100 on our public trust checks. Established domain —
+  registered 28.4 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:12:44.479Z'
 finalUrl: 'https://www.ana.it/'
 reachable: true

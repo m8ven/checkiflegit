@@ -1,10 +1,10 @@
 ---
 domain: members.pewin.org
 slug: members-pewin-org
-title: Is members.pewin.org Legit? Trust Signal Check
+title: Is members.pewin.org Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for members.pewin.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  members.pewin.org scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:18.451Z'
 finalUrl: 'https://members.pewin.org/login/?redirect_to=%2F'
 reachable: true

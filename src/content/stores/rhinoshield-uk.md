@@ -1,10 +1,10 @@
 ---
 domain: rhinoshield.uk
 slug: rhinoshield-uk
-title: Is rhinoshield.uk Legit? Trust Signal Check
+title: Is rhinoshield.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rhinoshield.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rhinoshield.uk scores 88/100 on our public trust checks. Established domain —
+  registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:08.956Z'
 finalUrl: 'https://rhinoshield.uk/'
 reachable: true

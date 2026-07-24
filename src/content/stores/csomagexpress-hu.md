@@ -1,10 +1,10 @@
 ---
 domain: csomagexpress.hu
 slug: csomagexpress-hu
-title: Is csomagexpress.hu Legit? Trust Signal Check
+title: Is csomagexpress.hu Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for csomagexpress.hu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  csomagexpress.hu scores 49/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:23:29.713Z'
 finalUrl: 'https://csomagexpress.hu/'
 reachable: true

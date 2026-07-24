@@ -1,10 +1,10 @@
 ---
 domain: cornacchiniviaggi.it
 slug: cornacchiniviaggi-it
-title: Is cornacchiniviaggi.it Legit? Trust Signal Check
+title: Is cornacchiniviaggi.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cornacchiniviaggi.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cornacchiniviaggi.it scores 100/100 on our public trust checks. Established
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:05.484Z'
 finalUrl: 'https://cornacchiniviaggi.it/'
 reachable: true

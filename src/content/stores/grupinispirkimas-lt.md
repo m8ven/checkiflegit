@@ -1,10 +1,10 @@
 ---
 domain: grupinispirkimas.lt
 slug: grupinispirkimas-lt
-title: Is grupinispirkimas.lt Legit? Trust Signal Check
+title: Is grupinispirkimas.lt Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for grupinispirkimas.lt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  grupinispirkimas.lt scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:47:22.587Z'
 finalUrl: 'https://grupinispirkimas.lt/'
 reachable: true

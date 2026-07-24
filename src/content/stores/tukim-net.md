@@ -1,10 +1,10 @@
 ---
 domain: tukim.net
 slug: tukim-net
-title: Is tukim.net Legit? Trust Signal Check
+title: Is tukim.net Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tukim.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tukim.net scores 88/100 on our public trust checks. Established domain —
+  registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:57.682Z'
 finalUrl: 'https://tukim.net/'
 reachable: true

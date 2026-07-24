@@ -1,10 +1,10 @@
 ---
 domain: colortile.com.au
 slug: colortile-com-au
-title: Is colortile.com.au Legit? Trust Signal Check
+title: Is colortile.com.au Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for colortile.com.au: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  colortile.com.au scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:27.077Z'
 finalUrl: 'https://colortile.com.au/'
 reachable: true

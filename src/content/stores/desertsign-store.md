@@ -1,10 +1,10 @@
 ---
 domain: desertsign.store
 slug: desertsign-store
-title: Is desertsign.store Legit? Trust Signal Check
+title: Is desertsign.store Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for desertsign.store: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  desertsign.store scores 88/100 on our public trust checks. Established domain
+  — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:23.034Z'
 finalUrl: 'https://desertsign.store/'
 reachable: true

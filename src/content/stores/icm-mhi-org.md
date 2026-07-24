@@ -1,10 +1,11 @@
 ---
 domain: icm-mhi.org
 slug: icm-mhi-org
-title: Is icm-mhi.org Legit? Trust Signal Check
+title: Is icm-mhi.org Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for icm-mhi.org: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  icm-mhi.org scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T14:52:17.635Z'
 finalUrl: 'https://icm-mhi.org/'
 reachable: true

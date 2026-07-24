@@ -1,10 +1,10 @@
 ---
 domain: cafefurniturecompany.com.au
 slug: cafefurniturecompany-com-au
-title: Is cafefurniturecompany.com.au Legit? Trust Signal Check
+title: Is cafefurniturecompany.com.au Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for cafefurniturecompany.com.au: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  cafefurniturecompany.com.au scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:04:43.664Z'
 finalUrl: 'https://cafefurniturecompany.com.au/'
 reachable: true

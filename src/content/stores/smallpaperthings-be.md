@@ -1,10 +1,10 @@
 ---
 domain: smallpaperthings.be
 slug: smallpaperthings-be
-title: Is smallpaperthings.be Legit? Trust Signal Check
+title: Is smallpaperthings.be Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for smallpaperthings.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  smallpaperthings.be scores 100/100 on our public trust checks. Established
+  domain — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:03.892Z'
 finalUrl: 'https://smallpaperthings.be/'
 reachable: true

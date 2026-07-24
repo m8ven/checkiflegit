@@ -1,10 +1,10 @@
 ---
 domain: cristinaorendain.com.mx
 slug: cristinaorendain-com-mx
-title: Is cristinaorendain.com.mx Legit? Trust Signal Check
+title: Is cristinaorendain.com.mx Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cristinaorendain.com.mx: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cristinaorendain.com.mx scores 100/100 on our public trust checks. Established
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:55.570Z'
 finalUrl: 'https://www.cristinaorendain.com.mx/'
 reachable: true

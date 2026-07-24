@@ -1,10 +1,10 @@
 ---
 domain: chapter11cases.com
 slug: chapter11cases-com
-title: Is chapter11cases.com Legit? Trust Signal Check
+title: Is chapter11cases.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for chapter11cases.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  chapter11cases.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:38:47.806Z'
 finalUrl: 'https://chapter11cases.com/'
 reachable: true

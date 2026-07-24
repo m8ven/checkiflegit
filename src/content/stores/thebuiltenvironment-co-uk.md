@@ -1,10 +1,11 @@
 ---
 domain: thebuiltenvironment.co.uk
 slug: thebuiltenvironment-co-uk
-title: Is thebuiltenvironment.co.uk Legit? Trust Signal Check
+title: Is thebuiltenvironment.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for thebuiltenvironment.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thebuiltenvironment.co.uk scores 73/100 on our public trust checks.
+  Established domain — registered 15 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:22:58.802Z'
 finalUrl: 'https://www.thebuiltenvironment.co.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: realsexdollstore.com
 slug: realsexdollstore-com
-title: Is realsexdollstore.com Legit? Trust Signal Check
+title: Is realsexdollstore.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for realsexdollstore.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  realsexdollstore.com scores 100/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:40.972Z'
 finalUrl: 'https://realsexdollstore.com/'
 reachable: true

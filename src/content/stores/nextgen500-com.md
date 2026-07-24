@@ -1,10 +1,10 @@
 ---
 domain: nextgen500.com
 slug: nextgen500-com
-title: Is nextgen500.com Legit? Trust Signal Check
+title: Is nextgen500.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nextgen500.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nextgen500.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:29:19.167Z'
 finalUrl: 'https://www.nextgen500.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: clay-me-up.com
 slug: clay-me-up-com
-title: Is clay-me-up.com Legit? Trust Signal Check
+title: Is clay-me-up.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for clay-me-up.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  clay-me-up.com scores 70/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:15.873Z'
 finalUrl: 'https://clay-me-up.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sevasound.fr
 slug: sevasound-fr
-title: Is sevasound.fr Legit? Trust Signal Check
+title: Is sevasound.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sevasound.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sevasound.fr scores 100/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:00:33.350Z'
 finalUrl: 'https://sevasound.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: thelngg.org
 slug: thelngg-org
-title: Is thelngg.org Legit? Trust Signal Check
+title: Is thelngg.org Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for thelngg.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  thelngg.org scores 73/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:41.701Z'
 finalUrl: 'https://thelngg.org/'
 reachable: true

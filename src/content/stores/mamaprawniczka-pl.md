@@ -1,10 +1,10 @@
 ---
 domain: mamaprawniczka.pl
 slug: mamaprawniczka-pl
-title: Is mamaprawniczka.pl Legit? Trust Signal Check
+title: Is mamaprawniczka.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for mamaprawniczka.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mamaprawniczka.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:43:10.269Z'
 finalUrl: 'https://mamaprawniczka.pl/'
 reachable: true

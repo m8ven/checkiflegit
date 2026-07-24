@@ -1,10 +1,10 @@
 ---
 domain: castiga-viata.ro
 slug: castiga-viata-ro
-title: Is castiga-viata.ro Legit? Trust Signal Check
+title: Is castiga-viata.ro Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for castiga-viata.ro: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  castiga-viata.ro scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:22:19.442Z'
 finalUrl: 'https://castiga-viata.ro/'
 reachable: true

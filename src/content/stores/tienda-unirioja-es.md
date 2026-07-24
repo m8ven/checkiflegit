@@ -1,10 +1,10 @@
 ---
 domain: tienda.unirioja.es
 slug: tienda-unirioja-es
-title: Is tienda.unirioja.es Legit? Trust Signal Check
+title: Is tienda.unirioja.es Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for tienda.unirioja.es: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tienda.unirioja.es scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:06:34.301Z'
 finalUrl: 'https://tienda.unirioja.es/'
 reachable: true

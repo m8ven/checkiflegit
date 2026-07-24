@@ -1,10 +1,10 @@
 ---
 domain: ceres.fr
 slug: ceres-fr
-title: Is ceres.fr Legit? Trust Signal Check
+title: Is ceres.fr Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ceres.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ceres.fr scores 85/100 on our public trust checks. Established domain —
+  registered 25.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:10.717Z'
 finalUrl: 'https://ceres.fr/'
 reachable: true

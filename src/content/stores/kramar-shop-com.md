@@ -1,10 +1,10 @@
 ---
 domain: kramar-shop.com
 slug: kramar-shop-com
-title: Is kramar-shop.com Legit? Trust Signal Check
+title: Is kramar-shop.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kramar-shop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kramar-shop.com scores 100/100 on our public trust checks. Established domain
+  — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:42.781Z'
 finalUrl: 'https://kramar-shop.com/'
 reachable: true

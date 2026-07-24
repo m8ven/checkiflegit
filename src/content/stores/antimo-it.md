@@ -1,10 +1,10 @@
 ---
 domain: antimo.it
 slug: antimo-it
-title: Is antimo.it Legit? Trust Signal Check
+title: Is antimo.it Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for antimo.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  antimo.it scores 88/100 on our public trust checks. Established domain —
+  registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:32.622Z'
 finalUrl: 'https://www.antimo.it/'
 reachable: true

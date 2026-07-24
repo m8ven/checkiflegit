@@ -1,10 +1,10 @@
 ---
 domain: hagmansnordic.com
 slug: hagmansnordic-com
-title: Is hagmansnordic.com Legit? Trust Signal Check
+title: Is hagmansnordic.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for hagmansnordic.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hagmansnordic.com scores 82/100 on our public trust checks. Established domain
+  — registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:20.234Z'
 finalUrl: 'https://hagmansnordic.com/'
 reachable: true

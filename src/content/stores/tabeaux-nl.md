@@ -1,10 +1,10 @@
 ---
 domain: tabeaux.nl
 slug: tabeaux-nl
-title: Is tabeaux.nl Legit? Trust Signal Check
+title: Is tabeaux.nl Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tabeaux.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tabeaux.nl scores 70/100 on our public trust checks. Established domain —
+  registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:11.958Z'
 finalUrl: 'https://tabeaux.nl/'
 reachable: true

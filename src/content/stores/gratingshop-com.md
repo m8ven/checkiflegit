@@ -1,10 +1,10 @@
 ---
 domain: gratingshop.com
 slug: gratingshop-com
-title: Is gratingshop.com Legit? Trust Signal Check
+title: Is gratingshop.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for gratingshop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gratingshop.com scores 85/100 on our public trust checks. Established domain —
+  registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:27.576Z'
 finalUrl: 'https://www.gratingshop.com/'
 reachable: true

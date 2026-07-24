@@ -1,10 +1,10 @@
 ---
 domain: bikerzkingdom.com
 slug: bikerzkingdom-com
-title: Is bikerzkingdom.com Legit? Trust Signal Check
+title: Is bikerzkingdom.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bikerzkingdom.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bikerzkingdom.com scores 100/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:58.104Z'
 finalUrl: 'https://www.bikerzkingdom.com/'
 reachable: true

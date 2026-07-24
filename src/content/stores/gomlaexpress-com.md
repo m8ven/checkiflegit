@@ -1,10 +1,10 @@
 ---
 domain: gomlaexpress.com
 slug: gomlaexpress-com
-title: Is gomlaexpress.com Legit? Trust Signal Check
+title: Is gomlaexpress.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for gomlaexpress.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gomlaexpress.com scores 88/100 on our public trust checks. Established domain
+  — registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:20.923Z'
 finalUrl: 'https://gomlaexpress.com/'
 reachable: true

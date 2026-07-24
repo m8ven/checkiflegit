@@ -1,10 +1,10 @@
 ---
 domain: feheleyfinearts.com
 slug: feheleyfinearts-com
-title: Is feheleyfinearts.com Legit? Trust Signal Check
+title: Is feheleyfinearts.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for feheleyfinearts.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  feheleyfinearts.com scores 52/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T14:48:48.412Z'
 finalUrl: 'https://feheleyfinearts.com/'
 reachable: true

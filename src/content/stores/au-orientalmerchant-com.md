@@ -1,11 +1,10 @@
 ---
 domain: au.orientalmerchant.com
 slug: au-orientalmerchant-com
-title: Is au.orientalmerchant.com Legit? Trust Signal Check
+title: Is au.orientalmerchant.com Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for au.orientalmerchant.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  au.orientalmerchant.com scores 19/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:59:41.839Z'
 finalUrl: 'https://au.orientalmerchant.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: martingijzemijter.nl
 slug: martingijzemijter-nl
-title: Is martingijzemijter.nl Legit? Trust Signal Check
+title: Is martingijzemijter.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for martingijzemijter.nl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  martingijzemijter.nl scores 82/100 on our public trust checks. Established
+  domain — registered 19.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:55.815Z'
 finalUrl: 'https://martingijzemijter.nl/'
 reachable: true

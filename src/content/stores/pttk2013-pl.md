@@ -1,10 +1,10 @@
 ---
 domain: pttk2013.pl
 slug: pttk2013-pl
-title: Is pttk2013.pl Legit? Trust Signal Check
+title: Is pttk2013.pl Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for pttk2013.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  pttk2013.pl scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:39:57.958Z'
 finalUrl: 'https://pttk2013.pl/'
 reachable: true

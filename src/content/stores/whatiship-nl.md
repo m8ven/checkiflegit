@@ -1,10 +1,10 @@
 ---
 domain: whatiship.nl
 slug: whatiship-nl
-title: Is whatiship.nl Legit? Trust Signal Check
+title: Is whatiship.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for whatiship.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  whatiship.nl scores 88/100 on our public trust checks. Established domain —
+  registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:31.969Z'
 finalUrl: 'https://whatiship.nl/'
 reachable: true

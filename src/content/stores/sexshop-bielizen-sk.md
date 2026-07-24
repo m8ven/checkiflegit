@@ -1,10 +1,11 @@
 ---
 domain: sexshop.bielizen.sk
 slug: sexshop-bielizen-sk
-title: Is sexshop.bielizen.sk Legit? Trust Signal Check
+title: Is sexshop.bielizen.sk Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for sexshop.bielizen.sk: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  sexshop.bielizen.sk scores 19/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T15:34:17.471Z'
 finalUrl: 'https://sexshop.bielizen.sk/'
 reachable: true

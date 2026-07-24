@@ -1,10 +1,10 @@
 ---
 domain: beautytreats.co
 slug: beautytreats-co
-title: Is beautytreats.co Legit? Trust Signal Check
+title: Is beautytreats.co Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for beautytreats.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beautytreats.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:56:22.524Z'
 finalUrl: 'https://beautytreats.co/'
 reachable: true

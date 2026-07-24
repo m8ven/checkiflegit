@@ -1,10 +1,10 @@
 ---
 domain: golfsonservera.com
 slug: golfsonservera-com
-title: Is golfsonservera.com Legit? Trust Signal Check
+title: Is golfsonservera.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for golfsonservera.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  golfsonservera.com scores 100/100 on our public trust checks. Established
+  domain — registered 27.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:48.067Z'
 finalUrl: 'https://golfsonservera.com/'
 reachable: true

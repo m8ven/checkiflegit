@@ -1,10 +1,10 @@
 ---
 domain: notesniki.si
 slug: notesniki-si
-title: Is notesniki.si Legit? Trust Signal Check
+title: Is notesniki.si Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for notesniki.si: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  notesniki.si scores 82/100 on our public trust checks. Established domain —
+  registered 21.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:39.720Z'
 finalUrl: 'https://notesniki.si/'
 reachable: true

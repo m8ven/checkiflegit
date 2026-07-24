@@ -1,10 +1,10 @@
 ---
 domain: jogomvan.hu
 slug: jogomvan-hu
-title: Is jogomvan.hu Legit? Trust Signal Check
+title: Is jogomvan.hu Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for jogomvan.hu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jogomvan.hu scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:29.988Z'
 finalUrl: 'https://www.jogomvan.hu/'
 reachable: true

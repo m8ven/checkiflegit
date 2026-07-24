@@ -1,10 +1,10 @@
 ---
 domain: walkingwicket.com
 slug: walkingwicket-com
-title: Is walkingwicket.com Legit? Trust Signal Check
+title: Is walkingwicket.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for walkingwicket.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  walkingwicket.com scores 88/100 on our public trust checks. Established domain
+  — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:02.024Z'
 finalUrl: 'https://walkingwicket.com/'
 reachable: true

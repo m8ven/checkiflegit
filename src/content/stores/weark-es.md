@@ -1,10 +1,10 @@
 ---
 domain: weark.es
 slug: weark-es
-title: Is weark.es Legit? Trust Signal Check
+title: Is weark.es Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for weark.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  weark.es scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:50:50.260Z'
 finalUrl: 'https://www.weark.es/'
 reachable: true

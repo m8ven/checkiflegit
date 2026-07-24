@@ -1,10 +1,10 @@
 ---
 domain: stadtwerke-neuburg.de
 slug: stadtwerke-neuburg-de
-title: Is stadtwerke-neuburg.de Legit? Trust Signal Check
+title: Is stadtwerke-neuburg.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for stadtwerke-neuburg.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  stadtwerke-neuburg.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:35.066Z'
 finalUrl: 'https://stadtwerke-neuburg.de/'
 reachable: true

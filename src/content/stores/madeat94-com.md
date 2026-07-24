@@ -1,10 +1,10 @@
 ---
 domain: madeat94.com
 slug: madeat94-com
-title: Is madeat94.com Legit? Trust Signal Check
+title: Is madeat94.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for madeat94.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  madeat94.com scores 88/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:48.708Z'
 finalUrl: 'https://madeat94.com/'
 reachable: true

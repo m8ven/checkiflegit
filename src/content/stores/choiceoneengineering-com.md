@@ -1,10 +1,10 @@
 ---
 domain: choiceoneengineering.com
 slug: choiceoneengineering-com
-title: Is choiceoneengineering.com Legit? Trust Signal Check
+title: Is choiceoneengineering.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for choiceoneengineering.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  choiceoneengineering.com scores 82/100 on our public trust checks. Established
+  domain — registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:47.671Z'
 finalUrl: 'https://choiceoneengineering.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: cofabb.it
 slug: cofabb-it
-title: Is cofabb.it Legit? Trust Signal Check
+title: Is cofabb.it Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cofabb.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cofabb.it scores 76/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:55.165Z'
 finalUrl: 'https://www.cofabb.it/'
 reachable: true

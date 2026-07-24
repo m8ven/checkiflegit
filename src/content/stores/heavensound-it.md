@@ -1,10 +1,10 @@
 ---
 domain: heavensound.it
 slug: heavensound-it
-title: Is heavensound.it Legit? Trust Signal Check
+title: Is heavensound.it Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for heavensound.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  heavensound.it scores 82/100 on our public trust checks. Established domain —
+  registered 19.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:50.874Z'
 finalUrl: 'https://www.heavensound.it/'
 reachable: true

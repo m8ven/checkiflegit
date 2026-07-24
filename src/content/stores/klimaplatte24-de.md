@@ -1,10 +1,10 @@
 ---
 domain: klimaplatte24.de
 slug: klimaplatte24-de
-title: Is klimaplatte24.de Legit? Trust Signal Check
+title: Is klimaplatte24.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for klimaplatte24.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  klimaplatte24.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:42:23.450Z'
 finalUrl: 'https://klimaplatte24.de/'
 reachable: true

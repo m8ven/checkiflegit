@@ -1,10 +1,11 @@
 ---
 domain: globalgarmentengineering.com
 slug: globalgarmentengineering-com
-title: Is globalgarmentengineering.com Legit? Trust Signal Check
+title: Is globalgarmentengineering.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for globalgarmentengineering.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  globalgarmentengineering.com scores 88/100 on our public trust checks.
+  Established domain — registered 17.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:44:37.097Z'
 finalUrl: 'https://globalgarmentengineering.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vyaparbusiness.com
 slug: vyaparbusiness-com
-title: Is vyaparbusiness.com Legit? Trust Signal Check
+title: Is vyaparbusiness.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for vyaparbusiness.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vyaparbusiness.com scores 70/100 on our public trust checks. Established
+  domain — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:54.488Z'
 finalUrl: 'https://vyaparbusiness.com/'
 reachable: true

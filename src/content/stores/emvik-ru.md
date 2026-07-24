@@ -1,10 +1,10 @@
 ---
 domain: emvik.ru
 slug: emvik-ru
-title: Is emvik.ru Legit? Trust Signal Check
+title: Is emvik.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for emvik.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  emvik.ru scores 73/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:08.123Z'
 finalUrl: 'https://emvik.ru/'
 reachable: true

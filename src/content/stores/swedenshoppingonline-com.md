@@ -1,10 +1,10 @@
 ---
 domain: swedenshoppingonline.com
 slug: swedenshoppingonline-com
-title: Is swedenshoppingonline.com Legit? Trust Signal Check
+title: Is swedenshoppingonline.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for swedenshoppingonline.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  swedenshoppingonline.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:46:35.688Z'
 finalUrl: 'https://www.swedenshoppingonline.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: child-development.org.il
 slug: child-development-org-il
-title: Is child-development.org.il Legit? Trust Signal Check
+title: Is child-development.org.il Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for child-development.org.il: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  child-development.org.il scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:15.019Z'
 finalUrl: 'https://child-development.org.il/'
 reachable: true

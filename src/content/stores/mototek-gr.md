@@ -1,10 +1,10 @@
 ---
 domain: mototek.gr
 slug: mototek-gr
-title: Is mototek.gr Legit? Trust Signal Check
+title: Is mototek.gr Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for mototek.gr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  mototek.gr scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:12:51.365Z'
 finalUrl: 'https://mototek.gr/'
 reachable: true

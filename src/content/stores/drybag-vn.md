@@ -1,10 +1,10 @@
 ---
 domain: drybag.vn
 slug: drybag-vn
-title: Is drybag.vn Legit? Trust Signal Check
+title: Is drybag.vn Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for drybag.vn: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  drybag.vn scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:18:14.367Z'
 finalUrl: 'https://drybag.vn/'
 reachable: true

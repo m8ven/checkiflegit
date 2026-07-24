@@ -1,10 +1,10 @@
 ---
 domain: cornus.si
 slug: cornus-si
-title: Is cornus.si Legit? Trust Signal Check
+title: Is cornus.si Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cornus.si: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cornus.si scores 100/100 on our public trust checks. Established domain —
+  registered 19.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:05.657Z'
 finalUrl: 'https://cornus.si/'
 reachable: true

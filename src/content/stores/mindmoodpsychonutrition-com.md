@@ -1,10 +1,11 @@
 ---
 domain: mindmoodpsychonutrition.com
 slug: mindmoodpsychonutrition-com
-title: Is mindmoodpsychonutrition.com Legit? Trust Signal Check
+title: Is mindmoodpsychonutrition.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mindmoodpsychonutrition.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mindmoodpsychonutrition.com scores 100/100 on our public trust checks.
+  Established domain — registered 6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:30:50.654Z'
 finalUrl: 'https://mindmoodpsychonutrition.com/'
 reachable: true

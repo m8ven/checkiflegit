@@ -1,10 +1,10 @@
 ---
 domain: cncbul.com
 slug: cncbul-com
-title: Is cncbul.com Legit? Trust Signal Check
+title: Is cncbul.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cncbul.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cncbul.com scores 70/100 on our public trust checks. Established domain —
+  registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:15.682Z'
 finalUrl: 'https://www.cncbul.com/'
 reachable: true

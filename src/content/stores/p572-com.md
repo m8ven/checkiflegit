@@ -1,10 +1,10 @@
 ---
 domain: p572.com
 slug: p572-com
-title: Is p572.com Legit? Trust Signal Check
+title: Is p572.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for p572.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  p572.com scores 58/100 on our public trust checks. Standard contact and policy
+  pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:24:07.930Z'
 finalUrl: 'https://www.p572.com/'
 reachable: true

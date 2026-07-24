@@ -1,10 +1,10 @@
 ---
 domain: milejardin.com
 slug: milejardin-com
-title: Is milejardin.com Legit? Trust Signal Check
+title: Is milejardin.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for milejardin.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  milejardin.com scores 88/100 on our public trust checks. Established domain —
+  registered 17.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:55:28.208Z'
 finalUrl: 'https://milejardin.com/'
 reachable: true

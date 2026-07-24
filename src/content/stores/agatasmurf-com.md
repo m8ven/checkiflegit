@@ -1,10 +1,10 @@
 ---
 domain: agatasmurf.com
 slug: agatasmurf-com
-title: Is agatasmurf.com Legit? Trust Signal Check
+title: Is agatasmurf.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for agatasmurf.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  agatasmurf.com scores 94/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:11.427Z'
 finalUrl: 'https://agatasmurf.com/'
 reachable: true

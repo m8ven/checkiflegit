@@ -1,10 +1,10 @@
 ---
 domain: altasistemas.cl
 slug: altasistemas-cl
-title: Is altasistemas.cl Legit? Trust Signal Check
+title: Is altasistemas.cl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for altasistemas.cl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  altasistemas.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:33:56.318Z'
 finalUrl: 'https://altasistemas.cl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: murphyjewelers.com
 slug: murphyjewelers-com
-title: Is murphyjewelers.com Legit? Trust Signal Check
+title: Is murphyjewelers.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for murphyjewelers.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  murphyjewelers.com scores 100/100 on our public trust checks. Established
+  domain — registered 28 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:57:12.963Z'
 finalUrl: 'https://murphyjewelers.com/'
 reachable: true

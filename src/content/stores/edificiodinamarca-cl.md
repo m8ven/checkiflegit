@@ -1,10 +1,10 @@
 ---
 domain: edificiodinamarca.cl
 slug: edificiodinamarca-cl
-title: Is edificiodinamarca.cl Legit? Trust Signal Check
+title: Is edificiodinamarca.cl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for edificiodinamarca.cl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  edificiodinamarca.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:26:27.380Z'
 finalUrl: 'https://edificiodinamarca.cl/'
 reachable: true

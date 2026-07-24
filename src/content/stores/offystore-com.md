@@ -1,10 +1,10 @@
 ---
 domain: offystore.com
 slug: offystore-com
-title: Is offystore.com Legit? Trust Signal Check
+title: Is offystore.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for offystore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  offystore.com scores 100/100 on our public trust checks. Established domain —
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:45.294Z'
 finalUrl: 'https://offystore.com/'
 reachable: true

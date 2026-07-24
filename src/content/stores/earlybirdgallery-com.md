@@ -1,10 +1,10 @@
 ---
 domain: earlybirdgallery.com
 slug: earlybirdgallery-com
-title: Is earlybirdgallery.com Legit? Trust Signal Check
+title: Is earlybirdgallery.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for earlybirdgallery.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  earlybirdgallery.com scores 76/100 on our public trust checks. Established
+  domain — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:34.455Z'
 finalUrl: 'https://earlybirdgallery.com/'
 reachable: true

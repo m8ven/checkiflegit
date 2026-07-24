@@ -1,10 +1,10 @@
 ---
 domain: jimsflyco.com
 slug: jimsflyco-com
-title: Is jimsflyco.com Legit? Trust Signal Check
+title: Is jimsflyco.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for jimsflyco.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jimsflyco.com scores 94/100 on our public trust checks. Established domain —
+  registered 21.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:49.813Z'
 finalUrl: 'https://jimsflyco.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: bondamerica.com
 slug: bondamerica-com
-title: Is bondamerica.com Legit? Trust Signal Check
+title: Is bondamerica.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for bondamerica.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bondamerica.com scores 76/100 on our public trust checks. Established domain —
+  registered 28.3 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:21:26.597Z'
 finalUrl: 'http://bondamerica.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kalinka-mebel.com
 slug: kalinka-mebel-com
-title: Is kalinka-mebel.com Legit? Trust Signal Check
+title: Is kalinka-mebel.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for kalinka-mebel.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  kalinka-mebel.com scores 43/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:47:58.141Z'
 finalUrl: 'https://kalinka-mebel.com/'
 reachable: true

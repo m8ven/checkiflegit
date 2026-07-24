@@ -1,10 +1,10 @@
 ---
 domain: future-ready.site
 slug: future-ready-site
-title: Is future-ready.site Legit? Trust Signal Check
+title: Is future-ready.site Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for future-ready.site: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  future-ready.site scores 25/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T02:30:40.972Z'
 finalUrl: 'https://future-ready.site/'
 reachable: true

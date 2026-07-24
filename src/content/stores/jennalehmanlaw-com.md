@@ -1,10 +1,10 @@
 ---
 domain: jennalehmanlaw.com
 slug: jennalehmanlaw-com
-title: Is jennalehmanlaw.com Legit? Trust Signal Check
+title: Is jennalehmanlaw.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for jennalehmanlaw.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jennalehmanlaw.com scores 88/100 on our public trust checks. Established
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:21:30.110Z'
 finalUrl: 'https://www.jennalehmanlaw.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: usitshop.com
 slug: usitshop-com
-title: Is usitshop.com Legit? Trust Signal Check
+title: Is usitshop.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for usitshop.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  usitshop.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:55:03.980Z'
 finalUrl: 'https://usitshop.com/'
 reachable: true

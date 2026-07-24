@@ -1,10 +1,10 @@
 ---
 domain: klay.co.nz
 slug: klay-co-nz
-title: Is klay.co.nz Legit? Trust Signal Check
+title: Is klay.co.nz Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for klay.co.nz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  klay.co.nz scores 82/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:41.124Z'
 finalUrl: 'https://klay.co.nz/'
 reachable: true

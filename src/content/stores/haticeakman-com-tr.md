@@ -1,10 +1,10 @@
 ---
 domain: haticeakman.com.tr
 slug: haticeakman-com-tr
-title: Is haticeakman.com.tr Legit? Trust Signal Check
+title: Is haticeakman.com.tr Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for haticeakman.com.tr: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  haticeakman.com.tr scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:47.872Z'
 finalUrl: 'https://www.haticeakman.com.tr/'
 reachable: true

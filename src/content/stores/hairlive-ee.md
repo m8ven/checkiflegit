@@ -1,10 +1,10 @@
 ---
 domain: hairlive.ee
 slug: hairlive-ee
-title: Is hairlive.ee Legit? Trust Signal Check
+title: Is hairlive.ee Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hairlive.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hairlive.ee scores 82/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:22.490Z'
 finalUrl: 'https://hairlive.ee/'
 reachable: true

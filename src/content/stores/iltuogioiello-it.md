@@ -1,10 +1,10 @@
 ---
 domain: iltuogioiello.it
 slug: iltuogioiello-it
-title: Is iltuogioiello.it Legit? Trust Signal Check
+title: Is iltuogioiello.it Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for iltuogioiello.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  iltuogioiello.it scores 94/100 on our public trust checks. Established domain
+  — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:02.894Z'
 finalUrl: 'https://www.iltuogioiello.it/'
 reachable: true

@@ -1,11 +1,10 @@
 ---
 domain: clearancewarehouse.in.th
 slug: clearancewarehouse-in-th
-title: Is clearancewarehouse.in.th Legit? Trust Signal Check
+title: Is clearancewarehouse.in.th Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for clearancewarehouse.in.th: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  clearancewarehouse.in.th scores 44/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:29:09.297Z'
 finalUrl: 'https://clearancewarehouse.in.th/'
 reachable: true

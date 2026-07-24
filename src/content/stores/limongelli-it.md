@@ -1,10 +1,10 @@
 ---
 domain: limongelli.it
 slug: limongelli-it
-title: Is limongelli.it Legit? Trust Signal Check
+title: Is limongelli.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for limongelli.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  limongelli.it scores 100/100 on our public trust checks. Established domain —
+  registered 28.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:13.981Z'
 finalUrl: 'https://www.limongelli.it/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: blog.domini.it
 slug: blog-domini-it
-title: Is blog.domini.it Legit? Trust Signal Check
+title: Is blog.domini.it Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for blog.domini.it: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  blog.domini.it scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:03:22.259Z'
 finalUrl: 'https://blog.domini.it/'
 reachable: true

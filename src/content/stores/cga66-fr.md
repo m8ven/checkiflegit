@@ -1,10 +1,10 @@
 ---
 domain: cga66.fr
 slug: cga66-fr
-title: Is cga66.fr Legit? Trust Signal Check
+title: Is cga66.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cga66.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cga66.fr scores 88/100 on our public trust checks. Established domain —
+  registered 18 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:52.004Z'
 finalUrl: 'https://cga66.fr/'
 reachable: true

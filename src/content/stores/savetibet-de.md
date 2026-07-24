@@ -1,10 +1,10 @@
 ---
 domain: savetibet.de
 slug: savetibet-de
-title: Is savetibet.de Legit? Trust Signal Check
+title: Is savetibet.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for savetibet.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  savetibet.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:32:28.735Z'
 finalUrl: 'https://savetibet.de/'
 reachable: true

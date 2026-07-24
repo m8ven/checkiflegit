@@ -1,10 +1,10 @@
 ---
 domain: bobcaygeonwoodworks.ca
 slug: bobcaygeonwoodworks-ca
-title: Is bobcaygeonwoodworks.ca Legit? Trust Signal Check
+title: Is bobcaygeonwoodworks.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bobcaygeonwoodworks.ca: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bobcaygeonwoodworks.ca scores 100/100 on our public trust checks. Established
+  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:52.180Z'
 finalUrl: 'https://bobcaygeonwoodworks.ca/'
 reachable: true

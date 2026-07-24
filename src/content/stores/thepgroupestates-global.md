@@ -1,10 +1,10 @@
 ---
 domain: thepgroupestates.global
 slug: thepgroupestates-global
-title: Is thepgroupestates.global Legit? Trust Signal Check
+title: Is thepgroupestates.global Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thepgroupestates.global: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thepgroupestates.global scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:18.711Z'
 finalUrl: 'https://thepgroupestates.global/'
 reachable: true

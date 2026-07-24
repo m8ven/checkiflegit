@@ -1,10 +1,10 @@
 ---
 domain: authorkatherinefoster.com.au
 slug: authorkatherinefoster-com-au
-title: Is authorkatherinefoster.com.au Legit? Trust Signal Check
+title: Is authorkatherinefoster.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for authorkatherinefoster.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  authorkatherinefoster.com.au scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:47:42.711Z'
 finalUrl: 'https://authorkatherinefoster.com.au/'
 reachable: true

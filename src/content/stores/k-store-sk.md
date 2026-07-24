@@ -1,10 +1,10 @@
 ---
 domain: k-store.sk
 slug: k-store-sk
-title: Is k-store.sk Legit? Trust Signal Check
+title: Is k-store.sk Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for k-store.sk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  k-store.sk scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:25:09.937Z'
 finalUrl: 'https://www.k-store.sk/'
 reachable: true

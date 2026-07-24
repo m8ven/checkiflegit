@@ -1,10 +1,10 @@
 ---
 domain: lacuisinedejulie.fr
 slug: lacuisinedejulie-fr
-title: Is lacuisinedejulie.fr Legit? Trust Signal Check
+title: Is lacuisinedejulie.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for lacuisinedejulie.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lacuisinedejulie.fr scores 100/100 on our public trust checks. Established
+  domain — registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:26.502Z'
 finalUrl: 'https://lacuisinedejulie.fr/'
 reachable: true

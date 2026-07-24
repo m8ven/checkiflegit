@@ -1,10 +1,10 @@
 ---
 domain: darsoulami.ma
 slug: darsoulami-ma
-title: Is darsoulami.ma Legit? Trust Signal Check
+title: Is darsoulami.ma Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for darsoulami.ma: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  darsoulami.ma scores 100/100 on our public trust checks. Established domain —
+  registered 15.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:40.321Z'
 finalUrl: 'https://darsoulami.ma/'
 reachable: true

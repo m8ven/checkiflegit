@@ -1,10 +1,10 @@
 ---
 domain: cmei.com.ua
 slug: cmei-com-ua
-title: Is cmei.com.ua Legit? Trust Signal Check
+title: Is cmei.com.ua Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cmei.com.ua: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cmei.com.ua scores 88/100 on our public trust checks. Established domain —
+  registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:50.315Z'
 finalUrl: 'https://www.cmei.com.ua/'
 reachable: true

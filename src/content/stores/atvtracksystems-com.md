@@ -1,10 +1,10 @@
 ---
 domain: atvtracksystems.com
 slug: atvtracksystems-com
-title: Is atvtracksystems.com Legit? Trust Signal Check
+title: Is atvtracksystems.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for atvtracksystems.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  atvtracksystems.com scores 94/100 on our public trust checks. Established
+  domain — registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:08.934Z'
 finalUrl: 'https://atvtracksystems.com/'
 reachable: true

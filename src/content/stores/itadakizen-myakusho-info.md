@@ -1,10 +1,10 @@
 ---
 domain: itadakizen-myakusho.info
 slug: itadakizen-myakusho-info
-title: Is itadakizen-myakusho.info Legit? Trust Signal Check
+title: Is itadakizen-myakusho.info Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for itadakizen-myakusho.info: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  itadakizen-myakusho.info scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:42:33.831Z'
 finalUrl: 'https://itadakizen-myakusho.info/'
 reachable: true

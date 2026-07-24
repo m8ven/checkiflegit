@@ -1,10 +1,10 @@
 ---
 domain: domaene-wachau.at
 slug: domaene-wachau-at
-title: Is domaene-wachau.at Legit? Trust Signal Check
+title: Is domaene-wachau.at Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for domaene-wachau.at: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  domaene-wachau.at scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:01:23.484Z'
 finalUrl: 'https://www.domaene-wachau.at/de/'
 reachable: true

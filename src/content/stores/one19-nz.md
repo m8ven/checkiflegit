@@ -1,10 +1,10 @@
 ---
 domain: one19.nz
 slug: one19-nz
-title: Is one19.nz Legit? Trust Signal Check
+title: Is one19.nz Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for one19.nz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  one19.nz scores 94/100 on our public trust checks. Established domain —
+  registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:15.645Z'
 finalUrl: 'https://one19.nz/'
 reachable: true

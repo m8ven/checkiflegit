@@ -1,10 +1,10 @@
 ---
 domain: skippymeubel.nl
 slug: skippymeubel-nl
-title: Is skippymeubel.nl Legit? Trust Signal Check
+title: Is skippymeubel.nl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for skippymeubel.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  skippymeubel.nl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:34:56.852Z'
 finalUrl: 'https://www.skippymeubel.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: hoachivi.com
 slug: hoachivi-com
-title: Is hoachivi.com Legit? Trust Signal Check
+title: Is hoachivi.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for hoachivi.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hoachivi.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T15:01:06.827Z'
 finalUrl: 'https://hoachivi.com/'
 reachable: true

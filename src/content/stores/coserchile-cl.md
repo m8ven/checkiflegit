@@ -1,10 +1,10 @@
 ---
 domain: coserchile.cl
 slug: coserchile-cl
-title: Is coserchile.cl Legit? Trust Signal Check
+title: Is coserchile.cl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for coserchile.cl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  coserchile.cl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:19:44.957Z'
 finalUrl: 'https://coserchile.cl/'
 reachable: true

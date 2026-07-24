@@ -1,10 +1,10 @@
 ---
 domain: new.beautyoffice.eu
 slug: new-beautyoffice-eu
-title: Is new.beautyoffice.eu Legit? Trust Signal Check
+title: Is new.beautyoffice.eu Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for new.beautyoffice.eu: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  new.beautyoffice.eu scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:54:47.098Z'
 finalUrl: 'https://new.beautyoffice.eu/'
 reachable: true

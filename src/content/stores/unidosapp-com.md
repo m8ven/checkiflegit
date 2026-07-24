@@ -1,10 +1,10 @@
 ---
 domain: unidosapp.com
 slug: unidosapp-com
-title: Is unidosapp.com Legit? Trust Signal Check
+title: Is unidosapp.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for unidosapp.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  unidosapp.com scores 40/100 on our public trust checks. Domain registered very
+  recently (33 days ago). No links to major social platforms found.
 fetchedAt: '2026-06-25T12:08:10.818Z'
 finalUrl: 'https://unidosapp.com/'
 reachable: true

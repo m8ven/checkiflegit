@@ -1,10 +1,10 @@
 ---
 domain: grca.org
 slug: grca-org
-title: Is grca.org Legit? Trust Signal Check
+title: Is grca.org Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for grca.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  grca.org scores 76/100 on our public trust checks. Established domain —
+  registered 30.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:42.758Z'
 finalUrl: 'https://grca.org/'
 reachable: true

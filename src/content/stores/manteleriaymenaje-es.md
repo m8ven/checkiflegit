@@ -1,10 +1,10 @@
 ---
 domain: manteleriaymenaje.es
 slug: manteleriaymenaje-es
-title: Is manteleriaymenaje.es Legit? Trust Signal Check
+title: Is manteleriaymenaje.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for manteleriaymenaje.es: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  manteleriaymenaje.es scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:03.137Z'
 finalUrl: 'https://manteleriaymenaje.es/'
 reachable: true

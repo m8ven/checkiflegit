@@ -1,10 +1,10 @@
 ---
 domain: artisanbakeryinc.com
 slug: artisanbakeryinc-com
-title: Is artisanbakeryinc.com Legit? Trust Signal Check
+title: Is artisanbakeryinc.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for artisanbakeryinc.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  artisanbakeryinc.com scores 88/100 on our public trust checks. Established
+  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:37.652Z'
 finalUrl: 'https://artisanbakeryinc.com/'
 reachable: true

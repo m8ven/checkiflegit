@@ -1,10 +1,10 @@
 ---
 domain: shidcoshargh.ir
 slug: shidcoshargh-ir
-title: Is shidcoshargh.ir Legit? Trust Signal Check
+title: Is shidcoshargh.ir Legit? Trust Score 14/100
 description: >-
-  An automated trust-signal check for shidcoshargh.ir: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  shidcoshargh.ir scores 14/100 on our public trust checks. Standard contact and
+  policy pages were not found.
 fetchedAt: '2026-06-25T15:31:03.737Z'
 finalUrl: 'https://shidcoshargh.ir/'
 reachable: true

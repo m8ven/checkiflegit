@@ -1,10 +1,10 @@
 ---
 domain: buyshroomsonline.co
 slug: buyshroomsonline-co
-title: Is buyshroomsonline.co Legit? Trust Signal Check
+title: Is buyshroomsonline.co Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for buyshroomsonline.co: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  buyshroomsonline.co scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:04:35.062Z'
 finalUrl: 'https://buyshroomsonline.co/'
 reachable: true

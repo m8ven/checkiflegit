@@ -1,10 +1,11 @@
 ---
 domain: skautuslenis.lt
 slug: skautuslenis-lt
-title: Is skautuslenis.lt Legit? Trust Signal Check
+title: Is skautuslenis.lt Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for skautuslenis.lt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  skautuslenis.lt scores 76/100 on our public trust checks. Public business
+  contact details are listed. Maintains links to multiple social media
+  platforms.
 fetchedAt: '2026-06-25T12:44:50.235Z'
 finalUrl: 'https://www.skautuslenis.lt/'
 reachable: true

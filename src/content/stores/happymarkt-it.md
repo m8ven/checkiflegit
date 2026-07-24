@@ -1,10 +1,10 @@
 ---
 domain: happymarkt.it
 slug: happymarkt-it
-title: Is happymarkt.it Legit? Trust Signal Check
+title: Is happymarkt.it Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for happymarkt.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  happymarkt.it scores 85/100 on our public trust checks. Established domain —
+  registered 22.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:41.989Z'
 finalUrl: 'https://www.happymarkt.it/'
 reachable: true

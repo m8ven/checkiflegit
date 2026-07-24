@@ -1,10 +1,10 @@
 ---
 domain: harpmusic.org
 slug: harpmusic-org
-title: Is harpmusic.org Legit? Trust Signal Check
+title: Is harpmusic.org Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for harpmusic.org: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  harpmusic.org scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:37:08.910Z'
 finalUrl: 'https://harpmusic.org/'
 reachable: true

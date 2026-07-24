@@ -1,10 +1,10 @@
 ---
 domain: biser.md
 slug: biser-md
-title: Is biser.md Legit? Trust Signal Check
+title: Is biser.md Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for biser.md: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  biser.md scores 76/100 on our public trust checks. Established domain —
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:46.320Z'
 finalUrl: 'https://biser.md/'
 reachable: true

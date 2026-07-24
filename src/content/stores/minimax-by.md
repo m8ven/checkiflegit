@@ -1,10 +1,10 @@
 ---
 domain: minimax.by
 slug: minimax-by
-title: Is minimax.by Legit? Trust Signal Check
+title: Is minimax.by Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for minimax.by: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  minimax.by scores 88/100 on our public trust checks. Established domain —
+  registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:55:36.177Z'
 finalUrl: 'https://minimax.by/'
 reachable: true

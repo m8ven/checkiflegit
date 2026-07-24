@@ -1,10 +1,10 @@
 ---
 domain: mojocollections.co.za
 slug: mojocollections-co-za
-title: Is mojocollections.co.za Legit? Trust Signal Check
+title: Is mojocollections.co.za Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mojocollections.co.za: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mojocollections.co.za scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:16.929Z'
 finalUrl: 'https://mojocollections.co.za/'
 reachable: true

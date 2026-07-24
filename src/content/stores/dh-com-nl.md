@@ -1,10 +1,11 @@
 ---
 domain: dh-com.nl
 slug: dh-com-nl
-title: Is dh-com.nl Legit? Trust Signal Check
+title: Is dh-com.nl Legit? Trust Score 13/100
 description: >-
-  An automated trust-signal check for dh-com.nl: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  dh-com.nl scores 13/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T12:28:54.908Z'
 finalUrl: 'http://www.dh-com.nl/'
 reachable: true

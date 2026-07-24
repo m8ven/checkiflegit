@@ -1,10 +1,10 @@
 ---
 domain: reflekt.ch
 slug: reflekt-ch
-title: Is reflekt.ch Legit? Trust Signal Check
+title: Is reflekt.ch Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for reflekt.ch: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  reflekt.ch scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:28:51.639Z'
 finalUrl: 'https://reflekt.ch/'
 reachable: true

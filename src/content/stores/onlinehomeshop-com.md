@@ -1,10 +1,10 @@
 ---
 domain: onlinehomeshop.com
 slug: onlinehomeshop-com
-title: Is onlinehomeshop.com Legit? Trust Signal Check
+title: Is onlinehomeshop.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for onlinehomeshop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  onlinehomeshop.com scores 88/100 on our public trust checks. Established
+  domain — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:33.812Z'
 finalUrl: 'https://www.onlinehomeshop.com/'
 reachable: true

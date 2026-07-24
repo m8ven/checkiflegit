@@ -1,10 +1,10 @@
 ---
 domain: kristiarzola.com
 slug: kristiarzola-com
-title: Is kristiarzola.com Legit? Trust Signal Check
+title: Is kristiarzola.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for kristiarzola.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kristiarzola.com scores 76/100 on our public trust checks. Established domain
+  — registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:14.924Z'
 finalUrl: 'https://kristiarzola.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: chungg.com
 slug: chungg-com
-title: Is chungg.com Legit? Trust Signal Check
+title: Is chungg.com Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for chungg.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  chungg.com scores 66/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:26:56.349Z'
 finalUrl: 'https://www.chungg.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pinklab.al
 slug: pinklab-al
-title: Is pinklab.al Legit? Trust Signal Check
+title: Is pinklab.al Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pinklab.al: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pinklab.al scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:02:16.282Z'
 finalUrl: 'https://pinklab.al/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sangohoangphat.com
 slug: sangohoangphat-com
-title: Is sangohoangphat.com Legit? Trust Signal Check
+title: Is sangohoangphat.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sangohoangphat.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sangohoangphat.com scores 88/100 on our public trust checks. Established
+  domain — registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:49.261Z'
 finalUrl: 'https://sangohoangphat.com/'
 reachable: true

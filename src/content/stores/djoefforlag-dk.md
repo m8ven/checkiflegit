@@ -1,10 +1,10 @@
 ---
 domain: djoefforlag.dk
 slug: djoefforlag-dk
-title: Is djoefforlag.dk Legit? Trust Signal Check
+title: Is djoefforlag.dk Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for djoefforlag.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  djoefforlag.dk scores 94/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:42.629Z'
 finalUrl: 'https://djoefforlag.dk/'
 reachable: true

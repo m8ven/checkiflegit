@@ -1,10 +1,10 @@
 ---
 domain: kanctovary777.com.ua
 slug: kanctovary777-com-ua
-title: Is kanctovary777.com.ua Legit? Trust Signal Check
+title: Is kanctovary777.com.ua Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kanctovary777.com.ua: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kanctovary777.com.ua scores 88/100 on our public trust checks. Established
+  domain — registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:05.435Z'
 finalUrl: 'https://kanctovary777.com.ua/'
 reachable: true

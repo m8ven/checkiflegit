@@ -1,10 +1,10 @@
 ---
 domain: drsquatch.com
 slug: drsquatch-com
-title: Is drsquatch.com Legit? Trust Signal Check
+title: Is drsquatch.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for drsquatch.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  drsquatch.com scores 70/100 on our public trust checks. Established domain —
+  registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:20:29.284Z'
 finalUrl: 'https://www.drsquatch.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: martfer.com.br
 slug: martfer-com-br
-title: Is martfer.com.br Legit? Trust Signal Check
+title: Is martfer.com.br Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for martfer.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  martfer.com.br scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:54:24.504Z'
 finalUrl: 'https://martfer.com.br/'
 reachable: true

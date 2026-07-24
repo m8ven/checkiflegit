@@ -1,10 +1,10 @@
 ---
 domain: gamblersanonymous.org
 slug: gamblersanonymous-org
-title: Is gamblersanonymous.org Legit? Trust Signal Check
+title: Is gamblersanonymous.org Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for gamblersanonymous.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  gamblersanonymous.org scores 73/100 on our public trust checks. Established
+  domain — registered 29.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:46.481Z'
 finalUrl: 'https://gamblersanonymous.org/'
 reachable: true

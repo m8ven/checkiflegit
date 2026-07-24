@@ -1,10 +1,10 @@
 ---
 domain: bijela-tehnika.com.hr
 slug: bijela-tehnika-com-hr
-title: Is bijela-tehnika.com.hr Legit? Trust Signal Check
+title: Is bijela-tehnika.com.hr Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for bijela-tehnika.com.hr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bijela-tehnika.com.hr scores 85/100 on our public trust checks. Established
+  domain — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:48:21.398Z'
 finalUrl: 'https://bijela-tehnika.com.hr/'
 reachable: true

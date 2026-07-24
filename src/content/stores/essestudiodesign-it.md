@@ -1,10 +1,10 @@
 ---
 domain: essestudiodesign.it
 slug: essestudiodesign-it
-title: Is essestudiodesign.it Legit? Trust Signal Check
+title: Is essestudiodesign.it Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for essestudiodesign.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  essestudiodesign.it scores 76/100 on our public trust checks. Established
+  domain — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:12.742Z'
 finalUrl: 'https://essestudiodesign.it/'
 reachable: true

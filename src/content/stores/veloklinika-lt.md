@@ -1,10 +1,10 @@
 ---
 domain: veloklinika.lt
 slug: veloklinika-lt
-title: Is veloklinika.lt Legit? Trust Signal Check
+title: Is veloklinika.lt Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for veloklinika.lt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  veloklinika.lt scores 100/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:17.700Z'
 finalUrl: 'https://veloklinika.lt/'
 reachable: true

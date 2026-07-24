@@ -1,10 +1,10 @@
 ---
 domain: plastipap.fi
 slug: plastipap-fi
-title: Is plastipap.fi Legit? Trust Signal Check
+title: Is plastipap.fi Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for plastipap.fi: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  plastipap.fi scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:49:16.105Z'
 finalUrl: 'https://plastipap.fi/'
 reachable: true

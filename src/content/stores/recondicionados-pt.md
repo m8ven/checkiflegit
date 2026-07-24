@@ -1,10 +1,10 @@
 ---
 domain: recondicionados.pt
 slug: recondicionados-pt
-title: Is recondicionados.pt Legit? Trust Signal Check
+title: Is recondicionados.pt Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for recondicionados.pt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  recondicionados.pt scores 88/100 on our public trust checks. Established
+  domain — registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:16.867Z'
 finalUrl: 'https://recondicionados.pt/'
 reachable: true

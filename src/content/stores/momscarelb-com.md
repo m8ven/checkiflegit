@@ -1,10 +1,10 @@
 ---
 domain: momscarelb.com
 slug: momscarelb-com
-title: Is momscarelb.com Legit? Trust Signal Check
+title: Is momscarelb.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for momscarelb.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  momscarelb.com scores 70/100 on our public trust checks. Established domain —
+  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:45.002Z'
 finalUrl: 'https://momscarelb.com/'
 reachable: true

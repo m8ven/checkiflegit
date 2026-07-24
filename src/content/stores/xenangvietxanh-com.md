@@ -1,10 +1,10 @@
 ---
 domain: xenangvietxanh.com
 slug: xenangvietxanh-com
-title: Is xenangvietxanh.com Legit? Trust Signal Check
+title: Is xenangvietxanh.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for xenangvietxanh.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  xenangvietxanh.com scores 82/100 on our public trust checks. Established
+  domain — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:30.140Z'
 finalUrl: 'https://xenangvietxanh.com/'
 reachable: true

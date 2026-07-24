@@ -1,10 +1,10 @@
 ---
 domain: blacktielimo.us
 slug: blacktielimo-us
-title: Is blacktielimo.us Legit? Trust Signal Check
+title: Is blacktielimo.us Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for blacktielimo.us: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blacktielimo.us scores 73/100 on our public trust checks. Established domain —
+  registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:48.785Z'
 finalUrl: 'https://blacktielimo.us/'
 reachable: true

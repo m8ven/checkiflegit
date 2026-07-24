@@ -1,10 +1,10 @@
 ---
 domain: akademskaknjiga.com
 slug: akademskaknjiga-com
-title: Is akademskaknjiga.com Legit? Trust Signal Check
+title: Is akademskaknjiga.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for akademskaknjiga.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  akademskaknjiga.com scores 88/100 on our public trust checks. Established
+  domain — registered 18.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:35.039Z'
 finalUrl: 'https://akademskaknjiga.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: register-lei.org
 slug: register-lei-org
-title: Is register-lei.org Legit? Trust Signal Check
+title: Is register-lei.org Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for register-lei.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  register-lei.org scores 85/100 on our public trust checks. Established domain
+  — registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:17.243Z'
 finalUrl: 'https://register-lei.org/'
 reachable: true

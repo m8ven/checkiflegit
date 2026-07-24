@@ -1,10 +1,11 @@
 ---
 domain: producator-piatranaturala.ro
 slug: producator-piatranaturala-ro
-title: Is producator-piatranaturala.ro Legit? Trust Signal Check
+title: Is producator-piatranaturala.ro Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for producator-piatranaturala.ro: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  producator-piatranaturala.ro scores 73/100 on our public trust checks.
+  Established domain — registered 12.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T11:59:11.340Z'
 finalUrl: 'https://producator-piatranaturala.ro/?v=3736f5a66ba7'
 reachable: true

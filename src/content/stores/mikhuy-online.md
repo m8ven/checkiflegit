@@ -1,10 +1,10 @@
 ---
 domain: mikhuy.online
 slug: mikhuy-online
-title: Is mikhuy.online Legit? Trust Signal Check
+title: Is mikhuy.online Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for mikhuy.online: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mikhuy.online scores 94/100 on our public trust checks. Established domain —
+  registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:46.594Z'
 finalUrl: 'https://mikhuy.online/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pirciumeistrai.lt
 slug: pirciumeistrai-lt
-title: Is pirciumeistrai.lt Legit? Trust Signal Check
+title: Is pirciumeistrai.lt Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for pirciumeistrai.lt: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pirciumeistrai.lt scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:27:28.269Z'
 finalUrl: 'https://pirciumeistrai.lt/'
 reachable: true

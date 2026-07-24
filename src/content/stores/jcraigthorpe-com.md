@@ -1,10 +1,10 @@
 ---
 domain: jcraigthorpe.com
 slug: jcraigthorpe-com
-title: Is jcraigthorpe.com Legit? Trust Signal Check
+title: Is jcraigthorpe.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for jcraigthorpe.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jcraigthorpe.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:31:29.543Z'
 finalUrl: 'https://jcraigthorpe.com/'
 reachable: true

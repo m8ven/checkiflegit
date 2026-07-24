@@ -1,10 +1,10 @@
 ---
 domain: idseducation.com
 slug: idseducation-com
-title: Is idseducation.com Legit? Trust Signal Check
+title: Is idseducation.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for idseducation.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  idseducation.com scores 76/100 on our public trust checks. Established domain
+  — registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:30.338Z'
 finalUrl: 'https://idseducation.com/'
 reachable: true

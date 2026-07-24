@@ -1,10 +1,10 @@
 ---
 domain: refuse2bfeeble.com
 slug: refuse2bfeeble-com
-title: Is refuse2bfeeble.com Legit? Trust Signal Check
+title: Is refuse2bfeeble.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for refuse2bfeeble.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  refuse2bfeeble.com scores 94/100 on our public trust checks. Established
+  domain — registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:50.771Z'
 finalUrl: 'https://refuse2bfeeble.com/'
 reachable: true

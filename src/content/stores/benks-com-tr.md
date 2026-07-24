@@ -1,10 +1,10 @@
 ---
 domain: benks.com.tr
 slug: benks-com-tr
-title: Is benks.com.tr Legit? Trust Signal Check
+title: Is benks.com.tr Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for benks.com.tr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  benks.com.tr scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:50:55.539Z'
 finalUrl: 'https://benks.com.tr/'
 reachable: true

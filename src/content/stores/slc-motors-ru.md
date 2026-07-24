@@ -1,10 +1,10 @@
 ---
 domain: slc-motors.ru
 slug: slc-motors-ru
-title: Is slc-motors.ru Legit? Trust Signal Check
+title: Is slc-motors.ru Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for slc-motors.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  slc-motors.ru scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:45:36.813Z'
 finalUrl: 'https://slc-motors.ru/'
 reachable: true

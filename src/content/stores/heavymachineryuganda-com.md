@@ -1,10 +1,10 @@
 ---
 domain: heavymachineryuganda.com
 slug: heavymachineryuganda-com
-title: Is heavymachineryuganda.com Legit? Trust Signal Check
+title: Is heavymachineryuganda.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for heavymachineryuganda.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  heavymachineryuganda.com scores 85/100 on our public trust checks. Established
+  domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:23.476Z'
 finalUrl: 'https://heavymachineryuganda.com/'
 reachable: true

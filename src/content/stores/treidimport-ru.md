@@ -1,10 +1,10 @@
 ---
 domain: treidimport.ru
 slug: treidimport-ru
-title: Is treidimport.ru Legit? Trust Signal Check
+title: Is treidimport.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for treidimport.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  treidimport.ru scores 73/100 on our public trust checks. Established domain —
+  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:42.449Z'
 finalUrl: 'https://treidimport.ru/?v=89484b14b36a'
 reachable: true

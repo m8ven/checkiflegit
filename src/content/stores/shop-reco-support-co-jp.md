@@ -1,10 +1,10 @@
 ---
 domain: shop.reco-support.co.jp
 slug: shop-reco-support-co-jp
-title: Is shop.reco-support.co.jp Legit? Trust Signal Check
+title: Is shop.reco-support.co.jp Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.reco-support.co.jp: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.reco-support.co.jp scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:01:07.224Z'
 finalUrl: 'https://shop.reco-support.co.jp/'
 reachable: true

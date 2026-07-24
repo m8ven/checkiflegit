@@ -1,10 +1,10 @@
 ---
 domain: bio2000.net
 slug: bio2000-net
-title: Is bio2000.net Legit? Trust Signal Check
+title: Is bio2000.net Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bio2000.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bio2000.net scores 85/100 on our public trust checks. Established domain —
+  registered 21.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:45.297Z'
 finalUrl: 'https://bio2000.net/'
 reachable: true

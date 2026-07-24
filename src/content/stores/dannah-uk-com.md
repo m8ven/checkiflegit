@@ -1,10 +1,10 @@
 ---
 domain: dannah.uk.com
 slug: dannah-uk-com
-title: Is dannah.uk.com Legit? Trust Signal Check
+title: Is dannah.uk.com Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for dannah.uk.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dannah.uk.com scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:16:15.754Z'
 finalUrl: 'https://www.dannah.uk.com/'
 reachable: true

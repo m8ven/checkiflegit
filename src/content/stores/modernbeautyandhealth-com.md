@@ -1,10 +1,11 @@
 ---
 domain: modernbeautyandhealth.com
 slug: modernbeautyandhealth-com
-title: Is modernbeautyandhealth.com Legit? Trust Signal Check
+title: Is modernbeautyandhealth.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for modernbeautyandhealth.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  modernbeautyandhealth.com scores 73/100 on our public trust checks.
+  Established domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:55:30.921Z'
 finalUrl: 'https://modernbeautyandhealth.com/'
 reachable: true

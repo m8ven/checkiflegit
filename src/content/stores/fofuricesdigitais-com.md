@@ -1,10 +1,10 @@
 ---
 domain: fofuricesdigitais.com
 slug: fofuricesdigitais-com
-title: Is fofuricesdigitais.com Legit? Trust Signal Check
+title: Is fofuricesdigitais.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for fofuricesdigitais.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fofuricesdigitais.com scores 76/100 on our public trust checks. Established
+  domain — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:30.742Z'
 finalUrl: 'https://fofuricesdigitais.com/'
 reachable: true

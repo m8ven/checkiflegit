@@ -1,10 +1,10 @@
 ---
 domain: enon-cars.com
 slug: enon-cars-com
-title: Is enon-cars.com Legit? Trust Signal Check
+title: Is enon-cars.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for enon-cars.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  enon-cars.com scores 100/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:41.076Z'
 finalUrl: 'https://enon-cars.com/'
 reachable: true

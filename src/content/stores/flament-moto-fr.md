@@ -1,10 +1,10 @@
 ---
 domain: flament-moto.fr
 slug: flament-moto-fr
-title: Is flament-moto.fr Legit? Trust Signal Check
+title: Is flament-moto.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for flament-moto.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  flament-moto.fr scores 88/100 on our public trust checks. Established domain —
+  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:07.004Z'
 finalUrl: 'https://flament-moto.fr/'
 reachable: true

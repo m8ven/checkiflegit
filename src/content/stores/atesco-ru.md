@@ -1,10 +1,10 @@
 ---
 domain: atesco.ru
 slug: atesco-ru
-title: Is atesco.ru Legit? Trust Signal Check
+title: Is atesco.ru Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for atesco.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  atesco.ru scores 82/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:41.925Z'
 finalUrl: 'https://atesco.ru/'
 reachable: true

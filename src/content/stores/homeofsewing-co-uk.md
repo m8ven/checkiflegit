@@ -1,10 +1,10 @@
 ---
 domain: homeofsewing.co.uk
 slug: homeofsewing-co-uk
-title: Is homeofsewing.co.uk Legit? Trust Signal Check
+title: Is homeofsewing.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for homeofsewing.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  homeofsewing.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 24.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:08.037Z'
 finalUrl: 'https://homeofsewing.co.uk/'
 reachable: true

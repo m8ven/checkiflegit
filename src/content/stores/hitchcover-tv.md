@@ -1,10 +1,10 @@
 ---
 domain: hitchcover.tv
 slug: hitchcover-tv
-title: Is hitchcover.tv Legit? Trust Signal Check
+title: Is hitchcover.tv Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for hitchcover.tv: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hitchcover.tv scores 94/100 on our public trust checks. Established domain —
+  registered 14.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:02.524Z'
 finalUrl: 'https://hitchcover.tv/'
 reachable: true

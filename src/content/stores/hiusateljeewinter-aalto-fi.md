@@ -1,11 +1,10 @@
 ---
 domain: hiusateljeewinter-aalto.fi
 slug: hiusateljeewinter-aalto-fi
-title: Is hiusateljeewinter-aalto.fi Legit? Trust Signal Check
+title: Is hiusateljeewinter-aalto.fi Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for hiusateljeewinter-aalto.fi: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  hiusateljeewinter-aalto.fi scores 19/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T02:37:14.150Z'
 finalUrl: 'https://hiusateljeewinter-aalto.fi/'
 reachable: true

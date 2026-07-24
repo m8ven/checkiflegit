@@ -1,10 +1,10 @@
 ---
 domain: vogler.com.br
 slug: vogler-com-br
-title: Is vogler.com.br Legit? Trust Signal Check
+title: Is vogler.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for vogler.com.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vogler.com.br scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:37:17.634Z'
 finalUrl: 'https://vogler.com.br/'
 reachable: true

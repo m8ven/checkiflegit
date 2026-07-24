@@ -1,10 +1,10 @@
 ---
 domain: filmsprotective.com
 slug: filmsprotective-com
-title: Is filmsprotective.com Legit? Trust Signal Check
+title: Is filmsprotective.com Legit? Trust Score 67/100
 description: >-
-  An automated trust-signal check for filmsprotective.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  filmsprotective.com scores 67/100 on our public trust checks. No links to
+  major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:29:15.809Z'
 finalUrl: 'https://filmsprotective.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kobe-zoom.com
 slug: kobe-zoom-com
-title: Is kobe-zoom.com Legit? Trust Signal Check
+title: Is kobe-zoom.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kobe-zoom.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kobe-zoom.com scores 88/100 on our public trust checks. Established domain —
+  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:02.751Z'
 finalUrl: 'https://kobe-zoom.com/'
 reachable: true

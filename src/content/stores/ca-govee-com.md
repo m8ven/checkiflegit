@@ -1,10 +1,10 @@
 ---
 domain: ca.govee.com
 slug: ca-govee-com
-title: Is ca.govee.com Legit? Trust Signal Check
+title: Is ca.govee.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for ca.govee.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  ca.govee.com scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:25:04.512Z'
 finalUrl: 'https://ca.govee.com/'
 reachable: true

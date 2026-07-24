@@ -1,10 +1,10 @@
 ---
 domain: skilledhands.net
 slug: skilledhands-net
-title: Is skilledhands.net Legit? Trust Signal Check
+title: Is skilledhands.net Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for skilledhands.net: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  skilledhands.net scores 43/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:21:49.238Z'
 finalUrl: 'https://www.skilledhands.net/'
 reachable: true

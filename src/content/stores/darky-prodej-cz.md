@@ -1,10 +1,10 @@
 ---
 domain: darky-prodej.cz
 slug: darky-prodej-cz
-title: Is darky-prodej.cz Legit? Trust Signal Check
+title: Is darky-prodej.cz Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for darky-prodej.cz: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  darky-prodej.cz scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:19:39.484Z'
 finalUrl: 'https://www.darky-prodej.cz/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: uni-hifi-hannover.de
 slug: uni-hifi-hannover-de
-title: Is uni-hifi-hannover.de Legit? Trust Signal Check
+title: Is uni-hifi-hannover.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for uni-hifi-hannover.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  uni-hifi-hannover.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:28:55.460Z'
 finalUrl: 'https://www.uni-hifi-hannover.de/'
 reachable: true

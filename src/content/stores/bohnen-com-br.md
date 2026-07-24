@@ -1,10 +1,10 @@
 ---
 domain: bohnen.com.br
 slug: bohnen-com-br
-title: Is bohnen.com.br Legit? Trust Signal Check
+title: Is bohnen.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for bohnen.com.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bohnen.com.br scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:27:08.597Z'
 finalUrl: 'https://bohnen.com.br/'
 reachable: true

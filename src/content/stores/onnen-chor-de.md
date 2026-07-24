@@ -1,10 +1,10 @@
 ---
 domain: onnen-chor.de
 slug: onnen-chor-de
-title: Is onnen-chor.de Legit? Trust Signal Check
+title: Is onnen-chor.de Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for onnen-chor.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  onnen-chor.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:17:25.207Z'
 finalUrl: 'https://onnen-chor.de/'
 reachable: true

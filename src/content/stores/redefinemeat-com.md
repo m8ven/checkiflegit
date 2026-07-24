@@ -1,10 +1,10 @@
 ---
 domain: redefinemeat.com
 slug: redefinemeat-com
-title: Is redefinemeat.com Legit? Trust Signal Check
+title: Is redefinemeat.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for redefinemeat.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  redefinemeat.com scores 100/100 on our public trust checks. Established domain
+  — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:15.919Z'
 finalUrl: 'https://www.redefinemeat.com/'
 reachable: true

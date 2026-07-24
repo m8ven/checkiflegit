@@ -1,10 +1,10 @@
 ---
 domain: thecbdexpert.co.uk
 slug: thecbdexpert-co-uk
-title: Is thecbdexpert.co.uk Legit? Trust Signal Check
+title: Is thecbdexpert.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for thecbdexpert.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thecbdexpert.co.uk scores 73/100 on our public trust checks. Established
+  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:51.611Z'
 finalUrl: 'https://thecbdexpert.co.uk/'
 reachable: true

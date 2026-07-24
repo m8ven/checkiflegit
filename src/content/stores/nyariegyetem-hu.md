@@ -1,10 +1,10 @@
 ---
 domain: nyariegyetem.hu
 slug: nyariegyetem-hu
-title: Is nyariegyetem.hu Legit? Trust Signal Check
+title: Is nyariegyetem.hu Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for nyariegyetem.hu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nyariegyetem.hu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:25:33.297Z'
 finalUrl: 'https://nyariegyetem.hu/'
 reachable: true

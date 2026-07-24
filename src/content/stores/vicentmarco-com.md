@@ -1,10 +1,10 @@
 ---
 domain: vicentmarco.com
 slug: vicentmarco-com
-title: Is vicentmarco.com Legit? Trust Signal Check
+title: Is vicentmarco.com Legit? Trust Score 13/100
 description: >-
-  An automated trust-signal check for vicentmarco.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  vicentmarco.com scores 13/100 on our public trust checks. Standard contact and
+  policy pages were not found.
 fetchedAt: '2026-06-25T03:32:32.109Z'
 finalUrl: 'http://www.vicentmarco.com/'
 reachable: true

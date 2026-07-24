@@ -1,10 +1,10 @@
 ---
 domain: arogyadhamhcc.com
 slug: arogyadhamhcc-com
-title: Is arogyadhamhcc.com Legit? Trust Signal Check
+title: Is arogyadhamhcc.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for arogyadhamhcc.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arogyadhamhcc.com scores 88/100 on our public trust checks. Established domain
+  — registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:42.633Z'
 finalUrl: 'https://arogyadhamhcc.com/'
 reachable: true

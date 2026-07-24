@@ -1,10 +1,10 @@
 ---
 domain: dev.qualityaustria.com
 slug: dev-qualityaustria-com
-title: Is dev.qualityaustria.com Legit? Trust Signal Check
+title: Is dev.qualityaustria.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for dev.qualityaustria.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dev.qualityaustria.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:44.511Z'
 finalUrl: 'https://dev.qualityaustria.com/'
 reachable: true

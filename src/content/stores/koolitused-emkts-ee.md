@@ -1,10 +1,10 @@
 ---
 domain: koolitused.emkts.ee
 slug: koolitused-emkts-ee
-title: Is koolitused.emkts.ee Legit? Trust Signal Check
+title: Is koolitused.emkts.ee Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for koolitused.emkts.ee: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  koolitused.emkts.ee scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:46:40.472Z'
 finalUrl: 'https://koolitused.emkts.ee/'
 reachable: true

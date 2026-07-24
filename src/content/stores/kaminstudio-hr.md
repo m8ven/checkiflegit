@@ -1,10 +1,10 @@
 ---
 domain: kaminstudio.hr
 slug: kaminstudio-hr
-title: Is kaminstudio.hr Legit? Trust Signal Check
+title: Is kaminstudio.hr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kaminstudio.hr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kaminstudio.hr scores 88/100 on our public trust checks. Established domain —
+  registered 13.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:39.939Z'
 finalUrl: 'https://kaminstudio.hr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: boomatic.com.my
 slug: boomatic-com-my
-title: Is boomatic.com.my Legit? Trust Signal Check
+title: Is boomatic.com.my Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for boomatic.com.my: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  boomatic.com.my scores 73/100 on our public trust checks. Established domain —
+  registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:23.382Z'
 finalUrl: 'https://boomatic.com.my/'
 reachable: true

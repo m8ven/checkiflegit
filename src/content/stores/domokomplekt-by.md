@@ -1,10 +1,10 @@
 ---
 domain: domokomplekt.by
 slug: domokomplekt-by
-title: Is domokomplekt.by Legit? Trust Signal Check
+title: Is domokomplekt.by Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for domokomplekt.by: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  domokomplekt.by scores 88/100 on our public trust checks. Established domain —
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:08.541Z'
 finalUrl: 'https://domokomplekt.by/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: green.com.do
 slug: green-com-do
-title: Is green.com.do Legit? Trust Signal Check
+title: Is green.com.do Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for green.com.do: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  green.com.do scores 85/100 on our public trust checks. Established domain —
+  registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:58.850Z'
 finalUrl: 'https://green.com.do/'
 reachable: true

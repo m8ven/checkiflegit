@@ -1,10 +1,10 @@
 ---
 domain: pvreproducts.com
 slug: pvreproducts-com
-title: Is pvreproducts.com Legit? Trust Signal Check
+title: Is pvreproducts.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for pvreproducts.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pvreproducts.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:42:08.826Z'
 finalUrl: 'https://pvreproducts.com/'
 reachable: true

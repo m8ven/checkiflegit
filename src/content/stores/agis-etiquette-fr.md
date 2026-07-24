@@ -1,10 +1,10 @@
 ---
 domain: agis-etiquette.fr
 slug: agis-etiquette-fr
-title: Is agis-etiquette.fr Legit? Trust Signal Check
+title: Is agis-etiquette.fr Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for agis-etiquette.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  agis-etiquette.fr scores 85/100 on our public trust checks. Established domain
+  — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:58.211Z'
 finalUrl: 'https://www.agis-etiquette.fr/'
 reachable: true

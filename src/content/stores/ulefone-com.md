@@ -1,10 +1,10 @@
 ---
 domain: ulefone.com
 slug: ulefone-com
-title: Is ulefone.com Legit? Trust Signal Check
+title: Is ulefone.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ulefone.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ulefone.com scores 88/100 on our public trust checks. Established domain —
+  registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:50.144Z'
 finalUrl: 'https://www.ulefone.com/'
 reachable: true

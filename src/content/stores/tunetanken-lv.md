@@ -1,10 +1,11 @@
 ---
 domain: tunetanken.lv
 slug: tunetanken-lv
-title: Is tunetanken.lv Legit? Trust Signal Check
+title: Is tunetanken.lv Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tunetanken.lv: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tunetanken.lv scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:54:40.741Z'
 finalUrl: 'https://tunetanken.lv/'
 reachable: true

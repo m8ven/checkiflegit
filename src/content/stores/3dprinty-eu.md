@@ -1,10 +1,10 @@
 ---
 domain: 3dprinty.eu
 slug: 3dprinty-eu
-title: Is 3dprinty.eu Legit? Trust Signal Check
+title: Is 3dprinty.eu Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 3dprinty.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  3dprinty.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:16:52.177Z'
 finalUrl: 'https://3dprinty.eu/'
 reachable: true

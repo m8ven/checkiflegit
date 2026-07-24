@@ -1,10 +1,10 @@
 ---
 domain: beositi.rs
 slug: beositi-rs
-title: Is beositi.rs Legit? Trust Signal Check
+title: Is beositi.rs Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for beositi.rs: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  beositi.rs scores 76/100 on our public trust checks. Established domain —
+  registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:22.852Z'
 finalUrl: 'https://beositi.rs/'
 reachable: true

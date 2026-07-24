@@ -1,10 +1,11 @@
 ---
 domain: xn--53-6kcho6a1aek6e.xn--p1ai
 slug: xn-53-6kcho6a1aek6e-xn-p1ai
-title: Is xn--53-6kcho6a1aek6e.xn--p1ai Legit? Trust Signal Check
+title: Is xn--53-6kcho6a1aek6e.xn--p1ai Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for xn--53-6kcho6a1aek6e.xn--p1ai: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  xn--53-6kcho6a1aek6e.xn--p1ai scores 76/100 on our public trust checks.
+  Established domain — registered 9.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:34:20.923Z'
 finalUrl: 'https://xn--53-6kcho6a1aek6e.xn--p1ai/'
 reachable: true

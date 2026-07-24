@@ -1,10 +1,10 @@
 ---
 domain: provira.be
 slug: provira-be
-title: Is provira.be Legit? Trust Signal Check
+title: Is provira.be Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for provira.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  provira.be scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:04:25.638Z'
 finalUrl: 'https://provira.be/'
 reachable: true

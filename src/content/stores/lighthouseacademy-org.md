@@ -1,10 +1,10 @@
 ---
 domain: lighthouseacademy.org
 slug: lighthouseacademy-org
-title: Is lighthouseacademy.org Legit? Trust Signal Check
+title: Is lighthouseacademy.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for lighthouseacademy.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lighthouseacademy.org scores 76/100 on our public trust checks. Established
+  domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:19.811Z'
 finalUrl: 'https://lighthouseacademy.org/'
 reachable: true

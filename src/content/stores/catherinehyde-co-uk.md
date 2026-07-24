@@ -1,10 +1,10 @@
 ---
 domain: catherinehyde.co.uk
 slug: catherinehyde-co-uk
-title: Is catherinehyde.co.uk Legit? Trust Signal Check
+title: Is catherinehyde.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for catherinehyde.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  catherinehyde.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:07.739Z'
 finalUrl: 'https://catherinehyde.co.uk/'
 reachable: true

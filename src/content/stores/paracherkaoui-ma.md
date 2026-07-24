@@ -1,10 +1,10 @@
 ---
 domain: paracherkaoui.ma
 slug: paracherkaoui-ma
-title: Is paracherkaoui.ma Legit? Trust Signal Check
+title: Is paracherkaoui.ma Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for paracherkaoui.ma: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  paracherkaoui.ma scores 88/100 on our public trust checks. Has a contact page
+  and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T15:18:49.210Z'
 finalUrl: 'https://paracherkaoui.ma/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jomatrading.no
 slug: jomatrading-no
-title: Is jomatrading.no Legit? Trust Signal Check
+title: Is jomatrading.no Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for jomatrading.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jomatrading.no scores 73/100 on our public trust checks. Established domain —
+  registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:36.348Z'
 finalUrl: 'https://www.jomatrading.no/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: bodegascarayolycastellar.com
 slug: bodegascarayolycastellar-com
-title: Is bodegascarayolycastellar.com Legit? Trust Signal Check
+title: Is bodegascarayolycastellar.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bodegascarayolycastellar.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bodegascarayolycastellar.com scores 100/100 on our public trust checks.
+  Established domain — registered 5.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:27:07.914Z'
 finalUrl: 'https://bodegascarayolycastellar.com/'
 reachable: true

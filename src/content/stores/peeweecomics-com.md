@@ -1,10 +1,10 @@
 ---
 domain: peeweecomics.com
 slug: peeweecomics-com
-title: Is peeweecomics.com Legit? Trust Signal Check
+title: Is peeweecomics.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for peeweecomics.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  peeweecomics.com scores 85/100 on our public trust checks. Established domain
+  — registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:19:44.270Z'
 finalUrl: 'https://peeweecomics.com/'
 reachable: true

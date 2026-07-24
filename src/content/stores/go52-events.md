@@ -1,10 +1,10 @@
 ---
 domain: go52.events
 slug: go52-events
-title: Is go52.events Legit? Trust Signal Check
+title: Is go52.events Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for go52.events: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  go52.events scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:47:04.496Z'
 finalUrl: 'https://go52.events/'
 reachable: true

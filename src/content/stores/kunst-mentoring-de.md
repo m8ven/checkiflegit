@@ -1,10 +1,10 @@
 ---
 domain: kunst-mentoring.de
 slug: kunst-mentoring-de
-title: Is kunst-mentoring.de Legit? Trust Signal Check
+title: Is kunst-mentoring.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for kunst-mentoring.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kunst-mentoring.de scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:49:10.400Z'
 finalUrl: 'https://kunst-mentoring.de/'
 reachable: true

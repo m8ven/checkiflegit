@@ -1,10 +1,10 @@
 ---
 domain: besco.hu
 slug: besco-hu
-title: Is besco.hu Legit? Trust Signal Check
+title: Is besco.hu Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for besco.hu: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  besco.hu scores 49/100 on our public trust checks. Standard contact and policy
+  pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:51:46.307Z'
 finalUrl: 'https://besco.hu/'
 reachable: true

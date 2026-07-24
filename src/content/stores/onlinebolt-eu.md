@@ -1,10 +1,11 @@
 ---
 domain: onlinebolt.eu
 slug: onlinebolt-eu
-title: Is onlinebolt.eu Legit? Trust Signal Check
+title: Is onlinebolt.eu Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for onlinebolt.eu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  onlinebolt.eu scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T11:56:43.515Z'
 finalUrl: 'https://onlinebolt.eu/'
 reachable: true

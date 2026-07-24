@@ -1,10 +1,10 @@
 ---
 domain: nemmat.dk
 slug: nemmat-dk
-title: Is nemmat.dk Legit? Trust Signal Check
+title: Is nemmat.dk Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nemmat.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nemmat.dk scores 73/100 on our public trust checks. Established domain —
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:22:11.669Z'
 finalUrl: 'https://nemmat.dk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: allaboutknex.com
 slug: allaboutknex-com
-title: Is allaboutknex.com Legit? Trust Signal Check
+title: Is allaboutknex.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for allaboutknex.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  allaboutknex.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:11:52.591Z'
 finalUrl: 'https://www.allaboutknex.com/'
 reachable: true

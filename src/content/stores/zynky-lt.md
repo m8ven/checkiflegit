@@ -1,10 +1,10 @@
 ---
 domain: zynky.lt
 slug: zynky-lt
-title: Is zynky.lt Legit? Trust Signal Check
+title: Is zynky.lt Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for zynky.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zynky.lt scores 76/100 on our public trust checks. Established domain —
+  registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:35:05.300Z'
 finalUrl: 'https://zynky.lt/'
 reachable: true

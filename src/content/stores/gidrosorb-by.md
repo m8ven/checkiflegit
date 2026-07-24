@@ -1,10 +1,10 @@
 ---
 domain: gidrosorb.by
 slug: gidrosorb-by
-title: Is gidrosorb.by Legit? Trust Signal Check
+title: Is gidrosorb.by Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for gidrosorb.by: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gidrosorb.by scores 73/100 on our public trust checks. Established domain —
+  registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:09.356Z'
 finalUrl: 'https://gidrosorb.by/'
 reachable: true

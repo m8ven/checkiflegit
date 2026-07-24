@@ -1,10 +1,11 @@
 ---
 domain: proitsoft.hu
 slug: proitsoft-hu
-title: Is proitsoft.hu Legit? Trust Signal Check
+title: Is proitsoft.hu Legit? Trust Score 6/100
 description: >-
-  An automated trust-signal check for proitsoft.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  proitsoft.hu scores 6/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T02:41:41.512Z'
 finalUrl: 'https://proitsoft.hu/'
 reachable: true

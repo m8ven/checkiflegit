@@ -1,10 +1,10 @@
 ---
 domain: fitmods.ru
 slug: fitmods-ru
-title: Is fitmods.ru Legit? Trust Signal Check
+title: Is fitmods.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fitmods.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fitmods.ru scores 73/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:48:54.668Z'
 finalUrl: 'https://fitmods.ru/'
 reachable: true

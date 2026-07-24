@@ -1,10 +1,10 @@
 ---
 domain: samcothanglong.vn
 slug: samcothanglong-vn
-title: Is samcothanglong.vn Legit? Trust Signal Check
+title: Is samcothanglong.vn Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for samcothanglong.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  samcothanglong.vn scores 49/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T15:01:09.235Z'
 finalUrl: 'https://samcothanglong.vn/'
 reachable: true

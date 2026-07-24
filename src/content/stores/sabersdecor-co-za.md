@@ -1,10 +1,10 @@
 ---
 domain: sabersdecor.co.za
 slug: sabersdecor-co-za
-title: Is sabersdecor.co.za Legit? Trust Signal Check
+title: Is sabersdecor.co.za Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sabersdecor.co.za: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sabersdecor.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:59:32.585Z'
 finalUrl: 'https://sabersdecor.co.za/'
 reachable: true

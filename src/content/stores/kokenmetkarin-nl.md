@@ -1,10 +1,10 @@
 ---
 domain: kokenmetkarin.nl
 slug: kokenmetkarin-nl
-title: Is kokenmetkarin.nl Legit? Trust Signal Check
+title: Is kokenmetkarin.nl Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for kokenmetkarin.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kokenmetkarin.nl scores 76/100 on our public trust checks. Established domain
+  — registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:47.692Z'
 finalUrl: 'https://www.kokenmetkarin.nl/'
 reachable: true

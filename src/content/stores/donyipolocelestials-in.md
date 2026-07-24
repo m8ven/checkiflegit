@@ -1,10 +1,10 @@
 ---
 domain: donyipolocelestials.in
 slug: donyipolocelestials-in
-title: Is donyipolocelestials.in Legit? Trust Signal Check
+title: Is donyipolocelestials.in Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for donyipolocelestials.in: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  donyipolocelestials.in scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:38:04.192Z'
 finalUrl: 'https://donyipolocelestials.in/'
 reachable: true

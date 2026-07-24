@@ -1,10 +1,10 @@
 ---
 domain: bekohuelva.com
 slug: bekohuelva-com
-title: Is bekohuelva.com Legit? Trust Signal Check
+title: Is bekohuelva.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for bekohuelva.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bekohuelva.com scores 73/100 on our public trust checks. Established domain —
+  registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:23.001Z'
 finalUrl: 'https://www.bekohuelva.com/'
 reachable: true

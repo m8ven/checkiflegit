@@ -1,10 +1,10 @@
 ---
 domain: karudacourier.com
 slug: karudacourier-com
-title: Is karudacourier.com Legit? Trust Signal Check
+title: Is karudacourier.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for karudacourier.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  karudacourier.com scores 94/100 on our public trust checks. Established domain
+  — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:06.684Z'
 finalUrl: 'https://karudacourier.com/'
 reachable: true

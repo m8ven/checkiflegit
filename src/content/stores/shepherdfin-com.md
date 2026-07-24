@@ -1,10 +1,10 @@
 ---
 domain: shepherdfin.com
 slug: shepherdfin-com
-title: Is shepherdfin.com Legit? Trust Signal Check
+title: Is shepherdfin.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shepherdfin.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shepherdfin.com scores 100/100 on our public trust checks. Established domain
+  — registered 24.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:36.303Z'
 finalUrl: 'https://www.shepherdfin.com/'
 reachable: true

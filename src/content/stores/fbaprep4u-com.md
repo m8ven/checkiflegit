@@ -1,10 +1,10 @@
 ---
 domain: fbaprep4u.com
 slug: fbaprep4u-com
-title: Is fbaprep4u.com Legit? Trust Signal Check
+title: Is fbaprep4u.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for fbaprep4u.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fbaprep4u.com scores 82/100 on our public trust checks. Established domain —
+  registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:32.891Z'
 finalUrl: 'https://fbaprep4u.com/'
 reachable: true

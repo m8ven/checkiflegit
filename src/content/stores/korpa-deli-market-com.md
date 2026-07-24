@@ -1,10 +1,10 @@
 ---
 domain: korpa-deli-market.com
 slug: korpa-deli-market-com
-title: Is korpa-deli-market.com Legit? Trust Signal Check
+title: Is korpa-deli-market.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for korpa-deli-market.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  korpa-deli-market.com scores 88/100 on our public trust checks. Established
+  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:57.185Z'
 finalUrl: 'https://www.korpa-deli-market.com/'
 reachable: true

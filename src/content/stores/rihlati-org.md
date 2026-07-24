@@ -1,10 +1,10 @@
 ---
 domain: rihlati.org
 slug: rihlati-org
-title: Is rihlati.org Legit? Trust Signal Check
+title: Is rihlati.org Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for rihlati.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rihlati.org scores 88/100 on our public trust checks. Established domain —
+  registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:09.592Z'
 finalUrl: 'https://rihlati.org/'
 reachable: true

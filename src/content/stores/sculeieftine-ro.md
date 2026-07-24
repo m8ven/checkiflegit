@@ -1,10 +1,10 @@
 ---
 domain: sculeieftine.ro
 slug: sculeieftine-ro
-title: Is sculeieftine.ro Legit? Trust Signal Check
+title: Is sculeieftine.ro Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for sculeieftine.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sculeieftine.ro scores 82/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:36:11.790Z'
 finalUrl: 'https://sculeieftine.ro/'
 reachable: true

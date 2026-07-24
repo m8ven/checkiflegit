@@ -1,10 +1,10 @@
 ---
 domain: maquimp.com
 slug: maquimp-com
-title: Is maquimp.com Legit? Trust Signal Check
+title: Is maquimp.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for maquimp.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  maquimp.com scores 88/100 on our public trust checks. Established domain —
+  registered 19.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:00.957Z'
 finalUrl: 'https://maquimp.com/'
 reachable: true

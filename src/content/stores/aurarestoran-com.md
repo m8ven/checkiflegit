@@ -1,10 +1,10 @@
 ---
 domain: aurarestoran.com
 slug: aurarestoran-com
-title: Is aurarestoran.com Legit? Trust Signal Check
+title: Is aurarestoran.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for aurarestoran.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aurarestoran.com scores 52/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:34:59.881Z'
 finalUrl: 'https://aurarestoran.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: bismidcosmeticsuk.com
 slug: bismidcosmeticsuk-com
-title: Is bismidcosmeticsuk.com Legit? Trust Signal Check
+title: Is bismidcosmeticsuk.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bismidcosmeticsuk.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bismidcosmeticsuk.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:22.119Z'
 finalUrl: 'https://bismidcosmeticsuk.com/'
 reachable: true

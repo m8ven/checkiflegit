@@ -1,10 +1,10 @@
 ---
 domain: veraparfum.com
 slug: veraparfum-com
-title: Is veraparfum.com Legit? Trust Signal Check
+title: Is veraparfum.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for veraparfum.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  veraparfum.com scores 70/100 on our public trust checks. Established domain —
+  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:06.412Z'
 finalUrl: 'https://veraparfum.com/'
 reachable: true

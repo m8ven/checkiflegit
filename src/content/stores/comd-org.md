@@ -1,10 +1,10 @@
 ---
 domain: comd.org
 slug: comd-org
-title: Is comd.org Legit? Trust Signal Check
+title: Is comd.org Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for comd.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  comd.org scores 100/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:33.956Z'
 finalUrl: 'https://www.comd.ac.uk/'
 reachable: true

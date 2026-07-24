@@ -1,10 +1,11 @@
 ---
 domain: watchclimb.pt
 slug: watchclimb-pt
-title: Is watchclimb.pt Legit? Trust Signal Check
+title: Is watchclimb.pt Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for watchclimb.pt: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  watchclimb.pt scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:20:04.480Z'
 finalUrl: 'https://watchclimb.pt/'
 reachable: true

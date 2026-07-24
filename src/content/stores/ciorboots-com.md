@@ -1,10 +1,10 @@
 ---
 domain: ciorboots.com
 slug: ciorboots-com
-title: Is ciorboots.com Legit? Trust Signal Check
+title: Is ciorboots.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for ciorboots.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ciorboots.com scores 73/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:33.312Z'
 finalUrl: 'https://www.ciorboots.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sonkemchuyendung.com
 slug: sonkemchuyendung-com
-title: Is sonkemchuyendung.com Legit? Trust Signal Check
+title: Is sonkemchuyendung.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for sonkemchuyendung.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sonkemchuyendung.com scores 76/100 on our public trust checks. Established
+  domain — registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:55.478Z'
 finalUrl: 'https://sonkemchuyendung.com/'
 reachable: true

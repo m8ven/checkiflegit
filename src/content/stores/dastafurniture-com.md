@@ -1,10 +1,10 @@
 ---
 domain: dastafurniture.com
 slug: dastafurniture-com
-title: Is dastafurniture.com Legit? Trust Signal Check
+title: Is dastafurniture.com Legit? Trust Score 67/100
 description: >-
-  An automated trust-signal check for dastafurniture.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dastafurniture.com scores 67/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T03:41:09.873Z'
 finalUrl: 'https://dastafurniture.com/'
 reachable: true

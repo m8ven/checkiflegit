@@ -1,10 +1,10 @@
 ---
 domain: korpiaho.net
 slug: korpiaho-net
-title: Is korpiaho.net Legit? Trust Signal Check
+title: Is korpiaho.net Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for korpiaho.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  korpiaho.net scores 88/100 on our public trust checks. Established domain —
+  registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:03.376Z'
 finalUrl: 'https://korpiaho.net/'
 reachable: true

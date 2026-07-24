@@ -1,10 +1,10 @@
 ---
 domain: jyskmobelfabrik.dk
 slug: jyskmobelfabrik-dk
-title: Is jyskmobelfabrik.dk Legit? Trust Signal Check
+title: Is jyskmobelfabrik.dk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for jyskmobelfabrik.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jyskmobelfabrik.dk scores 88/100 on our public trust checks. Established
+  domain — registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:02.394Z'
 finalUrl: 'https://jyskmobelfabrik.dk/'
 reachable: true

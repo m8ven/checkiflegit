@@ -1,10 +1,11 @@
 ---
 domain: electricalpowerandcontrol.com
 slug: electricalpowerandcontrol-com
-title: Is electricalpowerandcontrol.com Legit? Trust Signal Check
+title: Is electricalpowerandcontrol.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for electricalpowerandcontrol.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  electricalpowerandcontrol.com scores 100/100 on our public trust checks.
+  Established domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:32:01.966Z'
 finalUrl: 'https://electricalpowerandcontrol.com/'
 reachable: true

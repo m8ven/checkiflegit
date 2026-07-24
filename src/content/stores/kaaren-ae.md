@@ -1,10 +1,10 @@
 ---
 domain: kaaren.ae
 slug: kaaren-ae
-title: Is kaaren.ae Legit? Trust Signal Check
+title: Is kaaren.ae Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for kaaren.ae: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  kaaren.ae scores 19/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:47:50.760Z'
 finalUrl: 'https://kaaren.ae/'
 reachable: true

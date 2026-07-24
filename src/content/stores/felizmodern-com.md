@@ -1,10 +1,10 @@
 ---
 domain: felizmodern.com
 slug: felizmodern-com
-title: Is felizmodern.com Legit? Trust Signal Check
+title: Is felizmodern.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for felizmodern.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  felizmodern.com scores 100/100 on our public trust checks. Established domain
+  — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:57.554Z'
 finalUrl: 'https://www.felizmodern.com/'
 reachable: true

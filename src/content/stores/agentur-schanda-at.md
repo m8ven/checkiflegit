@@ -1,10 +1,10 @@
 ---
 domain: agentur-schanda.at
 slug: agentur-schanda-at
-title: Is agentur-schanda.at Legit? Trust Signal Check
+title: Is agentur-schanda.at Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for agentur-schanda.at: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  agentur-schanda.at scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:32:29.359Z'
 finalUrl: 'https://agentur-schanda.at/'
 reachable: true

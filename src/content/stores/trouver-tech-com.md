@@ -1,10 +1,10 @@
 ---
 domain: trouver-tech.com
 slug: trouver-tech-com
-title: Is trouver-tech.com Legit? Trust Signal Check
+title: Is trouver-tech.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for trouver-tech.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  trouver-tech.com scores 73/100 on our public trust checks. Established domain
+  — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:14.815Z'
 finalUrl: 'https://trouver-tech.com/'
 reachable: true

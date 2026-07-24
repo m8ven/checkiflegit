@@ -1,10 +1,10 @@
 ---
 domain: brandboost.vn
 slug: brandboost-vn
-title: Is brandboost.vn Legit? Trust Signal Check
+title: Is brandboost.vn Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for brandboost.vn: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brandboost.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:19:41.042Z'
 finalUrl: 'https://brandboost.vn/'
 reachable: true

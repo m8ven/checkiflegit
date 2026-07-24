@@ -1,10 +1,10 @@
 ---
 domain: pfshoes.gr
 slug: pfshoes-gr
-title: Is pfshoes.gr Legit? Trust Signal Check
+title: Is pfshoes.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pfshoes.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pfshoes.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:29:11.756Z'
 finalUrl: 'https://pfshoes.gr/'
 reachable: true

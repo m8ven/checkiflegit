@@ -1,11 +1,10 @@
 ---
 domain: spartanskie-wychowanie.pl
 slug: spartanskie-wychowanie-pl
-title: Is spartanskie-wychowanie.pl Legit? Trust Signal Check
+title: Is spartanskie-wychowanie.pl Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for spartanskie-wychowanie.pl: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  spartanskie-wychowanie.pl scores 40/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:39:25.494Z'
 finalUrl: 'https://spartanskie-wychowanie.pl/'
 reachable: true

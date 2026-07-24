@@ -1,10 +1,11 @@
 ---
 domain: keypc.com.br
 slug: keypc-com-br
-title: Is keypc.com.br Legit? Trust Signal Check
+title: Is keypc.com.br Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for keypc.com.br: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  keypc.com.br scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:12:00.851Z'
 finalUrl: 'https://keypc.com.br/'
 reachable: true

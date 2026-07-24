@@ -1,10 +1,10 @@
 ---
 domain: wschronicle.com
 slug: wschronicle-com
-title: Is wschronicle.com Legit? Trust Signal Check
+title: Is wschronicle.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for wschronicle.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wschronicle.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:51:00.149Z'
 finalUrl: 'https://wschronicle.com/'
 reachable: true

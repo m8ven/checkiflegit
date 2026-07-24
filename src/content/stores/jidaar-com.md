@@ -1,10 +1,10 @@
 ---
 domain: jidaar.com
 slug: jidaar-com
-title: Is jidaar.com Legit? Trust Signal Check
+title: Is jidaar.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for jidaar.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jidaar.com scores 76/100 on our public trust checks. Established domain —
+  registered 18 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:27.518Z'
 finalUrl: 'https://www.jidaar.com/'
 reachable: true

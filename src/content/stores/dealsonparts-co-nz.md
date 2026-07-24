@@ -1,10 +1,10 @@
 ---
 domain: dealsonparts.co.nz
 slug: dealsonparts-co-nz
-title: Is dealsonparts.co.nz Legit? Trust Signal Check
+title: Is dealsonparts.co.nz Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for dealsonparts.co.nz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dealsonparts.co.nz scores 100/100 on our public trust checks. Established
+  domain — registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:12.602Z'
 finalUrl: 'https://www.dealsonparts.co.nz/'
 reachable: true

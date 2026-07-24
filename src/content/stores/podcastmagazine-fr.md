@@ -1,10 +1,10 @@
 ---
 domain: podcastmagazine.fr
 slug: podcastmagazine-fr
-title: Is podcastmagazine.fr Legit? Trust Signal Check
+title: Is podcastmagazine.fr Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for podcastmagazine.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  podcastmagazine.fr scores 82/100 on our public trust checks. Established
+  domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:35.093Z'
 finalUrl: 'https://podcastmagazine.fr/'
 reachable: true

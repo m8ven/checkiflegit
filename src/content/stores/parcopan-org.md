@@ -1,10 +1,10 @@
 ---
 domain: parcopan.org
 slug: parcopan-org
-title: Is parcopan.org Legit? Trust Signal Check
+title: Is parcopan.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for parcopan.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  parcopan.org scores 88/100 on our public trust checks. Established domain —
+  registered 28.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:38.433Z'
 finalUrl: 'https://parcopan.org/'
 reachable: true

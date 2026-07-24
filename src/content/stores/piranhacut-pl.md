@@ -1,10 +1,10 @@
 ---
 domain: piranhacut.pl
 slug: piranhacut-pl
-title: Is piranhacut.pl Legit? Trust Signal Check
+title: Is piranhacut.pl Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for piranhacut.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  piranhacut.pl scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:47:42.531Z'
 finalUrl: 'https://piranhacut.pl/pl/'
 reachable: true

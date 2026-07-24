@@ -1,10 +1,10 @@
 ---
 domain: dcf-model.com
 slug: dcf-model-com
-title: Is dcf-model.com Legit? Trust Signal Check
+title: Is dcf-model.com Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for dcf-model.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dcf-model.com scores 67/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T03:32:38.682Z'
 finalUrl: 'https://dcf-model.com/'
 reachable: true

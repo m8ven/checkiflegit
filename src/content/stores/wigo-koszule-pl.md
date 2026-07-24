@@ -1,10 +1,10 @@
 ---
 domain: wigo-koszule.pl
 slug: wigo-koszule-pl
-title: Is wigo-koszule.pl Legit? Trust Signal Check
+title: Is wigo-koszule.pl Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for wigo-koszule.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wigo-koszule.pl scores 70/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:10:18.016Z'
 finalUrl: 'https://wigo-koszule.pl/'
 reachable: true

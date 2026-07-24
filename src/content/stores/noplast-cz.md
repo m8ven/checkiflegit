@@ -1,10 +1,10 @@
 ---
 domain: noplast.cz
 slug: noplast-cz
-title: Is noplast.cz Legit? Trust Signal Check
+title: Is noplast.cz Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for noplast.cz: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  noplast.cz scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:55:29.804Z'
 finalUrl: 'https://noplast.cz/'
 reachable: true

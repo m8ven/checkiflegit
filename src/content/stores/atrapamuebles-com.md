@@ -1,10 +1,10 @@
 ---
 domain: atrapamuebles.com
 slug: atrapamuebles-com
-title: Is atrapamuebles.com Legit? Trust Signal Check
+title: Is atrapamuebles.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for atrapamuebles.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  atrapamuebles.com scores 88/100 on our public trust checks. Established domain
+  — registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:47.982Z'
 finalUrl: 'https://www.atrapamuebles.com/'
 reachable: true

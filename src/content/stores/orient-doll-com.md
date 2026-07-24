@@ -1,10 +1,10 @@
 ---
 domain: orient-doll.com
 slug: orient-doll-com
-title: Is orient-doll.com Legit? Trust Signal Check
+title: Is orient-doll.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for orient-doll.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  orient-doll.com scores 94/100 on our public trust checks. Established domain —
+  registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:07.816Z'
 finalUrl: 'https://www.orient-doll.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: motherearthnews.com
 slug: motherearthnews-com
-title: Is motherearthnews.com Legit? Trust Signal Check
+title: Is motherearthnews.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for motherearthnews.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  motherearthnews.com scores 88/100 on our public trust checks. Established
+  domain — registered 29 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:20.967Z'
 finalUrl: 'https://www.motherearthnews.com/'
 reachable: true

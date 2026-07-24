@@ -1,10 +1,10 @@
 ---
 domain: bailishaver.com
 slug: bailishaver-com
-title: Is bailishaver.com Legit? Trust Signal Check
+title: Is bailishaver.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for bailishaver.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bailishaver.com scores 70/100 on our public trust checks. Established domain —
+  registered 18.6 years ago.
 fetchedAt: '2026-06-25T02:58:29.993Z'
 finalUrl: 'https://www.bailishaver.com/'
 reachable: true

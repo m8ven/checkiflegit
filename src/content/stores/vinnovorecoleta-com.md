@@ -1,10 +1,10 @@
 ---
 domain: vinnovorecoleta.com
 slug: vinnovorecoleta-com
-title: Is vinnovorecoleta.com Legit? Trust Signal Check
+title: Is vinnovorecoleta.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for vinnovorecoleta.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vinnovorecoleta.com scores 76/100 on our public trust checks. Established
+  domain — registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:17.522Z'
 finalUrl: 'https://www.vinnovorecoleta.com/'
 reachable: true

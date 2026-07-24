@@ -1,10 +1,10 @@
 ---
 domain: yektaprint.com
 slug: yektaprint-com
-title: Is yektaprint.com Legit? Trust Signal Check
+title: Is yektaprint.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for yektaprint.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  yektaprint.com scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T14:49:38.722Z'
 finalUrl: 'https://yektaprint.com/'
 reachable: true

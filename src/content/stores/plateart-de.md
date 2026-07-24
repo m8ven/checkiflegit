@@ -1,10 +1,10 @@
 ---
 domain: plateart.de
 slug: plateart-de
-title: Is plateart.de Legit? Trust Signal Check
+title: Is plateart.de Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for plateart.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  plateart.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:02:40.209Z'
 finalUrl: 'https://plateart.de/'
 reachable: true

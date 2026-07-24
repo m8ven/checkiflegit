@@ -1,10 +1,10 @@
 ---
 domain: ustoreseg.com
 slug: ustoreseg-com
-title: Is ustoreseg.com Legit? Trust Signal Check
+title: Is ustoreseg.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ustoreseg.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ustoreseg.com scores 76/100 on our public trust checks. Established domain —
+  registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:02.058Z'
 finalUrl: 'https://ustoreseg.com/'
 reachable: true

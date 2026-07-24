@@ -1,10 +1,10 @@
 ---
 domain: zhabiz.ir
 slug: zhabiz-ir
-title: Is zhabiz.ir Legit? Trust Signal Check
+title: Is zhabiz.ir Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for zhabiz.ir: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zhabiz.ir scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:50:17.114Z'
 finalUrl: 'https://zhabiz.ir/'
 reachable: true

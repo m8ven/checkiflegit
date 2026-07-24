@@ -1,10 +1,10 @@
 ---
 domain: leesasalpines.co.uk
 slug: leesasalpines-co-uk
-title: Is leesasalpines.co.uk Legit? Trust Signal Check
+title: Is leesasalpines.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for leesasalpines.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  leesasalpines.co.uk scores 73/100 on our public trust checks. Established
+  domain — registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:02.151Z'
 finalUrl: 'https://leesasalpines.co.uk/'
 reachable: true

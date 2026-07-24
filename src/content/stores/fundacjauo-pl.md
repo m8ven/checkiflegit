@@ -1,10 +1,10 @@
 ---
 domain: fundacjauo.pl
 slug: fundacjauo-pl
-title: Is fundacjauo.pl Legit? Trust Signal Check
+title: Is fundacjauo.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for fundacjauo.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fundacjauo.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:30:33.699Z'
 finalUrl: 'https://fundacjauo.pl/'
 reachable: true

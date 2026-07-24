@@ -1,10 +1,10 @@
 ---
 domain: sweerswitgoed.nl
 slug: sweerswitgoed-nl
-title: Is sweerswitgoed.nl Legit? Trust Signal Check
+title: Is sweerswitgoed.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for sweerswitgoed.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sweerswitgoed.nl scores 82/100 on our public trust checks. Established domain
+  — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:01.132Z'
 finalUrl: 'https://sweerswitgoed.nl/'
 reachable: true

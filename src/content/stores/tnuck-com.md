@@ -1,10 +1,10 @@
 ---
 domain: tnuck.com
 slug: tnuck-com
-title: Is tnuck.com Legit? Trust Signal Check
+title: Is tnuck.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tnuck.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tnuck.com scores 88/100 on our public trust checks. Established domain —
+  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:54.791Z'
 finalUrl: 'https://tnuck.com/'
 reachable: true

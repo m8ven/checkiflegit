@@ -1,10 +1,10 @@
 ---
 domain: kiyrempobut.com.ua
 slug: kiyrempobut-com-ua
-title: Is kiyrempobut.com.ua Legit? Trust Signal Check
+title: Is kiyrempobut.com.ua Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kiyrempobut.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kiyrempobut.com.ua scores 100/100 on our public trust checks. Established
+  domain — registered 16.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:52.240Z'
 finalUrl: 'https://kiyrempobut.com.ua/'
 reachable: true

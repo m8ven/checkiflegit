@@ -1,10 +1,10 @@
 ---
 domain: nanocircuit.sa
 slug: nanocircuit-sa
-title: Is nanocircuit.sa Legit? Trust Signal Check
+title: Is nanocircuit.sa Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for nanocircuit.sa: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nanocircuit.sa scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:54:18.112Z'
 finalUrl: 'https://nanocircuit.sa/'
 reachable: true

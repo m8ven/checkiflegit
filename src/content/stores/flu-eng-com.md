@@ -1,10 +1,10 @@
 ---
 domain: flu-eng.com
 slug: flu-eng-com
-title: Is flu-eng.com Legit? Trust Signal Check
+title: Is flu-eng.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for flu-eng.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  flu-eng.com scores 73/100 on our public trust checks. Established domain —
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:11.896Z'
 finalUrl: 'https://flu-eng.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: khaneprozhe.ir
 slug: khaneprozhe-ir
-title: Is khaneprozhe.ir Legit? Trust Signal Check
+title: Is khaneprozhe.ir Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for khaneprozhe.ir: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  khaneprozhe.ir scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:06:01.685Z'
 finalUrl: 'https://khaneprozhe.ir/'
 reachable: true

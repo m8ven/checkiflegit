@@ -1,10 +1,10 @@
 ---
 domain: blue-s-official.com
 slug: blue-s-official-com
-title: Is blue-s-official.com Legit? Trust Signal Check
+title: Is blue-s-official.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for blue-s-official.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blue-s-official.com scores 88/100 on our public trust checks. Established
+  domain — registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:36.957Z'
 finalUrl: 'https://blue-s-official.com/'
 reachable: true

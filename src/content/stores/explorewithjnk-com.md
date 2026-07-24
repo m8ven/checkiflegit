@@ -1,10 +1,10 @@
 ---
 domain: explorewithjnk.com
 slug: explorewithjnk-com
-title: Is explorewithjnk.com Legit? Trust Signal Check
+title: Is explorewithjnk.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for explorewithjnk.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  explorewithjnk.com scores 73/100 on our public trust checks. Established
+  domain — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:24.369Z'
 finalUrl: 'https://explorewithjnk.com/'
 reachable: true

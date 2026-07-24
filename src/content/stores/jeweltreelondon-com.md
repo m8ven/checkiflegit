@@ -1,10 +1,10 @@
 ---
 domain: jeweltreelondon.com
 slug: jeweltreelondon-com
-title: Is jeweltreelondon.com Legit? Trust Signal Check
+title: Is jeweltreelondon.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for jeweltreelondon.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jeweltreelondon.com scores 100/100 on our public trust checks. Established
+  domain — registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:14.166Z'
 finalUrl: 'https://jeweltreelondon.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: appenninofotofestival.com
 slug: appenninofotofestival-com
-title: Is appenninofotofestival.com Legit? Trust Signal Check
+title: Is appenninofotofestival.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for appenninofotofestival.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  appenninofotofestival.com scores 88/100 on our public trust checks.
+  Established domain — registered 7.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:40:46.703Z'
 finalUrl: 'https://www.appenninofotofestival.com/'
 reachable: true

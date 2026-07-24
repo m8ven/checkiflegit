@@ -1,10 +1,10 @@
 ---
 domain: benet.vn
 slug: benet-vn
-title: Is benet.vn Legit? Trust Signal Check
+title: Is benet.vn Legit? Trust Score 40/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for benet.vn: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  benet.vn scores 40/100 on our public trust checks. Standard contact and policy
+  pages were not found.
 fetchedAt: '2026-06-25T12:41:09.581Z'
 finalUrl: 'http://benet.vn/'
 reachable: true

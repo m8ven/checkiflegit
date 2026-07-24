@@ -1,10 +1,10 @@
 ---
 domain: lumioav.ca
 slug: lumioav-ca
-title: Is lumioav.ca Legit? Trust Signal Check
+title: Is lumioav.ca Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lumioav.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lumioav.ca scores 100/100 on our public trust checks. Established domain —
+  registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:34.122Z'
 finalUrl: 'https://lumioav.ca/'
 reachable: true

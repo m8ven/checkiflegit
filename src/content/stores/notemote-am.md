@@ -1,10 +1,10 @@
 ---
 domain: notemote.am
 slug: notemote-am
-title: Is notemote.am Legit? Trust Signal Check
+title: Is notemote.am Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for notemote.am: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  notemote.am scores 73/100 on our public trust checks. Established domain —
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:33.267Z'
 finalUrl: 'https://www.notemote.am/'
 reachable: true

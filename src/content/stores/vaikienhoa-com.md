@@ -1,10 +1,10 @@
 ---
 domain: vaikienhoa.com
 slug: vaikienhoa-com
-title: Is vaikienhoa.com Legit? Trust Signal Check
+title: Is vaikienhoa.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for vaikienhoa.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vaikienhoa.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:47:12.984Z'
 finalUrl: 'https://vaikienhoa.com/'
 reachable: true

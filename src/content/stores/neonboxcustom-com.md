@@ -1,10 +1,10 @@
 ---
 domain: neonboxcustom.com
 slug: neonboxcustom-com
-title: Is neonboxcustom.com Legit? Trust Signal Check
+title: Is neonboxcustom.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for neonboxcustom.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  neonboxcustom.com scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T14:59:37.507Z'
 finalUrl: 'https://neonboxcustom.com/'
 reachable: true

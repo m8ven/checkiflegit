@@ -1,10 +1,10 @@
 ---
 domain: zmcjpn.com
 slug: zmcjpn-com
-title: Is zmcjpn.com Legit? Trust Signal Check
+title: Is zmcjpn.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for zmcjpn.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zmcjpn.com scores 85/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:19.648Z'
 finalUrl: 'https://zmcjpn.com/'
 reachable: true

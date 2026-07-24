@@ -1,10 +1,10 @@
 ---
 domain: cespivovi.cz
 slug: cespivovi-cz
-title: Is cespivovi.cz Legit? Trust Signal Check
+title: Is cespivovi.cz Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for cespivovi.cz: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  cespivovi.cz scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:35:29.883Z'
 finalUrl: 'https://www.cespivovi.cz/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: makeyousecure.com
 slug: makeyousecure-com
-title: Is makeyousecure.com Legit? Trust Signal Check
+title: Is makeyousecure.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for makeyousecure.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  makeyousecure.com scores 85/100 on our public trust checks. Established domain
+  — registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:32.423Z'
 finalUrl: 'https://makeyousecure.com/'
 reachable: true

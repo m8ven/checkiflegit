@@ -1,10 +1,10 @@
 ---
 domain: laptops-computer.co.ke
 slug: laptops-computer-co-ke
-title: Is laptops-computer.co.ke Legit? Trust Signal Check
+title: Is laptops-computer.co.ke Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for laptops-computer.co.ke: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  laptops-computer.co.ke scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T14:55:34.076Z'
 finalUrl: 'https://laptops-computer.co.ke/'
 reachable: true

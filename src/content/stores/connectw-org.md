@@ -1,10 +1,10 @@
 ---
 domain: connectw.org
 slug: connectw-org
-title: Is connectw.org Legit? Trust Signal Check
+title: Is connectw.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for connectw.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  connectw.org scores 88/100 on our public trust checks. Established domain —
+  registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:45.181Z'
 finalUrl: 'https://connectw.org/'
 reachable: true

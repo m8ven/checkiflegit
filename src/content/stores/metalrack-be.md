@@ -1,10 +1,10 @@
 ---
 domain: metalrack.be
 slug: metalrack-be
-title: Is metalrack.be Legit? Trust Signal Check
+title: Is metalrack.be Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for metalrack.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  metalrack.be scores 88/100 on our public trust checks. Established domain —
+  registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:04.307Z'
 finalUrl: 'https://metalrack.be/'
 reachable: true

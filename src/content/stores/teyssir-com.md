@@ -1,10 +1,10 @@
 ---
 domain: teyssir.com
 slug: teyssir-com
-title: Is teyssir.com Legit? Trust Signal Check
+title: Is teyssir.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for teyssir.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  teyssir.com scores 70/100 on our public trust checks. Established domain —
+  registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:14:53.706Z'
 finalUrl: 'https://teyssir.com/'
 reachable: true

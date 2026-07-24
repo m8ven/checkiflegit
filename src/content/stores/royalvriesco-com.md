@@ -1,10 +1,10 @@
 ---
 domain: royalvriesco.com
 slug: royalvriesco-com
-title: Is royalvriesco.com Legit? Trust Signal Check
+title: Is royalvriesco.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for royalvriesco.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  royalvriesco.com scores 70/100 on our public trust checks. Established domain
+  — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:04.804Z'
 finalUrl: 'https://royalvriesco.com/'
 reachable: true

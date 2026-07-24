@@ -1,10 +1,10 @@
 ---
 domain: beztroska.com
 slug: beztroska-com
-title: Is beztroska.com Legit? Trust Signal Check
+title: Is beztroska.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for beztroska.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beztroska.com scores 76/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:16.176Z'
 finalUrl: 'https://beztroska.com/'
 reachable: true

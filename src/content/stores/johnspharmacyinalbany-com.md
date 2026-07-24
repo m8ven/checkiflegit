@@ -1,10 +1,11 @@
 ---
 domain: johnspharmacyinalbany.com
 slug: johnspharmacyinalbany-com
-title: Is johnspharmacyinalbany.com Legit? Trust Signal Check
+title: Is johnspharmacyinalbany.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for johnspharmacyinalbany.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  johnspharmacyinalbany.com scores 94/100 on our public trust checks.
+  Established domain — registered 14.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:34:45.432Z'
 finalUrl: 'https://www.johnspharmacyinalbany.com/'
 reachable: true

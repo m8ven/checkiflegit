@@ -1,10 +1,10 @@
 ---
 domain: arcada.com.ua
 slug: arcada-com-ua
-title: Is arcada.com.ua Legit? Trust Signal Check
+title: Is arcada.com.ua Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for arcada.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arcada.com.ua scores 88/100 on our public trust checks. Established domain —
+  registered 25.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:32.646Z'
 finalUrl: 'https://arcada.com.ua/'
 reachable: true

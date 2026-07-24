@@ -1,10 +1,10 @@
 ---
 domain: bnef.fr
 slug: bnef-fr
-title: Is bnef.fr Legit? Trust Signal Check
+title: Is bnef.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bnef.fr: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  bnef.fr scores 88/100 on our public trust checks. Established domain —
+  registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:30.467Z'
 finalUrl: 'https://bnef.fr/'
 reachable: true

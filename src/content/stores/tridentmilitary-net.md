@@ -1,10 +1,10 @@
 ---
 domain: tridentmilitary.net
 slug: tridentmilitary-net
-title: Is tridentmilitary.net Legit? Trust Signal Check
+title: Is tridentmilitary.net Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for tridentmilitary.net: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  tridentmilitary.net scores 43/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:44:48.041Z'
 finalUrl: 'https://tridentmilitary.net/'
 reachable: true

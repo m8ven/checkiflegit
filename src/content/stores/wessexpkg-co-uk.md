@@ -1,10 +1,10 @@
 ---
 domain: wessexpkg.co.uk
 slug: wessexpkg-co-uk
-title: Is wessexpkg.co.uk Legit? Trust Signal Check
+title: Is wessexpkg.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for wessexpkg.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wessexpkg.co.uk scores 100/100 on our public trust checks. Established domain
+  — registered 19.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:56.763Z'
 finalUrl: 'https://wessexpkg.co.uk/'
 reachable: true

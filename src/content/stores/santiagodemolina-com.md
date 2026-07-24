@@ -1,10 +1,10 @@
 ---
 domain: santiagodemolina.com
 slug: santiagodemolina-com
-title: Is santiagodemolina.com Legit? Trust Signal Check
+title: Is santiagodemolina.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for santiagodemolina.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  santiagodemolina.com scores 88/100 on our public trust checks. Established
+  domain — registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:21:23.358Z'
 finalUrl: 'https://www.santiagodemolina.com/'
 reachable: true

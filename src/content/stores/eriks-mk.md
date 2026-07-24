@@ -1,10 +1,10 @@
 ---
 domain: eriks.mk
 slug: eriks-mk
-title: Is eriks.mk Legit? Trust Signal Check
+title: Is eriks.mk Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for eriks.mk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  eriks.mk scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:18:14.119Z'
 finalUrl: 'https://www.eriks.mk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: themeetingpod.co.uk
 slug: themeetingpod-co-uk
-title: Is themeetingpod.co.uk Legit? Trust Signal Check
+title: Is themeetingpod.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for themeetingpod.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  themeetingpod.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:06.718Z'
 finalUrl: 'https://themeetingpod.co.uk/'
 reachable: true

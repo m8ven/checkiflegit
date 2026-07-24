@@ -1,10 +1,10 @@
 ---
 domain: corgiteeshirts.com
 slug: corgiteeshirts-com
-title: Is corgiteeshirts.com Legit? Trust Signal Check
+title: Is corgiteeshirts.com Legit? Trust Score 46/100
 description: >-
-  An automated trust-signal check for corgiteeshirts.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  corgiteeshirts.com scores 46/100 on our public trust checks. No public contact
+  details detected on the homepage. Domain is relatively young.
 fetchedAt: '2026-06-25T02:23:58.583Z'
 finalUrl: 'https://corgiteeshirts.com/'
 reachable: true

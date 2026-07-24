@@ -1,10 +1,11 @@
 ---
 domain: officesupplywholesalers.com
 slug: officesupplywholesalers-com
-title: Is officesupplywholesalers.com Legit? Trust Signal Check
+title: Is officesupplywholesalers.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for officesupplywholesalers.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  officesupplywholesalers.com scores 73/100 on our public trust checks.
+  Established domain — registered 22.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:16:35.777Z'
 finalUrl: 'https://officesupplywholesalers.com/'
 reachable: true

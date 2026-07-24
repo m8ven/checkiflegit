@@ -1,10 +1,10 @@
 ---
 domain: dongphucsaoviet.com
 slug: dongphucsaoviet-com
-title: Is dongphucsaoviet.com Legit? Trust Signal Check
+title: Is dongphucsaoviet.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for dongphucsaoviet.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dongphucsaoviet.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:40:24.273Z'
 finalUrl: 'https://dongphucsaoviet.com/'
 reachable: true

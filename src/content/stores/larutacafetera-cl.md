@@ -1,10 +1,10 @@
 ---
 domain: larutacafetera.cl
 slug: larutacafetera-cl
-title: Is larutacafetera.cl Legit? Trust Signal Check
+title: Is larutacafetera.cl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for larutacafetera.cl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  larutacafetera.cl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:33:46.408Z'
 finalUrl: 'https://larutacafetera.cl/'
 reachable: true

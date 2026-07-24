@@ -1,10 +1,10 @@
 ---
 domain: poradnik.it
 slug: poradnik-it
-title: Is poradnik.it Legit? Trust Signal Check
+title: Is poradnik.it Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for poradnik.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  poradnik.it scores 76/100 on our public trust checks. Established domain —
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:15.833Z'
 finalUrl: 'https://poradnik.it/'
 reachable: true

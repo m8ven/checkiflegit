@@ -1,10 +1,10 @@
 ---
 domain: glowtime.mu
 slug: glowtime-mu
-title: Is glowtime.mu Legit? Trust Signal Check
+title: Is glowtime.mu Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for glowtime.mu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  glowtime.mu scores 82/100 on our public trust checks. Established domain —
+  registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:42.783Z'
 finalUrl: 'https://glowtime.mu/'
 reachable: true

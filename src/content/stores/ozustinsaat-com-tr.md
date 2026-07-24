@@ -1,10 +1,10 @@
 ---
 domain: ozustinsaat.com.tr
 slug: ozustinsaat-com-tr
-title: Is ozustinsaat.com.tr Legit? Trust Signal Check
+title: Is ozustinsaat.com.tr Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for ozustinsaat.com.tr: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ozustinsaat.com.tr scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:27:47.670Z'
 finalUrl: 'https://ozustinsaat.com.tr/'
 reachable: true

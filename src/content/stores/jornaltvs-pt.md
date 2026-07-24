@@ -1,10 +1,10 @@
 ---
 domain: jornaltvs.pt
 slug: jornaltvs-pt
-title: Is jornaltvs.pt Legit? Trust Signal Check
+title: Is jornaltvs.pt Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for jornaltvs.pt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jornaltvs.pt scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:39:23.720Z'
 finalUrl: 'https://jornaltvs.pt/'
 reachable: true

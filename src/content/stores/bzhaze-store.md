@@ -1,10 +1,10 @@
 ---
 domain: bzhaze.store
 slug: bzhaze-store
-title: Is bzhaze.store Legit? Trust Signal Check
+title: Is bzhaze.store Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for bzhaze.store: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bzhaze.store scores 85/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:49:50.704Z'
 finalUrl: 'https://bzhaze.store/'
 reachable: true

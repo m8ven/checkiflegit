@@ -1,10 +1,10 @@
 ---
 domain: cristinaparaschiv.com
 slug: cristinaparaschiv-com
-title: Is cristinaparaschiv.com Legit? Trust Signal Check
+title: Is cristinaparaschiv.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cristinaparaschiv.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cristinaparaschiv.com scores 88/100 on our public trust checks. Established
+  domain — registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:25.016Z'
 finalUrl: 'https://www.cristinaparaschiv.com/'
 reachable: true

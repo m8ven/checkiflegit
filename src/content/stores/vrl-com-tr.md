@@ -1,10 +1,10 @@
 ---
 domain: vrl.com.tr
 slug: vrl-com-tr
-title: Is vrl.com.tr Legit? Trust Signal Check
+title: Is vrl.com.tr Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for vrl.com.tr: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vrl.com.tr scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:09:09.462Z'
 finalUrl: 'https://vrl.com.tr/'
 reachable: true

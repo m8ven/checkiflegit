@@ -1,10 +1,10 @@
 ---
 domain: hostaltrillizos.com
 slug: hostaltrillizos-com
-title: Is hostaltrillizos.com Legit? Trust Signal Check
+title: Is hostaltrillizos.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for hostaltrillizos.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hostaltrillizos.com scores 82/100 on our public trust checks. Established
+  domain — registered 12 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:26.904Z'
 finalUrl: 'https://hostaltrillizos.com/'
 reachable: true

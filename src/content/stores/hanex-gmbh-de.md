@@ -1,10 +1,10 @@
 ---
 domain: hanex-gmbh.de
 slug: hanex-gmbh-de
-title: Is hanex-gmbh.de Legit? Trust Signal Check
+title: Is hanex-gmbh.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for hanex-gmbh.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hanex-gmbh.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:36:31.183Z'
 finalUrl: 'https://hanex-gmbh.de/'
 reachable: true

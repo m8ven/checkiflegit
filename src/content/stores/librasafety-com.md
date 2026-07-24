@@ -1,10 +1,10 @@
 ---
 domain: librasafety.com
 slug: librasafety-com
-title: Is librasafety.com Legit? Trust Signal Check
+title: Is librasafety.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for librasafety.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  librasafety.com scores 73/100 on our public trust checks. Established domain —
+  registered 27 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:19.482Z'
 finalUrl: 'https://www.librasafety.com/'
 reachable: true

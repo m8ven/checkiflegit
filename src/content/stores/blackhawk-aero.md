@@ -1,10 +1,10 @@
 ---
 domain: blackhawk.aero
 slug: blackhawk-aero
-title: Is blackhawk.aero Legit? Trust Signal Check
+title: Is blackhawk.aero Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for blackhawk.aero: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blackhawk.aero scores 100/100 on our public trust checks. Established domain —
+  registered 22.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:00.427Z'
 finalUrl: 'https://www.blackhawk.aero/'
 reachable: true

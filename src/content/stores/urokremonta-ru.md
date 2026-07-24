@@ -1,10 +1,10 @@
 ---
 domain: urokremonta.ru
 slug: urokremonta-ru
-title: Is urokremonta.ru Legit? Trust Signal Check
+title: Is urokremonta.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for urokremonta.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  urokremonta.ru scores 73/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:40.273Z'
 finalUrl: 'https://urokremonta.ru/'
 reachable: true

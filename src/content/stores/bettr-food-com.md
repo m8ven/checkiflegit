@@ -1,10 +1,10 @@
 ---
 domain: bettr-food.com
 slug: bettr-food-com
-title: Is bettr-food.com Legit? Trust Signal Check
+title: Is bettr-food.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bettr-food.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bettr-food.com scores 100/100 on our public trust checks. Established domain —
+  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:30.602Z'
 finalUrl: 'https://bettr-food.com/'
 reachable: true

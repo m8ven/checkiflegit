@@ -1,10 +1,10 @@
 ---
 domain: mein-kraeutergarten.de
 slug: mein-kraeutergarten-de
-title: Is mein-kraeutergarten.de Legit? Trust Signal Check
+title: Is mein-kraeutergarten.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for mein-kraeutergarten.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mein-kraeutergarten.de scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:17.944Z'
 finalUrl: 'https://mein-kraeutergarten.de/'
 reachable: true

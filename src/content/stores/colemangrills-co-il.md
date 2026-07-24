@@ -1,10 +1,10 @@
 ---
 domain: colemangrills.co.il
 slug: colemangrills-co-il
-title: Is colemangrills.co.il Legit? Trust Signal Check
+title: Is colemangrills.co.il Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for colemangrills.co.il: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  colemangrills.co.il scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:50.450Z'
 finalUrl: 'https://colemangrills.co.il/'
 reachable: true

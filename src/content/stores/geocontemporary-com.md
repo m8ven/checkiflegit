@@ -1,10 +1,10 @@
 ---
 domain: geocontemporary.com
 slug: geocontemporary-com
-title: Is geocontemporary.com Legit? Trust Signal Check
+title: Is geocontemporary.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for geocontemporary.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  geocontemporary.com scores 100/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:12.687Z'
 finalUrl: 'https://geocontemporary.com/'
 reachable: true

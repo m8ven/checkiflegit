@@ -1,10 +1,10 @@
 ---
 domain: editionskime.fr
 slug: editionskime-fr
-title: Is editionskime.fr Legit? Trust Signal Check
+title: Is editionskime.fr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for editionskime.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  editionskime.fr scores 73/100 on our public trust checks. Established domain —
+  registered 18.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:12.145Z'
 finalUrl: 'https://editionskime.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: toms.com
 slug: toms-com
-title: Is toms.com Legit? Trust Signal Check
+title: Is toms.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for toms.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  toms.com scores 70/100 on our public trust checks. Established domain —
+  registered 30.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:16.112Z'
 finalUrl: 'https://www.toms.com/'
 reachable: true

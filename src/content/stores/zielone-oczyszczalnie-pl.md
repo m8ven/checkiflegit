@@ -1,10 +1,10 @@
 ---
 domain: zielone-oczyszczalnie.pl
 slug: zielone-oczyszczalnie-pl
-title: Is zielone-oczyszczalnie.pl Legit? Trust Signal Check
+title: Is zielone-oczyszczalnie.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for zielone-oczyszczalnie.pl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  zielone-oczyszczalnie.pl scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:29:34.292Z'
 finalUrl: 'https://www.zielone-oczyszczalnie.pl/'
 reachable: true

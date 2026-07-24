@@ -1,10 +1,10 @@
 ---
 domain: scoope-egypt.com
 slug: scoope-egypt-com
-title: Is scoope-egypt.com Legit? Trust Signal Check
+title: Is scoope-egypt.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for scoope-egypt.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  scoope-egypt.com scores 88/100 on our public trust checks. Established domain
+  — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:43.128Z'
 finalUrl: 'https://scoope-egypt.com/'
 reachable: true

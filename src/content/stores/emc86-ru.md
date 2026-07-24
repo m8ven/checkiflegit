@@ -1,10 +1,10 @@
 ---
 domain: emc86.ru
 slug: emc86-ru
-title: Is emc86.ru Legit? Trust Signal Check
+title: Is emc86.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for emc86.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  emc86.ru scores 73/100 on our public trust checks. Established domain —
+  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:05.147Z'
 finalUrl: 'https://emc86.ru/'
 reachable: true

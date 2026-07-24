@@ -1,10 +1,10 @@
 ---
 domain: kempuni-bikewear.com
 slug: kempuni-bikewear-com
-title: Is kempuni-bikewear.com Legit? Trust Signal Check
+title: Is kempuni-bikewear.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kempuni-bikewear.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kempuni-bikewear.com scores 100/100 on our public trust checks. Established
+  domain — registered 13.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:10.556Z'
 finalUrl: 'https://www.kempuni-bikewear.com/'
 reachable: true

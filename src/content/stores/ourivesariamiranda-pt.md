@@ -1,10 +1,10 @@
 ---
 domain: ourivesariamiranda.pt
 slug: ourivesariamiranda-pt
-title: Is ourivesariamiranda.pt Legit? Trust Signal Check
+title: Is ourivesariamiranda.pt Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ourivesariamiranda.pt: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ourivesariamiranda.pt scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:07.071Z'
 finalUrl: 'https://ourivesariamiranda.pt/'
 reachable: true

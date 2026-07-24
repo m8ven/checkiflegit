@@ -1,10 +1,10 @@
 ---
 domain: myusbusiness.solutions
 slug: myusbusiness-solutions
-title: Is myusbusiness.solutions Legit? Trust Signal Check
+title: Is myusbusiness.solutions Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for myusbusiness.solutions: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  myusbusiness.solutions scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:35:11.544Z'
 finalUrl: 'https://myusbusiness.solutions/'
 reachable: true

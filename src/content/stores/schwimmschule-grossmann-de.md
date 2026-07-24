@@ -1,10 +1,10 @@
 ---
 domain: schwimmschule-grossmann.de
 slug: schwimmschule-grossmann-de
-title: Is schwimmschule-grossmann.de Legit? Trust Signal Check
+title: Is schwimmschule-grossmann.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for schwimmschule-grossmann.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  schwimmschule-grossmann.de scores 91/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:45.624Z'
 finalUrl: 'https://schwimmschule-grossmann.de/'
 reachable: true

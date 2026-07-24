@@ -1,10 +1,10 @@
 ---
 domain: wandervogel123.de
 slug: wandervogel123-de
-title: Is wandervogel123.de Legit? Trust Signal Check
+title: Is wandervogel123.de Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for wandervogel123.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wandervogel123.de scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:50:46.066Z'
 finalUrl: 'https://www.wandervogel123.de/'
 reachable: true

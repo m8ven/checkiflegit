@@ -1,10 +1,10 @@
 ---
 domain: onevent.ro
 slug: onevent-ro
-title: Is onevent.ro Legit? Trust Signal Check
+title: Is onevent.ro Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for onevent.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  onevent.ro scores 100/100 on our public trust checks. Established domain —
+  registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:54.367Z'
 finalUrl: 'https://www.onevent.ro/'
 reachable: true

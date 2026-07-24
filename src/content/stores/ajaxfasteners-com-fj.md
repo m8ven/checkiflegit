@@ -1,10 +1,10 @@
 ---
 domain: ajaxfasteners.com.fj
 slug: ajaxfasteners-com-fj
-title: Is ajaxfasteners.com.fj Legit? Trust Signal Check
+title: Is ajaxfasteners.com.fj Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ajaxfasteners.com.fj: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ajaxfasteners.com.fj scores 88/100 on our public trust checks. Established
+  domain — registered 18.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:57:09.888Z'
 finalUrl: 'https://www.ajaxfasteners.com.fj/'
 reachable: true

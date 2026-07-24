@@ -1,11 +1,10 @@
 ---
 domain: medical.yonev-agency.fr
 slug: medical-yonev-agency-fr
-title: Is medical.yonev-agency.fr Legit? Trust Signal Check
+title: Is medical.yonev-agency.fr Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for medical.yonev-agency.fr: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  medical.yonev-agency.fr scores 36/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:10:31.221Z'
 finalUrl: 'https://medical.yonev-agency.fr/'
 reachable: true

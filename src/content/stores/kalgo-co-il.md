@@ -1,10 +1,10 @@
 ---
 domain: kalgo.co.il
 slug: kalgo-co-il
-title: Is kalgo.co.il Legit? Trust Signal Check
+title: Is kalgo.co.il Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kalgo.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kalgo.co.il scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:21:42.884Z'
 finalUrl: 'https://www.kalgo.co.il/'
 reachable: true

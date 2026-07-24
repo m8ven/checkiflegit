@@ -1,10 +1,10 @@
 ---
 domain: rustswesternshed.com
 slug: rustswesternshed-com
-title: Is rustswesternshed.com Legit? Trust Signal Check
+title: Is rustswesternshed.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for rustswesternshed.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rustswesternshed.com scores 70/100 on our public trust checks. Established
+  domain — registered 21 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:29.681Z'
 finalUrl: 'https://rustswesternshed.com/'
 reachable: true

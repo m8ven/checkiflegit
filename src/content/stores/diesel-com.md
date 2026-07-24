@@ -1,10 +1,10 @@
 ---
 domain: diesel.com
 slug: diesel-com
-title: Is diesel.com Legit? Trust Signal Check
+title: Is diesel.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for diesel.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  diesel.com scores 55/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-24T21:45:23.667Z'
 finalUrl: 'https://diesel.com/'
 reachable: true

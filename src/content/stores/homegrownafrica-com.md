@@ -1,10 +1,10 @@
 ---
 domain: homegrownafrica.com
 slug: homegrownafrica-com
-title: Is homegrownafrica.com Legit? Trust Signal Check
+title: Is homegrownafrica.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for homegrownafrica.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  homegrownafrica.com scores 70/100 on our public trust checks. Established
+  domain — registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:43.982Z'
 finalUrl: 'https://homegrownafrica.com/'
 reachable: true

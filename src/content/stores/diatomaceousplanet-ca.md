@@ -1,10 +1,10 @@
 ---
 domain: diatomaceousplanet.ca
 slug: diatomaceousplanet-ca
-title: Is diatomaceousplanet.ca Legit? Trust Signal Check
+title: Is diatomaceousplanet.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for diatomaceousplanet.ca: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  diatomaceousplanet.ca scores 100/100 on our public trust checks. Established
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:36.079Z'
 finalUrl: 'https://diatomaceousplanet.ca/'
 reachable: true

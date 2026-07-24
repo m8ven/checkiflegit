@@ -1,10 +1,11 @@
 ---
 domain: goffa.ma
 slug: goffa-ma
-title: Is goffa.ma Legit? Trust Signal Check
+title: Is goffa.ma Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for goffa.ma: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  goffa.ma scores 67/100 on our public trust checks. No links to major social
+  platforms found. Domain is relatively young. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:50:38.526Z'
 finalUrl: 'https://goffa.ma/'
 reachable: true

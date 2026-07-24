@@ -1,10 +1,10 @@
 ---
 domain: shop.westernboots.com.ua
 slug: shop-westernboots-com-ua
-title: Is shop.westernboots.com.ua Legit? Trust Signal Check
+title: Is shop.westernboots.com.ua Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for shop.westernboots.com.ua: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.westernboots.com.ua scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:37.121Z'
 finalUrl: 'http://shop.westernboots.com.ua/'
 reachable: true

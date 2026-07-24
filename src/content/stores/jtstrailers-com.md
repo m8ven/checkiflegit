@@ -1,10 +1,10 @@
 ---
 domain: jtstrailers.com
 slug: jtstrailers-com
-title: Is jtstrailers.com Legit? Trust Signal Check
+title: Is jtstrailers.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for jtstrailers.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jtstrailers.com scores 94/100 on our public trust checks. Established domain —
+  registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:46.707Z'
 finalUrl: 'https://jtstrailers.com/'
 reachable: true

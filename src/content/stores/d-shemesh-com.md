@@ -1,10 +1,10 @@
 ---
 domain: d-shemesh.com
 slug: d-shemesh-com
-title: Is d-shemesh.com Legit? Trust Signal Check
+title: Is d-shemesh.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for d-shemesh.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  d-shemesh.com scores 88/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:07.517Z'
 finalUrl: 'http://www.d-shemesh.com/'
 reachable: true

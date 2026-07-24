@@ -1,10 +1,10 @@
 ---
 domain: buypneumaticproducts.com
 slug: buypneumaticproducts-com
-title: Is buypneumaticproducts.com Legit? Trust Signal Check
+title: Is buypneumaticproducts.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for buypneumaticproducts.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  buypneumaticproducts.com scores 73/100 on our public trust checks. Established
+  domain — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:14:50.973Z'
 finalUrl: 'https://www.buypneumaticproducts.com/'
 reachable: true

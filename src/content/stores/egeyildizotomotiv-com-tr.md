@@ -1,11 +1,11 @@
 ---
 domain: egeyildizotomotiv.com.tr
 slug: egeyildizotomotiv-com-tr
-title: Is egeyildizotomotiv.com.tr Legit? Trust Signal Check
+title: Is egeyildizotomotiv.com.tr Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for egeyildizotomotiv.com.tr: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  egeyildizotomotiv.com.tr scores 36/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T15:10:17.330Z'
 finalUrl: 'https://egeyildizotomotiv.com.tr/'
 reachable: true

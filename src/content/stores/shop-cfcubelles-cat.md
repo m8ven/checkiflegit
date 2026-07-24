@@ -1,10 +1,10 @@
 ---
 domain: shop.cfcubelles.cat
 slug: shop-cfcubelles-cat
-title: Is shop.cfcubelles.cat Legit? Trust Signal Check
+title: Is shop.cfcubelles.cat Legit? Trust Score 0/100
 description: >-
-  An automated trust-signal check for shop.cfcubelles.cat: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  shop.cfcubelles.cat scores 0/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T02:51:06.088Z'
 finalUrl: 'https://shop.cfcubelles.cat/'
 reachable: true

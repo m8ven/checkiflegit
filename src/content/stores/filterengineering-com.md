@@ -1,10 +1,10 @@
 ---
 domain: filterengineering.com
 slug: filterengineering-com
-title: Is filterengineering.com Legit? Trust Signal Check
+title: Is filterengineering.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for filterengineering.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  filterengineering.com scores 94/100 on our public trust checks. Established
+  domain — registered 28 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:31:03.423Z'
 finalUrl: 'https://filterengineering.com/'
 reachable: true

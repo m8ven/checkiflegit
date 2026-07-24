@@ -1,10 +1,10 @@
 ---
 domain: montenegro-shop.ru
 slug: montenegro-shop-ru
-title: Is montenegro-shop.ru Legit? Trust Signal Check
+title: Is montenegro-shop.ru Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for montenegro-shop.ru: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  montenegro-shop.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:56:00.812Z'
 finalUrl: 'https://montenegro-shop.ru/'
 reachable: true

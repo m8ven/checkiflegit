@@ -1,10 +1,10 @@
 ---
 domain: editorialruge.com
 slug: editorialruge-com
-title: Is editorialruge.com Legit? Trust Signal Check
+title: Is editorialruge.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for editorialruge.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  editorialruge.com scores 100/100 on our public trust checks. Established
+  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:44.817Z'
 finalUrl: 'https://editorialruge.com/'
 reachable: true

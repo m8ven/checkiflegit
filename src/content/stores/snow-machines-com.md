@@ -1,10 +1,10 @@
 ---
 domain: snow-machines.com
 slug: snow-machines-com
-title: Is snow-machines.com Legit? Trust Signal Check
+title: Is snow-machines.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for snow-machines.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  snow-machines.com scores 85/100 on our public trust checks. Established domain
+  — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:52.556Z'
 finalUrl: 'https://snow-machines.com/'
 reachable: true

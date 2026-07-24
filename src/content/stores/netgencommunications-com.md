@@ -1,10 +1,10 @@
 ---
 domain: netgencommunications.com
 slug: netgencommunications-com
-title: Is netgencommunications.com Legit? Trust Signal Check
+title: Is netgencommunications.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for netgencommunications.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  netgencommunications.com scores 73/100 on our public trust checks. Established
+  domain — registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:30.861Z'
 finalUrl: 'https://netgencommunications.com/'
 reachable: true

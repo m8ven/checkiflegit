@@ -1,10 +1,10 @@
 ---
 domain: iisdt.in
 slug: iisdt-in
-title: Is iisdt.in Legit? Trust Signal Check
+title: Is iisdt.in Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for iisdt.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  iisdt.in scores 91/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T11:56:40.272Z'
 finalUrl: 'https://iisdt.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: duitseboeken.nl
 slug: duitseboeken-nl
-title: Is duitseboeken.nl Legit? Trust Signal Check
+title: Is duitseboeken.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for duitseboeken.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  duitseboeken.nl scores 73/100 on our public trust checks. Established domain —
+  registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:02.736Z'
 finalUrl: 'https://www.duitseboeken.nl/'
 reachable: true

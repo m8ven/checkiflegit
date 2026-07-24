@@ -1,10 +1,10 @@
 ---
 domain: lavju.hu
 slug: lavju-hu
-title: Is lavju.hu Legit? Trust Signal Check
+title: Is lavju.hu Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lavju.hu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lavju.hu scores 91/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:19:19.484Z'
 finalUrl: 'https://lavju.hu/'
 reachable: true

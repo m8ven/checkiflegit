@@ -1,10 +1,10 @@
 ---
 domain: sickies.nl
 slug: sickies-nl
-title: Is sickies.nl Legit? Trust Signal Check
+title: Is sickies.nl Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sickies.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sickies.nl scores 73/100 on our public trust checks. Established domain —
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:01:24.486Z'
 finalUrl: 'https://sickies.nl/'
 reachable: true

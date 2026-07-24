@@ -1,10 +1,10 @@
 ---
 domain: thcstore.me
 slug: thcstore-me
-title: Is thcstore.me Legit? Trust Signal Check
+title: Is thcstore.me Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for thcstore.me: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thcstore.me scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:43:13.869Z'
 finalUrl: 'https://thcstore.me/'
 reachable: true

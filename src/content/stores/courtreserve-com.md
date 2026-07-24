@@ -1,10 +1,10 @@
 ---
 domain: courtreserve.com
 slug: courtreserve-com
-title: Is courtreserve.com Legit? Trust Signal Check
+title: Is courtreserve.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for courtreserve.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  courtreserve.com scores 100/100 on our public trust checks. Established domain
+  — registered 15 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:05.090Z'
 finalUrl: 'https://courtreserve.com/'
 reachable: true

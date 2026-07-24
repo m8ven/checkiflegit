@@ -1,10 +1,10 @@
 ---
 domain: groupamat.fr
 slug: groupamat-fr
-title: Is groupamat.fr Legit? Trust Signal Check
+title: Is groupamat.fr Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for groupamat.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  groupamat.fr scores 94/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:37.276Z'
 finalUrl: 'https://www.groupamat.fr/'
 reachable: true

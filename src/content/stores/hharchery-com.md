@@ -1,10 +1,10 @@
 ---
 domain: hharchery.com
 slug: hharchery-com
-title: Is hharchery.com Legit? Trust Signal Check
+title: Is hharchery.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for hharchery.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hharchery.com scores 82/100 on our public trust checks. Established domain —
+  registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:53.191Z'
 finalUrl: 'https://www.hharchery.com/'
 reachable: true

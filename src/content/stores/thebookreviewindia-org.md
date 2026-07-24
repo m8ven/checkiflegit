@@ -1,10 +1,10 @@
 ---
 domain: thebookreviewindia.org
 slug: thebookreviewindia-org
-title: Is thebookreviewindia.org Legit? Trust Signal Check
+title: Is thebookreviewindia.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thebookreviewindia.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thebookreviewindia.org scores 100/100 on our public trust checks. Established
+  domain — registered 22.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:22:57.559Z'
 finalUrl: 'https://www.thebookreviewindia.org/'
 reachable: true

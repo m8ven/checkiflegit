@@ -1,10 +1,10 @@
 ---
 domain: rubyandwhiteathome.com
 slug: rubyandwhiteathome-com
-title: Is rubyandwhiteathome.com Legit? Trust Signal Check
+title: Is rubyandwhiteathome.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rubyandwhiteathome.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rubyandwhiteathome.com scores 88/100 on our public trust checks. Established
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:53.594Z'
 finalUrl: 'https://www.rubyandwhiteathome.com/'
 reachable: true

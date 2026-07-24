@@ -1,10 +1,10 @@
 ---
 domain: alphasteroid.eu
 slug: alphasteroid-eu
-title: Is alphasteroid.eu Legit? Trust Signal Check
+title: Is alphasteroid.eu Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for alphasteroid.eu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  alphasteroid.eu scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:18:57.456Z'
 finalUrl: 'https://alphasteroid.eu/'
 reachable: true

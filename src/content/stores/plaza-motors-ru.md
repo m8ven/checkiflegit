@@ -1,10 +1,10 @@
 ---
 domain: plaza-motors.ru
 slug: plaza-motors-ru
-title: Is plaza-motors.ru Legit? Trust Signal Check
+title: Is plaza-motors.ru Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for plaza-motors.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  plaza-motors.ru scores 94/100 on our public trust checks. Established domain —
+  registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:10.618Z'
 finalUrl: 'https://plaza-motors.ru/'
 reachable: true

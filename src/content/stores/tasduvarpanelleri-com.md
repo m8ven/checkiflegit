@@ -1,10 +1,10 @@
 ---
 domain: tasduvarpanelleri.com
 slug: tasduvarpanelleri-com
-title: Is tasduvarpanelleri.com Legit? Trust Signal Check
+title: Is tasduvarpanelleri.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for tasduvarpanelleri.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tasduvarpanelleri.com scores 70/100 on our public trust checks. Established
+  domain — registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:20.128Z'
 finalUrl: 'https://tasduvarpanelleri.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: reycedeno.com
 slug: reycedeno-com
-title: Is reycedeno.com Legit? Trust Signal Check
+title: Is reycedeno.com Legit? Trust Score 0/100
 description: >-
-  An automated trust-signal check for reycedeno.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  reycedeno.com scores 0/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T11:58:36.912Z'
 finalUrl: 'https://reycedeno.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tranmi.com
 slug: tranmi-com
-title: Is tranmi.com Legit? Trust Signal Check
+title: Is tranmi.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tranmi.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tranmi.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T15:09:39.399Z'
 finalUrl: 'https://tranmi.com/'
 reachable: true

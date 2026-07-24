@@ -1,10 +1,10 @@
 ---
 domain: speckshoponline.com
 slug: speckshoponline-com
-title: Is speckshoponline.com Legit? Trust Signal Check
+title: Is speckshoponline.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for speckshoponline.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  speckshoponline.com scores 88/100 on our public trust checks. Established
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:12:01.625Z'
 finalUrl: 'https://speckshoponline.com/'
 reachable: true

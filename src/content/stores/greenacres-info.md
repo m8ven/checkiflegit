@@ -1,10 +1,10 @@
 ---
 domain: greenacres.info
 slug: greenacres-info
-title: Is greenacres.info Legit? Trust Signal Check
+title: Is greenacres.info Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for greenacres.info: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  greenacres.info scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:23:35.886Z'
 finalUrl: 'https://www.greenacres.info/'
 reachable: true

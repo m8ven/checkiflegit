@@ -1,10 +1,10 @@
 ---
 domain: stassinopoulos.gr
 slug: stassinopoulos-gr
-title: Is stassinopoulos.gr Legit? Trust Signal Check
+title: Is stassinopoulos.gr Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for stassinopoulos.gr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stassinopoulos.gr scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:04:37.075Z'
 finalUrl: 'https://stassinopoulos.gr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: masquevinilo.com
 slug: masquevinilo-com
-title: Is masquevinilo.com Legit? Trust Signal Check
+title: Is masquevinilo.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for masquevinilo.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  masquevinilo.com scores 85/100 on our public trust checks. Established domain
+  — registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:37.506Z'
 finalUrl: 'https://masquevinilo.com/'
 reachable: true

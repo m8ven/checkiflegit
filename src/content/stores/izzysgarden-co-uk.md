@@ -1,10 +1,10 @@
 ---
 domain: izzysgarden.co.uk
 slug: izzysgarden-co-uk
-title: Is izzysgarden.co.uk Legit? Trust Signal Check
+title: Is izzysgarden.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for izzysgarden.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  izzysgarden.co.uk scores 73/100 on our public trust checks. Established domain
+  — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:18.444Z'
 finalUrl: 'https://izzysgarden.co.uk/'
 reachable: true

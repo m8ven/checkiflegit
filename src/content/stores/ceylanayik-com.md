@@ -1,10 +1,10 @@
 ---
 domain: ceylanayik.com
 slug: ceylanayik-com
-title: Is ceylanayik.com Legit? Trust Signal Check
+title: Is ceylanayik.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for ceylanayik.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ceylanayik.com scores 70/100 on our public trust checks. Established domain —
+  registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:41.574Z'
 finalUrl: 'https://www.ceylanayik.com/'
 reachable: true

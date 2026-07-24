@@ -1,10 +1,10 @@
 ---
 domain: shreesava.com
 slug: shreesava-com
-title: Is shreesava.com Legit? Trust Signal Check
+title: Is shreesava.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for shreesava.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shreesava.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:10:40.586Z'
 finalUrl: 'https://shreesava.com/'
 reachable: true

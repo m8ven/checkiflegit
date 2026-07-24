@@ -1,10 +1,10 @@
 ---
 domain: diengishop.it
 slug: diengishop-it
-title: Is diengishop.it Legit? Trust Signal Check
+title: Is diengishop.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for diengishop.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  diengishop.it scores 88/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:41.476Z'
 finalUrl: 'https://www.diengishop.it/'
 reachable: true

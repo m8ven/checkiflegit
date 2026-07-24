@@ -1,10 +1,11 @@
 ---
 domain: mcomputers.ba
 slug: mcomputers-ba
-title: Is mcomputers.ba Legit? Trust Signal Check
+title: Is mcomputers.ba Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mcomputers.ba: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mcomputers.ba scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:51:22.696Z'
 finalUrl: 'https://mcomputers.ba/'
 reachable: true

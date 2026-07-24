@@ -1,10 +1,10 @@
 ---
 domain: eu.anyahindmarch.com
 slug: eu-anyahindmarch-com
-title: Is eu.anyahindmarch.com Legit? Trust Signal Check
+title: Is eu.anyahindmarch.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for eu.anyahindmarch.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  eu.anyahindmarch.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:32:54.242Z'
 finalUrl: 'https://eu.anyahindmarch.com/'
 reachable: true

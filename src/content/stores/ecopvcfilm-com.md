@@ -1,10 +1,10 @@
 ---
 domain: ecopvcfilm.com
 slug: ecopvcfilm-com
-title: Is ecopvcfilm.com Legit? Trust Signal Check
+title: Is ecopvcfilm.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ecopvcfilm.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ecopvcfilm.com scores 88/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:10.647Z'
 finalUrl: 'https://ecopvcfilm.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mystical-mo.de
 slug: mystical-mo-de
-title: Is mystical-mo.de Legit? Trust Signal Check
+title: Is mystical-mo.de Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for mystical-mo.de: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  mystical-mo.de scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:45:23.521Z'
 finalUrl: 'https://mystical-mo.de/'
 reachable: true

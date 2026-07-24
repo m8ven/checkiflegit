@@ -1,10 +1,10 @@
 ---
 domain: sayerlack-perm.ru
 slug: sayerlack-perm-ru
-title: Is sayerlack-perm.ru Legit? Trust Signal Check
+title: Is sayerlack-perm.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for sayerlack-perm.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sayerlack-perm.ru scores 85/100 on our public trust checks. Established domain
+  — registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:07.821Z'
 finalUrl: 'https://sayerlack-perm.ru/'
 reachable: true

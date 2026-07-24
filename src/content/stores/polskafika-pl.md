@@ -1,10 +1,10 @@
 ---
 domain: polskafika.pl
 slug: polskafika-pl
-title: Is polskafika.pl Legit? Trust Signal Check
+title: Is polskafika.pl Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for polskafika.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  polskafika.pl scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:32:45.719Z'
 finalUrl: 'https://www.polskafika.pl/'
 reachable: true

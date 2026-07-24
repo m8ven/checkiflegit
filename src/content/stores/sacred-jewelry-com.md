@@ -1,10 +1,10 @@
 ---
 domain: sacred-jewelry.com
 slug: sacred-jewelry-com
-title: Is sacred-jewelry.com Legit? Trust Signal Check
+title: Is sacred-jewelry.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for sacred-jewelry.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sacred-jewelry.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T15:04:42.749Z'
 finalUrl: 'https://sacred-jewelry.com/'
 reachable: true

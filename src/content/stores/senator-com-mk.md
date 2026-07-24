@@ -1,10 +1,10 @@
 ---
 domain: senator.com.mk
 slug: senator-com-mk
-title: Is senator.com.mk Legit? Trust Signal Check
+title: Is senator.com.mk Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for senator.com.mk: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  senator.com.mk scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:53:15.629Z'
 finalUrl: 'https://senator.com.mk/'
 reachable: true

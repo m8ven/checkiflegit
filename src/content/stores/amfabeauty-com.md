@@ -1,10 +1,10 @@
 ---
 domain: amfabeauty.com
 slug: amfabeauty-com
-title: Is amfabeauty.com Legit? Trust Signal Check
+title: Is amfabeauty.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for amfabeauty.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  amfabeauty.com scores 100/100 on our public trust checks. Established domain —
+  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:05.011Z'
 finalUrl: 'https://www.amfabeauty.com/'
 reachable: true

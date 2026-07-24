@@ -1,10 +1,10 @@
 ---
 domain: bolitoo.com
 slug: bolitoo-com
-title: Is bolitoo.com Legit? Trust Signal Check
+title: Is bolitoo.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bolitoo.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bolitoo.com scores 88/100 on our public trust checks. Established domain —
+  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:36.588Z'
 finalUrl: 'https://bolitoo.com/'
 reachable: true

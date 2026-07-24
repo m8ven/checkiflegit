@@ -1,10 +1,10 @@
 ---
 domain: domgusto.pl
 slug: domgusto-pl
-title: Is domgusto.pl Legit? Trust Signal Check
+title: Is domgusto.pl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for domgusto.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  domgusto.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:26:29.050Z'
 finalUrl: 'https://domgusto.pl/'
 reachable: true

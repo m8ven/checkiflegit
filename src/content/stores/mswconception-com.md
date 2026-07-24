@@ -1,10 +1,10 @@
 ---
 domain: mswconception.com
 slug: mswconception-com
-title: Is mswconception.com Legit? Trust Signal Check
+title: Is mswconception.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mswconception.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mswconception.com scores 88/100 on our public trust checks. Established domain
+  — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:07.877Z'
 finalUrl: 'https://mswconception.com/'
 reachable: true

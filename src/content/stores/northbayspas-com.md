@@ -1,10 +1,10 @@
 ---
 domain: northbayspas.com
 slug: northbayspas-com
-title: Is northbayspas.com Legit? Trust Signal Check
+title: Is northbayspas.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for northbayspas.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  northbayspas.com scores 85/100 on our public trust checks. Established domain
+  — registered 25.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:57.607Z'
 finalUrl: 'https://northbayspas.com/'
 reachable: true

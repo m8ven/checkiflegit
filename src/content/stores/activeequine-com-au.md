@@ -1,10 +1,11 @@
 ---
 domain: activeequine.com.au
 slug: activeequine-com-au
-title: Is activeequine.com.au Legit? Trust Signal Check
+title: Is activeequine.com.au Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for activeequine.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  activeequine.com.au scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:40:22.784Z'
 finalUrl: 'https://activeequine.com.au/'
 reachable: true

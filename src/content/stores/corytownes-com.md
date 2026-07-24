@@ -1,10 +1,10 @@
 ---
 domain: corytownes.com
 slug: corytownes-com
-title: Is corytownes.com Legit? Trust Signal Check
+title: Is corytownes.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for corytownes.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  corytownes.com scores 88/100 on our public trust checks. Established domain —
+  registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:47.316Z'
 finalUrl: 'https://corytownes.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dasringshop.nl
 slug: dasringshop-nl
-title: Is dasringshop.nl Legit? Trust Signal Check
+title: Is dasringshop.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for dasringshop.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dasringshop.nl scores 82/100 on our public trust checks. Established domain —
+  registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:28.875Z'
 finalUrl: 'https://www.dasringshop.nl/'
 reachable: true

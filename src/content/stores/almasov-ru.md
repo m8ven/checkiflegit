@@ -1,10 +1,10 @@
 ---
 domain: almasov.ru
 slug: almasov-ru
-title: Is almasov.ru Legit? Trust Signal Check
+title: Is almasov.ru Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for almasov.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  almasov.ru scores 70/100 on our public trust checks. Established domain —
+  registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:04.619Z'
 finalUrl: 'https://almasov.ru/'
 reachable: true

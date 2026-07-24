@@ -1,10 +1,10 @@
 ---
 domain: chaource.fr
 slug: chaource-fr
-title: Is chaource.fr Legit? Trust Signal Check
+title: Is chaource.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for chaource.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  chaource.fr scores 88/100 on our public trust checks. Established domain —
+  registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:41.105Z'
 finalUrl: 'https://www.chaource.fr/'
 reachable: true

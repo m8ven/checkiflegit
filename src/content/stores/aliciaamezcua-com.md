@@ -1,10 +1,10 @@
 ---
 domain: aliciaamezcua.com
 slug: aliciaamezcua-com
-title: Is aliciaamezcua.com Legit? Trust Signal Check
+title: Is aliciaamezcua.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for aliciaamezcua.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aliciaamezcua.com scores 82/100 on our public trust checks. Established domain
+  — registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:42.629Z'
 finalUrl: 'https://aliciaamezcua.com/'
 reachable: true

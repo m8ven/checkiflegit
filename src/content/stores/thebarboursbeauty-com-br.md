@@ -1,10 +1,10 @@
 ---
 domain: thebarboursbeauty.com.br
 slug: thebarboursbeauty-com-br
-title: Is thebarboursbeauty.com.br Legit? Trust Signal Check
+title: Is thebarboursbeauty.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for thebarboursbeauty.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thebarboursbeauty.com.br scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-24T21:46:42.888Z'
 finalUrl: 'https://www.thebarboursbeauty.com.br/'
 reachable: true

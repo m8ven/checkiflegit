@@ -1,10 +1,10 @@
 ---
 domain: devcostore.com
 slug: devcostore-com
-title: Is devcostore.com Legit? Trust Signal Check
+title: Is devcostore.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for devcostore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  devcostore.com scores 85/100 on our public trust checks. Established domain —
+  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:23.947Z'
 finalUrl: 'https://devcostore.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: webbutik.sksf.se
 slug: webbutik-sksf-se
-title: Is webbutik.sksf.se Legit? Trust Signal Check
+title: Is webbutik.sksf.se Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for webbutik.sksf.se: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  webbutik.sksf.se scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:55:58.438Z'
 finalUrl: 'https://webbutik.sksf.se/'
 reachable: true

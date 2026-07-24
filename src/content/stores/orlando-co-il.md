@@ -1,10 +1,10 @@
 ---
 domain: orlando.co.il
 slug: orlando-co-il
-title: Is orlando.co.il Legit? Trust Signal Check
+title: Is orlando.co.il Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for orlando.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  orlando.co.il scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:17:57.171Z'
 finalUrl: 'https://orlando.co.il/'
 reachable: true

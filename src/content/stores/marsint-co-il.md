@@ -1,10 +1,10 @@
 ---
 domain: marsint.co.il
 slug: marsint-co-il
-title: Is marsint.co.il Legit? Trust Signal Check
+title: Is marsint.co.il Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for marsint.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  marsint.co.il scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T14:57:12.414Z'
 finalUrl: 'https://marsint.co.il/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: 420weednation.us
 slug: 420weednation-us
-title: Is 420weednation.us Legit? Trust Signal Check
+title: Is 420weednation.us Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for 420weednation.us: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  420weednation.us scores 85/100 on our public trust checks. Established domain
+  — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:45:18.156Z'
 finalUrl: 'https://420weednation.us/'
 reachable: true

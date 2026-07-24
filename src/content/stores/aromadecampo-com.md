@@ -1,10 +1,10 @@
 ---
 domain: aromadecampo.com
 slug: aromadecampo-com
-title: Is aromadecampo.com Legit? Trust Signal Check
+title: Is aromadecampo.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for aromadecampo.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aromadecampo.com scores 100/100 on our public trust checks. Established domain
+  — registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:46.427Z'
 finalUrl: 'https://aromadecampo.com/'
 reachable: true

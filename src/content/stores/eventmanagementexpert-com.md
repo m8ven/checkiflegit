@@ -1,10 +1,11 @@
 ---
 domain: eventmanagementexpert.com
 slug: eventmanagementexpert-com
-title: Is eventmanagementexpert.com Legit? Trust Signal Check
+title: Is eventmanagementexpert.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for eventmanagementexpert.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  eventmanagementexpert.com scores 85/100 on our public trust checks.
+  Established domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:41:05.257Z'
 finalUrl: 'https://eventmanagementexpert.com/'
 reachable: true

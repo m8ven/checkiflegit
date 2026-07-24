@@ -1,10 +1,10 @@
 ---
 domain: chetrathainguyen.com
 slug: chetrathainguyen-com
-title: Is chetrathainguyen.com Legit? Trust Signal Check
+title: Is chetrathainguyen.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for chetrathainguyen.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  chetrathainguyen.com scores 70/100 on our public trust checks. Established
+  domain — registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:22.630Z'
 finalUrl: 'https://chetrathainguyen.com/'
 reachable: true

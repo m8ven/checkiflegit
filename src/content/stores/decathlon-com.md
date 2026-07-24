@@ -1,10 +1,10 @@
 ---
 domain: decathlon.com
 slug: decathlon-com
-title: Is decathlon.com Legit? Trust Signal Check
+title: Is decathlon.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for decathlon.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  decathlon.com scores 88/100 on our public trust checks. Established domain —
+  registered 31.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:00.422Z'
 finalUrl: 'https://www.decathlon.com/'
 reachable: true

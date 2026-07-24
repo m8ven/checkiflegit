@@ -1,10 +1,10 @@
 ---
 domain: topoathletic.hr
 slug: topoathletic-hr
-title: Is topoathletic.hr Legit? Trust Signal Check
+title: Is topoathletic.hr Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for topoathletic.hr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  topoathletic.hr scores 70/100 on our public trust checks. Established domain —
+  registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:21.367Z'
 finalUrl: 'https://topoathletic.hr/'
 reachable: true

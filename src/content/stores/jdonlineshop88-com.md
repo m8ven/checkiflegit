@@ -1,10 +1,10 @@
 ---
 domain: jdonlineshop88.com
 slug: jdonlineshop88-com
-title: Is jdonlineshop88.com Legit? Trust Signal Check
+title: Is jdonlineshop88.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for jdonlineshop88.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jdonlineshop88.com scores 88/100 on our public trust checks. Established
+  domain — registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:30.253Z'
 finalUrl: 'https://jdonlineshop88.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: poppenhuisje.nl
 slug: poppenhuisje-nl
-title: Is poppenhuisje.nl Legit? Trust Signal Check
+title: Is poppenhuisje.nl Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for poppenhuisje.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  poppenhuisje.nl scores 76/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:58.626Z'
 finalUrl: 'https://poppenhuisje.nl/'
 reachable: true

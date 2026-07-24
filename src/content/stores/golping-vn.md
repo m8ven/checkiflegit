@@ -1,10 +1,10 @@
 ---
 domain: golping.vn
 slug: golping-vn
-title: Is golping.vn Legit? Trust Signal Check
+title: Is golping.vn Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for golping.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  golping.vn scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T14:50:46.341Z'
 finalUrl: 'https://golping.vn/'
 reachable: true

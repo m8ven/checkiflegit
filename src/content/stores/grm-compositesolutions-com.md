@@ -1,10 +1,11 @@
 ---
 domain: grm-compositesolutions.com
 slug: grm-compositesolutions-com
-title: Is grm-compositesolutions.com Legit? Trust Signal Check
+title: Is grm-compositesolutions.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for grm-compositesolutions.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  grm-compositesolutions.com scores 70/100 on our public trust checks.
+  Established domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:19:33.078Z'
 finalUrl: 'https://www.grm-compositesolutions.com/'
 reachable: true

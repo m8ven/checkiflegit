@@ -1,10 +1,10 @@
 ---
 domain: battini-informatique.com
 slug: battini-informatique-com
-title: Is battini-informatique.com Legit? Trust Signal Check
+title: Is battini-informatique.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for battini-informatique.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  battini-informatique.com scores 73/100 on our public trust checks. Established
+  domain — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:45.051Z'
 finalUrl: 'https://www.battini-informatique.com/'
 reachable: true

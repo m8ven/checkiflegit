@@ -1,10 +1,10 @@
 ---
 domain: loganvape.gr
 slug: loganvape-gr
-title: Is loganvape.gr Legit? Trust Signal Check
+title: Is loganvape.gr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for loganvape.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  loganvape.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:50:41.910Z'
 finalUrl: 'https://loganvape.gr/'
 reachable: true

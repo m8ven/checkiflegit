@@ -1,10 +1,10 @@
 ---
 domain: turnermason.com
 slug: turnermason-com
-title: Is turnermason.com Legit? Trust Signal Check
+title: Is turnermason.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for turnermason.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  turnermason.com scores 82/100 on our public trust checks. Established domain —
+  registered 28.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:48.170Z'
 finalUrl: 'https://www.turnermason.com/'
 reachable: true

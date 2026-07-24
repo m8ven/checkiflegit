@@ -1,10 +1,10 @@
 ---
 domain: ecpplastictrays.com
 slug: ecpplastictrays-com
-title: Is ecpplastictrays.com Legit? Trust Signal Check
+title: Is ecpplastictrays.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for ecpplastictrays.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ecpplastictrays.com scores 73/100 on our public trust checks. Established
+  domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:12.206Z'
 finalUrl: 'https://ecpplastictrays.com/'
 reachable: true

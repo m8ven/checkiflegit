@@ -1,10 +1,10 @@
 ---
 domain: graceph.com
 slug: graceph-com
-title: Is graceph.com Legit? Trust Signal Check
+title: Is graceph.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for graceph.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  graceph.com scores 88/100 on our public trust checks. Established domain —
+  registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:49.421Z'
 finalUrl: 'https://graceph.com/'
 reachable: true

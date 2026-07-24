@@ -1,10 +1,11 @@
 ---
 domain: ntadirect.com
 slug: ntadirect-com
-title: Is ntadirect.com Legit? Trust Signal Check
+title: Is ntadirect.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ntadirect.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ntadirect.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:55:55.914Z'
 finalUrl: 'https://ntadirect.com/'
 reachable: true

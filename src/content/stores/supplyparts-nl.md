@@ -1,10 +1,10 @@
 ---
 domain: supplyparts.nl
 slug: supplyparts-nl
-title: Is supplyparts.nl Legit? Trust Signal Check
+title: Is supplyparts.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for supplyparts.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  supplyparts.nl scores 88/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:34.800Z'
 finalUrl: 'https://www.supplyparts.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: beutico.com
 slug: beutico-com
-title: Is beutico.com Legit? Trust Signal Check
+title: Is beutico.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for beutico.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  beutico.com scores 88/100 on our public trust checks. Established domain —
+  registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:38.305Z'
 finalUrl: 'https://beutico.com/'
 reachable: true

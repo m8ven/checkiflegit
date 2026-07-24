@@ -1,10 +1,10 @@
 ---
 domain: bneidavid.org
 slug: bneidavid-org
-title: Is bneidavid.org Legit? Trust Signal Check
+title: Is bneidavid.org Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bneidavid.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bneidavid.org scores 58/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:03:30.514Z'
 finalUrl: 'https://bneidavid.org/'
 reachable: true

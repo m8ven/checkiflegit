@@ -1,10 +1,10 @@
 ---
 domain: harmonyhomeorganic.se
 slug: harmonyhomeorganic-se
-title: Is harmonyhomeorganic.se Legit? Trust Signal Check
+title: Is harmonyhomeorganic.se Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for harmonyhomeorganic.se: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  harmonyhomeorganic.se scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:45:31.519Z'
 finalUrl: 'https://harmonyhomeorganic.se/'
 reachable: true

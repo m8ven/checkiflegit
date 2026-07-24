@@ -1,10 +1,10 @@
 ---
 domain: madeinindonesia.store
 slug: madeinindonesia-store
-title: Is madeinindonesia.store Legit? Trust Signal Check
+title: Is madeinindonesia.store Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for madeinindonesia.store: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  madeinindonesia.store scores 52/100 on our public trust checks. Domain is
+  relatively young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:42:51.479Z'
 finalUrl: 'https://madeinindonesia.store/'
 reachable: true

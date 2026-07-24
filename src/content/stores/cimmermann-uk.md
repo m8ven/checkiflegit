@@ -1,10 +1,10 @@
 ---
 domain: cimmermann.uk
 slug: cimmermann-uk
-title: Is cimmermann.uk Legit? Trust Signal Check
+title: Is cimmermann.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cimmermann.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cimmermann.uk scores 100/100 on our public trust checks. Established domain —
+  registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:49.040Z'
 finalUrl: 'https://cimmermann.uk/'
 reachable: true

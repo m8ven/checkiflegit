@@ -1,10 +1,10 @@
 ---
 domain: campusvirtual.hidrocarburos.com.co
 slug: campusvirtual-hidrocarburos-com-co
-title: Is campusvirtual.hidrocarburos.com.co Legit? Trust Signal Check
+title: Is campusvirtual.hidrocarburos.com.co Legit? Score 83/100
 description: >-
-  An automated trust-signal check for campusvirtual.hidrocarburos.com.co: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  campusvirtual.hidrocarburos.com.co scores 83/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:02.196Z'
 finalUrl: 'https://campusvirtual.hidrocarburos.com.co/'
 reachable: true

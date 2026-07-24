@@ -1,10 +1,10 @@
 ---
 domain: marocip.ma
 slug: marocip-ma
-title: Is marocip.ma Legit? Trust Signal Check
+title: Is marocip.ma Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for marocip.ma: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  marocip.ma scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T14:57:11.218Z'
 finalUrl: 'https://marocip.ma/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lonasenmexico.com
 slug: lonasenmexico-com
-title: Is lonasenmexico.com Legit? Trust Signal Check
+title: Is lonasenmexico.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for lonasenmexico.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lonasenmexico.com scores 82/100 on our public trust checks. Established domain
+  — registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:16.711Z'
 finalUrl: 'https://lonas.xyz/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: 360rotulacion.com
 slug: 360rotulacion-com
-title: Is 360rotulacion.com Legit? Trust Signal Check
+title: Is 360rotulacion.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for 360rotulacion.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  360rotulacion.com scores 94/100 on our public trust checks. Established domain
+  — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:39.353Z'
 finalUrl: 'https://360rotulacion.com/'
 reachable: true

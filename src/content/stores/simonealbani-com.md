@@ -1,10 +1,10 @@
 ---
 domain: simonealbani.com
 slug: simonealbani-com
-title: Is simonealbani.com Legit? Trust Signal Check
+title: Is simonealbani.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for simonealbani.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  simonealbani.com scores 73/100 on our public trust checks. Established domain
+  — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:16.601Z'
 finalUrl: 'https://simonealbani.com/'
 reachable: true

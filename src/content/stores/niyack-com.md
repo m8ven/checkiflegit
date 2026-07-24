@@ -1,10 +1,10 @@
 ---
 domain: niyack.com
 slug: niyack-com
-title: Is niyack.com Legit? Trust Signal Check
+title: Is niyack.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for niyack.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  niyack.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:00:04.387Z'
 finalUrl: 'https://niyack.com/'
 reachable: true

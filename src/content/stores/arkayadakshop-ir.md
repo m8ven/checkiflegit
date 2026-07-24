@@ -1,10 +1,10 @@
 ---
 domain: arkayadakshop.ir
 slug: arkayadakshop-ir
-title: Is arkayadakshop.ir Legit? Trust Signal Check
+title: Is arkayadakshop.ir Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for arkayadakshop.ir: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  arkayadakshop.ir scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:18:06.143Z'
 finalUrl: 'https://arkayadakshop.ir/'
 reachable: true

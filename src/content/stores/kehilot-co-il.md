@@ -1,10 +1,10 @@
 ---
 domain: kehilot.co.il
 slug: kehilot-co-il
-title: Is kehilot.co.il Legit? Trust Signal Check
+title: Is kehilot.co.il Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for kehilot.co.il: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  kehilot.co.il scores 31/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:19:58.603Z'
 finalUrl: 'https://www.kehilot.co.il/'
 reachable: true

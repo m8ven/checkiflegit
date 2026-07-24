@@ -1,10 +1,10 @@
 ---
 domain: f4auto.vn
 slug: f4auto-vn
-title: Is f4auto.vn Legit? Trust Signal Check
+title: Is f4auto.vn Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for f4auto.vn: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  f4auto.vn scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:44:30.487Z'
 finalUrl: 'https://f4auto.vn/'
 reachable: true

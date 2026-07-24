@@ -1,10 +1,10 @@
 ---
 domain: jaurickeelectronics.com
 slug: jaurickeelectronics-com
-title: Is jaurickeelectronics.com Legit? Trust Signal Check
+title: Is jaurickeelectronics.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for jaurickeelectronics.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  jaurickeelectronics.com scores 76/100 on our public trust checks. Established
+  domain — registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:28.773Z'
 finalUrl: 'https://jaurickeelectronics.com/'
 reachable: true

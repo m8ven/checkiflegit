@@ -1,10 +1,10 @@
 ---
 domain: shop.3boysandadog.com
 slug: shop-3boysandadog-com
-title: Is shop.3boysandadog.com Legit? Trust Signal Check
+title: Is shop.3boysandadog.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for shop.3boysandadog.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.3boysandadog.com scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:05:52.821Z'
 finalUrl: 'https://shop.3boysandadog.com/'
 reachable: true

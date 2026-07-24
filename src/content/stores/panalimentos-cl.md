@@ -1,10 +1,10 @@
 ---
 domain: panalimentos.cl
 slug: panalimentos-cl
-title: Is panalimentos.cl Legit? Trust Signal Check
+title: Is panalimentos.cl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for panalimentos.cl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  panalimentos.cl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:43:58.218Z'
 finalUrl: 'https://panalimentos.cl/'
 reachable: true

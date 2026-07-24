@@ -1,10 +1,10 @@
 ---
 domain: ukpsf.com
 slug: ukpsf-com
-title: Is ukpsf.com Legit? Trust Signal Check
+title: Is ukpsf.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ukpsf.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ukpsf.com scores 64/100 on our public trust checks. No public contact details
+  detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T12:08:06.205Z'
 finalUrl: 'https://ukpsf.com/'
 reachable: true

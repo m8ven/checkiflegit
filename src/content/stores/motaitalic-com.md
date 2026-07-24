@@ -1,10 +1,10 @@
 ---
 domain: motaitalic.com
 slug: motaitalic-com
-title: Is motaitalic.com Legit? Trust Signal Check
+title: Is motaitalic.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for motaitalic.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  motaitalic.com scores 76/100 on our public trust checks. Established domain —
+  registered 17.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:52.160Z'
 finalUrl: 'https://motaitalic.com/'
 reachable: true

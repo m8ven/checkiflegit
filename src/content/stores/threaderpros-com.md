@@ -1,10 +1,10 @@
 ---
 domain: threaderpros.com
 slug: threaderpros-com
-title: Is threaderpros.com Legit? Trust Signal Check
+title: Is threaderpros.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for threaderpros.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  threaderpros.com scores 73/100 on our public trust checks. Established domain
+  — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:32.690Z'
 finalUrl: 'https://threaderpros.com/'
 reachable: true

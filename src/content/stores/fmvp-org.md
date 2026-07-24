@@ -1,10 +1,10 @@
 ---
 domain: fmvp.org
 slug: fmvp-org
-title: Is fmvp.org Legit? Trust Signal Check
+title: Is fmvp.org Legit? Trust Score 43/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for fmvp.org: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  fmvp.org scores 43/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:22:28.937Z'
 finalUrl: 'https://www.fmvp.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: amarudi.com
 slug: amarudi-com
-title: Is amarudi.com Legit? Trust Signal Check
+title: Is amarudi.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for amarudi.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  amarudi.com scores 73/100 on our public trust checks. Established domain —
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:57.008Z'
 finalUrl: 'https://amarudi.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: materassoswitch.com
 slug: materassoswitch-com
-title: Is materassoswitch.com Legit? Trust Signal Check
+title: Is materassoswitch.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for materassoswitch.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  materassoswitch.com scores 94/100 on our public trust checks. Established
+  domain — registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:42.465Z'
 finalUrl: 'https://materassoswitch.com/'
 reachable: true

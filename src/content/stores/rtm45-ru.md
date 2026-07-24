@@ -1,10 +1,10 @@
 ---
 domain: rtm45.ru
 slug: rtm45-ru
-title: Is rtm45.ru Legit? Trust Signal Check
+title: Is rtm45.ru Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for rtm45.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rtm45.ru scores 82/100 on our public trust checks. Established domain —
+  registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:01:07.254Z'
 finalUrl: 'https://rtm45.ru/'
 reachable: true

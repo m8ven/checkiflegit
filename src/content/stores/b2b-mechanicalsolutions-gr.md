@@ -1,10 +1,10 @@
 ---
 domain: b2b.mechanicalsolutions.gr
 slug: b2b-mechanicalsolutions-gr
-title: Is b2b.mechanicalsolutions.gr Legit? Trust Signal Check
+title: Is b2b.mechanicalsolutions.gr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for b2b.mechanicalsolutions.gr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  b2b.mechanicalsolutions.gr scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:53:58.404Z'
 finalUrl: 'https://b2b.mechanicalsolutions.gr/'
 reachable: true

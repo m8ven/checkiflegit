@@ -1,10 +1,10 @@
 ---
 domain: pehub.com
 slug: pehub-com
-title: Is pehub.com Legit? Trust Signal Check
+title: Is pehub.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pehub.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pehub.com scores 82/100 on our public trust checks. Established domain —
+  registered 20.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:08.606Z'
 finalUrl: 'https://www.pehub.com/'
 reachable: true

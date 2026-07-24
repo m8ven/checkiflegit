@@ -1,10 +1,10 @@
 ---
 domain: sararomeroestilistas.es
 slug: sararomeroestilistas-es
-title: Is sararomeroestilistas.es Legit? Trust Signal Check
+title: Is sararomeroestilistas.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sararomeroestilistas.es: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sararomeroestilistas.es scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:24.056Z'
 finalUrl: 'https://sararomeroestilistas.es/'
 reachable: true

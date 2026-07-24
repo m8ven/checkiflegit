@@ -1,10 +1,10 @@
 ---
 domain: bookplanet.in
 slug: bookplanet-in
-title: Is bookplanet.in Legit? Trust Signal Check
+title: Is bookplanet.in Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bookplanet.in: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bookplanet.in scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:22.543Z'
 finalUrl: 'https://bookplanet.in/'
 reachable: true

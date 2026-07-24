@@ -1,10 +1,10 @@
 ---
 domain: mudotools.de
 slug: mudotools-de
-title: Is mudotools.de Legit? Trust Signal Check
+title: Is mudotools.de Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mudotools.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mudotools.de scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:56.830Z'
 finalUrl: 'https://mudotools.de/'
 reachable: true

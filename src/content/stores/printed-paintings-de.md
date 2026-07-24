@@ -1,10 +1,10 @@
 ---
 domain: printed-paintings.de
 slug: printed-paintings-de
-title: Is printed-paintings.de Legit? Trust Signal Check
+title: Is printed-paintings.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for printed-paintings.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  printed-paintings.de scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T11:56:54.697Z'
 finalUrl: 'https://printed-paintings.de/'
 reachable: true

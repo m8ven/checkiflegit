@@ -1,10 +1,10 @@
 ---
 domain: radk61.ru
 slug: radk61-ru
-title: Is radk61.ru Legit? Trust Signal Check
+title: Is radk61.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for radk61.ru: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  radk61.ru scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:32:31.723Z'
 finalUrl: 'https://radk61.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: bellpro.cl
 slug: bellpro-cl
-title: Is bellpro.cl Legit? Trust Signal Check
+title: Is bellpro.cl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bellpro.cl: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bellpro.cl scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:02:27.896Z'
 finalUrl: 'https://bellpro.cl/'
 reachable: true

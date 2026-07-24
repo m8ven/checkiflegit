@@ -1,10 +1,10 @@
 ---
 domain: markizaliving.com
 slug: markizaliving-com
-title: Is markizaliving.com Legit? Trust Signal Check
+title: Is markizaliving.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for markizaliving.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  markizaliving.com scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:51:49.162Z'
 finalUrl: 'https://markizaliving.com/'
 reachable: true

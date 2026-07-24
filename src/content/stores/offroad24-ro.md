@@ -1,10 +1,10 @@
 ---
 domain: offroad24.ro
 slug: offroad24-ro
-title: Is offroad24.ro Legit? Trust Signal Check
+title: Is offroad24.ro Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for offroad24.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  offroad24.ro scores 70/100 on our public trust checks. Established domain —
+  registered 18.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:56:27.769Z'
 finalUrl: 'https://offroad24.ro/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: labeltown.com
 slug: labeltown-com
-title: Is labeltown.com Legit? Trust Signal Check
+title: Is labeltown.com Legit? Trust Score 46/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for labeltown.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  labeltown.com scores 46/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:33:15.886Z'
 finalUrl: 'https://labeltown.com/'
 reachable: true

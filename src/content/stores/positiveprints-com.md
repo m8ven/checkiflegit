@@ -1,10 +1,10 @@
 ---
 domain: positiveprints.com
 slug: positiveprints-com
-title: Is positiveprints.com Legit? Trust Signal Check
+title: Is positiveprints.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for positiveprints.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  positiveprints.com scores 100/100 on our public trust checks. Established
+  domain — registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:22.810Z'
 finalUrl: 'https://positiveprints.com/'
 reachable: true

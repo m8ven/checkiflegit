@@ -1,10 +1,10 @@
 ---
 domain: eletrolarnews.com.br
 slug: eletrolarnews-com-br
-title: Is eletrolarnews.com.br Legit? Trust Signal Check
+title: Is eletrolarnews.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for eletrolarnews.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  eletrolarnews.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:43:26.948Z'
 finalUrl: 'https://eletrolarnews.com.br/'
 reachable: true

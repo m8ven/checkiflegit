@@ -1,10 +1,10 @@
 ---
 domain: padelnuestro.com
 slug: padelnuestro-com
-title: Is padelnuestro.com Legit? Trust Signal Check
+title: Is padelnuestro.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for padelnuestro.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  padelnuestro.com scores 88/100 on our public trust checks. Established domain
+  — registered 17.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:01.465Z'
 finalUrl: 'https://www.padelnuestro.com/'
 reachable: true

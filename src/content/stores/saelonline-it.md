@@ -1,10 +1,10 @@
 ---
 domain: saelonline.it
 slug: saelonline-it
-title: Is saelonline.it Legit? Trust Signal Check
+title: Is saelonline.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for saelonline.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  saelonline.it scores 88/100 on our public trust checks. Established domain —
+  registered 25.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:41.681Z'
 finalUrl: 'https://www.saelonline.it/'
 reachable: true

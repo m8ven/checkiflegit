@@ -1,10 +1,10 @@
 ---
 domain: gamberjohnson.com
 slug: gamberjohnson-com
-title: Is gamberjohnson.com Legit? Trust Signal Check
+title: Is gamberjohnson.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for gamberjohnson.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gamberjohnson.com scores 100/100 on our public trust checks. Established
+  domain — registered 28.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:22:56.112Z'
 finalUrl: 'https://www.gamberjohnson.com/'
 reachable: true

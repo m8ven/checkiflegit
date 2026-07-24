@@ -1,10 +1,10 @@
 ---
 domain: bymarie.com
 slug: bymarie-com
-title: Is bymarie.com Legit? Trust Signal Check
+title: Is bymarie.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bymarie.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bymarie.com scores 100/100 on our public trust checks. Established domain —
+  registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:57.208Z'
 finalUrl: 'https://bymarie.com/en-intl'
 reachable: true

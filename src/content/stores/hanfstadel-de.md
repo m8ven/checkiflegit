@@ -1,10 +1,10 @@
 ---
 domain: hanfstadel.de
 slug: hanfstadel-de
-title: Is hanfstadel.de Legit? Trust Signal Check
+title: Is hanfstadel.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hanfstadel.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hanfstadel.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:47:41.888Z'
 finalUrl: 'https://hanfstadel.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: be.bolpianos.com
 slug: be-bolpianos-com
-title: Is be.bolpianos.com Legit? Trust Signal Check
+title: Is be.bolpianos.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for be.bolpianos.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  be.bolpianos.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:02:20.704Z'
 finalUrl: 'https://be.bolpianos.com/'
 reachable: true

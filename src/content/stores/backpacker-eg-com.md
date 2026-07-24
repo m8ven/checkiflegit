@@ -1,10 +1,10 @@
 ---
 domain: backpacker-eg.com
 slug: backpacker-eg-com
-title: Is backpacker-eg.com Legit? Trust Signal Check
+title: Is backpacker-eg.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for backpacker-eg.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  backpacker-eg.com scores 100/100 on our public trust checks. Established
+  domain — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:40.945Z'
 finalUrl: 'https://backpacker-eg.com/'
 reachable: true

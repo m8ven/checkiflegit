@@ -1,10 +1,11 @@
 ---
 domain: levipark21.es
 slug: levipark21-es
-title: Is levipark21.es Legit? Trust Signal Check
+title: Is levipark21.es Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for levipark21.es: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  levipark21.es scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:20:53.081Z'
 finalUrl: 'https://levipark21.es/'
 reachable: true

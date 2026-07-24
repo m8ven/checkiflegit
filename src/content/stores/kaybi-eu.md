@@ -1,10 +1,10 @@
 ---
 domain: kaybi.eu
 slug: kaybi-eu
-title: Is kaybi.eu Legit? Trust Signal Check
+title: Is kaybi.eu Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kaybi.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kaybi.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:04:24.537Z'
 finalUrl: 'https://kaybi.eu/'
 reachable: true

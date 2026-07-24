@@ -1,10 +1,10 @@
 ---
 domain: alex-grupp.ru
 slug: alex-grupp-ru
-title: Is alex-grupp.ru Legit? Trust Signal Check
+title: Is alex-grupp.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for alex-grupp.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alex-grupp.ru scores 73/100 on our public trust checks. Established domain —
+  registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:37.642Z'
 finalUrl: 'https://alex-grupp.ru/'
 reachable: true

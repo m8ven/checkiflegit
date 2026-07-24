@@ -1,10 +1,10 @@
 ---
 domain: lopedesign.com
 slug: lopedesign-com
-title: Is lopedesign.com Legit? Trust Signal Check
+title: Is lopedesign.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lopedesign.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lopedesign.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T14:56:27.502Z'
 finalUrl: 'https://lopedesign.com/en/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: livingvalley.com.au
 slug: livingvalley-com-au
-title: Is livingvalley.com.au Legit? Trust Signal Check
+title: Is livingvalley.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for livingvalley.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  livingvalley.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:42:21.100Z'
 finalUrl: 'https://livingvalley.com.au/'
 reachable: true

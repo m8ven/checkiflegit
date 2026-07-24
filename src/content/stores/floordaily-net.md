@@ -1,10 +1,10 @@
 ---
 domain: floordaily.net
 slug: floordaily-net
-title: Is floordaily.net Legit? Trust Signal Check
+title: Is floordaily.net Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for floordaily.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  floordaily.net scores 94/100 on our public trust checks. Established domain —
+  registered 24.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:12.297Z'
 finalUrl: 'https://www.floordaily.net/'
 reachable: true

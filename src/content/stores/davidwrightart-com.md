@@ -1,10 +1,10 @@
 ---
 domain: davidwrightart.com
 slug: davidwrightart-com
-title: Is davidwrightart.com Legit? Trust Signal Check
+title: Is davidwrightart.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for davidwrightart.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  davidwrightart.com scores 73/100 on our public trust checks. Established
+  domain — registered 21.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:53.822Z'
 finalUrl: 'https://davidwrightart.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: espressocasa.it
 slug: espressocasa-it
-title: Is espressocasa.it Legit? Trust Signal Check
+title: Is espressocasa.it Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for espressocasa.it: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  espressocasa.it scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:24:29.844Z'
 finalUrl: 'https://www.espressocasa.it/'
 reachable: true

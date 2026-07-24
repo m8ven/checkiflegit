@@ -1,10 +1,10 @@
 ---
 domain: youshaketheworld.com
 slug: youshaketheworld-com
-title: Is youshaketheworld.com Legit? Trust Signal Check
+title: Is youshaketheworld.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for youshaketheworld.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  youshaketheworld.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:38:14.830Z'
 finalUrl: 'https://www.youshaketheworld.com/'
 reachable: true

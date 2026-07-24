@@ -1,10 +1,10 @@
 ---
 domain: parfumerie.com.ar
 slug: parfumerie-com-ar
-title: Is parfumerie.com.ar Legit? Trust Signal Check
+title: Is parfumerie.com.ar Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for parfumerie.com.ar: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  parfumerie.com.ar scores 66/100 on our public trust checks. HTTPS certificate
+  present but its trust chain is incomplete.
 fetchedAt: '2026-06-24T21:46:50.172Z'
 finalUrl: 'https://www.parfumerie.com.ar/'
 reachable: true

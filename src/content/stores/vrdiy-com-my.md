@@ -1,10 +1,10 @@
 ---
 domain: vrdiy.com.my
 slug: vrdiy-com-my
-title: Is vrdiy.com.my Legit? Trust Signal Check
+title: Is vrdiy.com.my Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for vrdiy.com.my: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vrdiy.com.my scores 94/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:32.993Z'
 finalUrl: 'https://vrdiy.com.my/'
 reachable: true

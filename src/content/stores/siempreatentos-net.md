@@ -1,10 +1,10 @@
 ---
 domain: siempreatentos.net
 slug: siempreatentos-net
-title: Is siempreatentos.net Legit? Trust Signal Check
+title: Is siempreatentos.net Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for siempreatentos.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  siempreatentos.net scores 76/100 on our public trust checks. Established
+  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:29.818Z'
 finalUrl: 'https://siempreatentos.net/'
 reachable: true

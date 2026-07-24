@@ -1,10 +1,10 @@
 ---
 domain: ad-souq.com
 slug: ad-souq-com
-title: Is ad-souq.com Legit? Trust Signal Check
+title: Is ad-souq.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ad-souq.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ad-souq.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:11:49.412Z'
 finalUrl: 'https://www.ad-souq.com/'
 reachable: true

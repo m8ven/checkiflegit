@@ -1,10 +1,10 @@
 ---
 domain: designitalia.ru
 slug: designitalia-ru
-title: Is designitalia.ru Legit? Trust Signal Check
+title: Is designitalia.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for designitalia.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  designitalia.ru scores 43/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T03:40:25.801Z'
 finalUrl: 'https://designitalia.ru/'
 reachable: true

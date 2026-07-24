@@ -1,10 +1,10 @@
 ---
 domain: matterwholefoods.uk
 slug: matterwholefoods-uk
-title: Is matterwholefoods.uk Legit? Trust Signal Check
+title: Is matterwholefoods.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for matterwholefoods.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  matterwholefoods.uk scores 88/100 on our public trust checks. Established
+  domain — registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:09.825Z'
 finalUrl: 'https://www.matterwholefoods.uk/'
 reachable: true

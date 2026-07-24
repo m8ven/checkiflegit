@@ -1,10 +1,10 @@
 ---
 domain: roseprom.com
 slug: roseprom-com
-title: Is roseprom.com Legit? Trust Signal Check
+title: Is roseprom.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for roseprom.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  roseprom.com scores 100/100 on our public trust checks. Established domain —
+  registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:30.704Z'
 finalUrl: 'https://roseprom.com/'
 reachable: true

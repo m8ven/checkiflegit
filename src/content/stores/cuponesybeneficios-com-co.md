@@ -1,10 +1,10 @@
 ---
 domain: cuponesybeneficios.com.co
 slug: cuponesybeneficios-com-co
-title: Is cuponesybeneficios.com.co Legit? Trust Signal Check
+title: Is cuponesybeneficios.com.co Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for cuponesybeneficios.com.co: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cuponesybeneficios.com.co scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:39:32.516Z'
 finalUrl: 'https://cuponesybeneficios.com.co/'
 reachable: true

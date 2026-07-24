@@ -1,10 +1,10 @@
 ---
 domain: best-pool-shop.de
 slug: best-pool-shop-de
-title: Is best-pool-shop.de Legit? Trust Signal Check
+title: Is best-pool-shop.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for best-pool-shop.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  best-pool-shop.de scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:03:02.421Z'
 finalUrl: 'https://best-pool-shop.de/'
 reachable: true

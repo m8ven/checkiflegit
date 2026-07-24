@@ -1,10 +1,10 @@
 ---
 domain: dirigent.jp
 slug: dirigent-jp
-title: Is dirigent.jp Legit? Trust Signal Check
+title: Is dirigent.jp Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dirigent.jp: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dirigent.jp scores 88/100 on our public trust checks. Established domain —
+  registered 19 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:04.931Z'
 finalUrl: 'https://dirigent.jp/'
 reachable: true

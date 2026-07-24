@@ -1,10 +1,10 @@
 ---
 domain: designandetc.com
 slug: designandetc-com
-title: Is designandetc.com Legit? Trust Signal Check
+title: Is designandetc.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for designandetc.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  designandetc.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:33:56.813Z'
 finalUrl: 'https://designandetc.com/'
 reachable: true

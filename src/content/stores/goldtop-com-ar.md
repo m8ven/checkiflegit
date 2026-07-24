@@ -1,10 +1,11 @@
 ---
 domain: goldtop.com.ar
 slug: goldtop-com-ar
-title: Is goldtop.com.ar Legit? Trust Signal Check
+title: Is goldtop.com.ar Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for goldtop.com.ar: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  goldtop.com.ar scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:48:39.057Z'
 finalUrl: 'https://goldtop.com.ar/'
 reachable: true

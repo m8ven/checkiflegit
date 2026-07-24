@@ -1,10 +1,10 @@
 ---
 domain: rfreurobodalla.com.au
 slug: rfreurobodalla-com-au
-title: Is rfreurobodalla.com.au Legit? Trust Signal Check
+title: Is rfreurobodalla.com.au Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for rfreurobodalla.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rfreurobodalla.com.au scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:06:35.342Z'
 finalUrl: 'https://rfreurobodalla.com.au/'
 reachable: true

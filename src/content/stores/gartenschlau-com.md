@@ -1,10 +1,10 @@
 ---
 domain: gartenschlau.com
 slug: gartenschlau-com
-title: Is gartenschlau.com Legit? Trust Signal Check
+title: Is gartenschlau.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for gartenschlau.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gartenschlau.com scores 73/100 on our public trust checks. Established domain
+  — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:13.075Z'
 finalUrl: 'https://gartenschlau.com/'
 reachable: true

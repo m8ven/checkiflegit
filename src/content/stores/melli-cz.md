@@ -1,10 +1,10 @@
 ---
 domain: melli.cz
 slug: melli-cz
-title: Is melli.cz Legit? Trust Signal Check
+title: Is melli.cz Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for melli.cz: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  melli.cz scores 57/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:10:42.307Z'
 finalUrl: 'https://melli.cz/'
 reachable: true

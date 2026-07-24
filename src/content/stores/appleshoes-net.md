@@ -1,10 +1,10 @@
 ---
 domain: appleshoes.net
 slug: appleshoes-net
-title: Is appleshoes.net Legit? Trust Signal Check
+title: Is appleshoes.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for appleshoes.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  appleshoes.net scores 100/100 on our public trust checks. Established domain —
+  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:01.041Z'
 finalUrl: 'https://appleshoes.net/'
 reachable: true

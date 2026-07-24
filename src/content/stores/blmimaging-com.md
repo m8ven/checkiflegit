@@ -1,10 +1,10 @@
 ---
 domain: blmimaging.com
 slug: blmimaging-com
-title: Is blmimaging.com Legit? Trust Signal Check
+title: Is blmimaging.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for blmimaging.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blmimaging.com scores 76/100 on our public trust checks. Established domain —
+  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:47.312Z'
 finalUrl: 'https://blmimaging.com/'
 reachable: true

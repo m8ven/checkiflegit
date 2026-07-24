@@ -1,10 +1,10 @@
 ---
 domain: enoavia.es
 slug: enoavia-es
-title: Is enoavia.es Legit? Trust Signal Check
+title: Is enoavia.es Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for enoavia.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  enoavia.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:32:30.239Z'
 finalUrl: 'https://enoavia.es/'
 reachable: true

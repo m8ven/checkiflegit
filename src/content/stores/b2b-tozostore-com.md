@@ -1,10 +1,10 @@
 ---
 domain: b2b.tozostore.com
 slug: b2b-tozostore-com
-title: Is b2b.tozostore.com Legit? Trust Signal Check
+title: Is b2b.tozostore.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for b2b.tozostore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  b2b.tozostore.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:01:37.852Z'
 finalUrl: 'https://b2b.tozostore.com/'
 reachable: true

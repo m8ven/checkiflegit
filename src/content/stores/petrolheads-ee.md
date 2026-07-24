@@ -1,10 +1,10 @@
 ---
 domain: petrolheads.ee
 slug: petrolheads-ee
-title: Is petrolheads.ee Legit? Trust Signal Check
+title: Is petrolheads.ee Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for petrolheads.ee: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  petrolheads.ee scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:02:23.468Z'
 finalUrl: 'https://petrolheads.ee/'
 reachable: true

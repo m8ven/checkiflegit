@@ -1,10 +1,10 @@
 ---
 domain: payli.be
 slug: payli-be
-title: Is payli.be Legit? Trust Signal Check
+title: Is payli.be Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for payli.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  payli.be scores 76/100 on our public trust checks. Established domain —
+  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:35.883Z'
 finalUrl: 'https://payli.be/'
 reachable: true

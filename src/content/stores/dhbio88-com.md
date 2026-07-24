@@ -1,10 +1,10 @@
 ---
 domain: dhbio88.com
 slug: dhbio88-com
-title: Is dhbio88.com Legit? Trust Signal Check
+title: Is dhbio88.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for dhbio88.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dhbio88.com scores 100/100 on our public trust checks. Established domain —
+  registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:09.566Z'
 finalUrl: 'https://dhbio88.com/'
 reachable: true

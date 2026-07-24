@@ -1,10 +1,10 @@
 ---
 domain: agatamebli.com.ua
 slug: agatamebli-com-ua
-title: Is agatamebli.com.ua Legit? Trust Signal Check
+title: Is agatamebli.com.ua Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for agatamebli.com.ua: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  agatamebli.com.ua scores 43/100 on our public trust checks. Domain registered
+  very recently (61 days ago). Only limited contact details were found.
 fetchedAt: '2026-06-25T02:18:33.407Z'
 finalUrl: 'https://agatamebli.com.ua/'
 reachable: true

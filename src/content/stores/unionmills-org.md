@@ -1,10 +1,10 @@
 ---
 domain: unionmills.org
 slug: unionmills-org
-title: Is unionmills.org Legit? Trust Signal Check
+title: Is unionmills.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for unionmills.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  unionmills.org scores 88/100 on our public trust checks. Established domain —
+  registered 23 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:16.455Z'
 finalUrl: 'https://unionmills.org/'
 reachable: true

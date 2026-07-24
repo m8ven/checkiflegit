@@ -1,10 +1,10 @@
 ---
 domain: remember.sk
 slug: remember-sk
-title: Is remember.sk Legit? Trust Signal Check
+title: Is remember.sk Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for remember.sk: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  remember.sk scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:05:57.582Z'
 finalUrl: 'https://remember.sk/'
 reachable: true

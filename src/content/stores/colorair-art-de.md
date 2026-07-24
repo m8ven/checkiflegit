@@ -1,10 +1,10 @@
 ---
 domain: colorair-art.de
 slug: colorair-art-de
-title: Is colorair-art.de Legit? Trust Signal Check
+title: Is colorair-art.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for colorair-art.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  colorair-art.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:29:21.804Z'
 finalUrl: 'https://colorair-art.de/'
 reachable: true

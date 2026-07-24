@@ -1,10 +1,10 @@
 ---
 domain: music-space.pl
 slug: music-space-pl
-title: Is music-space.pl Legit? Trust Signal Check
+title: Is music-space.pl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for music-space.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  music-space.pl scores 82/100 on our public trust checks. Established domain —
+  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:16.496Z'
 finalUrl: 'https://music-space.pl/'
 reachable: true

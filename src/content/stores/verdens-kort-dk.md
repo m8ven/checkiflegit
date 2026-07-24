@@ -1,10 +1,10 @@
 ---
 domain: verdens-kort.dk
 slug: verdens-kort-dk
-title: Is verdens-kort.dk Legit? Trust Signal Check
+title: Is verdens-kort.dk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for verdens-kort.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  verdens-kort.dk scores 82/100 on our public trust checks. Established domain —
+  registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:40.819Z'
 finalUrl: 'https://verdens-kort.dk/'
 reachable: true

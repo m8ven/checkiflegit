@@ -1,10 +1,10 @@
 ---
 domain: keywestinternationale.com.ph
 slug: keywestinternationale-com-ph
-title: Is keywestinternationale.com.ph Legit? Trust Signal Check
+title: Is keywestinternationale.com.ph Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for keywestinternationale.com.ph: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  keywestinternationale.com.ph scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:21.446Z'
 finalUrl: 'https://www.keywestinternationale.com.ph/'
 reachable: true

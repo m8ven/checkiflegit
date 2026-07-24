@@ -1,11 +1,11 @@
 ---
 domain: minhphatmobile.com.vn
 slug: minhphatmobile-com-vn
-title: Is minhphatmobile.com.vn Legit? Trust Signal Check
+title: Is minhphatmobile.com.vn Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for minhphatmobile.com.vn: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  minhphatmobile.com.vn scores 40/100 on our public trust checks. Standard
+  contact and policy pages were not found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:52:47.515Z'
 finalUrl: 'https://minhphatmobile.com.vn/'
 reachable: true

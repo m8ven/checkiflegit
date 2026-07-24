@@ -1,10 +1,10 @@
 ---
 domain: en.drivar.de
 slug: en-drivar-de
-title: Is en.drivar.de Legit? Trust Signal Check
+title: Is en.drivar.de Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for en.drivar.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  en.drivar.de scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:42:19.737Z'
 finalUrl: 'https://en.drivar.de/'
 reachable: true

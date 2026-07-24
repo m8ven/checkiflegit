@@ -1,10 +1,10 @@
 ---
 domain: juniperdesign.com
 slug: juniperdesign-com
-title: Is juniperdesign.com Legit? Trust Signal Check
+title: Is juniperdesign.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for juniperdesign.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  juniperdesign.com scores 100/100 on our public trust checks. Established
+  domain — registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:09.328Z'
 finalUrl: 'https://juniperdesign.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sensibo.com
 slug: sensibo-com
-title: Is sensibo.com Legit? Trust Signal Check
+title: Is sensibo.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sensibo.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sensibo.com scores 100/100 on our public trust checks. Established domain —
+  registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:33.930Z'
 finalUrl: 'https://sensibo.com/'
 reachable: true

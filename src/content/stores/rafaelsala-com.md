@@ -1,10 +1,10 @@
 ---
 domain: rafaelsala.com
 slug: rafaelsala-com
-title: Is rafaelsala.com Legit? Trust Signal Check
+title: Is rafaelsala.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for rafaelsala.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rafaelsala.com scores 85/100 on our public trust checks. Established domain —
+  registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:17.554Z'
 finalUrl: 'https://rafaelsala.com/'
 reachable: true

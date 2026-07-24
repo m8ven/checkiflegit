@@ -1,10 +1,10 @@
 ---
 domain: afraeurope.co.uk
 slug: afraeurope-co-uk
-title: Is afraeurope.co.uk Legit? Trust Signal Check
+title: Is afraeurope.co.uk Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for afraeurope.co.uk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  afraeurope.co.uk scores 55/100 on our public trust checks. Domain registered
+  very recently (64 days ago). Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:14.948Z'
 finalUrl: 'https://afraeurope.co.uk/'
 reachable: true

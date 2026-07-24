@@ -1,10 +1,10 @@
 ---
 domain: sanchez.com.mx
 slug: sanchez-com-mx
-title: Is sanchez.com.mx Legit? Trust Signal Check
+title: Is sanchez.com.mx Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for sanchez.com.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sanchez.com.mx scores 82/100 on our public trust checks. Established domain —
+  registered 28.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:01.754Z'
 finalUrl: 'https://sanchez.com.mx/'
 reachable: true

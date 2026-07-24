@@ -1,10 +1,10 @@
 ---
 domain: unlockingsecrets.com
 slug: unlockingsecrets-com
-title: Is unlockingsecrets.com Legit? Trust Signal Check
+title: Is unlockingsecrets.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for unlockingsecrets.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  unlockingsecrets.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:38:13.118Z'
 finalUrl: 'https://unlockingsecrets.com/'
 reachable: true

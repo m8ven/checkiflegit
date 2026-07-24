@@ -1,10 +1,10 @@
 ---
 domain: alazharmessage.com
 slug: alazharmessage-com
-title: Is alazharmessage.com Legit? Trust Signal Check
+title: Is alazharmessage.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for alazharmessage.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alazharmessage.com scores 73/100 on our public trust checks. Established
+  domain — registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:54.600Z'
 finalUrl: 'https://alazharmessage.com/'
 reachable: true

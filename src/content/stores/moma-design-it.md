@@ -1,10 +1,10 @@
 ---
 domain: moma-design.it
 slug: moma-design-it
-title: Is moma-design.it Legit? Trust Signal Check
+title: Is moma-design.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for moma-design.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  moma-design.it scores 100/100 on our public trust checks. Established domain —
+  registered 16 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:58.932Z'
 finalUrl: 'https://www.moma-design.it/'
 reachable: true

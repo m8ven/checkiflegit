@@ -1,10 +1,10 @@
 ---
 domain: fisher-price.com
 slug: fisher-price-com
-title: Is fisher-price.com Legit? Trust Signal Check
+title: Is fisher-price.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for fisher-price.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fisher-price.com scores 82/100 on our public trust checks. Established domain
+  — registered 31.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:34.626Z'
 finalUrl: 'https://shop.mattel.com/pages/fisher-price'
 reachable: true

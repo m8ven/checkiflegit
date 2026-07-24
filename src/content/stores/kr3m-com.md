@@ -1,10 +1,10 @@
 ---
 domain: kr3m.com
 slug: kr3m-com
-title: Is kr3m.com Legit? Trust Signal Check
+title: Is kr3m.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kr3m.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kr3m.com scores 88/100 on our public trust checks. Established domain —
+  registered 25.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:16.045Z'
 finalUrl: 'https://kr3m.com/'
 reachable: true

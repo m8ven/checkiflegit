@@ -1,11 +1,10 @@
 ---
 domain: petropavlovsk-kamchatskij.loveflowers24.ru
 slug: petropavlovsk-kamchatskij-loveflowers24-ru
-title: Is petropavlovsk-kamchatskij.loveflowers24.ru Legit? Trust Signal Check
+title: Is petropavlovsk-kamchatskij.loveflowers24.ru Legit? Score 61/100
 description: >-
-  An automated trust-signal check for
-  petropavlovsk-kamchatskij.loveflowers24.ru: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  petropavlovsk-kamchatskij.loveflowers24.ru scores 61/100 on our public trust
+  checks. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:20:35.139Z'
 finalUrl: 'https://petropavlovsk-kamchatskij.loveflowers24.ru/'
 reachable: true

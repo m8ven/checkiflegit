@@ -1,10 +1,10 @@
 ---
 domain: aleandlager.com
 slug: aleandlager-com
-title: Is aleandlager.com Legit? Trust Signal Check
+title: Is aleandlager.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for aleandlager.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aleandlager.com scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T15:13:01.305Z'
 finalUrl: 'https://www.aleandlager.com/'
 reachable: true

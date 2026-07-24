@@ -1,10 +1,10 @@
 ---
 domain: slamschoolawards.nl
 slug: slamschoolawards-nl
-title: Is slamschoolawards.nl Legit? Trust Signal Check
+title: Is slamschoolawards.nl Legit? Trust Score 10/100
 description: >-
-  An automated trust-signal check for slamschoolawards.nl: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  slamschoolawards.nl scores 10/100 on our public trust checks. Domain
+  registered very recently (89 days ago).
 fetchedAt: '2026-06-25T12:44:54.220Z'
 finalUrl: 'https://www.slamschoolawards.nl/'
 reachable: true

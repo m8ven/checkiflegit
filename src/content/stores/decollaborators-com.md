@@ -1,10 +1,10 @@
 ---
 domain: decollaborators.com
 slug: decollaborators-com
-title: Is decollaborators.com Legit? Trust Signal Check
+title: Is decollaborators.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for decollaborators.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  decollaborators.com scores 100/100 on our public trust checks. Established
+  domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:41.041Z'
 finalUrl: 'https://decollaborators.com/'
 reachable: true

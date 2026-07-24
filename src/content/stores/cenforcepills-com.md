@@ -1,10 +1,10 @@
 ---
 domain: cenforcepills.com
 slug: cenforcepills-com
-title: Is cenforcepills.com Legit? Trust Signal Check
+title: Is cenforcepills.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cenforcepills.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cenforcepills.com scores 88/100 on our public trust checks. Established domain
+  — registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:28.759Z'
 finalUrl: 'https://www.cenforcepills.com/'
 reachable: true

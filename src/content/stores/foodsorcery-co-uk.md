@@ -1,10 +1,10 @@
 ---
 domain: foodsorcery.co.uk
 slug: foodsorcery-co-uk
-title: Is foodsorcery.co.uk Legit? Trust Signal Check
+title: Is foodsorcery.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for foodsorcery.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  foodsorcery.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:20.747Z'
 finalUrl: 'https://www.foodsorcery.co.uk/'
 reachable: true

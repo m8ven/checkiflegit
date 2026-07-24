@@ -1,10 +1,10 @@
 ---
 domain: shop.tulipop.com
 slug: shop-tulipop-com
-title: Is shop.tulipop.com Legit? Trust Signal Check
+title: Is shop.tulipop.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.tulipop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.tulipop.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:51:16.737Z'
 finalUrl: 'https://shop.tulipop.com/'
 reachable: true

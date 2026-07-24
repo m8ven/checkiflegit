@@ -1,10 +1,10 @@
 ---
 domain: plasprinter.com.co
 slug: plasprinter-com-co
-title: Is plasprinter.com.co Legit? Trust Signal Check
+title: Is plasprinter.com.co Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for plasprinter.com.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  plasprinter.com.co scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:47:56.542Z'
 finalUrl: 'https://plasprinter.com.co/'
 reachable: true

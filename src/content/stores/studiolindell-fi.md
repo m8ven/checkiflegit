@@ -1,10 +1,10 @@
 ---
 domain: studiolindell.fi
 slug: studiolindell-fi
-title: Is studiolindell.fi Legit? Trust Signal Check
+title: Is studiolindell.fi Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for studiolindell.fi: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  studiolindell.fi scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:30:39.361Z'
 finalUrl: 'https://www.studiolindell.fi/'
 reachable: true

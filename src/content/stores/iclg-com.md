@@ -1,10 +1,10 @@
 ---
 domain: iclg.com
 slug: iclg-com
-title: Is iclg.com Legit? Trust Signal Check
+title: Is iclg.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for iclg.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  iclg.com scores 85/100 on our public trust checks. Established domain —
+  registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:16.617Z'
 finalUrl: 'https://iclg.com/'
 reachable: true

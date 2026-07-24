@@ -1,10 +1,10 @@
 ---
 domain: izolelektro.ru
 slug: izolelektro-ru
-title: Is izolelektro.ru Legit? Trust Signal Check
+title: Is izolelektro.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for izolelektro.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  izolelektro.ru scores 73/100 on our public trust checks. Established domain —
+  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:02:57.165Z'
 finalUrl: 'https://izolelektro.ru/'
 reachable: true

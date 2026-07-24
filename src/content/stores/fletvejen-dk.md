@@ -1,10 +1,10 @@
 ---
 domain: fletvejen.dk
 slug: fletvejen-dk
-title: Is fletvejen.dk Legit? Trust Signal Check
+title: Is fletvejen.dk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for fletvejen.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fletvejen.dk scores 88/100 on our public trust checks. Established domain —
+  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:20.956Z'
 finalUrl: 'https://fletvejen.dk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: koskamcarcare.es
 slug: koskamcarcare-es
-title: Is koskamcarcare.es Legit? Trust Signal Check
+title: Is koskamcarcare.es Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for koskamcarcare.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  koskamcarcare.es scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:18:12.155Z'
 finalUrl: 'https://koskamcarcare.es/'
 reachable: true

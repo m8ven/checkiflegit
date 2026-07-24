@@ -1,10 +1,10 @@
 ---
 domain: athleticquickness.com
 slug: athleticquickness-com
-title: Is athleticquickness.com Legit? Trust Signal Check
+title: Is athleticquickness.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for athleticquickness.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  athleticquickness.com scores 100/100 on our public trust checks. Established
+  domain — registered 23 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:02.185Z'
 finalUrl: 'https://athleticquickness.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: autoglym.hu
 slug: autoglym-hu
-title: Is autoglym.hu Legit? Trust Signal Check
+title: Is autoglym.hu Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for autoglym.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  autoglym.hu scores 31/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:49:23.452Z'
 finalUrl: 'https://autoglym.hu/'
 reachable: true

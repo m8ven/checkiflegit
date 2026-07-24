@@ -1,10 +1,10 @@
 ---
 domain: anas.tj
 slug: anas-tj
-title: Is anas.tj Legit? Trust Signal Check
+title: Is anas.tj Legit? Trust Score 44/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for anas.tj: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  anas.tj scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:34:10.497Z'
 finalUrl: 'https://anas.tj/'
 reachable: true

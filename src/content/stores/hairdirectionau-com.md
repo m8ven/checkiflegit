@@ -1,10 +1,10 @@
 ---
 domain: hairdirectionau.com
 slug: hairdirectionau-com
-title: Is hairdirectionau.com Legit? Trust Signal Check
+title: Is hairdirectionau.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hairdirectionau.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hairdirectionau.com scores 100/100 on our public trust checks. Established
+  domain — registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:53.909Z'
 finalUrl: 'https://www.hairdirectionau.com/'
 reachable: true

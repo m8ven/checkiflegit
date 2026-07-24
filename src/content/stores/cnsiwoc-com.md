@@ -1,10 +1,10 @@
 ---
 domain: cnsiwoc.com
 slug: cnsiwoc-com
-title: Is cnsiwoc.com Legit? Trust Signal Check
+title: Is cnsiwoc.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cnsiwoc.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cnsiwoc.com scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:15:54.702Z'
 finalUrl: 'https://www.cnsiwoc.com/'
 reachable: true

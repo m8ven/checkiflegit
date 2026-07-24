@@ -1,10 +1,10 @@
 ---
 domain: annettelackovic.com
 slug: annettelackovic-com
-title: Is annettelackovic.com Legit? Trust Signal Check
+title: Is annettelackovic.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for annettelackovic.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  annettelackovic.com scores 64/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:19:17.727Z'
 finalUrl: 'https://annettelackovic.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mymarine.com.au
 slug: mymarine-com-au
-title: Is mymarine.com.au Legit? Trust Signal Check
+title: Is mymarine.com.au Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mymarine.com.au: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mymarine.com.au scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:23:56.675Z'
 finalUrl: 'https://mymarine.com.au/'
 reachable: true

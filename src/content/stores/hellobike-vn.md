@@ -1,10 +1,10 @@
 ---
 domain: hellobike.vn
 slug: hellobike-vn
-title: Is hellobike.vn Legit? Trust Signal Check
+title: Is hellobike.vn Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for hellobike.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hellobike.vn scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:52.856Z'
 finalUrl: 'https://hellobike.vn/'
 reachable: true

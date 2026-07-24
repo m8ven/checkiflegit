@@ -1,10 +1,10 @@
 ---
 domain: rhoncus.it
 slug: rhoncus-it
-title: Is rhoncus.it Legit? Trust Signal Check
+title: Is rhoncus.it Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for rhoncus.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rhoncus.it scores 76/100 on our public trust checks. Public business contact
+  details are listed. Maintains links to multiple social media platforms.
 fetchedAt: '2026-06-25T11:58:37.173Z'
 finalUrl: 'https://rhoncus.it/'
 reachable: true

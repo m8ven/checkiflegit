@@ -1,10 +1,10 @@
 ---
 domain: labirint-doors.com
 slug: labirint-doors-com
-title: Is labirint-doors.com Legit? Trust Signal Check
+title: Is labirint-doors.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for labirint-doors.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  labirint-doors.com scores 73/100 on our public trust checks. Established
+  domain — registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:08.697Z'
 finalUrl: 'https://labirint-doors.com/'
 reachable: true

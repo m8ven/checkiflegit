@@ -1,10 +1,10 @@
 ---
 domain: vivahtech.co.ke
 slug: vivahtech-co-ke
-title: Is vivahtech.co.ke Legit? Trust Signal Check
+title: Is vivahtech.co.ke Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for vivahtech.co.ke: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vivahtech.co.ke scores 100/100 on our public trust checks. Established domain
+  — registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:23.341Z'
 finalUrl: 'https://vivahtech.co.ke/'
 reachable: true

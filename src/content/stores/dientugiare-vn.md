@@ -1,10 +1,10 @@
 ---
 domain: dientugiare.vn
 slug: dientugiare-vn
-title: Is dientugiare.vn Legit? Trust Signal Check
+title: Is dientugiare.vn Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for dientugiare.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dientugiare.vn scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T03:35:34.835Z'
 finalUrl: 'https://dientugiare.vn/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: puntadasperfectas.es
 slug: puntadasperfectas-es
-title: Is puntadasperfectas.es Legit? Trust Signal Check
+title: Is puntadasperfectas.es Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for puntadasperfectas.es: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  puntadasperfectas.es scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:28:28.720Z'
 finalUrl: 'https://puntadasperfectas.es/'
 reachable: true

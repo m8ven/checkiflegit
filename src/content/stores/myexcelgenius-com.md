@@ -1,10 +1,10 @@
 ---
 domain: myexcelgenius.com
 slug: myexcelgenius-com
-title: Is myexcelgenius.com Legit? Trust Signal Check
+title: Is myexcelgenius.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for myexcelgenius.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  myexcelgenius.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T14:59:08.765Z'
 finalUrl: 'https://myexcelgenius.com/'
 reachable: true

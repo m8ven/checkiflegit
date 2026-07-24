@@ -1,10 +1,10 @@
 ---
 domain: kuono.fi
 slug: kuono-fi
-title: Is kuono.fi Legit? Trust Signal Check
+title: Is kuono.fi Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kuono.fi: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kuono.fi scores 52/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:33:06.339Z'
 finalUrl: 'https://kuono.fi/'
 reachable: true

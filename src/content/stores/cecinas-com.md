@@ -1,10 +1,10 @@
 ---
 domain: cecinas.com
 slug: cecinas-com
-title: Is cecinas.com Legit? Trust Signal Check
+title: Is cecinas.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cecinas.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cecinas.com scores 76/100 on our public trust checks. Established domain —
+  registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:38.020Z'
 finalUrl: 'https://cecinas.com/'
 reachable: true

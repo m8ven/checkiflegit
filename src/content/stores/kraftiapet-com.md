@@ -1,10 +1,10 @@
 ---
 domain: kraftiapet.com
 slug: kraftiapet-com
-title: Is kraftiapet.com Legit? Trust Signal Check
+title: Is kraftiapet.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kraftiapet.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kraftiapet.com scores 58/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:05:24.892Z'
 finalUrl: 'https://kraftiapet.com/'
 reachable: true

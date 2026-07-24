@@ -1,10 +1,10 @@
 ---
 domain: jato.ae
 slug: jato-ae
-title: Is jato.ae Legit? Trust Signal Check
+title: Is jato.ae Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for jato.ae: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  jato.ae scores 79/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:03:20.570Z'
 finalUrl: 'https://jato.ae/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: leonard-de-vinci.info
 slug: leonard-de-vinci-info
-title: Is leonard-de-vinci.info Legit? Trust Signal Check
+title: Is leonard-de-vinci.info Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for leonard-de-vinci.info: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  leonard-de-vinci.info scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:10.062Z'
 finalUrl: 'https://leonard-de-vinci.info/'
 reachable: true

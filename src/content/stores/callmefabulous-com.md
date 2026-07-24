@@ -1,10 +1,10 @@
 ---
 domain: callmefabulous.com
 slug: callmefabulous-com
-title: Is callmefabulous.com Legit? Trust Signal Check
+title: Is callmefabulous.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for callmefabulous.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  callmefabulous.com scores 76/100 on our public trust checks. Established
+  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:44:35.328Z'
 finalUrl: 'https://callmefabulous.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: founderscigarco.com
 slug: founderscigarco-com
-title: Is founderscigarco.com Legit? Trust Signal Check
+title: Is founderscigarco.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for founderscigarco.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  founderscigarco.com scores 70/100 on our public trust checks. Established
+  domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:01.585Z'
 finalUrl: 'https://founderscigarco.com/'
 reachable: true

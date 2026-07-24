@@ -1,10 +1,10 @@
 ---
 domain: kumm.ee
 slug: kumm-ee
-title: Is kumm.ee Legit? Trust Signal Check
+title: Is kumm.ee Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kumm.ee: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  kumm.ee scores 73/100 on our public trust checks. Established domain —
+  registered 16 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:07.877Z'
 finalUrl: 'https://www.kumm.ee/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: luxclima.com
 slug: luxclima-com
-title: Is luxclima.com Legit? Trust Signal Check
+title: Is luxclima.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for luxclima.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  luxclima.com scores 73/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:53.824Z'
 finalUrl: 'https://luxclima.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lcdor.fr
 slug: lcdor-fr
-title: Is lcdor.fr Legit? Trust Signal Check
+title: Is lcdor.fr Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lcdor.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lcdor.fr scores 100/100 on our public trust checks. Established domain —
+  registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:42.597Z'
 finalUrl: 'https://lcdor.fr/'
 reachable: true

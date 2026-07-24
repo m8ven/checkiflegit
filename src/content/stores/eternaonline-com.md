@@ -1,10 +1,10 @@
 ---
 domain: eternaonline.com
 slug: eternaonline-com
-title: Is eternaonline.com Legit? Trust Signal Check
+title: Is eternaonline.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for eternaonline.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eternaonline.com scores 100/100 on our public trust checks. Established domain
+  — registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:52.270Z'
 finalUrl: 'https://eternaonline.com/'
 reachable: true

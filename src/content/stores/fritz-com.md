@@ -1,10 +1,10 @@
 ---
 domain: fritz.com
 slug: fritz-com
-title: Is fritz.com Legit? Trust Signal Check
+title: Is fritz.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fritz.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fritz.com scores 70/100 on our public trust checks. Established domain —
+  registered 32.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:33.121Z'
 finalUrl: 'https://fritz.com/'
 reachable: true

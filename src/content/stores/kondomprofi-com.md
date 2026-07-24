@@ -1,10 +1,10 @@
 ---
 domain: kondomprofi.com
 slug: kondomprofi-com
-title: Is kondomprofi.com Legit? Trust Signal Check
+title: Is kondomprofi.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for kondomprofi.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kondomprofi.com scores 85/100 on our public trust checks. Established domain —
+  registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:31.859Z'
 finalUrl: 'https://kondomprofi.com/'
 reachable: true

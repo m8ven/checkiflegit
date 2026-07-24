@@ -1,10 +1,10 @@
 ---
 domain: denisejanmaat.nl
 slug: denisejanmaat-nl
-title: Is denisejanmaat.nl Legit? Trust Signal Check
+title: Is denisejanmaat.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for denisejanmaat.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  denisejanmaat.nl scores 82/100 on our public trust checks. Established domain
+  — registered 18.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:11.641Z'
 finalUrl: 'https://denisejanmaat.nl/'
 reachable: true

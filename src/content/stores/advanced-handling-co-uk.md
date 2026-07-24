@@ -1,10 +1,10 @@
 ---
 domain: advanced-handling.co.uk
 slug: advanced-handling-co-uk
-title: Is advanced-handling.co.uk Legit? Trust Signal Check
+title: Is advanced-handling.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for advanced-handling.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  advanced-handling.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:22.194Z'
 finalUrl: 'https://advanced-handling.co.uk/'
 reachable: true

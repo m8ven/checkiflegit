@@ -1,10 +1,10 @@
 ---
 domain: zoo-centrum.com.pl
 slug: zoo-centrum-com-pl
-title: Is zoo-centrum.com.pl Legit? Trust Signal Check
+title: Is zoo-centrum.com.pl Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for zoo-centrum.com.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  zoo-centrum.com.pl scores 70/100 on our public trust checks. Established
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:24.328Z'
 finalUrl: 'https://zoo-centrum.com.pl/'
 reachable: true

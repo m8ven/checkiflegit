@@ -1,10 +1,10 @@
 ---
 domain: callmewine.com
 slug: callmewine-com
-title: Is callmewine.com Legit? Trust Signal Check
+title: Is callmewine.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for callmewine.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  callmewine.com scores 88/100 on our public trust checks. Established domain —
+  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:14:53.130Z'
 finalUrl: 'https://www.callmewine.com/'
 reachable: true

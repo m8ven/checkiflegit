@@ -1,10 +1,10 @@
 ---
 domain: trikora.de
 slug: trikora-de
-title: Is trikora.de Legit? Trust Signal Check
+title: Is trikora.de Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for trikora.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  trikora.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:48:51.365Z'
 finalUrl: 'https://trikora.de/'
 reachable: true

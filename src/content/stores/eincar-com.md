@@ -1,10 +1,10 @@
 ---
 domain: eincar.com
 slug: eincar-com
-title: Is eincar.com Legit? Trust Signal Check
+title: Is eincar.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for eincar.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  eincar.com scores 100/100 on our public trust checks. Established domain —
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:58.651Z'
 finalUrl: 'https://eincar.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: omnicarepharmacy.ag
 slug: omnicarepharmacy-ag
-title: Is omnicarepharmacy.ag Legit? Trust Signal Check
+title: Is omnicarepharmacy.ag Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for omnicarepharmacy.ag: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  omnicarepharmacy.ag scores 88/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:53.030Z'
 finalUrl: 'https://omnicarepharmacy.ag/'
 reachable: true

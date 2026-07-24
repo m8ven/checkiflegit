@@ -1,10 +1,10 @@
 ---
 domain: coolwick.com
 slug: coolwick-com
-title: Is coolwick.com Legit? Trust Signal Check
+title: Is coolwick.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for coolwick.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  coolwick.com scores 88/100 on our public trust checks. Established domain —
+  registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:00.447Z'
 finalUrl: 'https://www.coolwick.com/'
 reachable: true

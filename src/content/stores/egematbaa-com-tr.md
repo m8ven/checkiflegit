@@ -1,10 +1,10 @@
 ---
 domain: egematbaa.com.tr
 slug: egematbaa-com-tr
-title: Is egematbaa.com.tr Legit? Trust Signal Check
+title: Is egematbaa.com.tr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for egematbaa.com.tr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  egematbaa.com.tr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:57:13.403Z'
 finalUrl: 'https://www.egematbaa.com.tr/'
 reachable: true

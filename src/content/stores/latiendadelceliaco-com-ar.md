@@ -1,10 +1,10 @@
 ---
 domain: latiendadelceliaco.com.ar
 slug: latiendadelceliaco-com-ar
-title: Is latiendadelceliaco.com.ar Legit? Trust Signal Check
+title: Is latiendadelceliaco.com.ar Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for latiendadelceliaco.com.ar: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  latiendadelceliaco.com.ar scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:18:55.292Z'
 finalUrl: 'https://latiendadelceliaco.com.ar/'
 reachable: true

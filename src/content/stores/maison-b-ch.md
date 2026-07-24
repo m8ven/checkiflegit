@@ -1,10 +1,10 @@
 ---
 domain: maison-b.ch
 slug: maison-b-ch
-title: Is maison-b.ch Legit? Trust Signal Check
+title: Is maison-b.ch Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for maison-b.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  maison-b.ch scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:54:02.797Z'
 finalUrl: 'https://maison-b.ch/'
 reachable: true

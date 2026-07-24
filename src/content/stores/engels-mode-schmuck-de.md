@@ -1,10 +1,10 @@
 ---
 domain: engels-mode-schmuck.de
 slug: engels-mode-schmuck-de
-title: Is engels-mode-schmuck.de Legit? Trust Signal Check
+title: Is engels-mode-schmuck.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for engels-mode-schmuck.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  engels-mode-schmuck.de scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:30:00.535Z'
 finalUrl: 'https://www.engels-mode-schmuck.de/'
 reachable: true

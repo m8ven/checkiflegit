@@ -1,10 +1,10 @@
 ---
 domain: tajhizman.ir
 slug: tajhizman-ir
-title: Is tajhizman.ir Legit? Trust Signal Check
+title: Is tajhizman.ir Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for tajhizman.ir: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tajhizman.ir scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:05:27.206Z'
 finalUrl: 'https://tajhizman.ir/'
 reachable: true

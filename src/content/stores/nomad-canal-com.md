@@ -1,10 +1,10 @@
 ---
 domain: nomad-canal.com
 slug: nomad-canal-com
-title: Is nomad-canal.com Legit? Trust Signal Check
+title: Is nomad-canal.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nomad-canal.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nomad-canal.com scores 100/100 on our public trust checks. Established domain
+  — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:05.186Z'
 finalUrl: 'https://nomad-canal.com/'
 reachable: true

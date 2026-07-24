@@ -1,10 +1,10 @@
 ---
 domain: leckys.com.au
 slug: leckys-com-au
-title: Is leckys.com.au Legit? Trust Signal Check
+title: Is leckys.com.au Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for leckys.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  leckys.com.au scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:52:45.968Z'
 finalUrl: 'https://leckys.com.au/'
 reachable: true

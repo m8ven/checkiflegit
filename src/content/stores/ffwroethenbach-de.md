@@ -1,10 +1,10 @@
 ---
 domain: ffwroethenbach.de
 slug: ffwroethenbach-de
-title: Is ffwroethenbach.de Legit? Trust Signal Check
+title: Is ffwroethenbach.de Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for ffwroethenbach.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ffwroethenbach.de scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:33:48.920Z'
 finalUrl: 'https://ffwroethenbach.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: panorama-park.ru
 slug: panorama-park-ru
-title: Is panorama-park.ru Legit? Trust Signal Check
+title: Is panorama-park.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for panorama-park.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  panorama-park.ru scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:18:40.475Z'
 finalUrl: 'https://panorama-park.ru/'
 reachable: true

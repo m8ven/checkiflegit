@@ -1,10 +1,10 @@
 ---
 domain: danmark-kort.dk
 slug: danmark-kort-dk
-title: Is danmark-kort.dk Legit? Trust Signal Check
+title: Is danmark-kort.dk Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for danmark-kort.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  danmark-kort.dk scores 70/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:01.724Z'
 finalUrl: 'https://danmark-kort.dk/'
 reachable: true

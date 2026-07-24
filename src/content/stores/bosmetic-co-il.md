@@ -1,10 +1,10 @@
 ---
 domain: bosmetic.co.il
 slug: bosmetic-co-il
-title: Is bosmetic.co.il Legit? Trust Signal Check
+title: Is bosmetic.co.il Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for bosmetic.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bosmetic.co.il scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:21:32.852Z'
 finalUrl: 'https://bosmetic.co.il/'
 reachable: true

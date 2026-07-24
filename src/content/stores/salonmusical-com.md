@@ -1,10 +1,10 @@
 ---
 domain: salonmusical.com
 slug: salonmusical-com
-title: Is salonmusical.com Legit? Trust Signal Check
+title: Is salonmusical.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for salonmusical.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  salonmusical.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T11:59:39.144Z'
 finalUrl: 'https://salonmusical.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: airfaretravel.us
 slug: airfaretravel-us
-title: Is airfaretravel.us Legit? Trust Signal Check
+title: Is airfaretravel.us Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for airfaretravel.us: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  airfaretravel.us scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:17:26.602Z'
 finalUrl: 'https://airfaretravel.us/'
 reachable: true

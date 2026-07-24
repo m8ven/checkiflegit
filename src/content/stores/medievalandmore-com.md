@@ -1,10 +1,10 @@
 ---
 domain: medievalandmore.com
 slug: medievalandmore-com
-title: Is medievalandmore.com Legit? Trust Signal Check
+title: Is medievalandmore.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for medievalandmore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  medievalandmore.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:18.752Z'
 finalUrl: 'https://www.medievalandmore.com/'
 reachable: true

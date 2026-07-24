@@ -1,10 +1,10 @@
 ---
 domain: haustierliebe.de
 slug: haustierliebe-de
-title: Is haustierliebe.de Legit? Trust Signal Check
+title: Is haustierliebe.de Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for haustierliebe.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  haustierliebe.de scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:20:09.147Z'
 finalUrl: 'https://www.haustierliebe.de/'
 reachable: true

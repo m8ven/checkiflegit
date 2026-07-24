@@ -1,10 +1,10 @@
 ---
 domain: buw-handel.eu
 slug: buw-handel-eu
-title: Is buw-handel.eu Legit? Trust Signal Check
+title: Is buw-handel.eu Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for buw-handel.eu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  buw-handel.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:37:30.370Z'
 finalUrl: 'https://buw-handel.eu/'
 reachable: true

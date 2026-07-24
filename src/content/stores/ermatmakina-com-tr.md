@@ -1,10 +1,10 @@
 ---
 domain: ermatmakina.com.tr
 slug: ermatmakina-com-tr
-title: Is ermatmakina.com.tr Legit? Trust Signal Check
+title: Is ermatmakina.com.tr Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for ermatmakina.com.tr: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ermatmakina.com.tr scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:54.542Z'
 finalUrl: 'https://ermatmakina.com.tr/'
 reachable: true

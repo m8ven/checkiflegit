@@ -1,10 +1,10 @@
 ---
 domain: premir.ru
 slug: premir-ru
-title: Is premir.ru Legit? Trust Signal Check
+title: Is premir.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for premir.ru: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  premir.ru scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:03:49.377Z'
 finalUrl: 'https://premir.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nexdeal.com
 slug: nexdeal-com
-title: Is nexdeal.com Legit? Trust Signal Check
+title: Is nexdeal.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nexdeal.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nexdeal.com scores 100/100 on our public trust checks. Established domain —
+  registered 20.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:58:04.555Z'
 finalUrl: 'https://nexdeal.com/'
 reachable: true

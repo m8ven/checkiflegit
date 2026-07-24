@@ -1,10 +1,10 @@
 ---
 domain: aristawonen.nl
 slug: aristawonen-nl
-title: Is aristawonen.nl Legit? Trust Signal Check
+title: Is aristawonen.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for aristawonen.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aristawonen.nl scores 88/100 on our public trust checks. Established domain —
+  registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:36.969Z'
 finalUrl: 'https://aristawonen.nl/'
 reachable: true

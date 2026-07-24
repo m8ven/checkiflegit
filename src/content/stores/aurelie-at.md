@@ -1,10 +1,10 @@
 ---
 domain: aurelie.at
 slug: aurelie-at
-title: Is aurelie.at Legit? Trust Signal Check
+title: Is aurelie.at Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for aurelie.at: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aurelie.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:51:36.104Z'
 finalUrl: 'https://www.aurelie.at/'
 reachable: true

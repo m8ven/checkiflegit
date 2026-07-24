@@ -1,10 +1,10 @@
 ---
 domain: oexec.co.uk
 slug: oexec-co-uk
-title: Is oexec.co.uk Legit? Trust Signal Check
+title: Is oexec.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for oexec.co.uk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  oexec.co.uk scores 100/100 on our public trust checks. Established domain —
+  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:23.542Z'
 finalUrl: 'https://oexec.co.uk/'
 reachable: true

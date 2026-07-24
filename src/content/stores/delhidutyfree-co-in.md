@@ -1,10 +1,10 @@
 ---
 domain: delhidutyfree.co.in
 slug: delhidutyfree-co-in
-title: Is delhidutyfree.co.in Legit? Trust Signal Check
+title: Is delhidutyfree.co.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for delhidutyfree.co.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  delhidutyfree.co.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-24T21:46:39.711Z'
 finalUrl: 'https://delhidutyfree.co.in/'
 reachable: true

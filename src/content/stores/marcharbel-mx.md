@@ -1,10 +1,10 @@
 ---
 domain: marcharbel.mx
 slug: marcharbel-mx
-title: Is marcharbel.mx Legit? Trust Signal Check
+title: Is marcharbel.mx Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for marcharbel.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  marcharbel.mx scores 100/100 on our public trust checks. Established domain —
+  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:14.523Z'
 finalUrl: 'https://marcharbel.mx/'
 reachable: true

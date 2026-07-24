@@ -1,10 +1,10 @@
 ---
 domain: pasteleriainglesa.com
 slug: pasteleriainglesa-com
-title: Is pasteleriainglesa.com Legit? Trust Signal Check
+title: Is pasteleriainglesa.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for pasteleriainglesa.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pasteleriainglesa.com scores 88/100 on our public trust checks. Established
+  domain — registered 21 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:25:12.209Z'
 finalUrl: 'https://www.pasteleriainglesa.com/'
 reachable: true

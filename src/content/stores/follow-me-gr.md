@@ -1,10 +1,10 @@
 ---
 domain: follow-me.gr
 slug: follow-me-gr
-title: Is follow-me.gr Legit? Trust Signal Check
+title: Is follow-me.gr Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for follow-me.gr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  follow-me.gr scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:27:54.881Z'
 finalUrl: 'https://follow-me.gr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: xmaslife.gr
 slug: xmaslife-gr
-title: Is xmaslife.gr Legit? Trust Signal Check
+title: Is xmaslife.gr Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for xmaslife.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  xmaslife.gr scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:38:36.224Z'
 finalUrl: 'https://xmaslife.gr/'
 reachable: true

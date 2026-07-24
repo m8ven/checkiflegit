@@ -1,10 +1,10 @@
 ---
 domain: invetica.ch
 slug: invetica-ch
-title: Is invetica.ch Legit? Trust Signal Check
+title: Is invetica.ch Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for invetica.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  invetica.ch scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:47:12.058Z'
 finalUrl: 'https://invetica.ch/'
 reachable: true

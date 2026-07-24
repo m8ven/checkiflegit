@@ -1,10 +1,10 @@
 ---
 domain: latelierdepanora.com
 slug: latelierdepanora-com
-title: Is latelierdepanora.com Legit? Trust Signal Check
+title: Is latelierdepanora.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for latelierdepanora.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  latelierdepanora.com scores 88/100 on our public trust checks. Established
+  domain — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:10:12.400Z'
 finalUrl: 'https://latelierdepanora.com/'
 reachable: true

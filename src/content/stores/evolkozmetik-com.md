@@ -1,10 +1,10 @@
 ---
 domain: evolkozmetik.com
 slug: evolkozmetik-com
-title: Is evolkozmetik.com Legit? Trust Signal Check
+title: Is evolkozmetik.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for evolkozmetik.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  evolkozmetik.com scores 82/100 on our public trust checks. Established domain
+  — registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:30.036Z'
 finalUrl: 'https://evolkozmetik.com/'
 reachable: true

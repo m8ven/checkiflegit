@@ -1,10 +1,10 @@
 ---
 domain: securos.org.ua
 slug: securos-org-ua
-title: Is securos.org.ua Legit? Trust Signal Check
+title: Is securos.org.ua Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for securos.org.ua: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  securos.org.ua scores 58/100 on our public trust checks. HTTPS certificate
+  present but its trust chain is incomplete.
 fetchedAt: '2026-06-25T02:17:12.706Z'
 finalUrl: 'http://securos.org.ua/'
 reachable: true

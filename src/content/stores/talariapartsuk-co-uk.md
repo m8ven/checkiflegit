@@ -1,11 +1,11 @@
 ---
 domain: talariapartsuk.co.uk
 slug: talariapartsuk-co-uk
-title: Is talariapartsuk.co.uk Legit? Trust Signal Check
+title: Is talariapartsuk.co.uk Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for talariapartsuk.co.uk: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  talariapartsuk.co.uk scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:05:28.086Z'
 finalUrl: 'https://talariapartsuk.co.uk/'
 reachable: true

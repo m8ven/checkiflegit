@@ -1,10 +1,10 @@
 ---
 domain: saq.com
 slug: saq-com
-title: Is saq.com Legit? Trust Signal Check
+title: Is saq.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for saq.com: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  saq.com scores 88/100 on our public trust checks. Established domain —
+  registered 30.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:12.389Z'
 finalUrl: 'https://www.saq.com/'
 reachable: true

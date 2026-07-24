@@ -1,10 +1,10 @@
 ---
 domain: ventilationsfilter.net
 slug: ventilationsfilter-net
-title: Is ventilationsfilter.net Legit? Trust Signal Check
+title: Is ventilationsfilter.net Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for ventilationsfilter.net: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ventilationsfilter.net scores 73/100 on our public trust checks. Established
+  domain — registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:18:10.482Z'
 finalUrl: 'https://ventilationsfilter.net/'
 reachable: true

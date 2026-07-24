@@ -1,10 +1,10 @@
 ---
 domain: elgendyempire.com
 slug: elgendyempire-com
-title: Is elgendyempire.com Legit? Trust Signal Check
+title: Is elgendyempire.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for elgendyempire.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elgendyempire.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:50:09.983Z'
 finalUrl: 'https://elgendyempire.com/'
 reachable: true

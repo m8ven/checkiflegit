@@ -1,10 +1,10 @@
 ---
 domain: herdinsfargverk.se
 slug: herdinsfargverk-se
-title: Is herdinsfargverk.se Legit? Trust Signal Check
+title: Is herdinsfargverk.se Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for herdinsfargverk.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  herdinsfargverk.se scores 76/100 on our public trust checks. Established
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:02.372Z'
 finalUrl: 'https://herdinsfargverk.se/'
 reachable: true

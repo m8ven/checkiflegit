@@ -1,10 +1,10 @@
 ---
 domain: campernet.eu
 slug: campernet-eu
-title: Is campernet.eu Legit? Trust Signal Check
+title: Is campernet.eu Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for campernet.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  campernet.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:22:03.674Z'
 finalUrl: 'https://campernet.eu/'
 reachable: true

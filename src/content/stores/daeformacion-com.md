@@ -1,10 +1,10 @@
 ---
 domain: daeformacion.com
 slug: daeformacion-com
-title: Is daeformacion.com Legit? Trust Signal Check
+title: Is daeformacion.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for daeformacion.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  daeformacion.com scores 100/100 on our public trust checks. Established domain
+  — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:20.686Z'
 finalUrl: 'https://daeformacion.com/'
 reachable: true

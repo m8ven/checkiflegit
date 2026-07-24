@@ -1,10 +1,10 @@
 ---
 domain: emeraldvalleyequine.com
 slug: emeraldvalleyequine-com
-title: Is emeraldvalleyequine.com Legit? Trust Signal Check
+title: Is emeraldvalleyequine.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for emeraldvalleyequine.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  emeraldvalleyequine.com scores 100/100 on our public trust checks. Established
+  domain — registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:16.202Z'
 finalUrl: 'https://emeraldvalleyequine.com/?v=bc74609e35bc'
 reachable: true

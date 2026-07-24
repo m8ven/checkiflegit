@@ -1,10 +1,10 @@
 ---
 domain: limpoff.ae
 slug: limpoff-ae
-title: Is limpoff.ae Legit? Trust Signal Check
+title: Is limpoff.ae Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for limpoff.ae: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  limpoff.ae scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:49:26.733Z'
 finalUrl: 'https://limpoff.ae/'
 reachable: true

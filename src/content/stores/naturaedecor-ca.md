@@ -1,10 +1,10 @@
 ---
 domain: naturaedecor.ca
 slug: naturaedecor-ca
-title: Is naturaedecor.ca Legit? Trust Signal Check
+title: Is naturaedecor.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for naturaedecor.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  naturaedecor.ca scores 100/100 on our public trust checks. Established domain
+  — registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:55:53.958Z'
 finalUrl: 'https://naturaedecor.ca/'
 reachable: true

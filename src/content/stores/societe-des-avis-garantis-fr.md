@@ -1,10 +1,10 @@
 ---
 domain: societe-des-avis-garantis.fr
 slug: societe-des-avis-garantis-fr
-title: Is societe-des-avis-garantis.fr Legit? Trust Signal Check
+title: Is societe-des-avis-garantis.fr Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for societe-des-avis-garantis.fr: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  societe-des-avis-garantis.fr scores 61/100 on our public trust checks. No
+  links to major social platforms found.
 fetchedAt: '2026-06-24T21:45:06.380Z'
 finalUrl: 'https://www.societe-des-avis-garantis.fr/'
 reachable: true

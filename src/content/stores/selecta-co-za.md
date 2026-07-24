@@ -1,10 +1,10 @@
 ---
 domain: selecta.co.za
 slug: selecta-co-za
-title: Is selecta.co.za Legit? Trust Signal Check
+title: Is selecta.co.za Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for selecta.co.za: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  selecta.co.za scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:08:50.108Z'
 finalUrl: 'https://selecta.co.za/'
 reachable: true

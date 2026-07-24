@@ -1,10 +1,10 @@
 ---
 domain: megszerelde.hu
 slug: megszerelde-hu
-title: Is megszerelde.hu Legit? Trust Signal Check
+title: Is megszerelde.hu Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for megszerelde.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  megszerelde.hu scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:54:54.921Z'
 finalUrl: 'https://megszerelde.hu/'
 reachable: true

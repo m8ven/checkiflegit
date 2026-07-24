@@ -1,10 +1,10 @@
 ---
 domain: arte9.com
 slug: arte9-com
-title: Is arte9.com Legit? Trust Signal Check
+title: Is arte9.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for arte9.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  arte9.com scores 100/100 on our public trust checks. Established domain —
+  registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:48.275Z'
 finalUrl: 'https://arte9.com/'
 reachable: true

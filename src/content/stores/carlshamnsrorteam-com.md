@@ -1,10 +1,10 @@
 ---
 domain: carlshamnsrorteam.com
 slug: carlshamnsrorteam-com
-title: Is carlshamnsrorteam.com Legit? Trust Signal Check
+title: Is carlshamnsrorteam.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for carlshamnsrorteam.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  carlshamnsrorteam.com scores 88/100 on our public trust checks. Established
+  domain — registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:13.470Z'
 finalUrl: 'https://carlshamnsrorteam.com/'
 reachable: true

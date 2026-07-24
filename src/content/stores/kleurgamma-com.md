@@ -1,10 +1,10 @@
 ---
 domain: kleurgamma.com
 slug: kleurgamma-com
-title: Is kleurgamma.com Legit? Trust Signal Check
+title: Is kleurgamma.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kleurgamma.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kleurgamma.com scores 88/100 on our public trust checks. Established domain —
+  registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:46.673Z'
 finalUrl: 'https://kleurgamma.com/'
 reachable: true

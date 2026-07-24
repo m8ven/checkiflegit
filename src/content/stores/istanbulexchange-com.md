@@ -1,11 +1,11 @@
 ---
 domain: istanbulexchange.com
 slug: istanbulexchange-com
-title: Is istanbulexchange.com Legit? Trust Signal Check
+title: Is istanbulexchange.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for istanbulexchange.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  istanbulexchange.com scores 43/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T03:42:29.469Z'
 finalUrl: 'https://istanbulexchange.com/'
 reachable: true

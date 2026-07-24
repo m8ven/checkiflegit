@@ -1,10 +1,10 @@
 ---
 domain: astratec.be
 slug: astratec-be
-title: Is astratec.be Legit? Trust Signal Check
+title: Is astratec.be Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for astratec.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  astratec.be scores 88/100 on our public trust checks. Established domain —
+  registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:49.260Z'
 finalUrl: 'https://astratec.be/'
 reachable: true

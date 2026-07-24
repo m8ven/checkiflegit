@@ -1,10 +1,10 @@
 ---
 domain: chennaipots.com
 slug: chennaipots-com
-title: Is chennaipots.com Legit? Trust Signal Check
+title: Is chennaipots.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for chennaipots.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chennaipots.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:38:49.935Z'
 finalUrl: 'https://chennaipots.com/'
 reachable: true

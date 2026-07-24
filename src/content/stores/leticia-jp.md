@@ -1,10 +1,10 @@
 ---
 domain: leticia.jp
 slug: leticia-jp
-title: Is leticia.jp Legit? Trust Signal Check
+title: Is leticia.jp Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for leticia.jp: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  leticia.jp scores 76/100 on our public trust checks. Established domain —
+  registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:05.296Z'
 finalUrl: 'https://leticia.jp/'
 reachable: true

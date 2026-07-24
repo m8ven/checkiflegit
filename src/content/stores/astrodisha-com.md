@@ -1,10 +1,10 @@
 ---
 domain: astrodisha.com
 slug: astrodisha-com
-title: Is astrodisha.com Legit? Trust Signal Check
+title: Is astrodisha.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for astrodisha.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  astrodisha.com scores 100/100 on our public trust checks. Established domain —
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:10.182Z'
 finalUrl: 'https://astrodisha.com/'
 reachable: true

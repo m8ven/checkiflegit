@@ -1,10 +1,11 @@
 ---
 domain: transexual.cz
 slug: transexual-cz
-title: Is transexual.cz Legit? Trust Signal Check
+title: Is transexual.cz Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for transexual.cz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  transexual.cz scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:06:40.974Z'
 finalUrl: 'https://transexual.cz/'
 reachable: true

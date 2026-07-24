@@ -1,10 +1,10 @@
 ---
 domain: portcity.co
 slug: portcity-co
-title: Is portcity.co Legit? Trust Signal Check
+title: Is portcity.co Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for portcity.co: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  portcity.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:41:19.832Z'
 finalUrl: 'https://portcity.co/'
 reachable: true

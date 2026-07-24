@@ -1,10 +1,10 @@
 ---
 domain: macchinari.moca.it
 slug: macchinari-moca-it
-title: Is macchinari.moca.it Legit? Trust Signal Check
+title: Is macchinari.moca.it Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for macchinari.moca.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  macchinari.moca.it scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:49:05.802Z'
 finalUrl: 'https://macchinari.moca.it/'
 reachable: true

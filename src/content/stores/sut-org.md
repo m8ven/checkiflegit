@@ -1,10 +1,10 @@
 ---
 domain: sut.org
 slug: sut-org
-title: Is sut.org Legit? Trust Signal Check
+title: Is sut.org Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sut.org: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  sut.org scores 85/100 on our public trust checks. Established domain —
+  registered 29.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:05:10.082Z'
 finalUrl: 'https://sut.org/'
 reachable: true

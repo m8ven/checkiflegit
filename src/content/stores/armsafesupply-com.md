@@ -1,10 +1,10 @@
 ---
 domain: armsafesupply.com
 slug: armsafesupply-com
-title: Is armsafesupply.com Legit? Trust Signal Check
+title: Is armsafesupply.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for armsafesupply.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  armsafesupply.com scores 88/100 on our public trust checks. Established domain
+  — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:26.965Z'
 finalUrl: 'https://armsafesupply.com/'
 reachable: true

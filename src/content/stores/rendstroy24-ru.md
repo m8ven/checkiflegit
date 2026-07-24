@@ -1,10 +1,10 @@
 ---
 domain: rendstroy24.ru
 slug: rendstroy24-ru
-title: Is rendstroy24.ru Legit? Trust Signal Check
+title: Is rendstroy24.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for rendstroy24.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rendstroy24.ru scores 73/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:31.739Z'
 finalUrl: 'https://rendstroy24.ru/'
 reachable: true

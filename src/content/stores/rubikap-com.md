@@ -1,10 +1,10 @@
 ---
 domain: rubikap.com
 slug: rubikap-com
-title: Is rubikap.com Legit? Trust Signal Check
+title: Is rubikap.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for rubikap.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rubikap.com scores 58/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:29:40.751Z'
 finalUrl: 'https://rubikap.com/'
 reachable: true

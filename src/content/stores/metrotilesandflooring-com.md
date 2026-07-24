@@ -1,10 +1,10 @@
 ---
 domain: metrotilesandflooring.com
 slug: metrotilesandflooring-com
-title: Is metrotilesandflooring.com Legit? Trust Signal Check
+title: Is metrotilesandflooring.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for metrotilesandflooring.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  metrotilesandflooring.com scores 55/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T02:52:52.033Z'
 finalUrl: 'https://metrotilesandflooring.com/'
 reachable: true

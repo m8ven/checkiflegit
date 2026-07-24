@@ -1,10 +1,10 @@
 ---
 domain: operationaid.org
 slug: operationaid-org
-title: Is operationaid.org Legit? Trust Signal Check
+title: Is operationaid.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for operationaid.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  operationaid.org scores 76/100 on our public trust checks. Established domain
+  — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:34.116Z'
 finalUrl: 'https://operationaid.org/'
 reachable: true

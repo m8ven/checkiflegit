@@ -1,10 +1,10 @@
 ---
 domain: artgrid.gr
 slug: artgrid-gr
-title: Is artgrid.gr Legit? Trust Signal Check
+title: Is artgrid.gr Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for artgrid.gr: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  artgrid.gr scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:22.260Z'
 finalUrl: 'https://artgrid.gr/'
 reachable: true

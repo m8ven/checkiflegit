@@ -1,10 +1,10 @@
 ---
 domain: edinburghfoodsocial.org
 slug: edinburghfoodsocial-org
-title: Is edinburghfoodsocial.org Legit? Trust Signal Check
+title: Is edinburghfoodsocial.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for edinburghfoodsocial.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  edinburghfoodsocial.org scores 100/100 on our public trust checks. Established
+  domain — registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:49.239Z'
 finalUrl: 'https://edinburghfoodsocial.org/'
 reachable: true

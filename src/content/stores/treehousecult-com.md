@@ -1,10 +1,10 @@
 ---
 domain: treehousecult.com
 slug: treehousecult-com
-title: Is treehousecult.com Legit? Trust Signal Check
+title: Is treehousecult.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for treehousecult.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  treehousecult.com scores 88/100 on our public trust checks. Established domain
+  — registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:39.549Z'
 finalUrl: 'https://treehousecult.com/'
 reachable: true

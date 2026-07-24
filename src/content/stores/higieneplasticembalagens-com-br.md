@@ -1,10 +1,10 @@
 ---
 domain: higieneplasticembalagens.com.br
 slug: higieneplasticembalagens-com-br
-title: Is higieneplasticembalagens.com.br Legit? Trust Signal Check
+title: Is higieneplasticembalagens.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for higieneplasticembalagens.com.br: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  higieneplasticembalagens.com.br scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:15:06.258Z'
 finalUrl: 'https://higieneplasticembalagens.com.br/'
 reachable: true

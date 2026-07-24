@@ -1,10 +1,10 @@
 ---
 domain: portalhbi.pt
 slug: portalhbi-pt
-title: Is portalhbi.pt Legit? Trust Signal Check
+title: Is portalhbi.pt Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for portalhbi.pt: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  portalhbi.pt scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T11:56:38.441Z'
 finalUrl: 'https://portalhbi.pt/'
 reachable: true

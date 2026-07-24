@@ -1,10 +1,10 @@
 ---
 domain: kuralforklift.com
 slug: kuralforklift-com
-title: Is kuralforklift.com Legit? Trust Signal Check
+title: Is kuralforklift.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for kuralforklift.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kuralforklift.com scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:16:52.246Z'
 finalUrl: 'https://kuralforklift.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: disgalmaquinaria.es
 slug: disgalmaquinaria-es
-title: Is disgalmaquinaria.es Legit? Trust Signal Check
+title: Is disgalmaquinaria.es Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for disgalmaquinaria.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  disgalmaquinaria.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:36:41.391Z'
 finalUrl: 'https://disgalmaquinaria.es/'
 reachable: true

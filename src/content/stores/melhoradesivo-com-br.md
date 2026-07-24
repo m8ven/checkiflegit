@@ -1,10 +1,10 @@
 ---
 domain: melhoradesivo.com.br
 slug: melhoradesivo-com-br
-title: Is melhoradesivo.com.br Legit? Trust Signal Check
+title: Is melhoradesivo.com.br Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for melhoradesivo.com.br: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  melhoradesivo.com.br scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:28:08.477Z'
 finalUrl: 'https://www.melhoradesivo.com.br/'
 reachable: true

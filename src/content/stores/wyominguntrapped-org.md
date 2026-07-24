@@ -1,10 +1,10 @@
 ---
 domain: wyominguntrapped.org
 slug: wyominguntrapped-org
-title: Is wyominguntrapped.org Legit? Trust Signal Check
+title: Is wyominguntrapped.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for wyominguntrapped.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  wyominguntrapped.org scores 88/100 on our public trust checks. Established
+  domain — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:37.101Z'
 finalUrl: 'https://wyominguntrapped.org/'
 reachable: true

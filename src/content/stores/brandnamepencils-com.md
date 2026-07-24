@@ -1,10 +1,10 @@
 ---
 domain: brandnamepencils.com
 slug: brandnamepencils-com
-title: Is brandnamepencils.com Legit? Trust Signal Check
+title: Is brandnamepencils.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for brandnamepencils.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  brandnamepencils.com scores 52/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:44:12.500Z'
 finalUrl: 'https://brandnamepencils.com/'
 reachable: true

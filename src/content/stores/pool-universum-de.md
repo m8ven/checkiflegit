@@ -1,10 +1,10 @@
 ---
 domain: pool-universum.de
 slug: pool-universum-de
-title: Is pool-universum.de Legit? Trust Signal Check
+title: Is pool-universum.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pool-universum.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pool-universum.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:48:04.827Z'
 finalUrl: 'https://pool-universum.de/'
 reachable: true

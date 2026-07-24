@@ -1,10 +1,10 @@
 ---
 domain: ferreteriaelarroyo.com
 slug: ferreteriaelarroyo-com
-title: Is ferreteriaelarroyo.com Legit? Trust Signal Check
+title: Is ferreteriaelarroyo.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for ferreteriaelarroyo.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ferreteriaelarroyo.com scores 94/100 on our public trust checks. Established
+  domain — registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:55.803Z'
 finalUrl: 'https://ferreteriaelarroyo.com/'
 reachable: true

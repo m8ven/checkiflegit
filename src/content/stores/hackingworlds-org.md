@@ -1,10 +1,10 @@
 ---
 domain: hackingworlds.org
 slug: hackingworlds-org
-title: Is hackingworlds.org Legit? Trust Signal Check
+title: Is hackingworlds.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for hackingworlds.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hackingworlds.org scores 76/100 on our public trust checks. Established domain
+  — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:16.482Z'
 finalUrl: 'https://hackingworlds.org/'
 reachable: true

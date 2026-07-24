@@ -1,10 +1,11 @@
 ---
 domain: markamonitor.hu
 slug: markamonitor-hu
-title: Is markamonitor.hu Legit? Trust Signal Check
+title: Is markamonitor.hu Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for markamonitor.hu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  markamonitor.hu scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:27:45.775Z'
 finalUrl: 'https://markamonitor.hu/'
 reachable: true

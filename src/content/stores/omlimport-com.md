@@ -1,10 +1,10 @@
 ---
 domain: omlimport.com
 slug: omlimport-com
-title: Is omlimport.com Legit? Trust Signal Check
+title: Is omlimport.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for omlimport.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  omlimport.com scores 76/100 on our public trust checks. Established domain —
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:49.550Z'
 finalUrl: 'https://omlimport.com/'
 reachable: true

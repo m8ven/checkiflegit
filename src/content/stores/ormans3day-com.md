@@ -1,10 +1,10 @@
 ---
 domain: ormans3day.com
 slug: ormans3day-com
-title: Is ormans3day.com Legit? Trust Signal Check
+title: Is ormans3day.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ormans3day.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ormans3day.com scores 88/100 on our public trust checks. Established domain —
+  registered 17.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:59.039Z'
 finalUrl: 'https://ormans3day.com/'
 reachable: true

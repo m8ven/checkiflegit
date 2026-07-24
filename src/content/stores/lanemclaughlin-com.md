@@ -1,10 +1,10 @@
 ---
 domain: lanemclaughlin.com
 slug: lanemclaughlin-com
-title: Is lanemclaughlin.com Legit? Trust Signal Check
+title: Is lanemclaughlin.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for lanemclaughlin.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lanemclaughlin.com scores 73/100 on our public trust checks. Established
+  domain — registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:21.911Z'
 finalUrl: 'https://www.lanemclaughlin.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ted1942.com
 slug: ted1942-com
-title: Is ted1942.com Legit? Trust Signal Check
+title: Is ted1942.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ted1942.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ted1942.com scores 70/100 on our public trust checks. Established domain —
+  registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:35.512Z'
 finalUrl: 'https://ted1942.com/en-us'
 reachable: true

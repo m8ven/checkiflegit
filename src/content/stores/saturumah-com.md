@@ -1,10 +1,10 @@
 ---
 domain: saturumah.com
 slug: saturumah-com
-title: Is saturumah.com Legit? Trust Signal Check
+title: Is saturumah.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for saturumah.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  saturumah.com scores 73/100 on our public trust checks. Established domain —
+  registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:58.605Z'
 finalUrl: 'https://saturumah.com/'
 reachable: true

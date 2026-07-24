@@ -1,10 +1,10 @@
 ---
 domain: heimweestore.com
 slug: heimweestore-com
-title: Is heimweestore.com Legit? Trust Signal Check
+title: Is heimweestore.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for heimweestore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  heimweestore.com scores 100/100 on our public trust checks. Established domain
+  — registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:23.755Z'
 finalUrl: 'https://heimweestore.com/'
 reachable: true

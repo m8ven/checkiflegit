@@ -1,10 +1,10 @@
 ---
 domain: newzealandworkwear.co.nz
 slug: newzealandworkwear-co-nz
-title: Is newzealandworkwear.co.nz Legit? Trust Signal Check
+title: Is newzealandworkwear.co.nz Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for newzealandworkwear.co.nz: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  newzealandworkwear.co.nz scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:24:41.462Z'
 finalUrl: 'https://www.newzealandworkwear.co.nz/'
 reachable: true

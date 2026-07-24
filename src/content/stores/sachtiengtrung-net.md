@@ -1,10 +1,10 @@
 ---
 domain: sachtiengtrung.net
 slug: sachtiengtrung-net
-title: Is sachtiengtrung.net Legit? Trust Signal Check
+title: Is sachtiengtrung.net Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for sachtiengtrung.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sachtiengtrung.net scores 82/100 on our public trust checks. Established
+  domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:43:34.758Z'
 finalUrl: 'https://sachtiengtrung.net/'
 reachable: true

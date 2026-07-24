@@ -1,10 +1,11 @@
 ---
 domain: ferrarian.com
 slug: ferrarian-com
-title: Is ferrarian.com Legit? Trust Signal Check
+title: Is ferrarian.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ferrarian.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ferrarian.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T14:56:42.005Z'
 finalUrl: 'https://ferrarian.com/'
 reachable: true

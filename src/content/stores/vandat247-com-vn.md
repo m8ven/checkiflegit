@@ -1,10 +1,10 @@
 ---
 domain: vandat247.com.vn
 slug: vandat247-com-vn
-title: Is vandat247.com.vn Legit? Trust Signal Check
+title: Is vandat247.com.vn Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for vandat247.com.vn: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vandat247.com.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:36:31.088Z'
 finalUrl: 'https://vandat247.com.vn/'
 reachable: true

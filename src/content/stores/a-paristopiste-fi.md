@@ -1,10 +1,10 @@
 ---
 domain: a-paristopiste.fi
 slug: a-paristopiste-fi
-title: Is a-paristopiste.fi Legit? Trust Signal Check
+title: Is a-paristopiste.fi Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for a-paristopiste.fi: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  a-paristopiste.fi scores 31/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:11:08.167Z'
 finalUrl: 'https://www.a-paristopiste.fi/'
 reachable: true

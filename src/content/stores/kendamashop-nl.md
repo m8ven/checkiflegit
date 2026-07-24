@@ -1,10 +1,10 @@
 ---
 domain: kendamashop.nl
 slug: kendamashop-nl
-title: Is kendamashop.nl Legit? Trust Signal Check
+title: Is kendamashop.nl Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for kendamashop.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kendamashop.nl scores 70/100 on our public trust checks. Established domain —
+  registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:13.385Z'
 finalUrl: 'https://www.kendamashop.nl/'
 reachable: true

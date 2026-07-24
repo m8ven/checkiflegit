@@ -1,10 +1,10 @@
 ---
 domain: awcc.com.au
 slug: awcc-com-au
-title: Is awcc.com.au Legit? Trust Signal Check
+title: Is awcc.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for awcc.com.au: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  awcc.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:48:38.564Z'
 finalUrl: 'https://awcc.com.au/'
 reachable: true

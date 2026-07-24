@@ -1,10 +1,10 @@
 ---
 domain: whitesky.ae
 slug: whitesky-ae
-title: Is whitesky.ae Legit? Trust Signal Check
+title: Is whitesky.ae Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for whitesky.ae: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  whitesky.ae scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:11:49.185Z'
 finalUrl: 'https://whitesky.ae/'
 reachable: true

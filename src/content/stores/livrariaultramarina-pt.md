@@ -1,10 +1,10 @@
 ---
 domain: livrariaultramarina.pt
 slug: livrariaultramarina-pt
-title: Is livrariaultramarina.pt Legit? Trust Signal Check
+title: Is livrariaultramarina.pt Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for livrariaultramarina.pt: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  livrariaultramarina.pt scores 100/100 on our public trust checks. Established
+  domain — registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:22.005Z'
 finalUrl: 'https://livrariaultramarina.pt/'
 reachable: true

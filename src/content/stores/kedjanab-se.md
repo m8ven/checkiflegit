@@ -1,10 +1,10 @@
 ---
 domain: kedjanab.se
 slug: kedjanab-se
-title: Is kedjanab.se Legit? Trust Signal Check
+title: Is kedjanab.se Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kedjanab.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kedjanab.se scores 70/100 on our public trust checks. Established domain —
+  registered 29.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:16.226Z'
 finalUrl: 'https://kedjanab.se/'
 reachable: true

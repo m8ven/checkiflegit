@@ -1,10 +1,10 @@
 ---
 domain: egant.no
 slug: egant-no
-title: Is egant.no Legit? Trust Signal Check
+title: Is egant.no Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for egant.no: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  egant.no scores 58/100 on our public trust checks. Domain is relatively young.
+  Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:36:56.548Z'
 finalUrl: 'https://egant.no/'
 reachable: true

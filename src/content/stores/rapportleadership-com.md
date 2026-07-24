@@ -1,10 +1,10 @@
 ---
 domain: rapportleadership.com
 slug: rapportleadership-com
-title: Is rapportleadership.com Legit? Trust Signal Check
+title: Is rapportleadership.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rapportleadership.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rapportleadership.com scores 88/100 on our public trust checks. Established
+  domain — registered 26 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:43.049Z'
 finalUrl: 'https://rapportleadership.com/'
 reachable: true

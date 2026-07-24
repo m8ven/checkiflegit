@@ -1,10 +1,10 @@
 ---
 domain: feboxeo.es
 slug: feboxeo-es
-title: Is feboxeo.es Legit? Trust Signal Check
+title: Is feboxeo.es Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for feboxeo.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  feboxeo.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:46:47.469Z'
 finalUrl: 'https://feboxeo.es/'
 reachable: true

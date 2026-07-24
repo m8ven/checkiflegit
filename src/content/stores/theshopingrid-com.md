@@ -1,10 +1,10 @@
 ---
 domain: theshopingrid.com
 slug: theshopingrid-com
-title: Is theshopingrid.com Legit? Trust Signal Check
+title: Is theshopingrid.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for theshopingrid.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  theshopingrid.com scores 94/100 on our public trust checks. Established domain
+  — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:06.993Z'
 finalUrl: 'https://theshopingrid.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dishreserve.com
 slug: dishreserve-com
-title: Is dishreserve.com Legit? Trust Signal Check
+title: Is dishreserve.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dishreserve.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dishreserve.com scores 88/100 on our public trust checks. Established domain —
+  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:49.377Z'
 finalUrl: 'https://dishreserve.com/'
 reachable: true

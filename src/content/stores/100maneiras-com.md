@@ -1,10 +1,10 @@
 ---
 domain: 100maneiras.com
 slug: 100maneiras-com
-title: Is 100maneiras.com Legit? Trust Signal Check
+title: Is 100maneiras.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for 100maneiras.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  100maneiras.com scores 100/100 on our public trust checks. Established domain
+  — registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:08.088Z'
 finalUrl: 'https://100maneiras.com/'
 reachable: true

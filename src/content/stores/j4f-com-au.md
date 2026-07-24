@@ -1,10 +1,10 @@
 ---
 domain: j4f.com.au
 slug: j4f-com-au
-title: Is j4f.com.au Legit? Trust Signal Check
+title: Is j4f.com.au Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for j4f.com.au: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  j4f.com.au scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:43:04.799Z'
 finalUrl: 'https://j4f.com.au/'
 reachable: true

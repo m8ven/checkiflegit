@@ -1,10 +1,10 @@
 ---
 domain: handsondesign.it
 slug: handsondesign-it
-title: Is handsondesign.it Legit? Trust Signal Check
+title: Is handsondesign.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for handsondesign.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  handsondesign.it scores 88/100 on our public trust checks. Established domain
+  — registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:47.172Z'
 finalUrl: 'https://www.handsondesign.it/'
 reachable: true

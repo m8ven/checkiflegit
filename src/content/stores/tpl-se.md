@@ -1,10 +1,10 @@
 ---
 domain: tpl.se
 slug: tpl-se
-title: Is tpl.se Legit? Trust Signal Check
+title: Is tpl.se Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tpl.se: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  tpl.se scores 82/100 on our public trust checks. Established domain —
+  registered 25.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:56.919Z'
 finalUrl: 'https://tpl.se/'
 reachable: true

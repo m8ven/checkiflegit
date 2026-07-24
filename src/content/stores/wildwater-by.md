@@ -1,10 +1,10 @@
 ---
 domain: wildwater.by
 slug: wildwater-by
-title: Is wildwater.by Legit? Trust Signal Check
+title: Is wildwater.by Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for wildwater.by: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  wildwater.by scores 82/100 on our public trust checks. Established domain —
+  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:40.224Z'
 finalUrl: 'https://wildwater.by/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: poshpiercing.com
 slug: poshpiercing-com
-title: Is poshpiercing.com Legit? Trust Signal Check
+title: Is poshpiercing.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for poshpiercing.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  poshpiercing.com scores 76/100 on our public trust checks. Established domain
+  — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:19.907Z'
 finalUrl: 'https://www.poshpiercing.com/'
 reachable: true

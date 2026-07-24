@@ -1,10 +1,11 @@
 ---
 domain: stmichaels-litchfield.org
 slug: stmichaels-litchfield-org
-title: Is stmichaels-litchfield.org Legit? Trust Signal Check
+title: Is stmichaels-litchfield.org Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for stmichaels-litchfield.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  stmichaels-litchfield.org scores 94/100 on our public trust checks.
+  Established domain — registered 16.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:39:48.794Z'
 finalUrl: 'https://stmichaels-litchfield.org/'
 reachable: true

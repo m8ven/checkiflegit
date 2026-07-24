@@ -1,10 +1,10 @@
 ---
 domain: ozziesmall.com
 slug: ozziesmall-com
-title: Is ozziesmall.com Legit? Trust Signal Check
+title: Is ozziesmall.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ozziesmall.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ozziesmall.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:23.644Z'
 finalUrl: 'https://ozziesmall.com/'
 reachable: true

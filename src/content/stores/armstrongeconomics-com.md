@@ -1,10 +1,10 @@
 ---
 domain: armstrongeconomics.com
 slug: armstrongeconomics-com
-title: Is armstrongeconomics.com Legit? Trust Signal Check
+title: Is armstrongeconomics.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for armstrongeconomics.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  armstrongeconomics.com scores 70/100 on our public trust checks. Established
+  domain — registered 17.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:02.824Z'
 finalUrl: 'https://www.armstrongeconomics.com/'
 reachable: true

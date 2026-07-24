@@ -1,10 +1,10 @@
 ---
 domain: takko.com
 slug: takko-com
-title: Is takko.com Legit? Trust Signal Check
+title: Is takko.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for takko.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  takko.com scores 73/100 on our public trust checks. Established domain —
+  registered 25.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:17.836Z'
 finalUrl: 'https://www.takko.com/'
 reachable: true

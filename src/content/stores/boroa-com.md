@@ -1,10 +1,10 @@
 ---
 domain: boroa.com
 slug: boroa-com
-title: Is boroa.com Legit? Trust Signal Check
+title: Is boroa.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for boroa.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  boroa.com scores 70/100 on our public trust checks. Established domain —
+  registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:14:23.100Z'
 finalUrl: 'https://www.boroa.com/'
 reachable: true

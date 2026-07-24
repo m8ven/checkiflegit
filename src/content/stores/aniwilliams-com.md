@@ -1,10 +1,10 @@
 ---
 domain: aniwilliams.com
 slug: aniwilliams-com
-title: Is aniwilliams.com Legit? Trust Signal Check
+title: Is aniwilliams.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for aniwilliams.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aniwilliams.com scores 88/100 on our public trust checks. Established domain —
+  registered 25.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:35.303Z'
 finalUrl: 'https://aniwilliams.com/'
 reachable: true

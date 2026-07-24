@@ -1,10 +1,10 @@
 ---
 domain: timetableworld.com
 slug: timetableworld-com
-title: Is timetableworld.com Legit? Trust Signal Check
+title: Is timetableworld.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for timetableworld.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  timetableworld.com scores 73/100 on our public trust checks. Established
+  domain — registered 17.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:45.772Z'
 finalUrl: 'https://timetableworld.com/'
 reachable: true

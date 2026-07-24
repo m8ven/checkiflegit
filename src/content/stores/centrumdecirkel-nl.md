@@ -1,10 +1,10 @@
 ---
 domain: centrumdecirkel.nl
 slug: centrumdecirkel-nl
-title: Is centrumdecirkel.nl Legit? Trust Signal Check
+title: Is centrumdecirkel.nl Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for centrumdecirkel.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  centrumdecirkel.nl scores 76/100 on our public trust checks. Established
+  domain — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:37.156Z'
 finalUrl: 'https://centrumdecirkel.nl/'
 reachable: true

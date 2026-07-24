@@ -1,10 +1,10 @@
 ---
 domain: chronographrecords.com
 slug: chronographrecords-com
-title: Is chronographrecords.com Legit? Trust Signal Check
+title: Is chronographrecords.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for chronographrecords.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  chronographrecords.com scores 88/100 on our public trust checks. Established
+  domain — registered 20.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:28:12.108Z'
 finalUrl: 'https://chronographrecords.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: l-iz.de
 slug: l-iz-de
-title: Is l-iz.de Legit? Trust Signal Check
+title: Is l-iz.de Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for l-iz.de: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  l-iz.de scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:16:31.505Z'
 finalUrl: 'https://www.l-iz.de/'
 reachable: true

@@ -1,11 +1,11 @@
 ---
 domain: bursadagideracma.net
 slug: bursadagideracma-net
-title: Is bursadagideracma.net Legit? Trust Signal Check
+title: Is bursadagideracma.net Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for bursadagideracma.net: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  bursadagideracma.net scores 43/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T02:54:11.863Z'
 finalUrl: 'https://www.bursadagideracma.net/'
 reachable: true

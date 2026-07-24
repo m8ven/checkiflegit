@@ -1,10 +1,10 @@
 ---
 domain: xn--vinyllven-b3a.no
 slug: xn-vinyllven-b3a-no
-title: Is xn--vinyllven-b3a.no Legit? Trust Signal Check
+title: Is xn--vinyllven-b3a.no Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for xn--vinyllven-b3a.no: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  xn--vinyllven-b3a.no scores 64/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:38:09.363Z'
 finalUrl: 'https://www.xn--vinyllven-b3a.no/'
 reachable: true

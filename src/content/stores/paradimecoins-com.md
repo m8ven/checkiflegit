@@ -1,10 +1,10 @@
 ---
 domain: paradimecoins.com
 slug: paradimecoins-com
-title: Is paradimecoins.com Legit? Trust Signal Check
+title: Is paradimecoins.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for paradimecoins.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  paradimecoins.com scores 100/100 on our public trust checks. Established
+  domain — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:01.910Z'
 finalUrl: 'https://paradimecoins.com/'
 reachable: true

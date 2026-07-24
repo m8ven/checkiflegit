@@ -1,10 +1,10 @@
 ---
 domain: cicadamedical.com
 slug: cicadamedical-com
-title: Is cicadamedical.com Legit? Trust Signal Check
+title: Is cicadamedical.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cicadamedical.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cicadamedical.com scores 88/100 on our public trust checks. Established domain
+  — registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:45:52.529Z'
 finalUrl: 'https://cicadamedical.com/'
 reachable: true

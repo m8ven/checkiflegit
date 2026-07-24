@@ -1,10 +1,10 @@
 ---
 domain: lewu.es
 slug: lewu-es
-title: Is lewu.es Legit? Trust Signal Check
+title: Is lewu.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lewu.es: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  lewu.es scores 100/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:11:24.017Z'
 finalUrl: 'https://lewu.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pillarcomacademy.com
 slug: pillarcomacademy-com
-title: Is pillarcomacademy.com Legit? Trust Signal Check
+title: Is pillarcomacademy.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for pillarcomacademy.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pillarcomacademy.com scores 64/100 on our public trust checks. Only limited
+  contact details were found. Limited social media presence.
 fetchedAt: '2026-06-25T11:58:08.803Z'
 finalUrl: 'https://pillarcomacademy.com/'
 reachable: true

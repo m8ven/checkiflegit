@@ -1,10 +1,10 @@
 ---
 domain: zabawkitoys.com
 slug: zabawkitoys-com
-title: Is zabawkitoys.com Legit? Trust Signal Check
+title: Is zabawkitoys.com Legit? Trust Score 22/100
 description: >-
-  An automated trust-signal check for zabawkitoys.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  zabawkitoys.com scores 22/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:30:15.850Z'
 finalUrl: 'https://zabawkitoys.com/'
 reachable: true

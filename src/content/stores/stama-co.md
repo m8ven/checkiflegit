@@ -1,10 +1,10 @@
 ---
 domain: stama.co
 slug: stama-co
-title: Is stama.co Legit? Trust Signal Check
+title: Is stama.co Legit? Trust Score 19/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for stama.co: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  stama.co scores 19/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:46:01.716Z'
 finalUrl: 'https://www.stama.co/'
 reachable: true

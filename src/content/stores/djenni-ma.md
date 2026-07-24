@@ -1,10 +1,10 @@
 ---
 domain: djenni.ma
 slug: djenni-ma
-title: Is djenni.ma Legit? Trust Signal Check
+title: Is djenni.ma Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for djenni.ma: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  djenni.ma scores 100/100 on our public trust checks. Established domain —
+  registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:13.930Z'
 finalUrl: 'https://djenni.ma/'
 reachable: true

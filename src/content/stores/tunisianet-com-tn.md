@@ -1,10 +1,10 @@
 ---
 domain: tunisianet.com.tn
 slug: tunisianet-com-tn
-title: Is tunisianet.com.tn Legit? Trust Signal Check
+title: Is tunisianet.com.tn Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for tunisianet.com.tn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tunisianet.com.tn scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-24T21:46:43.120Z'
 finalUrl: 'https://www.tunisianet.com.tn/'
 reachable: true

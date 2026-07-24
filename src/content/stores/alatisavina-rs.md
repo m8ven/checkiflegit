@@ -1,10 +1,10 @@
 ---
 domain: alatisavina.rs
 slug: alatisavina-rs
-title: Is alatisavina.rs Legit? Trust Signal Check
+title: Is alatisavina.rs Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for alatisavina.rs: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alatisavina.rs scores 73/100 on our public trust checks. Established domain —
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:12:19.744Z'
 finalUrl: 'https://www.alatisavina.rs/'
 reachable: true

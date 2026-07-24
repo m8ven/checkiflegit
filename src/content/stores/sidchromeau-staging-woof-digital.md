@@ -1,10 +1,10 @@
 ---
 domain: sidchromeau-staging.woof.digital
 slug: sidchromeau-staging-woof-digital
-title: Is sidchromeau-staging.woof.digital Legit? Trust Signal Check
+title: Is sidchromeau-staging.woof.digital Legit? Score 83/100
 description: >-
-  An automated trust-signal check for sidchromeau-staging.woof.digital: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  sidchromeau-staging.woof.digital scores 83/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:52.197Z'
 finalUrl: 'https://sidchromeau-staging.woof.digital/'
 reachable: true

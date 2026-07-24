@@ -1,10 +1,10 @@
 ---
 domain: charity.myyibsa.org
 slug: charity-myyibsa-org
-title: Is charity.myyibsa.org Legit? Trust Signal Check
+title: Is charity.myyibsa.org Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for charity.myyibsa.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  charity.myyibsa.org scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:17:54.975Z'
 finalUrl: 'https://charity.myyibsa.org/'
 reachable: true

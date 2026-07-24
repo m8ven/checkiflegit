@@ -1,10 +1,10 @@
 ---
 domain: 3dny.co.il
 slug: 3dny-co-il
-title: Is 3dny.co.il Legit? Trust Signal Check
+title: Is 3dny.co.il Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for 3dny.co.il: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  3dny.co.il scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:32:02.240Z'
 finalUrl: 'https://3dny.co.il/'
 reachable: true

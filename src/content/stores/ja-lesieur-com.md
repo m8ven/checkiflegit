@@ -1,10 +1,10 @@
 ---
 domain: ja-lesieur.com
 slug: ja-lesieur-com
-title: Is ja-lesieur.com Legit? Trust Signal Check
+title: Is ja-lesieur.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ja-lesieur.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ja-lesieur.com scores 76/100 on our public trust checks. Established domain —
+  registered 27.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:09.220Z'
 finalUrl: 'https://www.ja-lesieur.com/'
 reachable: true

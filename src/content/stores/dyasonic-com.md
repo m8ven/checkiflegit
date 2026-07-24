@@ -1,10 +1,10 @@
 ---
 domain: dyasonic.com
 slug: dyasonic-com
-title: Is dyasonic.com Legit? Trust Signal Check
+title: Is dyasonic.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dyasonic.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dyasonic.com scores 88/100 on our public trust checks. Established domain —
+  registered 17.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:48.840Z'
 finalUrl: 'https://dyasonic.com/'
 reachable: true

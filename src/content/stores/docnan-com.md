@@ -1,10 +1,10 @@
 ---
 domain: docnan.com
 slug: docnan-com
-title: Is docnan.com Legit? Trust Signal Check
+title: Is docnan.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for docnan.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  docnan.com scores 82/100 on our public trust checks. Established domain —
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:01.612Z'
 finalUrl: 'https://docnan.com/'
 reachable: true

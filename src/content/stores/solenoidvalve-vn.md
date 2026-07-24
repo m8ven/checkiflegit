@@ -1,10 +1,10 @@
 ---
 domain: solenoidvalve.vn
 slug: solenoidvalve-vn
-title: Is solenoidvalve.vn Legit? Trust Signal Check
+title: Is solenoidvalve.vn Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for solenoidvalve.vn: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  solenoidvalve.vn scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:06:58.831Z'
 finalUrl: 'https://solenoidvalve.vn/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: shopeasyactive.com
 slug: shopeasyactive-com
-title: Is shopeasyactive.com Legit? Trust Signal Check
+title: Is shopeasyactive.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for shopeasyactive.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shopeasyactive.com scores 88/100 on our public trust checks. Established
+  domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:25.315Z'
 finalUrl: 'https://shopeasyactive.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: baoshenti.com
 slug: baoshenti-com
-title: Is baoshenti.com Legit? Trust Signal Check
+title: Is baoshenti.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for baoshenti.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  baoshenti.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T12:42:49.469Z'
 finalUrl: 'https://baoshenti.com/'
 reachable: true

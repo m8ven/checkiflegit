@@ -1,10 +1,10 @@
 ---
 domain: sonyo.org
 slug: sonyo-org
-title: Is sonyo.org Legit? Trust Signal Check
+title: Is sonyo.org Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sonyo.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sonyo.org scores 73/100 on our public trust checks. Established domain —
+  registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:03.826Z'
 finalUrl: 'https://sonyo.org/'
 reachable: true

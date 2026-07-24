@@ -1,10 +1,10 @@
 ---
 domain: atoms.com
 slug: atoms-com
-title: Is atoms.com Legit? Trust Signal Check
+title: Is atoms.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for atoms.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  atoms.com scores 88/100 on our public trust checks. Established domain —
+  registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:11.802Z'
 finalUrl: 'https://atoms.com/'
 reachable: true

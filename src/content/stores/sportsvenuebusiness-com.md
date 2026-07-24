@@ -1,10 +1,10 @@
 ---
 domain: sportsvenuebusiness.com
 slug: sportsvenuebusiness-com
-title: Is sportsvenuebusiness.com Legit? Trust Signal Check
+title: Is sportsvenuebusiness.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sportsvenuebusiness.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sportsvenuebusiness.com scores 88/100 on our public trust checks. Established
+  domain — registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:07.300Z'
 finalUrl: 'https://sportsvenuebusiness.com/'
 reachable: true

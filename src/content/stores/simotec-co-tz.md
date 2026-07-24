@@ -1,10 +1,11 @@
 ---
 domain: simotec.co.tz
 slug: simotec-co-tz
-title: Is simotec.co.tz Legit? Trust Signal Check
+title: Is simotec.co.tz Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for simotec.co.tz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  simotec.co.tz scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:01:30.236Z'
 finalUrl: 'https://simotec.co.tz/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: botolini.it
 slug: botolini-it
-title: Is botolini.it Legit? Trust Signal Check
+title: Is botolini.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for botolini.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  botolini.it scores 100/100 on our public trust checks. Established domain —
+  registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:12.335Z'
 finalUrl: 'https://botolini.it/'
 reachable: true

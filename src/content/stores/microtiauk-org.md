@@ -1,10 +1,10 @@
 ---
 domain: microtiauk.org
 slug: microtiauk-org
-title: Is microtiauk.org Legit? Trust Signal Check
+title: Is microtiauk.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for microtiauk.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  microtiauk.org scores 88/100 on our public trust checks. Established domain —
+  registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:43.189Z'
 finalUrl: 'https://microtiauk.org/'
 reachable: true

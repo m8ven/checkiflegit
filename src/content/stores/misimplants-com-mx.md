@@ -1,10 +1,11 @@
 ---
 domain: misimplants.com.mx
 slug: misimplants-com-mx
-title: Is misimplants.com.mx Legit? Trust Signal Check
+title: Is misimplants.com.mx Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for misimplants.com.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  misimplants.com.mx scores 76/100 on our public trust checks. Public business
+  contact details are listed. Maintains links to multiple social media
+  platforms.
 fetchedAt: '2026-06-25T03:55:46.039Z'
 finalUrl: 'https://misimplants.com.mx/'
 reachable: true

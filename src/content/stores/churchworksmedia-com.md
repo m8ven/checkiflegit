@@ -1,10 +1,10 @@
 ---
 domain: churchworksmedia.com
 slug: churchworksmedia-com
-title: Is churchworksmedia.com Legit? Trust Signal Check
+title: Is churchworksmedia.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for churchworksmedia.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  churchworksmedia.com scores 100/100 on our public trust checks. Established
+  domain — registered 17.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:33.451Z'
 finalUrl: 'https://churchworksmedia.com/'
 reachable: true

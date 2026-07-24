@@ -1,10 +1,10 @@
 ---
 domain: shop.bathlier.com
 slug: shop-bathlier-com
-title: Is shop.bathlier.com Legit? Trust Signal Check
+title: Is shop.bathlier.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.bathlier.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.bathlier.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:05:53.143Z'
 finalUrl: 'https://shop.bathlier.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ts-agro.com
 slug: ts-agro-com
-title: Is ts-agro.com Legit? Trust Signal Check
+title: Is ts-agro.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ts-agro.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ts-agro.com scores 82/100 on our public trust checks. Established domain —
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:45:03.839Z'
 finalUrl: 'https://ts-agro.com/'
 reachable: true

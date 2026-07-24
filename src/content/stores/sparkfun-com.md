@@ -1,10 +1,10 @@
 ---
 domain: sparkfun.com
 slug: sparkfun-com
-title: Is sparkfun.com Legit? Trust Signal Check
+title: Is sparkfun.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for sparkfun.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sparkfun.com scores 70/100 on our public trust checks. Established domain —
+  registered 23.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:34.866Z'
 finalUrl: 'https://www.sparkfun.com/'
 reachable: true

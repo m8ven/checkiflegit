@@ -1,10 +1,10 @@
 ---
 domain: eveline.pl
 slug: eveline-pl
-title: Is eveline.pl Legit? Trust Signal Check
+title: Is eveline.pl Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for eveline.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  eveline.pl scores 76/100 on our public trust checks. Established domain —
+  registered 24.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:47.240Z'
 finalUrl: 'https://eveline.pl/'
 reachable: true

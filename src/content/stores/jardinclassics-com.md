@@ -1,10 +1,10 @@
 ---
 domain: jardinclassics.com
 slug: jardinclassics-com
-title: Is jardinclassics.com Legit? Trust Signal Check
+title: Is jardinclassics.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for jardinclassics.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jardinclassics.com scores 100/100 on our public trust checks. Established
+  domain — registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:22.661Z'
 finalUrl: 'https://jardinclassics.com/'
 reachable: true

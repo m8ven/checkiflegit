@@ -1,10 +1,10 @@
 ---
 domain: cabinetsgenie.com
 slug: cabinetsgenie-com
-title: Is cabinetsgenie.com Legit? Trust Signal Check
+title: Is cabinetsgenie.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for cabinetsgenie.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cabinetsgenie.com scores 73/100 on our public trust checks. Established domain
+  — registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:58.030Z'
 finalUrl: 'https://cabinetsgenie.com/'
 reachable: true

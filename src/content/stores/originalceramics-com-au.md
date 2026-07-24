@@ -1,11 +1,10 @@
 ---
 domain: originalceramics.com.au
 slug: originalceramics-com-au
-title: Is originalceramics.com.au Legit? Trust Signal Check
+title: Is originalceramics.com.au Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for originalceramics.com.au: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  originalceramics.com.au scores 31/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T03:25:15.324Z'
 finalUrl: 'https://www.originalceramics.com.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: 4-paw-lovers.de
 slug: 4-paw-lovers-de
-title: Is 4-paw-lovers.de Legit? Trust Signal Check
+title: Is 4-paw-lovers.de Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for 4-paw-lovers.de: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  4-paw-lovers.de scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:16:52.971Z'
 finalUrl: 'https://4-paw-lovers.de/'
 reachable: true

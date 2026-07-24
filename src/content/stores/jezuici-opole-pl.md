@@ -1,10 +1,10 @@
 ---
 domain: jezuici.opole.pl
 slug: jezuici-opole-pl
-title: Is jezuici.opole.pl Legit? Trust Signal Check
+title: Is jezuici.opole.pl Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for jezuici.opole.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  jezuici.opole.pl scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:39:41.597Z'
 finalUrl: 'https://jezuici.opole.pl/'
 reachable: true

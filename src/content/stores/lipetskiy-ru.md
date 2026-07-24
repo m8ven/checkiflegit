@@ -1,10 +1,10 @@
 ---
 domain: lipetskiy.ru
 slug: lipetskiy-ru
-title: Is lipetskiy.ru Legit? Trust Signal Check
+title: Is lipetskiy.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for lipetskiy.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lipetskiy.ru scores 73/100 on our public trust checks. Established domain —
+  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:40.603Z'
 finalUrl: 'https://lipetskiy.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vastu.co.il
 slug: vastu-co-il
-title: Is vastu.co.il Legit? Trust Signal Check
+title: Is vastu.co.il Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for vastu.co.il: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vastu.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:32:57.734Z'
 finalUrl: 'https://www.vastu.co.il/'
 reachable: true

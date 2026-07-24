@@ -1,10 +1,10 @@
 ---
 domain: gelacy.app
 slug: gelacy-app
-title: Is gelacy.app Legit? Trust Signal Check
+title: Is gelacy.app Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for gelacy.app: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  gelacy.app scores 36/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-24T21:46:04.204Z'
 finalUrl: 'https://gelacy.app/'
 reachable: true

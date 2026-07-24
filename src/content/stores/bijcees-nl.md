@@ -1,10 +1,10 @@
 ---
 domain: bijcees.nl
 slug: bijcees-nl
-title: Is bijcees.nl Legit? Trust Signal Check
+title: Is bijcees.nl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bijcees.nl: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bijcees.nl scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:30:56.220Z'
 finalUrl: 'https://www.bijcees.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: reloadshop.it
 slug: reloadshop-it
-title: Is reloadshop.it Legit? Trust Signal Check
+title: Is reloadshop.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for reloadshop.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  reloadshop.it scores 88/100 on our public trust checks. Established domain —
+  registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:37.239Z'
 finalUrl: 'https://reloadshop.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: farmvietnguyen.com
 slug: farmvietnguyen-com
-title: Is farmvietnguyen.com Legit? Trust Signal Check
+title: Is farmvietnguyen.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for farmvietnguyen.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  farmvietnguyen.com scores 52/100 on our public trust checks. Domain is
+  relatively young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:27:19.943Z'
 finalUrl: 'https://farmvietnguyen.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ibwise.com
 slug: ibwise-com
-title: Is ibwise.com Legit? Trust Signal Check
+title: Is ibwise.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ibwise.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ibwise.com scores 100/100 on our public trust checks. Established domain —
+  registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:24.420Z'
 finalUrl: 'https://www.ibwise.com/'
 reachable: true

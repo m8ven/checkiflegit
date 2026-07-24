@@ -1,11 +1,11 @@
 ---
 domain: library.shoplentor.com
 slug: library-shoplentor-com
-title: Is library.shoplentor.com Legit? Trust Signal Check
+title: Is library.shoplentor.com Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for library.shoplentor.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  library.shoplentor.com scores 19/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:11:32.136Z'
 finalUrl: 'https://library.shoplentor.com/'
 reachable: true

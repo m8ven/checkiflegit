@@ -1,10 +1,10 @@
 ---
 domain: birthdaycakesmelbourne.com.au
 slug: birthdaycakesmelbourne-com-au
-title: Is birthdaycakesmelbourne.com.au Legit? Trust Signal Check
+title: Is birthdaycakesmelbourne.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for birthdaycakesmelbourne.com.au: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  birthdaycakesmelbourne.com.au scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:17.591Z'
 finalUrl: 'https://birthdaycakesmelbourne.com.au/'
 reachable: true

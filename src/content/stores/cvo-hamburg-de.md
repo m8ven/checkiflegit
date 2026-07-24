@@ -1,10 +1,10 @@
 ---
 domain: cvo-hamburg.de
 slug: cvo-hamburg-de
-title: Is cvo-hamburg.de Legit? Trust Signal Check
+title: Is cvo-hamburg.de Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for cvo-hamburg.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cvo-hamburg.de scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:39:29.954Z'
 finalUrl: 'https://www.cvo-hamburg.de/'
 reachable: true

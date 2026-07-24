@@ -1,10 +1,10 @@
 ---
 domain: rusticosjuangarcia.com
 slug: rusticosjuangarcia-com
-title: Is rusticosjuangarcia.com Legit? Trust Signal Check
+title: Is rusticosjuangarcia.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rusticosjuangarcia.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rusticosjuangarcia.com scores 88/100 on our public trust checks. Established
+  domain — registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:56.885Z'
 finalUrl: 'https://www.rusticosjuangarcia.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ledico.com
 slug: ledico-com
-title: Is ledico.com Legit? Trust Signal Check
+title: Is ledico.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ledico.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ledico.com scores 88/100 on our public trust checks. Established domain —
+  registered 28 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:27.638Z'
 finalUrl: 'https://www.ledico.com/'
 reachable: true

@@ -1,11 +1,10 @@
 ---
 domain: rakennustarvikeluukkainen.fi
 slug: rakennustarvikeluukkainen-fi
-title: Is rakennustarvikeluukkainen.fi Legit? Trust Signal Check
+title: Is rakennustarvikeluukkainen.fi Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for rakennustarvikeluukkainen.fi: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  rakennustarvikeluukkainen.fi scores 40/100 on our public trust checks.
+  Standard contact and policy pages were not found.
 fetchedAt: '2026-06-25T02:49:09.070Z'
 finalUrl: 'https://rakennustarvikeluukkainen.fi/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: naturlager.de
 slug: naturlager-de
-title: Is naturlager.de Legit? Trust Signal Check
+title: Is naturlager.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for naturlager.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  naturlager.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:45:36.139Z'
 finalUrl: 'https://naturlager.de/'
 reachable: true

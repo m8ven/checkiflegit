@@ -1,10 +1,10 @@
 ---
 domain: trandinh.vn
 slug: trandinh-vn
-title: Is trandinh.vn Legit? Trust Signal Check
+title: Is trandinh.vn Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for trandinh.vn: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  trandinh.vn scores 76/100 on our public trust checks. Public business contact
+  details are listed. Maintains links to multiple social media platforms.
 fetchedAt: '2026-06-25T12:06:39.504Z'
 finalUrl: 'https://trandinh.vn/'
 reachable: true

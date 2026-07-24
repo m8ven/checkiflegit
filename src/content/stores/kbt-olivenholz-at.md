@@ -1,10 +1,10 @@
 ---
 domain: kbt-olivenholz.at
 slug: kbt-olivenholz-at
-title: Is kbt-olivenholz.at Legit? Trust Signal Check
+title: Is kbt-olivenholz.at Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for kbt-olivenholz.at: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  kbt-olivenholz.at scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:21:56.927Z'
 finalUrl: 'https://www.kbt-olivenholz.at/'
 reachable: true

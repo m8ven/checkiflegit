@@ -1,10 +1,10 @@
 ---
 domain: bestproacademies.com
 slug: bestproacademies-com
-title: Is bestproacademies.com Legit? Trust Signal Check
+title: Is bestproacademies.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for bestproacademies.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bestproacademies.com scores 70/100 on our public trust checks. Established
+  domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:34.595Z'
 finalUrl: 'https://bestproacademies.com/'
 reachable: true

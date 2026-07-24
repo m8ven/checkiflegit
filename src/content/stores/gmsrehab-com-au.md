@@ -1,10 +1,10 @@
 ---
 domain: gmsrehab.com.au
 slug: gmsrehab-com-au
-title: Is gmsrehab.com.au Legit? Trust Signal Check
+title: Is gmsrehab.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for gmsrehab.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gmsrehab.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:29:13.707Z'
 finalUrl: 'https://gmsrehab.com.au/'
 reachable: true

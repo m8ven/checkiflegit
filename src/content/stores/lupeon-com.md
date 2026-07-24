@@ -1,10 +1,10 @@
 ---
 domain: lupeon.com
 slug: lupeon-com
-title: Is lupeon.com Legit? Trust Signal Check
+title: Is lupeon.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lupeon.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lupeon.com scores 70/100 on our public trust checks. Established domain —
+  registered 13.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:35.934Z'
 finalUrl: 'https://lupeon.com/'
 reachable: true

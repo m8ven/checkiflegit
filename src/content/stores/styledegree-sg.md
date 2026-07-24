@@ -1,10 +1,10 @@
 ---
 domain: styledegree.sg
 slug: styledegree-sg
-title: Is styledegree.sg Legit? Trust Signal Check
+title: Is styledegree.sg Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for styledegree.sg: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  styledegree.sg scores 88/100 on our public trust checks. Established domain —
+  registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:13.174Z'
 finalUrl: 'https://styledegree.sg/'
 reachable: true

@@ -1,11 +1,10 @@
 ---
 domain: nationalsocietyofpaintersincaseinandacrylic.com
 slug: nationalsocietyofpaintersincaseinandacrylic-com
-title: Is nationalsocietyofpaintersincaseinandacrylic.com Legit? Trust Signal Check
+title: Is nationalsocietyofpaintersincaseinandacrylic.com Legit? Score 52/100
 description: >-
-  An automated trust-signal check for
-  nationalsocietyofpaintersincaseinandacrylic.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nationalsocietyofpaintersincaseinandacrylic.com scores 52/100 on our public
+  trust checks. No public contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:29:16.701Z'
 finalUrl: 'https://www.nationalsocietyofpaintersincaseinandacrylic.com/'
 reachable: true

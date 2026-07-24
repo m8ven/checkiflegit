@@ -1,10 +1,10 @@
 ---
 domain: bantradien.vn
 slug: bantradien-vn
-title: Is bantradien.vn Legit? Trust Signal Check
+title: Is bantradien.vn Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for bantradien.vn: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bantradien.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:36:25.818Z'
 finalUrl: 'https://bantradien.vn/'
 reachable: true

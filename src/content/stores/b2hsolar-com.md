@@ -1,10 +1,10 @@
 ---
 domain: b2hsolar.com
 slug: b2hsolar-com
-title: Is b2hsolar.com Legit? Trust Signal Check
+title: Is b2hsolar.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for b2hsolar.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  b2hsolar.com scores 70/100 on our public trust checks. Established domain —
+  registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:46.863Z'
 finalUrl: 'https://b2hsolar.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gkiridium.ru
 slug: gkiridium-ru
-title: Is gkiridium.ru Legit? Trust Signal Check
+title: Is gkiridium.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for gkiridium.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gkiridium.ru scores 73/100 on our public trust checks. Established domain —
+  registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:31.399Z'
 finalUrl: 'https://gkiridium.ru/'
 reachable: true

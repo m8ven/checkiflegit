@@ -1,10 +1,10 @@
 ---
 domain: public-store.ru
 slug: public-store-ru
-title: Is public-store.ru Legit? Trust Signal Check
+title: Is public-store.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for public-store.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  public-store.ru scores 85/100 on our public trust checks. Established domain —
+  registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:24.400Z'
 finalUrl: 'https://public-store.ru/'
 reachable: true

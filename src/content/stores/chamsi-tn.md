@@ -1,10 +1,10 @@
 ---
 domain: chamsi.tn
 slug: chamsi-tn
-title: Is chamsi.tn Legit? Trust Signal Check
+title: Is chamsi.tn Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for chamsi.tn: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  chamsi.tn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:15:19.629Z'
 finalUrl: 'https://www.chamsi.tn/'
 reachable: true

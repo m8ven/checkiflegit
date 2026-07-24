@@ -1,10 +1,10 @@
 ---
 domain: aguadulcesports.com
 slug: aguadulcesports-com
-title: Is aguadulcesports.com Legit? Trust Signal Check
+title: Is aguadulcesports.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for aguadulcesports.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  aguadulcesports.com scores 25/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T12:46:33.835Z'
 finalUrl: 'https://aguadulcesports.com/'
 reachable: true

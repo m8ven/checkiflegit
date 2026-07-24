@@ -1,10 +1,10 @@
 ---
 domain: thegardenedu.com
 slug: thegardenedu-com
-title: Is thegardenedu.com Legit? Trust Signal Check
+title: Is thegardenedu.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thegardenedu.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thegardenedu.com scores 100/100 on our public trust checks. Established domain
+  — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:53.375Z'
 finalUrl: 'https://thegardenedu.com/en/'
 reachable: true

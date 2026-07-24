@@ -1,10 +1,10 @@
 ---
 domain: camelia-flowers.co.il
 slug: camelia-flowers-co-il
-title: Is camelia-flowers.co.il Legit? Trust Signal Check
+title: Is camelia-flowers.co.il Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for camelia-flowers.co.il: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  camelia-flowers.co.il scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:04:53.053Z'
 finalUrl: 'https://camelia-flowers.co.il/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: be-ka.ru
 slug: be-ka-ru
-title: Is be-ka.ru Legit? Trust Signal Check
+title: Is be-ka.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for be-ka.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  be-ka.ru scores 73/100 on our public trust checks. Established domain —
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:00.594Z'
 finalUrl: 'https://be-ka.ru/'
 reachable: true

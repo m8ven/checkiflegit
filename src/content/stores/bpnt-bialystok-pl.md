@@ -1,10 +1,10 @@
 ---
 domain: bpnt.bialystok.pl
 slug: bpnt-bialystok-pl
-title: Is bpnt.bialystok.pl Legit? Trust Signal Check
+title: Is bpnt.bialystok.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for bpnt.bialystok.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bpnt.bialystok.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:27:18.152Z'
 finalUrl: 'https://bpnt.bialystok.pl/'
 reachable: true

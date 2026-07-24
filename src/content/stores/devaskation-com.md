@@ -1,10 +1,10 @@
 ---
 domain: devaskation.com
 slug: devaskation-com
-title: Is devaskation.com Legit? Trust Signal Check
+title: Is devaskation.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for devaskation.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  devaskation.com scores 100/100 on our public trust checks. Established domain
+  — registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:23.901Z'
 finalUrl: 'https://www.devaskation.com/'
 reachable: true

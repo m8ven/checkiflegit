@@ -1,10 +1,10 @@
 ---
 domain: 2stories.com
 slug: 2stories-com
-title: Is 2stories.com Legit? Trust Signal Check
+title: Is 2stories.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for 2stories.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  2stories.com scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:56:23.527Z'
 finalUrl: 'https://www.2stories.com/'
 reachable: true

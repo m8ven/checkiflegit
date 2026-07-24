@@ -1,10 +1,10 @@
 ---
 domain: pressoirdugatinais.fr
 slug: pressoirdugatinais-fr
-title: Is pressoirdugatinais.fr Legit? Trust Signal Check
+title: Is pressoirdugatinais.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pressoirdugatinais.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pressoirdugatinais.fr scores 100/100 on our public trust checks. Established
+  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:52.014Z'
 finalUrl: 'https://pressoirdugatinais.fr/'
 reachable: true

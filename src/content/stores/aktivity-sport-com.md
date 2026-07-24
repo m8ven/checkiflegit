@@ -1,10 +1,10 @@
 ---
 domain: aktivity-sport.com
 slug: aktivity-sport-com
-title: Is aktivity-sport.com Legit? Trust Signal Check
+title: Is aktivity-sport.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for aktivity-sport.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aktivity-sport.com scores 82/100 on our public trust checks. Established
+  domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:16:38.808Z'
 finalUrl: 'https://aktivity-sport.com/'
 reachable: true

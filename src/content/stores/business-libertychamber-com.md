@@ -1,10 +1,10 @@
 ---
 domain: business.libertychamber.com
 slug: business-libertychamber-com
-title: Is business.libertychamber.com Legit? Trust Signal Check
+title: Is business.libertychamber.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for business.libertychamber.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  business.libertychamber.com scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:24:54.684Z'
 finalUrl: 'https://business.libertychamber.com/'
 reachable: true

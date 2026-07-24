@@ -1,10 +1,10 @@
 ---
 domain: ecohive.ca
 slug: ecohive-ca
-title: Is ecohive.ca Legit? Trust Signal Check
+title: Is ecohive.ca Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ecohive.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ecohive.ca scores 88/100 on our public trust checks. Established domain —
+  registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:58.089Z'
 finalUrl: 'https://ecohive.ca/'
 reachable: true

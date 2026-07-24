@@ -1,10 +1,10 @@
 ---
 domain: dewestvlaamse.be
 slug: dewestvlaamse-be
-title: Is dewestvlaamse.be Legit? Trust Signal Check
+title: Is dewestvlaamse.be Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for dewestvlaamse.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dewestvlaamse.be scores 82/100 on our public trust checks. Established domain
+  — registered 17 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:21.916Z'
 finalUrl: 'https://www.dewestvlaamse.be/'
 reachable: true

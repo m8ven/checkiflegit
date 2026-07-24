@@ -1,10 +1,10 @@
 ---
 domain: loisibike.fr
 slug: loisibike-fr
-title: Is loisibike.fr Legit? Trust Signal Check
+title: Is loisibike.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for loisibike.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  loisibike.fr scores 100/100 on our public trust checks. Established domain —
+  registered 13.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:52.789Z'
 finalUrl: 'https://loisibike.fr/'
 reachable: true

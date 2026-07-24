@@ -1,10 +1,10 @@
 ---
 domain: pcampatl.com
 slug: pcampatl-com
-title: Is pcampatl.com Legit? Trust Signal Check
+title: Is pcampatl.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pcampatl.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pcampatl.com scores 52/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:45:25.731Z'
 finalUrl: 'https://pcampatl.com/'
 reachable: true

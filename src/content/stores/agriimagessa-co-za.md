@@ -1,10 +1,10 @@
 ---
 domain: agriimagessa.co.za
 slug: agriimagessa-co-za
-title: Is agriimagessa.co.za Legit? Trust Signal Check
+title: Is agriimagessa.co.za Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for agriimagessa.co.za: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  agriimagessa.co.za scores 40/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T14:49:19.149Z'
 finalUrl: 'http://www.agriimagessa.co.za/'
 reachable: true

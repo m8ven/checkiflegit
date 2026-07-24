@@ -1,10 +1,10 @@
 ---
 domain: workeando.us
 slug: workeando-us
-title: Is workeando.us Legit? Trust Signal Check
+title: Is workeando.us Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for workeando.us: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  workeando.us scores 100/100 on our public trust checks. Established domain —
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:03.235Z'
 finalUrl: 'https://workeando.us/?currency=USD'
 reachable: true

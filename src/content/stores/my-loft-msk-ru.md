@@ -1,10 +1,10 @@
 ---
 domain: my-loft-msk.ru
 slug: my-loft-msk-ru
-title: Is my-loft-msk.ru Legit? Trust Signal Check
+title: Is my-loft-msk.ru Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for my-loft-msk.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  my-loft-msk.ru scores 94/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:58.962Z'
 finalUrl: 'https://my-loft-msk.ru/'
 reachable: true

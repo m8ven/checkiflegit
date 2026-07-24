@@ -1,10 +1,10 @@
 ---
 domain: form-edit.com
 slug: form-edit-com
-title: Is form-edit.com Legit? Trust Signal Check
+title: Is form-edit.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for form-edit.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  form-edit.com scores 85/100 on our public trust checks. Established domain —
+  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:36.024Z'
 finalUrl: 'https://www.form-edit.com/'
 reachable: true

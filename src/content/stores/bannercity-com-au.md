@@ -1,10 +1,10 @@
 ---
 domain: bannercity.com.au
 slug: bannercity-com-au
-title: Is bannercity.com.au Legit? Trust Signal Check
+title: Is bannercity.com.au Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for bannercity.com.au: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bannercity.com.au scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:35:48.029Z'
 finalUrl: 'https://bannercity.com.au/'
 reachable: true

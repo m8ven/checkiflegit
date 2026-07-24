@@ -1,10 +1,10 @@
 ---
 domain: roughwayfarm.co.uk
 slug: roughwayfarm-co-uk
-title: Is roughwayfarm.co.uk Legit? Trust Signal Check
+title: Is roughwayfarm.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for roughwayfarm.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  roughwayfarm.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:46.787Z'
 finalUrl: 'https://roughwayfarm.co.uk/'
 reachable: true

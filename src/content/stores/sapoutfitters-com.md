@@ -1,10 +1,10 @@
 ---
 domain: sapoutfitters.com
 slug: sapoutfitters-com
-title: Is sapoutfitters.com Legit? Trust Signal Check
+title: Is sapoutfitters.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for sapoutfitters.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sapoutfitters.com scores 85/100 on our public trust checks. Established domain
+  — registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:22.905Z'
 finalUrl: 'https://sapoutfitters.com/'
 reachable: true

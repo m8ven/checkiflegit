@@ -1,10 +1,10 @@
 ---
 domain: mamas-b2b.com
 slug: mamas-b2b-com
-title: Is mamas-b2b.com Legit? Trust Signal Check
+title: Is mamas-b2b.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for mamas-b2b.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mamas-b2b.com scores 76/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:49:41.037Z'
 finalUrl: 'https://mamas-b2b.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ninja-zdrowia.com
 slug: ninja-zdrowia-com
-title: Is ninja-zdrowia.com Legit? Trust Signal Check
+title: Is ninja-zdrowia.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for ninja-zdrowia.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ninja-zdrowia.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:38:25.052Z'
 finalUrl: 'https://ninja-zdrowia.com/'
 reachable: true

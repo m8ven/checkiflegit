@@ -1,10 +1,10 @@
 ---
 domain: laforneria.cat
 slug: laforneria-cat
-title: Is laforneria.cat Legit? Trust Signal Check
+title: Is laforneria.cat Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for laforneria.cat: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  laforneria.cat scores 100/100 on our public trust checks. Established domain —
+  registered 19.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:29.840Z'
 finalUrl: 'https://laforneria.cat/'
 reachable: true

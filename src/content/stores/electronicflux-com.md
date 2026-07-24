@@ -1,10 +1,10 @@
 ---
 domain: electronicflux.com
 slug: electronicflux-com
-title: Is electronicflux.com Legit? Trust Signal Check
+title: Is electronicflux.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for electronicflux.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  electronicflux.com scores 64/100 on our public trust checks. Domain is
+  relatively young. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:02:02.097Z'
 finalUrl: 'https://www.electronicflux.com/'
 reachable: true

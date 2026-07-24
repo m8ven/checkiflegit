@@ -1,10 +1,10 @@
 ---
 domain: koreanlove.ru
 slug: koreanlove-ru
-title: Is koreanlove.ru Legit? Trust Signal Check
+title: Is koreanlove.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for koreanlove.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  koreanlove.ru scores 82/100 on our public trust checks. Established domain —
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:35.972Z'
 finalUrl: 'https://koreanlove.ru/'
 reachable: true

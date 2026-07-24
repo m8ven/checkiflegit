@@ -1,10 +1,10 @@
 ---
 domain: alghaithcompany.com
 slug: alghaithcompany-com
-title: Is alghaithcompany.com Legit? Trust Signal Check
+title: Is alghaithcompany.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for alghaithcompany.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alghaithcompany.com scores 94/100 on our public trust checks. Established
+  domain — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:45.463Z'
 finalUrl: 'https://alghaith.co/'
 reachable: true

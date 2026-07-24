@@ -1,10 +1,10 @@
 ---
 domain: hollywood-video.it
 slug: hollywood-video-it
-title: Is hollywood-video.it Legit? Trust Signal Check
+title: Is hollywood-video.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hollywood-video.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hollywood-video.it scores 100/100 on our public trust checks. Established
+  domain — registered 23.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:20.002Z'
 finalUrl: 'https://hollywood-video.it/'
 reachable: true

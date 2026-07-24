@@ -1,10 +1,10 @@
 ---
 domain: ilaboutique.com
 slug: ilaboutique-com
-title: Is ilaboutique.com Legit? Trust Signal Check
+title: Is ilaboutique.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ilaboutique.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ilaboutique.com scores 76/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:47.202Z'
 finalUrl: 'https://ilaboutique.com/'
 reachable: true

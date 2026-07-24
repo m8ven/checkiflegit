@@ -1,10 +1,10 @@
 ---
 domain: auftragsrad.de
 slug: auftragsrad-de
-title: Is auftragsrad.de Legit? Trust Signal Check
+title: Is auftragsrad.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for auftragsrad.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  auftragsrad.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:01:12.554Z'
 finalUrl: 'https://auftragsrad.de/'
 reachable: true

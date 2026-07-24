@@ -1,10 +1,10 @@
 ---
 domain: openchesslaroda.com
 slug: openchesslaroda-com
-title: Is openchesslaroda.com Legit? Trust Signal Check
+title: Is openchesslaroda.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for openchesslaroda.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  openchesslaroda.com scores 88/100 on our public trust checks. Established
+  domain — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:42.254Z'
 finalUrl: 'https://openchesslaroda.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pol-dver.ru
 slug: pol-dver-ru
-title: Is pol-dver.ru Legit? Trust Signal Check
+title: Is pol-dver.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pol-dver.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pol-dver.ru scores 73/100 on our public trust checks. Established domain —
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:35.240Z'
 finalUrl: 'https://pol-dver.ru/'
 reachable: true

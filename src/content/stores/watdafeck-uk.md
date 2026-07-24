@@ -1,10 +1,10 @@
 ---
 domain: watdafeck.uk
 slug: watdafeck-uk
-title: Is watdafeck.uk Legit? Trust Signal Check
+title: Is watdafeck.uk Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for watdafeck.uk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  watdafeck.uk scores 76/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:20:04.945Z'
 finalUrl: 'https://watdafeck.uk/'
 reachable: true

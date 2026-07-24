@@ -1,10 +1,10 @@
 ---
 domain: shop.letsgobrescia.it
 slug: shop-letsgobrescia-it
-title: Is shop.letsgobrescia.it Legit? Trust Signal Check
+title: Is shop.letsgobrescia.it Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for shop.letsgobrescia.it: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.letsgobrescia.it scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:45:03.957Z'
 finalUrl: 'https://shop.letsgobrescia.it/'
 reachable: true

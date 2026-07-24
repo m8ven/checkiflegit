@@ -1,10 +1,10 @@
 ---
 domain: vacaywhitefish.com
 slug: vacaywhitefish-com
-title: Is vacaywhitefish.com Legit? Trust Signal Check
+title: Is vacaywhitefish.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for vacaywhitefish.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vacaywhitefish.com scores 100/100 on our public trust checks. Established
+  domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:15.960Z'
 finalUrl: 'https://vacaywhitefish.com/'
 reachable: true

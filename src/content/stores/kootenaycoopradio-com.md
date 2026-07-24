@@ -1,10 +1,10 @@
 ---
 domain: kootenaycoopradio.com
 slug: kootenaycoopradio-com
-title: Is kootenaycoopradio.com Legit? Trust Signal Check
+title: Is kootenaycoopradio.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for kootenaycoopradio.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kootenaycoopradio.com scores 58/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:01:27.581Z'
 finalUrl: 'https://www.kootenaycoopradio.com/'
 reachable: true

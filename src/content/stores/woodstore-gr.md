@@ -1,10 +1,10 @@
 ---
 domain: woodstore.gr
 slug: woodstore-gr
-title: Is woodstore.gr Legit? Trust Signal Check
+title: Is woodstore.gr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for woodstore.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  woodstore.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:22:06.018Z'
 finalUrl: 'https://woodstore.gr/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: gte-gaskets.ru
 slug: gte-gaskets-ru
-title: Is gte-gaskets.ru Legit? Trust Signal Check
+title: Is gte-gaskets.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for gte-gaskets.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gte-gaskets.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:50:19.423Z'
 finalUrl: 'https://gte-gaskets.ru/'
 reachable: true

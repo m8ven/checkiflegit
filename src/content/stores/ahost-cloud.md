@@ -1,10 +1,10 @@
 ---
 domain: ahost.cloud
 slug: ahost-cloud
-title: Is ahost.cloud Legit? Trust Signal Check
+title: Is ahost.cloud Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ahost.cloud: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ahost.cloud scores 58/100 on our public trust checks. No valid SSL certificate
+  — connection may not be secure.
 fetchedAt: '2026-06-24T21:46:29.117Z'
 finalUrl: 'https://www.ahost.uz/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: amershammuseum.org
 slug: amershammuseum-org
-title: Is amershammuseum.org Legit? Trust Signal Check
+title: Is amershammuseum.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for amershammuseum.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  amershammuseum.org scores 100/100 on our public trust checks. Established
+  domain — registered 20.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:06.759Z'
 finalUrl: 'https://amershammuseum.org/'
 reachable: true

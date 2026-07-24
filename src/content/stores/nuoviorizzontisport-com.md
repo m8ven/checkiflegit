@@ -1,10 +1,10 @@
 ---
 domain: nuoviorizzontisport.com
 slug: nuoviorizzontisport-com
-title: Is nuoviorizzontisport.com Legit? Trust Signal Check
+title: Is nuoviorizzontisport.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nuoviorizzontisport.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nuoviorizzontisport.com scores 100/100 on our public trust checks. Established
+  domain — registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:59.367Z'
 finalUrl: 'https://www.nuoviorizzontisport.com/'
 reachable: true

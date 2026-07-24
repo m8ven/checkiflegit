@@ -1,10 +1,10 @@
 ---
 domain: amdnobel.ro
 slug: amdnobel-ro
-title: Is amdnobel.ro Legit? Trust Signal Check
+title: Is amdnobel.ro Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for amdnobel.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  amdnobel.ro scores 73/100 on our public trust checks. Established domain —
+  registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:09.029Z'
 finalUrl: 'https://www.amdnobel.ro/'
 reachable: true

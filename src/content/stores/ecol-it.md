@@ -1,10 +1,10 @@
 ---
 domain: ecol.it
 slug: ecol-it
-title: Is ecol.it Legit? Trust Signal Check
+title: Is ecol.it Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ecol.it: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  ecol.it scores 88/100 on our public trust checks. Established domain —
+  registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:09.410Z'
 finalUrl: 'https://ecol.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: wowmpm.com
 slug: wowmpm-com
-title: Is wowmpm.com Legit? Trust Signal Check
+title: Is wowmpm.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for wowmpm.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  wowmpm.com scores 70/100 on our public trust checks. Established domain —
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:56.293Z'
 finalUrl: 'https://wowmpm.com/'
 reachable: true

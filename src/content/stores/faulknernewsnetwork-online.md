@@ -1,10 +1,10 @@
 ---
 domain: faulknernewsnetwork.online
 slug: faulknernewsnetwork-online
-title: Is faulknernewsnetwork.online Legit? Trust Signal Check
+title: Is faulknernewsnetwork.online Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for faulknernewsnetwork.online: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  faulknernewsnetwork.online scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:42:27.354Z'
 finalUrl: 'https://faulknernewsnetwork.online/'
 reachable: true

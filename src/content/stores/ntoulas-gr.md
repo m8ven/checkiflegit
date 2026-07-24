@@ -1,10 +1,10 @@
 ---
 domain: ntoulas.gr
 slug: ntoulas-gr
-title: Is ntoulas.gr Legit? Trust Signal Check
+title: Is ntoulas.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ntoulas.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ntoulas.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:39:13.086Z'
 finalUrl: 'https://ntoulas.gr/'
 reachable: true

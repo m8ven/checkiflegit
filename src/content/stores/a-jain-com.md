@@ -1,10 +1,10 @@
 ---
 domain: a-jain.com
 slug: a-jain-com
-title: Is a-jain.com Legit? Trust Signal Check
+title: Is a-jain.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for a-jain.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  a-jain.com scores 70/100 on our public trust checks. Established domain —
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:31.484Z'
 finalUrl: 'https://a-jain.com/'
 reachable: true

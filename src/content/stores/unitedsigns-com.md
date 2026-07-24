@@ -1,10 +1,10 @@
 ---
 domain: unitedsigns.com
 slug: unitedsigns-com
-title: Is unitedsigns.com Legit? Trust Signal Check
+title: Is unitedsigns.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for unitedsigns.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  unitedsigns.com scores 88/100 on our public trust checks. Established domain —
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:12.256Z'
 finalUrl: 'https://unitedsigns.com/'
 reachable: true

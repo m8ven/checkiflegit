@@ -1,10 +1,11 @@
 ---
 domain: anavrin.media
 slug: anavrin-media
-title: Is anavrin.media Legit? Trust Signal Check
+title: Is anavrin.media Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for anavrin.media: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  anavrin.media scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:33:06.966Z'
 finalUrl: 'https://anavrin.media/'
 reachable: true

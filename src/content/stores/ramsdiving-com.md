@@ -1,10 +1,10 @@
 ---
 domain: ramsdiving.com
 slug: ramsdiving-com
-title: Is ramsdiving.com Legit? Trust Signal Check
+title: Is ramsdiving.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ramsdiving.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ramsdiving.com scores 88/100 on our public trust checks. Established domain —
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:52.571Z'
 finalUrl: 'https://ramsdiving.com/nachalo/'
 reachable: true

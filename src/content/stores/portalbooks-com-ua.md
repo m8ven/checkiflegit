@@ -1,10 +1,10 @@
 ---
 domain: portalbooks.com.ua
 slug: portalbooks-com-ua
-title: Is portalbooks.com.ua Legit? Trust Signal Check
+title: Is portalbooks.com.ua Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for portalbooks.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  portalbooks.com.ua scores 88/100 on our public trust checks. Established
+  domain — registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:37.808Z'
 finalUrl: 'https://portalbooks.com.ua/'
 reachable: true

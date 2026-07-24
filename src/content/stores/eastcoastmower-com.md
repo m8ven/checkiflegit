@@ -1,10 +1,10 @@
 ---
 domain: eastcoastmower.com
 slug: eastcoastmower-com
-title: Is eastcoastmower.com Legit? Trust Signal Check
+title: Is eastcoastmower.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for eastcoastmower.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eastcoastmower.com scores 100/100 on our public trust checks. Established
+  domain — registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:35.579Z'
 finalUrl: 'https://eastcoastmower.com/'
 reachable: true

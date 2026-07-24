@@ -1,10 +1,10 @@
 ---
 domain: quicksearchs.in
 slug: quicksearchs-in
-title: Is quicksearchs.in Legit? Trust Signal Check
+title: Is quicksearchs.in Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for quicksearchs.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  quicksearchs.in scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:53:11.201Z'
 finalUrl: 'https://quicksearchs.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: rosebudrestaurants.com
 slug: rosebudrestaurants-com
-title: Is rosebudrestaurants.com Legit? Trust Signal Check
+title: Is rosebudrestaurants.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rosebudrestaurants.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rosebudrestaurants.com scores 100/100 on our public trust checks. Established
+  domain — registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:18.589Z'
 finalUrl: 'https://rosebudrestaurants.com/'
 reachable: true

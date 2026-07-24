@@ -1,10 +1,10 @@
 ---
 domain: arct4film.com
 slug: arct4film-com
-title: Is arct4film.com Legit? Trust Signal Check
+title: Is arct4film.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for arct4film.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arct4film.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:57:19.750Z'
 finalUrl: 'https://arct4film.com/'
 reachable: true

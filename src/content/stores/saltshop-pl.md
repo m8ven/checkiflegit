@@ -1,10 +1,10 @@
 ---
 domain: saltshop.pl
 slug: saltshop-pl
-title: Is saltshop.pl Legit? Trust Signal Check
+title: Is saltshop.pl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for saltshop.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  saltshop.pl scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:29:59.927Z'
 finalUrl: 'https://saltshop.pl/'
 reachable: true

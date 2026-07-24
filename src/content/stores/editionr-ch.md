@@ -1,10 +1,10 @@
 ---
 domain: editionr.ch
 slug: editionr-ch
-title: Is editionr.ch Legit? Trust Signal Check
+title: Is editionr.ch Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for editionr.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  editionr.ch scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:41:47.559Z'
 finalUrl: 'https://editionr.ch/'
 reachable: true

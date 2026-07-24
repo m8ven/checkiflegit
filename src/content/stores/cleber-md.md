@@ -1,10 +1,10 @@
 ---
 domain: cleber.md
 slug: cleber-md
-title: Is cleber.md Legit? Trust Signal Check
+title: Is cleber.md Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cleber.md: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cleber.md scores 76/100 on our public trust checks. Established domain —
+  registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:21.340Z'
 finalUrl: 'https://cleber.md/'
 reachable: true

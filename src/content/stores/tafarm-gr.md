@@ -1,10 +1,10 @@
 ---
 domain: tafarm.gr
 slug: tafarm-gr
-title: Is tafarm.gr Legit? Trust Signal Check
+title: Is tafarm.gr Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tafarm.gr: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tafarm.gr scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:28:03.250Z'
 finalUrl: 'https://www.tafarm.gr/'
 reachable: true

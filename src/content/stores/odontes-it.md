@@ -1,10 +1,10 @@
 ---
 domain: odontes.it
 slug: odontes-it
-title: Is odontes.it Legit? Trust Signal Check
+title: Is odontes.it Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for odontes.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  odontes.it scores 82/100 on our public trust checks. Established domain —
+  registered 24.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:56:19.142Z'
 finalUrl: 'https://odontes.it/'
 reachable: true

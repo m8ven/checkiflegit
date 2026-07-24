@@ -1,10 +1,10 @@
 ---
 domain: zonnepaneelcentrum.nl
 slug: zonnepaneelcentrum-nl
-title: Is zonnepaneelcentrum.nl Legit? Trust Signal Check
+title: Is zonnepaneelcentrum.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for zonnepaneelcentrum.nl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  zonnepaneelcentrum.nl scores 73/100 on our public trust checks. Established
+  domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:06.426Z'
 finalUrl: 'https://zonnepaneelcentrum.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: shecleantx.com
 slug: shecleantx-com
-title: Is shecleantx.com Legit? Trust Signal Check
+title: Is shecleantx.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for shecleantx.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shecleantx.com scores 88/100 on our public trust checks. Established domain —
+  registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:00.687Z'
 finalUrl: 'https://shecleantx.com/'
 reachable: true

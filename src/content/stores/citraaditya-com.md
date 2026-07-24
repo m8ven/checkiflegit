@@ -1,10 +1,10 @@
 ---
 domain: citraaditya.com
 slug: citraaditya-com
-title: Is citraaditya.com Legit? Trust Signal Check
+title: Is citraaditya.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for citraaditya.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  citraaditya.com scores 88/100 on our public trust checks. Established domain —
+  registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:00.209Z'
 finalUrl: 'https://citraaditya.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gazetadascaldas.pt
 slug: gazetadascaldas-pt
-title: Is gazetadascaldas.pt Legit? Trust Signal Check
+title: Is gazetadascaldas.pt Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for gazetadascaldas.pt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gazetadascaldas.pt scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:33:10.896Z'
 finalUrl: 'https://gazetadascaldas.pt/'
 reachable: true

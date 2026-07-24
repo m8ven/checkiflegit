@@ -1,10 +1,10 @@
 ---
 domain: juwelier-matzke.de
 slug: juwelier-matzke-de
-title: Is juwelier-matzke.de Legit? Trust Signal Check
+title: Is juwelier-matzke.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for juwelier-matzke.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  juwelier-matzke.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:21:39.403Z'
 finalUrl: 'https://www.juwelier-matzke.de/'
 reachable: true

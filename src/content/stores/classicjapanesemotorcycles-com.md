@@ -1,10 +1,10 @@
 ---
 domain: classicjapanesemotorcycles.com
 slug: classicjapanesemotorcycles-com
-title: Is classicjapanesemotorcycles.com Legit? Trust Signal Check
+title: Is classicjapanesemotorcycles.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for classicjapanesemotorcycles.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  classicjapanesemotorcycles.com scores 100/100 on our public trust checks.
+  Established domain — registered 21.8 years ago.
 fetchedAt: '2026-06-25T02:22:13.396Z'
 finalUrl: 'https://classicjapanesemotorcycles.com/'
 reachable: true

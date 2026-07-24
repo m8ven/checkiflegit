@@ -1,10 +1,10 @@
 ---
 domain: sptuning.net
 slug: sptuning-net
-title: Is sptuning.net Legit? Trust Signal Check
+title: Is sptuning.net Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for sptuning.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sptuning.net scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:46:07.948Z'
 finalUrl: 'https://sptuning.net/'
 reachable: true

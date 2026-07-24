@@ -1,10 +1,10 @@
 ---
 domain: joantarragoshop.es
 slug: joantarragoshop-es
-title: Is joantarragoshop.es Legit? Trust Signal Check
+title: Is joantarragoshop.es Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for joantarragoshop.es: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  joantarragoshop.es scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:43:41.808Z'
 finalUrl: 'https://joantarragoshop.es/'
 reachable: true

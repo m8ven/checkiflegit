@@ -1,10 +1,10 @@
 ---
 domain: pood.uuskasutus.ee
 slug: pood-uuskasutus-ee
-title: Is pood.uuskasutus.ee Legit? Trust Signal Check
+title: Is pood.uuskasutus.ee Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for pood.uuskasutus.ee: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pood.uuskasutus.ee scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:27:44.553Z'
 finalUrl: 'https://uuskasutus.ee/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: balintgruppe-berlin.de
 slug: balintgruppe-berlin-de
-title: Is balintgruppe-berlin.de Legit? Trust Signal Check
+title: Is balintgruppe-berlin.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for balintgruppe-berlin.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  balintgruppe-berlin.de scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:42:45.076Z'
 finalUrl: 'https://balintgruppe-berlin.de/'
 reachable: true

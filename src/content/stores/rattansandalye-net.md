@@ -1,10 +1,10 @@
 ---
 domain: rattansandalye.net
 slug: rattansandalye-net
-title: Is rattansandalye.net Legit? Trust Signal Check
+title: Is rattansandalye.net Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for rattansandalye.net: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  rattansandalye.net scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T02:49:09.265Z'
 finalUrl: 'https://rattansandalye.net/'
 reachable: true

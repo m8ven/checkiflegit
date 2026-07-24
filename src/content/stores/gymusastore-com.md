@@ -1,10 +1,10 @@
 ---
 domain: gymusastore.com
 slug: gymusastore-com
-title: Is gymusastore.com Legit? Trust Signal Check
+title: Is gymusastore.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for gymusastore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gymusastore.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:50:46.076Z'
 finalUrl: 'https://gymusastore.com/'
 reachable: true

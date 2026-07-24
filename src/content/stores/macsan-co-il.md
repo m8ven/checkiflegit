@@ -1,10 +1,10 @@
 ---
 domain: macsan.co.il
 slug: macsan-co-il
-title: Is macsan.co.il Legit? Trust Signal Check
+title: Is macsan.co.il Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for macsan.co.il: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  macsan.co.il scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:49:11.181Z'
 finalUrl: 'https://macsan.co.il/'
 reachable: true

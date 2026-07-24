@@ -1,10 +1,10 @@
 ---
 domain: thephdplace.com
 slug: thephdplace-com
-title: Is thephdplace.com Legit? Trust Signal Check
+title: Is thephdplace.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for thephdplace.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thephdplace.com scores 94/100 on our public trust checks. Established domain —
+  registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:59.028Z'
 finalUrl: 'https://thephdplace.com/'
 reachable: true

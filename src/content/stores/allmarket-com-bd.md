@@ -1,10 +1,10 @@
 ---
 domain: allmarket.com.bd
 slug: allmarket-com-bd
-title: Is allmarket.com.bd Legit? Trust Signal Check
+title: Is allmarket.com.bd Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for allmarket.com.bd: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  allmarket.com.bd scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:32:48.071Z'
 finalUrl: 'https://allmarket.com.bd/'
 reachable: true

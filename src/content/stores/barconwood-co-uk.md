@@ -1,10 +1,10 @@
 ---
 domain: barconwood.co.uk
 slug: barconwood-co-uk
-title: Is barconwood.co.uk Legit? Trust Signal Check
+title: Is barconwood.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for barconwood.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  barconwood.co.uk scores 100/100 on our public trust checks. Established domain
+  — registered 26.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:19.984Z'
 finalUrl: 'https://barconwood.co.uk/'
 reachable: true

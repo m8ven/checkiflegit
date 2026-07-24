@@ -1,10 +1,10 @@
 ---
 domain: brasil-grill.com
 slug: brasil-grill-com
-title: Is brasil-grill.com Legit? Trust Signal Check
+title: Is brasil-grill.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for brasil-grill.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brasil-grill.com scores 76/100 on our public trust checks. Established domain
+  — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:44.669Z'
 finalUrl: 'https://brasil-grill.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: 511tactical.com
 slug: 511tactical-com
-title: Is 511tactical.com Legit? Trust Signal Check
+title: Is 511tactical.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for 511tactical.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  511tactical.com scores 88/100 on our public trust checks. Established domain —
+  registered 24.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:29.308Z'
 finalUrl: 'https://www.511tactical.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: suja.global
 slug: suja-global
-title: Is suja.global Legit? Trust Signal Check
+title: Is suja.global Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for suja.global: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  suja.global scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:40:12.373Z'
 finalUrl: 'https://suja.global/'
 reachable: true

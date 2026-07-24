@@ -1,10 +1,10 @@
 ---
 domain: lidinteriors.com
 slug: lidinteriors-com
-title: Is lidinteriors.com Legit? Trust Signal Check
+title: Is lidinteriors.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for lidinteriors.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lidinteriors.com scores 73/100 on our public trust checks. Established domain
+  — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:11:32.662Z'
 finalUrl: 'https://lidinteriors.com/'
 reachable: true

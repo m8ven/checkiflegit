@@ -1,10 +1,11 @@
 ---
 domain: nordic-pos.dk
 slug: nordic-pos-dk
-title: Is nordic-pos.dk Legit? Trust Signal Check
+title: Is nordic-pos.dk Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nordic-pos.dk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nordic-pos.dk scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:02:17.156Z'
 finalUrl: 'https://nordic-pos.dk/'
 reachable: true

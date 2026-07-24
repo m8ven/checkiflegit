@@ -1,10 +1,10 @@
 ---
 domain: swanna.waw.pl
 slug: swanna-waw-pl
-title: Is swanna.waw.pl Legit? Trust Signal Check
+title: Is swanna.waw.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for swanna.waw.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  swanna.waw.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:52:51.133Z'
 finalUrl: 'https://swanna.waw.pl/'
 reachable: true

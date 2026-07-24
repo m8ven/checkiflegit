@@ -1,10 +1,10 @@
 ---
 domain: amcastle.com
 slug: amcastle-com
-title: Is amcastle.com Legit? Trust Signal Check
+title: Is amcastle.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for amcastle.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  amcastle.com scores 73/100 on our public trust checks. Established domain —
+  registered 30.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:09.489Z'
 finalUrl: 'https://www.amcastle.com/'
 reachable: true

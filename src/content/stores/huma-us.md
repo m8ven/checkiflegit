@@ -1,10 +1,10 @@
 ---
 domain: huma.us
 slug: huma-us
-title: Is huma.us Legit? Trust Signal Check
+title: Is huma.us Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for huma.us: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  huma.us scores 88/100 on our public trust checks. Established domain —
+  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:04.241Z'
 finalUrl: 'https://huma.us/'
 reachable: true

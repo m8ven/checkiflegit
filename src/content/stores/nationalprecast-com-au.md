@@ -1,10 +1,11 @@
 ---
 domain: nationalprecast.com.au
 slug: nationalprecast-com-au
-title: Is nationalprecast.com.au Legit? Trust Signal Check
+title: Is nationalprecast.com.au Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for nationalprecast.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nationalprecast.com.au scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:59:24.748Z'
 finalUrl: 'https://nationalprecast.com.au/'
 reachable: true

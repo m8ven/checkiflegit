@@ -1,10 +1,10 @@
 ---
 domain: guidancewhiskey.com
 slug: guidancewhiskey-com
-title: Is guidancewhiskey.com Legit? Trust Signal Check
+title: Is guidancewhiskey.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for guidancewhiskey.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  guidancewhiskey.com scores 100/100 on our public trust checks. Established
+  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:04.421Z'
 finalUrl: 'https://guidancewhiskey.com/'
 reachable: true

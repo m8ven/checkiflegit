@@ -1,10 +1,10 @@
 ---
 domain: eu.govee.com
 slug: eu-govee-com
-title: Is eu.govee.com Legit? Trust Signal Check
+title: Is eu.govee.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for eu.govee.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  eu.govee.com scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:30:18.392Z'
 finalUrl: 'https://eu.govee.com/'
 reachable: true

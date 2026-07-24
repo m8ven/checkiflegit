@@ -1,10 +1,10 @@
 ---
 domain: ajaiken.com
 slug: ajaiken-com
-title: Is ajaiken.com Legit? Trust Signal Check
+title: Is ajaiken.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ajaiken.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ajaiken.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:41.671Z'
 finalUrl: 'https://ajaiken.com/'
 reachable: true

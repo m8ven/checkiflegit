@@ -1,10 +1,10 @@
 ---
 domain: youroomplus.com
 slug: youroomplus-com
-title: Is youroomplus.com Legit? Trust Signal Check
+title: Is youroomplus.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for youroomplus.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  youroomplus.com scores 88/100 on our public trust checks. Established domain —
+  registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:41.488Z'
 finalUrl: 'https://youroomplus.com/'
 reachable: true

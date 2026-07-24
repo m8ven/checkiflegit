@@ -1,10 +1,10 @@
 ---
 domain: ourfuture.ru
 slug: ourfuture-ru
-title: Is ourfuture.ru Legit? Trust Signal Check
+title: Is ourfuture.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for ourfuture.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ourfuture.ru scores 82/100 on our public trust checks. Established domain —
+  registered 24.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:15.432Z'
 finalUrl: 'https://ourfuture.ru/'
 reachable: true

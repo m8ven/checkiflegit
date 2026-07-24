@@ -1,10 +1,11 @@
 ---
 domain: kupradost.cz
 slug: kupradost-cz
-title: Is kupradost.cz Legit? Trust Signal Check
+title: Is kupradost.cz Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kupradost.cz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kupradost.cz scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:21:12.892Z'
 finalUrl: 'https://www.kupradost.cz/'
 reachable: true

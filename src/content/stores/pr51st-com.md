@@ -1,10 +1,10 @@
 ---
 domain: pr51st.com
 slug: pr51st-com
-title: Is pr51st.com Legit? Trust Signal Check
+title: Is pr51st.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pr51st.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pr51st.com scores 58/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T15:24:46.584Z'
 finalUrl: 'https://www.pr51st.com/'
 reachable: true

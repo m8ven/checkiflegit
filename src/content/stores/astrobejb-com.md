@@ -1,10 +1,10 @@
 ---
 domain: astrobejb.com
 slug: astrobejb-com
-title: Is astrobejb.com Legit? Trust Signal Check
+title: Is astrobejb.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for astrobejb.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  astrobejb.com scores 82/100 on our public trust checks. Established domain —
+  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:12.895Z'
 finalUrl: 'https://astrobejb.com/'
 reachable: true

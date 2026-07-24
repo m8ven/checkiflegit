@@ -1,10 +1,10 @@
 ---
 domain: e-enviro.com
 slug: e-enviro-com
-title: Is e-enviro.com Legit? Trust Signal Check
+title: Is e-enviro.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for e-enviro.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  e-enviro.com scores 100/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:30.286Z'
 finalUrl: 'https://e-enviro.com/'
 reachable: true

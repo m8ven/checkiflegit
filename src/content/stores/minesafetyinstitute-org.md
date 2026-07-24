@@ -1,10 +1,10 @@
 ---
 domain: minesafetyinstitute.org
 slug: minesafetyinstitute-org
-title: Is minesafetyinstitute.org Legit? Trust Signal Check
+title: Is minesafetyinstitute.org Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for minesafetyinstitute.org: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  minesafetyinstitute.org scores 58/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:55:32.368Z'
 finalUrl: 'https://minesafetyinstitute.org/'
 reachable: true

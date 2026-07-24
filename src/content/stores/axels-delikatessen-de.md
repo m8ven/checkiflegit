@@ -1,10 +1,10 @@
 ---
 domain: axels-delikatessen.de
 slug: axels-delikatessen-de
-title: Is axels-delikatessen.de Legit? Trust Signal Check
+title: Is axels-delikatessen.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for axels-delikatessen.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  axels-delikatessen.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:44.744Z'
 finalUrl: 'https://axels-delikatessen.de/'
 reachable: true

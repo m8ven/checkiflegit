@@ -1,10 +1,10 @@
 ---
 domain: flamavintage.com
 slug: flamavintage-com
-title: Is flamavintage.com Legit? Trust Signal Check
+title: Is flamavintage.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for flamavintage.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  flamavintage.com scores 82/100 on our public trust checks. Established domain
+  — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:05.378Z'
 finalUrl: 'https://flamavintage.com/'
 reachable: true

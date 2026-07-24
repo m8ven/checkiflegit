@@ -1,11 +1,10 @@
 ---
 domain: subscribe.post-journal.com
 slug: subscribe-post-journal-com
-title: Is subscribe.post-journal.com Legit? Trust Signal Check
+title: Is subscribe.post-journal.com Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for subscribe.post-journal.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  subscribe.post-journal.com scores 44/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T12:04:54.785Z'
 finalUrl: 'https://subscribe.post-journal.com/shop/'
 reachable: true

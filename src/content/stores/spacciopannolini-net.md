@@ -1,10 +1,10 @@
 ---
 domain: spacciopannolini.net
 slug: spacciopannolini-net
-title: Is spacciopannolini.net Legit? Trust Signal Check
+title: Is spacciopannolini.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for spacciopannolini.net: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  spacciopannolini.net scores 100/100 on our public trust checks. Established
+  domain — registered 17.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:11.847Z'
 finalUrl: 'https://spacciopannolini.net/'
 reachable: true

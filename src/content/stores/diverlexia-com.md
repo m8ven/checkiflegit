@@ -1,10 +1,10 @@
 ---
 domain: diverlexia.com
 slug: diverlexia-com
-title: Is diverlexia.com Legit? Trust Signal Check
+title: Is diverlexia.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for diverlexia.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  diverlexia.com scores 82/100 on our public trust checks. Established domain —
+  registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:54.658Z'
 finalUrl: 'https://www.diverlexia.com/'
 reachable: true

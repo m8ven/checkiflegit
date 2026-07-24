@@ -1,10 +1,10 @@
 ---
 domain: thekaratstore.us
 slug: thekaratstore-us
-title: Is thekaratstore.us Legit? Trust Signal Check
+title: Is thekaratstore.us Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thekaratstore.us: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thekaratstore.us scores 100/100 on our public trust checks. Established domain
+  — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:43.743Z'
 finalUrl: 'https://thekaratstore.us/'
 reachable: true

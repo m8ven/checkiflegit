@@ -1,10 +1,10 @@
 ---
 domain: inna-art.ru
 slug: inna-art-ru
-title: Is inna-art.ru Legit? Trust Signal Check
+title: Is inna-art.ru Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for inna-art.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  inna-art.ru scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:38:25.626Z'
 finalUrl: 'https://inna-art.ru/'
 reachable: true

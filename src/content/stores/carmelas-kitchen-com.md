@@ -1,10 +1,10 @@
 ---
 domain: carmelas-kitchen.com
 slug: carmelas-kitchen-com
-title: Is carmelas-kitchen.com Legit? Trust Signal Check
+title: Is carmelas-kitchen.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for carmelas-kitchen.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  carmelas-kitchen.com scores 76/100 on our public trust checks. Established
+  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:15.753Z'
 finalUrl: 'https://carmelas-kitchen.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: nagareboshicollectibles.com
 slug: nagareboshicollectibles-com
-title: Is nagareboshicollectibles.com Legit? Trust Signal Check
+title: Is nagareboshicollectibles.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nagareboshicollectibles.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nagareboshicollectibles.com scores 100/100 on our public trust checks.
+  Established domain — registered 5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:24:35.166Z'
 finalUrl: 'https://www.nagareboshicollectibles.com/'
 reachable: true

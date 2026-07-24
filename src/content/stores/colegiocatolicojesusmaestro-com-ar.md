@@ -1,10 +1,11 @@
 ---
 domain: colegiocatolicojesusmaestro.com.ar
 slug: colegiocatolicojesusmaestro-com-ar
-title: Is colegiocatolicojesusmaestro.com.ar Legit? Trust Signal Check
+title: Is colegiocatolicojesusmaestro.com.ar Legit? Score 74/100
 description: >-
-  An automated trust-signal check for colegiocatolicojesusmaestro.com.ar: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  colegiocatolicojesusmaestro.com.ar scores 74/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place. Public business contact details are
+  listed.
 fetchedAt: '2026-06-25T14:51:39.170Z'
 finalUrl: 'https://colegiocatolicojesusmaestro.com.ar/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: zoneriflesse.net
 slug: zoneriflesse-net
-title: Is zoneriflesse.net Legit? Trust Signal Check
+title: Is zoneriflesse.net Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for zoneriflesse.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  zoneriflesse.net scores 70/100 on our public trust checks. Established domain
+  — registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:21.392Z'
 finalUrl: 'https://zoneriflesse.net/'
 reachable: true

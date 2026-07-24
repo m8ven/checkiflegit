@@ -1,10 +1,10 @@
 ---
 domain: grundausstattung.de
 slug: grundausstattung-de
-title: Is grundausstattung.de Legit? Trust Signal Check
+title: Is grundausstattung.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for grundausstattung.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  grundausstattung.de scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:18:38.557Z'
 finalUrl: 'https://www.grundausstattung.de/'
 reachable: true

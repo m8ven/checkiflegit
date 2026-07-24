@@ -1,10 +1,10 @@
 ---
 domain: tescomobile.com
 slug: tescomobile-com
-title: Is tescomobile.com Legit? Trust Signal Check
+title: Is tescomobile.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for tescomobile.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tescomobile.com scores 88/100 on our public trust checks. Established domain —
+  registered 23.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:38.297Z'
 finalUrl: 'https://www.tescomobile.com/'
 reachable: true

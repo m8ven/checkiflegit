@@ -1,10 +1,10 @@
 ---
 domain: kuechen-tenne-rastede.de
 slug: kuechen-tenne-rastede-de
-title: Is kuechen-tenne-rastede.de Legit? Trust Signal Check
+title: Is kuechen-tenne-rastede.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kuechen-tenne-rastede.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kuechen-tenne-rastede.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:43:27.766Z'
 finalUrl: 'https://kuechen-tenne-rastede.de/'
 reachable: true

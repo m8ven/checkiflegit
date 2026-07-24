@@ -1,10 +1,10 @@
 ---
 domain: bestuslawyers.org
 slug: bestuslawyers-org
-title: Is bestuslawyers.org Legit? Trust Signal Check
+title: Is bestuslawyers.org Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for bestuslawyers.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bestuslawyers.org scores 73/100 on our public trust checks. Established domain
+  — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:36.904Z'
 finalUrl: 'https://www.bestuslawyers.org/'
 reachable: true

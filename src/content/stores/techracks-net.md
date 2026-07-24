@@ -1,10 +1,10 @@
 ---
 domain: techracks.net
 slug: techracks-net
-title: Is techracks.net Legit? Trust Signal Check
+title: Is techracks.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for techracks.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  techracks.net scores 100/100 on our public trust checks. Established domain —
+  registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:39.944Z'
 finalUrl: 'https://techracks.net/'
 reachable: true

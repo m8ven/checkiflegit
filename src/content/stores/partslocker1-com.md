@@ -1,10 +1,10 @@
 ---
 domain: partslocker1.com
 slug: partslocker1-com
-title: Is partslocker1.com Legit? Trust Signal Check
+title: Is partslocker1.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for partslocker1.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  partslocker1.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T11:57:40.264Z'
 finalUrl: 'https://partslocker1.com/'
 reachable: true

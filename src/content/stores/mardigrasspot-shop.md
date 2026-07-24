@@ -1,10 +1,10 @@
 ---
 domain: mardigrasspot.shop
 slug: mardigrasspot-shop
-title: Is mardigrasspot.shop Legit? Trust Signal Check
+title: Is mardigrasspot.shop Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mardigrasspot.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mardigrasspot.shop scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:50:04.477Z'
 finalUrl: 'https://mardigrasspot.shop/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: americanvintage-store.com
 slug: americanvintage-store-com
-title: Is americanvintage-store.com Legit? Trust Signal Check
+title: Is americanvintage-store.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for americanvintage-store.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  americanvintage-store.com scores 88/100 on our public trust checks.
+  Established domain — registered 19.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-24T21:46:37.222Z'
 finalUrl: 'https://www.americanvintage-store.com/fr/fr/'
 reachable: true

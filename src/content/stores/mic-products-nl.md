@@ -1,10 +1,10 @@
 ---
 domain: mic-products.nl
 slug: mic-products-nl
-title: Is mic-products.nl Legit? Trust Signal Check
+title: Is mic-products.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for mic-products.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mic-products.nl scores 73/100 on our public trust checks. Established domain —
+  registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:09.244Z'
 finalUrl: 'https://mic-products.nl/'
 reachable: true

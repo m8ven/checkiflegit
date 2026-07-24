@@ -1,10 +1,10 @@
 ---
 domain: oboticario.com.co
 slug: oboticario-com-co
-title: Is oboticario.com.co Legit? Trust Signal Check
+title: Is oboticario.com.co Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for oboticario.com.co: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  oboticario.com.co scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:19:21.896Z'
 finalUrl: 'https://www.oboticario.com.co/'
 reachable: true

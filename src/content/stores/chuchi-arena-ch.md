@@ -1,10 +1,10 @@
 ---
 domain: chuchi-arena.ch
 slug: chuchi-arena-ch
-title: Is chuchi-arena.ch Legit? Trust Signal Check
+title: Is chuchi-arena.ch Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for chuchi-arena.ch: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chuchi-arena.ch scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:06:19.650Z'
 finalUrl: 'https://chuchi-arena.ch/'
 reachable: true

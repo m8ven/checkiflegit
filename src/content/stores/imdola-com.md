@@ -1,10 +1,10 @@
 ---
 domain: imdola.com
 slug: imdola-com
-title: Is imdola.com Legit? Trust Signal Check
+title: Is imdola.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for imdola.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  imdola.com scores 85/100 on our public trust checks. Established domain —
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:32.130Z'
 finalUrl: 'https://imdola.com/'
 reachable: true

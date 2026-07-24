@@ -1,10 +1,10 @@
 ---
 domain: electricclubcar.com
 slug: electricclubcar-com
-title: Is electricclubcar.com Legit? Trust Signal Check
+title: Is electricclubcar.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for electricclubcar.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  electricclubcar.com scores 55/100 on our public trust checks. No links to
+  major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T15:10:32.452Z'
 finalUrl: 'https://electricclubcar.com/'
 reachable: true

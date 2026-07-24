@@ -1,10 +1,10 @@
 ---
 domain: janrothuizen.nl
 slug: janrothuizen-nl
-title: Is janrothuizen.nl Legit? Trust Signal Check
+title: Is janrothuizen.nl Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for janrothuizen.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  janrothuizen.nl scores 76/100 on our public trust checks. Established domain —
+  registered 20.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:16.582Z'
 finalUrl: 'https://janrothuizen.nl/'
 reachable: true

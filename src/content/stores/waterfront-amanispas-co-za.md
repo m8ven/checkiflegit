@@ -1,10 +1,10 @@
 ---
 domain: waterfront.amanispas.co.za
 slug: waterfront-amanispas-co-za
-title: Is waterfront.amanispas.co.za Legit? Trust Signal Check
+title: Is waterfront.amanispas.co.za Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for waterfront.amanispas.co.za: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  waterfront.amanispas.co.za scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:09:47.272Z'
 finalUrl: 'https://waterfront.amanispas.co.za/'
 reachable: true

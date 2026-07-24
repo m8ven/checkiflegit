@@ -1,10 +1,10 @@
 ---
 domain: auto.blog4rus.ru
 slug: auto-blog4rus-ru
-title: Is auto.blog4rus.ru Legit? Trust Signal Check
+title: Is auto.blog4rus.ru Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for auto.blog4rus.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  auto.blog4rus.ru scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:42:22.280Z'
 finalUrl: 'https://auto.blog4rus.ru/'
 reachable: true

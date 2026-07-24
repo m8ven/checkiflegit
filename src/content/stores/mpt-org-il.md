@@ -1,10 +1,10 @@
 ---
 domain: mpt.org.il
 slug: mpt-org-il
-title: Is mpt.org.il Legit? Trust Signal Check
+title: Is mpt.org.il Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mpt.org.il: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mpt.org.il scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:58:46.617Z'
 finalUrl: 'https://mpt.org.il/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lemtech.com
 slug: lemtech-com
-title: Is lemtech.com Legit? Trust Signal Check
+title: Is lemtech.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lemtech.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lemtech.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:36:15.670Z'
 finalUrl: 'https://www.lemtech.com/'
 reachable: true

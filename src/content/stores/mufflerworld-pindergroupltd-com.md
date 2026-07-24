@@ -1,11 +1,10 @@
 ---
 domain: mufflerworld.pindergroupltd.com
 slug: mufflerworld-pindergroupltd-com
-title: Is mufflerworld.pindergroupltd.com Legit? Trust Signal Check
+title: Is mufflerworld.pindergroupltd.com Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for mufflerworld.pindergroupltd.com: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  mufflerworld.pindergroupltd.com scores 19/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:57:07.557Z'
 finalUrl: 'https://mufflerworld.pindergroupltd.com/'
 reachable: true

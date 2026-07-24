@@ -1,10 +1,10 @@
 ---
 domain: taiwanjn.com
 slug: taiwanjn-com
-title: Is taiwanjn.com Legit? Trust Signal Check
+title: Is taiwanjn.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for taiwanjn.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  taiwanjn.com scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T15:08:13.583Z'
 finalUrl: 'https://taiwanjn.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: ladnetorby.pl
 slug: ladnetorby-pl
-title: Is ladnetorby.pl Legit? Trust Signal Check
+title: Is ladnetorby.pl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ladnetorby.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ladnetorby.pl scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:45:20.517Z'
 finalUrl: 'https://ladnetorby.pl/'
 reachable: true

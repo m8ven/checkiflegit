@@ -1,10 +1,11 @@
 ---
 domain: elvestidordelacoqueta.es
 slug: elvestidordelacoqueta-es
-title: Is elvestidordelacoqueta.es Legit? Trust Signal Check
+title: Is elvestidordelacoqueta.es Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for elvestidordelacoqueta.es: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  elvestidordelacoqueta.es scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:37:56.911Z'
 finalUrl: 'https://elvestidordelacoqueta.es/'
 reachable: true

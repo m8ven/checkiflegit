@@ -1,10 +1,10 @@
 ---
 domain: promenademusic.co.uk
 slug: promenademusic-co-uk
-title: Is promenademusic.co.uk Legit? Trust Signal Check
+title: Is promenademusic.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for promenademusic.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  promenademusic.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 26 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:03.593Z'
 finalUrl: 'https://www.promenademusic.co.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: wholefoodsworld.co.uk
 slug: wholefoodsworld-co-uk
-title: Is wholefoodsworld.co.uk Legit? Trust Signal Check
+title: Is wholefoodsworld.co.uk Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for wholefoodsworld.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  wholefoodsworld.co.uk scores 94/100 on our public trust checks. Established
+  domain — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:42.827Z'
 finalUrl: 'https://wholefoodsworld.co.uk/'
 reachable: true

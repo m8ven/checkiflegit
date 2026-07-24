@@ -1,10 +1,10 @@
 ---
 domain: glamourflooringla.com
 slug: glamourflooringla-com
-title: Is glamourflooringla.com Legit? Trust Signal Check
+title: Is glamourflooringla.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for glamourflooringla.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  glamourflooringla.com scores 100/100 on our public trust checks. Established
+  domain — registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:33.525Z'
 finalUrl: 'https://glamourflooringla.com/'
 reachable: true

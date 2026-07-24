@@ -1,10 +1,10 @@
 ---
 domain: moderndrummer.com
 slug: moderndrummer-com
-title: Is moderndrummer.com Legit? Trust Signal Check
+title: Is moderndrummer.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for moderndrummer.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  moderndrummer.com scores 70/100 on our public trust checks. Established domain
+  — registered 30.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:39.087Z'
 finalUrl: 'https://www.moderndrummer.com/'
 reachable: true

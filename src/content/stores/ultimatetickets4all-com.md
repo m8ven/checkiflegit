@@ -1,10 +1,10 @@
 ---
 domain: ultimatetickets4all.com
 slug: ultimatetickets4all-com
-title: Is ultimatetickets4all.com Legit? Trust Signal Check
+title: Is ultimatetickets4all.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for ultimatetickets4all.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ultimatetickets4all.com scores 70/100 on our public trust checks. Established
+  domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:11.145Z'
 finalUrl: 'https://ultimatetickets4all.com/'
 reachable: true

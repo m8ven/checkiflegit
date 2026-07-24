@@ -1,10 +1,10 @@
 ---
 domain: bofdronten.nl
 slug: bofdronten-nl
-title: Is bofdronten.nl Legit? Trust Signal Check
+title: Is bofdronten.nl Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for bofdronten.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bofdronten.nl scores 76/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:03.177Z'
 finalUrl: 'https://bofdronten.nl/'
 reachable: true

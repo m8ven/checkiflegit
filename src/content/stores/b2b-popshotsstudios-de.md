@@ -1,10 +1,11 @@
 ---
 domain: b2b-popshotsstudios.de
 slug: b2b-popshotsstudios-de
-title: Is b2b-popshotsstudios.de Legit? Trust Signal Check
+title: Is b2b-popshotsstudios.de Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for b2b-popshotsstudios.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  b2b-popshotsstudios.de scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:20:11.719Z'
 finalUrl: 'https://b2b-popshotsstudios.de/'
 reachable: true

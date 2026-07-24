@@ -1,11 +1,10 @@
 ---
 domain: connectedbusinesses.co.il
 slug: connectedbusinesses-co-il
-title: Is connectedbusinesses.co.il Legit? Trust Signal Check
+title: Is connectedbusinesses.co.il Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for connectedbusinesses.co.il: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  connectedbusinesses.co.il scores 31/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T14:51:51.267Z'
 finalUrl: 'https://connectedbusinesses.co.il/'
 reachable: true

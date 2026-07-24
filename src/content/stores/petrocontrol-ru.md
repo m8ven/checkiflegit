@@ -1,10 +1,10 @@
 ---
 domain: petrocontrol.ru
 slug: petrocontrol-ru
-title: Is petrocontrol.ru Legit? Trust Signal Check
+title: Is petrocontrol.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for petrocontrol.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  petrocontrol.ru scores 73/100 on our public trust checks. Established domain —
+  registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:42.846Z'
 finalUrl: 'https://petrocontrol.ru/'
 reachable: true

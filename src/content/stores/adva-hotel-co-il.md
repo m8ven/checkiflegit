@@ -1,10 +1,10 @@
 ---
 domain: adva-hotel.co.il
 slug: adva-hotel-co-il
-title: Is adva-hotel.co.il Legit? Trust Signal Check
+title: Is adva-hotel.co.il Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for adva-hotel.co.il: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  adva-hotel.co.il scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:18:28.119Z'
 finalUrl: 'https://adva-hotel.co.il/'
 reachable: true

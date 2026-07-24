@@ -1,10 +1,10 @@
 ---
 domain: manyavar.com
 slug: manyavar-com
-title: Is manyavar.com Legit? Trust Signal Check
+title: Is manyavar.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for manyavar.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  manyavar.com scores 100/100 on our public trust checks. Established domain —
+  registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:23.535Z'
 finalUrl: 'https://www.manyavar.com/en-us'
 reachable: true

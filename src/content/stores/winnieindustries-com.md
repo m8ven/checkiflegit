@@ -1,10 +1,10 @@
 ---
 domain: winnieindustries.com
 slug: winnieindustries-com
-title: Is winnieindustries.com Legit? Trust Signal Check
+title: Is winnieindustries.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for winnieindustries.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  winnieindustries.com scores 100/100 on our public trust checks. Established
+  domain — registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:24.402Z'
 finalUrl: 'https://winnieindustries.com/'
 reachable: true

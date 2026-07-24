@@ -1,10 +1,10 @@
 ---
 domain: 3dsbprinting.com.ec
 slug: 3dsbprinting-com-ec
-title: Is 3dsbprinting.com.ec Legit? Trust Signal Check
+title: Is 3dsbprinting.com.ec Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for 3dsbprinting.com.ec: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  3dsbprinting.com.ec scores 88/100 on our public trust checks. Established
+  domain — registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:45:13.289Z'
 finalUrl: 'https://3dsbprinting.com.ec/'
 reachable: true

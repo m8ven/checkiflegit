@@ -1,10 +1,10 @@
 ---
 domain: nashvillecomposers.org
 slug: nashvillecomposers-org
-title: Is nashvillecomposers.org Legit? Trust Signal Check
+title: Is nashvillecomposers.org Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for nashvillecomposers.org: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nashvillecomposers.org scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:14:41.611Z'
 finalUrl: 'https://nashvillecomposers.org/'
 reachable: true

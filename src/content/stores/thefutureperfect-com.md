@@ -1,10 +1,10 @@
 ---
 domain: thefutureperfect.com
 slug: thefutureperfect-com
-title: Is thefutureperfect.com Legit? Trust Signal Check
+title: Is thefutureperfect.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thefutureperfect.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thefutureperfect.com scores 100/100 on our public trust checks. Established
+  domain — registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:26.967Z'
 finalUrl: 'https://www.thefutureperfect.com/'
 reachable: true

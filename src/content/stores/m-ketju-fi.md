@@ -1,10 +1,10 @@
 ---
 domain: m-ketju.fi
 slug: m-ketju-fi
-title: Is m-ketju.fi Legit? Trust Signal Check
+title: Is m-ketju.fi Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for m-ketju.fi: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  m-ketju.fi scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:28:36.458Z'
 finalUrl: 'https://www.m-ketju.fi/'
 reachable: true

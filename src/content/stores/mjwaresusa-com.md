@@ -1,10 +1,10 @@
 ---
 domain: mjwaresusa.com
 slug: mjwaresusa-com
-title: Is mjwaresusa.com Legit? Trust Signal Check
+title: Is mjwaresusa.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for mjwaresusa.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mjwaresusa.com scores 85/100 on our public trust checks. Established domain —
+  registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:55:59.326Z'
 finalUrl: 'https://mjwaresusa.com/'
 reachable: true

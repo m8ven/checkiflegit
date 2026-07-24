@@ -1,10 +1,10 @@
 ---
 domain: redappletalks.com
 slug: redappletalks-com
-title: Is redappletalks.com Legit? Trust Signal Check
+title: Is redappletalks.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for redappletalks.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  redappletalks.com scores 85/100 on our public trust checks. Established domain
+  — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:17.610Z'
 finalUrl: 'https://redappletalks.com/'
 reachable: true

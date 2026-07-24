@@ -1,10 +1,10 @@
 ---
 domain: das-dritte-auge.com
 slug: das-dritte-auge-com
-title: Is das-dritte-auge.com Legit? Trust Signal Check
+title: Is das-dritte-auge.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for das-dritte-auge.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  das-dritte-auge.com scores 70/100 on our public trust checks. Established
+  domain — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:10.809Z'
 finalUrl: 'https://www.das-dritte-auge.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: wobble.es
 slug: wobble-es
-title: Is wobble.es Legit? Trust Signal Check
+title: Is wobble.es Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for wobble.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  wobble.es scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T02:56:13.723Z'
 finalUrl: 'https://wobble.es/'
 reachable: true

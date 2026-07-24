@@ -1,10 +1,10 @@
 ---
 domain: fdauto.jp
 slug: fdauto-jp
-title: Is fdauto.jp Legit? Trust Signal Check
+title: Is fdauto.jp Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fdauto.jp: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fdauto.jp scores 73/100 on our public trust checks. Established domain —
+  registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:50.663Z'
 finalUrl: 'https://fdauto.jp/'
 reachable: true

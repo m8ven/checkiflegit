@@ -1,10 +1,10 @@
 ---
 domain: steerwellauto.com
 slug: steerwellauto-com
-title: Is steerwellauto.com Legit? Trust Signal Check
+title: Is steerwellauto.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for steerwellauto.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  steerwellauto.com scores 100/100 on our public trust checks. Established
+  domain — registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:02:49.772Z'
 finalUrl: 'https://steerwellauto.com/'
 reachable: true

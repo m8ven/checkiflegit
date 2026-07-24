@@ -1,10 +1,10 @@
 ---
 domain: skysoko.co.ke
 slug: skysoko-co-ke
-title: Is skysoko.co.ke Legit? Trust Signal Check
+title: Is skysoko.co.ke Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for skysoko.co.ke: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  skysoko.co.ke scores 100/100 on our public trust checks. Established domain —
+  registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:14.572Z'
 finalUrl: 'https://skysoko.co.ke/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: schallplatten.me
 slug: schallplatten-me
-title: Is schallplatten.me Legit? Trust Signal Check
+title: Is schallplatten.me Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for schallplatten.me: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  schallplatten.me scores 88/100 on our public trust checks. Established domain
+  — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:21.100Z'
 finalUrl: 'https://schallplatten.me/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: cinemascop.ru
 slug: cinemascop-ru
-title: Is cinemascop.ru Legit? Trust Signal Check
+title: Is cinemascop.ru Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cinemascop.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cinemascop.ru scores 88/100 on our public trust checks. Established domain —
+  registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:02.060Z'
 finalUrl: 'https://cinemascop.ru/'
 reachable: true

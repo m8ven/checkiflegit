@@ -1,10 +1,10 @@
 ---
 domain: seventrading.net
 slug: seventrading-net
-title: Is seventrading.net Legit? Trust Signal Check
+title: Is seventrading.net Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for seventrading.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  seventrading.net scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:50:51.175Z'
 finalUrl: 'https://seventrading.net/'
 reachable: true

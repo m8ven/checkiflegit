@@ -1,10 +1,10 @@
 ---
 domain: goaskerin.com
 slug: goaskerin-com
-title: Is goaskerin.com Legit? Trust Signal Check
+title: Is goaskerin.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for goaskerin.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  goaskerin.com scores 70/100 on our public trust checks. Established domain —
+  registered 16.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:19.316Z'
 finalUrl: 'https://www.goaskerin.com/'
 reachable: true

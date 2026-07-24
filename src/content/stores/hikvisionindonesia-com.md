@@ -1,10 +1,10 @@
 ---
 domain: hikvisionindonesia.com
 slug: hikvisionindonesia-com
-title: Is hikvisionindonesia.com Legit? Trust Signal Check
+title: Is hikvisionindonesia.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for hikvisionindonesia.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hikvisionindonesia.com scores 73/100 on our public trust checks. Established
+  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:56.653Z'
 finalUrl: 'https://hikvisionindonesia.com/'
 reachable: true

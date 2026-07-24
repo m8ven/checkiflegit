@@ -1,10 +1,10 @@
 ---
 domain: steenkofoed.dk
 slug: steenkofoed-dk
-title: Is steenkofoed.dk Legit? Trust Signal Check
+title: Is steenkofoed.dk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for steenkofoed.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  steenkofoed.dk scores 88/100 on our public trust checks. Established domain —
+  registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:17.077Z'
 finalUrl: 'https://steenkofoed.dk/'
 reachable: true

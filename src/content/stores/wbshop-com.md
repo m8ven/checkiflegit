@@ -1,10 +1,10 @@
 ---
 domain: wbshop.com
 slug: wbshop-com
-title: Is wbshop.com Legit? Trust Signal Check
+title: Is wbshop.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for wbshop.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  wbshop.com scores 100/100 on our public trust checks. Established domain —
+  registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:12.723Z'
 finalUrl: 'https://wbshop.com/'
 reachable: true

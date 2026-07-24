@@ -1,10 +1,10 @@
 ---
 domain: sportsapparelgifts.com
 slug: sportsapparelgifts-com
-title: Is sportsapparelgifts.com Legit? Trust Signal Check
+title: Is sportsapparelgifts.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for sportsapparelgifts.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sportsapparelgifts.com scores 85/100 on our public trust checks. Established
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:13.606Z'
 finalUrl: 'https://sportsapparelgifts.com/'
 reachable: true

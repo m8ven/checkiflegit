@@ -1,10 +1,10 @@
 ---
 domain: kookgekfilip.nl
 slug: kookgekfilip-nl
-title: Is kookgekfilip.nl Legit? Trust Signal Check
+title: Is kookgekfilip.nl Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for kookgekfilip.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kookgekfilip.nl scores 76/100 on our public trust checks. Established domain —
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:46.436Z'
 finalUrl: 'https://kookgekfilip.nl/'
 reachable: true

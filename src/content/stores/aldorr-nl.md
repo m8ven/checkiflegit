@@ -1,10 +1,10 @@
 ---
 domain: aldorr.nl
 slug: aldorr-nl
-title: Is aldorr.nl Legit? Trust Signal Check
+title: Is aldorr.nl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for aldorr.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aldorr.nl scores 88/100 on our public trust checks. Established domain —
+  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:46.168Z'
 finalUrl: 'https://aldorr.nl/'
 reachable: true

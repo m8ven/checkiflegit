@@ -1,10 +1,10 @@
 ---
 domain: pljs.ma
 slug: pljs-ma
-title: Is pljs.ma Legit? Trust Signal Check
+title: Is pljs.ma Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pljs.ma: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  pljs.ma scores 88/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:20.373Z'
 finalUrl: 'https://pljs.ma/ar/'
 reachable: true

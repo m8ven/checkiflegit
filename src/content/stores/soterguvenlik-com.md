@@ -1,10 +1,10 @@
 ---
 domain: soterguvenlik.com
 slug: soterguvenlik-com
-title: Is soterguvenlik.com Legit? Trust Signal Check
+title: Is soterguvenlik.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for soterguvenlik.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  soterguvenlik.com scores 70/100 on our public trust checks. Established domain
+  — registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:58.086Z'
 finalUrl: 'https://soterguvenlik.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: onlybeauty.com.tw
 slug: onlybeauty-com-tw
-title: Is onlybeauty.com.tw Legit? Trust Signal Check
+title: Is onlybeauty.com.tw Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for onlybeauty.com.tw: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  onlybeauty.com.tw scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:46:37.585Z'
 finalUrl: 'https://onlybeauty.com.tw/'
 reachable: true

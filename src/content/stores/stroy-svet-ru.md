@@ -1,10 +1,10 @@
 ---
 domain: stroy-svet.ru
 slug: stroy-svet-ru
-title: Is stroy-svet.ru Legit? Trust Signal Check
+title: Is stroy-svet.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for stroy-svet.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stroy-svet.ru scores 73/100 on our public trust checks. Established domain —
+  registered 17.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:48.488Z'
 finalUrl: 'https://stroy-svet.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: omacshop.de
 slug: omacshop-de
-title: Is omacshop.de Legit? Trust Signal Check
+title: Is omacshop.de Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for omacshop.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  omacshop.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:00:56.652Z'
 finalUrl: 'https://omacshop.de/'
 reachable: true

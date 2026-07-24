@@ -1,10 +1,10 @@
 ---
 domain: maneko.fr
 slug: maneko-fr
-title: Is maneko.fr Legit? Trust Signal Check
+title: Is maneko.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for maneko.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  maneko.fr scores 88/100 on our public trust checks. Established domain —
+  registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:14.799Z'
 finalUrl: 'https://www.maneko.fr/'
 reachable: true

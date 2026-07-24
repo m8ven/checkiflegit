@@ -1,10 +1,10 @@
 ---
 domain: baldusistemos.lt
 slug: baldusistemos-lt
-title: Is baldusistemos.lt Legit? Trust Signal Check
+title: Is baldusistemos.lt Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for baldusistemos.lt: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  baldusistemos.lt scores 55/100 on our public trust checks. Domain registered
+  very recently (30 days ago). Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:48.028Z'
 finalUrl: 'https://baldusistemos.lt/'
 reachable: true

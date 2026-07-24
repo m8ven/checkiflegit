@@ -1,10 +1,10 @@
 ---
 domain: wbcm.services
 slug: wbcm-services
-title: Is wbcm.services Legit? Trust Signal Check
+title: Is wbcm.services Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for wbcm.services: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wbcm.services scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:09.309Z'
 finalUrl: 'https://wbcm.services/'
 reachable: true

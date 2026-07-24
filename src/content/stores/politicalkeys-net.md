@@ -1,10 +1,10 @@
 ---
 domain: politicalkeys.net
 slug: politicalkeys-net
-title: Is politicalkeys.net Legit? Trust Signal Check
+title: Is politicalkeys.net Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for politicalkeys.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  politicalkeys.net scores 88/100 on our public trust checks. Established domain
+  — registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:53.919Z'
 finalUrl: 'https://politicalkeys.net/'
 reachable: true

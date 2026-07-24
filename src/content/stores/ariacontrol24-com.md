@@ -1,10 +1,10 @@
 ---
 domain: ariacontrol24.com
 slug: ariacontrol24-com
-title: Is ariacontrol24.com Legit? Trust Signal Check
+title: Is ariacontrol24.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ariacontrol24.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ariacontrol24.com scores 76/100 on our public trust checks. Established domain
+  — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:43.983Z'
 finalUrl: 'https://ariacontrol24.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: muji.ca
 slug: muji-ca
-title: Is muji.ca Legit? Trust Signal Check
+title: Is muji.ca Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for muji.ca: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  muji.ca scores 88/100 on our public trust checks. Established domain —
+  registered 20.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:39.224Z'
 finalUrl: 'https://muji.ca/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: shirli-market.com
 slug: shirli-market-com
-title: Is shirli-market.com Legit? Trust Signal Check
+title: Is shirli-market.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for shirli-market.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shirli-market.com scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:02:50.529Z'
 finalUrl: 'https://shirli-market.com/'
 reachable: true

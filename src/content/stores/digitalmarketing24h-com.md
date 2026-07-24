@@ -1,10 +1,10 @@
 ---
 domain: digitalmarketing24h.com
 slug: digitalmarketing24h-com
-title: Is digitalmarketing24h.com Legit? Trust Signal Check
+title: Is digitalmarketing24h.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for digitalmarketing24h.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  digitalmarketing24h.com scores 70/100 on our public trust checks. Established
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:30.726Z'
 finalUrl: 'https://digitalmarketing24h.com/'
 reachable: true

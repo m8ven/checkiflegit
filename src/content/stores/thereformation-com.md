@@ -1,10 +1,10 @@
 ---
 domain: thereformation.com
 slug: thereformation-com
-title: Is thereformation.com Legit? Trust Signal Check
+title: Is thereformation.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for thereformation.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thereformation.com scores 88/100 on our public trust checks. Established
+  domain — registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:00.253Z'
 finalUrl: 'https://www.thereformation.com/'
 reachable: true

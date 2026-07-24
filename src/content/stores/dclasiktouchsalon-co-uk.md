@@ -1,10 +1,10 @@
 ---
 domain: dclasiktouchsalon.co.uk
 slug: dclasiktouchsalon-co-uk
-title: Is dclasiktouchsalon.co.uk Legit? Trust Signal Check
+title: Is dclasiktouchsalon.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dclasiktouchsalon.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dclasiktouchsalon.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:47.068Z'
 finalUrl: 'https://dclasiktouchsalon.co.uk/'
 reachable: true

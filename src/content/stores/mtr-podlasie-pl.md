@@ -1,10 +1,10 @@
 ---
 domain: mtr.podlasie.pl
 slug: mtr-podlasie-pl
-title: Is mtr.podlasie.pl Legit? Trust Signal Check
+title: Is mtr.podlasie.pl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for mtr.podlasie.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mtr.podlasie.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:58:56.617Z'
 finalUrl: 'https://mtr.podlasie.pl/'
 reachable: true

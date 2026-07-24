@@ -1,10 +1,10 @@
 ---
 domain: cebi.org.br
 slug: cebi-org-br
-title: Is cebi.org.br Legit? Trust Signal Check
+title: Is cebi.org.br Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for cebi.org.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cebi.org.br scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:00:20.637Z'
 finalUrl: 'https://cebi.org.br/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: robotical.io
 slug: robotical-io
-title: Is robotical.io Legit? Trust Signal Check
+title: Is robotical.io Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for robotical.io: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  robotical.io scores 100/100 on our public trust checks. Established domain —
+  registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:35.882Z'
 finalUrl: 'https://robotical.io/'
 reachable: true

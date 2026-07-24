@@ -1,10 +1,10 @@
 ---
 domain: sitemaps.partybestbuy.com.au
 slug: sitemaps-partybestbuy-com-au
-title: Is sitemaps.partybestbuy.com.au Legit? Trust Signal Check
+title: Is sitemaps.partybestbuy.com.au Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for sitemaps.partybestbuy.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sitemaps.partybestbuy.com.au scores 74/100 on our public trust checks. Has a
+  contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T14:54:14.986Z'
 finalUrl: 'http://sitemaps.partybestbuy.com.au/'
 reachable: true

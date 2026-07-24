@@ -1,10 +1,10 @@
 ---
 domain: insectisite.net
 slug: insectisite-net
-title: Is insectisite.net Legit? Trust Signal Check
+title: Is insectisite.net Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for insectisite.net: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  insectisite.net scores 31/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:43:38.491Z'
 finalUrl: 'http://www.insectisite.net/'
 reachable: true

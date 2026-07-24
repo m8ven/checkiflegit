@@ -1,10 +1,10 @@
 ---
 domain: slawnerortho.com
 slug: slawnerortho-com
-title: Is slawnerortho.com Legit? Trust Signal Check
+title: Is slawnerortho.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for slawnerortho.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  slawnerortho.com scores 82/100 on our public trust checks. Established domain
+  — registered 13.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:11.324Z'
 finalUrl: 'https://slawnerortho.com/'
 reachable: true

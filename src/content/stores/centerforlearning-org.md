@@ -1,10 +1,10 @@
 ---
 domain: centerforlearning.org
 slug: centerforlearning-org
-title: Is centerforlearning.org Legit? Trust Signal Check
+title: Is centerforlearning.org Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for centerforlearning.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  centerforlearning.org scores 82/100 on our public trust checks. Established
+  domain — registered 30 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:49.917Z'
 finalUrl: 'https://www.centerforlearning.org/'
 reachable: true

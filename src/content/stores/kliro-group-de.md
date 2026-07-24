@@ -1,10 +1,10 @@
 ---
 domain: kliro-group.de
 slug: kliro-group-de
-title: Is kliro-group.de Legit? Trust Signal Check
+title: Is kliro-group.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kliro-group.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kliro-group.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:40:45.918Z'
 finalUrl: 'https://kliro-group.de/'
 reachable: true

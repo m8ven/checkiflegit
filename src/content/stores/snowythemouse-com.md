@@ -1,10 +1,10 @@
 ---
 domain: snowythemouse.com
 slug: snowythemouse-com
-title: Is snowythemouse.com Legit? Trust Signal Check
+title: Is snowythemouse.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for snowythemouse.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  snowythemouse.com scores 88/100 on our public trust checks. Established domain
+  — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:52.039Z'
 finalUrl: 'https://snowythemouse.com/'
 reachable: true

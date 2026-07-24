@@ -1,10 +1,10 @@
 ---
 domain: yvedesign.de
 slug: yvedesign-de
-title: Is yvedesign.de Legit? Trust Signal Check
+title: Is yvedesign.de Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for yvedesign.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  yvedesign.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:29:31.738Z'
 finalUrl: 'https://www.yvedesign.de/'
 reachable: true

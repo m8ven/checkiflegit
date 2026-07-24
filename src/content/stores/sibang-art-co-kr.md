@@ -1,10 +1,10 @@
 ---
 domain: sibang-art.co.kr
 slug: sibang-art-co-kr
-title: Is sibang-art.co.kr Legit? Trust Signal Check
+title: Is sibang-art.co.kr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for sibang-art.co.kr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sibang-art.co.kr scores 73/100 on our public trust checks. Established domain
+  — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:10.657Z'
 finalUrl: 'https://sibang-art.co.kr/'
 reachable: true

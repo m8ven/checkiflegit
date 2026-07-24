@@ -1,10 +1,10 @@
 ---
 domain: fondazionesancarlo.it
 slug: fondazionesancarlo-it
-title: Is fondazionesancarlo.it Legit? Trust Signal Check
+title: Is fondazionesancarlo.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fondazionesancarlo.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fondazionesancarlo.it scores 100/100 on our public trust checks. Established
+  domain — registered 28.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:58:37.951Z'
 finalUrl: 'https://www.fondazionesancarlo.it/'
 reachable: true

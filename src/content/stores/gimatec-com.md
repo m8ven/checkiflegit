@@ -1,10 +1,10 @@
 ---
 domain: gimatec.com
 slug: gimatec-com
-title: Is gimatec.com Legit? Trust Signal Check
+title: Is gimatec.com Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for gimatec.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gimatec.com scores 94/100 on our public trust checks. Established domain —
+  registered 23.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:06.474Z'
 finalUrl: 'https://gimatec.com/'
 reachable: true

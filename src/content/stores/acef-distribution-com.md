@@ -1,11 +1,10 @@
 ---
 domain: acef-distribution.com
 slug: acef-distribution-com
-title: Is acef-distribution.com Legit? Trust Signal Check
+title: Is acef-distribution.com Legit? Trust Score 34/100
 description: >-
-  An automated trust-signal check for acef-distribution.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  acef-distribution.com scores 34/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T15:12:35.331Z'
 finalUrl: 'https://www.acef-distribution.com/'
 reachable: true

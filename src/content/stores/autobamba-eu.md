@@ -1,10 +1,10 @@
 ---
 domain: autobamba.eu
 slug: autobamba-eu
-title: Is autobamba.eu Legit? Trust Signal Check
+title: Is autobamba.eu Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for autobamba.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  autobamba.eu scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:36:09.634Z'
 finalUrl: 'https://autobamba.eu/'
 reachable: true

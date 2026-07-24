@@ -1,10 +1,11 @@
 ---
 domain: jolatapeta.hu
 slug: jolatapeta-hu
-title: Is jolatapeta.hu Legit? Trust Signal Check
+title: Is jolatapeta.hu Legit? Trust Score 0/100
 description: >-
-  An automated trust-signal check for jolatapeta.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  jolatapeta.hu scores 0/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T14:53:45.798Z'
 finalUrl: 'https://jolatapeta.hu/'
 reachable: true

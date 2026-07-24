@@ -1,10 +1,10 @@
 ---
 domain: medik8.bg
 slug: medik8-bg
-title: Is medik8.bg Legit? Trust Signal Check
+title: Is medik8.bg Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for medik8.bg: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  medik8.bg scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:17:27.287Z'
 finalUrl: 'https://medik8.bg/'
 reachable: true

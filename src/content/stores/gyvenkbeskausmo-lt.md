@@ -1,10 +1,10 @@
 ---
 domain: gyvenkbeskausmo.lt
 slug: gyvenkbeskausmo-lt
-title: Is gyvenkbeskausmo.lt Legit? Trust Signal Check
+title: Is gyvenkbeskausmo.lt Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for gyvenkbeskausmo.lt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gyvenkbeskausmo.lt scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:45:13.409Z'
 finalUrl: 'https://gyvenkbeskausmo.lt/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: leomarksjewelers.com
 slug: leomarksjewelers-com
-title: Is leomarksjewelers.com Legit? Trust Signal Check
+title: Is leomarksjewelers.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for leomarksjewelers.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  leomarksjewelers.com scores 88/100 on our public trust checks. Established
+  domain — registered 20.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:31.997Z'
 finalUrl: 'https://leomarksjewelers.com/'
 reachable: true

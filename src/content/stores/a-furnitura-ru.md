@@ -1,10 +1,10 @@
 ---
 domain: a-furnitura.ru
 slug: a-furnitura-ru
-title: Is a-furnitura.ru Legit? Trust Signal Check
+title: Is a-furnitura.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for a-furnitura.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  a-furnitura.ru scores 73/100 on our public trust checks. Established domain —
+  registered 20.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:54.131Z'
 finalUrl: 'https://a-furnitura.ru/'
 reachable: true

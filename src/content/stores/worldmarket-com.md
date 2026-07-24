@@ -1,10 +1,10 @@
 ---
 domain: worldmarket.com
 slug: worldmarket-com
-title: Is worldmarket.com Legit? Trust Signal Check
+title: Is worldmarket.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for worldmarket.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  worldmarket.com scores 100/100 on our public trust checks. Established domain
+  — registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:49.125Z'
 finalUrl: 'https://www.worldmarket.com/'
 reachable: true

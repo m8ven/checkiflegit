@@ -1,10 +1,10 @@
 ---
 domain: leuparzcollection.com
 slug: leuparzcollection-com
-title: Is leuparzcollection.com Legit? Trust Signal Check
+title: Is leuparzcollection.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for leuparzcollection.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  leuparzcollection.com scores 64/100 on our public trust checks. Domain is
+  relatively young. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:07:08.850Z'
 finalUrl: 'https://leuparzcollection.com/'
 reachable: true

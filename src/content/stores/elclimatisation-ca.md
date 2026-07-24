@@ -1,10 +1,10 @@
 ---
 domain: elclimatisation.ca
 slug: elclimatisation-ca
-title: Is elclimatisation.ca Legit? Trust Signal Check
+title: Is elclimatisation.ca Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for elclimatisation.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elclimatisation.ca scores 73/100 on our public trust checks. Established
+  domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:03.712Z'
 finalUrl: 'https://elclimatisation.ca/'
 reachable: true

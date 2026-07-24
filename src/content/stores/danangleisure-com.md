@@ -1,10 +1,10 @@
 ---
 domain: danangleisure.com
 slug: danangleisure-com
-title: Is danangleisure.com Legit? Trust Signal Check
+title: Is danangleisure.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for danangleisure.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  danangleisure.com scores 100/100 on our public trust checks. Established
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:00.670Z'
 finalUrl: 'https://danangleisure.com/'
 reachable: true

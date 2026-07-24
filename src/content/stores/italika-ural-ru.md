@@ -1,10 +1,10 @@
 ---
 domain: italika-ural.ru
 slug: italika-ural-ru
-title: Is italika-ural.ru Legit? Trust Signal Check
+title: Is italika-ural.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for italika-ural.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  italika-ural.ru scores 73/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:35.249Z'
 finalUrl: 'https://italika-ural.ru/'
 reachable: true

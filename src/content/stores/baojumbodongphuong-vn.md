@@ -1,10 +1,10 @@
 ---
 domain: baojumbodongphuong.vn
 slug: baojumbodongphuong-vn
-title: Is baojumbodongphuong.vn Legit? Trust Signal Check
+title: Is baojumbodongphuong.vn Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for baojumbodongphuong.vn: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  baojumbodongphuong.vn scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:29:36.451Z'
 finalUrl: 'https://www.baojumbodongphuong.vn/'
 reachable: true

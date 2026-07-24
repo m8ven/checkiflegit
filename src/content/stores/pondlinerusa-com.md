@@ -1,10 +1,10 @@
 ---
 domain: pondlinerusa.com
 slug: pondlinerusa-com
-title: Is pondlinerusa.com Legit? Trust Signal Check
+title: Is pondlinerusa.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for pondlinerusa.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pondlinerusa.com scores 85/100 on our public trust checks. Established domain
+  — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:44.189Z'
 finalUrl: 'https://pondlinerusa.com/'
 reachable: true

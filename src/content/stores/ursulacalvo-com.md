@@ -1,10 +1,10 @@
 ---
 domain: ursulacalvo.com
 slug: ursulacalvo-com
-title: Is ursulacalvo.com Legit? Trust Signal Check
+title: Is ursulacalvo.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for ursulacalvo.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ursulacalvo.com scores 70/100 on our public trust checks. Established domain —
+  registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:37.406Z'
 finalUrl: 'https://ursulacalvo.com/'
 reachable: true

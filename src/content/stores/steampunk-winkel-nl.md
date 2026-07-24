@@ -1,10 +1,11 @@
 ---
 domain: steampunk-winkel.nl
 slug: steampunk-winkel-nl
-title: Is steampunk-winkel.nl Legit? Trust Signal Check
+title: Is steampunk-winkel.nl Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for steampunk-winkel.nl: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  steampunk-winkel.nl scores 25/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T02:46:20.077Z'
 finalUrl: 'https://steampunk-winkel.nl/'
 reachable: true

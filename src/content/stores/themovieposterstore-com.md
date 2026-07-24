@@ -1,10 +1,10 @@
 ---
 domain: themovieposterstore.com
 slug: themovieposterstore-com
-title: Is themovieposterstore.com Legit? Trust Signal Check
+title: Is themovieposterstore.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for themovieposterstore.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  themovieposterstore.com scores 73/100 on our public trust checks. Established
+  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:54.870Z'
 finalUrl: 'https://themovieposterstore.com/'
 reachable: true

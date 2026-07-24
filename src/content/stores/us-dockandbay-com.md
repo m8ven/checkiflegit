@@ -1,10 +1,10 @@
 ---
 domain: us.dockandbay.com
 slug: us-dockandbay-com
-title: Is us.dockandbay.com Legit? Trust Signal Check
+title: Is us.dockandbay.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for us.dockandbay.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  us.dockandbay.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:10:41.561Z'
 finalUrl: 'https://us.dockandbay.com/'
 reachable: true

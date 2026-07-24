@@ -1,10 +1,10 @@
 ---
 domain: brewercoinc.com
 slug: brewercoinc-com
-title: Is brewercoinc.com Legit? Trust Signal Check
+title: Is brewercoinc.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for brewercoinc.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brewercoinc.com scores 100/100 on our public trust checks. Established domain
+  — registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:49:21.152Z'
 finalUrl: 'https://brewercoinc.com/'
 reachable: true

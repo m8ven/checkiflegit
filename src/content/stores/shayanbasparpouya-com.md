@@ -1,10 +1,10 @@
 ---
 domain: shayanbasparpouya.com
 slug: shayanbasparpouya-com
-title: Is shayanbasparpouya.com Legit? Trust Signal Check
+title: Is shayanbasparpouya.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for shayanbasparpouya.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shayanbasparpouya.com scores 64/100 on our public trust checks. Domain is
+  relatively young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:34:56.631Z'
 finalUrl: 'https://shayanbasparpouya.com/'
 reachable: true

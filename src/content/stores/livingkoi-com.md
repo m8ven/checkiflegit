@@ -1,10 +1,10 @@
 ---
 domain: livingkoi.com
 slug: livingkoi-com
-title: Is livingkoi.com Legit? Trust Signal Check
+title: Is livingkoi.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for livingkoi.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  livingkoi.com scores 94/100 on our public trust checks. Established domain —
+  registered 17.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:55.660Z'
 finalUrl: 'https://www.livingkoi.com/'
 reachable: true

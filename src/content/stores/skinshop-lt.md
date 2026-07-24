@@ -1,10 +1,10 @@
 ---
 domain: skinshop.lt
 slug: skinshop-lt
-title: Is skinshop.lt Legit? Trust Signal Check
+title: Is skinshop.lt Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for skinshop.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  skinshop.lt scores 76/100 on our public trust checks. Established domain —
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:29.543Z'
 finalUrl: 'https://skinshop.lt/'
 reachable: true

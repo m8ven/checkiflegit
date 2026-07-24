@@ -1,10 +1,10 @@
 ---
 domain: danikoi.com
 slug: danikoi-com
-title: Is danikoi.com Legit? Trust Signal Check
+title: Is danikoi.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for danikoi.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  danikoi.com scores 100/100 on our public trust checks. Established domain —
+  registered 21.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:32.339Z'
 finalUrl: 'https://danikoi.com/'
 reachable: true

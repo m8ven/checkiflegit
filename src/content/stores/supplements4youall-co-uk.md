@@ -1,10 +1,11 @@
 ---
 domain: supplements4youall.co.uk
 slug: supplements4youall-co-uk
-title: Is supplements4youall.co.uk Legit? Trust Signal Check
+title: Is supplements4youall.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for supplements4youall.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  supplements4youall.co.uk scores 100/100 on our public trust checks.
+  Established domain — registered 2.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:15:06.375Z'
 finalUrl: 'https://supplements4youall.co.uk/'
 reachable: true

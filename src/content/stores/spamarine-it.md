@@ -1,10 +1,10 @@
 ---
 domain: spamarine.it
 slug: spamarine-it
-title: Is spamarine.it Legit? Trust Signal Check
+title: Is spamarine.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for spamarine.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  spamarine.it scores 100/100 on our public trust checks. Established domain —
+  registered 18.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:34.457Z'
 finalUrl: 'https://www.spamarine.it/'
 reachable: true

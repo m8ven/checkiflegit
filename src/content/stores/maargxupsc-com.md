@@ -1,10 +1,10 @@
 ---
 domain: maargxupsc.com
 slug: maargxupsc-com
-title: Is maargxupsc.com Legit? Trust Signal Check
+title: Is maargxupsc.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for maargxupsc.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  maargxupsc.com scores 43/100 on our public trust checks. Domain registered
+  very recently (75 days ago).
 fetchedAt: '2026-06-25T03:53:52.696Z'
 finalUrl: 'https://maargxupsc.com/'
 reachable: true

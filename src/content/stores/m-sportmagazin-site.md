@@ -1,10 +1,10 @@
 ---
 domain: m.sportmagazin.site
 slug: m-sportmagazin-site
-title: Is m.sportmagazin.site Legit? Trust Signal Check
+title: Is m.sportmagazin.site Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for m.sportmagazin.site: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  m.sportmagazin.site scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:13:49.376Z'
 finalUrl: 'https://m.sportmagazin.site/'
 reachable: true

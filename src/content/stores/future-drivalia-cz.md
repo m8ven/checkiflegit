@@ -1,10 +1,10 @@
 ---
 domain: future.drivalia.cz
 slug: future-drivalia-cz
-title: Is future.drivalia.cz Legit? Trust Signal Check
+title: Is future.drivalia.cz Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for future.drivalia.cz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  future.drivalia.cz scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:32:40.224Z'
 finalUrl: 'https://future.drivalia.cz/'
 reachable: true

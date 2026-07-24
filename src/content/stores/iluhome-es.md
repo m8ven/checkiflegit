@@ -1,10 +1,10 @@
 ---
 domain: iluhome.es
 slug: iluhome-es
-title: Is iluhome.es Legit? Trust Signal Check
+title: Is iluhome.es Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for iluhome.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  iluhome.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:30:35.999Z'
 finalUrl: 'https://iluhome.es/'
 reachable: true

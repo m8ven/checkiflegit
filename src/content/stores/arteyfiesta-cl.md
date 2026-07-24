@@ -1,10 +1,10 @@
 ---
 domain: arteyfiesta.cl
 slug: arteyfiesta-cl
-title: Is arteyfiesta.cl Legit? Trust Signal Check
+title: Is arteyfiesta.cl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for arteyfiesta.cl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arteyfiesta.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:18:06.430Z'
 finalUrl: 'https://arteyfiesta.cl/'
 reachable: true

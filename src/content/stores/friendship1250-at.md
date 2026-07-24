@@ -1,10 +1,10 @@
 ---
 domain: friendship1250.at
 slug: friendship1250-at
-title: Is friendship1250.at Legit? Trust Signal Check
+title: Is friendship1250.at Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for friendship1250.at: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  friendship1250.at scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:12:56.279Z'
 finalUrl: 'https://friendship1250.at/'
 reachable: true

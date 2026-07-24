@@ -1,10 +1,10 @@
 ---
 domain: agrotekstore.com
 slug: agrotekstore-com
-title: Is agrotekstore.com Legit? Trust Signal Check
+title: Is agrotekstore.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for agrotekstore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  agrotekstore.com scores 100/100 on our public trust checks. Established domain
+  — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:39.099Z'
 finalUrl: 'https://agrotekstore.com/'
 reachable: true

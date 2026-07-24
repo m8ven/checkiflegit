@@ -1,10 +1,10 @@
 ---
 domain: tonmeta.com
 slug: tonmeta-com
-title: Is tonmeta.com Legit? Trust Signal Check
+title: Is tonmeta.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tonmeta.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tonmeta.com scores 76/100 on our public trust checks. Established domain —
+  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:58.410Z'
 finalUrl: 'https://tonmeta.com/'
 reachable: true

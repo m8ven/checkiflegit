@@ -1,10 +1,10 @@
 ---
 domain: jagcouture.com
 slug: jagcouture-com
-title: Is jagcouture.com Legit? Trust Signal Check
+title: Is jagcouture.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for jagcouture.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jagcouture.com scores 100/100 on our public trust checks. Established domain —
+  registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:44.571Z'
 finalUrl: 'https://www.jagcouture.com/'
 reachable: true

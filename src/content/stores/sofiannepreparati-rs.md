@@ -1,10 +1,10 @@
 ---
 domain: sofiannepreparati.rs
 slug: sofiannepreparati-rs
-title: Is sofiannepreparati.rs Legit? Trust Signal Check
+title: Is sofiannepreparati.rs Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for sofiannepreparati.rs: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sofiannepreparati.rs scores 82/100 on our public trust checks. Established
+  domain — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:47.638Z'
 finalUrl: 'https://sofiannepreparati.rs/'
 reachable: true

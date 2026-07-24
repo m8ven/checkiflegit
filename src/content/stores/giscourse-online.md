@@ -1,10 +1,10 @@
 ---
 domain: giscourse.online
 slug: giscourse-online
-title: Is giscourse.online Legit? Trust Signal Check
+title: Is giscourse.online Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for giscourse.online: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  giscourse.online scores 88/100 on our public trust checks. Established domain
+  — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:49.577Z'
 finalUrl: 'https://giscourse.online/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: monada.com.ua
 slug: monada-com-ua
-title: Is monada.com.ua Legit? Trust Signal Check
+title: Is monada.com.ua Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for monada.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  monada.com.ua scores 88/100 on our public trust checks. Established domain —
+  registered 21.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:38.151Z'
 finalUrl: 'https://monada.com.ua/'
 reachable: true

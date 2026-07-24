@@ -1,10 +1,10 @@
 ---
 domain: profumicitta.eu
 slug: profumicitta-eu
-title: Is profumicitta.eu Legit? Trust Signal Check
+title: Is profumicitta.eu Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for profumicitta.eu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  profumicitta.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:38:26.563Z'
 finalUrl: 'https://profumicitta.eu/'
 reachable: true

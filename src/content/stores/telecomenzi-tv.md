@@ -1,10 +1,10 @@
 ---
 domain: telecomenzi.tv
 slug: telecomenzi-tv
-title: Is telecomenzi.tv Legit? Trust Signal Check
+title: Is telecomenzi.tv Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for telecomenzi.tv: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  telecomenzi.tv scores 70/100 on our public trust checks. Established domain —
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:21.756Z'
 finalUrl: 'https://telecomenzi.tv/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: calderdaleindustrial.co.uk
 slug: calderdaleindustrial-co-uk
-title: Is calderdaleindustrial.co.uk Legit? Trust Signal Check
+title: Is calderdaleindustrial.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for calderdaleindustrial.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  calderdaleindustrial.co.uk scores 88/100 on our public trust checks.
+  Established domain — registered 13.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:38:14.501Z'
 finalUrl: 'https://calderdaleindustrial.co.uk/'
 reachable: true

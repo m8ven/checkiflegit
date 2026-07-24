@@ -1,10 +1,10 @@
 ---
 domain: gemmagraf.it
 slug: gemmagraf-it
-title: Is gemmagraf.it Legit? Trust Signal Check
+title: Is gemmagraf.it Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for gemmagraf.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gemmagraf.it scores 82/100 on our public trust checks. Established domain —
+  registered 21 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:08.090Z'
 finalUrl: 'https://www.gemmagraf.it/'
 reachable: true

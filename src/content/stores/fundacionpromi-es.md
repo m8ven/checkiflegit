@@ -1,10 +1,10 @@
 ---
 domain: fundacionpromi.es
 slug: fundacionpromi-es
-title: Is fundacionpromi.es Legit? Trust Signal Check
+title: Is fundacionpromi.es Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for fundacionpromi.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fundacionpromi.es scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:13:05.172Z'
 finalUrl: 'https://fundacionpromi.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mistertruffle.nl
 slug: mistertruffle-nl
-title: Is mistertruffle.nl Legit? Trust Signal Check
+title: Is mistertruffle.nl Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for mistertruffle.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mistertruffle.nl scores 64/100 on our public trust checks. Domain is
+  relatively young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:54:51.054Z'
 finalUrl: 'https://mistertruffle.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lizhess.com
 slug: lizhess-com
-title: Is lizhess.com Legit? Trust Signal Check
+title: Is lizhess.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lizhess.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lizhess.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:26:51.457Z'
 finalUrl: 'https://www.lizhess.com/'
 reachable: true

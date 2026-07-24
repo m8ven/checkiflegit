@@ -1,10 +1,10 @@
 ---
 domain: internex.at
 slug: internex-at
-title: Is internex.at Legit? Trust Signal Check
+title: Is internex.at Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for internex.at: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  internex.at scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-24T21:45:00.694Z'
 finalUrl: 'https://www.internex.at/'
 reachable: true

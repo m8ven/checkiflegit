@@ -1,10 +1,10 @@
 ---
 domain: musicaldorica.it
 slug: musicaldorica-it
-title: Is musicaldorica.it Legit? Trust Signal Check
+title: Is musicaldorica.it Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for musicaldorica.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  musicaldorica.it scores 85/100 on our public trust checks. Established domain
+  — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:29.035Z'
 finalUrl: 'https://www.musicaldorica.it/'
 reachable: true

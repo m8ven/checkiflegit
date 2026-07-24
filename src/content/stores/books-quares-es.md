@@ -1,10 +1,10 @@
 ---
 domain: books.quares.es
 slug: books-quares-es
-title: Is books.quares.es Legit? Trust Signal Check
+title: Is books.quares.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for books.quares.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  books.quares.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:56:05.674Z'
 finalUrl: 'https://books.quares.es/'
 reachable: true

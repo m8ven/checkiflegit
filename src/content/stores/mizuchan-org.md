@@ -1,10 +1,10 @@
 ---
 domain: mizuchan.org
 slug: mizuchan-org
-title: Is mizuchan.org Legit? Trust Signal Check
+title: Is mizuchan.org Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for mizuchan.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mizuchan.org scores 70/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:36.188Z'
 finalUrl: 'https://mizuchan.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: fluorescent.co
 slug: fluorescent-co
-title: Is fluorescent.co Legit? Trust Signal Check
+title: Is fluorescent.co Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for fluorescent.co: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  fluorescent.co scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-24T21:45:58.126Z'
 finalUrl: 'https://fluorescent.co/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: theglitch.nl
 slug: theglitch-nl
-title: Is theglitch.nl Legit? Trust Signal Check
+title: Is theglitch.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for theglitch.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  theglitch.nl scores 88/100 on our public trust checks. Established domain —
+  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:27.311Z'
 finalUrl: 'https://www.theglitch.nl/'
 reachable: true

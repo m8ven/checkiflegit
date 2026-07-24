@@ -1,10 +1,10 @@
 ---
 domain: mariocomputer.com
 slug: mariocomputer-com
-title: Is mariocomputer.com Legit? Trust Signal Check
+title: Is mariocomputer.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mariocomputer.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mariocomputer.com scores 100/100 on our public trust checks. Established
+  domain — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:09.497Z'
 finalUrl: 'https://mariocomputer.com/'
 reachable: true

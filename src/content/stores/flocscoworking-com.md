@@ -1,10 +1,10 @@
 ---
 domain: flocscoworking.com
 slug: flocscoworking-com
-title: Is flocscoworking.com Legit? Trust Signal Check
+title: Is flocscoworking.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for flocscoworking.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  flocscoworking.com scores 76/100 on our public trust checks. Established
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:27.706Z'
 finalUrl: 'https://flocscoworking.com/'
 reachable: true

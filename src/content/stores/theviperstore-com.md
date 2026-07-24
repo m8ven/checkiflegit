@@ -1,10 +1,10 @@
 ---
 domain: theviperstore.com
 slug: theviperstore-com
-title: Is theviperstore.com Legit? Trust Signal Check
+title: Is theviperstore.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for theviperstore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  theviperstore.com scores 85/100 on our public trust checks. Established domain
+  — registered 21.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:30.026Z'
 finalUrl: 'https://theviperstore.com/'
 reachable: true

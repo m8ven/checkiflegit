@@ -1,10 +1,11 @@
 ---
 domain: rondasquiltcreations.com
 slug: rondasquiltcreations-com
-title: Is rondasquiltcreations.com Legit? Trust Signal Check
+title: Is rondasquiltcreations.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rondasquiltcreations.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rondasquiltcreations.com scores 100/100 on our public trust checks.
+  Established domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:47:42.983Z'
 finalUrl: 'https://rondasquiltcreations.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: batterymaster.com
 slug: batterymaster-com
-title: Is batterymaster.com Legit? Trust Signal Check
+title: Is batterymaster.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for batterymaster.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  batterymaster.com scores 76/100 on our public trust checks. Established domain
+  — registered 28.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:20:28.581Z'
 finalUrl: 'https://batterymaster.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: luxurylivingnamibia.com
 slug: luxurylivingnamibia-com
-title: Is luxurylivingnamibia.com Legit? Trust Signal Check
+title: Is luxurylivingnamibia.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for luxurylivingnamibia.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  luxurylivingnamibia.com scores 100/100 on our public trust checks. Established
+  domain — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:56:34.567Z'
 finalUrl: 'https://luxurylivingnamibia.com/'
 reachable: true

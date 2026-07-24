@@ -1,10 +1,10 @@
 ---
 domain: closeouttowels.com
 slug: closeouttowels-com
-title: Is closeouttowels.com Legit? Trust Signal Check
+title: Is closeouttowels.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for closeouttowels.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  closeouttowels.com scores 43/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T15:39:02.075Z'
 finalUrl: 'http://closeouttowels.com/'
 reachable: true

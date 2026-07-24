@@ -1,10 +1,10 @@
 ---
 domain: greatwhitedivers.com
 slug: greatwhitedivers-com
-title: Is greatwhitedivers.com Legit? Trust Signal Check
+title: Is greatwhitedivers.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for greatwhitedivers.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  greatwhitedivers.com scores 88/100 on our public trust checks. Established
+  domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:29.466Z'
 finalUrl: 'https://www.greatwhitedivers.com/'
 reachable: true

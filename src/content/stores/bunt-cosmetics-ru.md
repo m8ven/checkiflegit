@@ -1,10 +1,10 @@
 ---
 domain: bunt-cosmetics.ru
 slug: bunt-cosmetics-ru
-title: Is bunt-cosmetics.ru Legit? Trust Signal Check
+title: Is bunt-cosmetics.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for bunt-cosmetics.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bunt-cosmetics.ru scores 73/100 on our public trust checks. Established domain
+  — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:53.185Z'
 finalUrl: 'https://bunt-cosmetics.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: econoixshop.com
 slug: econoixshop-com
-title: Is econoixshop.com Legit? Trust Signal Check
+title: Is econoixshop.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for econoixshop.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  econoixshop.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:10:10.456Z'
 finalUrl: 'https://econoixshop.com/'
 reachable: true

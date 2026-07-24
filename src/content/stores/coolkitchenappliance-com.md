@@ -1,10 +1,10 @@
 ---
 domain: coolkitchenappliance.com
 slug: coolkitchenappliance-com
-title: Is coolkitchenappliance.com Legit? Trust Signal Check
+title: Is coolkitchenappliance.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for coolkitchenappliance.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  coolkitchenappliance.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:07:27.851Z'
 finalUrl: 'https://coolkitchenappliance.com/'
 reachable: true

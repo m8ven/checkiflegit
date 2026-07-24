@@ -1,10 +1,10 @@
 ---
 domain: parstepper.no
 slug: parstepper-no
-title: Is parstepper.no Legit? Trust Signal Check
+title: Is parstepper.no Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for parstepper.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  parstepper.no scores 85/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:23.833Z'
 finalUrl: 'https://parstepper.no/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nikoparfum.com
 slug: nikoparfum-com
-title: Is nikoparfum.com Legit? Trust Signal Check
+title: Is nikoparfum.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nikoparfum.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nikoparfum.com scores 64/100 on our public trust checks. Domain is relatively
+  young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:23:22.644Z'
 finalUrl: 'https://nikoparfum.com/'
 reachable: true

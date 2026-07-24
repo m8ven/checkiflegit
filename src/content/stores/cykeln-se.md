@@ -1,10 +1,10 @@
 ---
 domain: cykeln.se
 slug: cykeln-se
-title: Is cykeln.se Legit? Trust Signal Check
+title: Is cykeln.se Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for cykeln.se: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  cykeln.se scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:56:06.805Z'
 finalUrl: 'https://www.cykeln.se/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: integralms.ru
 slug: integralms-ru
-title: Is integralms.ru Legit? Trust Signal Check
+title: Is integralms.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for integralms.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  integralms.ru scores 73/100 on our public trust checks. Established domain —
+  registered 16.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:53.273Z'
 finalUrl: 'https://integralms.ru/'
 reachable: true

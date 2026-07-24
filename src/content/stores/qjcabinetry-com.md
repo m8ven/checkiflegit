@@ -1,10 +1,10 @@
 ---
 domain: qjcabinetry.com
 slug: qjcabinetry-com
-title: Is qjcabinetry.com Legit? Trust Signal Check
+title: Is qjcabinetry.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for qjcabinetry.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  qjcabinetry.com scores 85/100 on our public trust checks. Established domain —
+  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:46.159Z'
 finalUrl: 'https://qjcabinetry.com/'
 reachable: true

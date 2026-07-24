@@ -1,10 +1,10 @@
 ---
 domain: swingzy.in
 slug: swingzy-in
-title: Is swingzy.in Legit? Trust Signal Check
+title: Is swingzy.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for swingzy.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  swingzy.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:16:10.584Z'
 finalUrl: 'https://swingzy.in/'
 reachable: true

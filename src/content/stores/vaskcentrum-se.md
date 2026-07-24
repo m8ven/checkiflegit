@@ -1,10 +1,10 @@
 ---
 domain: vaskcentrum.se
 slug: vaskcentrum-se
-title: Is vaskcentrum.se Legit? Trust Signal Check
+title: Is vaskcentrum.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for vaskcentrum.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vaskcentrum.se scores 88/100 on our public trust checks. Established domain —
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:35.755Z'
 finalUrl: 'https://vaskcentrum.se/'
 reachable: true

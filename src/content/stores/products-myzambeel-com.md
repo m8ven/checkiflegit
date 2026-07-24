@@ -1,11 +1,11 @@
 ---
 domain: products.myzambeel.com
 slug: products-myzambeel-com
-title: Is products.myzambeel.com Legit? Trust Signal Check
+title: Is products.myzambeel.com Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for products.myzambeel.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  products.myzambeel.com scores 36/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T15:28:21.313Z'
 finalUrl: 'https://products.myzambeel.com/'
 reachable: true

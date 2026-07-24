@@ -1,10 +1,10 @@
 ---
 domain: mechanoid55.ru
 slug: mechanoid55-ru
-title: Is mechanoid55.ru Legit? Trust Signal Check
+title: Is mechanoid55.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for mechanoid55.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mechanoid55.ru scores 73/100 on our public trust checks. Established domain —
+  registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:06.389Z'
 finalUrl: 'https://mechanoid55.ru/'
 reachable: true

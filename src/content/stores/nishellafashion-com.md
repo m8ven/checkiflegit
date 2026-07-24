@@ -1,10 +1,10 @@
 ---
 domain: nishellafashion.com
 slug: nishellafashion-com
-title: Is nishellafashion.com Legit? Trust Signal Check
+title: Is nishellafashion.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nishellafashion.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nishellafashion.com scores 100/100 on our public trust checks. Established
+  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:08.463Z'
 finalUrl: 'https://nishellafashion.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gachmenhoaphat.com
 slug: gachmenhoaphat-com
-title: Is gachmenhoaphat.com Legit? Trust Signal Check
+title: Is gachmenhoaphat.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for gachmenhoaphat.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gachmenhoaphat.com scores 76/100 on our public trust checks. Established
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:48.118Z'
 finalUrl: 'https://gachmenhoaphat.com/'
 reachable: true

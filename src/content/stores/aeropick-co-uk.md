@@ -1,10 +1,10 @@
 ---
 domain: aeropick.co.uk
 slug: aeropick-co-uk
-title: Is aeropick.co.uk Legit? Trust Signal Check
+title: Is aeropick.co.uk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for aeropick.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aeropick.co.uk scores 82/100 on our public trust checks. Established domain —
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:31.452Z'
 finalUrl: 'https://aeropick.co.uk/'
 reachable: true

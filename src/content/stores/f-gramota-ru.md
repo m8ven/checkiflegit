@@ -1,10 +1,10 @@
 ---
 domain: f-gramota.ru
 slug: f-gramota-ru
-title: Is f-gramota.ru Legit? Trust Signal Check
+title: Is f-gramota.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for f-gramota.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  f-gramota.ru scores 85/100 on our public trust checks. Established domain —
+  registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:33.480Z'
 finalUrl: 'https://f-gramota.ru/'
 reachable: true

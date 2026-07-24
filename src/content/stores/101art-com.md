@@ -1,10 +1,10 @@
 ---
 domain: 101art.com
 slug: 101art-com
-title: Is 101art.com Legit? Trust Signal Check
+title: Is 101art.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 101art.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  101art.com scores 88/100 on our public trust checks. Established domain —
+  registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:49.459Z'
 finalUrl: 'https://101art.com/'
 reachable: true

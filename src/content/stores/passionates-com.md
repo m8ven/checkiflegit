@@ -1,10 +1,10 @@
 ---
 domain: passionates.com
 slug: passionates-com
-title: Is passionates.com Legit? Trust Signal Check
+title: Is passionates.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for passionates.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  passionates.com scores 88/100 on our public trust checks. Established domain —
+  registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:11.775Z'
 finalUrl: 'https://passionates.com/'
 reachable: true

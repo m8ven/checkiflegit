@@ -1,10 +1,10 @@
 ---
 domain: phagencorp.com
 slug: phagencorp-com
-title: Is phagencorp.com Legit? Trust Signal Check
+title: Is phagencorp.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for phagencorp.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  phagencorp.com scores 82/100 on our public trust checks. Established domain —
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:27.751Z'
 finalUrl: 'https://phagencorp.com/'
 reachable: true

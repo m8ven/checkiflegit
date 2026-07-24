@@ -1,10 +1,10 @@
 ---
 domain: beachin.ch
 slug: beachin-ch
-title: Is beachin.ch Legit? Trust Signal Check
+title: Is beachin.ch Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for beachin.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  beachin.ch scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:56:16.043Z'
 finalUrl: 'https://beachin.ch/'
 reachable: true

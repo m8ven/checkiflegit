@@ -1,10 +1,10 @@
 ---
 domain: blingadvisor.com
 slug: blingadvisor-com
-title: Is blingadvisor.com Legit? Trust Signal Check
+title: Is blingadvisor.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for blingadvisor.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blingadvisor.com scores 100/100 on our public trust checks. Established domain
+  — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:51.139Z'
 finalUrl: 'https://blingadvisor.com/'
 reachable: true

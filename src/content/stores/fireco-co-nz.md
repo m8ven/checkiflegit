@@ -1,10 +1,10 @@
 ---
 domain: fireco.co.nz
 slug: fireco-co-nz
-title: Is fireco.co.nz Legit? Trust Signal Check
+title: Is fireco.co.nz Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for fireco.co.nz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fireco.co.nz scores 82/100 on our public trust checks. Established domain —
+  registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:29.824Z'
 finalUrl: 'https://fireco.co.nz/'
 reachable: true

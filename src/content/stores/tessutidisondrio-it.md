@@ -1,10 +1,10 @@
 ---
 domain: tessutidisondrio.it
 slug: tessutidisondrio-it
-title: Is tessutidisondrio.it Legit? Trust Signal Check
+title: Is tessutidisondrio.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for tessutidisondrio.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tessutidisondrio.it scores 88/100 on our public trust checks. Established
+  domain — registered 26.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:11.574Z'
 finalUrl: 'https://www.tessutidisondrio.it/'
 reachable: true

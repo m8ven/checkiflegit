@@ -1,10 +1,11 @@
 ---
 domain: foodandfresh.spardenderleeuw.be
 slug: foodandfresh-spardenderleeuw-be
-title: Is foodandfresh.spardenderleeuw.be Legit? Trust Signal Check
+title: Is foodandfresh.spardenderleeuw.be Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for foodandfresh.spardenderleeuw.be: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  foodandfresh.spardenderleeuw.be scores 83/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place. Public business contact details are
+  listed.
 fetchedAt: '2026-06-25T03:43:38.847Z'
 finalUrl: 'https://foodandfresh.spardenderleeuw.be/'
 reachable: true

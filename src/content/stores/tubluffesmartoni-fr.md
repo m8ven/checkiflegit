@@ -1,10 +1,10 @@
 ---
 domain: tubluffesmartoni.fr
 slug: tubluffesmartoni-fr
-title: Is tubluffesmartoni.fr Legit? Trust Signal Check
+title: Is tubluffesmartoni.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for tubluffesmartoni.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tubluffesmartoni.fr scores 88/100 on our public trust checks. Established
+  domain — registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:47.394Z'
 finalUrl: 'https://www.tubluffesmartoni.fr/'
 reachable: true

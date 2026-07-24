@@ -1,10 +1,10 @@
 ---
 domain: anttak.com
 slug: anttak-com
-title: Is anttak.com Legit? Trust Signal Check
+title: Is anttak.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for anttak.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  anttak.com scores 64/100 on our public trust checks. No public contact details
+  detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:55:25.644Z'
 finalUrl: 'https://anttak.com/'
 reachable: true

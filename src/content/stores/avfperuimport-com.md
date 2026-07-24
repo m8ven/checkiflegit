@@ -1,10 +1,10 @@
 ---
 domain: avfperuimport.com
 slug: avfperuimport-com
-title: Is avfperuimport.com Legit? Trust Signal Check
+title: Is avfperuimport.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for avfperuimport.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  avfperuimport.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:48:09.332Z'
 finalUrl: 'https://avfperuimport.com/'
 reachable: true

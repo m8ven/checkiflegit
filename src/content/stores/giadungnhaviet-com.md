@@ -1,10 +1,10 @@
 ---
 domain: giadungnhaviet.com
 slug: giadungnhaviet-com
-title: Is giadungnhaviet.com Legit? Trust Signal Check
+title: Is giadungnhaviet.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for giadungnhaviet.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  giadungnhaviet.com scores 70/100 on our public trust checks. Established
+  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:46.196Z'
 finalUrl: 'https://giadungnhaviet.com/'
 reachable: true

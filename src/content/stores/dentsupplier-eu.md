@@ -1,10 +1,10 @@
 ---
 domain: dentsupplier.eu
 slug: dentsupplier-eu
-title: Is dentsupplier.eu Legit? Trust Signal Check
+title: Is dentsupplier.eu Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for dentsupplier.eu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dentsupplier.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:23:14.156Z'
 finalUrl: 'https://dentsupplier.eu/'
 reachable: true

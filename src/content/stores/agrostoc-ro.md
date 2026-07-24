@@ -1,10 +1,10 @@
 ---
 domain: agrostoc.ro
 slug: agrostoc-ro
-title: Is agrostoc.ro Legit? Trust Signal Check
+title: Is agrostoc.ro Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for agrostoc.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  agrostoc.ro scores 82/100 on our public trust checks. Established domain —
+  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:17.268Z'
 finalUrl: 'https://agrostoc.ro/'
 reachable: true

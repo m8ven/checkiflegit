@@ -1,10 +1,10 @@
 ---
 domain: shoppingfriendz.com
 slug: shoppingfriendz-com
-title: Is shoppingfriendz.com Legit? Trust Signal Check
+title: Is shoppingfriendz.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for shoppingfriendz.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shoppingfriendz.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:06:29.346Z'
 finalUrl: 'https://shoppingfriendz.com/'
 reachable: true

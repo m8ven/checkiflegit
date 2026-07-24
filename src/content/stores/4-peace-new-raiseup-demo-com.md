@@ -1,10 +1,10 @@
 ---
 domain: 4-peace-new.raiseup-demo.com
 slug: 4-peace-new-raiseup-demo-com
-title: Is 4-peace-new.raiseup-demo.com Legit? Trust Signal Check
+title: Is 4-peace-new.raiseup-demo.com Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for 4-peace-new.raiseup-demo.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  4-peace-new.raiseup-demo.com scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T14:57:36.592Z'
 finalUrl: 'https://4-peace-new.raiseup-demo.com/'
 reachable: true

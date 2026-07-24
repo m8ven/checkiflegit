@@ -1,10 +1,10 @@
 ---
 domain: publipromocionales.com
 slug: publipromocionales-com
-title: Is publipromocionales.com Legit? Trust Signal Check
+title: Is publipromocionales.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for publipromocionales.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  publipromocionales.com scores 94/100 on our public trust checks. Established
+  domain — registered 18.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:55.670Z'
 finalUrl: 'https://publipromocionales.com/'
 reachable: true

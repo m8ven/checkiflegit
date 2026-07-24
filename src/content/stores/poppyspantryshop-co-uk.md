@@ -1,10 +1,10 @@
 ---
 domain: poppyspantryshop.co.uk
 slug: poppyspantryshop-co-uk
-title: Is poppyspantryshop.co.uk Legit? Trust Signal Check
+title: Is poppyspantryshop.co.uk Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for poppyspantryshop.co.uk: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  poppyspantryshop.co.uk scores 64/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T12:41:31.253Z'
 finalUrl: 'https://www.poppyspantryshop.co.uk/'
 reachable: true

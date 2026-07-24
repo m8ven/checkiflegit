@@ -1,10 +1,10 @@
 ---
 domain: yogamodel.co.uk
 slug: yogamodel-co-uk
-title: Is yogamodel.co.uk Legit? Trust Signal Check
+title: Is yogamodel.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for yogamodel.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  yogamodel.co.uk scores 100/100 on our public trust checks. Established domain
+  — registered 22.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:38.847Z'
 finalUrl: 'https://yogamodel.co.uk/'
 reachable: true

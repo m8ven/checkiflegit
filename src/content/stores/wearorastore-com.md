@@ -1,10 +1,10 @@
 ---
 domain: wearorastore.com
 slug: wearorastore-com
-title: Is wearorastore.com Legit? Trust Signal Check
+title: Is wearorastore.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for wearorastore.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wearorastore.com scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:09:49.576Z'
 finalUrl: 'https://wearorastore.com/'
 reachable: true

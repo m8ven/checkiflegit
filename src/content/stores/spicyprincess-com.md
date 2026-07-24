@@ -1,10 +1,10 @@
 ---
 domain: spicyprincess.com
 slug: spicyprincess-com
-title: Is spicyprincess.com Legit? Trust Signal Check
+title: Is spicyprincess.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for spicyprincess.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  spicyprincess.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:39:27.247Z'
 finalUrl: 'https://spicyprincess.com/'
 reachable: true

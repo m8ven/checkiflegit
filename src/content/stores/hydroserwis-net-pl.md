@@ -1,10 +1,10 @@
 ---
 domain: hydroserwis.net.pl
 slug: hydroserwis-net-pl
-title: Is hydroserwis.net.pl Legit? Trust Signal Check
+title: Is hydroserwis.net.pl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for hydroserwis.net.pl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hydroserwis.net.pl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:39:41.424Z'
 finalUrl: 'https://hydroserwis.net.pl/'
 reachable: true

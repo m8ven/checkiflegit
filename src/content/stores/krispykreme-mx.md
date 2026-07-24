@@ -1,10 +1,10 @@
 ---
 domain: krispykreme.mx
 slug: krispykreme-mx
-title: Is krispykreme.mx Legit? Trust Signal Check
+title: Is krispykreme.mx Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for krispykreme.mx: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  krispykreme.mx scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T15:15:36.036Z'
 finalUrl: 'https://www.krispykreme.mx/'
 reachable: true

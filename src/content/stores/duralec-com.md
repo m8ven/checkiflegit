@@ -1,10 +1,10 @@
 ---
 domain: duralec.com
 slug: duralec-com
-title: Is duralec.com Legit? Trust Signal Check
+title: Is duralec.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for duralec.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  duralec.com scores 100/100 on our public trust checks. Established domain —
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:10.623Z'
 finalUrl: 'https://duralec.com/'
 reachable: true

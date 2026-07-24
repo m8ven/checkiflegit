@@ -1,10 +1,10 @@
 ---
 domain: dietrollie.co.za
 slug: dietrollie-co-za
-title: Is dietrollie.co.za Legit? Trust Signal Check
+title: Is dietrollie.co.za Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for dietrollie.co.za: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  dietrollie.co.za scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:30:43.506Z'
 finalUrl: 'https://dietrollie.co.za/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jnigolden.com
 slug: jnigolden-com
-title: Is jnigolden.com Legit? Trust Signal Check
+title: Is jnigolden.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for jnigolden.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jnigolden.com scores 88/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:53.659Z'
 finalUrl: 'https://www.jnigolden.com/'
 reachable: true

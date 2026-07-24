@@ -1,10 +1,10 @@
 ---
 domain: diamondpaint.shop
 slug: diamondpaint-shop
-title: Is diamondpaint.shop Legit? Trust Signal Check
+title: Is diamondpaint.shop Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for diamondpaint.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  diamondpaint.shop scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:40:34.585Z'
 finalUrl: 'https://diamondpaint.shop/'
 reachable: true

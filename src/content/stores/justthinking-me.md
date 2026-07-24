@@ -1,10 +1,10 @@
 ---
 domain: justthinking.me
 slug: justthinking-me
-title: Is justthinking.me Legit? Trust Signal Check
+title: Is justthinking.me Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for justthinking.me: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  justthinking.me scores 70/100 on our public trust checks. Established domain —
+  registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:43.125Z'
 finalUrl: 'https://justthinking.me/'
 reachable: true

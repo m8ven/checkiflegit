@@ -1,10 +1,10 @@
 ---
 domain: fiestadeideas.com
 slug: fiestadeideas-com
-title: Is fiestadeideas.com Legit? Trust Signal Check
+title: Is fiestadeideas.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for fiestadeideas.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fiestadeideas.com scores 73/100 on our public trust checks. Established domain
+  — registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:09.872Z'
 finalUrl: 'https://fiestadeideas.com/'
 reachable: true

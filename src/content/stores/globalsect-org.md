@@ -1,10 +1,10 @@
 ---
 domain: globalsect.org
 slug: globalsect-org
-title: Is globalsect.org Legit? Trust Signal Check
+title: Is globalsect.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for globalsect.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  globalsect.org scores 88/100 on our public trust checks. Established domain —
+  registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:09.687Z'
 finalUrl: 'https://globalsect.org/'
 reachable: true

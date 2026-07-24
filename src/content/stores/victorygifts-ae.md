@@ -1,10 +1,10 @@
 ---
 domain: victorygifts.ae
 slug: victorygifts-ae
-title: Is victorygifts.ae Legit? Trust Signal Check
+title: Is victorygifts.ae Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for victorygifts.ae: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  victorygifts.ae scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:08:45.951Z'
 finalUrl: 'https://victorygifts.ae/'
 reachable: true

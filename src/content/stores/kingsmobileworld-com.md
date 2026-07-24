@@ -1,10 +1,10 @@
 ---
 domain: kingsmobileworld.com
 slug: kingsmobileworld-com
-title: Is kingsmobileworld.com Legit? Trust Signal Check
+title: Is kingsmobileworld.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for kingsmobileworld.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kingsmobileworld.com scores 70/100 on our public trust checks. Established
+  domain — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:59.274Z'
 finalUrl: 'https://kingsmobileworld.com/'
 reachable: true

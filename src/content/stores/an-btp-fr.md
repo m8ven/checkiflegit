@@ -1,10 +1,10 @@
 ---
 domain: an-btp.fr
 slug: an-btp-fr
-title: Is an-btp.fr Legit? Trust Signal Check
+title: Is an-btp.fr Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for an-btp.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  an-btp.fr scores 76/100 on our public trust checks. Established domain —
+  registered 14 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:52:11.172Z'
 finalUrl: 'https://www.an-btp.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: la-comunitaria.net
 slug: la-comunitaria-net
-title: Is la-comunitaria.net Legit? Trust Signal Check
+title: Is la-comunitaria.net Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for la-comunitaria.net: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  la-comunitaria.net scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:17:17.370Z'
 finalUrl: 'https://la-comunitaria.net/'
 reachable: true

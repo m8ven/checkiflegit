@@ -1,10 +1,10 @@
 ---
 domain: 1pars.ru
 slug: 1pars-ru
-title: Is 1pars.ru Legit? Trust Signal Check
+title: Is 1pars.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 1pars.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  1pars.ru scores 73/100 on our public trust checks. Established domain —
+  registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:35.944Z'
 finalUrl: 'https://1pars.ru/'
 reachable: true

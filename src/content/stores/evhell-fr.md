@@ -1,10 +1,10 @@
 ---
 domain: evhell.fr
 slug: evhell-fr
-title: Is evhell.fr Legit? Trust Signal Check
+title: Is evhell.fr Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for evhell.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  evhell.fr scores 70/100 on our public trust checks. Established domain —
+  registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:21.100Z'
 finalUrl: 'https://www.evhell.fr/'
 reachable: true

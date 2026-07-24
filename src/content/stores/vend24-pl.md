@@ -1,10 +1,10 @@
 ---
 domain: vend24.pl
 slug: vend24-pl
-title: Is vend24.pl Legit? Trust Signal Check
+title: Is vend24.pl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for vend24.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vend24.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:31:36.768Z'
 finalUrl: 'https://vend24.pl/'
 reachable: true

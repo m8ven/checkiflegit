@@ -1,10 +1,10 @@
 ---
 domain: voyeglobal.com
 slug: voyeglobal-com
-title: Is voyeglobal.com Legit? Trust Signal Check
+title: Is voyeglobal.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for voyeglobal.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  voyeglobal.com scores 100/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:18:55.023Z'
 finalUrl: 'https://voyeglobal.com/'
 reachable: true

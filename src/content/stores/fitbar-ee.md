@@ -1,10 +1,10 @@
 ---
 domain: fitbar.ee
 slug: fitbar-ee
-title: Is fitbar.ee Legit? Trust Signal Check
+title: Is fitbar.ee Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fitbar.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fitbar.ee scores 100/100 on our public trust checks. Established domain —
+  registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:09.562Z'
 finalUrl: 'https://fitbar.ee/'
 reachable: true

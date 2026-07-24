@@ -1,10 +1,10 @@
 ---
 domain: roccospizzari.com
 slug: roccospizzari-com
-title: Is roccospizzari.com Legit? Trust Signal Check
+title: Is roccospizzari.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for roccospizzari.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  roccospizzari.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:43:10.061Z'
 finalUrl: 'https://roccospizzari.com/'
 reachable: true

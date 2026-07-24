@@ -1,10 +1,10 @@
 ---
 domain: rotanascan-lab.com
 slug: rotanascan-lab-com
-title: Is rotanascan-lab.com Legit? Trust Signal Check
+title: Is rotanascan-lab.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for rotanascan-lab.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rotanascan-lab.com scores 70/100 on our public trust checks. Established
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:48.793Z'
 finalUrl: 'https://rotanascan-lab.com/'
 reachable: true

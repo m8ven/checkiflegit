@@ -1,10 +1,10 @@
 ---
 domain: ghs-shop.com
 slug: ghs-shop-com
-title: Is ghs-shop.com Legit? Trust Signal Check
+title: Is ghs-shop.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for ghs-shop.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ghs-shop.com scores 73/100 on our public trust checks. Established domain —
+  registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:57.037Z'
 finalUrl: 'https://www.ghs-shop.com/'
 reachable: true

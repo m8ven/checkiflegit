@@ -1,10 +1,10 @@
 ---
 domain: investcomics.com
 slug: investcomics-com
-title: Is investcomics.com Legit? Trust Signal Check
+title: Is investcomics.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for investcomics.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  investcomics.com scores 70/100 on our public trust checks. Established domain
+  — registered 21 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:38:28.766Z'
 finalUrl: 'https://investcomics.com/'
 reachable: true

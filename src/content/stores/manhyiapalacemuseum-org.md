@@ -1,10 +1,10 @@
 ---
 domain: manhyiapalacemuseum.org
 slug: manhyiapalacemuseum-org
-title: Is manhyiapalacemuseum.org Legit? Trust Signal Check
+title: Is manhyiapalacemuseum.org Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for manhyiapalacemuseum.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  manhyiapalacemuseum.org scores 73/100 on our public trust checks. Established
+  domain — registered 18.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:17.956Z'
 finalUrl: 'https://manhyiapalacemuseum.org/'
 reachable: true

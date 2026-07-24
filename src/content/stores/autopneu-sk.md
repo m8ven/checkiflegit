@@ -1,10 +1,10 @@
 ---
 domain: autopneu.sk
 slug: autopneu-sk
-title: Is autopneu.sk Legit? Trust Signal Check
+title: Is autopneu.sk Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for autopneu.sk: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  autopneu.sk scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:35:23.321Z'
 finalUrl: 'https://autopneu.sk/'
 reachable: true

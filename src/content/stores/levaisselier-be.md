@@ -1,10 +1,10 @@
 ---
 domain: levaisselier.be
 slug: levaisselier-be
-title: Is levaisselier.be Legit? Trust Signal Check
+title: Is levaisselier.be Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for levaisselier.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  levaisselier.be scores 85/100 on our public trust checks. Established domain —
+  registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:09.911Z'
 finalUrl: 'https://levaisselier.be/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: weigl.hu
 slug: weigl-hu
-title: Is weigl.hu Legit? Trust Signal Check
+title: Is weigl.hu Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for weigl.hu: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  weigl.hu scores 57/100 on our public trust checks. Standard contact and policy
+  pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:02.922Z'
 finalUrl: 'https://weigl.hu/'
 reachable: true

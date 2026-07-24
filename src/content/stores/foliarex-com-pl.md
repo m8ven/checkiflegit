@@ -1,10 +1,10 @@
 ---
 domain: foliarex.com.pl
 slug: foliarex-com-pl
-title: Is foliarex.com.pl Legit? Trust Signal Check
+title: Is foliarex.com.pl Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for foliarex.com.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  foliarex.com.pl scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:34:16.944Z'
 finalUrl: 'https://foliarex.com.pl/'
 reachable: true

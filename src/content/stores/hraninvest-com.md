@@ -1,10 +1,10 @@
 ---
 domain: hraninvest.com
 slug: hraninvest-com
-title: Is hraninvest.com Legit? Trust Signal Check
+title: Is hraninvest.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for hraninvest.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hraninvest.com scores 85/100 on our public trust checks. Established domain —
+  registered 25 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:14.617Z'
 finalUrl: 'https://hraninvest.com/'
 reachable: true

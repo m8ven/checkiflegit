@@ -1,10 +1,10 @@
 ---
 domain: gayexpress.co.nz
 slug: gayexpress-co-nz
-title: Is gayexpress.co.nz Legit? Trust Signal Check
+title: Is gayexpress.co.nz Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for gayexpress.co.nz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gayexpress.co.nz scores 100/100 on our public trust checks. Established domain
+  — registered 24.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:14.105Z'
 finalUrl: 'https://gayexpress.co.nz/'
 reachable: true

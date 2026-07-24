@@ -1,10 +1,11 @@
 ---
 domain: bedareconsultoriadigital.com
 slug: bedareconsultoriadigital-com
-title: Is bedareconsultoriadigital.com Legit? Trust Signal Check
+title: Is bedareconsultoriadigital.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for bedareconsultoriadigital.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bedareconsultoriadigital.com scores 76/100 on our public trust checks.
+  Established domain — registered 4.6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:36:49.680Z'
 finalUrl: 'https://bedareconsultoriadigital.com/'
 reachable: true

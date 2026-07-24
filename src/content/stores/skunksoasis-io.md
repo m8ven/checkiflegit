@@ -1,10 +1,10 @@
 ---
 domain: skunksoasis.io
 slug: skunksoasis-io
-title: Is skunksoasis.io Legit? Trust Signal Check
+title: Is skunksoasis.io Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for skunksoasis.io: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  skunksoasis.io scores 73/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:35.972Z'
 finalUrl: 'https://skunksoasis.io/'
 reachable: true

@@ -1,11 +1,10 @@
 ---
 domain: ec2-3-141-197-246.us-east-2.compute.amazonaws.com
 slug: ec2-3-141-197-246-us-east-2-compute-amazonaws-com
-title: Is ec2-3-141-197-246.us-east-2.compute.amazonaws.com Legit? Trust Signal Check
+title: Is ec2-3-141-197-246.us-east-2.compute.amazonaws.com Legit? Score 66/100
 description: >-
-  An automated trust-signal check for
-  ec2-3-141-197-246.us-east-2.compute.amazonaws.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ec2-3-141-197-246.us-east-2.compute.amazonaws.com scores 66/100 on our public
+  trust checks. HTTPS certificate present but its trust chain is incomplete.
 fetchedAt: '2026-06-25T02:31:44.516Z'
 finalUrl: 'http://ec2-3-141-197-246.us-east-2.compute.amazonaws.com/'
 reachable: true

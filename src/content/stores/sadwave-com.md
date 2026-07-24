@@ -1,10 +1,10 @@
 ---
 domain: sadwave.com
 slug: sadwave-com
-title: Is sadwave.com Legit? Trust Signal Check
+title: Is sadwave.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for sadwave.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sadwave.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T11:59:35.790Z'
 finalUrl: 'https://sadwave.com/'
 reachable: true

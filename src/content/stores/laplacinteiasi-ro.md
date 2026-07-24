@@ -1,10 +1,10 @@
 ---
 domain: laplacinteiasi.ro
 slug: laplacinteiasi-ro
-title: Is laplacinteiasi.ro Legit? Trust Signal Check
+title: Is laplacinteiasi.ro Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for laplacinteiasi.ro: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  laplacinteiasi.ro scores 43/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:18:23.610Z'
 finalUrl: 'https://laplacinteiasi.ro/'
 reachable: true

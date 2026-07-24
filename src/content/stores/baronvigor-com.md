@@ -1,10 +1,10 @@
 ---
 domain: baronvigor.com
 slug: baronvigor-com
-title: Is baronvigor.com Legit? Trust Signal Check
+title: Is baronvigor.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for baronvigor.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  baronvigor.com scores 94/100 on our public trust checks. Established domain —
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:44.575Z'
 finalUrl: 'https://www.baronvigor.com/'
 reachable: true

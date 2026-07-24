@@ -1,10 +1,10 @@
 ---
 domain: microelettricacatalogue.com
 slug: microelettricacatalogue-com
-title: Is microelettricacatalogue.com Legit? Trust Signal Check
+title: Is microelettricacatalogue.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for microelettricacatalogue.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  microelettricacatalogue.com scores 55/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:36:42.589Z'
 finalUrl: 'https://microelettricacatalogue.com/'
 reachable: true

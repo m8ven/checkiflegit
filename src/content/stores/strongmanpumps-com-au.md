@@ -1,10 +1,10 @@
 ---
 domain: strongmanpumps.com.au
 slug: strongmanpumps-com-au
-title: Is strongmanpumps.com.au Legit? Trust Signal Check
+title: Is strongmanpumps.com.au Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for strongmanpumps.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  strongmanpumps.com.au scores 91/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:21.795Z'
 finalUrl: 'https://www.strongmanpumps.com.au/'
 reachable: true

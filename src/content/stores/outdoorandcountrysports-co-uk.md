@@ -1,10 +1,11 @@
 ---
 domain: outdoorandcountrysports.co.uk
 slug: outdoorandcountrysports-co-uk
-title: Is outdoorandcountrysports.co.uk Legit? Trust Signal Check
+title: Is outdoorandcountrysports.co.uk Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for outdoorandcountrysports.co.uk: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  outdoorandcountrysports.co.uk scores 94/100 on our public trust checks.
+  Established domain — registered 17.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:27:41.883Z'
 finalUrl: 'https://outdoorandcountrysports.co.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: newnanotech.uk
 slug: newnanotech-uk
-title: Is newnanotech.uk Legit? Trust Signal Check
+title: Is newnanotech.uk Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for newnanotech.uk: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  newnanotech.uk scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T14:59:45.975Z'
 finalUrl: 'https://newnanotech.uk/'
 reachable: true

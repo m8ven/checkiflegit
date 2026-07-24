@@ -1,10 +1,10 @@
 ---
 domain: 420.co.jp
 slug: 420-co-jp
-title: Is 420.co.jp Legit? Trust Signal Check
+title: Is 420.co.jp Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 420.co.jp: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  420.co.jp scores 70/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:47.640Z'
 finalUrl: 'https://420.co.jp/'
 reachable: true

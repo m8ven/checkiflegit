@@ -1,10 +1,10 @@
 ---
 domain: rflowers.co.il
 slug: rflowers-co-il
-title: Is rflowers.co.il Legit? Trust Signal Check
+title: Is rflowers.co.il Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for rflowers.co.il: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  rflowers.co.il scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:26:55.504Z'
 finalUrl: 'https://www.rflowers.co.il/'
 reachable: true

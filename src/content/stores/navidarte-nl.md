@@ -1,10 +1,10 @@
 ---
 domain: navidarte.nl
 slug: navidarte-nl
-title: Is navidarte.nl Legit? Trust Signal Check
+title: Is navidarte.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for navidarte.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  navidarte.nl scores 88/100 on our public trust checks. Established domain —
+  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:49.932Z'
 finalUrl: 'https://navidarte.nl/'
 reachable: true

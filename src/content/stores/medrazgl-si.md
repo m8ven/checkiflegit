@@ -1,10 +1,10 @@
 ---
 domain: medrazgl.si
 slug: medrazgl-si
-title: Is medrazgl.si Legit? Trust Signal Check
+title: Is medrazgl.si Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for medrazgl.si: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  medrazgl.si scores 88/100 on our public trust checks. Established domain —
+  registered 20.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:10.728Z'
 finalUrl: 'https://medrazgl.si/'
 reachable: true

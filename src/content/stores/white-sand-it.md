@@ -1,10 +1,10 @@
 ---
 domain: white-sand.it
 slug: white-sand-it
-title: Is white-sand.it Legit? Trust Signal Check
+title: Is white-sand.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for white-sand.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  white-sand.it scores 88/100 on our public trust checks. Established domain —
+  registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:38.678Z'
 finalUrl: 'https://white-sand.it/'
 reachable: true

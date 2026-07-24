@@ -1,11 +1,11 @@
 ---
 domain: elenapatternstudio.ru
 slug: elenapatternstudio-ru
-title: Is elenapatternstudio.ru Legit? Trust Signal Check
+title: Is elenapatternstudio.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for elenapatternstudio.ru: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  elenapatternstudio.ru scores 43/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T14:54:49.077Z'
 finalUrl: 'https://elenapatternstudio.ru/'
 reachable: true

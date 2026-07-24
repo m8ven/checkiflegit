@@ -1,10 +1,10 @@
 ---
 domain: veaudoux.fr
 slug: veaudoux-fr
-title: Is veaudoux.fr Legit? Trust Signal Check
+title: Is veaudoux.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for veaudoux.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  veaudoux.fr scores 88/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:38.220Z'
 finalUrl: 'https://veaudoux.fr/'
 reachable: true

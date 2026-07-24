@@ -1,10 +1,10 @@
 ---
 domain: getsocialflex.com
 slug: getsocialflex-com
-title: Is getsocialflex.com Legit? Trust Signal Check
+title: Is getsocialflex.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for getsocialflex.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  getsocialflex.com scores 76/100 on our public trust checks. Established domain
+  — registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:51.298Z'
 finalUrl: 'https://www.getsocialflex.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: carbon-core.com
 slug: carbon-core-com
-title: Is carbon-core.com Legit? Trust Signal Check
+title: Is carbon-core.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for carbon-core.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  carbon-core.com scores 94/100 on our public trust checks. Established domain —
+  registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:10.552Z'
 finalUrl: 'https://www.carbon-core.com/'
 reachable: true

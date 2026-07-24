@@ -1,10 +1,10 @@
 ---
 domain: rocketboxproducts.com
 slug: rocketboxproducts-com
-title: Is rocketboxproducts.com Legit? Trust Signal Check
+title: Is rocketboxproducts.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for rocketboxproducts.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rocketboxproducts.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:06:51.210Z'
 finalUrl: 'https://rocketboxproducts.com/'
 reachable: true

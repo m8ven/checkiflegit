@@ -1,10 +1,10 @@
 ---
 domain: allusermanuals.com
 slug: allusermanuals-com
-title: Is allusermanuals.com Legit? Trust Signal Check
+title: Is allusermanuals.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for allusermanuals.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  allusermanuals.com scores 94/100 on our public trust checks. Established
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:46.635Z'
 finalUrl: 'https://allusermanuals.com/'
 reachable: true

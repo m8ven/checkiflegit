@@ -1,10 +1,10 @@
 ---
 domain: kauppa.ural.fi
 slug: kauppa-ural-fi
-title: Is kauppa.ural.fi Legit? Trust Signal Check
+title: Is kauppa.ural.fi Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for kauppa.ural.fi: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  kauppa.ural.fi scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:51:30.964Z'
 finalUrl: 'https://kauppa.ural.fi/'
 reachable: true

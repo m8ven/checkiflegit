@@ -1,10 +1,10 @@
 ---
 domain: g-maxx.nl
 slug: g-maxx-nl
-title: Is g-maxx.nl Legit? Trust Signal Check
+title: Is g-maxx.nl Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for g-maxx.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  g-maxx.nl scores 100/100 on our public trust checks. Established domain —
+  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:50.208Z'
 finalUrl: 'https://g-maxx.nl/'
 reachable: true

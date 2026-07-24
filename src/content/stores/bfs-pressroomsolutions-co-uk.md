@@ -1,10 +1,11 @@
 ---
 domain: bfs-pressroomsolutions.co.uk
 slug: bfs-pressroomsolutions-co-uk
-title: Is bfs-pressroomsolutions.co.uk Legit? Trust Signal Check
+title: Is bfs-pressroomsolutions.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bfs-pressroomsolutions.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bfs-pressroomsolutions.co.uk scores 88/100 on our public trust checks.
+  Established domain — registered 25.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:36:33.411Z'
 finalUrl: 'https://bfs-pressroomsolutions.co.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: grao.com
 slug: grao-com
-title: Is grao.com Legit? Trust Signal Check
+title: Is grao.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for grao.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  grao.com scores 88/100 on our public trust checks. Established domain —
+  registered 27.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:08.690Z'
 finalUrl: 'https://www.grao.com/'
 reachable: true

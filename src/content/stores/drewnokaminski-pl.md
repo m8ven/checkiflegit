@@ -1,10 +1,10 @@
 ---
 domain: drewnokaminski.pl
 slug: drewnokaminski-pl
-title: Is drewnokaminski.pl Legit? Trust Signal Check
+title: Is drewnokaminski.pl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for drewnokaminski.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  drewnokaminski.pl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:41:19.169Z'
 finalUrl: 'https://drewnokaminski.pl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sacksfashion.com
 slug: sacksfashion-com
-title: Is sacksfashion.com Legit? Trust Signal Check
+title: Is sacksfashion.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sacksfashion.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sacksfashion.com scores 88/100 on our public trust checks. Established domain
+  — registered 11 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:53.273Z'
 finalUrl: 'https://sacksfashion.com/'
 reachable: true

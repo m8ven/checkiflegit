@@ -1,11 +1,11 @@
 ---
 domain: tuanhungphatvalve.com
 slug: tuanhungphatvalve-com
-title: Is tuanhungphatvalve.com Legit? Trust Signal Check
+title: Is tuanhungphatvalve.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for tuanhungphatvalve.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  tuanhungphatvalve.com scores 40/100 on our public trust checks. Standard
+  contact and policy pages were not found. Public business contact details are
+  listed.
 fetchedAt: '2026-06-25T12:14:13.582Z'
 finalUrl: 'https://tuanhungphatvalve.com/'
 reachable: true

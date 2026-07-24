@@ -1,10 +1,10 @@
 ---
 domain: lashesbeautyparlour.com
 slug: lashesbeautyparlour-com
-title: Is lashesbeautyparlour.com Legit? Trust Signal Check
+title: Is lashesbeautyparlour.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for lashesbeautyparlour.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lashesbeautyparlour.com scores 100/100 on our public trust checks. Established
+  domain — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:46.772Z'
 finalUrl: 'https://lashesbeautyparlour.com/'
 reachable: true

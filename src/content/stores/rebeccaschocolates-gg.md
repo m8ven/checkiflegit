@@ -1,10 +1,10 @@
 ---
 domain: rebeccaschocolates.gg
 slug: rebeccaschocolates-gg
-title: Is rebeccaschocolates.gg Legit? Trust Signal Check
+title: Is rebeccaschocolates.gg Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for rebeccaschocolates.gg: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rebeccaschocolates.gg scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:33:06.493Z'
 finalUrl: 'https://rebeccaschocolates.gg/'
 reachable: true

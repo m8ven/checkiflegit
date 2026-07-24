@@ -1,10 +1,10 @@
 ---
 domain: memi.ee
 slug: memi-ee
-title: Is memi.ee Legit? Trust Signal Check
+title: Is memi.ee Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for memi.ee: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  memi.ee scores 73/100 on our public trust checks. Established domain —
+  registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:55.812Z'
 finalUrl: 'https://memi.ee/'
 reachable: true

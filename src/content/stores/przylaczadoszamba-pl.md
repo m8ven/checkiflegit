@@ -1,10 +1,10 @@
 ---
 domain: przylaczadoszamba.pl
 slug: przylaczadoszamba-pl
-title: Is przylaczadoszamba.pl Legit? Trust Signal Check
+title: Is przylaczadoszamba.pl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for przylaczadoszamba.pl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  przylaczadoszamba.pl scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:04:28.733Z'
 finalUrl: 'https://przylaczadoszamba.pl/'
 reachable: true

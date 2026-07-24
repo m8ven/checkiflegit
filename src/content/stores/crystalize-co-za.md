@@ -1,10 +1,10 @@
 ---
 domain: crystalize.co.za
 slug: crystalize-co-za
-title: Is crystalize.co.za Legit? Trust Signal Check
+title: Is crystalize.co.za Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for crystalize.co.za: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  crystalize.co.za scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:47:07.271Z'
 finalUrl: 'https://crystalize.co.za/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: test.regevgutman.co.il
 slug: test-regevgutman-co-il
-title: Is test.regevgutman.co.il Legit? Trust Signal Check
+title: Is test.regevgutman.co.il Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for test.regevgutman.co.il: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  test.regevgutman.co.il scores 49/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:47:30.262Z'
 finalUrl: 'https://test.regevgutman.co.il/'
 reachable: true

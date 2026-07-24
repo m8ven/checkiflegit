@@ -1,10 +1,10 @@
 ---
 domain: worldonefm.com
 slug: worldonefm-com
-title: Is worldonefm.com Legit? Trust Signal Check
+title: Is worldonefm.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for worldonefm.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  worldonefm.com scores 100/100 on our public trust checks. Established domain —
+  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:29:26.455Z'
 finalUrl: 'https://www.worldonefm.com/?v=ae551853b692'
 reachable: true

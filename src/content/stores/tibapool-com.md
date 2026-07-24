@@ -1,10 +1,10 @@
 ---
 domain: tibapool.com
 slug: tibapool-com
-title: Is tibapool.com Legit? Trust Signal Check
+title: Is tibapool.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tibapool.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tibapool.com scores 52/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:15:42.084Z'
 finalUrl: 'https://tibapool.com/'
 reachable: true

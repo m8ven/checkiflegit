@@ -1,10 +1,10 @@
 ---
 domain: smarttab.com
 slug: smarttab-com
-title: Is smarttab.com Legit? Trust Signal Check
+title: Is smarttab.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for smarttab.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  smarttab.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-24T21:45:49.160Z'
 finalUrl: 'https://smarttab.com/'
 reachable: true

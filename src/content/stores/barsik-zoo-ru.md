@@ -1,10 +1,10 @@
 ---
 domain: barsik-zoo.ru
 slug: barsik-zoo-ru
-title: Is barsik-zoo.ru Legit? Trust Signal Check
+title: Is barsik-zoo.ru Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for barsik-zoo.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  barsik-zoo.ru scores 94/100 on our public trust checks. Established domain —
+  registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:27.758Z'
 finalUrl: 'https://barsik-zoo.ru/'
 reachable: true

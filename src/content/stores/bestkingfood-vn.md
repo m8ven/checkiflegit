@@ -1,10 +1,10 @@
 ---
 domain: bestkingfood.vn
 slug: bestkingfood-vn
-title: Is bestkingfood.vn Legit? Trust Signal Check
+title: Is bestkingfood.vn Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for bestkingfood.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  bestkingfood.vn scores 31/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:48:21.393Z'
 finalUrl: 'https://bestkingfood.vn/'
 reachable: true

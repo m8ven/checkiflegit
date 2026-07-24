@@ -1,10 +1,10 @@
 ---
 domain: digirig.net
 slug: digirig-net
-title: Is digirig.net Legit? Trust Signal Check
+title: Is digirig.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for digirig.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  digirig.net scores 100/100 on our public trust checks. Established domain —
+  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:20.659Z'
 finalUrl: 'https://digirig.net/'
 reachable: true

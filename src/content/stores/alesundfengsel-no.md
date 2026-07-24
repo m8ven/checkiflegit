@@ -1,10 +1,10 @@
 ---
 domain: alesundfengsel.no
 slug: alesundfengsel-no
-title: Is alesundfengsel.no Legit? Trust Signal Check
+title: Is alesundfengsel.no Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for alesundfengsel.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alesundfengsel.no scores 76/100 on our public trust checks. Established domain
+  — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:51.774Z'
 finalUrl: 'https://alesundfengsel.no/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: skyhighballoons305.com
 slug: skyhighballoons305-com
-title: Is skyhighballoons305.com Legit? Trust Signal Check
+title: Is skyhighballoons305.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for skyhighballoons305.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  skyhighballoons305.com scores 100/100 on our public trust checks. Established
+  domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:21:52.296Z'
 finalUrl: 'https://www.skyhighballoons305.com/'
 reachable: true

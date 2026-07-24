@@ -1,10 +1,10 @@
 ---
 domain: charm.lk
 slug: charm-lk
-title: Is charm.lk Legit? Trust Signal Check
+title: Is charm.lk Legit? Trust Score 19/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for charm.lk: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  charm.lk scores 19/100 on our public trust checks. Standard contact and policy
+  pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:00:49.212Z'
 finalUrl: 'https://charm.lk/'
 reachable: true

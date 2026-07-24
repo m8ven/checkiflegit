@@ -1,10 +1,10 @@
 ---
 domain: royaluseruk.com
 slug: royaluseruk-com
-title: Is royaluseruk.com Legit? Trust Signal Check
+title: Is royaluseruk.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for royaluseruk.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  royaluseruk.com scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found.
 fetchedAt: '2026-06-25T11:59:11.339Z'
 finalUrl: 'https://royaluseruk.com/'
 reachable: true

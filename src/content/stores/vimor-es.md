@@ -1,10 +1,10 @@
 ---
 domain: vimor.es
 slug: vimor-es
-title: Is vimor.es Legit? Trust Signal Check
+title: Is vimor.es Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for vimor.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vimor.es scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:09:00.621Z'
 finalUrl: 'https://vimor.es/'
 reachable: true

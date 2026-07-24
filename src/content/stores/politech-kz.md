@@ -1,10 +1,10 @@
 ---
 domain: politech.kz
 slug: politech-kz
-title: Is politech.kz Legit? Trust Signal Check
+title: Is politech.kz Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for politech.kz: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  politech.kz scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:33:34.658Z'
 finalUrl: 'https://politech.kz/'
 reachable: true

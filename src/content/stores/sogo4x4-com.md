@@ -1,10 +1,10 @@
 ---
 domain: sogo4x4.com
 slug: sogo4x4-com
-title: Is sogo4x4.com Legit? Trust Signal Check
+title: Is sogo4x4.com Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sogo4x4.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sogo4x4.com scores 94/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:45.219Z'
 finalUrl: 'https://sogo4x4.com/'
 reachable: true

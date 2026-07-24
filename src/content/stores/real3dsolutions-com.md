@@ -1,10 +1,10 @@
 ---
 domain: real3dsolutions.com
 slug: real3dsolutions-com
-title: Is real3dsolutions.com Legit? Trust Signal Check
+title: Is real3dsolutions.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for real3dsolutions.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  real3dsolutions.com scores 88/100 on our public trust checks. Established
+  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:22.225Z'
 finalUrl: 'https://real3dsolutions.com/'
 reachable: true

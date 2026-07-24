@@ -1,10 +1,10 @@
 ---
 domain: switch-in.eu
 slug: switch-in-eu
-title: Is switch-in.eu Legit? Trust Signal Check
+title: Is switch-in.eu Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for switch-in.eu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  switch-in.eu scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:10.633Z'
 finalUrl: 'https://switch-in.eu/'
 reachable: true

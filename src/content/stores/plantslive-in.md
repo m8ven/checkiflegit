@@ -1,10 +1,10 @@
 ---
 domain: plantslive.in
 slug: plantslive-in
-title: Is plantslive.in Legit? Trust Signal Check
+title: Is plantslive.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for plantslive.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  plantslive.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:21:56.231Z'
 finalUrl: 'https://plantslive.in/'
 reachable: true

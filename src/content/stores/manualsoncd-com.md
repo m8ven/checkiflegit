@@ -1,10 +1,10 @@
 ---
 domain: manualsoncd.com
 slug: manualsoncd-com
-title: Is manualsoncd.com Legit? Trust Signal Check
+title: Is manualsoncd.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for manualsoncd.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  manualsoncd.com scores 82/100 on our public trust checks. Established domain —
+  registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:01.484Z'
 finalUrl: 'https://manualsoncd.com/'
 reachable: true

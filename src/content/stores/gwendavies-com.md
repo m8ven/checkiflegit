@@ -1,10 +1,10 @@
 ---
 domain: gwendavies.com
 slug: gwendavies-com
-title: Is gwendavies.com Legit? Trust Signal Check
+title: Is gwendavies.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for gwendavies.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gwendavies.com scores 88/100 on our public trust checks. Established domain —
+  registered 20.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:10.369Z'
 finalUrl: 'https://gwendavies.com/'
 reachable: true

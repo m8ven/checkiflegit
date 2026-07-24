@@ -1,10 +1,10 @@
 ---
 domain: naturalface.com.hk
 slug: naturalface-com-hk
-title: Is naturalface.com.hk Legit? Trust Signal Check
+title: Is naturalface.com.hk Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for naturalface.com.hk: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  naturalface.com.hk scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:48.257Z'
 finalUrl: 'https://naturalface.com.hk/'
 reachable: true

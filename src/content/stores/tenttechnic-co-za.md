@@ -1,10 +1,10 @@
 ---
 domain: tenttechnic.co.za
 slug: tenttechnic-co-za
-title: Is tenttechnic.co.za Legit? Trust Signal Check
+title: Is tenttechnic.co.za Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for tenttechnic.co.za: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tenttechnic.co.za scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:19:21.279Z'
 finalUrl: 'https://tenttechnic.co.za/'
 reachable: true

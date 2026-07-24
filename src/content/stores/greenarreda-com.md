@@ -1,10 +1,10 @@
 ---
 domain: greenarreda.com
 slug: greenarreda-com
-title: Is greenarreda.com Legit? Trust Signal Check
+title: Is greenarreda.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for greenarreda.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  greenarreda.com scores 76/100 on our public trust checks. Established domain —
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:56:02.854Z'
 finalUrl: 'https://www.greenarreda.com/'
 reachable: true

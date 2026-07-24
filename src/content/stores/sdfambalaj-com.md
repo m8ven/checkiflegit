@@ -1,10 +1,10 @@
 ---
 domain: sdfambalaj.com
 slug: sdfambalaj-com
-title: Is sdfambalaj.com Legit? Trust Signal Check
+title: Is sdfambalaj.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for sdfambalaj.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sdfambalaj.com scores 70/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:20.028Z'
 finalUrl: 'https://sdfambalaj.com/'
 reachable: true

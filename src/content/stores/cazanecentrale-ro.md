@@ -1,10 +1,10 @@
 ---
 domain: cazanecentrale.ro
 slug: cazanecentrale-ro
-title: Is cazanecentrale.ro Legit? Trust Signal Check
+title: Is cazanecentrale.ro Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for cazanecentrale.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cazanecentrale.ro scores 76/100 on our public trust checks. Established domain
+  — registered 11 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:46.814Z'
 finalUrl: 'https://www.cazanecentrale.ro/'
 reachable: true

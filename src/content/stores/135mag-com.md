@@ -1,10 +1,10 @@
 ---
 domain: 135mag.com
 slug: 135mag-com
-title: Is 135mag.com Legit? Trust Signal Check
+title: Is 135mag.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 135mag.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  135mag.com scores 88/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:25.694Z'
 finalUrl: 'https://135mag.com/'
 reachable: true

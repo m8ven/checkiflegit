@@ -1,10 +1,10 @@
 ---
 domain: upperdeck.com
 slug: upperdeck-com
-title: Is upperdeck.com Legit? Trust Signal Check
+title: Is upperdeck.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for upperdeck.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  upperdeck.com scores 70/100 on our public trust checks. Established domain —
+  registered 31.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:51.926Z'
 finalUrl: 'https://upperdeck.com/'
 reachable: true

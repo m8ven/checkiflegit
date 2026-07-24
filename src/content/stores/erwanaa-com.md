@@ -1,10 +1,10 @@
 ---
 domain: erwanaa.com
 slug: erwanaa-com
-title: Is erwanaa.com Legit? Trust Signal Check
+title: Is erwanaa.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for erwanaa.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  erwanaa.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage. Domain is relatively young.
 fetchedAt: '2026-06-25T03:29:47.121Z'
 finalUrl: 'https://erwanaa.com/'
 reachable: true

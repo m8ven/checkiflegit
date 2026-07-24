@@ -1,10 +1,10 @@
 ---
 domain: billiton-service.ru
 slug: billiton-service-ru
-title: Is billiton-service.ru Legit? Trust Signal Check
+title: Is billiton-service.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for billiton-service.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  billiton-service.ru scores 73/100 on our public trust checks. Established
+  domain — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:41.785Z'
 finalUrl: 'https://billiton-service.ru/'
 reachable: true

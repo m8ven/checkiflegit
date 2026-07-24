@@ -1,10 +1,10 @@
 ---
 domain: coyotelearner.net
 slug: coyotelearner-net
-title: Is coyotelearner.net Legit? Trust Signal Check
+title: Is coyotelearner.net Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for coyotelearner.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  coyotelearner.net scores 70/100 on our public trust checks. Established domain
+  — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:15.963Z'
 finalUrl: 'https://coyotelearner.net/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jcdiywholesale.com
 slug: jcdiywholesale-com
-title: Is jcdiywholesale.com Legit? Trust Signal Check
+title: Is jcdiywholesale.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for jcdiywholesale.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jcdiywholesale.com scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:39:09.574Z'
 finalUrl: 'https://jcdiywholesale.com/'
 reachable: true

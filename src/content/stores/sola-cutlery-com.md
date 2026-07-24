@@ -1,10 +1,10 @@
 ---
 domain: sola-cutlery.com
 slug: sola-cutlery-com
-title: Is sola-cutlery.com Legit? Trust Signal Check
+title: Is sola-cutlery.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for sola-cutlery.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  sola-cutlery.com scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T15:09:31.703Z'
 finalUrl: 'https://sola-cutlery.com/'
 reachable: true

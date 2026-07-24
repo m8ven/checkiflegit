@@ -1,10 +1,10 @@
 ---
 domain: repp-mundt.com
 slug: repp-mundt-com
-title: Is repp-mundt.com Legit? Trust Signal Check
+title: Is repp-mundt.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for repp-mundt.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  repp-mundt.com scores 73/100 on our public trust checks. Established domain —
+  registered 22.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:23.277Z'
 finalUrl: 'http://www.repp-mundt.com/'
 reachable: true

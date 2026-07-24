@@ -1,10 +1,10 @@
 ---
 domain: pdsoptical.com
 slug: pdsoptical-com
-title: Is pdsoptical.com Legit? Trust Signal Check
+title: Is pdsoptical.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for pdsoptical.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pdsoptical.com scores 94/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:44.789Z'
 finalUrl: 'https://pdsoptical.com/'
 reachable: true

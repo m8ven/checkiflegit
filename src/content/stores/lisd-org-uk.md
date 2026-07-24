@@ -1,10 +1,10 @@
 ---
 domain: lisd.org.uk
 slug: lisd-org-uk
-title: Is lisd.org.uk Legit? Trust Signal Check
+title: Is lisd.org.uk Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for lisd.org.uk: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  lisd.org.uk scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage. Domain is relatively young.
 fetchedAt: '2026-06-25T15:20:06.095Z'
 finalUrl: 'https://lisd.org.uk/'
 reachable: true

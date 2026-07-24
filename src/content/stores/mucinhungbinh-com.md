@@ -1,10 +1,10 @@
 ---
 domain: mucinhungbinh.com
 slug: mucinhungbinh-com
-title: Is mucinhungbinh.com Legit? Trust Signal Check
+title: Is mucinhungbinh.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for mucinhungbinh.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mucinhungbinh.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:56:45.595Z'
 finalUrl: 'https://mucinhungbinh.com/'
 reachable: true

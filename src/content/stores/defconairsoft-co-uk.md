@@ -1,10 +1,10 @@
 ---
 domain: defconairsoft.co.uk
 slug: defconairsoft-co-uk
-title: Is defconairsoft.co.uk Legit? Trust Signal Check
+title: Is defconairsoft.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for defconairsoft.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  defconairsoft.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:49.788Z'
 finalUrl: 'https://www.defconairsoft.co.uk/'
 reachable: true

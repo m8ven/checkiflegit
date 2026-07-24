@@ -1,10 +1,10 @@
 ---
 domain: simpleturf.com
 slug: simpleturf-com
-title: Is simpleturf.com Legit? Trust Signal Check
+title: Is simpleturf.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for simpleturf.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  simpleturf.com scores 82/100 on our public trust checks. Established domain —
+  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:19.461Z'
 finalUrl: 'https://simpleturf.com/'
 reachable: true

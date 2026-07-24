@@ -1,10 +1,10 @@
 ---
 domain: xgo.dk
 slug: xgo-dk
-title: Is xgo.dk Legit? Trust Signal Check
+title: Is xgo.dk Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for xgo.dk: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  xgo.dk scores 70/100 on our public trust checks. Established domain —
+  registered 18.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:39.189Z'
 finalUrl: 'https://xgo.dk/'
 reachable: true

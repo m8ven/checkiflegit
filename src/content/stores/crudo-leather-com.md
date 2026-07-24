@@ -1,10 +1,10 @@
 ---
 domain: crudo-leather.com
 slug: crudo-leather-com
-title: Is crudo-leather.com Legit? Trust Signal Check
+title: Is crudo-leather.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for crudo-leather.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  crudo-leather.com scores 70/100 on our public trust checks. Established domain
+  — registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:07:46.482Z'
 finalUrl: 'https://crudo-leather.com/'
 reachable: true

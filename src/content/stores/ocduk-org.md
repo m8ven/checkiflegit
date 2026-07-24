@@ -1,10 +1,10 @@
 ---
 domain: ocduk.org
 slug: ocduk-org
-title: Is ocduk.org Legit? Trust Signal Check
+title: Is ocduk.org Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ocduk.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ocduk.org scores 100/100 on our public trust checks. Established domain —
+  registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:03.992Z'
 finalUrl: 'https://www.ocduk.org/'
 reachable: true

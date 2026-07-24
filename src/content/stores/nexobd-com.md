@@ -1,10 +1,10 @@
 ---
 domain: nexobd.com
 slug: nexobd-com
-title: Is nexobd.com Legit? Trust Signal Check
+title: Is nexobd.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for nexobd.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  nexobd.com scores 43/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:55:01.637Z'
 finalUrl: 'https://nexobd.com/'
 reachable: true

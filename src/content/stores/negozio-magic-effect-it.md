@@ -1,10 +1,10 @@
 ---
 domain: negozio-magic-effect.it
 slug: negozio-magic-effect-it
-title: Is negozio-magic-effect.it Legit? Trust Signal Check
+title: Is negozio-magic-effect.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for negozio-magic-effect.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  negozio-magic-effect.it scores 100/100 on our public trust checks. Established
+  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:53.989Z'
 finalUrl: 'https://www.negozio-magic-effect.it/'
 reachable: true

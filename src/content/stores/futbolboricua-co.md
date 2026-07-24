@@ -1,10 +1,10 @@
 ---
 domain: futbolboricua.co
 slug: futbolboricua-co
-title: Is futbolboricua.co Legit? Trust Signal Check
+title: Is futbolboricua.co Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for futbolboricua.co: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  futbolboricua.co scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:44:02.436Z'
 finalUrl: 'https://futbolboricua.co/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: musique-liturgique.com
 slug: musique-liturgique-com
-title: Is musique-liturgique.com Legit? Trust Signal Check
+title: Is musique-liturgique.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for musique-liturgique.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  musique-liturgique.com scores 82/100 on our public trust checks. Established
+  domain — registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:04.893Z'
 finalUrl: 'https://www.musique-liturgique.com/'
 reachable: true

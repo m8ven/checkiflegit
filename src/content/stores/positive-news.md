@@ -1,10 +1,10 @@
 ---
 domain: positive.news
 slug: positive-news
-title: Is positive.news Legit? Trust Signal Check
+title: Is positive.news Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for positive.news: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  positive.news scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:15.820Z'
 finalUrl: 'https://www.positive.news/'
 reachable: true

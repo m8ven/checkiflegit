@@ -1,10 +1,10 @@
 ---
 domain: kaitlynroseco.com
 slug: kaitlynroseco-com
-title: Is kaitlynroseco.com Legit? Trust Signal Check
+title: Is kaitlynroseco.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for kaitlynroseco.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kaitlynroseco.com scores 85/100 on our public trust checks. Established domain
+  — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:24.560Z'
 finalUrl: 'https://kaitlynroseco.com/'
 reachable: true

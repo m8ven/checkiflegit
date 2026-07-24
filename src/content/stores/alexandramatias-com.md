@@ -1,10 +1,10 @@
 ---
 domain: alexandramatias.com
 slug: alexandramatias-com
-title: Is alexandramatias.com Legit? Trust Signal Check
+title: Is alexandramatias.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for alexandramatias.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alexandramatias.com scores 100/100 on our public trust checks. Established
+  domain — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:17:33.931Z'
 finalUrl: 'https://alexandramatias.com/'
 reachable: true

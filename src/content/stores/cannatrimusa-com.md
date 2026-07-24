@@ -1,10 +1,10 @@
 ---
 domain: cannatrimusa.com
 slug: cannatrimusa-com
-title: Is cannatrimusa.com Legit? Trust Signal Check
+title: Is cannatrimusa.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cannatrimusa.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cannatrimusa.com scores 88/100 on our public trust checks. Established domain
+  — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:30.593Z'
 finalUrl: 'https://www.cannatrimusa.com/'
 reachable: true

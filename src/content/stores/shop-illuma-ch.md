@@ -1,10 +1,10 @@
 ---
 domain: shop.illuma.ch
 slug: shop-illuma-ch
-title: Is shop.illuma.ch Legit? Trust Signal Check
+title: Is shop.illuma.ch Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for shop.illuma.ch: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.illuma.ch scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:37:37.271Z'
 finalUrl: 'https://shop.illuma.ch/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ypk23.com
 slug: ypk23-com
-title: Is ypk23.com Legit? Trust Signal Check
+title: Is ypk23.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ypk23.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ypk23.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:29:54.266Z'
 finalUrl: 'https://ypk23.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gilet-chauffant.net
 slug: gilet-chauffant-net
-title: Is gilet-chauffant.net Legit? Trust Signal Check
+title: Is gilet-chauffant.net Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for gilet-chauffant.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gilet-chauffant.net scores 73/100 on our public trust checks. Established
+  domain — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:35.085Z'
 finalUrl: 'https://www.gilet-chauffant.net/'
 reachable: true

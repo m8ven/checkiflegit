@@ -1,10 +1,11 @@
 ---
 domain: thekorecostumerentals.com
 slug: thekorecostumerentals-com
-title: Is thekorecostumerentals.com Legit? Trust Signal Check
+title: Is thekorecostumerentals.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for thekorecostumerentals.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thekorecostumerentals.com scores 70/100 on our public trust checks.
+  Established domain — registered 1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:27:30.490Z'
 finalUrl: 'https://www.thekorecostumerentals.com/'
 reachable: true

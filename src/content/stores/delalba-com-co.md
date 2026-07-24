@@ -1,10 +1,10 @@
 ---
 domain: delalba.com.co
 slug: delalba-com-co
-title: Is delalba.com.co Legit? Trust Signal Check
+title: Is delalba.com.co Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for delalba.com.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  delalba.com.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:24:29.046Z'
 finalUrl: 'https://delalba.com.co/'
 reachable: true

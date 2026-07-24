@@ -1,10 +1,10 @@
 ---
 domain: kasablanka-gloves.ru
 slug: kasablanka-gloves-ru
-title: Is kasablanka-gloves.ru Legit? Trust Signal Check
+title: Is kasablanka-gloves.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for kasablanka-gloves.ru: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kasablanka-gloves.ru scores 73/100 on our public trust checks. Established
+  domain — registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:36.035Z'
 finalUrl: 'https://kasablanka-gloves.ru/'
 reachable: true

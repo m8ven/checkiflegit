@@ -1,10 +1,10 @@
 ---
 domain: desmocleaning.co.ke
 slug: desmocleaning-co-ke
-title: Is desmocleaning.co.ke Legit? Trust Signal Check
+title: Is desmocleaning.co.ke Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for desmocleaning.co.ke: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  desmocleaning.co.ke scores 88/100 on our public trust checks. Established
+  domain — registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:09.907Z'
 finalUrl: 'https://desmocleaning.co.ke/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: borisuns.com
 slug: borisuns-com
-title: Is borisuns.com Legit? Trust Signal Check
+title: Is borisuns.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for borisuns.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  borisuns.com scores 73/100 on our public trust checks. Established domain —
+  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:09.489Z'
 finalUrl: 'https://www.borisuns.com/'
 reachable: true

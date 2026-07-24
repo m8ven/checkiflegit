@@ -1,10 +1,10 @@
 ---
 domain: portal.petrich.bg
 slug: portal-petrich-bg
-title: Is portal.petrich.bg Legit? Trust Signal Check
+title: Is portal.petrich.bg Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for portal.petrich.bg: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  portal.petrich.bg scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T14:48:37.532Z'
 finalUrl: 'https://portal.petrich.bg/'
 reachable: true

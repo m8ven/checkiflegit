@@ -1,10 +1,10 @@
 ---
 domain: bcstore.bcoredisc.com
 slug: bcstore-bcoredisc-com
-title: Is bcstore.bcoredisc.com Legit? Trust Signal Check
+title: Is bcstore.bcoredisc.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bcstore.bcoredisc.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bcstore.bcoredisc.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:00.640Z'
 finalUrl: 'https://bcstore.bcoredisc.com/'
 reachable: true

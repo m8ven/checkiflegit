@@ -1,10 +1,10 @@
 ---
 domain: essende.lt
 slug: essende-lt
-title: Is essende.lt Legit? Trust Signal Check
+title: Is essende.lt Legit? Trust Score 46/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for essende.lt: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  essende.lt scores 46/100 on our public trust checks. Standard contact and
+  policy pages were not found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:47:02.892Z'
 finalUrl: 'https://www.essende.lt/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: vickisamishtraditions.com
 slug: vickisamishtraditions-com
-title: Is vickisamishtraditions.com Legit? Trust Signal Check
+title: Is vickisamishtraditions.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for vickisamishtraditions.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  vickisamishtraditions.com scores 88/100 on our public trust checks.
+  Established domain — registered 7.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:11:11.771Z'
 finalUrl: 'https://vickisamishtraditions.com/'
 reachable: true

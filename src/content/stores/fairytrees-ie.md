@@ -1,10 +1,10 @@
 ---
 domain: fairytrees.ie
 slug: fairytrees-ie
-title: Is fairytrees.ie Legit? Trust Signal Check
+title: Is fairytrees.ie Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for fairytrees.ie: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fairytrees.ie scores 70/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:58:08.684Z'
 finalUrl: 'https://www.fairytrees.ie/'
 reachable: true

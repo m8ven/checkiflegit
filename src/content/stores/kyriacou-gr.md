@@ -1,10 +1,10 @@
 ---
 domain: kyriacou.gr
 slug: kyriacou-gr
-title: Is kyriacou.gr Legit? Trust Signal Check
+title: Is kyriacou.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kyriacou.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kyriacou.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:55:20.557Z'
 finalUrl: 'https://kyriacou.gr/'
 reachable: true

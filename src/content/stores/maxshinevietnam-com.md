@@ -1,10 +1,10 @@
 ---
 domain: maxshinevietnam.com
 slug: maxshinevietnam-com
-title: Is maxshinevietnam.com Legit? Trust Signal Check
+title: Is maxshinevietnam.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for maxshinevietnam.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  maxshinevietnam.com scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:57:25.384Z'
 finalUrl: 'https://maxshinevietnam.com/'
 reachable: true

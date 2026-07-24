@@ -1,10 +1,10 @@
 ---
 domain: hojademonte.com.ar
 slug: hojademonte-com-ar
-title: Is hojademonte.com.ar Legit? Trust Signal Check
+title: Is hojademonte.com.ar Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for hojademonte.com.ar: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  hojademonte.com.ar scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T11:56:35.631Z'
 finalUrl: 'https://hojademonte.com.ar/'
 reachable: true

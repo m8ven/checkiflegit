@@ -1,10 +1,10 @@
 ---
 domain: palestraweb.com
 slug: palestraweb-com
-title: Is palestraweb.com Legit? Trust Signal Check
+title: Is palestraweb.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for palestraweb.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  palestraweb.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:46:59.986Z'
 finalUrl: 'https://palestraweb.com/'
 reachable: true

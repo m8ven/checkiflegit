@@ -1,10 +1,10 @@
 ---
 domain: azaharagimeno.com
 slug: azaharagimeno-com
-title: Is azaharagimeno.com Legit? Trust Signal Check
+title: Is azaharagimeno.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for azaharagimeno.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  azaharagimeno.com scores 100/100 on our public trust checks. Established
+  domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:45.078Z'
 finalUrl: 'https://www.azaharagimeno.com/'
 reachable: true

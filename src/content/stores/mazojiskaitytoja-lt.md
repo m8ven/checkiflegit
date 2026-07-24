@@ -1,10 +1,10 @@
 ---
 domain: mazojiskaitytoja.lt
 slug: mazojiskaitytoja-lt
-title: Is mazojiskaitytoja.lt Legit? Trust Signal Check
+title: Is mazojiskaitytoja.lt Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mazojiskaitytoja.lt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mazojiskaitytoja.lt scores 88/100 on our public trust checks. Established
+  domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:45.148Z'
 finalUrl: 'https://mazojiskaitytoja.lt/'
 reachable: true

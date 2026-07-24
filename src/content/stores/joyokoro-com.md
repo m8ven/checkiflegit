@@ -1,10 +1,10 @@
 ---
 domain: joyokoro.com
 slug: joyokoro-com
-title: Is joyokoro.com Legit? Trust Signal Check
+title: Is joyokoro.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for joyokoro.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  joyokoro.com scores 82/100 on our public trust checks. Established domain —
+  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:09.983Z'
 finalUrl: 'https://joyokoro.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vanhavertotgort.nl
 slug: vanhavertotgort-nl
-title: Is vanhavertotgort.nl Legit? Trust Signal Check
+title: Is vanhavertotgort.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for vanhavertotgort.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vanhavertotgort.nl scores 82/100 on our public trust checks. Established
+  domain — registered 21.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:55.626Z'
 finalUrl: 'https://vanhavertotgort.nl/'
 reachable: true

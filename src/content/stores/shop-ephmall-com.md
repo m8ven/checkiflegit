@@ -1,10 +1,10 @@
 ---
 domain: shop.ephmall.com
 slug: shop-ephmall-com
-title: Is shop.ephmall.com Legit? Trust Signal Check
+title: Is shop.ephmall.com Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for shop.ephmall.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.ephmall.com scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:10:18.015Z'
 finalUrl: 'https://shop.ephmall.com/'
 reachable: true

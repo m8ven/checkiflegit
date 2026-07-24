@@ -1,10 +1,10 @@
 ---
 domain: tabletsdeal.nl
 slug: tabletsdeal-nl
-title: Is tabletsdeal.nl Legit? Trust Signal Check
+title: Is tabletsdeal.nl Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for tabletsdeal.nl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  tabletsdeal.nl scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:46:56.334Z'
 finalUrl: 'https://tabletsdeal.nl/'
 reachable: true

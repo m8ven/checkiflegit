@@ -1,10 +1,10 @@
 ---
 domain: elstore.by
 slug: elstore-by
-title: Is elstore.by Legit? Trust Signal Check
+title: Is elstore.by Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for elstore.by: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  elstore.by scores 82/100 on our public trust checks. Established domain —
+  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:12.759Z'
 finalUrl: 'https://elstore.by/'
 reachable: true

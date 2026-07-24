@@ -1,10 +1,10 @@
 ---
 domain: gooshtiran.com
 slug: gooshtiran-com
-title: Is gooshtiran.com Legit? Trust Signal Check
+title: Is gooshtiran.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for gooshtiran.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gooshtiran.com scores 73/100 on our public trust checks. Established domain —
+  registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:46.736Z'
 finalUrl: 'https://gooshtiran.com/'
 reachable: true

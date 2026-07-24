@@ -1,10 +1,10 @@
 ---
 domain: gylobeauty.de
 slug: gylobeauty-de
-title: Is gylobeauty.de Legit? Trust Signal Check
+title: Is gylobeauty.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for gylobeauty.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gylobeauty.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:59:39.988Z'
 finalUrl: 'https://www.gylobeauty.de/'
 reachable: true

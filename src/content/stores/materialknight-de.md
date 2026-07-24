@@ -1,10 +1,10 @@
 ---
 domain: materialknight.de
 slug: materialknight-de
-title: Is materialknight.de Legit? Trust Signal Check
+title: Is materialknight.de Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for materialknight.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  materialknight.de scores 49/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T15:09:35.060Z'
 finalUrl: 'https://materialknight.de/'
 reachable: true

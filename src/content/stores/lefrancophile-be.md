@@ -1,10 +1,10 @@
 ---
 domain: lefrancophile.be
 slug: lefrancophile-be
-title: Is lefrancophile.be Legit? Trust Signal Check
+title: Is lefrancophile.be Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for lefrancophile.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lefrancophile.be scores 73/100 on our public trust checks. Established domain
+  — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:15.399Z'
 finalUrl: 'https://lefrancophile.be/'
 reachable: true

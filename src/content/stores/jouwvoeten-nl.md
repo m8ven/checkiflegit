@@ -1,10 +1,10 @@
 ---
 domain: jouwvoeten.nl
 slug: jouwvoeten-nl
-title: Is jouwvoeten.nl Legit? Trust Signal Check
+title: Is jouwvoeten.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for jouwvoeten.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jouwvoeten.nl scores 88/100 on our public trust checks. Established domain —
+  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:43.838Z'
 finalUrl: 'https://jouwvoeten.nl/'
 reachable: true

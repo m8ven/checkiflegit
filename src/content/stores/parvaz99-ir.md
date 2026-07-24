@@ -1,10 +1,10 @@
 ---
 domain: parvaz99.ir
 slug: parvaz99-ir
-title: Is parvaz99.ir Legit? Trust Signal Check
+title: Is parvaz99.ir Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for parvaz99.ir: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  parvaz99.ir scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:28:27.265Z'
 finalUrl: 'https://parvaz99.ir/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tienda.manezylozano.com
 slug: tienda-manezylozano-com
-title: Is tienda.manezylozano.com Legit? Trust Signal Check
+title: Is tienda.manezylozano.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for tienda.manezylozano.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tienda.manezylozano.com scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:23:33.478Z'
 finalUrl: 'https://tienda.manezylozano.com/'
 reachable: true

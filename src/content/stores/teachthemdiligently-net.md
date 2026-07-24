@@ -1,10 +1,10 @@
 ---
 domain: teachthemdiligently.net
 slug: teachthemdiligently-net
-title: Is teachthemdiligently.net Legit? Trust Signal Check
+title: Is teachthemdiligently.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for teachthemdiligently.net: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  teachthemdiligently.net scores 100/100 on our public trust checks. Established
+  domain — registered 15 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:39.349Z'
 finalUrl: 'https://teachthemdiligently.net/'
 reachable: true

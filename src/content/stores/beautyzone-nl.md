@@ -1,10 +1,10 @@
 ---
 domain: beautyzone.nl
 slug: beautyzone-nl
-title: Is beautyzone.nl Legit? Trust Signal Check
+title: Is beautyzone.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for beautyzone.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beautyzone.nl scores 88/100 on our public trust checks. Established domain —
+  registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:04.472Z'
 finalUrl: 'https://www.beautyzone.nl/'
 reachable: true

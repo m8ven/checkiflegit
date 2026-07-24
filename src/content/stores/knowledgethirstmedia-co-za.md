@@ -1,10 +1,11 @@
 ---
 domain: knowledgethirstmedia.co.za
 slug: knowledgethirstmedia-co-za
-title: Is knowledgethirstmedia.co.za Legit? Trust Signal Check
+title: Is knowledgethirstmedia.co.za Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for knowledgethirstmedia.co.za: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  knowledgethirstmedia.co.za scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:46:26.131Z'
 finalUrl: 'https://knowledgethirstmedia.co.za/'
 reachable: true

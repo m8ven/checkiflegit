@@ -1,10 +1,10 @@
 ---
 domain: rodgersfishingtackle.com
 slug: rodgersfishingtackle-com
-title: Is rodgersfishingtackle.com Legit? Trust Signal Check
+title: Is rodgersfishingtackle.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for rodgersfishingtackle.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rodgersfishingtackle.com scores 82/100 on our public trust checks. Established
+  domain — registered 21.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:09.915Z'
 finalUrl: 'https://rodgersfishingtackle.com/'
 reachable: true

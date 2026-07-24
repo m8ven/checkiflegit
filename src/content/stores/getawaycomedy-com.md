@@ -1,10 +1,10 @@
 ---
 domain: getawaycomedy.com
 slug: getawaycomedy-com
-title: Is getawaycomedy.com Legit? Trust Signal Check
+title: Is getawaycomedy.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for getawaycomedy.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  getawaycomedy.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:52:20.390Z'
 finalUrl: 'https://getawaycomedy.com/'
 reachable: true

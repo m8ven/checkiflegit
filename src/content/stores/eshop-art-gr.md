@@ -1,10 +1,10 @@
 ---
 domain: eshop-art.gr
 slug: eshop-art-gr
-title: Is eshop-art.gr Legit? Trust Signal Check
+title: Is eshop-art.gr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for eshop-art.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  eshop-art.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:43:46.459Z'
 finalUrl: 'https://eshop-art.gr/'
 reachable: true

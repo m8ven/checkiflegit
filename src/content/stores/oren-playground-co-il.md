@@ -1,10 +1,10 @@
 ---
 domain: oren-playground.co.il
 slug: oren-playground-co-il
-title: Is oren-playground.co.il Legit? Trust Signal Check
+title: Is oren-playground.co.il Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for oren-playground.co.il: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  oren-playground.co.il scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:24:27.035Z'
 finalUrl: 'https://oren-playground.co.il/'
 reachable: true

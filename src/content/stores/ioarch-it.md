@@ -1,10 +1,10 @@
 ---
 domain: ioarch.it
 slug: ioarch-it
-title: Is ioarch.it Legit? Trust Signal Check
+title: Is ioarch.it Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ioarch.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ioarch.it scores 100/100 on our public trust checks. Established domain —
+  registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:38:10.988Z'
 finalUrl: 'https://ioarch.it/'
 reachable: true

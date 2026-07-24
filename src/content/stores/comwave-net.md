@@ -1,10 +1,10 @@
 ---
 domain: comwave.net
 slug: comwave-net
-title: Is comwave.net Legit? Trust Signal Check
+title: Is comwave.net Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for comwave.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  comwave.net scores 88/100 on our public trust checks. Established domain —
+  registered 24 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:37.397Z'
 finalUrl: 'https://www.comwave.net/residential/'
 reachable: true

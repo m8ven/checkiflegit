@@ -1,10 +1,10 @@
 ---
 domain: swissmiss.pk
 slug: swissmiss-pk
-title: Is swissmiss.pk Legit? Trust Signal Check
+title: Is swissmiss.pk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for swissmiss.pk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  swissmiss.pk scores 88/100 on our public trust checks. Established domain —
+  registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:08.930Z'
 finalUrl: 'https://swissmiss.pk/'
 reachable: true

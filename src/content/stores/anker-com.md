@@ -1,10 +1,10 @@
 ---
 domain: anker.com
 slug: anker-com
-title: Is anker.com Legit? Trust Signal Check
+title: Is anker.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for anker.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  anker.com scores 100/100 on our public trust checks. Established domain —
+  registered 30.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:23.881Z'
 finalUrl: 'https://www.anker.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: luxphysicaltherapy.com
 slug: luxphysicaltherapy-com
-title: Is luxphysicaltherapy.com Legit? Trust Signal Check
+title: Is luxphysicaltherapy.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for luxphysicaltherapy.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  luxphysicaltherapy.com scores 88/100 on our public trust checks. Established
+  domain — registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:27:11.611Z'
 finalUrl: 'https://www.luxphysicaltherapy.com/'
 reachable: true

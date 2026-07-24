@@ -1,10 +1,10 @@
 ---
 domain: suncoastwellness.ca
 slug: suncoastwellness-ca
-title: Is suncoastwellness.ca Legit? Trust Signal Check
+title: Is suncoastwellness.ca Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for suncoastwellness.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  suncoastwellness.ca scores 70/100 on our public trust checks. Established
+  domain — registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:13.815Z'
 finalUrl: 'https://suncoastwellness.ca/'
 reachable: true

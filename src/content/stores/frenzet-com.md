@@ -1,10 +1,10 @@
 ---
 domain: frenzet.com
 slug: frenzet-com
-title: Is frenzet.com Legit? Trust Signal Check
+title: Is frenzet.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for frenzet.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  frenzet.com scores 100/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:23.977Z'
 finalUrl: 'https://frenzet.com/'
 reachable: true

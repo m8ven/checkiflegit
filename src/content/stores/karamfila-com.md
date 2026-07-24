@@ -1,10 +1,10 @@
 ---
 domain: karamfila.com
 slug: karamfila-com
-title: Is karamfila.com Legit? Trust Signal Check
+title: Is karamfila.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for karamfila.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  karamfila.com scores 100/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:07.404Z'
 finalUrl: 'https://karamfila.com/'
 reachable: true

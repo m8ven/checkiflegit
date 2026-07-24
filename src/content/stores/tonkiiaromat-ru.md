@@ -1,10 +1,10 @@
 ---
 domain: tonkiiaromat.ru
 slug: tonkiiaromat-ru
-title: Is tonkiiaromat.ru Legit? Trust Signal Check
+title: Is tonkiiaromat.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for tonkiiaromat.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  tonkiiaromat.ru scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:48:25.302Z'
 finalUrl: 'https://tonkiiaromat.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ladysewandsew.co.uk
 slug: ladysewandsew-co-uk
-title: Is ladysewandsew.co.uk Legit? Trust Signal Check
+title: Is ladysewandsew.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ladysewandsew.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ladysewandsew.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 25.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:33.011Z'
 finalUrl: 'https://ladysewandsew.co.uk/'
 reachable: true

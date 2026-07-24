@@ -1,10 +1,10 @@
 ---
 domain: fr.fidiapharmashop.com
 slug: fr-fidiapharmashop-com
-title: Is fr.fidiapharmashop.com Legit? Trust Signal Check
+title: Is fr.fidiapharmashop.com Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for fr.fidiapharmashop.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fr.fidiapharmashop.com scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:38.880Z'
 finalUrl: 'https://fr.fidiapharmashop.com/'
 reachable: true

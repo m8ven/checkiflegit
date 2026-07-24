@@ -1,10 +1,10 @@
 ---
 domain: teglarium.com
 slug: teglarium-com
-title: Is teglarium.com Legit? Trust Signal Check
+title: Is teglarium.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for teglarium.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  teglarium.com scores 70/100 on our public trust checks. Established domain —
+  registered 20.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:15.927Z'
 finalUrl: 'https://teglarium.com/'
 reachable: true

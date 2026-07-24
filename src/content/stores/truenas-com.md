@@ -1,10 +1,10 @@
 ---
 domain: truenas.com
 slug: truenas-com
-title: Is truenas.com Legit? Trust Signal Check
+title: Is truenas.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for truenas.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  truenas.com scores 100/100 on our public trust checks. Established domain —
+  registered 15 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:44.567Z'
 finalUrl: 'https://www.truenas.com/'
 reachable: true

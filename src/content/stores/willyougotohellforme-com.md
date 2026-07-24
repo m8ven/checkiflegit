@@ -1,10 +1,10 @@
 ---
 domain: willyougotohellforme.com
 slug: willyougotohellforme-com
-title: Is willyougotohellforme.com Legit? Trust Signal Check
+title: Is willyougotohellforme.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for willyougotohellforme.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  willyougotohellforme.com scores 88/100 on our public trust checks. Established
+  domain — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:09.539Z'
 finalUrl: 'https://willyougotohellforme.com/'
 reachable: true

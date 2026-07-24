@@ -1,10 +1,10 @@
 ---
 domain: studiocumbre.com
 slug: studiocumbre-com
-title: Is studiocumbre.com Legit? Trust Signal Check
+title: Is studiocumbre.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for studiocumbre.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  studiocumbre.com scores 94/100 on our public trust checks. Established domain
+  — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:04.556Z'
 finalUrl: 'https://studiocumbre.com/'
 reachable: true

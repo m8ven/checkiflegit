@@ -1,10 +1,10 @@
 ---
 domain: johnharmerstudio.com
 slug: johnharmerstudio-com
-title: Is johnharmerstudio.com Legit? Trust Signal Check
+title: Is johnharmerstudio.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for johnharmerstudio.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  johnharmerstudio.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:03:42.560Z'
 finalUrl: 'https://johnharmerstudio.com/'
 reachable: true

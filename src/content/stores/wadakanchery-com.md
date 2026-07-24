@@ -1,10 +1,10 @@
 ---
 domain: wadakanchery.com
 slug: wadakanchery-com
-title: Is wadakanchery.com Legit? Trust Signal Check
+title: Is wadakanchery.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for wadakanchery.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wadakanchery.com scores 70/100 on our public trust checks. Established domain
+  — registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:25.468Z'
 finalUrl: 'https://wadakanchery.com/'
 reachable: true

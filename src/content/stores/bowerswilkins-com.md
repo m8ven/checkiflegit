@@ -1,10 +1,10 @@
 ---
 domain: bowerswilkins.com
 slug: bowerswilkins-com
-title: Is bowerswilkins.com Legit? Trust Signal Check
+title: Is bowerswilkins.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bowerswilkins.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bowerswilkins.com scores 100/100 on our public trust checks. Established
+  domain — registered 25.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:28.775Z'
 finalUrl: 'https://www.bowerswilkins.com/en-us/'
 reachable: true

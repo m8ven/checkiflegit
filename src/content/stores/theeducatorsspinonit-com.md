@@ -1,10 +1,10 @@
 ---
 domain: theeducatorsspinonit.com
 slug: theeducatorsspinonit-com
-title: Is theeducatorsspinonit.com Legit? Trust Signal Check
+title: Is theeducatorsspinonit.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for theeducatorsspinonit.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  theeducatorsspinonit.com scores 58/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:43:19.421Z'
 finalUrl: 'https://theeducatorsspinonit.com/'
 reachable: true

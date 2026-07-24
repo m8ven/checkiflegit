@@ -1,10 +1,10 @@
 ---
 domain: drogueriasfarmavida.com
 slug: drogueriasfarmavida-com
-title: Is drogueriasfarmavida.com Legit? Trust Signal Check
+title: Is drogueriasfarmavida.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for drogueriasfarmavida.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  drogueriasfarmavida.com scores 100/100 on our public trust checks. Established
+  domain — registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:35.450Z'
 finalUrl: 'https://drogueriasfarmavida.com/'
 reachable: true

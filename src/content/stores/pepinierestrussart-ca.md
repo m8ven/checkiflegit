@@ -1,10 +1,10 @@
 ---
 domain: pepinierestrussart.ca
 slug: pepinierestrussart-ca
-title: Is pepinierestrussart.ca Legit? Trust Signal Check
+title: Is pepinierestrussart.ca Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for pepinierestrussart.ca: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pepinierestrussart.ca scores 88/100 on our public trust checks. Established
+  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:05.457Z'
 finalUrl: 'https://pepinierestrussart.ca/'
 reachable: true

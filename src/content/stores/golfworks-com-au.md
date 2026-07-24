@@ -1,10 +1,10 @@
 ---
 domain: golfworks.com.au
 slug: golfworks-com-au
-title: Is golfworks.com.au Legit? Trust Signal Check
+title: Is golfworks.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for golfworks.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  golfworks.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:53:41.459Z'
 finalUrl: 'https://golfworks.com.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sportalm-online-shop.de
 slug: sportalm-online-shop-de
-title: Is sportalm-online-shop.de Legit? Trust Signal Check
+title: Is sportalm-online-shop.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sportalm-online-shop.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sportalm-online-shop.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:30.070Z'
 finalUrl: 'https://sportalm-online-shop.de/'
 reachable: true

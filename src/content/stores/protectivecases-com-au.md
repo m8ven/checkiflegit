@@ -1,10 +1,10 @@
 ---
 domain: protectivecases.com.au
 slug: protectivecases-com-au
-title: Is protectivecases.com.au Legit? Trust Signal Check
+title: Is protectivecases.com.au Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for protectivecases.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  protectivecases.com.au scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:39:25.053Z'
 finalUrl: 'https://protectivecases.com.au/'
 reachable: true

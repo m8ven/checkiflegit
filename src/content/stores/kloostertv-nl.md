@@ -1,10 +1,10 @@
 ---
 domain: kloostertv.nl
 slug: kloostertv-nl
-title: Is kloostertv.nl Legit? Trust Signal Check
+title: Is kloostertv.nl Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kloostertv.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kloostertv.nl scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:40:47.735Z'
 finalUrl: 'https://kloostertv.nl/'
 reachable: true

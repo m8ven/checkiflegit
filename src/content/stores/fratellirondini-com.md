@@ -1,10 +1,10 @@
 ---
 domain: fratellirondini.com
 slug: fratellirondini-com
-title: Is fratellirondini.com Legit? Trust Signal Check
+title: Is fratellirondini.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fratellirondini.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fratellirondini.com scores 100/100 on our public trust checks. Established
+  domain — registered 23.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:23.091Z'
 finalUrl: 'https://www.fratellirondini.com/'
 reachable: true

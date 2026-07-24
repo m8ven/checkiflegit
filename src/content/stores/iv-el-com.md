@@ -1,10 +1,10 @@
 ---
 domain: iv-el.com
 slug: iv-el-com
-title: Is iv-el.com Legit? Trust Signal Check
+title: Is iv-el.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for iv-el.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  iv-el.com scores 85/100 on our public trust checks. Established domain —
+  registered 20 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:20:17.158Z'
 finalUrl: 'https://www.iv-el.com/'
 reachable: true

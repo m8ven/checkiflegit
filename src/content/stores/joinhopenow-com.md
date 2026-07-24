@@ -1,10 +1,10 @@
 ---
 domain: joinhopenow.com
 slug: joinhopenow-com
-title: Is joinhopenow.com Legit? Trust Signal Check
+title: Is joinhopenow.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for joinhopenow.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  joinhopenow.com scores 70/100 on our public trust checks. Established domain —
+  registered 6.2 years ago. Maintains links to multiple social media platforms.
 fetchedAt: '2026-06-25T03:00:59.726Z'
 finalUrl: 'https://www.joinhopenow.com/'
 reachable: true

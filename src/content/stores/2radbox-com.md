@@ -1,10 +1,10 @@
 ---
 domain: 2radbox.com
 slug: 2radbox-com
-title: Is 2radbox.com Legit? Trust Signal Check
+title: Is 2radbox.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 2radbox.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  2radbox.com scores 82/100 on our public trust checks. Established domain —
+  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:52.017Z'
 finalUrl: 'https://2radbox.com/'
 reachable: true

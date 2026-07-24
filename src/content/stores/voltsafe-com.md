@@ -1,10 +1,10 @@
 ---
 domain: voltsafe.com
 slug: voltsafe-com
-title: Is voltsafe.com Legit? Trust Signal Check
+title: Is voltsafe.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for voltsafe.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  voltsafe.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:55:48.402Z'
 finalUrl: 'https://voltsafe.com/'
 reachable: true

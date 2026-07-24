@@ -1,10 +1,10 @@
 ---
 domain: hellomonaco.com
 slug: hellomonaco-com
-title: Is hellomonaco.com Legit? Trust Signal Check
+title: Is hellomonaco.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hellomonaco.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hellomonaco.com scores 100/100 on our public trust checks. Established domain
+  — registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:54.732Z'
 finalUrl: 'https://www.hellomonaco.com/'
 reachable: true

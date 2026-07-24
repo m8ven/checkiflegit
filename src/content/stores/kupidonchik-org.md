@@ -1,10 +1,10 @@
 ---
 domain: kupidonchik.org
 slug: kupidonchik-org
-title: Is kupidonchik.org Legit? Trust Signal Check
+title: Is kupidonchik.org Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for kupidonchik.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kupidonchik.org scores 70/100 on our public trust checks. Established domain —
+  registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:07.009Z'
 finalUrl: 'https://kupidonchik.org/'
 reachable: true

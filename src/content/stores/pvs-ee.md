@@ -1,10 +1,10 @@
 ---
 domain: pvs.ee
 slug: pvs-ee
-title: Is pvs.ee Legit? Trust Signal Check
+title: Is pvs.ee Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pvs.ee: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  pvs.ee scores 82/100 on our public trust checks. Established domain —
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:39.218Z'
 finalUrl: 'https://pvs.ee/'
 reachable: true

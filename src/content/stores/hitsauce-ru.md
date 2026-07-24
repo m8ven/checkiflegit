@@ -1,10 +1,10 @@
 ---
 domain: hitsauce.ru
 slug: hitsauce-ru
-title: Is hitsauce.ru Legit? Trust Signal Check
+title: Is hitsauce.ru Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hitsauce.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hitsauce.ru scores 88/100 on our public trust checks. Established domain —
+  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:03.147Z'
 finalUrl: 'https://hitsauce.ru/'
 reachable: true

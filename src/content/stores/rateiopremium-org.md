@@ -1,10 +1,10 @@
 ---
 domain: rateiopremium.org
 slug: rateiopremium-org
-title: Is rateiopremium.org Legit? Trust Signal Check
+title: Is rateiopremium.org Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for rateiopremium.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rateiopremium.org scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:54:13.098Z'
 finalUrl: 'https://rateiopremium.org/'
 reachable: true

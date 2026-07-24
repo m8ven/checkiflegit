@@ -1,10 +1,10 @@
 ---
 domain: biotentik.com
 slug: biotentik-com
-title: Is biotentik.com Legit? Trust Signal Check
+title: Is biotentik.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for biotentik.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  biotentik.com scores 70/100 on our public trust checks. Established domain —
+  registered 8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:40.869Z'
 finalUrl: 'https://biotentik.com/'
 reachable: true

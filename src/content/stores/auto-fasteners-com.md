@@ -1,10 +1,10 @@
 ---
 domain: auto-fasteners.com
 slug: auto-fasteners-com
-title: Is auto-fasteners.com Legit? Trust Signal Check
+title: Is auto-fasteners.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for auto-fasteners.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  auto-fasteners.com scores 94/100 on our public trust checks. Established
+  domain — registered 18 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:20:03.715Z'
 finalUrl: 'https://auto-fasteners.com/'
 reachable: true

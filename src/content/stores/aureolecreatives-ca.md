@@ -1,10 +1,10 @@
 ---
 domain: aureolecreatives.ca
 slug: aureolecreatives-ca
-title: Is aureolecreatives.ca Legit? Trust Signal Check
+title: Is aureolecreatives.ca Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for aureolecreatives.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aureolecreatives.ca scores 94/100 on our public trust checks. Established
+  domain — registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:54.879Z'
 finalUrl: 'https://aureolecreatives.ca/'
 reachable: true

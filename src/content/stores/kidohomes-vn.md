@@ -1,10 +1,10 @@
 ---
 domain: kidohomes.vn
 slug: kidohomes-vn
-title: Is kidohomes.vn Legit? Trust Signal Check
+title: Is kidohomes.vn Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kidohomes.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kidohomes.vn scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:27.226Z'
 finalUrl: 'https://kidohomes.vn/'
 reachable: true

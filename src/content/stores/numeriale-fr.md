@@ -1,10 +1,11 @@
 ---
 domain: numeriale.fr
 slug: numeriale-fr
-title: Is numeriale.fr Legit? Trust Signal Check
+title: Is numeriale.fr Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for numeriale.fr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  numeriale.fr scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T15:23:44.827Z'
 finalUrl: 'https://www.numeriale.fr/'
 reachable: true

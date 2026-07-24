@@ -1,10 +1,10 @@
 ---
 domain: legacy.porcfest.com
 slug: legacy-porcfest-com
-title: Is legacy.porcfest.com Legit? Trust Signal Check
+title: Is legacy.porcfest.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for legacy.porcfest.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  legacy.porcfest.com scores 40/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:20:04.551Z'
 finalUrl: 'https://legacy.porcfest.com/'
 reachable: true

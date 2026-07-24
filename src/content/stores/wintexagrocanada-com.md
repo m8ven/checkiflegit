@@ -1,10 +1,10 @@
 ---
 domain: wintexagrocanada.com
 slug: wintexagrocanada-com
-title: Is wintexagrocanada.com Legit? Trust Signal Check
+title: Is wintexagrocanada.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for wintexagrocanada.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  wintexagrocanada.com scores 100/100 on our public trust checks. Established
+  domain — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:26.096Z'
 finalUrl: 'https://wintexagrocanada.com/'
 reachable: true

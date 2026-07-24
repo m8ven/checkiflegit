@@ -1,10 +1,10 @@
 ---
 domain: institut-vernes.fr
 slug: institut-vernes-fr
-title: Is institut-vernes.fr Legit? Trust Signal Check
+title: Is institut-vernes.fr Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for institut-vernes.fr: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  institut-vernes.fr scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:24:41.529Z'
 finalUrl: 'https://www.institut-vernes.fr/'
 reachable: true

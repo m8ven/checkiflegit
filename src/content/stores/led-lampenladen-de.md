@@ -1,10 +1,10 @@
 ---
 domain: led-lampenladen.de
 slug: led-lampenladen-de
-title: Is led-lampenladen.de Legit? Trust Signal Check
+title: Is led-lampenladen.de Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for led-lampenladen.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  led-lampenladen.de scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:01:57.623Z'
 finalUrl: 'https://www.led-lampenladen.de/'
 reachable: true

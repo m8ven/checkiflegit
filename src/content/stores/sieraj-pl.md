@@ -1,10 +1,10 @@
 ---
 domain: sieraj.pl
 slug: sieraj-pl
-title: Is sieraj.pl Legit? Trust Signal Check
+title: Is sieraj.pl Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for sieraj.pl: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  sieraj.pl scores 40/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T12:37:52.210Z'
 finalUrl: 'https://sieraj.pl/'
 reachable: true

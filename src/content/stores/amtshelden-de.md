@@ -1,10 +1,10 @@
 ---
 domain: amtshelden.de
 slug: amtshelden-de
-title: Is amtshelden.de Legit? Trust Signal Check
+title: Is amtshelden.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for amtshelden.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  amtshelden.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:21:28.369Z'
 finalUrl: 'https://www.amtshelden.de/'
 reachable: true

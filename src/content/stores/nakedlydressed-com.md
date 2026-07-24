@@ -1,10 +1,10 @@
 ---
 domain: nakedlydressed.com
 slug: nakedlydressed-com
-title: Is nakedlydressed.com Legit? Trust Signal Check
+title: Is nakedlydressed.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for nakedlydressed.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nakedlydressed.com scores 70/100 on our public trust checks. Established
+  domain — registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:16:38.722Z'
 finalUrl: 'https://www.nakedlydressed.com/'
 reachable: true

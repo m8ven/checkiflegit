@@ -1,10 +1,10 @@
 ---
 domain: margojungerius.nl
 slug: margojungerius-nl
-title: Is margojungerius.nl Legit? Trust Signal Check
+title: Is margojungerius.nl Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for margojungerius.nl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  margojungerius.nl scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:23:34.798Z'
 finalUrl: 'https://www.margojungerius.nl/'
 reachable: true

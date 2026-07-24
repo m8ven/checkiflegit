@@ -1,10 +1,11 @@
 ---
 domain: logix.in
 slug: logix-in
-title: Is logix.in Legit? Trust Signal Check
+title: Is logix.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for logix.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  logix.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-24T21:46:11.068Z'
 finalUrl: 'https://logix.in/'
 reachable: true

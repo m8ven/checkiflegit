@@ -1,10 +1,10 @@
 ---
 domain: aaatoner.com
 slug: aaatoner-com
-title: Is aaatoner.com Legit? Trust Signal Check
+title: Is aaatoner.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for aaatoner.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aaatoner.com scores 88/100 on our public trust checks. Established domain —
+  registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:11:33.100Z'
 finalUrl: 'https://www.aaatoner.com/'
 reachable: true

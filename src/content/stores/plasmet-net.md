@@ -1,10 +1,10 @@
 ---
 domain: plasmet.net
 slug: plasmet-net
-title: Is plasmet.net Legit? Trust Signal Check
+title: Is plasmet.net Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for plasmet.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  plasmet.net scores 76/100 on our public trust checks. Established domain —
+  registered 19.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:54.635Z'
 finalUrl: 'https://plasmet.net/'
 reachable: true

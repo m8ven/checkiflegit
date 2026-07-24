@@ -1,10 +1,10 @@
 ---
 domain: apteka-med-service.ru
 slug: apteka-med-service-ru
-title: Is apteka-med-service.ru Legit? Trust Signal Check
+title: Is apteka-med-service.ru Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for apteka-med-service.ru: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  apteka-med-service.ru scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T14:59:58.735Z'
 finalUrl: 'https://apteka-med-service.ru/'
 reachable: true

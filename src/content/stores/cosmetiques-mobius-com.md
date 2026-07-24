@@ -1,10 +1,10 @@
 ---
 domain: cosmetiques-mobius.com
 slug: cosmetiques-mobius-com
-title: Is cosmetiques-mobius.com Legit? Trust Signal Check
+title: Is cosmetiques-mobius.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cosmetiques-mobius.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cosmetiques-mobius.com scores 100/100 on our public trust checks. Established
+  domain — registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:09.099Z'
 finalUrl: 'https://cosmetiques-mobius.com/'
 reachable: true

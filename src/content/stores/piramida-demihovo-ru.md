@@ -1,10 +1,10 @@
 ---
 domain: piramida-demihovo.ru
 slug: piramida-demihovo-ru
-title: Is piramida-demihovo.ru Legit? Trust Signal Check
+title: Is piramida-demihovo.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for piramida-demihovo.ru: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  piramida-demihovo.ru scores 73/100 on our public trust checks. Established
+  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:02:18.614Z'
 finalUrl: 'https://piramida-demihovo.ru/'
 reachable: true

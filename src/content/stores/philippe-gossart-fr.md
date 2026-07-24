@@ -1,10 +1,11 @@
 ---
 domain: philippe-gossart.fr
 slug: philippe-gossart-fr
-title: Is philippe-gossart.fr Legit? Trust Signal Check
+title: Is philippe-gossart.fr Legit? Trust Score 37/100
 description: >-
-  An automated trust-signal check for philippe-gossart.fr: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  philippe-gossart.fr scores 37/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T15:35:12.576Z'
 finalUrl: 'https://www.philippe-gossart.fr/'
 reachable: true

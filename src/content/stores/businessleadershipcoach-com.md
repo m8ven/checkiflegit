@@ -1,10 +1,10 @@
 ---
 domain: businessleadershipcoach.com
 slug: businessleadershipcoach-com
-title: Is businessleadershipcoach.com Legit? Trust Signal Check
+title: Is businessleadershipcoach.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for businessleadershipcoach.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  businessleadershipcoach.com scores 61/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T02:20:46.172Z'
 finalUrl: 'https://businessleadershipcoach.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nogec-rdc.org
 slug: nogec-rdc-org
-title: Is nogec-rdc.org Legit? Trust Signal Check
+title: Is nogec-rdc.org Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nogec-rdc.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nogec-rdc.org scores 52/100 on our public trust checks. Domain is relatively
+  young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:46:02.762Z'
 finalUrl: 'https://nogec-rdc.org/'
 reachable: true

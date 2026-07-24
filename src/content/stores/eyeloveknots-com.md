@@ -1,10 +1,10 @@
 ---
 domain: eyeloveknots.com
 slug: eyeloveknots-com
-title: Is eyeloveknots.com Legit? Trust Signal Check
+title: Is eyeloveknots.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for eyeloveknots.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eyeloveknots.com scores 76/100 on our public trust checks. Established domain
+  — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:22.646Z'
 finalUrl: 'https://eyeloveknots.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mimi.al
 slug: mimi-al
-title: Is mimi.al Legit? Trust Signal Check
+title: Is mimi.al Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mimi.al: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  mimi.al scores 100/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T15:22:41.835Z'
 finalUrl: 'https://mimi.al/'
 reachable: true

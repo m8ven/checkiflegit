@@ -1,10 +1,10 @@
 ---
 domain: kingdomhustle.org
 slug: kingdomhustle-org
-title: Is kingdomhustle.org Legit? Trust Signal Check
+title: Is kingdomhustle.org Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for kingdomhustle.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kingdomhustle.org scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:32:29.554Z'
 finalUrl: 'https://kingdomhustle.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: weber.com
 slug: weber-com
-title: Is weber.com Legit? Trust Signal Check
+title: Is weber.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for weber.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  weber.com scores 70/100 on our public trust checks. Established domain —
+  registered 34.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:43.461Z'
 finalUrl: 'https://www.weber.com/US/en/home/'
 reachable: true

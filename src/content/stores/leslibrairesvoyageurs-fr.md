@@ -1,10 +1,10 @@
 ---
 domain: leslibrairesvoyageurs.fr
 slug: leslibrairesvoyageurs-fr
-title: Is leslibrairesvoyageurs.fr Legit? Trust Signal Check
+title: Is leslibrairesvoyageurs.fr Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for leslibrairesvoyageurs.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  leslibrairesvoyageurs.fr scores 76/100 on our public trust checks. Established
+  domain — registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:07.271Z'
 finalUrl: 'https://www.leslibrairesvoyageurs.fr/'
 reachable: true

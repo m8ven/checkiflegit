@@ -1,10 +1,10 @@
 ---
 domain: ekokamini.eu
 slug: ekokamini-eu
-title: Is ekokamini.eu Legit? Trust Signal Check
+title: Is ekokamini.eu Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ekokamini.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ekokamini.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:31:59.036Z'
 finalUrl: 'https://ekokamini.eu/'
 reachable: true

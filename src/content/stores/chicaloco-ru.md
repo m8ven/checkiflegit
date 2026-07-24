@@ -1,10 +1,10 @@
 ---
 domain: chicaloco.ru
 slug: chicaloco-ru
-title: Is chicaloco.ru Legit? Trust Signal Check
+title: Is chicaloco.ru Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for chicaloco.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  chicaloco.ru scores 70/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:07.219Z'
 finalUrl: 'https://chicaloco.ru/'
 reachable: true

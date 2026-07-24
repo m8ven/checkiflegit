@@ -1,10 +1,11 @@
 ---
 domain: greenseeds.net
 slug: greenseeds-net
-title: Is greenseeds.net Legit? Trust Signal Check
+title: Is greenseeds.net Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for greenseeds.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  greenseeds.net scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:44:56.848Z'
 finalUrl: 'https://greenseeds.net/'
 reachable: true

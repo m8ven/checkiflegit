@@ -1,10 +1,10 @@
 ---
 domain: inmarkbrindes.com.br
 slug: inmarkbrindes-com-br
-title: Is inmarkbrindes.com.br Legit? Trust Signal Check
+title: Is inmarkbrindes.com.br Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for inmarkbrindes.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  inmarkbrindes.com.br scores 49/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T03:49:42.708Z'
 finalUrl: 'https://inmarkbrindes.com.br/'
 reachable: true

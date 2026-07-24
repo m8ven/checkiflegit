@@ -1,10 +1,10 @@
 ---
 domain: biblond.com
 slug: biblond-com
-title: Is biblond.com Legit? Trust Signal Check
+title: Is biblond.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for biblond.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  biblond.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:58:48.610Z'
 finalUrl: 'https://www.biblond.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: project85automotive.com
 slug: project85automotive-com
-title: Is project85automotive.com Legit? Trust Signal Check
+title: Is project85automotive.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for project85automotive.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  project85automotive.com scores 100/100 on our public trust checks. Established
+  domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:32.405Z'
 finalUrl: 'https://project85automotive.com/'
 reachable: true

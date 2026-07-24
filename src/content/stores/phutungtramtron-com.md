@@ -1,10 +1,10 @@
 ---
 domain: phutungtramtron.com
 slug: phutungtramtron-com
-title: Is phutungtramtron.com Legit? Trust Signal Check
+title: Is phutungtramtron.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for phutungtramtron.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  phutungtramtron.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:20:56.786Z'
 finalUrl: 'https://phutungtramtron.com/'
 reachable: true

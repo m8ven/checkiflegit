@@ -1,10 +1,10 @@
 ---
 domain: petsplace.nl
 slug: petsplace-nl
-title: Is petsplace.nl Legit? Trust Signal Check
+title: Is petsplace.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for petsplace.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  petsplace.nl scores 88/100 on our public trust checks. Established domain —
+  registered 28.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:27.717Z'
 finalUrl: 'https://www.petsplace.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mobix.es
 slug: mobix-es
-title: Is mobix.es Legit? Trust Signal Check
+title: Is mobix.es Legit? Trust Score 46/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mobix.es: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mobix.es scores 46/100 on our public trust checks. No links to major social
+  platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:56:14.037Z'
 finalUrl: 'https://mobix.es/'
 reachable: true

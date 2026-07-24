@@ -1,10 +1,10 @@
 ---
 domain: progression.me
 slug: progression-me
-title: Is progression.me Legit? Trust Signal Check
+title: Is progression.me Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for progression.me: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  progression.me scores 88/100 on our public trust checks. Established domain —
+  registered 18 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:39.675Z'
 finalUrl: 'https://progression.me/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: bmusic.co
 slug: bmusic-co
-title: Is bmusic.co Legit? Trust Signal Check
+title: Is bmusic.co Legit? Trust Score 10/100
 description: >-
-  An automated trust-signal check for bmusic.co: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  bmusic.co scores 10/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T14:48:50.748Z'
 finalUrl: 'https://bmusic.co/'
 reachable: true

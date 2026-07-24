@@ -1,10 +1,10 @@
 ---
 domain: startbusiness.ma
 slug: startbusiness-ma
-title: Is startbusiness.ma Legit? Trust Signal Check
+title: Is startbusiness.ma Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for startbusiness.ma: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  startbusiness.ma scores 88/100 on our public trust checks. Established domain
+  — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:16.877Z'
 finalUrl: 'https://startbusiness.ma/'
 reachable: true

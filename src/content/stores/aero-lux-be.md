@@ -1,10 +1,10 @@
 ---
 domain: aero-lux.be
 slug: aero-lux-be
-title: Is aero-lux.be Legit? Trust Signal Check
+title: Is aero-lux.be Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for aero-lux.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aero-lux.be scores 76/100 on our public trust checks. Established domain —
+  registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:13.863Z'
 finalUrl: 'https://aero-lux.be/'
 reachable: true

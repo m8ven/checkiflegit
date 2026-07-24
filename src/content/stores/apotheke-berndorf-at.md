@@ -1,10 +1,10 @@
 ---
 domain: apotheke-berndorf.at
 slug: apotheke-berndorf-at
-title: Is apotheke-berndorf.at Legit? Trust Signal Check
+title: Is apotheke-berndorf.at Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for apotheke-berndorf.at: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  apotheke-berndorf.at scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:50:37.966Z'
 finalUrl: 'https://www.apotheke-berndorf.at/?v=fa868488740a'
 reachable: true

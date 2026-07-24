@@ -1,10 +1,11 @@
 ---
 domain: romviet.vn
 slug: romviet-vn
-title: Is romviet.vn Legit? Trust Signal Check
+title: Is romviet.vn Legit? Trust Score 6/100
 description: >-
-  An automated trust-signal check for romviet.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  romviet.vn scores 6/100 on our public trust checks. No valid SSL certificate —
+  connection may not be secure. Standard contact and policy pages were not
+  found.
 fetchedAt: '2026-06-25T12:38:04.254Z'
 finalUrl: 'http://romviet.vn/'
 reachable: true

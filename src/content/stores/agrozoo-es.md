@@ -1,10 +1,10 @@
 ---
 domain: agrozoo.es
 slug: agrozoo-es
-title: Is agrozoo.es Legit? Trust Signal Check
+title: Is agrozoo.es Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for agrozoo.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  agrozoo.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:33:18.169Z'
 finalUrl: 'https://agrozoo.es/'
 reachable: true

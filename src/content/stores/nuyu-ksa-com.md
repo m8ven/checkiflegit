@@ -1,10 +1,10 @@
 ---
 domain: nuyu-ksa.com
 slug: nuyu-ksa-com
-title: Is nuyu-ksa.com Legit? Trust Signal Check
+title: Is nuyu-ksa.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for nuyu-ksa.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nuyu-ksa.com scores 88/100 on our public trust checks. Established domain —
+  registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:14.577Z'
 finalUrl: 'https://nuyu-ksa.com/'
 reachable: true

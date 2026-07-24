@@ -1,10 +1,10 @@
 ---
 domain: diycarpenter.site
 slug: diycarpenter-site
-title: Is diycarpenter.site Legit? Trust Signal Check
+title: Is diycarpenter.site Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for diycarpenter.site: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  diycarpenter.site scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:25:13.986Z'
 finalUrl: 'https://diycarpenter.site/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jaltour.fr
 slug: jaltour-fr
-title: Is jaltour.fr Legit? Trust Signal Check
+title: Is jaltour.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for jaltour.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jaltour.fr scores 88/100 on our public trust checks. Established domain —
+  registered 21 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:45.949Z'
 finalUrl: 'https://www.jaltour.fr/'
 reachable: true

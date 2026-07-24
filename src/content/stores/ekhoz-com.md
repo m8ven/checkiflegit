@@ -1,10 +1,10 @@
 ---
 domain: ekhoz.com
 slug: ekhoz-com
-title: Is ekhoz.com Legit? Trust Signal Check
+title: Is ekhoz.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for ekhoz.com: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  ekhoz.com scores 40/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T15:31:46.805Z'
 finalUrl: 'http://ekhoz.com/'
 reachable: true

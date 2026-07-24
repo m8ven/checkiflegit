@@ -1,10 +1,10 @@
 ---
 domain: miasestore.com
 slug: miasestore-com
-title: Is miasestore.com Legit? Trust Signal Check
+title: Is miasestore.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for miasestore.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  miasestore.com scores 88/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:27.949Z'
 finalUrl: 'https://miasestore.com/'
 reachable: true

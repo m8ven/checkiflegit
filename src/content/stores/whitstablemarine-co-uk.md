@@ -1,10 +1,10 @@
 ---
 domain: whitstablemarine.co.uk
 slug: whitstablemarine-co-uk
-title: Is whitstablemarine.co.uk Legit? Trust Signal Check
+title: Is whitstablemarine.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for whitstablemarine.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  whitstablemarine.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:29:22.111Z'
 finalUrl: 'https://www.whitstablemarine.co.uk/'
 reachable: true

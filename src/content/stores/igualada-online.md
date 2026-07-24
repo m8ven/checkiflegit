@@ -1,10 +1,10 @@
 ---
 domain: igualada.online
 slug: igualada-online
-title: Is igualada.online Legit? Trust Signal Check
+title: Is igualada.online Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for igualada.online: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  igualada.online scores 76/100 on our public trust checks. Established domain —
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:08.485Z'
 finalUrl: 'https://igualada.online/'
 reachable: true

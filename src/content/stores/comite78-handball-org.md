@@ -1,10 +1,10 @@
 ---
 domain: comite78-handball.org
 slug: comite78-handball-org
-title: Is comite78-handball.org Legit? Trust Signal Check
+title: Is comite78-handball.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for comite78-handball.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  comite78-handball.org scores 100/100 on our public trust checks. Established
+  domain — registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:27:48.210Z'
 finalUrl: 'https://www.comite78-handball.org/'
 reachable: true

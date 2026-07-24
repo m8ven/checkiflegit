@@ -1,10 +1,11 @@
 ---
 domain: globalcanabisvapes.com
 slug: globalcanabisvapes-com
-title: Is globalcanabisvapes.com Legit? Trust Signal Check
+title: Is globalcanabisvapes.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for globalcanabisvapes.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  globalcanabisvapes.com scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T02:35:27.055Z'
 finalUrl: 'https://globalcanabisvapes.com/'
 reachable: true

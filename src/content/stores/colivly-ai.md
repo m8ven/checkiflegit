@@ -1,10 +1,10 @@
 ---
 domain: colivly.ai
 slug: colivly-ai
-title: Is colivly.ai Legit? Trust Signal Check
+title: Is colivly.ai Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for colivly.ai: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  colivly.ai scores 88/100 on our public trust checks. Established domain —
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:29.405Z'
 finalUrl: 'https://www.colivly.ai/'
 reachable: true

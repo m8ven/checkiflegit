@@ -1,10 +1,10 @@
 ---
 domain: biotka.fr
 slug: biotka-fr
-title: Is biotka.fr Legit? Trust Signal Check
+title: Is biotka.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for biotka.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  biotka.fr scores 88/100 on our public trust checks. Established domain —
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:28.083Z'
 finalUrl: 'https://biotka.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: roboup2date.com
 slug: roboup2date-com
-title: Is roboup2date.com Legit? Trust Signal Check
+title: Is roboup2date.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for roboup2date.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  roboup2date.com scores 73/100 on our public trust checks. Established domain —
+  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:48.642Z'
 finalUrl: 'https://roboup2date.com/'
 reachable: true

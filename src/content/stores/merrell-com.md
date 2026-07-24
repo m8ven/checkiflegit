@@ -1,10 +1,10 @@
 ---
 domain: merrell.com
 slug: merrell-com
-title: Is merrell.com Legit? Trust Signal Check
+title: Is merrell.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for merrell.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  merrell.com scores 88/100 on our public trust checks. Established domain —
+  registered 31.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:08.713Z'
 finalUrl: 'https://www.merrell.com/US/en/home'
 reachable: true

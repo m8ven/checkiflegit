@@ -1,10 +1,11 @@
 ---
 domain: xn--manus-frchtekche-qzbf.com
 slug: xn-manus-frchtekche-qzbf-com
-title: Is xn--manus-frchtekche-qzbf.com Legit? Trust Signal Check
+title: Is xn--manus-frchtekche-qzbf.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for xn--manus-frchtekche-qzbf.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  xn--manus-frchtekche-qzbf.com scores 82/100 on our public trust checks.
+  Established domain — registered 8.6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:25:41.715Z'
 finalUrl: 'https://xn--manus-frchtekche-qzbf.com/'
 reachable: true

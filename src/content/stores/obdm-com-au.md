@@ -1,10 +1,10 @@
 ---
 domain: obdm.com.au
 slug: obdm-com-au
-title: Is obdm.com.au Legit? Trust Signal Check
+title: Is obdm.com.au Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for obdm.com.au: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  obdm.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:16:19.683Z'
 finalUrl: 'https://obdm.com.au/'
 reachable: true

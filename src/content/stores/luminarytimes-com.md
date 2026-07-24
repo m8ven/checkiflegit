@@ -1,10 +1,10 @@
 ---
 domain: luminarytimes.com
 slug: luminarytimes-com
-title: Is luminarytimes.com Legit? Trust Signal Check
+title: Is luminarytimes.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for luminarytimes.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  luminarytimes.com scores 100/100 on our public trust checks. Established
+  domain — registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:38.850Z'
 finalUrl: 'https://luminarytimes.com/'
 reachable: true

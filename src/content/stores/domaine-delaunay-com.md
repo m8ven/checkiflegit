@@ -1,10 +1,10 @@
 ---
 domain: domaine-delaunay.com
 slug: domaine-delaunay-com
-title: Is domaine-delaunay.com Legit? Trust Signal Check
+title: Is domaine-delaunay.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for domaine-delaunay.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  domaine-delaunay.com scores 76/100 on our public trust checks. Established
+  domain — registered 26.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:41:43.143Z'
 finalUrl: 'https://www.domaine-delaunay.com/'
 reachable: true

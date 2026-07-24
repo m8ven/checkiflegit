@@ -1,10 +1,10 @@
 ---
 domain: pyetcollection.com
 slug: pyetcollection-com
-title: Is pyetcollection.com Legit? Trust Signal Check
+title: Is pyetcollection.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for pyetcollection.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pyetcollection.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:40:54.331Z'
 finalUrl: 'https://pyetcollection.com/?v=6502139931c4'
 reachable: true

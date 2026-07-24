@@ -1,10 +1,10 @@
 ---
 domain: freestylee.net
 slug: freestylee-net
-title: Is freestylee.net Legit? Trust Signal Check
+title: Is freestylee.net Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for freestylee.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  freestylee.net scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:45:32.414Z'
 finalUrl: 'https://freestylee.net/'
 reachable: true

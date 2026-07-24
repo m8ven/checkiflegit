@@ -1,10 +1,10 @@
 ---
 domain: qfix.com.bd
 slug: qfix-com-bd
-title: Is qfix.com.bd Legit? Trust Signal Check
+title: Is qfix.com.bd Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for qfix.com.bd: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  qfix.com.bd scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:28:32.087Z'
 finalUrl: 'https://qfix.com.bd/'
 reachable: true

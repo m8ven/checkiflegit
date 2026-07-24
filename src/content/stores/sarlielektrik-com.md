@@ -1,10 +1,10 @@
 ---
 domain: sarlielektrik.com
 slug: sarlielektrik-com
-title: Is sarlielektrik.com Legit? Trust Signal Check
+title: Is sarlielektrik.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for sarlielektrik.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sarlielektrik.com scores 73/100 on our public trust checks. Established domain
+  — registered 12 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:43:57.488Z'
 finalUrl: 'https://sarlielektrik.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ateneuharmonia.cat
 slug: ateneuharmonia-cat
-title: Is ateneuharmonia.cat Legit? Trust Signal Check
+title: Is ateneuharmonia.cat Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ateneuharmonia.cat: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ateneuharmonia.cat scores 88/100 on our public trust checks. Established
+  domain — registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:25.870Z'
 finalUrl: 'https://ateneuharmonia.cat/'
 reachable: true

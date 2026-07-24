@@ -1,10 +1,10 @@
 ---
 domain: defender-boxes.com
 slug: defender-boxes-com
-title: Is defender-boxes.com Legit? Trust Signal Check
+title: Is defender-boxes.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for defender-boxes.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  defender-boxes.com scores 85/100 on our public trust checks. Established
+  domain — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:22.452Z'
 finalUrl: 'https://defender-boxes.com/'
 reachable: true

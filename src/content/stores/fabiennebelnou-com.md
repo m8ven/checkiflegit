@@ -1,10 +1,10 @@
 ---
 domain: fabiennebelnou.com
 slug: fabiennebelnou-com
-title: Is fabiennebelnou.com Legit? Trust Signal Check
+title: Is fabiennebelnou.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for fabiennebelnou.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fabiennebelnou.com scores 88/100 on our public trust checks. Established
+  domain — registered 19.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:05.107Z'
 finalUrl: 'https://fabiennebelnou.com/'
 reachable: true

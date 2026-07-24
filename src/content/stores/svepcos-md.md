@@ -1,10 +1,10 @@
 ---
 domain: svepcos.md
 slug: svepcos-md
-title: Is svepcos.md Legit? Trust Signal Check
+title: Is svepcos.md Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for svepcos.md: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  svepcos.md scores 70/100 on our public trust checks. Established domain —
+  registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:51.243Z'
 finalUrl: 'https://svepcos.md/'
 reachable: true

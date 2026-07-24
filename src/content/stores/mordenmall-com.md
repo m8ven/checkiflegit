@@ -1,10 +1,10 @@
 ---
 domain: mordenmall.com
 slug: mordenmall-com
-title: Is mordenmall.com Legit? Trust Signal Check
+title: Is mordenmall.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for mordenmall.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mordenmall.com scores 73/100 on our public trust checks. Established domain —
+  registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:06.452Z'
 finalUrl: 'https://mordenmall.com/'
 reachable: true

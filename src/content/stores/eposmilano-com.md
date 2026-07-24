@@ -1,10 +1,10 @@
 ---
 domain: eposmilano.com
 slug: eposmilano-com
-title: Is eposmilano.com Legit? Trust Signal Check
+title: Is eposmilano.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for eposmilano.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eposmilano.com scores 100/100 on our public trust checks. Established domain —
+  registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:17.424Z'
 finalUrl: 'https://eposmilano.com/'
 reachable: true

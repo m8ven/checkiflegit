@@ -1,10 +1,10 @@
 ---
 domain: ibuysneakers.com
 slug: ibuysneakers-com
-title: Is ibuysneakers.com Legit? Trust Signal Check
+title: Is ibuysneakers.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for ibuysneakers.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ibuysneakers.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:15:35.809Z'
 finalUrl: 'https://ibuysneakers.com/'
 reachable: true

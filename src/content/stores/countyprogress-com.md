@@ -1,10 +1,10 @@
 ---
 domain: countyprogress.com
 slug: countyprogress-com
-title: Is countyprogress.com Legit? Trust Signal Check
+title: Is countyprogress.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for countyprogress.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  countyprogress.com scores 100/100 on our public trust checks. Established
+  domain — registered 23.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:53.245Z'
 finalUrl: 'https://countyprogress.com/'
 reachable: true

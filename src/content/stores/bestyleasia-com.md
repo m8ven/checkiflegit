@@ -1,10 +1,10 @@
 ---
 domain: bestyleasia.com
 slug: bestyleasia-com
-title: Is bestyleasia.com Legit? Trust Signal Check
+title: Is bestyleasia.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bestyleasia.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bestyleasia.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:36:31.566Z'
 finalUrl: 'https://bestyleasia.com/'
 reachable: true

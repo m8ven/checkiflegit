@@ -1,10 +1,10 @@
 ---
 domain: easeseatingsystems.com
 slug: easeseatingsystems-com
-title: Is easeseatingsystems.com Legit? Trust Signal Check
+title: Is easeseatingsystems.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for easeseatingsystems.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  easeseatingsystems.com scores 88/100 on our public trust checks. Established
+  domain — registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:40.786Z'
 finalUrl: 'https://easeseatingsystems.com/'
 reachable: true

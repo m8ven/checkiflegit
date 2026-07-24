@@ -1,10 +1,10 @@
 ---
 domain: canadaram.com
 slug: canadaram-com
-title: Is canadaram.com Legit? Trust Signal Check
+title: Is canadaram.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for canadaram.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  canadaram.com scores 85/100 on our public trust checks. Established domain —
+  registered 25.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:42.145Z'
 finalUrl: 'https://canadaram.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: 3giftedminds.com
 slug: 3giftedminds-com
-title: Is 3giftedminds.com Legit? Trust Signal Check
+title: Is 3giftedminds.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for 3giftedminds.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  3giftedminds.com scores 100/100 on our public trust checks. Established domain
+  — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:00.163Z'
 finalUrl: 'https://3giftedminds.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pasdareeslam.com
 slug: pasdareeslam-com
-title: Is pasdareeslam.com Legit? Trust Signal Check
+title: Is pasdareeslam.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for pasdareeslam.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  pasdareeslam.com scores 43/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T14:53:51.115Z'
 finalUrl: 'https://pasdareeslam.com/'
 reachable: true

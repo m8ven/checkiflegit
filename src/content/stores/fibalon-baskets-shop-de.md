@@ -1,10 +1,10 @@
 ---
 domain: fibalon-baskets-shop.de
 slug: fibalon-baskets-shop-de
-title: Is fibalon-baskets-shop.de Legit? Trust Signal Check
+title: Is fibalon-baskets-shop.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for fibalon-baskets-shop.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fibalon-baskets-shop.de scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:47:16.446Z'
 finalUrl: 'https://fibalon-baskets-shop.de/'
 reachable: true

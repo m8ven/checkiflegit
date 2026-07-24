@@ -1,10 +1,10 @@
 ---
 domain: iriscopyshop.com
 slug: iriscopyshop-com
-title: Is iriscopyshop.com Legit? Trust Signal Check
+title: Is iriscopyshop.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for iriscopyshop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  iriscopyshop.com scores 82/100 on our public trust checks. Established domain
+  — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:31:02.460Z'
 finalUrl: 'https://iriscopyshop.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: bergenrealestate.com
 slug: bergenrealestate-com
-title: Is bergenrealestate.com Legit? Trust Signal Check
+title: Is bergenrealestate.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for bergenrealestate.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bergenrealestate.com scores 70/100 on our public trust checks. Established
+  domain — registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:12.163Z'
 finalUrl: 'https://bergenrealestate.com/'
 reachable: true

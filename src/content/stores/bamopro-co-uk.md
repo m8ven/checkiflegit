@@ -1,10 +1,10 @@
 ---
 domain: bamopro.co.uk
 slug: bamopro-co-uk
-title: Is bamopro.co.uk Legit? Trust Signal Check
+title: Is bamopro.co.uk Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for bamopro.co.uk: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  bamopro.co.uk scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:35:44.349Z'
 finalUrl: 'https://bamopro.co.uk/'
 reachable: true

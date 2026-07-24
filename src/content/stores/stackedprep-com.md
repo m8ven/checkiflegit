@@ -1,10 +1,10 @@
 ---
 domain: stackedprep.com
 slug: stackedprep-com
-title: Is stackedprep.com Legit? Trust Signal Check
+title: Is stackedprep.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for stackedprep.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stackedprep.com scores 100/100 on our public trust checks. Established domain
+  — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:19.631Z'
 finalUrl: 'https://stackedprep.com/'
 reachable: true

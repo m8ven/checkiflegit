@@ -1,10 +1,10 @@
 ---
 domain: wdg.vn
 slug: wdg-vn
-title: Is wdg.vn Legit? Trust Signal Check
+title: Is wdg.vn Legit? Trust Score 19/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for wdg.vn: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  wdg.vn scores 19/100 on our public trust checks. Standard contact and policy
+  pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:20:08.480Z'
 finalUrl: 'https://wdg.vn/'
 reachable: true

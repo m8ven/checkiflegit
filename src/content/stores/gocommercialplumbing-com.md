@@ -1,10 +1,10 @@
 ---
 domain: gocommercialplumbing.com
 slug: gocommercialplumbing-com
-title: Is gocommercialplumbing.com Legit? Trust Signal Check
+title: Is gocommercialplumbing.com Legit? Trust Score 67/100
 description: >-
-  An automated trust-signal check for gocommercialplumbing.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  gocommercialplumbing.com scores 67/100 on our public trust checks. No links to
+  major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T15:13:59.556Z'
 finalUrl: 'https://gocommercialplumbing.com/'
 reachable: true

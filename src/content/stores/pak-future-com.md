@@ -1,10 +1,11 @@
 ---
 domain: pak-future.com
 slug: pak-future-com
-title: Is pak-future.com Legit? Trust Signal Check
+title: Is pak-future.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pak-future.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pak-future.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:43:52.143Z'
 finalUrl: 'https://pak-future.com/'
 reachable: true

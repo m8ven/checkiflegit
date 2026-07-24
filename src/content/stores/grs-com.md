@@ -1,10 +1,10 @@
 ---
 domain: grs.com
 slug: grs-com
-title: Is grs.com Legit? Trust Signal Check
+title: Is grs.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for grs.com: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  grs.com scores 100/100 on our public trust checks. Established domain —
+  registered 34.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:49.925Z'
 finalUrl: 'https://grs.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: machumor.ru
 slug: machumor-ru
-title: Is machumor.ru Legit? Trust Signal Check
+title: Is machumor.ru Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for machumor.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  machumor.ru scores 70/100 on our public trust checks. Established domain —
+  registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:06.689Z'
 finalUrl: 'https://machumor.ru/'
 reachable: true

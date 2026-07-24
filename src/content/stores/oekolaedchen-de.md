@@ -1,10 +1,10 @@
 ---
 domain: oekolaedchen.de
 slug: oekolaedchen-de
-title: Is oekolaedchen.de Legit? Trust Signal Check
+title: Is oekolaedchen.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for oekolaedchen.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  oekolaedchen.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:40:13.313Z'
 finalUrl: 'https://oekolaedchen.de/'
 reachable: true

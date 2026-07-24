@@ -1,10 +1,10 @@
 ---
 domain: megant.com.ua
 slug: megant-com-ua
-title: Is megant.com.ua Legit? Trust Signal Check
+title: Is megant.com.ua Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for megant.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  megant.com.ua scores 100/100 on our public trust checks. Established domain —
+  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:10.367Z'
 finalUrl: 'https://megant.com.ua/'
 reachable: true

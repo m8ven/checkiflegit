@@ -1,10 +1,10 @@
 ---
 domain: arublev-center.ru
 slug: arublev-center-ru
-title: Is arublev-center.ru Legit? Trust Signal Check
+title: Is arublev-center.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for arublev-center.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arublev-center.ru scores 73/100 on our public trust checks. Established domain
+  — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:30.377Z'
 finalUrl: 'https://arublev-center.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: hainguyenuniform.vn
 slug: hainguyenuniform-vn
-title: Is hainguyenuniform.vn Legit? Trust Signal Check
+title: Is hainguyenuniform.vn Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for hainguyenuniform.vn: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hainguyenuniform.vn scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:55:53.162Z'
 finalUrl: 'https://hainguyenuniform.vn/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pips-tea.com
 slug: pips-tea-com
-title: Is pips-tea.com Legit? Trust Signal Check
+title: Is pips-tea.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for pips-tea.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pips-tea.com scores 88/100 on our public trust checks. Established domain —
+  registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:24.747Z'
 finalUrl: 'https://www.pips-tea.com/'
 reachable: true

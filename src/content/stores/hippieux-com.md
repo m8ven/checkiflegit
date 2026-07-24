@@ -1,10 +1,10 @@
 ---
 domain: hippieux.com
 slug: hippieux-com
-title: Is hippieux.com Legit? Trust Signal Check
+title: Is hippieux.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hippieux.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hippieux.com scores 100/100 on our public trust checks. Established domain —
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:08.455Z'
 finalUrl: 'https://hippieux.com/'
 reachable: true

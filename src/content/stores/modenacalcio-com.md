@@ -1,10 +1,11 @@
 ---
 domain: modenacalcio.com
 slug: modenacalcio-com
-title: Is modenacalcio.com Legit? Trust Signal Check
+title: Is modenacalcio.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for modenacalcio.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  modenacalcio.com scores 76/100 on our public trust checks. Public business
+  contact details are listed. Maintains links to multiple social media
+  platforms.
 fetchedAt: '2026-06-25T03:56:14.720Z'
 finalUrl: 'https://modenacalcio.com/'
 reachable: true

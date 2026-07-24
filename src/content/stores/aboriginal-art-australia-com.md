@@ -1,10 +1,11 @@
 ---
 domain: aboriginal-art-australia.com
 slug: aboriginal-art-australia-com
-title: Is aboriginal-art-australia.com Legit? Trust Signal Check
+title: Is aboriginal-art-australia.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for aboriginal-art-australia.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  aboriginal-art-australia.com scores 100/100 on our public trust checks.
+  Established domain — registered 23.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:11:40.268Z'
 finalUrl: 'https://www.aboriginal-art-australia.com/'
 reachable: true

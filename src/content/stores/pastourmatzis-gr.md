@@ -1,10 +1,10 @@
 ---
 domain: pastourmatzis.gr
 slug: pastourmatzis-gr
-title: Is pastourmatzis.gr Legit? Trust Signal Check
+title: Is pastourmatzis.gr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pastourmatzis.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pastourmatzis.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:02:03.654Z'
 finalUrl: 'https://pastourmatzis.gr/'
 reachable: true

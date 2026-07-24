@@ -1,10 +1,10 @@
 ---
 domain: lyncar.com
 slug: lyncar-com
-title: Is lyncar.com Legit? Trust Signal Check
+title: Is lyncar.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lyncar.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lyncar.com scores 73/100 on our public trust checks. Established domain —
+  registered 28.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:58.185Z'
 finalUrl: 'https://lyncar.com/'
 reachable: true

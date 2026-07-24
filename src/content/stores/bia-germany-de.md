@@ -1,10 +1,10 @@
 ---
 domain: bia-germany.de
 slug: bia-germany-de
-title: Is bia-germany.de Legit? Trust Signal Check
+title: Is bia-germany.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for bia-germany.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bia-germany.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:02:44.587Z'
 finalUrl: 'https://bia-germany.de/'
 reachable: true

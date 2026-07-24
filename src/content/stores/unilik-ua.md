@@ -1,10 +1,10 @@
 ---
 domain: unilik.ua
 slug: unilik-ua
-title: Is unilik.ua Legit? Trust Signal Check
+title: Is unilik.ua Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for unilik.ua: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  unilik.ua scores 88/100 on our public trust checks. Established domain —
+  registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:28.560Z'
 finalUrl: 'https://unilik.ua/'
 reachable: true

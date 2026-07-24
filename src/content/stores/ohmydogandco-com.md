@@ -1,10 +1,10 @@
 ---
 domain: ohmydogandco.com
 slug: ohmydogandco-com
-title: Is ohmydogandco.com Legit? Trust Signal Check
+title: Is ohmydogandco.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ohmydogandco.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ohmydogandco.com scores 100/100 on our public trust checks. Established domain
+  — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:46.059Z'
 finalUrl: 'https://ohmydogandco.com/'
 reachable: true

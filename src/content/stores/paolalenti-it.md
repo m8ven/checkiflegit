@@ -1,10 +1,10 @@
 ---
 domain: paolalenti.it
 slug: paolalenti-it
-title: Is paolalenti.it Legit? Trust Signal Check
+title: Is paolalenti.it Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for paolalenti.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  paolalenti.it scores 76/100 on our public trust checks. Established domain —
+  registered 23 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:53.400Z'
 finalUrl: 'https://www.paolalenti.it/it/'
 reachable: true

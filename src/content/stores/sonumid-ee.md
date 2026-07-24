@@ -1,10 +1,10 @@
 ---
 domain: sonumid.ee
 slug: sonumid-ee
-title: Is sonumid.ee Legit? Trust Signal Check
+title: Is sonumid.ee Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for sonumid.ee: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sonumid.ee scores 58/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:10:01.235Z'
 finalUrl: 'https://sonumid.ee/'
 reachable: true

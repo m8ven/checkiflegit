@@ -1,10 +1,10 @@
 ---
 domain: waytozionvinylshop.com
 slug: waytozionvinylshop-com
-title: Is waytozionvinylshop.com Legit? Trust Signal Check
+title: Is waytozionvinylshop.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for waytozionvinylshop.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  waytozionvinylshop.com scores 76/100 on our public trust checks. Established
+  domain — registered 12 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:57.827Z'
 finalUrl: 'https://waytozionvinylshop.com/'
 reachable: true

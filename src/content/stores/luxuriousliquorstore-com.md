@@ -1,10 +1,10 @@
 ---
 domain: luxuriousliquorstore.com
 slug: luxuriousliquorstore-com
-title: Is luxuriousliquorstore.com Legit? Trust Signal Check
+title: Is luxuriousliquorstore.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for luxuriousliquorstore.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  luxuriousliquorstore.com scores 55/100 on our public trust checks. No links to
+  major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T14:56:33.963Z'
 finalUrl: 'https://luxuriousliquorstore.com/'
 reachable: true

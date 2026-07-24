@@ -1,10 +1,10 @@
 ---
 domain: urbanglobal.co.nz
 slug: urbanglobal-co-nz
-title: Is urbanglobal.co.nz Legit? Trust Signal Check
+title: Is urbanglobal.co.nz Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for urbanglobal.co.nz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  urbanglobal.co.nz scores 82/100 on our public trust checks. Established domain
+  — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:40.460Z'
 finalUrl: 'https://urbanglobal.co.nz/'
 reachable: true

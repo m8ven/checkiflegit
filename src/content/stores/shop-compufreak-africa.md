@@ -1,10 +1,10 @@
 ---
 domain: shop.compufreak.africa
 slug: shop-compufreak-africa
-title: Is shop.compufreak.africa Legit? Trust Signal Check
+title: Is shop.compufreak.africa Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.compufreak.africa: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.compufreak.africa scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:05:57.506Z'
 finalUrl: 'https://shop.compufreak.africa/'
 reachable: true

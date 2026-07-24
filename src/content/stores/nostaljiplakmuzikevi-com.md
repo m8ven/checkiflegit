@@ -1,10 +1,10 @@
 ---
 domain: nostaljiplakmuzikevi.com
 slug: nostaljiplakmuzikevi-com
-title: Is nostaljiplakmuzikevi.com Legit? Trust Signal Check
+title: Is nostaljiplakmuzikevi.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for nostaljiplakmuzikevi.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nostaljiplakmuzikevi.com scores 73/100 on our public trust checks. Established
+  domain — registered 1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:00.443Z'
 finalUrl: 'https://nostaljiplakmuzikevi.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: atkinsonequipment.com
 slug: atkinsonequipment-com
-title: Is atkinsonequipment.com Legit? Trust Signal Check
+title: Is atkinsonequipment.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for atkinsonequipment.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  atkinsonequipment.com scores 100/100 on our public trust checks. Established
+  domain — registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:41.685Z'
 finalUrl: 'https://www.atkinsonequipment.com/'
 reachable: true

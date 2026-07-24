@@ -1,10 +1,10 @@
 ---
 domain: ffcoalition.com
 slug: ffcoalition-com
-title: Is ffcoalition.com Legit? Trust Signal Check
+title: Is ffcoalition.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ffcoalition.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ffcoalition.com scores 76/100 on our public trust checks. Established domain —
+  registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:59.125Z'
 finalUrl: 'https://www.ffcoalition.com/'
 reachable: true

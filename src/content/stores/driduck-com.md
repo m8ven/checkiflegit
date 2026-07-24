@@ -1,10 +1,10 @@
 ---
 domain: driduck.com
 slug: driduck-com
-title: Is driduck.com Legit? Trust Signal Check
+title: Is driduck.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for driduck.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  driduck.com scores 100/100 on our public trust checks. Established domain —
+  registered 26.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:37.051Z'
 finalUrl: 'https://www.driduck.com/'
 reachable: true

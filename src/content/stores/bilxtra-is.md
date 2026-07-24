@@ -1,10 +1,10 @@
 ---
 domain: bilxtra.is
 slug: bilxtra-is
-title: Is bilxtra.is Legit? Trust Signal Check
+title: Is bilxtra.is Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bilxtra.is: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bilxtra.is scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:19:29.430Z'
 finalUrl: 'https://bilxtra.is/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: imprintedapparelstore.com
 slug: imprintedapparelstore-com
-title: Is imprintedapparelstore.com Legit? Trust Signal Check
+title: Is imprintedapparelstore.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for imprintedapparelstore.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  imprintedapparelstore.com scores 100/100 on our public trust checks.
+  Established domain — registered 25.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T11:57:22.744Z'
 finalUrl: 'https://imprintedapparelstore.com/'
 reachable: true

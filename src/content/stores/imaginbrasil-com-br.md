@@ -1,10 +1,10 @@
 ---
 domain: imaginbrasil.com.br
 slug: imaginbrasil-com-br
-title: Is imaginbrasil.com.br Legit? Trust Signal Check
+title: Is imaginbrasil.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for imaginbrasil.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  imaginbrasil.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:46:42.020Z'
 finalUrl: 'https://imaginbrasil.com.br/'
 reachable: true

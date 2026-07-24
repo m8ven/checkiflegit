@@ -1,10 +1,10 @@
 ---
 domain: seadamp.it
 slug: seadamp-it
-title: Is seadamp.it Legit? Trust Signal Check
+title: Is seadamp.it Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for seadamp.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  seadamp.it scores 70/100 on our public trust checks. Established domain —
+  registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:20.993Z'
 finalUrl: 'https://seadamp.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vanwilgens.com
 slug: vanwilgens-com
-title: Is vanwilgens.com Legit? Trust Signal Check
+title: Is vanwilgens.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for vanwilgens.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vanwilgens.com scores 100/100 on our public trust checks. Established domain —
+  registered 27.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:55.865Z'
 finalUrl: 'https://www.vanwilgens.com/'
 reachable: true

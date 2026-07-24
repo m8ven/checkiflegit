@@ -1,10 +1,10 @@
 ---
 domain: shop.mobilityworks.com
 slug: shop-mobilityworks-com
-title: Is shop.mobilityworks.com Legit? Trust Signal Check
+title: Is shop.mobilityworks.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.mobilityworks.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.mobilityworks.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:09.624Z'
 finalUrl: 'https://shop.mobilityworks.com/'
 reachable: true

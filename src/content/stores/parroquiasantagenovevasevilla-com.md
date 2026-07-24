@@ -1,10 +1,10 @@
 ---
 domain: parroquiasantagenovevasevilla.com
 slug: parroquiasantagenovevasevilla-com
-title: Is parroquiasantagenovevasevilla.com Legit? Trust Signal Check
+title: Is parroquiasantagenovevasevilla.com Legit? Score 88/100
 description: >-
-  An automated trust-signal check for parroquiasantagenovevasevilla.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  parroquiasantagenovevasevilla.com scores 88/100 on our public trust checks.
+  Established domain — registered 3.8 years ago.
 fetchedAt: '2026-06-25T03:20:01.893Z'
 finalUrl: 'https://www.parroquiasantagenovevasevilla.com/'
 reachable: true

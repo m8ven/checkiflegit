@@ -1,10 +1,10 @@
 ---
 domain: felicia74.ru
 slug: felicia74-ru
-title: Is felicia74.ru Legit? Trust Signal Check
+title: Is felicia74.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for felicia74.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  felicia74.ru scores 73/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:40.069Z'
 finalUrl: 'https://felicia74.ru/'
 reachable: true

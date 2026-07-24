@@ -1,10 +1,10 @@
 ---
 domain: de.scholistico.com
 slug: de-scholistico-com
-title: Is de.scholistico.com Legit? Trust Signal Check
+title: Is de.scholistico.com Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for de.scholistico.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  de.scholistico.com scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T14:52:54.485Z'
 finalUrl: 'https://de.scholistico.com/'
 reachable: true

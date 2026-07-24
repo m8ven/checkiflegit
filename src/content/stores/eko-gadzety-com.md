@@ -1,10 +1,10 @@
 ---
 domain: eko.gadzety.com
 slug: eko-gadzety-com
-title: Is eko.gadzety.com Legit? Trust Signal Check
+title: Is eko.gadzety.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for eko.gadzety.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eko.gadzety.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T14:54:37.957Z'
 finalUrl: 'https://eko.gadzety.com/'
 reachable: true

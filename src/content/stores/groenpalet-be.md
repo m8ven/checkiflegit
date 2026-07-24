@@ -1,10 +1,10 @@
 ---
 domain: groenpalet.be
 slug: groenpalet-be
-title: Is groenpalet.be Legit? Trust Signal Check
+title: Is groenpalet.be Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for groenpalet.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  groenpalet.be scores 88/100 on our public trust checks. Established domain —
+  registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:03.050Z'
 finalUrl: 'https://groenpalet.be/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: neva-time-ea.ru
 slug: neva-time-ea-ru
-title: Is neva-time-ea.ru Legit? Trust Signal Check
+title: Is neva-time-ea.ru Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for neva-time-ea.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  neva-time-ea.ru scores 58/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:36:43.427Z'
 finalUrl: 'https://neva-time-ea.ru/'
 reachable: true

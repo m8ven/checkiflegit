@@ -1,10 +1,10 @@
 ---
 domain: vikingotek.com
 slug: vikingotek-com
-title: Is vikingotek.com Legit? Trust Signal Check
+title: Is vikingotek.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for vikingotek.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vikingotek.com scores 70/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:12.715Z'
 finalUrl: 'https://vikingotek.com/'
 reachable: true

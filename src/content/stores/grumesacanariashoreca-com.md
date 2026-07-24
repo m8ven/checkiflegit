@@ -1,10 +1,11 @@
 ---
 domain: grumesacanariashoreca.com
 slug: grumesacanariashoreca-com
-title: Is grumesacanariashoreca.com Legit? Trust Signal Check
+title: Is grumesacanariashoreca.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for grumesacanariashoreca.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  grumesacanariashoreca.com scores 88/100 on our public trust checks.
+  Established domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:54:50.431Z'
 finalUrl: 'https://grumesacanariashoreca.com/'
 reachable: true

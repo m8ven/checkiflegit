@@ -1,10 +1,10 @@
 ---
 domain: agromag.hu
 slug: agromag-hu
-title: Is agromag.hu Legit? Trust Signal Check
+title: Is agromag.hu Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for agromag.hu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  agromag.hu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:28:15.078Z'
 finalUrl: 'https://agromag.hu/'
 reachable: true

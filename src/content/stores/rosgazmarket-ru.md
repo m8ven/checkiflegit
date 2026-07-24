@@ -1,10 +1,10 @@
 ---
 domain: rosgazmarket.ru
 slug: rosgazmarket-ru
-title: Is rosgazmarket.ru Legit? Trust Signal Check
+title: Is rosgazmarket.ru Legit? Trust Score 22/100
 description: >-
-  An automated trust-signal check for rosgazmarket.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  rosgazmarket.ru scores 22/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:07:08.079Z'
 finalUrl: 'https://rosgazmarket.ru/'
 reachable: true

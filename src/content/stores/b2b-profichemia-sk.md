@@ -1,10 +1,10 @@
 ---
 domain: b2b.profichemia.sk
 slug: b2b-profichemia-sk
-title: Is b2b.profichemia.sk Legit? Trust Signal Check
+title: Is b2b.profichemia.sk Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for b2b.profichemia.sk: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  b2b.profichemia.sk scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:35:36.753Z'
 finalUrl: 'https://b2b.profichemia.sk/'
 reachable: true

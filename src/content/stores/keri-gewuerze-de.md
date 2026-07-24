@@ -1,10 +1,10 @@
 ---
 domain: keri-gewuerze.de
 slug: keri-gewuerze-de
-title: Is keri-gewuerze.de Legit? Trust Signal Check
+title: Is keri-gewuerze.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for keri-gewuerze.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  keri-gewuerze.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:35:10.638Z'
 finalUrl: 'https://www.keri-gewuerze.de/'
 reachable: true

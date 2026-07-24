@@ -1,10 +1,10 @@
 ---
 domain: wimmerwatches.com
 slug: wimmerwatches-com
-title: Is wimmerwatches.com Legit? Trust Signal Check
+title: Is wimmerwatches.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for wimmerwatches.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wimmerwatches.com scores 82/100 on our public trust checks. Established domain
+  — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:17.904Z'
 finalUrl: 'https://wimmerwatches.com/'
 reachable: true

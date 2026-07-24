@@ -1,10 +1,10 @@
 ---
 domain: circusmarcel.com
 slug: circusmarcel-com
-title: Is circusmarcel.com Legit? Trust Signal Check
+title: Is circusmarcel.com Legit? Trust Score 34/100
 description: >-
-  An automated trust-signal check for circusmarcel.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  circusmarcel.com scores 34/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T15:38:53.409Z'
 finalUrl: 'https://circusmarcel.com/fr/accueil/'
 reachable: true

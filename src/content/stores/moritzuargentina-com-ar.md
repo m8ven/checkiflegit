@@ -1,10 +1,10 @@
 ---
 domain: moritzuargentina.com.ar
 slug: moritzuargentina-com-ar
-title: Is moritzuargentina.com.ar Legit? Trust Signal Check
+title: Is moritzuargentina.com.ar Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for moritzuargentina.com.ar: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  moritzuargentina.com.ar scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:09.019Z'
 finalUrl: 'https://moritzuargentina.com.ar/'
 reachable: true

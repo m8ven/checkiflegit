@@ -1,10 +1,10 @@
 ---
 domain: adaptgroup.com
 slug: adaptgroup-com
-title: Is adaptgroup.com Legit? Trust Signal Check
+title: Is adaptgroup.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for adaptgroup.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  adaptgroup.com scores 88/100 on our public trust checks. Established domain —
+  registered 25.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:41.852Z'
 finalUrl: 'https://adaptgroup.com/'
 reachable: true

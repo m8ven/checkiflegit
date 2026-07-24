@@ -1,10 +1,10 @@
 ---
 domain: onlyrajesh.in
 slug: onlyrajesh-in
-title: Is onlyrajesh.in Legit? Trust Signal Check
+title: Is onlyrajesh.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for onlyrajesh.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  onlyrajesh.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:26:00.728Z'
 finalUrl: 'https://onlyrajesh.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pt-nbm.com
 slug: pt-nbm-com
-title: Is pt-nbm.com Legit? Trust Signal Check
+title: Is pt-nbm.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pt-nbm.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pt-nbm.com scores 76/100 on our public trust checks. Established domain —
+  registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:45.542Z'
 finalUrl: 'https://pt-nbm.com/'
 reachable: true

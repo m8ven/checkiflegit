@@ -1,10 +1,10 @@
 ---
 domain: ironsidemilitary.com.au
 slug: ironsidemilitary-com-au
-title: Is ironsidemilitary.com.au Legit? Trust Signal Check
+title: Is ironsidemilitary.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ironsidemilitary.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ironsidemilitary.com.au scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:02:44.204Z'
 finalUrl: 'https://ironsidemilitary.com.au/'
 reachable: true

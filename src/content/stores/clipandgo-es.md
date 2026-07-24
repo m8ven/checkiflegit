@@ -1,10 +1,10 @@
 ---
 domain: clipandgo.es
 slug: clipandgo-es
-title: Is clipandgo.es Legit? Trust Signal Check
+title: Is clipandgo.es Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for clipandgo.es: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  clipandgo.es scores 49/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T03:00:11.563Z'
 finalUrl: 'https://www.clipandgo.es/'
 reachable: true

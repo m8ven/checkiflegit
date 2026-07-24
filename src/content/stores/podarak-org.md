@@ -1,10 +1,10 @@
 ---
 domain: podarak.org
 slug: podarak-org
-title: Is podarak.org Legit? Trust Signal Check
+title: Is podarak.org Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for podarak.org: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  podarak.org scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:25:35.848Z'
 finalUrl: 'https://www.podarak.org/'
 reachable: true

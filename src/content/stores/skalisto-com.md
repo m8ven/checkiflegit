@@ -1,10 +1,10 @@
 ---
 domain: skalisto.com
 slug: skalisto-com
-title: Is skalisto.com Legit? Trust Signal Check
+title: Is skalisto.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for skalisto.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  skalisto.com scores 58/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:21:46.239Z'
 finalUrl: 'https://www.skalisto.com/'
 reachable: true

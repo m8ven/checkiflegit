@@ -1,10 +1,10 @@
 ---
 domain: laiaossorio.com
 slug: laiaossorio-com
-title: Is laiaossorio.com Legit? Trust Signal Check
+title: Is laiaossorio.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for laiaossorio.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  laiaossorio.com scores 88/100 on our public trust checks. Established domain —
+  registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:31.107Z'
 finalUrl: 'https://laiaossorio.com/'
 reachable: true

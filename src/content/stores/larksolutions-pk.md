@@ -1,10 +1,10 @@
 ---
 domain: larksolutions.pk
 slug: larksolutions-pk
-title: Is larksolutions.pk Legit? Trust Signal Check
+title: Is larksolutions.pk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for larksolutions.pk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  larksolutions.pk scores 88/100 on our public trust checks. Established domain
+  — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:22:36.944Z'
 finalUrl: 'https://www.larksolutions.pk/'
 reachable: true

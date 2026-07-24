@@ -1,10 +1,10 @@
 ---
 domain: e-surfer.com
 slug: e-surfer-com
-title: Is e-surfer.com Legit? Trust Signal Check
+title: Is e-surfer.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for e-surfer.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  e-surfer.com scores 100/100 on our public trust checks. Established domain —
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:20.513Z'
 finalUrl: 'https://e-surfer.com/de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vivudulich.com
 slug: vivudulich-com
-title: Is vivudulich.com Legit? Trust Signal Check
+title: Is vivudulich.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for vivudulich.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vivudulich.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:18:48.344Z'
 finalUrl: 'https://vivudulich.com/'
 reachable: true

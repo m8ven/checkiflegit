@@ -1,10 +1,10 @@
 ---
 domain: lavishshop.bg
 slug: lavishshop-bg
-title: Is lavishshop.bg Legit? Trust Signal Check
+title: Is lavishshop.bg Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for lavishshop.bg: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lavishshop.bg scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:41:38.001Z'
 finalUrl: 'https://lavishshop.bg/'
 reachable: true

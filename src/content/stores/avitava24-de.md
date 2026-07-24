@@ -1,10 +1,10 @@
 ---
 domain: avitava24.de
 slug: avitava24-de
-title: Is avitava24.de Legit? Trust Signal Check
+title: Is avitava24.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for avitava24.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  avitava24.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:25:56.427Z'
 finalUrl: 'https://avitava24.de/'
 reachable: true

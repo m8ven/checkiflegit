@@ -1,10 +1,10 @@
 ---
 domain: larryadams.co.uk
 slug: larryadams-co-uk
-title: Is larryadams.co.uk Legit? Trust Signal Check
+title: Is larryadams.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for larryadams.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  larryadams.co.uk scores 100/100 on our public trust checks. Established domain
+  — registered 20.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:36.554Z'
 finalUrl: 'https://larryadams.co.uk/'
 reachable: true

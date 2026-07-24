@@ -1,10 +1,10 @@
 ---
 domain: mystamp.gr
 slug: mystamp-gr
-title: Is mystamp.gr Legit? Trust Signal Check
+title: Is mystamp.gr Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mystamp.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mystamp.gr scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:57:50.164Z'
 finalUrl: 'https://mystamp.gr/'
 reachable: true

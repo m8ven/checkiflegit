@@ -1,10 +1,10 @@
 ---
 domain: magnumphotos.com
 slug: magnumphotos-com
-title: Is magnumphotos.com Legit? Trust Signal Check
+title: Is magnumphotos.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for magnumphotos.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  magnumphotos.com scores 70/100 on our public trust checks. Established domain
+  — registered 29.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:27.012Z'
 finalUrl: 'https://www.magnumphotos.com/'
 reachable: true

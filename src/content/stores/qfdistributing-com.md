@@ -1,10 +1,10 @@
 ---
 domain: qfdistributing.com
 slug: qfdistributing-com
-title: Is qfdistributing.com Legit? Trust Signal Check
+title: Is qfdistributing.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for qfdistributing.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  qfdistributing.com scores 73/100 on our public trust checks. Established
+  domain — registered 16.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:11.159Z'
 finalUrl: 'https://qfdistributing.com/'
 reachable: true

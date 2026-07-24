@@ -1,10 +1,10 @@
 ---
 domain: saicadcentre.com
 slug: saicadcentre-com
-title: Is saicadcentre.com Legit? Trust Signal Check
+title: Is saicadcentre.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for saicadcentre.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  saicadcentre.com scores 100/100 on our public trust checks. Established domain
+  — registered 16.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:08.641Z'
 finalUrl: 'https://www.saicadcentre.com/'
 reachable: true

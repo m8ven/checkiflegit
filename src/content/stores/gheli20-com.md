@@ -1,10 +1,10 @@
 ---
 domain: gheli20.com
 slug: gheli20-com
-title: Is gheli20.com Legit? Trust Signal Check
+title: Is gheli20.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for gheli20.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  gheli20.com scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:13:41.274Z'
 finalUrl: 'https://gheli20.com/'
 reachable: true

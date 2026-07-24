@@ -1,10 +1,10 @@
 ---
 domain: dianalidstone.com
 slug: dianalidstone-com
-title: Is dianalidstone.com Legit? Trust Signal Check
+title: Is dianalidstone.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dianalidstone.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dianalidstone.com scores 88/100 on our public trust checks. Established domain
+  — registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:36.263Z'
 finalUrl: 'https://dianalidstone.com/'
 reachable: true

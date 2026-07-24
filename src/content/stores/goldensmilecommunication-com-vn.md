@@ -1,10 +1,11 @@
 ---
 domain: goldensmilecommunication.com.vn
 slug: goldensmilecommunication-com-vn
-title: Is goldensmilecommunication.com.vn Legit? Trust Signal Check
+title: Is goldensmilecommunication.com.vn Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for goldensmilecommunication.com.vn: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  goldensmilecommunication.com.vn scores 49/100 on our public trust checks.
+  Standard contact and policy pages were not found. Limited social media
+  presence.
 fetchedAt: '2026-06-25T14:50:45.796Z'
 finalUrl: 'https://goldensmilecommunication.com.vn/'
 reachable: true

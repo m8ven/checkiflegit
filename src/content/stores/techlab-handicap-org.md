@@ -1,10 +1,10 @@
 ---
 domain: techlab-handicap.org
 slug: techlab-handicap-org
-title: Is techlab-handicap.org Legit? Trust Signal Check
+title: Is techlab-handicap.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for techlab-handicap.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  techlab-handicap.org scores 88/100 on our public trust checks. Established
+  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:14:33.528Z'
 finalUrl: 'https://techlab-handicap.org/'
 reachable: true

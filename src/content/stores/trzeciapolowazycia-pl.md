@@ -1,10 +1,10 @@
 ---
 domain: trzeciapolowazycia.pl
 slug: trzeciapolowazycia-pl
-title: Is trzeciapolowazycia.pl Legit? Trust Signal Check
+title: Is trzeciapolowazycia.pl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for trzeciapolowazycia.pl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  trzeciapolowazycia.pl scores 73/100 on our public trust checks. Established
+  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:14:03.235Z'
 finalUrl: 'https://trzeciapolowazycia.pl/'
 reachable: true

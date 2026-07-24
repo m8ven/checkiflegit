@@ -1,10 +1,10 @@
 ---
 domain: sneakerbaker.com
 slug: sneakerbaker-com
-title: Is sneakerbaker.com Legit? Trust Signal Check
+title: Is sneakerbaker.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for sneakerbaker.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sneakerbaker.com scores 70/100 on our public trust checks. Established domain
+  — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:31:38.560Z'
 finalUrl: 'https://sneakerbaker.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lesptits-tou.fr
 slug: lesptits-tou-fr
-title: Is lesptits-tou.fr Legit? Trust Signal Check
+title: Is lesptits-tou.fr Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for lesptits-tou.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lesptits-tou.fr scores 94/100 on our public trust checks. Established domain —
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:55.105Z'
 finalUrl: 'https://lesptits-tou.fr/'
 reachable: true

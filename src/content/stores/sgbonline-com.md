@@ -1,10 +1,10 @@
 ---
 domain: sgbonline.com
 slug: sgbonline-com
-title: Is sgbonline.com Legit? Trust Signal Check
+title: Is sgbonline.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for sgbonline.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sgbonline.com scores 70/100 on our public trust checks. Established domain —
+  registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:02:45.490Z'
 finalUrl: 'https://sgbonline.com/'
 reachable: true

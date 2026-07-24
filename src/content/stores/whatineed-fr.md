@@ -1,10 +1,11 @@
 ---
 domain: whatineed.fr
 slug: whatineed-fr
-title: Is whatineed.fr Legit? Trust Signal Check
+title: Is whatineed.fr Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for whatineed.fr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  whatineed.fr scores 61/100 on our public trust checks. No links to major
+  social platforms found. HTTPS certificate present but its trust chain is
+  incomplete.
 fetchedAt: '2026-06-25T03:29:19.752Z'
 finalUrl: 'https://www.whatineed.fr/'
 reachable: true

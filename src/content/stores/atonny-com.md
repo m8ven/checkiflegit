@@ -1,10 +1,10 @@
 ---
 domain: atonny.com
 slug: atonny-com
-title: Is atonny.com Legit? Trust Signal Check
+title: Is atonny.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for atonny.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  atonny.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:49:02.775Z'
 finalUrl: 'https://atonny.com/'
 reachable: true

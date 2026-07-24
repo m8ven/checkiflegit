@@ -1,10 +1,10 @@
 ---
 domain: 360golf.nl
 slug: 360golf-nl
-title: Is 360golf.nl Legit? Trust Signal Check
+title: Is 360golf.nl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 360golf.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  360golf.nl scores 88/100 on our public trust checks. Established domain —
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:58.387Z'
 finalUrl: 'https://360golf.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: onlineweeddispensary.co
 slug: onlineweeddispensary-co
-title: Is onlineweeddispensary.co Legit? Trust Signal Check
+title: Is onlineweeddispensary.co Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for onlineweeddispensary.co: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  onlineweeddispensary.co scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:00.010Z'
 finalUrl: 'https://onlineweeddispensary.co/'
 reachable: true

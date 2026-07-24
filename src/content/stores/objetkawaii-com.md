@@ -1,10 +1,10 @@
 ---
 domain: objetkawaii.com
 slug: objetkawaii-com
-title: Is objetkawaii.com Legit? Trust Signal Check
+title: Is objetkawaii.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for objetkawaii.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  objetkawaii.com scores 73/100 on our public trust checks. Established domain —
+  registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:22.915Z'
 finalUrl: 'https://objetkawaii.com/'
 reachable: true

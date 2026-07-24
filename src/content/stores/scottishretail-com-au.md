@@ -1,10 +1,10 @@
 ---
 domain: scottishretail.com.au
 slug: scottishretail-com-au
-title: Is scottishretail.com.au Legit? Trust Signal Check
+title: Is scottishretail.com.au Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for scottishretail.com.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  scottishretail.com.au scores 49/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:44:18.471Z'
 finalUrl: 'https://scottishretail.com.au/'
 reachable: true

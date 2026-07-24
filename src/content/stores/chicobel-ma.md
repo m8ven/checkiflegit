@@ -1,10 +1,10 @@
 ---
 domain: chicobel.ma
 slug: chicobel-ma
-title: Is chicobel.ma Legit? Trust Signal Check
+title: Is chicobel.ma Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for chicobel.ma: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  chicobel.ma scores 94/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:38.862Z'
 finalUrl: 'https://www.chicobel.ma/'
 reachable: true

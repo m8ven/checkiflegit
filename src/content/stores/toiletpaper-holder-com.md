@@ -1,10 +1,10 @@
 ---
 domain: toiletpaper-holder.com
 slug: toiletpaper-holder-com
-title: Is toiletpaper-holder.com Legit? Trust Signal Check
+title: Is toiletpaper-holder.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for toiletpaper-holder.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  toiletpaper-holder.com scores 76/100 on our public trust checks. Established
+  domain — registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:14.463Z'
 finalUrl: 'https://toiletpaper-holder.com/'
 reachable: true

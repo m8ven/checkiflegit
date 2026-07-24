@@ -1,10 +1,10 @@
 ---
 domain: bestgiftspromo.com
 slug: bestgiftspromo-com
-title: Is bestgiftspromo.com Legit? Trust Signal Check
+title: Is bestgiftspromo.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bestgiftspromo.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bestgiftspromo.com scores 88/100 on our public trust checks. Established
+  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:28.345Z'
 finalUrl: 'https://bestgiftspromo.com/'
 reachable: true

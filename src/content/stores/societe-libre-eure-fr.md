@@ -1,10 +1,10 @@
 ---
 domain: societe-libre-eure.fr
 slug: societe-libre-eure-fr
-title: Is societe-libre-eure.fr Legit? Trust Signal Check
+title: Is societe-libre-eure.fr Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for societe-libre-eure.fr: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  societe-libre-eure.fr scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:06:55.490Z'
 finalUrl: 'https://societe-libre-eure.fr/'
 reachable: true

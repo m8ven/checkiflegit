@@ -1,10 +1,10 @@
 ---
 domain: az-supplies.be
 slug: az-supplies-be
-title: Is az-supplies.be Legit? Trust Signal Check
+title: Is az-supplies.be Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for az-supplies.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  az-supplies.be scores 73/100 on our public trust checks. Established domain —
+  registered 19.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:44.938Z'
 finalUrl: 'https://www.az-supplies.be/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kechaidis.gr
 slug: kechaidis-gr
-title: Is kechaidis.gr Legit? Trust Signal Check
+title: Is kechaidis.gr Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kechaidis.gr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kechaidis.gr scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:41:35.734Z'
 finalUrl: 'https://kechaidis.gr/'
 reachable: true

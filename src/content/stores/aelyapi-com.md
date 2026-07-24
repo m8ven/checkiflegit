@@ -1,10 +1,10 @@
 ---
 domain: aelyapi.com
 slug: aelyapi-com
-title: Is aelyapi.com Legit? Trust Signal Check
+title: Is aelyapi.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for aelyapi.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aelyapi.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:33:10.418Z'
 finalUrl: 'https://aelyapi.com/'
 reachable: true

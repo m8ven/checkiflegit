@@ -1,10 +1,10 @@
 ---
 domain: nico71.fr
 slug: nico71-fr
-title: Is nico71.fr Legit? Trust Signal Check
+title: Is nico71.fr Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nico71.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nico71.fr scores 76/100 on our public trust checks. Established domain —
+  registered 16.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:41.544Z'
 finalUrl: 'https://www.nico71.fr/'
 reachable: true

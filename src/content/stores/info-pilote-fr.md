@@ -1,10 +1,10 @@
 ---
 domain: info-pilote.fr
 slug: info-pilote-fr
-title: Is info-pilote.fr Legit? Trust Signal Check
+title: Is info-pilote.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for info-pilote.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  info-pilote.fr scores 88/100 on our public trust checks. Established domain —
+  registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:21:06.331Z'
 finalUrl: 'https://www.info-pilote.fr/'
 reachable: true

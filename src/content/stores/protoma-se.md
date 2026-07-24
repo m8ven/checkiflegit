@@ -1,10 +1,10 @@
 ---
 domain: protoma.se
 slug: protoma-se
-title: Is protoma.se Legit? Trust Signal Check
+title: Is protoma.se Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for protoma.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  protoma.se scores 73/100 on our public trust checks. Established domain —
+  registered 29.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:25.839Z'
 finalUrl: 'https://protoma.se/'
 reachable: true

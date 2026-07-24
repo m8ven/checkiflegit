@@ -1,10 +1,10 @@
 ---
 domain: lamusicoach.com
 slug: lamusicoach-com
-title: Is lamusicoach.com Legit? Trust Signal Check
+title: Is lamusicoach.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for lamusicoach.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  lamusicoach.com scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found.
 fetchedAt: '2026-06-25T15:18:47.800Z'
 finalUrl: 'https://lamusicoach.com/'
 reachable: true

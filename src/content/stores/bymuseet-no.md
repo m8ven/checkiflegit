@@ -1,10 +1,10 @@
 ---
 domain: bymuseet.no
 slug: bymuseet-no
-title: Is bymuseet.no Legit? Trust Signal Check
+title: Is bymuseet.no Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bymuseet.no: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bymuseet.no scores 88/100 on our public trust checks. Established domain —
+  registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:59.970Z'
 finalUrl: 'https://bymuseet.no/'
 reachable: true

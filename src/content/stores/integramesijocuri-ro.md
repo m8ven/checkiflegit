@@ -1,10 +1,10 @@
 ---
 domain: integramesijocuri.ro
 slug: integramesijocuri-ro
-title: Is integramesijocuri.ro Legit? Trust Signal Check
+title: Is integramesijocuri.ro Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for integramesijocuri.ro: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  integramesijocuri.ro scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:00:58.942Z'
 finalUrl: 'https://integramesijocuri.ro/'
 reachable: true

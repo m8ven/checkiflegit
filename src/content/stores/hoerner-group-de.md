@@ -1,10 +1,10 @@
 ---
 domain: hoerner-group.de
 slug: hoerner-group-de
-title: Is hoerner-group.de Legit? Trust Signal Check
+title: Is hoerner-group.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hoerner-group.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hoerner-group.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:45:58.866Z'
 finalUrl: 'https://hoerner-group.de/'
 reachable: true

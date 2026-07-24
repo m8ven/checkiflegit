@@ -1,10 +1,10 @@
 ---
 domain: indiancarpets.in
 slug: indiancarpets-in
-title: Is indiancarpets.in Legit? Trust Signal Check
+title: Is indiancarpets.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for indiancarpets.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  indiancarpets.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:30:42.010Z'
 finalUrl: 'https://indiancarpets.in/'
 reachable: true

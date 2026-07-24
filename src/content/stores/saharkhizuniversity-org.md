@@ -1,10 +1,10 @@
 ---
 domain: saharkhizuniversity.org
 slug: saharkhizuniversity-org
-title: Is saharkhizuniversity.org Legit? Trust Signal Check
+title: Is saharkhizuniversity.org Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for saharkhizuniversity.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  saharkhizuniversity.org scores 82/100 on our public trust checks. Established
+  domain — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:36.643Z'
 finalUrl: 'https://saharkhizuniversity.org/'
 reachable: true

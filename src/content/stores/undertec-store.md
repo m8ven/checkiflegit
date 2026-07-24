@@ -1,10 +1,10 @@
 ---
 domain: undertec.store
 slug: undertec-store
-title: Is undertec.store Legit? Trust Signal Check
+title: Is undertec.store Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for undertec.store: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  undertec.store scores 88/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:54.822Z'
 finalUrl: 'https://www.undertec.store/'
 reachable: true

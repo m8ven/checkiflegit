@@ -1,10 +1,10 @@
 ---
 domain: notjustatourist.com
 slug: notjustatourist-com
-title: Is notjustatourist.com Legit? Trust Signal Check
+title: Is notjustatourist.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for notjustatourist.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  notjustatourist.com scores 88/100 on our public trust checks. Established
+  domain — registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:27.096Z'
 finalUrl: 'https://notjustatourist.com/'
 reachable: true

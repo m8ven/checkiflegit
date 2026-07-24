@@ -1,10 +1,10 @@
 ---
 domain: fightsupplies.net
 slug: fightsupplies-net
-title: Is fightsupplies.net Legit? Trust Signal Check
+title: Is fightsupplies.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fightsupplies.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fightsupplies.net scores 100/100 on our public trust checks. Established
+  domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:00.616Z'
 finalUrl: 'https://fightsupplies.net/'
 reachable: true

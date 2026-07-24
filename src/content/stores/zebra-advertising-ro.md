@@ -1,10 +1,10 @@
 ---
 domain: zebra-advertising.ro
 slug: zebra-advertising-ro
-title: Is zebra-advertising.ro Legit? Trust Signal Check
+title: Is zebra-advertising.ro Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for zebra-advertising.ro: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  zebra-advertising.ro scores 88/100 on our public trust checks. Established
+  domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:57.467Z'
 finalUrl: 'https://zebra-advertising.ro/'
 reachable: true

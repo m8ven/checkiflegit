@@ -1,10 +1,11 @@
 ---
 domain: britishschoolalmeria.com
 slug: britishschoolalmeria-com
-title: Is britishschoolalmeria.com Legit? Trust Signal Check
+title: Is britishschoolalmeria.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for britishschoolalmeria.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  britishschoolalmeria.com scores 100/100 on our public trust checks.
+  Established domain — registered 7.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:20:34.519Z'
 finalUrl: 'https://britishschoolalmeria.com/'
 reachable: true

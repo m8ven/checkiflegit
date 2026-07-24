@@ -1,10 +1,10 @@
 ---
 domain: mothersnutrition.com
 slug: mothersnutrition-com
-title: Is mothersnutrition.com Legit? Trust Signal Check
+title: Is mothersnutrition.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for mothersnutrition.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mothersnutrition.com scores 64/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T14:58:42.763Z'
 finalUrl: 'https://mothersnutrition.com/'
 reachable: true

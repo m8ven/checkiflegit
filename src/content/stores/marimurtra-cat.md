@@ -1,10 +1,10 @@
 ---
 domain: marimurtra.cat
 slug: marimurtra-cat
-title: Is marimurtra.cat Legit? Trust Signal Check
+title: Is marimurtra.cat Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for marimurtra.cat: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  marimurtra.cat scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:27:35.192Z'
 finalUrl: 'https://marimurtra.cat/'
 reachable: true

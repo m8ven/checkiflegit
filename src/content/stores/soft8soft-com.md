@@ -1,10 +1,10 @@
 ---
 domain: soft8soft.com
 slug: soft8soft-com
-title: Is soft8soft.com Legit? Trust Signal Check
+title: Is soft8soft.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for soft8soft.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  soft8soft.com scores 76/100 on our public trust checks. Established domain —
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:33.161Z'
 finalUrl: 'https://www.soft8soft.com/'
 reachable: true

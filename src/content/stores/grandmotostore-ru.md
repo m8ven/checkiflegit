@@ -1,10 +1,10 @@
 ---
 domain: grandmotostore.ru
 slug: grandmotostore-ru
-title: Is grandmotostore.ru Legit? Trust Signal Check
+title: Is grandmotostore.ru Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for grandmotostore.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  grandmotostore.ru scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T14:59:36.891Z'
 finalUrl: 'https://grandmotostore.ru/'
 reachable: true

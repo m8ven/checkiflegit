@@ -1,10 +1,10 @@
 ---
 domain: myraymond.com
 slug: myraymond-com
-title: Is myraymond.com Legit? Trust Signal Check
+title: Is myraymond.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for myraymond.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  myraymond.com scores 88/100 on our public trust checks. Established domain —
+  registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:41.592Z'
 finalUrl: 'https://myraymond.com/'
 reachable: true

@@ -1,11 +1,11 @@
 ---
 domain: surdurulebiliregitim.org
 slug: surdurulebiliregitim-org
-title: Is surdurulebiliregitim.org Legit? Trust Signal Check
+title: Is surdurulebiliregitim.org Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for surdurulebiliregitim.org: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  surdurulebiliregitim.org scores 43/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:30:46.344Z'
 finalUrl: 'https://www.surdurulebiliregitim.org/'
 reachable: true

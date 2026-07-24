@@ -1,10 +1,10 @@
 ---
 domain: mobexpert.ro
 slug: mobexpert-ro
-title: Is mobexpert.ro Legit? Trust Signal Check
+title: Is mobexpert.ro Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mobexpert.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mobexpert.ro scores 100/100 on our public trust checks. Established domain —
+  registered 18.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:37.616Z'
 finalUrl: 'https://mobexpert.ro/'
 reachable: true

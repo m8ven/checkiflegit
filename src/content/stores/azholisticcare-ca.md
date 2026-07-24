@@ -1,10 +1,10 @@
 ---
 domain: azholisticcare.ca
 slug: azholisticcare-ca
-title: Is azholisticcare.ca Legit? Trust Signal Check
+title: Is azholisticcare.ca Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for azholisticcare.ca: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  azholisticcare.ca scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:42:29.579Z'
 finalUrl: 'https://azholisticcare.ca/'
 reachable: true

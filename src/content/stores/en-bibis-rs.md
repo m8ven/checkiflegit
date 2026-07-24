@@ -1,10 +1,10 @@
 ---
 domain: en.bibis.rs
 slug: en-bibis-rs
-title: Is en.bibis.rs Legit? Trust Signal Check
+title: Is en.bibis.rs Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for en.bibis.rs: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  en.bibis.rs scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:27:10.707Z'
 finalUrl: 'https://en.bibis.rs/'
 reachable: true

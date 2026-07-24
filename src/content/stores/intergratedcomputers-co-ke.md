@@ -1,10 +1,11 @@
 ---
 domain: intergratedcomputers.co.ke
 slug: intergratedcomputers-co-ke
-title: Is intergratedcomputers.co.ke Legit? Trust Signal Check
+title: Is intergratedcomputers.co.ke Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for intergratedcomputers.co.ke: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  intergratedcomputers.co.ke scores 73/100 on our public trust checks.
+  Established domain — registered 7.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:02:44.479Z'
 finalUrl: 'http://intergratedcomputers.co.ke/'
 reachable: true

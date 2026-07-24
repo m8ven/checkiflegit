@@ -1,10 +1,10 @@
 ---
 domain: apricotonehotels.com
 slug: apricotonehotels-com
-title: Is apricotonehotels.com Legit? Trust Signal Check
+title: Is apricotonehotels.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for apricotonehotels.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  apricotonehotels.com scores 55/100 on our public trust checks. No links to
+  major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T15:35:26.793Z'
 finalUrl: 'https://apricotonehotels.com/'
 reachable: true

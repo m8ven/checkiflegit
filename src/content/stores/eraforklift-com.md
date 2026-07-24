@@ -1,10 +1,10 @@
 ---
 domain: eraforklift.com
 slug: eraforklift-com
-title: Is eraforklift.com Legit? Trust Signal Check
+title: Is eraforklift.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for eraforklift.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eraforklift.com scores 100/100 on our public trust checks. Established domain
+  — registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:49.886Z'
 finalUrl: 'https://eraforklift.com/'
 reachable: true

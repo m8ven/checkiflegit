@@ -1,10 +1,10 @@
 ---
 domain: myhomepark.com
 slug: myhomepark-com
-title: Is myhomepark.com Legit? Trust Signal Check
+title: Is myhomepark.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for myhomepark.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  myhomepark.com scores 73/100 on our public trust checks. Established domain —
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:29.099Z'
 finalUrl: 'https://myhomepark.com/'
 reachable: true

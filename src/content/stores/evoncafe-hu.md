@@ -1,10 +1,11 @@
 ---
 domain: evoncafe.hu
 slug: evoncafe-hu
-title: Is evoncafe.hu Legit? Trust Signal Check
+title: Is evoncafe.hu Legit? Trust Score 6/100
 description: >-
-  An automated trust-signal check for evoncafe.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  evoncafe.hu scores 6/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T15:17:21.119Z'
 finalUrl: 'https://www.evoncafe.hu/'
 reachable: true

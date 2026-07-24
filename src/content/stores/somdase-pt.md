@@ -1,10 +1,10 @@
 ---
 domain: somdase.pt
 slug: somdase-pt
-title: Is somdase.pt Legit? Trust Signal Check
+title: Is somdase.pt Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for somdase.pt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  somdase.pt scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:51:49.468Z'
 finalUrl: 'https://somdase.pt/'
 reachable: true

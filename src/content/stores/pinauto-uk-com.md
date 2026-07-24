@@ -1,10 +1,10 @@
 ---
 domain: pinauto-uk.com
 slug: pinauto-uk-com
-title: Is pinauto-uk.com Legit? Trust Signal Check
+title: Is pinauto-uk.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pinauto-uk.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pinauto-uk.com scores 100/100 on our public trust checks. Established domain —
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:10.120Z'
 finalUrl: 'https://pinauto-uk.com/'
 reachable: true

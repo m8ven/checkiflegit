@@ -1,10 +1,10 @@
 ---
 domain: snoerebaand.dk
 slug: snoerebaand-dk
-title: Is snoerebaand.dk Legit? Trust Signal Check
+title: Is snoerebaand.dk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for snoerebaand.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  snoerebaand.dk scores 82/100 on our public trust checks. Established domain —
+  registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:38.704Z'
 finalUrl: 'https://snoerebaand.dk/'
 reachable: true

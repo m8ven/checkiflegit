@@ -1,10 +1,10 @@
 ---
 domain: megaknihy.cz
 slug: megaknihy-cz
-title: Is megaknihy.cz Legit? Trust Signal Check
+title: Is megaknihy.cz Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for megaknihy.cz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  megaknihy.cz scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:39.359Z'
 finalUrl: 'https://www.megaknihy.cz/'
 reachable: true

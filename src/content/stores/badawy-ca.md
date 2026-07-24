@@ -1,10 +1,10 @@
 ---
 domain: badawy.ca
 slug: badawy-ca
-title: Is badawy.ca Legit? Trust Signal Check
+title: Is badawy.ca Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for badawy.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  badawy.ca scores 100/100 on our public trust checks. Established domain —
+  registered 25.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:03.836Z'
 finalUrl: 'https://badawy.ca/'
 reachable: true

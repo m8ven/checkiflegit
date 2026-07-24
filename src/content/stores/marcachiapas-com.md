@@ -1,10 +1,10 @@
 ---
 domain: marcachiapas.com
 slug: marcachiapas-com
-title: Is marcachiapas.com Legit? Trust Signal Check
+title: Is marcachiapas.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for marcachiapas.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  marcachiapas.com scores 88/100 on our public trust checks. Established domain
+  — registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:15.360Z'
 finalUrl: 'https://marcachiapas.com/'
 reachable: true

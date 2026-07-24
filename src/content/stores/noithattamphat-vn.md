@@ -1,10 +1,10 @@
 ---
 domain: noithattamphat.vn
 slug: noithattamphat-vn
-title: Is noithattamphat.vn Legit? Trust Signal Check
+title: Is noithattamphat.vn Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for noithattamphat.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  noithattamphat.vn scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:03.407Z'
 finalUrl: 'https://noithattamphat.vn/'
 reachable: true

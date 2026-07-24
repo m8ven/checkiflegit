@@ -1,10 +1,10 @@
 ---
 domain: hondenwinkel.nl
 slug: hondenwinkel-nl
-title: Is hondenwinkel.nl Legit? Trust Signal Check
+title: Is hondenwinkel.nl Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for hondenwinkel.nl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  hondenwinkel.nl scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found.
 fetchedAt: '2026-06-25T03:20:29.813Z'
 finalUrl: 'https://www.hondenwinkel.nl/'
 reachable: true

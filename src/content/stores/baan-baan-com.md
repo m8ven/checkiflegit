@@ -1,10 +1,10 @@
 ---
 domain: baan-baan.com
 slug: baan-baan-com
-title: Is baan-baan.com Legit? Trust Signal Check
+title: Is baan-baan.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for baan-baan.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  baan-baan.com scores 100/100 on our public trust checks. Established domain —
+  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:02.568Z'
 finalUrl: 'https://baan-baan.com/'
 reachable: true

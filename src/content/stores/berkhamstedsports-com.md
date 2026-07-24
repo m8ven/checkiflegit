@@ -1,10 +1,10 @@
 ---
 domain: berkhamstedsports.com
 slug: berkhamstedsports-com
-title: Is berkhamstedsports.com Legit? Trust Signal Check
+title: Is berkhamstedsports.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for berkhamstedsports.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  berkhamstedsports.com scores 94/100 on our public trust checks. Established
+  domain — registered 8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:13.794Z'
 finalUrl: 'https://berkhamstedsports.com/'
 reachable: true

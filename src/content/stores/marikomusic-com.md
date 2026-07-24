@@ -1,10 +1,10 @@
 ---
 domain: marikomusic.com
 slug: marikomusic-com
-title: Is marikomusic.com Legit? Trust Signal Check
+title: Is marikomusic.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for marikomusic.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  marikomusic.com scores 100/100 on our public trust checks. Established domain
+  — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:27.040Z'
 finalUrl: 'https://marikomusic.com/'
 reachable: true

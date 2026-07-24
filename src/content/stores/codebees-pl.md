@@ -1,10 +1,10 @@
 ---
 domain: codebees.pl
 slug: codebees-pl
-title: Is codebees.pl Legit? Trust Signal Check
+title: Is codebees.pl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for codebees.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  codebees.pl scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:38:45.130Z'
 finalUrl: 'https://codebees.pl/'
 reachable: true

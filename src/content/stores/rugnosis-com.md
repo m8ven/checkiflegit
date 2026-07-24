@@ -1,10 +1,10 @@
 ---
 domain: rugnosis.com
 slug: rugnosis-com
-title: Is rugnosis.com Legit? Trust Signal Check
+title: Is rugnosis.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rugnosis.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rugnosis.com scores 88/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:22.909Z'
 finalUrl: 'https://rugnosis.com/'
 reachable: true

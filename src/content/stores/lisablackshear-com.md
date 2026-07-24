@@ -1,10 +1,10 @@
 ---
 domain: lisablackshear.com
 slug: lisablackshear-com
-title: Is lisablackshear.com Legit? Trust Signal Check
+title: Is lisablackshear.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for lisablackshear.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lisablackshear.com scores 76/100 on our public trust checks. Established
+  domain — registered 27.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:16.734Z'
 finalUrl: 'https://www.lisablackshear.com/'
 reachable: true

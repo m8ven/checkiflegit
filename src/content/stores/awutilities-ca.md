@@ -1,10 +1,10 @@
 ---
 domain: awutilities.ca
 slug: awutilities-ca
-title: Is awutilities.ca Legit? Trust Signal Check
+title: Is awutilities.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for awutilities.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  awutilities.ca scores 100/100 on our public trust checks. Established domain —
+  registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:18.709Z'
 finalUrl: 'https://awutilities.ca/'
 reachable: true

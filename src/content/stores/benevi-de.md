@@ -1,10 +1,10 @@
 ---
 domain: benevi.de
 slug: benevi-de
-title: Is benevi.de Legit? Trust Signal Check
+title: Is benevi.de Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for benevi.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  benevi.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:19:09.013Z'
 finalUrl: 'https://benevi.de/'
 reachable: true

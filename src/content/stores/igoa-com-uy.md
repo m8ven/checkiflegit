@@ -1,10 +1,10 @@
 ---
 domain: igoa.com.uy
 slug: igoa-com-uy
-title: Is igoa.com.uy Legit? Trust Signal Check
+title: Is igoa.com.uy Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for igoa.com.uy: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  igoa.com.uy scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:56:36.382Z'
 finalUrl: 'https://igoa.com.uy/'
 reachable: true

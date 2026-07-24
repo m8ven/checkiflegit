@@ -1,10 +1,10 @@
 ---
 domain: stonesinstyle.com
 slug: stonesinstyle-com
-title: Is stonesinstyle.com Legit? Trust Signal Check
+title: Is stonesinstyle.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for stonesinstyle.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stonesinstyle.com scores 70/100 on our public trust checks. Established domain
+  — registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:43.822Z'
 finalUrl: 'https://www.stonesinstyle.com/en/'
 reachable: true

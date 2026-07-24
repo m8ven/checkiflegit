@@ -1,10 +1,10 @@
 ---
 domain: diemacher.at
 slug: diemacher-at
-title: Is diemacher.at Legit? Trust Signal Check
+title: Is diemacher.at Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for diemacher.at: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  diemacher.at scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:15.484Z'
 finalUrl: 'https://diemacher.at/'
 reachable: true

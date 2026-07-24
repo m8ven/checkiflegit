@@ -1,10 +1,10 @@
 ---
 domain: gigglinpig.com
 slug: gigglinpig-com
-title: Is gigglinpig.com Legit? Trust Signal Check
+title: Is gigglinpig.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for gigglinpig.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gigglinpig.com scores 100/100 on our public trust checks. Established domain —
+  registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:42.824Z'
 finalUrl: 'https://gigglinpig.com/'
 reachable: true

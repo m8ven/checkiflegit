@@ -1,10 +1,10 @@
 ---
 domain: discgame.ir
 slug: discgame-ir
-title: Is discgame.ir Legit? Trust Signal Check
+title: Is discgame.ir Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for discgame.ir: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  discgame.ir scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:30:50.461Z'
 finalUrl: 'https://discgame.ir/'
 reachable: true

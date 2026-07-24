@@ -1,10 +1,11 @@
 ---
 domain: neter.pro
 slug: neter-pro
-title: Is neter.pro Legit? Trust Signal Check
+title: Is neter.pro Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for neter.pro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  neter.pro scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T15:24:29.065Z'
 finalUrl: 'https://neter.pro/'
 reachable: true

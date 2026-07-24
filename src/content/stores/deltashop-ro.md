@@ -1,10 +1,10 @@
 ---
 domain: deltashop.ro
 slug: deltashop-ro
-title: Is deltashop.ro Legit? Trust Signal Check
+title: Is deltashop.ro Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for deltashop.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  deltashop.ro scores 82/100 on our public trust checks. Established domain —
+  registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:04.292Z'
 finalUrl: 'https://www.deltashop.ro/'
 reachable: true

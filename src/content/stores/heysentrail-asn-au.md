@@ -1,10 +1,10 @@
 ---
 domain: heysentrail.asn.au
 slug: heysentrail-asn-au
-title: Is heysentrail.asn.au Legit? Trust Signal Check
+title: Is heysentrail.asn.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for heysentrail.asn.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  heysentrail.asn.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:53:11.011Z'
 finalUrl: 'https://heysentrail.asn.au/'
 reachable: true

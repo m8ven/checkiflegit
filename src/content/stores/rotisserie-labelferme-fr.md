@@ -1,10 +1,10 @@
 ---
 domain: rotisserie-labelferme.fr
 slug: rotisserie-labelferme-fr
-title: Is rotisserie-labelferme.fr Legit? Trust Signal Check
+title: Is rotisserie-labelferme.fr Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for rotisserie-labelferme.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rotisserie-labelferme.fr scores 76/100 on our public trust checks. Established
+  domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:11.666Z'
 finalUrl: 'https://www.rotisserie-labelferme.fr/'
 reachable: true

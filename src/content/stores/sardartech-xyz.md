@@ -1,10 +1,10 @@
 ---
 domain: sardartech.xyz
 slug: sardartech-xyz
-title: Is sardartech.xyz Legit? Trust Signal Check
+title: Is sardartech.xyz Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sardartech.xyz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sardartech.xyz scores 100/100 on our public trust checks. Established domain —
+  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:11.029Z'
 finalUrl: 'https://sardartech.xyz/'
 reachable: true

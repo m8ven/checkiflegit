@@ -1,10 +1,10 @@
 ---
 domain: reginaldballum.co.uk
 slug: reginaldballum-co-uk
-title: Is reginaldballum.co.uk Legit? Trust Signal Check
+title: Is reginaldballum.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for reginaldballum.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  reginaldballum.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:05:54.634Z'
 finalUrl: 'https://reginaldballum.co.uk/'
 reachable: true

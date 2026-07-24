@@ -1,10 +1,10 @@
 ---
 domain: alsacroc.fr
 slug: alsacroc-fr
-title: Is alsacroc.fr Legit? Trust Signal Check
+title: Is alsacroc.fr Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for alsacroc.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  alsacroc.fr scores 94/100 on our public trust checks. Established domain —
+  registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:25:39.358Z'
 finalUrl: 'https://www.alsacroc.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: store.enogubako.in
 slug: store-enogubako-in
-title: Is store.enogubako.in Legit? Trust Signal Check
+title: Is store.enogubako.in Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for store.enogubako.in: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  store.enogubako.in scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:39:52.369Z'
 finalUrl: 'https://store.enogubako.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: onelargeprawn.co.za
 slug: onelargeprawn-co-za
-title: Is onelargeprawn.co.za Legit? Trust Signal Check
+title: Is onelargeprawn.co.za Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for onelargeprawn.co.za: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  onelargeprawn.co.za scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:32:53.906Z'
 finalUrl: 'https://www.onelargeprawn.co.za/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vasterasapotek.com
 slug: vasterasapotek-com
-title: Is vasterasapotek.com Legit? Trust Signal Check
+title: Is vasterasapotek.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for vasterasapotek.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  vasterasapotek.com scores 43/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:08:11.600Z'
 finalUrl: 'https://vasterasapotek.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: cafeweltschmerz.nl
 slug: cafeweltschmerz-nl
-title: Is cafeweltschmerz.nl Legit? Trust Signal Check
+title: Is cafeweltschmerz.nl Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for cafeweltschmerz.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cafeweltschmerz.nl scores 76/100 on our public trust checks. Established
+  domain — registered 13.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:06.178Z'
 finalUrl: 'https://cafeweltschmerz.nl/'
 reachable: true

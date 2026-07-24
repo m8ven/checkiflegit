@@ -1,10 +1,10 @@
 ---
 domain: fcpartnership.org
 slug: fcpartnership-org
-title: Is fcpartnership.org Legit? Trust Signal Check
+title: Is fcpartnership.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for fcpartnership.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fcpartnership.org scores 88/100 on our public trust checks. Established domain
+  — registered 19 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:48:45.402Z'
 finalUrl: 'https://fcpartnership.org/'
 reachable: true

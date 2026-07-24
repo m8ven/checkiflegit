@@ -1,10 +1,10 @@
 ---
 domain: german-pit.bike
 slug: german-pit-bike
-title: Is german-pit.bike Legit? Trust Signal Check
+title: Is german-pit.bike Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for german-pit.bike: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  german-pit.bike scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:50:15.593Z'
 finalUrl: 'https://german-pit.bike/'
 reachable: true

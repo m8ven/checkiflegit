@@ -1,10 +1,10 @@
 ---
 domain: korbi.ma
 slug: korbi-ma
-title: Is korbi.ma Legit? Trust Signal Check
+title: Is korbi.ma Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for korbi.ma: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  korbi.ma scores 70/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:04.423Z'
 finalUrl: 'https://korbi.ma/'
 reachable: true

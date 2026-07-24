@@ -1,10 +1,10 @@
 ---
 domain: endclothing.com
 slug: endclothing-com
-title: Is endclothing.com Legit? Trust Signal Check
+title: Is endclothing.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for endclothing.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  endclothing.com scores 88/100 on our public trust checks. Established domain —
+  registered 24.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:13.269Z'
 finalUrl: 'https://www.endclothing.com/us'
 reachable: true

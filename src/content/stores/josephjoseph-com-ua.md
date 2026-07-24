@@ -1,10 +1,10 @@
 ---
 domain: josephjoseph.com.ua
 slug: josephjoseph-com-ua
-title: Is josephjoseph.com.ua Legit? Trust Signal Check
+title: Is josephjoseph.com.ua Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for josephjoseph.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  josephjoseph.com.ua scores 88/100 on our public trust checks. Established
+  domain — registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:47.632Z'
 finalUrl: 'https://josephjoseph.com.ua/'
 reachable: true

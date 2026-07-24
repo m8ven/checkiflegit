@@ -1,10 +1,10 @@
 ---
 domain: najemsavne.si
 slug: najemsavne-si
-title: Is najemsavne.si Legit? Trust Signal Check
+title: Is najemsavne.si Legit? Trust Score 46/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for najemsavne.si: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  najemsavne.si scores 46/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:32:18.622Z'
 finalUrl: 'http://najemsavne.si/'
 reachable: true

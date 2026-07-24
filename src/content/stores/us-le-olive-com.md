@@ -1,10 +1,10 @@
 ---
 domain: us.le-olive.com
 slug: us-le-olive-com
-title: Is us.le-olive.com Legit? Trust Signal Check
+title: Is us.le-olive.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for us.le-olive.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  us.le-olive.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:46:48.875Z'
 finalUrl: 'https://us.le-olive.com/'
 reachable: true

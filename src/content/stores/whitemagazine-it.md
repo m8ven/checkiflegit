@@ -1,10 +1,10 @@
 ---
 domain: whitemagazine.it
 slug: whitemagazine-it
-title: Is whitemagazine.it Legit? Trust Signal Check
+title: Is whitemagazine.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for whitemagazine.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  whitemagazine.it scores 88/100 on our public trust checks. Established domain
+  — registered 23.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:11.794Z'
 finalUrl: 'https://www.whitemagazine.it/'
 reachable: true

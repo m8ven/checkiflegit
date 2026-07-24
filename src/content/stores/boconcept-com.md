@@ -1,10 +1,11 @@
 ---
 domain: boconcept.com
 slug: boconcept-com
-title: Is boconcept.com Legit? Trust Signal Check
+title: Is boconcept.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for boconcept.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  boconcept.com scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-24T21:46:05.664Z'
 finalUrl: 'https://www.boconcept.com/da-dk/'
 reachable: true

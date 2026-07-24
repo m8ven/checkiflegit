@@ -1,10 +1,10 @@
 ---
 domain: chargefy.nu
 slug: chargefy-nu
-title: Is chargefy.nu Legit? Trust Signal Check
+title: Is chargefy.nu Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for chargefy.nu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  chargefy.nu scores 94/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:45.199Z'
 finalUrl: 'https://chargefy.nu/'
 reachable: true

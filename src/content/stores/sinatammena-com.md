@@ -1,10 +1,10 @@
 ---
 domain: sinatammena.com
 slug: sinatammena-com
-title: Is sinatammena.com Legit? Trust Signal Check
+title: Is sinatammena.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for sinatammena.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sinatammena.com scores 82/100 on our public trust checks. Established domain —
+  registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:50.376Z'
 finalUrl: 'https://www.sinatammena.com/'
 reachable: true

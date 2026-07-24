@@ -1,10 +1,10 @@
 ---
 domain: joyfullyread.com
 slug: joyfullyread-com
-title: Is joyfullyread.com Legit? Trust Signal Check
+title: Is joyfullyread.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for joyfullyread.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  joyfullyread.com scores 88/100 on our public trust checks. Established domain
+  — registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:51.644Z'
 finalUrl: 'https://joyfullyread.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: fr.ragt-new.com
 slug: fr-ragt-new-com
-title: Is fr.ragt-new.com Legit? Trust Signal Check
+title: Is fr.ragt-new.com Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for fr.ragt-new.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fr.ragt-new.com scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:10.293Z'
 finalUrl: 'https://fr.ragt-new.com/'
 reachable: true

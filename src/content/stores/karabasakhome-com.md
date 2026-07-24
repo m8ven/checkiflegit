@@ -1,10 +1,10 @@
 ---
 domain: karabasakhome.com
 slug: karabasakhome-com
-title: Is karabasakhome.com Legit? Trust Signal Check
+title: Is karabasakhome.com Legit? Trust Score 0/100
 description: >-
-  An automated trust-signal check for karabasakhome.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  karabasakhome.com scores 0/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:18:53.971Z'
 finalUrl: 'https://www.karabasakhome.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: marsettirecycling.it
 slug: marsettirecycling-it
-title: Is marsettirecycling.it Legit? Trust Signal Check
+title: Is marsettirecycling.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for marsettirecycling.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  marsettirecycling.it scores 88/100 on our public trust checks. Established
+  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:31.407Z'
 finalUrl: 'https://marsettirecycling.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ltsa.com.co
 slug: ltsa-com-co
-title: Is ltsa.com.co Legit? Trust Signal Check
+title: Is ltsa.com.co Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ltsa.com.co: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ltsa.com.co scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:23:35.284Z'
 finalUrl: 'https://www.ltsa.com.co/'
 reachable: true

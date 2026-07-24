@@ -1,10 +1,10 @@
 ---
 domain: engineroommarine.com
 slug: engineroommarine-com
-title: Is engineroommarine.com Legit? Trust Signal Check
+title: Is engineroommarine.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for engineroommarine.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  engineroommarine.com scores 73/100 on our public trust checks. Established
+  domain — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:33.461Z'
 finalUrl: 'https://engineroommarine.com/'
 reachable: true

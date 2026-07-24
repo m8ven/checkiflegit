@@ -1,10 +1,10 @@
 ---
 domain: agriculture-emploi.fr
 slug: agriculture-emploi-fr
-title: Is agriculture-emploi.fr Legit? Trust Signal Check
+title: Is agriculture-emploi.fr Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for agriculture-emploi.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  agriculture-emploi.fr scores 85/100 on our public trust checks. Established
+  domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:37.008Z'
 finalUrl: 'https://www.agriculture-emploi.fr/'
 reachable: true

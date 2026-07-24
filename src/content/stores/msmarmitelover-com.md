@@ -1,10 +1,10 @@
 ---
 domain: msmarmitelover.com
 slug: msmarmitelover-com
-title: Is msmarmitelover.com Legit? Trust Signal Check
+title: Is msmarmitelover.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for msmarmitelover.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  msmarmitelover.com scores 76/100 on our public trust checks. Established
+  domain — registered 17.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:33.559Z'
 finalUrl: 'https://msmarmitelover.com/'
 reachable: true

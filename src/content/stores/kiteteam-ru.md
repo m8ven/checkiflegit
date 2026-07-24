@@ -1,10 +1,10 @@
 ---
 domain: kiteteam.ru
 slug: kiteteam-ru
-title: Is kiteteam.ru Legit? Trust Signal Check
+title: Is kiteteam.ru Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kiteteam.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kiteteam.ru scores 88/100 on our public trust checks. Established domain —
+  registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:49.371Z'
 finalUrl: 'https://kiteteam.ru/'
 reachable: true

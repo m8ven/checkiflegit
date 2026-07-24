@@ -1,10 +1,10 @@
 ---
 domain: secret-shades.com
 slug: secret-shades-com
-title: Is secret-shades.com Legit? Trust Signal Check
+title: Is secret-shades.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for secret-shades.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  secret-shades.com scores 73/100 on our public trust checks. Established domain
+  — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:02:20.167Z'
 finalUrl: 'https://secret-shades.com/'
 reachable: true

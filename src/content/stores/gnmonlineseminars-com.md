@@ -1,10 +1,10 @@
 ---
 domain: gnmonlineseminars.com
 slug: gnmonlineseminars-com
-title: Is gnmonlineseminars.com Legit? Trust Signal Check
+title: Is gnmonlineseminars.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for gnmonlineseminars.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  gnmonlineseminars.com scores 70/100 on our public trust checks. Established
+  domain — registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:31.181Z'
 finalUrl: 'https://gnmonlineseminars.com/'
 reachable: true

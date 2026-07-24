@@ -1,10 +1,10 @@
 ---
 domain: profibulgaria.com
 slug: profibulgaria-com
-title: Is profibulgaria.com Legit? Trust Signal Check
+title: Is profibulgaria.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for profibulgaria.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  profibulgaria.com scores 73/100 on our public trust checks. Established domain
+  — registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:37.818Z'
 finalUrl: 'https://profibulgaria.com/'
 reachable: true

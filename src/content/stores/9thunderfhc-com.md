@@ -1,10 +1,10 @@
 ---
 domain: 9thunderfhc.com
 slug: 9thunderfhc-com
-title: Is 9thunderfhc.com Legit? Trust Signal Check
+title: Is 9thunderfhc.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for 9thunderfhc.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  9thunderfhc.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:34:30.363Z'
 finalUrl: 'https://9thunderfhc.com/'
 reachable: true

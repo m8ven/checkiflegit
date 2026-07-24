@@ -1,10 +1,10 @@
 ---
 domain: ballsandbogeys.com
 slug: ballsandbogeys-com
-title: Is ballsandbogeys.com Legit? Trust Signal Check
+title: Is ballsandbogeys.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for ballsandbogeys.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ballsandbogeys.com scores 85/100 on our public trust checks. Established
+  domain — registered 6.4 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:01:49.259Z'
 finalUrl: 'https://ballsandbogeys.com/'
 reachable: true

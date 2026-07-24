@@ -1,10 +1,10 @@
 ---
 domain: ik.family
 slug: ik-family
-title: Is ik.family Legit? Trust Signal Check
+title: Is ik.family Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ik.family: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ik.family scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:14:31.943Z'
 finalUrl: 'https://www.ik.family/'
 reachable: true

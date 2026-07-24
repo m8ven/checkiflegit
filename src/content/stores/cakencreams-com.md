@@ -1,10 +1,10 @@
 ---
 domain: cakencreams.com
 slug: cakencreams-com
-title: Is cakencreams.com Legit? Trust Signal Check
+title: Is cakencreams.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for cakencreams.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cakencreams.com scores 94/100 on our public trust checks. Established domain —
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:58.149Z'
 finalUrl: 'https://cakencreams.com/'
 reachable: true

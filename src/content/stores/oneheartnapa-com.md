@@ -1,10 +1,10 @@
 ---
 domain: oneheartnapa.com
 slug: oneheartnapa-com
-title: Is oneheartnapa.com Legit? Trust Signal Check
+title: Is oneheartnapa.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for oneheartnapa.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  oneheartnapa.com scores 100/100 on our public trust checks. Established domain
+  — registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:53.424Z'
 finalUrl: 'https://oneheartnapa.com/'
 reachable: true

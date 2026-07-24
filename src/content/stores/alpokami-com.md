@@ -1,10 +1,10 @@
 ---
 domain: alpokami.com
 slug: alpokami-com
-title: Is alpokami.com Legit? Trust Signal Check
+title: Is alpokami.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for alpokami.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  alpokami.com scores 100/100 on our public trust checks. Established domain —
+  registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:58.820Z'
 finalUrl: 'https://alpokami.com/'
 reachable: true

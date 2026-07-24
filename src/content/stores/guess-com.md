@@ -1,10 +1,10 @@
 ---
 domain: guess.com
 slug: guess-com
-title: Is guess.com Legit? Trust Signal Check
+title: Is guess.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for guess.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  guess.com scores 88/100 on our public trust checks. Established domain —
+  registered 30.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:06.514Z'
 finalUrl: 'https://www.guess.com/en-us/home'
 reachable: true

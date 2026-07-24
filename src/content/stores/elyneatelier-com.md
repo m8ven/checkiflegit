@@ -1,10 +1,10 @@
 ---
 domain: elyneatelier.com
 slug: elyneatelier-com
-title: Is elyneatelier.com Legit? Trust Signal Check
+title: Is elyneatelier.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for elyneatelier.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elyneatelier.com scores 82/100 on our public trust checks. Established domain
+  — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:00.704Z'
 finalUrl: 'https://elyneatelier.com/'
 reachable: true

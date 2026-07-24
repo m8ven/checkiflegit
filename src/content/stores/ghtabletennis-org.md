@@ -1,10 +1,10 @@
 ---
 domain: ghtabletennis.org
 slug: ghtabletennis-org
-title: Is ghtabletennis.org Legit? Trust Signal Check
+title: Is ghtabletennis.org Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for ghtabletennis.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ghtabletennis.org scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:08:33.607Z'
 finalUrl: 'https://www.ghtabletennis.org/'
 reachable: true

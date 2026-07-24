@@ -1,10 +1,10 @@
 ---
 domain: talesoflocal.com
 slug: talesoflocal-com
-title: Is talesoflocal.com Legit? Trust Signal Check
+title: Is talesoflocal.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for talesoflocal.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  talesoflocal.com scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T15:17:17.050Z'
 finalUrl: 'https://talesoflocal.com/'
 reachable: true

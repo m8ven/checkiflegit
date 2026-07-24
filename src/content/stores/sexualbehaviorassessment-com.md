@@ -1,10 +1,10 @@
 ---
 domain: sexualbehaviorassessment.com
 slug: sexualbehaviorassessment-com
-title: Is sexualbehaviorassessment.com Legit? Trust Signal Check
+title: Is sexualbehaviorassessment.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for sexualbehaviorassessment.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  sexualbehaviorassessment.com scores 52/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:34:28.536Z'
 finalUrl: 'https://sexualbehaviorassessment.com/'
 reachable: true

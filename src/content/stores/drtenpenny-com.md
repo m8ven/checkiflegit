@@ -1,10 +1,10 @@
 ---
 domain: drtenpenny.com
 slug: drtenpenny-com
-title: Is drtenpenny.com Legit? Trust Signal Check
+title: Is drtenpenny.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for drtenpenny.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  drtenpenny.com scores 100/100 on our public trust checks. Established domain —
+  registered 20.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:16.950Z'
 finalUrl: 'https://drtenpenny.com/'
 reachable: true

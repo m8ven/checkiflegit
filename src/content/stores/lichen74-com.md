@@ -1,10 +1,10 @@
 ---
 domain: lichen74.com
 slug: lichen74-com
-title: Is lichen74.com Legit? Trust Signal Check
+title: Is lichen74.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for lichen74.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lichen74.com scores 73/100 on our public trust checks. Established domain —
+  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:42.263Z'
 finalUrl: 'https://www.lichen74.com/'
 reachable: true

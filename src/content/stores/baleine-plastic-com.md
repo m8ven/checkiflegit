@@ -1,10 +1,10 @@
 ---
 domain: baleine-plastic.com
 slug: baleine-plastic-com
-title: Is baleine-plastic.com Legit? Trust Signal Check
+title: Is baleine-plastic.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for baleine-plastic.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  baleine-plastic.com scores 73/100 on our public trust checks. Established
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:36:20.474Z'
 finalUrl: 'https://baleine-plastic.com/'
 reachable: true

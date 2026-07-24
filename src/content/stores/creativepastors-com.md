@@ -1,10 +1,10 @@
 ---
 domain: creativepastors.com
 slug: creativepastors-com
-title: Is creativepastors.com Legit? Trust Signal Check
+title: Is creativepastors.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for creativepastors.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  creativepastors.com scores 94/100 on our public trust checks. Established
+  domain — registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:20.794Z'
 finalUrl: 'https://creativepastors.com/'
 reachable: true

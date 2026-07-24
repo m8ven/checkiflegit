@@ -1,10 +1,10 @@
 ---
 domain: emmanuellenegre.com
 slug: emmanuellenegre-com
-title: Is emmanuellenegre.com Legit? Trust Signal Check
+title: Is emmanuellenegre.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for emmanuellenegre.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  emmanuellenegre.com scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T02:17:29.605Z'
 finalUrl: 'https://emmanuellenegre.com/'
 reachable: true

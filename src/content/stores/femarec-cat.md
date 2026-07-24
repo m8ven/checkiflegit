@@ -1,10 +1,10 @@
 ---
 domain: femarec.cat
 slug: femarec-cat
-title: Is femarec.cat Legit? Trust Signal Check
+title: Is femarec.cat Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for femarec.cat: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  femarec.cat scores 88/100 on our public trust checks. Established domain —
+  registered 20.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:29:00.199Z'
 finalUrl: 'https://femarec.cat/'
 reachable: true

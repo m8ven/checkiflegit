@@ -1,10 +1,10 @@
 ---
 domain: planetsinger.net
 slug: planetsinger-net
-title: Is planetsinger.net Legit? Trust Signal Check
+title: Is planetsinger.net Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for planetsinger.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  planetsinger.net scores 70/100 on our public trust checks. Established domain
+  — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:38.590Z'
 finalUrl: 'https://www.planetsinger.net/'
 reachable: true

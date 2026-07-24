@@ -1,10 +1,10 @@
 ---
 domain: littlejumbo.nl
 slug: littlejumbo-nl
-title: Is littlejumbo.nl Legit? Trust Signal Check
+title: Is littlejumbo.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for littlejumbo.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  littlejumbo.nl scores 73/100 on our public trust checks. Established domain —
+  registered 26 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:49.773Z'
 finalUrl: 'https://littlejumbo.nl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: goldencopy.com.ua
 slug: goldencopy-com-ua
-title: Is goldencopy.com.ua Legit? Trust Signal Check
+title: Is goldencopy.com.ua Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for goldencopy.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  goldencopy.com.ua scores 73/100 on our public trust checks. Established domain
+  — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:53.901Z'
 finalUrl: 'https://goldencopy.com.ua/'
 reachable: true

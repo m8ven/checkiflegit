@@ -1,10 +1,11 @@
 ---
 domain: academiedesmetiersduweb.com
 slug: academiedesmetiersduweb-com
-title: Is academiedesmetiersduweb.com Legit? Trust Signal Check
+title: Is academiedesmetiersduweb.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for academiedesmetiersduweb.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  academiedesmetiersduweb.com scores 73/100 on our public trust checks.
+  Established domain — registered 1.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:11:45.311Z'
 finalUrl: 'https://www.academiedesmetiersduweb.com/?v=82a9e4d26595'
 reachable: true

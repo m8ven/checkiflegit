@@ -1,10 +1,10 @@
 ---
 domain: fifthandfido.com
 slug: fifthandfido-com
-title: Is fifthandfido.com Legit? Trust Signal Check
+title: Is fifthandfido.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for fifthandfido.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fifthandfido.com scores 70/100 on our public trust checks. Established domain
+  — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:26.169Z'
 finalUrl: 'https://fifthandfido.com/'
 reachable: true

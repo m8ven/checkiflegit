@@ -1,10 +1,10 @@
 ---
 domain: akcasinoknights.co.uk
 slug: akcasinoknights-co-uk
-title: Is akcasinoknights.co.uk Legit? Trust Signal Check
+title: Is akcasinoknights.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for akcasinoknights.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  akcasinoknights.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 19 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:38:53.402Z'
 finalUrl: 'https://akcasinoknights.co.uk/'
 reachable: true

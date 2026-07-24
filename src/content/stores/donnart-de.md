@@ -1,10 +1,10 @@
 ---
 domain: donnart.de
 slug: donnart-de
-title: Is donnart.de Legit? Trust Signal Check
+title: Is donnart.de Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for donnart.de: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  donnart.de scores 40/100 on our public trust checks. No valid SSL certificate
+  — connection may not be secure. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:09:32.351Z'
 finalUrl: 'https://donnart.de/'
 reachable: true

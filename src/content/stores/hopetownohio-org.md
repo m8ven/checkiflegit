@@ -1,10 +1,10 @@
 ---
 domain: hopetownohio.org
 slug: hopetownohio-org
-title: Is hopetownohio.org Legit? Trust Signal Check
+title: Is hopetownohio.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hopetownohio.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hopetownohio.org scores 100/100 on our public trust checks. Established domain
+  — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:59.570Z'
 finalUrl: 'https://hopetownohio.org/'
 reachable: true

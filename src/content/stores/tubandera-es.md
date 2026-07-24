@@ -1,10 +1,10 @@
 ---
 domain: tubandera.es
 slug: tubandera-es
-title: Is tubandera.es Legit? Trust Signal Check
+title: Is tubandera.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for tubandera.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tubandera.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:48:55.057Z'
 finalUrl: 'https://tubandera.es/'
 reachable: true

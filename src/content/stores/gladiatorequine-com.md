@@ -1,10 +1,10 @@
 ---
 domain: gladiatorequine.com
 slug: gladiatorequine-com
-title: Is gladiatorequine.com Legit? Trust Signal Check
+title: Is gladiatorequine.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for gladiatorequine.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gladiatorequine.com scores 70/100 on our public trust checks. Established
+  domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:55.105Z'
 finalUrl: 'https://gladiatorequine.com/'
 reachable: true

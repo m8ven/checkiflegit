@@ -1,10 +1,10 @@
 ---
 domain: edilume.com
 slug: edilume-com
-title: Is edilume.com Legit? Trust Signal Check
+title: Is edilume.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for edilume.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  edilume.com scores 100/100 on our public trust checks. Established domain —
+  registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:47.014Z'
 finalUrl: 'https://edilume.com/'
 reachable: true

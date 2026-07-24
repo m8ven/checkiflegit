@@ -1,10 +1,10 @@
 ---
 domain: cambuurculture.nl
 slug: cambuurculture-nl
-title: Is cambuurculture.nl Legit? Trust Signal Check
+title: Is cambuurculture.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cambuurculture.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cambuurculture.nl scores 88/100 on our public trust checks. Established domain
+  — registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:52.814Z'
 finalUrl: 'https://cambuurculture.nl/'
 reachable: true

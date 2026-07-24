@@ -1,10 +1,10 @@
 ---
 domain: kuvingsperu.com.pe
 slug: kuvingsperu-com-pe
-title: Is kuvingsperu.com.pe Legit? Trust Signal Check
+title: Is kuvingsperu.com.pe Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for kuvingsperu.com.pe: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kuvingsperu.com.pe scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:35:37.134Z'
 finalUrl: 'https://www.kuvingsperu.com.pe/'
 reachable: true

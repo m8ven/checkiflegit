@@ -1,10 +1,10 @@
 ---
 domain: autoauriemma.com
 slug: autoauriemma-com
-title: Is autoauriemma.com Legit? Trust Signal Check
+title: Is autoauriemma.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for autoauriemma.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  autoauriemma.com scores 88/100 on our public trust checks. Established domain
+  — registered 16.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:48.122Z'
 finalUrl: 'https://www.autoauriemma.com/'
 reachable: true

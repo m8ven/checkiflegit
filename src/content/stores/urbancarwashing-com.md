@@ -1,10 +1,10 @@
 ---
 domain: urbancarwashing.com
 slug: urbancarwashing-com
-title: Is urbancarwashing.com Legit? Trust Signal Check
+title: Is urbancarwashing.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for urbancarwashing.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  urbancarwashing.com scores 73/100 on our public trust checks. Established
+  domain — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:58.438Z'
 finalUrl: 'https://urbancarwashing.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: anderias.eu
 slug: anderias-eu
-title: Is anderias.eu Legit? Trust Signal Check
+title: Is anderias.eu Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for anderias.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  anderias.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:16:24.231Z'
 finalUrl: 'https://anderias.eu/'
 reachable: true

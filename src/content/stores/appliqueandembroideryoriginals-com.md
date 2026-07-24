@@ -1,10 +1,10 @@
 ---
 domain: appliqueandembroideryoriginals.com
 slug: appliqueandembroideryoriginals-com
-title: Is appliqueandembroideryoriginals.com Legit? Trust Signal Check
+title: Is appliqueandembroideryoriginals.com Legit? Score 94/100
 description: >-
-  An automated trust-signal check for appliqueandembroideryoriginals.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  appliqueandembroideryoriginals.com scores 94/100 on our public trust checks.
+  Established domain — registered 7.9 years ago.
 fetchedAt: '2026-06-25T12:41:36.787Z'
 finalUrl: 'https://appliqueandembroideryoriginals.com/'
 reachable: true

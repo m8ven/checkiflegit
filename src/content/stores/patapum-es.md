@@ -1,10 +1,10 @@
 ---
 domain: patapum.es
 slug: patapum-es
-title: Is patapum.es Legit? Trust Signal Check
+title: Is patapum.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for patapum.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  patapum.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:44:51.306Z'
 finalUrl: 'https://patapum.es/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: dennamlongnetviet.com
 slug: dennamlongnetviet-com
-title: Is dennamlongnetviet.com Legit? Trust Signal Check
+title: Is dennamlongnetviet.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for dennamlongnetviet.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  dennamlongnetviet.com scores 55/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T03:33:37.069Z'
 finalUrl: 'https://dennamlongnetviet.com/'
 reachable: true

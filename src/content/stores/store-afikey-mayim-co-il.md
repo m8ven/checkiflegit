@@ -1,11 +1,10 @@
 ---
 domain: store.afikey-mayim.co.il
 slug: store-afikey-mayim-co-il
-title: Is store.afikey-mayim.co.il Legit? Trust Signal Check
+title: Is store.afikey-mayim.co.il Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for store.afikey-mayim.co.il: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  store.afikey-mayim.co.il scores 44/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:13:30.773Z'
 finalUrl: 'https://store.afikey-mayim.co.il/'
 reachable: true

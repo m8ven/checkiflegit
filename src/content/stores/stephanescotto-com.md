@@ -1,10 +1,10 @@
 ---
 domain: stephanescotto.com
 slug: stephanescotto-com
-title: Is stephanescotto.com Legit? Trust Signal Check
+title: Is stephanescotto.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for stephanescotto.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  stephanescotto.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:04:40.132Z'
 finalUrl: 'https://stephanescotto.com/'
 reachable: true

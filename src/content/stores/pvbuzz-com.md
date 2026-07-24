@@ -1,10 +1,10 @@
 ---
 domain: pvbuzz.com
 slug: pvbuzz-com
-title: Is pvbuzz.com Legit? Trust Signal Check
+title: Is pvbuzz.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pvbuzz.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pvbuzz.com scores 88/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:08.486Z'
 finalUrl: 'https://pvbuzz.com/'
 reachable: true

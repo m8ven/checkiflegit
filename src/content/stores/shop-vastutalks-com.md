@@ -1,10 +1,10 @@
 ---
 domain: shop.vastutalks.com
 slug: shop-vastutalks-com
-title: Is shop.vastutalks.com Legit? Trust Signal Check
+title: Is shop.vastutalks.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.vastutalks.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.vastutalks.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:10:35.606Z'
 finalUrl: 'https://shop.vastutalks.com/'
 reachable: true

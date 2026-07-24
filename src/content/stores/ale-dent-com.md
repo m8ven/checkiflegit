@@ -1,10 +1,10 @@
 ---
 domain: ale-dent.com
 slug: ale-dent-com
-title: Is ale-dent.com Legit? Trust Signal Check
+title: Is ale-dent.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ale-dent.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ale-dent.com scores 88/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:49.761Z'
 finalUrl: 'https://ale-dent.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mrb24.voyeglobal.com
 slug: mrb24-voyeglobal-com
-title: Is mrb24.voyeglobal.com Legit? Trust Signal Check
+title: Is mrb24.voyeglobal.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mrb24.voyeglobal.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mrb24.voyeglobal.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:48.425Z'
 finalUrl: 'https://mrb24.voyeglobal.com/'
 reachable: true

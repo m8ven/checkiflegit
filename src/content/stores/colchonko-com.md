@@ -1,10 +1,10 @@
 ---
 domain: colchonko.com
 slug: colchonko-com
-title: Is colchonko.com Legit? Trust Signal Check
+title: Is colchonko.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for colchonko.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  colchonko.com scores 100/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:17.521Z'
 finalUrl: 'https://colchonko.com/'
 reachable: true

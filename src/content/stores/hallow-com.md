@@ -1,10 +1,10 @@
 ---
 domain: hallow.com
 slug: hallow-com
-title: Is hallow.com Legit? Trust Signal Check
+title: Is hallow.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hallow.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hallow.com scores 70/100 on our public trust checks. Established domain —
+  registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:26.055Z'
 finalUrl: 'https://hallow.com/'
 reachable: true

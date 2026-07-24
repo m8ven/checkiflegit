@@ -1,10 +1,10 @@
 ---
 domain: sublimemoda.com
 slug: sublimemoda-com
-title: Is sublimemoda.com Legit? Trust Signal Check
+title: Is sublimemoda.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sublimemoda.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sublimemoda.com scores 88/100 on our public trust checks. Established domain —
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:10.685Z'
 finalUrl: 'https://sublimemoda.com/'
 reachable: true

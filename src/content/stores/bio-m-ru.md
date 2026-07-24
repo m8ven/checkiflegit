@@ -1,10 +1,10 @@
 ---
 domain: bio-m.ru
 slug: bio-m-ru
-title: Is bio-m.ru Legit? Trust Signal Check
+title: Is bio-m.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bio-m.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bio-m.ru scores 73/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:39.322Z'
 finalUrl: 'https://bio-m.ru/'
 reachable: true

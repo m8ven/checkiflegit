@@ -1,10 +1,10 @@
 ---
 domain: mhmkl.com
 slug: mhmkl-com
-title: Is mhmkl.com Legit? Trust Signal Check
+title: Is mhmkl.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mhmkl.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mhmkl.com scores 88/100 on our public trust checks. Established domain —
+  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:18:24.858Z'
 finalUrl: 'https://mhmkl.com/'
 reachable: true

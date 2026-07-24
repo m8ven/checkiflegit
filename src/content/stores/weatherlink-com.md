@@ -1,10 +1,10 @@
 ---
 domain: weatherlink.com
 slug: weatherlink-com
-title: Is weatherlink.com Legit? Trust Signal Check
+title: Is weatherlink.com Legit? Trust Score 29/100
 description: >-
-  An automated trust-signal check for weatherlink.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  weatherlink.com scores 29/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-24T21:45:19.418Z'
 finalUrl: 'https://www.weatherlink.com/'
 reachable: true

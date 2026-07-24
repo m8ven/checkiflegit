@@ -1,10 +1,10 @@
 ---
 domain: nintendosoup.com
 slug: nintendosoup-com
-title: Is nintendosoup.com Legit? Trust Signal Check
+title: Is nintendosoup.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for nintendosoup.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nintendosoup.com scores 76/100 on our public trust checks. Established domain
+  — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:08.195Z'
 finalUrl: 'https://nintendosoup.com/'
 reachable: true

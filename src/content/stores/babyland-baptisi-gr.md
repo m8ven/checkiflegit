@@ -1,10 +1,10 @@
 ---
 domain: babyland-baptisi.gr
 slug: babyland-baptisi-gr
-title: Is babyland-baptisi.gr Legit? Trust Signal Check
+title: Is babyland-baptisi.gr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for babyland-baptisi.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  babyland-baptisi.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:01:42.750Z'
 finalUrl: 'https://babyland-baptisi.gr/'
 reachable: true

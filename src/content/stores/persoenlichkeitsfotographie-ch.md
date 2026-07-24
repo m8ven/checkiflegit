@@ -1,10 +1,11 @@
 ---
 domain: persoenlichkeitsfotographie.ch
 slug: persoenlichkeitsfotographie-ch
-title: Is persoenlichkeitsfotographie.ch Legit? Trust Signal Check
+title: Is persoenlichkeitsfotographie.ch Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for persoenlichkeitsfotographie.ch: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  persoenlichkeitsfotographie.ch scores 61/100 on our public trust checks. No
+  links to major social platforms found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:25:25.203Z'
 finalUrl: 'https://www.persoenlichkeitsfotographie.ch/'
 reachable: true

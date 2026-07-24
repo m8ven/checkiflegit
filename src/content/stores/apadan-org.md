@@ -1,10 +1,10 @@
 ---
 domain: apadan.org
 slug: apadan-org
-title: Is apadan.org Legit? Trust Signal Check
+title: Is apadan.org Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for apadan.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  apadan.org scores 100/100 on our public trust checks. Established domain —
+  registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:44.960Z'
 finalUrl: 'https://apadan.org/'
 reachable: true

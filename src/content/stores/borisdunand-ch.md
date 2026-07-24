@@ -1,10 +1,11 @@
 ---
 domain: borisdunand.ch
 slug: borisdunand-ch
-title: Is borisdunand.ch Legit? Trust Signal Check
+title: Is borisdunand.ch Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for borisdunand.ch: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  borisdunand.ch scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:19:19.625Z'
 finalUrl: 'https://borisdunand.ch/'
 reachable: true

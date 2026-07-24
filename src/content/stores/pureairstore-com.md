@@ -1,10 +1,10 @@
 ---
 domain: pureairstore.com
 slug: pureairstore-com
-title: Is pureairstore.com Legit? Trust Signal Check
+title: Is pureairstore.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for pureairstore.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  pureairstore.com scores 43/100 on our public trust checks. Domain registered
+  very recently (85 days ago).
 fetchedAt: '2026-06-25T02:42:06.017Z'
 finalUrl: 'https://pureairstore.com/'
 reachable: true

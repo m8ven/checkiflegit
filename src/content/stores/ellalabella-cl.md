@@ -1,10 +1,11 @@
 ---
 domain: ellalabella.cl
 slug: ellalabella-cl
-title: Is ellalabella.cl Legit? Trust Signal Check
+title: Is ellalabella.cl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ellalabella.cl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ellalabella.cl scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:37:39.347Z'
 finalUrl: 'https://ellalabella.cl/'
 reachable: true

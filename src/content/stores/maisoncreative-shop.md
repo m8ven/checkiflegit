@@ -1,10 +1,10 @@
 ---
 domain: maisoncreative.shop
 slug: maisoncreative-shop
-title: Is maisoncreative.shop Legit? Trust Signal Check
+title: Is maisoncreative.shop Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for maisoncreative.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  maisoncreative.shop scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:21:02.482Z'
 finalUrl: 'https://maisoncreative.shop/'
 reachable: true

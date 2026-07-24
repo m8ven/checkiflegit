@@ -1,10 +1,10 @@
 ---
 domain: 3dtone.com
 slug: 3dtone-com
-title: Is 3dtone.com Legit? Trust Signal Check
+title: Is 3dtone.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 3dtone.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  3dtone.com scores 100/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:03.826Z'
 finalUrl: 'https://3dtone.com/es/'
 reachable: true

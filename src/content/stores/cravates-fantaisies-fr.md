@@ -1,10 +1,10 @@
 ---
 domain: cravates-fantaisies.fr
 slug: cravates-fantaisies-fr
-title: Is cravates-fantaisies.fr Legit? Trust Signal Check
+title: Is cravates-fantaisies.fr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for cravates-fantaisies.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cravates-fantaisies.fr scores 73/100 on our public trust checks. Established
+  domain — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:15.904Z'
 finalUrl: 'https://cravates-fantaisies.fr/'
 reachable: true

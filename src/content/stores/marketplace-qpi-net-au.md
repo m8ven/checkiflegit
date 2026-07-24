@@ -1,10 +1,10 @@
 ---
 domain: marketplace.qpi.net.au
 slug: marketplace-qpi-net-au
-title: Is marketplace.qpi.net.au Legit? Trust Signal Check
+title: Is marketplace.qpi.net.au Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for marketplace.qpi.net.au: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  marketplace.qpi.net.au scores 57/100 on our public trust checks. Standard
+  contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:27:57.768Z'
 finalUrl: 'https://marketplace.qpi.net.au/'
 reachable: true

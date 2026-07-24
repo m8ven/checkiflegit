@@ -1,10 +1,10 @@
 ---
 domain: bulkpostads.com
 slug: bulkpostads-com
-title: Is bulkpostads.com Legit? Trust Signal Check
+title: Is bulkpostads.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bulkpostads.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bulkpostads.com scores 88/100 on our public trust checks. Established domain —
+  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:31.918Z'
 finalUrl: 'https://www.bulkpostads.com/'
 reachable: true

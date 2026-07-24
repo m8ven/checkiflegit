@@ -1,10 +1,11 @@
 ---
 domain: gd-pharm.com
 slug: gd-pharm-com
-title: Is gd-pharm.com Legit? Trust Signal Check
+title: Is gd-pharm.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for gd-pharm.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gd-pharm.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T14:50:08.103Z'
 finalUrl: 'https://gd-pharm.com/'
 reachable: true

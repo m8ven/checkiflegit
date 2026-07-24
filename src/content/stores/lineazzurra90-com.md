@@ -1,10 +1,10 @@
 ---
 domain: lineazzurra90.com
 slug: lineazzurra90-com
-title: Is lineazzurra90.com Legit? Trust Signal Check
+title: Is lineazzurra90.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for lineazzurra90.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lineazzurra90.com scores 85/100 on our public trust checks. Established domain
+  — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:19.182Z'
 finalUrl: 'https://www.lineazzurra90.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tkasudo.com
 slug: tkasudo-com
-title: Is tkasudo.com Legit? Trust Signal Check
+title: Is tkasudo.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tkasudo.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tkasudo.com scores 70/100 on our public trust checks. Established domain —
+  registered 25.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:09.106Z'
 finalUrl: 'https://www.tkasudo.com/'
 reachable: true

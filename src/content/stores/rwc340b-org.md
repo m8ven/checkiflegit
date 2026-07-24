@@ -1,10 +1,10 @@
 ---
 domain: rwc340b.org
 slug: rwc340b-org
-title: Is rwc340b.org Legit? Trust Signal Check
+title: Is rwc340b.org Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for rwc340b.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rwc340b.org scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:01:21.111Z'
 finalUrl: 'https://rwc340b.org/'
 reachable: true

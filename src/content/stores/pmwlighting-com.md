@@ -1,10 +1,10 @@
 ---
 domain: pmwlighting.com
 slug: pmwlighting-com
-title: Is pmwlighting.com Legit? Trust Signal Check
+title: Is pmwlighting.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pmwlighting.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pmwlighting.com scores 100/100 on our public trust checks. Established domain
+  — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:01.810Z'
 finalUrl: 'https://pmwlighting.com/'
 reachable: true

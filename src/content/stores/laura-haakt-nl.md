@@ -1,10 +1,10 @@
 ---
 domain: laura-haakt.nl
 slug: laura-haakt-nl
-title: Is laura-haakt.nl Legit? Trust Signal Check
+title: Is laura-haakt.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for laura-haakt.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  laura-haakt.nl scores 88/100 on our public trust checks. Established domain —
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:57.677Z'
 finalUrl: 'https://www.laura-haakt.nl/'
 reachable: true

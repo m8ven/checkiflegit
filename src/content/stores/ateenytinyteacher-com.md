@@ -1,10 +1,10 @@
 ---
 domain: ateenytinyteacher.com
 slug: ateenytinyteacher-com
-title: Is ateenytinyteacher.com Legit? Trust Signal Check
+title: Is ateenytinyteacher.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ateenytinyteacher.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ateenytinyteacher.com scores 76/100 on our public trust checks. Established
+  domain — registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:36.823Z'
 finalUrl: 'https://www.ateenytinyteacher.com/'
 reachable: true

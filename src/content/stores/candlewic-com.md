@@ -1,10 +1,10 @@
 ---
 domain: candlewic.com
 slug: candlewic-com
-title: Is candlewic.com Legit? Trust Signal Check
+title: Is candlewic.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for candlewic.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  candlewic.com scores 100/100 on our public trust checks. Established domain —
+  registered 27.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:18.542Z'
 finalUrl: 'https://candlewic.com/'
 reachable: true

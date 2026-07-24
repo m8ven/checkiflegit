@@ -1,10 +1,10 @@
 ---
 domain: batteryplus.com.my
 slug: batteryplus-com-my
-title: Is batteryplus.com.my Legit? Trust Signal Check
+title: Is batteryplus.com.my Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for batteryplus.com.my: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  batteryplus.com.my scores 100/100 on our public trust checks. Established
+  domain — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:55.001Z'
 finalUrl: 'https://batteryplus.com.my/'
 reachable: true

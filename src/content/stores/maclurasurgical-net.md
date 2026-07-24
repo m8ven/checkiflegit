@@ -1,10 +1,10 @@
 ---
 domain: maclurasurgical.net
 slug: maclurasurgical-net
-title: Is maclurasurgical.net Legit? Trust Signal Check
+title: Is maclurasurgical.net Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for maclurasurgical.net: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  maclurasurgical.net scores 55/100 on our public trust checks. No links to
+  major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T03:51:23.240Z'
 finalUrl: 'https://maclurasurgical.net/'
 reachable: true

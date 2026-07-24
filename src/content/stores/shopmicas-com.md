@@ -1,10 +1,10 @@
 ---
 domain: shopmicas.com
 slug: shopmicas-com
-title: Is shopmicas.com Legit? Trust Signal Check
+title: Is shopmicas.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for shopmicas.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shopmicas.com scores 70/100 on our public trust checks. Established domain —
+  registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:05.053Z'
 finalUrl: 'https://shopmicas.com/'
 reachable: true

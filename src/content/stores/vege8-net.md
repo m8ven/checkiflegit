@@ -1,10 +1,10 @@
 ---
 domain: vege8.net
 slug: vege8-net
-title: Is vege8.net Legit? Trust Signal Check
+title: Is vege8.net Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for vege8.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vege8.net scores 76/100 on our public trust checks. Established domain —
+  registered 12 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:31:27.975Z'
 finalUrl: 'https://vege8.net/'
 reachable: true

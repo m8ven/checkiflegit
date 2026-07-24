@@ -1,10 +1,10 @@
 ---
 domain: phoeracosmetics.co.uk
 slug: phoeracosmetics-co-uk
-title: Is phoeracosmetics.co.uk Legit? Trust Signal Check
+title: Is phoeracosmetics.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for phoeracosmetics.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  phoeracosmetics.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:49.540Z'
 finalUrl: 'https://phoeracosmetics.co.uk/'
 reachable: true

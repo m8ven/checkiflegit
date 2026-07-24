@@ -1,10 +1,11 @@
 ---
 domain: chaungoclong.vn
 slug: chaungoclong-vn
-title: Is chaungoclong.vn Legit? Trust Signal Check
+title: Is chaungoclong.vn Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for chaungoclong.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chaungoclong.vn scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:38:52.768Z'
 finalUrl: 'https://chaungoclong.vn/'
 reachable: true

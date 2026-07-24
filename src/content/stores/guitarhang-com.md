@@ -1,10 +1,11 @@
 ---
 domain: guitarhang.com
 slug: guitarhang-com
-title: Is guitarhang.com Legit? Trust Signal Check
+title: Is guitarhang.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for guitarhang.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  guitarhang.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:32:23.421Z'
 finalUrl: 'https://www.guitarhang.com/'
 reachable: true

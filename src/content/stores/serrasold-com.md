@@ -1,10 +1,10 @@
 ---
 domain: serrasold.com
 slug: serrasold-com
-title: Is serrasold.com Legit? Trust Signal Check
+title: Is serrasold.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for serrasold.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  serrasold.com scores 100/100 on our public trust checks. Established domain —
+  registered 28.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:29.076Z'
 finalUrl: 'https://serrasold.com/'
 reachable: true

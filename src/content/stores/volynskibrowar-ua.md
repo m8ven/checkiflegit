@@ -1,10 +1,10 @@
 ---
 domain: volynskibrowar.ua
 slug: volynskibrowar-ua
-title: Is volynskibrowar.ua Legit? Trust Signal Check
+title: Is volynskibrowar.ua Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for volynskibrowar.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  volynskibrowar.ua scores 88/100 on our public trust checks. Established domain
+  — registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:37:18.620Z'
 finalUrl: 'https://volynskibrowar.ua/'
 reachable: true

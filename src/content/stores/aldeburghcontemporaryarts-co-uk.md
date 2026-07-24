@@ -1,10 +1,10 @@
 ---
 domain: aldeburghcontemporaryarts.co.uk
 slug: aldeburghcontemporaryarts-co-uk
-title: Is aldeburghcontemporaryarts.co.uk Legit? Trust Signal Check
+title: Is aldeburghcontemporaryarts.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for aldeburghcontemporaryarts.co.uk: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  aldeburghcontemporaryarts.co.uk scores 73/100 on our public trust checks.
+  Established domain — registered 23.9 years ago.
 fetchedAt: '2026-06-25T15:39:56.937Z'
 finalUrl: 'https://www.aldeburghcontemporaryarts.co.uk/'
 reachable: true

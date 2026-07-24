@@ -1,10 +1,10 @@
 ---
 domain: vitaminasdelsalvador.com
 slug: vitaminasdelsalvador-com
-title: Is vitaminasdelsalvador.com Legit? Trust Signal Check
+title: Is vitaminasdelsalvador.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for vitaminasdelsalvador.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  vitaminasdelsalvador.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:49:49.824Z'
 finalUrl: 'https://vitaminasdelsalvador.com/'
 reachable: true

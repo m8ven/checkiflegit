@@ -1,10 +1,10 @@
 ---
 domain: explorekeralanow.com
 slug: explorekeralanow-com
-title: Is explorekeralanow.com Legit? Trust Signal Check
+title: Is explorekeralanow.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for explorekeralanow.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  explorekeralanow.com scores 82/100 on our public trust checks. Established
+  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:23.610Z'
 finalUrl: 'https://explorekeralanow.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: beste-decke.de
 slug: beste-decke-de
-title: Is beste-decke.de Legit? Trust Signal Check
+title: Is beste-decke.de Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for beste-decke.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beste-decke.de scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:37.412Z'
 finalUrl: 'https://beste-decke.de/'
 reachable: true

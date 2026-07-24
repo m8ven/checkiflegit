@@ -1,10 +1,10 @@
 ---
 domain: 8togo.lt
 slug: 8togo-lt
-title: Is 8togo.lt Legit? Trust Signal Check
+title: Is 8togo.lt Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 8togo.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  8togo.lt scores 100/100 on our public trust checks. Established domain —
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:38:20.789Z'
 finalUrl: 'https://8togo.lt/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: esimlithuania.net
 slug: esimlithuania-net
-title: Is esimlithuania.net Legit? Trust Signal Check
+title: Is esimlithuania.net Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for esimlithuania.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  esimlithuania.net scores 73/100 on our public trust checks. Established domain
+  — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:32:49.382Z'
 finalUrl: 'https://esimlithuania.net/'
 reachable: true

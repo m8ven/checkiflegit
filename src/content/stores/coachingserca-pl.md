@@ -1,10 +1,10 @@
 ---
 domain: coachingserca.pl
 slug: coachingserca-pl
-title: Is coachingserca.pl Legit? Trust Signal Check
+title: Is coachingserca.pl Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for coachingserca.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  coachingserca.pl scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:46:17.065Z'
 finalUrl: 'https://coachingserca.pl/'
 reachable: true

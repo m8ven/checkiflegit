@@ -1,10 +1,10 @@
 ---
 domain: yen-g.com
 slug: yen-g-com
-title: Is yen-g.com Legit? Trust Signal Check
+title: Is yen-g.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for yen-g.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  yen-g.com scores 82/100 on our public trust checks. Established domain —
+  registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:56.083Z'
 finalUrl: 'https://yen-g.com/'
 reachable: true

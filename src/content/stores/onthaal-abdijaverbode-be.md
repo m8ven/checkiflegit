@@ -1,10 +1,10 @@
 ---
 domain: onthaal-abdijaverbode.be
 slug: onthaal-abdijaverbode-be
-title: Is onthaal-abdijaverbode.be Legit? Trust Signal Check
+title: Is onthaal-abdijaverbode.be Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for onthaal-abdijaverbode.be: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  onthaal-abdijaverbode.be scores 88/100 on our public trust checks. Established
+  domain — registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:26.238Z'
 finalUrl: 'https://onthaal-abdijaverbode.be/'
 reachable: true

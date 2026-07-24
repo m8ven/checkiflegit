@@ -1,10 +1,10 @@
 ---
 domain: saksije.ba
 slug: saksije-ba
-title: Is saksije.ba Legit? Trust Signal Check
+title: Is saksije.ba Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for saksije.ba: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  saksije.ba scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:49:56.372Z'
 finalUrl: 'https://saksije.ba/'
 reachable: true

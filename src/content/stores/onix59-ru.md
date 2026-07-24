@@ -1,10 +1,10 @@
 ---
 domain: onix59.ru
 slug: onix59-ru
-title: Is onix59.ru Legit? Trust Signal Check
+title: Is onix59.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for onix59.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  onix59.ru scores 73/100 on our public trust checks. Established domain —
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:54.081Z'
 finalUrl: 'https://onix59.ru/'
 reachable: true

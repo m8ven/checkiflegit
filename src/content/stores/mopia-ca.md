@@ -1,10 +1,10 @@
 ---
 domain: mopia.ca
 slug: mopia-ca
-title: Is mopia.ca Legit? Trust Signal Check
+title: Is mopia.ca Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mopia.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mopia.ca scores 100/100 on our public trust checks. Established domain —
+  registered 24.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:50.414Z'
 finalUrl: 'https://mopia.ca/'
 reachable: true

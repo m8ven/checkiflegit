@@ -1,10 +1,11 @@
 ---
 domain: masotti.com.br
 slug: masotti-com-br
-title: Is masotti.com.br Legit? Trust Signal Check
+title: Is masotti.com.br Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for masotti.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  masotti.com.br scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:35:36.825Z'
 finalUrl: 'https://masotti.com.br/'
 reachable: true

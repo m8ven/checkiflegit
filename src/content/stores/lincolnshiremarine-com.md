@@ -1,10 +1,10 @@
 ---
 domain: lincolnshiremarine.com
 slug: lincolnshiremarine-com
-title: Is lincolnshiremarine.com Legit? Trust Signal Check
+title: Is lincolnshiremarine.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for lincolnshiremarine.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lincolnshiremarine.com scores 94/100 on our public trust checks. Established
+  domain — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:16.854Z'
 finalUrl: 'https://www.lincolnshiremarine.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: softfuture.no
 slug: softfuture-no
-title: Is softfuture.no Legit? Trust Signal Check
+title: Is softfuture.no Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for softfuture.no: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  softfuture.no scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:45:44.834Z'
 finalUrl: 'https://softfuture.no/'
 reachable: true

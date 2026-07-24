@@ -1,10 +1,10 @@
 ---
 domain: citimobi.com.tw
 slug: citimobi-com-tw
-title: Is citimobi.com.tw Legit? Trust Signal Check
+title: Is citimobi.com.tw Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for citimobi.com.tw: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  citimobi.com.tw scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:22:10.407Z'
 finalUrl: 'https://citimobi.com.tw/'
 reachable: true

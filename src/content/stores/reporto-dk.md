@@ -1,10 +1,10 @@
 ---
 domain: reporto.dk
 slug: reporto-dk
-title: Is reporto.dk Legit? Trust Signal Check
+title: Is reporto.dk Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for reporto.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  reporto.dk scores 73/100 on our public trust checks. Established domain —
+  registered 27 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:23.888Z'
 finalUrl: 'https://reporto.dk/'
 reachable: true

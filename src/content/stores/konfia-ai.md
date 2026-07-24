@@ -1,10 +1,10 @@
 ---
 domain: konfia.ai
 slug: konfia-ai
-title: Is konfia.ai Legit? Trust Signal Check
+title: Is konfia.ai Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for konfia.ai: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  konfia.ai scores 70/100 on our public trust checks. Established domain —
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:34.787Z'
 finalUrl: 'https://konfia.ai/'
 reachable: true

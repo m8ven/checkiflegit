@@ -1,10 +1,10 @@
 ---
 domain: agrimanet.ro
 slug: agrimanet-ro
-title: Is agrimanet.ro Legit? Trust Signal Check
+title: Is agrimanet.ro Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for agrimanet.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  agrimanet.ro scores 70/100 on our public trust checks. Established domain —
+  registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:38:12.183Z'
 finalUrl: 'https://agrimanet.ro/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: teachspectacularscience.com
 slug: teachspectacularscience-com
-title: Is teachspectacularscience.com Legit? Trust Signal Check
+title: Is teachspectacularscience.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for teachspectacularscience.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  teachspectacularscience.com scores 70/100 on our public trust checks.
+  Established domain — registered 3.8 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:33:24.939Z'
 finalUrl: 'https://teachspectacularscience.com/'
 reachable: true

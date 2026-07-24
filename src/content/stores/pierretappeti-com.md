@@ -1,10 +1,10 @@
 ---
 domain: pierretappeti.com
 slug: pierretappeti-com
-title: Is pierretappeti.com Legit? Trust Signal Check
+title: Is pierretappeti.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pierretappeti.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pierretappeti.com scores 100/100 on our public trust checks. Established
+  domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:11.776Z'
 finalUrl: 'https://pierretappeti.com/'
 reachable: true

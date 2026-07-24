@@ -1,10 +1,10 @@
 ---
 domain: soupcondebrindille.com
 slug: soupcondebrindille-com
-title: Is soupcondebrindille.com Legit? Trust Signal Check
+title: Is soupcondebrindille.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for soupcondebrindille.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  soupcondebrindille.com scores 76/100 on our public trust checks. Established
+  domain — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:45:18.412Z'
 finalUrl: 'https://www.soupcondebrindille.com/'
 reachable: true

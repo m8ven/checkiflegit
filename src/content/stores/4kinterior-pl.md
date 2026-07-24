@@ -1,10 +1,10 @@
 ---
 domain: 4kinterior.pl
 slug: 4kinterior-pl
-title: Is 4kinterior.pl Legit? Trust Signal Check
+title: Is 4kinterior.pl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for 4kinterior.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  4kinterior.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:40:47.793Z'
 finalUrl: 'https://4kinterior.pl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kap.com.co
 slug: kap-com-co
-title: Is kap.com.co Legit? Trust Signal Check
+title: Is kap.com.co Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kap.com.co: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kap.com.co scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:17:28.084Z'
 finalUrl: 'https://kap.com.co/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vaperzone.es
 slug: vaperzone-es
-title: Is vaperzone.es Legit? Trust Signal Check
+title: Is vaperzone.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for vaperzone.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vaperzone.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:49:27.907Z'
 finalUrl: 'https://vaperzone.es/'
 reachable: true

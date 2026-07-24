@@ -1,10 +1,10 @@
 ---
 domain: 1708conseil.fr
 slug: 1708conseil-fr
-title: Is 1708conseil.fr Legit? Trust Signal Check
+title: Is 1708conseil.fr Legit? Trust Score 37/100
 description: >-
-  An automated trust-signal check for 1708conseil.fr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  1708conseil.fr scores 37/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:56:21.626Z'
 finalUrl: 'https://www.1708conseil.fr/'
 reachable: true

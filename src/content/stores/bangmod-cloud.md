@@ -1,10 +1,10 @@
 ---
 domain: bangmod.cloud
 slug: bangmod-cloud
-title: Is bangmod.cloud Legit? Trust Signal Check
+title: Is bangmod.cloud Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bangmod.cloud: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bangmod.cloud scores 100/100 on our public trust checks. Established domain —
+  registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:37.828Z'
 finalUrl: 'https://bangmod.cloud/'
 reachable: true

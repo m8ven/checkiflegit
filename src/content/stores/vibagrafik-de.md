@@ -1,10 +1,10 @@
 ---
 domain: vibagrafik.de
 slug: vibagrafik-de
-title: Is vibagrafik.de Legit? Trust Signal Check
+title: Is vibagrafik.de Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for vibagrafik.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vibagrafik.de scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:36:52.548Z'
 finalUrl: 'https://vibagrafik.de/'
 reachable: true

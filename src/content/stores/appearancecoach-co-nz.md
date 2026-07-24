@@ -1,10 +1,10 @@
 ---
 domain: appearancecoach.co.nz
 slug: appearancecoach-co-nz
-title: Is appearancecoach.co.nz Legit? Trust Signal Check
+title: Is appearancecoach.co.nz Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for appearancecoach.co.nz: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  appearancecoach.co.nz scores 82/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:22.850Z'
 finalUrl: 'https://www.appearancecoach.co.nz/'
 reachable: true

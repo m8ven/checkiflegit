@@ -1,10 +1,10 @@
 ---
 domain: topdeal.co.il
 slug: topdeal-co-il
-title: Is topdeal.co.il Legit? Trust Signal Check
+title: Is topdeal.co.il Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for topdeal.co.il: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  topdeal.co.il scores 31/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:48:16.594Z'
 finalUrl: 'https://www.topdeal.co.il/'
 reachable: true

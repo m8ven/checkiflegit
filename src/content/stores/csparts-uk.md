@@ -1,10 +1,10 @@
 ---
 domain: csparts.uk
 slug: csparts-uk
-title: Is csparts.uk Legit? Trust Signal Check
+title: Is csparts.uk Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for csparts.uk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  csparts.uk scores 100/100 on our public trust checks. Established domain —
+  registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:28.700Z'
 finalUrl: 'https://www.csparts.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: debtkind.com
 slug: debtkind-com
-title: Is debtkind.com Legit? Trust Signal Check
+title: Is debtkind.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for debtkind.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  debtkind.com scores 70/100 on our public trust checks. Established domain —
+  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:49.324Z'
 finalUrl: 'https://www.debtkind.com/'
 reachable: true

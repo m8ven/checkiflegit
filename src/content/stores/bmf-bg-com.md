@@ -1,10 +1,10 @@
 ---
 domain: bmf-bg.com
 slug: bmf-bg-com
-title: Is bmf-bg.com Legit? Trust Signal Check
+title: Is bmf-bg.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bmf-bg.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bmf-bg.com scores 73/100 on our public trust checks. Established domain —
+  registered 13.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:51.460Z'
 finalUrl: 'https://bmf-bg.com/'
 reachable: true

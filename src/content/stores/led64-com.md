@@ -1,10 +1,10 @@
 ---
 domain: led64.com
 slug: led64-com
-title: Is led64.com Legit? Trust Signal Check
+title: Is led64.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for led64.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  led64.com scores 100/100 on our public trust checks. Established domain —
+  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:29.306Z'
 finalUrl: 'https://www.led64.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: speedwear.be
 slug: speedwear-be
-title: Is speedwear.be Legit? Trust Signal Check
+title: Is speedwear.be Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for speedwear.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  speedwear.be scores 73/100 on our public trust checks. Established domain —
+  registered 20.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:57.922Z'
 finalUrl: 'https://speedwear.be/'
 reachable: true

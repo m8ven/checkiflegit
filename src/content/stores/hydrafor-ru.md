@@ -1,10 +1,10 @@
 ---
 domain: hydrafor.ru
 slug: hydrafor-ru
-title: Is hydrafor.ru Legit? Trust Signal Check
+title: Is hydrafor.ru Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for hydrafor.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hydrafor.ru scores 55/100 on our public trust checks. No links to major social
+  platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T03:57:22.694Z'
 finalUrl: 'https://hydrafor.ru/'
 reachable: true

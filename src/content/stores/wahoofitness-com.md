@@ -1,10 +1,10 @@
 ---
 domain: wahoofitness.com
 slug: wahoofitness-com
-title: Is wahoofitness.com Legit? Trust Signal Check
+title: Is wahoofitness.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for wahoofitness.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wahoofitness.com scores 88/100 on our public trust checks. Established domain
+  — registered 19.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:30.241Z'
 finalUrl: 'https://www.wahoofitness.com/'
 reachable: true

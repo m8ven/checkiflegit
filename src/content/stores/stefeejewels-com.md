@@ -1,10 +1,10 @@
 ---
 domain: stefeejewels.com
 slug: stefeejewels-com
-title: Is stefeejewels.com Legit? Trust Signal Check
+title: Is stefeejewels.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for stefeejewels.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stefeejewels.com scores 70/100 on our public trust checks. Established domain
+  — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:02.562Z'
 finalUrl: 'https://stefeejewels.com/'
 reachable: true

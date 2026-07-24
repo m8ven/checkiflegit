@@ -1,10 +1,10 @@
 ---
 domain: parisbaguette.uk
 slug: parisbaguette-uk
-title: Is parisbaguette.uk Legit? Trust Signal Check
+title: Is parisbaguette.uk Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for parisbaguette.uk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  parisbaguette.uk scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T15:01:49.714Z'
 finalUrl: 'https://parisbaguette.uk/'
 reachable: true

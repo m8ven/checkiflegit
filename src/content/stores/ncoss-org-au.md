@@ -1,10 +1,10 @@
 ---
 domain: ncoss.org.au
 slug: ncoss-org-au
-title: Is ncoss.org.au Legit? Trust Signal Check
+title: Is ncoss.org.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ncoss.org.au: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ncoss.org.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:56:08.239Z'
 finalUrl: 'https://ncoss.org.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: livrariaintersaberes.com.br
 slug: livrariaintersaberes-com-br
-title: Is livrariaintersaberes.com.br Legit? Trust Signal Check
+title: Is livrariaintersaberes.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for livrariaintersaberes.com.br: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  livrariaintersaberes.com.br scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T14:56:19.042Z'
 finalUrl: 'https://livrariaintersaberes.com.br/'
 reachable: true

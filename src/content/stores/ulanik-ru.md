@@ -1,10 +1,10 @@
 ---
 domain: ulanik.ru
 slug: ulanik-ru
-title: Is ulanik.ru Legit? Trust Signal Check
+title: Is ulanik.ru Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ulanik.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ulanik.ru scores 70/100 on our public trust checks. Established domain —
+  registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:35.235Z'
 finalUrl: 'https://ulanik.ru/'
 reachable: true

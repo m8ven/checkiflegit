@@ -1,10 +1,10 @@
 ---
 domain: miloff.fi
 slug: miloff-fi
-title: Is miloff.fi Legit? Trust Signal Check
+title: Is miloff.fi Legit? Trust Score 6/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for miloff.fi: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  miloff.fi scores 6/100 on our public trust checks. Standard contact and policy
+  pages were not found. No public contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:22:41.213Z'
 finalUrl: 'https://miloff.fi/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: tellerafricatickets.com
 slug: tellerafricatickets-com
-title: Is tellerafricatickets.com Legit? Trust Signal Check
+title: Is tellerafricatickets.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for tellerafricatickets.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  tellerafricatickets.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:42:56.778Z'
 finalUrl: 'https://tellerafricatickets.com/'
 reachable: true

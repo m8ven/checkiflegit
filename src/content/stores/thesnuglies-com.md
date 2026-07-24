@@ -1,10 +1,10 @@
 ---
 domain: thesnuglies.com
 slug: thesnuglies-com
-title: Is thesnuglies.com Legit? Trust Signal Check
+title: Is thesnuglies.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for thesnuglies.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thesnuglies.com scores 88/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:44.379Z'
 finalUrl: 'https://www.thesnuglies.com/'
 reachable: true

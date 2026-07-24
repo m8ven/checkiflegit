@@ -1,10 +1,10 @@
 ---
 domain: shop.treatians.com
 slug: shop-treatians-com
-title: Is shop.treatians.com Legit? Trust Signal Check
+title: Is shop.treatians.com Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for shop.treatians.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.treatians.com scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:51:15.621Z'
 finalUrl: 'https://shop.treatians.com/'
 reachable: true

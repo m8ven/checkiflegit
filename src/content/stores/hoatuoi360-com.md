@@ -1,10 +1,10 @@
 ---
 domain: hoatuoi360.com
 slug: hoatuoi360-com
-title: Is hoatuoi360.com Legit? Trust Signal Check
+title: Is hoatuoi360.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for hoatuoi360.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hoatuoi360.com scores 70/100 on our public trust checks. Established domain —
+  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:08.299Z'
 finalUrl: 'https://hoatuoi360.com/'
 reachable: true

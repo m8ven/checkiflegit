@@ -1,10 +1,10 @@
 ---
 domain: pajarita.org
 slug: pajarita-org
-title: Is pajarita.org Legit? Trust Signal Check
+title: Is pajarita.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for pajarita.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pajarita.org scores 76/100 on our public trust checks. Established domain —
+  registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:23.406Z'
 finalUrl: 'https://www.pajarita.org/'
 reachable: true

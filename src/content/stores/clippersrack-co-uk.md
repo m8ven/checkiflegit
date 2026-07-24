@@ -1,10 +1,10 @@
 ---
 domain: clippersrack.co.uk
 slug: clippersrack-co-uk
-title: Is clippersrack.co.uk Legit? Trust Signal Check
+title: Is clippersrack.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for clippersrack.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  clippersrack.co.uk scores 88/100 on our public trust checks. Established
+  domain — registered 12 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:01.381Z'
 finalUrl: 'https://clippersrack.co.uk/'
 reachable: true

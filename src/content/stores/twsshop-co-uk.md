@@ -1,10 +1,10 @@
 ---
 domain: twsshop.co.uk
 slug: twsshop-co-uk
-title: Is twsshop.co.uk Legit? Trust Signal Check
+title: Is twsshop.co.uk Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for twsshop.co.uk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  twsshop.co.uk scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T12:07:55.969Z'
 finalUrl: 'https://twsshop.co.uk/'
 reachable: true

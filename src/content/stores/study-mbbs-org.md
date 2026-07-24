@@ -1,10 +1,10 @@
 ---
 domain: study-mbbs.org
 slug: study-mbbs-org
-title: Is study-mbbs.org Legit? Trust Signal Check
+title: Is study-mbbs.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for study-mbbs.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  study-mbbs.org scores 100/100 on our public trust checks. Established domain —
+  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:26.228Z'
 finalUrl: 'https://study-mbbs.org/'
 reachable: true

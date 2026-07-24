@@ -1,10 +1,10 @@
 ---
 domain: vietweld.vn
 slug: vietweld-vn
-title: Is vietweld.vn Legit? Trust Signal Check
+title: Is vietweld.vn Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for vietweld.vn: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vietweld.vn scores 76/100 on our public trust checks. Public business contact
+  details are listed. Maintains links to multiple social media platforms.
 fetchedAt: '2026-06-25T12:48:10.734Z'
 finalUrl: 'https://vietweld.vn/'
 reachable: true

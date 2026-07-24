@@ -1,10 +1,10 @@
 ---
 domain: eva-art.net
 slug: eva-art-net
-title: Is eva-art.net Legit? Trust Signal Check
+title: Is eva-art.net Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for eva-art.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eva-art.net scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:30:24.946Z'
 finalUrl: 'https://eva-art.net/'
 reachable: true

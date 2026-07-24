@@ -1,10 +1,10 @@
 ---
 domain: cocre.co
 slug: cocre-co
-title: Is cocre.co Legit? Trust Signal Check
+title: Is cocre.co Legit? Trust Score 40/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for cocre.co: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  cocre.co scores 40/100 on our public trust checks. Standard contact and policy
+  pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:29:45.890Z'
 finalUrl: 'https://cocre.co/'
 reachable: true

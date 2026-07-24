@@ -1,10 +1,10 @@
 ---
 domain: 4girlsfashionandbeauty.com
 slug: 4girlsfashionandbeauty-com
-title: Is 4girlsfashionandbeauty.com Legit? Trust Signal Check
+title: Is 4girlsfashionandbeauty.com Legit? Trust Score 67/100
 description: >-
-  An automated trust-signal check for 4girlsfashionandbeauty.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  4girlsfashionandbeauty.com scores 67/100 on our public trust checks. No links
+  to major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:22:25.383Z'
 finalUrl: 'https://4girlsfashionandbeauty.com/'
 reachable: true

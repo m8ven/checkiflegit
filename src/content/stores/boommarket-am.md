@@ -1,10 +1,10 @@
 ---
 domain: boommarket.am
 slug: boommarket-am
-title: Is boommarket.am Legit? Trust Signal Check
+title: Is boommarket.am Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for boommarket.am: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  boommarket.am scores 82/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:16.698Z'
 finalUrl: 'https://boommarket.am/'
 reachable: true

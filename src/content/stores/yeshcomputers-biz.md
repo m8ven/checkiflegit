@@ -1,10 +1,10 @@
 ---
 domain: yeshcomputers.biz
 slug: yeshcomputers-biz
-title: Is yeshcomputers.biz Legit? Trust Signal Check
+title: Is yeshcomputers.biz Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for yeshcomputers.biz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  yeshcomputers.biz scores 73/100 on our public trust checks. Established domain
+  — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:54.734Z'
 finalUrl: 'https://yeshcomputers.biz/'
 reachable: true

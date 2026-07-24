@@ -1,10 +1,10 @@
 ---
 domain: olathetruth.com
 slug: olathetruth-com
-title: Is olathetruth.com Legit? Trust Signal Check
+title: Is olathetruth.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for olathetruth.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  olathetruth.com scores 100/100 on our public trust checks. Established domain
+  — registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:27.420Z'
 finalUrl: 'https://olathetruth.com/'
 reachable: true

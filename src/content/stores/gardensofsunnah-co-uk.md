@@ -1,10 +1,10 @@
 ---
 domain: gardensofsunnah.co.uk
 slug: gardensofsunnah-co-uk
-title: Is gardensofsunnah.co.uk Legit? Trust Signal Check
+title: Is gardensofsunnah.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for gardensofsunnah.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  gardensofsunnah.co.uk scores 73/100 on our public trust checks. Established
+  domain — registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:00.469Z'
 finalUrl: 'https://gardensofsunnah.co.uk/'
 reachable: true

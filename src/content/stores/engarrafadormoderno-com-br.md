@@ -1,11 +1,10 @@
 ---
 domain: engarrafadormoderno.com.br
 slug: engarrafadormoderno-com-br
-title: Is engarrafadormoderno.com.br Legit? Trust Signal Check
+title: Is engarrafadormoderno.com.br Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for engarrafadormoderno.com.br: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  engarrafadormoderno.com.br scores 40/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:26:40.188Z'
 finalUrl: 'https://engarrafadormoderno.com.br/'
 reachable: true

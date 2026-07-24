@@ -1,10 +1,10 @@
 ---
 domain: carballido.net
 slug: carballido-net
-title: Is carballido.net Legit? Trust Signal Check
+title: Is carballido.net Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for carballido.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  carballido.net scores 85/100 on our public trust checks. Established domain —
+  registered 25.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:09.449Z'
 finalUrl: 'https://carballido.net/'
 reachable: true

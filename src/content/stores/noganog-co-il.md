@@ -1,10 +1,10 @@
 ---
 domain: noganog.co.il
 slug: noganog-co-il
-title: Is noganog.co.il Legit? Trust Signal Check
+title: Is noganog.co.il Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for noganog.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  noganog.co.il scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:57:29.599Z'
 finalUrl: 'https://noganog.co.il/'
 reachable: true

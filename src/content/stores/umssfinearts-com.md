@@ -1,10 +1,10 @@
 ---
 domain: umssfinearts.com
 slug: umssfinearts-com
-title: Is umssfinearts.com Legit? Trust Signal Check
+title: Is umssfinearts.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for umssfinearts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  umssfinearts.com scores 88/100 on our public trust checks. Established domain
+  — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:03.886Z'
 finalUrl: 'https://umssfinearts.com/'
 reachable: true

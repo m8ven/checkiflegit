@@ -1,10 +1,10 @@
 ---
 domain: beecraft.ca
 slug: beecraft-ca
-title: Is beecraft.ca Legit? Trust Signal Check
+title: Is beecraft.ca Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for beecraft.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  beecraft.ca scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:26:26.317Z'
 finalUrl: 'https://beecraft.ca/'
 reachable: true

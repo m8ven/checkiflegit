@@ -1,10 +1,10 @@
 ---
 domain: florabundancegardens.com
 slug: florabundancegardens-com
-title: Is florabundancegardens.com Legit? Trust Signal Check
+title: Is florabundancegardens.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for florabundancegardens.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  florabundancegardens.com scores 88/100 on our public trust checks. Established
+  domain — registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:48:58.307Z'
 finalUrl: 'https://florabundancegardens.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: naturalizer.gt
 slug: naturalizer-gt
-title: Is naturalizer.gt Legit? Trust Signal Check
+title: Is naturalizer.gt Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for naturalizer.gt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  naturalizer.gt scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:38:13.094Z'
 finalUrl: 'https://naturalizer.gt/'
 reachable: true

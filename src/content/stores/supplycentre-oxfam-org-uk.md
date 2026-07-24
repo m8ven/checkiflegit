@@ -1,11 +1,10 @@
 ---
 domain: supplycentre.oxfam.org.uk
 slug: supplycentre-oxfam-org-uk
-title: Is supplycentre.oxfam.org.uk Legit? Trust Signal Check
+title: Is supplycentre.oxfam.org.uk Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for supplycentre.oxfam.org.uk: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  supplycentre.oxfam.org.uk scores 36/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:04:41.702Z'
 finalUrl: 'https://supplycentre.oxfam.org.uk/?currency=GBP'
 reachable: true

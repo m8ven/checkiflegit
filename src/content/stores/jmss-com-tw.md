@@ -1,10 +1,10 @@
 ---
 domain: jmss.com.tw
 slug: jmss-com-tw
-title: Is jmss.com.tw Legit? Trust Signal Check
+title: Is jmss.com.tw Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for jmss.com.tw: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jmss.com.tw scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:25:02.100Z'
 finalUrl: 'https://www.jmss.com.tw/'
 reachable: true

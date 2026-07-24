@@ -1,10 +1,10 @@
 ---
 domain: edenprime.store
 slug: edenprime-store
-title: Is edenprime.store Legit? Trust Signal Check
+title: Is edenprime.store Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for edenprime.store: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  edenprime.store scores 67/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T03:27:45.834Z'
 finalUrl: 'https://edenprime.store/'
 reachable: true

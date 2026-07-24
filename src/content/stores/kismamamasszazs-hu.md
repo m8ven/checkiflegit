@@ -1,10 +1,10 @@
 ---
 domain: kismamamasszazs.hu
 slug: kismamamasszazs-hu
-title: Is kismamamasszazs.hu Legit? Trust Signal Check
+title: Is kismamamasszazs.hu Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for kismamamasszazs.hu: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kismamamasszazs.hu scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:45.007Z'
 finalUrl: 'https://kismamamasszazs.hu/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: parrucchieritorinoshop.it
 slug: parrucchieritorinoshop-it
-title: Is parrucchieritorinoshop.it Legit? Trust Signal Check
+title: Is parrucchieritorinoshop.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for parrucchieritorinoshop.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  parrucchieritorinoshop.it scores 100/100 on our public trust checks.
+  Established domain — registered 1.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:44:39.058Z'
 finalUrl: 'https://parrucchieritorinoshop.it/'
 reachable: true

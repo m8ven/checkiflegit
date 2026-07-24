@@ -1,10 +1,10 @@
 ---
 domain: seepil.com
 slug: seepil-com
-title: Is seepil.com Legit? Trust Signal Check
+title: Is seepil.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for seepil.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  seepil.com scores 88/100 on our public trust checks. Established domain —
+  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:50:34.016Z'
 finalUrl: 'https://seepil.com/'
 reachable: true

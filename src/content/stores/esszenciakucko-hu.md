@@ -1,10 +1,10 @@
 ---
 domain: esszenciakucko.hu
 slug: esszenciakucko-hu
-title: Is esszenciakucko.hu Legit? Trust Signal Check
+title: Is esszenciakucko.hu Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for esszenciakucko.hu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  esszenciakucko.hu scores 49/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T03:42:35.324Z'
 finalUrl: 'https://esszenciakucko.hu/'
 reachable: true

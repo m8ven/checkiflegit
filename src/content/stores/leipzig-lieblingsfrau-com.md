@@ -1,10 +1,10 @@
 ---
 domain: leipzig.lieblingsfrau.com
 slug: leipzig-lieblingsfrau-com
-title: Is leipzig.lieblingsfrau.com Legit? Trust Signal Check
+title: Is leipzig.lieblingsfrau.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for leipzig.lieblingsfrau.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  leipzig.lieblingsfrau.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:47.536Z'
 finalUrl: 'https://leipzig.lieblingsfrau.com/'
 reachable: true

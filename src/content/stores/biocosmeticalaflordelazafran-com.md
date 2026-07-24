@@ -1,10 +1,10 @@
 ---
 domain: biocosmeticalaflordelazafran.com
 slug: biocosmeticalaflordelazafran-com
-title: Is biocosmeticalaflordelazafran.com Legit? Trust Signal Check
+title: Is biocosmeticalaflordelazafran.com Legit? Score 82/100
 description: >-
-  An automated trust-signal check for biocosmeticalaflordelazafran.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  biocosmeticalaflordelazafran.com scores 82/100 on our public trust checks.
+  Established domain — registered 5.3 years ago.
 fetchedAt: '2026-06-25T03:36:46.466Z'
 finalUrl: 'https://biocosmeticalaflordelazafran.com/'
 reachable: true

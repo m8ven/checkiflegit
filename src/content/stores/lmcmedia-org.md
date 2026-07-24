@@ -1,10 +1,10 @@
 ---
 domain: lmcmedia.org
 slug: lmcmedia-org
-title: Is lmcmedia.org Legit? Trust Signal Check
+title: Is lmcmedia.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for lmcmedia.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lmcmedia.org scores 76/100 on our public trust checks. Established domain —
+  registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:01.004Z'
 finalUrl: 'https://lmcmedia.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: thefertilityshop.co.uk
 slug: thefertilityshop-co-uk
-title: Is thefertilityshop.co.uk Legit? Trust Signal Check
+title: Is thefertilityshop.co.uk Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for thefertilityshop.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thefertilityshop.co.uk scores 94/100 on our public trust checks. Established
+  domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:41.482Z'
 finalUrl: 'https://thefertilityshop.co.uk/'
 reachable: true

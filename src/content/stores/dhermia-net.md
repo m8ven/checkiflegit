@@ -1,10 +1,10 @@
 ---
 domain: dhermia.net
 slug: dhermia-net
-title: Is dhermia.net Legit? Trust Signal Check
+title: Is dhermia.net Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dhermia.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dhermia.net scores 88/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:07.237Z'
 finalUrl: 'https://www.dhermia.net/'
 reachable: true

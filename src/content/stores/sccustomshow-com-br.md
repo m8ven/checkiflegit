@@ -1,10 +1,10 @@
 ---
 domain: sccustomshow.com.br
 slug: sccustomshow-com-br
-title: Is sccustomshow.com.br Legit? Trust Signal Check
+title: Is sccustomshow.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for sccustomshow.com.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sccustomshow.com.br scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:50:19.560Z'
 finalUrl: 'https://sccustomshow.com.br/'
 reachable: true

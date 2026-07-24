@@ -1,10 +1,11 @@
 ---
 domain: superfunactivitiesclub.com
 slug: superfunactivitiesclub-com
-title: Is superfunactivitiesclub.com Legit? Trust Signal Check
+title: Is superfunactivitiesclub.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for superfunactivitiesclub.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  superfunactivitiesclub.com scores 76/100 on our public trust checks.
+  Established domain — registered 11.1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:32:47.690Z'
 finalUrl: 'https://superfunactivitiesclub.com/'
 reachable: true

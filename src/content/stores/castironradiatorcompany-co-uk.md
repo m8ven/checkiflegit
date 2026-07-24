@@ -1,10 +1,11 @@
 ---
 domain: castironradiatorcompany.co.uk
 slug: castironradiatorcompany-co-uk
-title: Is castironradiatorcompany.co.uk Legit? Trust Signal Check
+title: Is castironradiatorcompany.co.uk Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for castironradiatorcompany.co.uk: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  castironradiatorcompany.co.uk scores 94/100 on our public trust checks.
+  Established domain — registered 5.1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:21:25.302Z'
 finalUrl: 'https://castironradiatorcompany.co.uk/'
 reachable: true

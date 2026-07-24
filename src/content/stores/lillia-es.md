@@ -1,10 +1,10 @@
 ---
 domain: lillia.es
 slug: lillia-es
-title: Is lillia.es Legit? Trust Signal Check
+title: Is lillia.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lillia.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lillia.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:50:19.083Z'
 finalUrl: 'https://lillia.es/'
 reachable: true

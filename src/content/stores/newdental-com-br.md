@@ -1,10 +1,10 @@
 ---
 domain: newdental.com.br
 slug: newdental-com-br
-title: Is newdental.com.br Legit? Trust Signal Check
+title: Is newdental.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for newdental.com.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  newdental.com.br scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T11:56:31.262Z'
 finalUrl: 'https://newdental.com.br/'
 reachable: true

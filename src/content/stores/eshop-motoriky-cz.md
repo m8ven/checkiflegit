@@ -1,10 +1,10 @@
 ---
 domain: eshop.motoriky.cz
 slug: eshop-motoriky-cz
-title: Is eshop.motoriky.cz Legit? Trust Signal Check
+title: Is eshop.motoriky.cz Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for eshop.motoriky.cz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eshop.motoriky.cz scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:57:46.881Z'
 finalUrl: 'https://www.eshop.motoriky.cz/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: batterix.ru
 slug: batterix-ru
-title: Is batterix.ru Legit? Trust Signal Check
+title: Is batterix.ru Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for batterix.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  batterix.ru scores 88/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:47.457Z'
 finalUrl: 'https://batterix.ru/'
 reachable: true

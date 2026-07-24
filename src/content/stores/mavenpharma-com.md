@@ -1,10 +1,10 @@
 ---
 domain: mavenpharma.com
 slug: mavenpharma-com
-title: Is mavenpharma.com Legit? Trust Signal Check
+title: Is mavenpharma.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mavenpharma.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mavenpharma.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:24:10.858Z'
 finalUrl: 'https://www.mavenpharma.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mars-emall.com
 slug: mars-emall-com
-title: Is mars-emall.com Legit? Trust Signal Check
+title: Is mars-emall.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mars-emall.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mars-emall.com scores 100/100 on our public trust checks. Established domain —
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:27.328Z'
 finalUrl: 'https://mars-emall.com/'
 reachable: true

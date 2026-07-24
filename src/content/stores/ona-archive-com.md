@@ -1,10 +1,10 @@
 ---
 domain: ona-archive.com
 slug: ona-archive-com
-title: Is ona-archive.com Legit? Trust Signal Check
+title: Is ona-archive.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for ona-archive.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  ona-archive.com scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage. Domain is relatively young.
 fetchedAt: '2026-06-25T02:46:32.466Z'
 finalUrl: 'https://ona-archive.com/'
 reachable: true

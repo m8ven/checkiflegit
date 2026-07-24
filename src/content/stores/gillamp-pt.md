@@ -1,10 +1,10 @@
 ---
 domain: gillamp.pt
 slug: gillamp-pt
-title: Is gillamp.pt Legit? Trust Signal Check
+title: Is gillamp.pt Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for gillamp.pt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gillamp.pt scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:08:35.550Z'
 finalUrl: 'https://www.gillamp.pt/'
 reachable: true

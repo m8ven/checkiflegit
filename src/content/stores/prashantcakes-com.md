@@ -1,10 +1,10 @@
 ---
 domain: prashantcakes.com
 slug: prashantcakes-com
-title: Is prashantcakes.com Legit? Trust Signal Check
+title: Is prashantcakes.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for prashantcakes.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  prashantcakes.com scores 100/100 on our public trust checks. Established
+  domain — registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:48.243Z'
 finalUrl: 'https://prashantcakes.com/'
 reachable: true

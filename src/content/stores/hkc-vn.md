@@ -1,10 +1,10 @@
 ---
 domain: hkc.vn
 slug: hkc-vn
-title: Is hkc.vn Legit? Trust Signal Check
+title: Is hkc.vn Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for hkc.vn: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hkc.vn scores 57/100 on our public trust checks. Standard contact and policy
+  pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:51.159Z'
 finalUrl: 'https://hkc.vn/'
 reachable: true

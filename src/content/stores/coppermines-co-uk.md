@@ -1,10 +1,10 @@
 ---
 domain: coppermines.co.uk
 slug: coppermines-co-uk
-title: Is coppermines.co.uk Legit? Trust Signal Check
+title: Is coppermines.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for coppermines.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  coppermines.co.uk scores 88/100 on our public trust checks. Established domain
+  — registered 27.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:57.963Z'
 finalUrl: 'https://www.coppermines.co.uk/'
 reachable: true

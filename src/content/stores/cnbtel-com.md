@@ -1,10 +1,10 @@
 ---
 domain: cnbtel.com
 slug: cnbtel-com
-title: Is cnbtel.com Legit? Trust Signal Check
+title: Is cnbtel.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cnbtel.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cnbtel.com scores 100/100 on our public trust checks. Established domain —
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:34.407Z'
 finalUrl: 'https://cnbtel.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: shop.dangelopanificio.it
 slug: shop-dangelopanificio-it
-title: Is shop.dangelopanificio.it Legit? Trust Signal Check
+title: Is shop.dangelopanificio.it Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for shop.dangelopanificio.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.dangelopanificio.it scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:01.213Z'
 finalUrl: 'https://shop.dangelopanificio.it/'
 reachable: true

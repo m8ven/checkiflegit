@@ -1,10 +1,10 @@
 ---
 domain: mediumkft.hu
 slug: mediumkft-hu
-title: Is mediumkft.hu Legit? Trust Signal Check
+title: Is mediumkft.hu Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for mediumkft.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  mediumkft.hu scores 31/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:57:56.178Z'
 finalUrl: 'https://mediumkft.hu/'
 reachable: true

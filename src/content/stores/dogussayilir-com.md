@@ -1,10 +1,10 @@
 ---
 domain: dogussayilir.com
 slug: dogussayilir-com
-title: Is dogussayilir.com Legit? Trust Signal Check
+title: Is dogussayilir.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for dogussayilir.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dogussayilir.com scores 73/100 on our public trust checks. Established domain
+  — registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:29.675Z'
 finalUrl: 'https://dogussayilir.com/'
 reachable: true

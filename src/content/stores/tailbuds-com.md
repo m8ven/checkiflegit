@@ -1,10 +1,10 @@
 ---
 domain: tailbuds.com
 slug: tailbuds-com
-title: Is tailbuds.com Legit? Trust Signal Check
+title: Is tailbuds.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for tailbuds.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tailbuds.com scores 82/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:01.668Z'
 finalUrl: 'https://tailbuds.com/'
 reachable: true

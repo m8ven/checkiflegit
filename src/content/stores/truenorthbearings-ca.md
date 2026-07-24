@@ -1,10 +1,10 @@
 ---
 domain: truenorthbearings.ca
 slug: truenorthbearings-ca
-title: Is truenorthbearings.ca Legit? Trust Signal Check
+title: Is truenorthbearings.ca Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for truenorthbearings.ca: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  truenorthbearings.ca scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:16:42.978Z'
 finalUrl: 'https://truenorthbearings.ca/'
 reachable: true

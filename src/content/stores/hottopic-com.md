@@ -1,10 +1,10 @@
 ---
 domain: hottopic.com
 slug: hottopic-com
-title: Is hottopic.com Legit? Trust Signal Check
+title: Is hottopic.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hottopic.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hottopic.com scores 100/100 on our public trust checks. Established domain —
+  registered 31.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:38.289Z'
 finalUrl: 'https://www.hottopic.com/homepage'
 reachable: true

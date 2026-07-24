@@ -1,10 +1,10 @@
 ---
 domain: havinh.com
 slug: havinh-com
-title: Is havinh.com Legit? Trust Signal Check
+title: Is havinh.com Legit? Trust Score 37/100
 description: >-
-  An automated trust-signal check for havinh.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  havinh.com scores 37/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:29:50.997Z'
 finalUrl: 'https://havinh.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: prima-reisen.de
 slug: prima-reisen-de
-title: Is prima-reisen.de Legit? Trust Signal Check
+title: Is prima-reisen.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for prima-reisen.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  prima-reisen.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:03:13.060Z'
 finalUrl: 'https://prima-reisen.de/'
 reachable: true

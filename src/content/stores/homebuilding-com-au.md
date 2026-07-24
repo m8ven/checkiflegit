@@ -1,10 +1,10 @@
 ---
 domain: homebuilding.com.au
 slug: homebuilding-com-au
-title: Is homebuilding.com.au Legit? Trust Signal Check
+title: Is homebuilding.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for homebuilding.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  homebuilding.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:20:30.027Z'
 finalUrl: 'https://www.homebuilding.com.au/'
 reachable: true

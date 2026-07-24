@@ -1,10 +1,10 @@
 ---
 domain: grupoemilio.com
 slug: grupoemilio-com
-title: Is grupoemilio.com Legit? Trust Signal Check
+title: Is grupoemilio.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for grupoemilio.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  grupoemilio.com scores 73/100 on our public trust checks. Established domain —
+  registered 21.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:15.528Z'
 finalUrl: 'https://www.grupoemilio.com/'
 reachable: true

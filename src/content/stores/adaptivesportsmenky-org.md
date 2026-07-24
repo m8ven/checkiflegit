@@ -1,10 +1,10 @@
 ---
 domain: adaptivesportsmenky.org
 slug: adaptivesportsmenky-org
-title: Is adaptivesportsmenky.org Legit? Trust Signal Check
+title: Is adaptivesportsmenky.org Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for adaptivesportsmenky.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  adaptivesportsmenky.org scores 82/100 on our public trust checks. Established
+  domain — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:02.905Z'
 finalUrl: 'https://adaptivesportsmenky.org/'
 reachable: true

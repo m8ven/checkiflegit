@@ -1,10 +1,10 @@
 ---
 domain: partymix.com.my
 slug: partymix-com-my
-title: Is partymix.com.my Legit? Trust Signal Check
+title: Is partymix.com.my Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for partymix.com.my: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  partymix.com.my scores 100/100 on our public trust checks. Established domain
+  — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:01:07.351Z'
 finalUrl: 'https://partymix.com.my/'
 reachable: true

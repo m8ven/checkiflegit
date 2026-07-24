@@ -1,10 +1,11 @@
 ---
 domain: eyerepublic.co
 slug: eyerepublic-co
-title: Is eyerepublic.co Legit? Trust Signal Check
+title: Is eyerepublic.co Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for eyerepublic.co: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  eyerepublic.co scores 19/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T03:02:51.533Z'
 finalUrl: 'https://www.eyerepublic.co/'
 reachable: true

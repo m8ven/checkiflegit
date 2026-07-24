@@ -1,11 +1,10 @@
 ---
 domain: colemanracingproducts.com
 slug: colemanracingproducts-com
-title: Is colemanracingproducts.com Legit? Trust Signal Check
+title: Is colemanracingproducts.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for colemanracingproducts.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  colemanracingproducts.com scores 25/100 on our public trust checks. Standard
+  contact and policy pages were not found.
 fetchedAt: '2026-06-25T15:39:07.636Z'
 finalUrl: 'https://colemanracingproducts.com/'
 reachable: true

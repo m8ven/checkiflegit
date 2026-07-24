@@ -1,10 +1,10 @@
 ---
 domain: neimachado.com.br
 slug: neimachado-com-br
-title: Is neimachado.com.br Legit? Trust Signal Check
+title: Is neimachado.com.br Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for neimachado.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  neimachado.com.br scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T11:56:11.034Z'
 finalUrl: 'https://neimachado.com.br/'
 reachable: true

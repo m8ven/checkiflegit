@@ -1,10 +1,10 @@
 ---
 domain: dranas.us
 slug: dranas-us
-title: Is dranas.us Legit? Trust Signal Check
+title: Is dranas.us Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dranas.us: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dranas.us scores 100/100 on our public trust checks. Established domain —
+  registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:46.108Z'
 finalUrl: 'https://dranas.us/'
 reachable: true

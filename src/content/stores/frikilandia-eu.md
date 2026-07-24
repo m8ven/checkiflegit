@@ -1,10 +1,11 @@
 ---
 domain: frikilandia.eu
 slug: frikilandia-eu
-title: Is frikilandia.eu Legit? Trust Signal Check
+title: Is frikilandia.eu Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for frikilandia.eu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  frikilandia.eu scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:28:22.893Z'
 finalUrl: 'https://frikilandia.eu/'
 reachable: true

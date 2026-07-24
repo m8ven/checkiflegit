@@ -1,10 +1,10 @@
 ---
 domain: sa.eventgift.net
 slug: sa-eventgift-net
-title: Is sa.eventgift.net Legit? Trust Signal Check
+title: Is sa.eventgift.net Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for sa.eventgift.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sa.eventgift.net scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:48.224Z'
 finalUrl: 'https://sa.eventgift.net/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ohiovalleysoap.com
 slug: ohiovalleysoap-com
-title: Is ohiovalleysoap.com Legit? Trust Signal Check
+title: Is ohiovalleysoap.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for ohiovalleysoap.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ohiovalleysoap.com scores 85/100 on our public trust checks. Established
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:34.879Z'
 finalUrl: 'https://ohiovalleysoap.com/'
 reachable: true

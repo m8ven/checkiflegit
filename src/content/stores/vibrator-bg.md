@@ -1,10 +1,10 @@
 ---
 domain: vibrator.bg
 slug: vibrator-bg
-title: Is vibrator.bg Legit? Trust Signal Check
+title: Is vibrator.bg Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for vibrator.bg: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vibrator.bg scores 61/100 on our public trust checks. No links to major social
+  platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:18:11.160Z'
 finalUrl: 'https://vibrator.bg/'
 reachable: true

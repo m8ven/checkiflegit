@@ -1,10 +1,10 @@
 ---
 domain: platexcomercial.com
 slug: platexcomercial-com
-title: Is platexcomercial.com Legit? Trust Signal Check
+title: Is platexcomercial.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for platexcomercial.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  platexcomercial.com scores 76/100 on our public trust checks. Established
+  domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:22.914Z'
 finalUrl: 'https://platexcomercial.com/'
 reachable: true

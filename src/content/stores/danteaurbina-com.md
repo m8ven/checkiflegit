@@ -1,10 +1,10 @@
 ---
 domain: danteaurbina.com
 slug: danteaurbina-com
-title: Is danteaurbina.com Legit? Trust Signal Check
+title: Is danteaurbina.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for danteaurbina.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  danteaurbina.com scores 76/100 on our public trust checks. Established domain
+  — registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:35.964Z'
 finalUrl: 'https://danteaurbina.com/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: cultcollectiblesonline.com
 slug: cultcollectiblesonline-com
-title: Is cultcollectiblesonline.com Legit? Trust Signal Check
+title: Is cultcollectiblesonline.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for cultcollectiblesonline.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cultcollectiblesonline.com scores 82/100 on our public trust checks.
+  Established domain — registered 5.8 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:30:34.033Z'
 finalUrl: 'https://cultcollectiblesonline.com/'
 reachable: true

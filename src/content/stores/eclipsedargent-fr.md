@@ -1,10 +1,10 @@
 ---
 domain: eclipsedargent.fr
 slug: eclipsedargent-fr
-title: Is eclipsedargent.fr Legit? Trust Signal Check
+title: Is eclipsedargent.fr Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for eclipsedargent.fr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eclipsedargent.fr scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:26:07.598Z'
 finalUrl: 'https://eclipsedargent.fr/'
 reachable: true

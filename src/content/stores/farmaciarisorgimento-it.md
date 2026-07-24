@@ -1,10 +1,10 @@
 ---
 domain: farmaciarisorgimento.it
 slug: farmaciarisorgimento-it
-title: Is farmaciarisorgimento.it Legit? Trust Signal Check
+title: Is farmaciarisorgimento.it Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for farmaciarisorgimento.it: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  farmaciarisorgimento.it scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T14:48:40.994Z'
 finalUrl: 'https://farmaciarisorgimento.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: xn--k1afbbnk9d.xn--p1ai
 slug: xn-k1afbbnk9d-xn-p1ai
-title: Is xn--k1afbbnk9d.xn--p1ai Legit? Trust Signal Check
+title: Is xn--k1afbbnk9d.xn--p1ai Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for xn--k1afbbnk9d.xn--p1ai: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  xn--k1afbbnk9d.xn--p1ai scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:43:26.079Z'
 finalUrl: 'https://xn--k1afbbnk9d.xn--p1ai/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: flowblue.co.uk
 slug: flowblue-co-uk
-title: Is flowblue.co.uk Legit? Trust Signal Check
+title: Is flowblue.co.uk Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for flowblue.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  flowblue.co.uk scores 94/100 on our public trust checks. Established domain —
+  registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:27.622Z'
 finalUrl: 'https://flowblue.co.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gimsoaragon.com
 slug: gimsoaragon-com
-title: Is gimsoaragon.com Legit? Trust Signal Check
+title: Is gimsoaragon.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for gimsoaragon.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gimsoaragon.com scores 88/100 on our public trust checks. Established domain —
+  registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:18.038Z'
 finalUrl: 'https://gimsoaragon.com/'
 reachable: true

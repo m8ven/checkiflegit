@@ -1,10 +1,10 @@
 ---
 domain: gamingpc.ca
 slug: gamingpc-ca
-title: Is gamingpc.ca Legit? Trust Signal Check
+title: Is gamingpc.ca Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for gamingpc.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gamingpc.ca scores 82/100 on our public trust checks. Established domain —
+  registered 18.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:15.947Z'
 finalUrl: 'https://gamingpc.ca/'
 reachable: true

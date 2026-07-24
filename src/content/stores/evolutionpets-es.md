@@ -1,10 +1,10 @@
 ---
 domain: evolutionpets.es
 slug: evolutionpets-es
-title: Is evolutionpets.es Legit? Trust Signal Check
+title: Is evolutionpets.es Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for evolutionpets.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  evolutionpets.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:16:49.320Z'
 finalUrl: 'https://evolutionpets.es/'
 reachable: true

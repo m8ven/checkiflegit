@@ -1,10 +1,10 @@
 ---
 domain: shop.gama.com.my
 slug: shop-gama-com-my
-title: Is shop.gama.com.my Legit? Trust Signal Check
+title: Is shop.gama.com.my Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.gama.com.my: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.gama.com.my scores 100/100 on our public trust checks. Established domain
+  — registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:05.071Z'
 finalUrl: 'https://shop.gama.com.my/'
 reachable: true

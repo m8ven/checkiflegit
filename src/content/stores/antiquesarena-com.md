@@ -1,10 +1,10 @@
 ---
 domain: antiquesarena.com
 slug: antiquesarena-com
-title: Is antiquesarena.com Legit? Trust Signal Check
+title: Is antiquesarena.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for antiquesarena.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  antiquesarena.com scores 88/100 on our public trust checks. Established domain
+  — registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:19.744Z'
 finalUrl: 'https://antiquesarena.com/'
 reachable: true

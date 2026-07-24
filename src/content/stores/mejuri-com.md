@@ -1,10 +1,10 @@
 ---
 domain: mejuri.com
 slug: mejuri-com
-title: Is mejuri.com Legit? Trust Signal Check
+title: Is mejuri.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mejuri.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mejuri.com scores 88/100 on our public trust checks. Established domain —
+  registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:13.238Z'
 finalUrl: 'https://mejuri.com/'
 reachable: true

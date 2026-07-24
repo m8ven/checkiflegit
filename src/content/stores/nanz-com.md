@@ -1,10 +1,10 @@
 ---
 domain: nanz.com
 slug: nanz-com
-title: Is nanz.com Legit? Trust Signal Check
+title: Is nanz.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for nanz.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nanz.com scores 88/100 on our public trust checks. Established domain —
+  registered 30 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:29:12.607Z'
 finalUrl: 'https://www.nanz.com/'
 reachable: true

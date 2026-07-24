@@ -1,10 +1,11 @@
 ---
 domain: berzerk.com.br
 slug: berzerk-com-br
-title: Is berzerk.com.br Legit? Trust Signal Check
+title: Is berzerk.com.br Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for berzerk.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  berzerk.com.br scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-24T21:46:44.449Z'
 finalUrl: 'https://berzerk.com.br/'
 reachable: true

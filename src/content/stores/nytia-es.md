@@ -1,10 +1,10 @@
 ---
 domain: nytia.es
 slug: nytia-es
-title: Is nytia.es Legit? Trust Signal Check
+title: Is nytia.es Legit? Trust Score 19/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for nytia.es: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  nytia.es scores 19/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:03:23.493Z'
 finalUrl: 'https://nytia.es/'
 reachable: true

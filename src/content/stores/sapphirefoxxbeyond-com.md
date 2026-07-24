@@ -1,10 +1,10 @@
 ---
 domain: sapphirefoxxbeyond.com
 slug: sapphirefoxxbeyond-com
-title: Is sapphirefoxxbeyond.com Legit? Trust Signal Check
+title: Is sapphirefoxxbeyond.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for sapphirefoxxbeyond.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sapphirefoxxbeyond.com scores 85/100 on our public trust checks. Established
+  domain — registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:30:16.514Z'
 finalUrl: 'https://sapphirefoxxbeyond.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: paberkott.ee
 slug: paberkott-ee
-title: Is paberkott.ee Legit? Trust Signal Check
+title: Is paberkott.ee Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for paberkott.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  paberkott.ee scores 70/100 on our public trust checks. Established domain —
+  registered 16 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:27:53.977Z'
 finalUrl: 'https://paberkott.ee/'
 reachable: true

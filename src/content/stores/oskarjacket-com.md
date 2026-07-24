@@ -1,10 +1,10 @@
 ---
 domain: oskarjacket.com
 slug: oskarjacket-com
-title: Is oskarjacket.com Legit? Trust Signal Check
+title: Is oskarjacket.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for oskarjacket.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  oskarjacket.com scores 100/100 on our public trust checks. Established domain
+  — registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:00.990Z'
 finalUrl: 'https://www.oskarjacket.com/'
 reachable: true

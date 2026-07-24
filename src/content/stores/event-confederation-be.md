@@ -1,10 +1,10 @@
 ---
 domain: event-confederation.be
 slug: event-confederation-be
-title: Is event-confederation.be Legit? Trust Signal Check
+title: Is event-confederation.be Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for event-confederation.be: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  event-confederation.be scores 76/100 on our public trust checks. Established
+  domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:26.786Z'
 finalUrl: 'https://event-confederation.be/'
 reachable: true

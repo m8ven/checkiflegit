@@ -1,10 +1,10 @@
 ---
 domain: servi-camion.com
 slug: servi-camion-com
-title: Is servi-camion.com Legit? Trust Signal Check
+title: Is servi-camion.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for servi-camion.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  servi-camion.com scores 100/100 on our public trust checks. Established domain
+  — registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:21.825Z'
 finalUrl: 'https://servi-camion.com/'
 reachable: true

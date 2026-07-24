@@ -1,10 +1,10 @@
 ---
 domain: widermatrix.com
 slug: widermatrix-com
-title: Is widermatrix.com Legit? Trust Signal Check
+title: Is widermatrix.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for widermatrix.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  widermatrix.com scores 94/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:19:35.956Z'
 finalUrl: 'https://widermatrix.com/'
 reachable: true

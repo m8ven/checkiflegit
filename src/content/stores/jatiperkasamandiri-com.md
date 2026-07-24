@@ -1,10 +1,10 @@
 ---
 domain: jatiperkasamandiri.com
 slug: jatiperkasamandiri-com
-title: Is jatiperkasamandiri.com Legit? Trust Signal Check
+title: Is jatiperkasamandiri.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for jatiperkasamandiri.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  jatiperkasamandiri.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:19.995Z'
 finalUrl: 'https://jatiperkasamandiri.com/'
 reachable: true

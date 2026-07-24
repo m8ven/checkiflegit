@@ -1,10 +1,10 @@
 ---
 domain: 604appliance.ca
 slug: 604appliance-ca
-title: Is 604appliance.ca Legit? Trust Signal Check
+title: Is 604appliance.ca Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for 604appliance.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  604appliance.ca scores 76/100 on our public trust checks. Established domain —
+  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:32.338Z'
 finalUrl: 'https://604appliance.ca/'
 reachable: true

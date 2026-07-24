@@ -1,10 +1,10 @@
 ---
 domain: synergyetherapy.com
 slug: synergyetherapy-com
-title: Is synergyetherapy.com Legit? Trust Signal Check
+title: Is synergyetherapy.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for synergyetherapy.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  synergyetherapy.com scores 70/100 on our public trust checks. Established
+  domain — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:51.021Z'
 finalUrl: 'https://www.synergyetherapy.com/'
 reachable: true

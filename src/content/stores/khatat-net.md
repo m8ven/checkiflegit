@@ -1,10 +1,10 @@
 ---
 domain: khatat.net
 slug: khatat-net
-title: Is khatat.net Legit? Trust Signal Check
+title: Is khatat.net Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for khatat.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  khatat.net scores 70/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:35.566Z'
 finalUrl: 'https://khatat.net/'
 reachable: true

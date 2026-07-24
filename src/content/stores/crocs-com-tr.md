@@ -1,10 +1,10 @@
 ---
 domain: crocs.com.tr
 slug: crocs-com-tr
-title: Is crocs.com.tr Legit? Trust Signal Check
+title: Is crocs.com.tr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for crocs.com.tr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  crocs.com.tr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:20:32.245Z'
 finalUrl: 'https://crocs.com.tr/'
 reachable: true

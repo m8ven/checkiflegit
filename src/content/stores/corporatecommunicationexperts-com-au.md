@@ -1,10 +1,10 @@
 ---
 domain: corporatecommunicationexperts.com.au
 slug: corporatecommunicationexperts-com-au
-title: Is corporatecommunicationexperts.com.au Legit? Trust Signal Check
+title: Is corporatecommunicationexperts.com.au Legit? Score 83/100
 description: >-
-  An automated trust-signal check for corporatecommunicationexperts.com.au:
-  strong trust signals. Domain age, SSL, contact info, reviews and more.
+  corporatecommunicationexperts.com.au scores 83/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:45.112Z'
 finalUrl: 'https://corporatecommunicationexperts.com.au/'
 reachable: true

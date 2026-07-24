@@ -1,10 +1,10 @@
 ---
 domain: garyeli.com
 slug: garyeli-com
-title: Is garyeli.com Legit? Trust Signal Check
+title: Is garyeli.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for garyeli.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  garyeli.com scores 88/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:13.413Z'
 finalUrl: 'https://garyeli.com/'
 reachable: true

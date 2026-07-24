@@ -1,10 +1,10 @@
 ---
 domain: laserprintthai.net
 slug: laserprintthai-net
-title: Is laserprintthai.net Legit? Trust Signal Check
+title: Is laserprintthai.net Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for laserprintthai.net: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  laserprintthai.net scores 64/100 on our public trust checks. Standard contact
+  and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T03:52:36.962Z'
 finalUrl: 'https://laserprintthai.net/'
 reachable: true

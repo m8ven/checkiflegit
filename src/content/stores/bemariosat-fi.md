@@ -1,10 +1,10 @@
 ---
 domain: bemariosat.fi
 slug: bemariosat-fi
-title: Is bemariosat.fi Legit? Trust Signal Check
+title: Is bemariosat.fi Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for bemariosat.fi: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bemariosat.fi scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:51:30.516Z'
 finalUrl: 'https://bemariosat.fi/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: daviscasa.ua
 slug: daviscasa-ua
-title: Is daviscasa.ua Legit? Trust Signal Check
+title: Is daviscasa.ua Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for daviscasa.ua: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  daviscasa.ua scores 88/100 on our public trust checks. Established domain —
+  registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:55.580Z'
 finalUrl: 'https://daviscasa.ua/ua/'
 reachable: true

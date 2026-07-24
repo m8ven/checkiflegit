@@ -1,10 +1,10 @@
 ---
 domain: saegenshop.de
 slug: saegenshop-de
-title: Is saegenshop.de Legit? Trust Signal Check
+title: Is saegenshop.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for saegenshop.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  saegenshop.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:04:49.050Z'
 finalUrl: 'https://saegenshop.de/'
 reachable: true

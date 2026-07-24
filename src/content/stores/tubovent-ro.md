@@ -1,10 +1,10 @@
 ---
 domain: tubovent.ro
 slug: tubovent-ro
-title: Is tubovent.ro Legit? Trust Signal Check
+title: Is tubovent.ro Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tubovent.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tubovent.ro scores 70/100 on our public trust checks. Established domain —
+  registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:35.376Z'
 finalUrl: 'https://tubovent.ro/'
 reachable: true

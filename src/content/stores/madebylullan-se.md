@@ -1,10 +1,10 @@
 ---
 domain: madebylullan.se
 slug: madebylullan-se
-title: Is madebylullan.se Legit? Trust Signal Check
+title: Is madebylullan.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for madebylullan.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  madebylullan.se scores 88/100 on our public trust checks. Established domain —
+  registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:59.495Z'
 finalUrl: 'https://www.madebylullan.se/'
 reachable: true

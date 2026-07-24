@@ -1,10 +1,10 @@
 ---
 domain: blackngoldhockey.com
 slug: blackngoldhockey-com
-title: Is blackngoldhockey.com Legit? Trust Signal Check
+title: Is blackngoldhockey.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for blackngoldhockey.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  blackngoldhockey.com scores 58/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:03:08.014Z'
 finalUrl: 'https://blackngoldhockey.com/'
 reachable: true

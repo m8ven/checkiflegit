@@ -1,10 +1,10 @@
 ---
 domain: eletees.com
 slug: eletees-com
-title: Is eletees.com Legit? Trust Signal Check
+title: Is eletees.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for eletees.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  eletees.com scores 85/100 on our public trust checks. Established domain —
+  registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:42.487Z'
 finalUrl: 'https://eletees.com/'
 reachable: true

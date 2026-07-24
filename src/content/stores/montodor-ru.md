@@ -1,10 +1,10 @@
 ---
 domain: montodor.ru
 slug: montodor-ru
-title: Is montodor.ru Legit? Trust Signal Check
+title: Is montodor.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for montodor.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  montodor.ru scores 73/100 on our public trust checks. Established domain —
+  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:12.910Z'
 finalUrl: 'https://www.montodor.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nynstyles.nl
 slug: nynstyles-nl
-title: Is nynstyles.nl Legit? Trust Signal Check
+title: Is nynstyles.nl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nynstyles.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nynstyles.nl scores 100/100 on our public trust checks. Established domain —
+  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:00.179Z'
 finalUrl: 'https://nynstyles.nl/'
 reachable: true

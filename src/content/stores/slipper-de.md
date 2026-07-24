@@ -1,10 +1,10 @@
 ---
 domain: slipper.de
 slug: slipper-de
-title: Is slipper.de Legit? Trust Signal Check
+title: Is slipper.de Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for slipper.de: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  slipper.de scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:21:55.407Z'
 finalUrl: 'https://www.slipper.de/'
 reachable: true

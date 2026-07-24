@@ -1,10 +1,10 @@
 ---
 domain: wellsrock.com
 slug: wellsrock-com
-title: Is wellsrock.com Legit? Trust Signal Check
+title: Is wellsrock.com Legit? Trust Score 0/100
 description: >-
-  An automated trust-signal check for wellsrock.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  wellsrock.com scores 0/100 on our public trust checks. Domain registered very
+  recently (73 days ago). No public contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:49:51.428Z'
 finalUrl: 'https://wellsrock.com/'
 reachable: true

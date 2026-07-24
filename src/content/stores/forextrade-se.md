@@ -1,10 +1,10 @@
 ---
 domain: forextrade.se
 slug: forextrade-se
-title: Is forextrade.se Legit? Trust Signal Check
+title: Is forextrade.se Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for forextrade.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  forextrade.se scores 100/100 on our public trust checks. Established domain —
+  registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:38.638Z'
 finalUrl: 'https://forextrade.se/'
 reachable: true

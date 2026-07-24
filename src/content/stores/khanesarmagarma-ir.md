@@ -1,10 +1,10 @@
 ---
 domain: khanesarmagarma.ir
 slug: khanesarmagarma-ir
-title: Is khanesarmagarma.ir Legit? Trust Signal Check
+title: Is khanesarmagarma.ir Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for khanesarmagarma.ir: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  khanesarmagarma.ir scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:06:06.475Z'
 finalUrl: 'https://khanesarmagarma.ir/'
 reachable: true

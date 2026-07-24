@@ -1,10 +1,10 @@
 ---
 domain: damart.co.uk
 slug: damart-co-uk
-title: Is damart.co.uk Legit? Trust Signal Check
+title: Is damart.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for damart.co.uk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  damart.co.uk scores 88/100 on our public trust checks. Established domain —
+  registered 29.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:35.855Z'
 finalUrl: 'https://www.damart.co.uk/'
 reachable: true

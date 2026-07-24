@@ -1,10 +1,10 @@
 ---
 domain: healthandbeautyblogs.com
 slug: healthandbeautyblogs-com
-title: Is healthandbeautyblogs.com Legit? Trust Signal Check
+title: Is healthandbeautyblogs.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for healthandbeautyblogs.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  healthandbeautyblogs.com scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:57:25.790Z'
 finalUrl: 'https://healthandbeautyblogs.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pindsultani.com
 slug: pindsultani-com
-title: Is pindsultani.com Legit? Trust Signal Check
+title: Is pindsultani.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for pindsultani.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pindsultani.com scores 70/100 on our public trust checks. Established domain —
+  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:40:55.015Z'
 finalUrl: 'https://pindsultani.com/'
 reachable: true

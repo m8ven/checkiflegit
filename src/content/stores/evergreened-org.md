@@ -1,10 +1,10 @@
 ---
 domain: evergreened.org
 slug: evergreened-org
-title: Is evergreened.org Legit? Trust Signal Check
+title: Is evergreened.org Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for evergreened.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  evergreened.org scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:44:15.695Z'
 finalUrl: 'https://evergreened.org/'
 reachable: true

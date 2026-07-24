@@ -1,10 +1,10 @@
 ---
 domain: myjoliewall.com
 slug: myjoliewall-com
-title: Is myjoliewall.com Legit? Trust Signal Check
+title: Is myjoliewall.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for myjoliewall.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  myjoliewall.com scores 85/100 on our public trust checks. Established domain —
+  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:12.319Z'
 finalUrl: 'https://myjoliewall.com/'
 reachable: true

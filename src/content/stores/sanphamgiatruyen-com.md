@@ -1,10 +1,10 @@
 ---
 domain: sanphamgiatruyen.com
 slug: sanphamgiatruyen-com
-title: Is sanphamgiatruyen.com Legit? Trust Signal Check
+title: Is sanphamgiatruyen.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for sanphamgiatruyen.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sanphamgiatruyen.com scores 64/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:01:38.008Z'
 finalUrl: 'https://sanphamgiatruyen.com/'
 reachable: true

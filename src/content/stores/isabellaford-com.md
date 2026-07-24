@@ -1,10 +1,10 @@
 ---
 domain: isabellaford.com
 slug: isabellaford-com
-title: Is isabellaford.com Legit? Trust Signal Check
+title: Is isabellaford.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for isabellaford.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  isabellaford.com scores 100/100 on our public trust checks. Established domain
+  — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:12.793Z'
 finalUrl: 'https://isabellaford.com/'
 reachable: true

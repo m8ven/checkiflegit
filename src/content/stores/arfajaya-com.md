@@ -1,10 +1,10 @@
 ---
 domain: arfajaya.com
 slug: arfajaya-com
-title: Is arfajaya.com Legit? Trust Signal Check
+title: Is arfajaya.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for arfajaya.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  arfajaya.com scores 73/100 on our public trust checks. Established domain —
+  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:19.148Z'
 finalUrl: 'https://arfajaya.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mdmtools.at
 slug: mdmtools-at
-title: Is mdmtools.at Legit? Trust Signal Check
+title: Is mdmtools.at Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mdmtools.at: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mdmtools.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:57:27.258Z'
 finalUrl: 'https://mdmtools.at/'
 reachable: true

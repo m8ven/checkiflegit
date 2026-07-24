@@ -1,10 +1,10 @@
 ---
 domain: iteaonline.org
 slug: iteaonline-org
-title: Is iteaonline.org Legit? Trust Signal Check
+title: Is iteaonline.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for iteaonline.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  iteaonline.org scores 76/100 on our public trust checks. Established domain —
+  registered 25.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:38:39.650Z'
 finalUrl: 'https://iteaonline.org/'
 reachable: true

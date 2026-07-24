@@ -1,10 +1,11 @@
 ---
 domain: centroculturaledimilano.it
 slug: centroculturaledimilano-it
-title: Is centroculturaledimilano.it Legit? Trust Signal Check
+title: Is centroculturaledimilano.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for centroculturaledimilano.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  centroculturaledimilano.it scores 88/100 on our public trust checks.
+  Established domain — registered 13.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:55:16.168Z'
 finalUrl: 'https://www.centroculturaledimilano.it/'
 reachable: true

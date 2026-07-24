@@ -1,10 +1,10 @@
 ---
 domain: almamarina.es
 slug: almamarina-es
-title: Is almamarina.es Legit? Trust Signal Check
+title: Is almamarina.es Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for almamarina.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  almamarina.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:40:44.677Z'
 finalUrl: 'https://almamarina.es/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: akvagrim.in.ua
 slug: akvagrim-in-ua
-title: Is akvagrim.in.ua Legit? Trust Signal Check
+title: Is akvagrim.in.ua Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for akvagrim.in.ua: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  akvagrim.in.ua scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:34:45.548Z'
 finalUrl: 'https://akvagrim.in.ua/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nlg.gr
 slug: nlg-gr
-title: Is nlg.gr Legit? Trust Signal Check
+title: Is nlg.gr Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nlg.gr: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nlg.gr scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-24T21:46:32.980Z'
 finalUrl: 'https://www.nlg.gr/'
 reachable: true

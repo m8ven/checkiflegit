@@ -1,10 +1,10 @@
 ---
 domain: kunasystems.com
 slug: kunasystems-com
-title: Is kunasystems.com Legit? Trust Signal Check
+title: Is kunasystems.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kunasystems.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kunasystems.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-24T21:44:36.442Z'
 finalUrl: 'https://getkuna.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ipbuildingmaterials.com
 slug: ipbuildingmaterials-com
-title: Is ipbuildingmaterials.com Legit? Trust Signal Check
+title: Is ipbuildingmaterials.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for ipbuildingmaterials.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ipbuildingmaterials.com scores 73/100 on our public trust checks. Established
+  domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:59.365Z'
 finalUrl: 'https://ipbuildingmaterials.com/'
 reachable: true

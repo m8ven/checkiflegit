@@ -1,10 +1,10 @@
 ---
 domain: globegallery.org
 slug: globegallery-org
-title: Is globegallery.org Legit? Trust Signal Check
+title: Is globegallery.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for globegallery.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  globegallery.org scores 88/100 on our public trust checks. Established domain
+  — registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:41.850Z'
 finalUrl: 'https://globegallery.org/'
 reachable: true

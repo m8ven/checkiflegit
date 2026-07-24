@@ -1,10 +1,11 @@
 ---
 domain: levnedisney.cz
 slug: levnedisney-cz
-title: Is levnedisney.cz Legit? Trust Signal Check
+title: Is levnedisney.cz Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for levnedisney.cz: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  levnedisney.cz scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:21:38.899Z'
 finalUrl: 'https://www.levnedisney.cz/'
 reachable: true

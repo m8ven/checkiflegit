@@ -1,10 +1,11 @@
 ---
 domain: atlanticwholesalekitchens.com
 slug: atlanticwholesalekitchens-com
-title: Is atlanticwholesalekitchens.com Legit? Trust Signal Check
+title: Is atlanticwholesalekitchens.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for atlanticwholesalekitchens.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  atlanticwholesalekitchens.com scores 73/100 on our public trust checks.
+  Established domain — registered 2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:25:36.750Z'
 finalUrl: 'https://atlanticwholesalekitchens.com/'
 reachable: true

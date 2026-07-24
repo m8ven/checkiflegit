@@ -1,10 +1,10 @@
 ---
 domain: icare.co.tz
 slug: icare-co-tz
-title: Is icare.co.tz Legit? Trust Signal Check
+title: Is icare.co.tz Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for icare.co.tz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  icare.co.tz scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:40:14.746Z'
 finalUrl: 'https://icare.co.tz/'
 reachable: true

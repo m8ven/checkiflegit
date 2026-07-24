@@ -1,10 +1,11 @@
 ---
 domain: projectivefabrication.com
 slug: projectivefabrication-com
-title: Is projectivefabrication.com Legit? Trust Signal Check
+title: Is projectivefabrication.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for projectivefabrication.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  projectivefabrication.com scores 82/100 on our public trust checks.
+  Established domain — registered 7.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:41:41.892Z'
 finalUrl: 'https://projectivefabrication.com/'
 reachable: true

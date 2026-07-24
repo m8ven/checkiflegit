@@ -1,10 +1,10 @@
 ---
 domain: ctsolutions.mn
 slug: ctsolutions-mn
-title: Is ctsolutions.mn Legit? Trust Signal Check
+title: Is ctsolutions.mn Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for ctsolutions.mn: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ctsolutions.mn scores 82/100 on our public trust checks. Established domain —
+  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:33.138Z'
 finalUrl: 'https://ctsolutions.mn/'
 reachable: true

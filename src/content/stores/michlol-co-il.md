@@ -1,10 +1,10 @@
 ---
 domain: michlol.co.il
 slug: michlol-co-il
-title: Is michlol.co.il Legit? Trust Signal Check
+title: Is michlol.co.il Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for michlol.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  michlol.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:52:41.272Z'
 finalUrl: 'https://michlol.co.il/'
 reachable: true

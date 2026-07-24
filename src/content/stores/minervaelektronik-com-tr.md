@@ -1,10 +1,10 @@
 ---
 domain: minervaelektronik.com.tr
 slug: minervaelektronik-com-tr
-title: Is minervaelektronik.com.tr Legit? Trust Signal Check
+title: Is minervaelektronik.com.tr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for minervaelektronik.com.tr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  minervaelektronik.com.tr scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:22:47.001Z'
 finalUrl: 'https://www.minervaelektronik.com.tr/'
 reachable: true

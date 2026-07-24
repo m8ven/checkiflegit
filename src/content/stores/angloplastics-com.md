@@ -1,10 +1,10 @@
 ---
 domain: angloplastics.com
 slug: angloplastics-com
-title: Is angloplastics.com Legit? Trust Signal Check
+title: Is angloplastics.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for angloplastics.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  angloplastics.com scores 100/100 on our public trust checks. Established
+  domain — registered 17.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:18.494Z'
 finalUrl: 'https://www.angloplastics.com/'
 reachable: true

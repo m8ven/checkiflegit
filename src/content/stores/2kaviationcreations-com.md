@@ -1,10 +1,10 @@
 ---
 domain: 2kaviationcreations.com
 slug: 2kaviationcreations-com
-title: Is 2kaviationcreations.com Legit? Trust Signal Check
+title: Is 2kaviationcreations.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for 2kaviationcreations.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  2kaviationcreations.com scores 73/100 on our public trust checks. Established
+  domain — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:27.180Z'
 finalUrl: 'https://www.2kaviationcreations.com/'
 reachable: true

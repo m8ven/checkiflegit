@@ -1,10 +1,10 @@
 ---
 domain: cuagogiare.net
 slug: cuagogiare-net
-title: Is cuagogiare.net Legit? Trust Signal Check
+title: Is cuagogiare.net Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for cuagogiare.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cuagogiare.net scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:39:25.420Z'
 finalUrl: 'https://cuagogiare.net/'
 reachable: true

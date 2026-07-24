@@ -1,10 +1,10 @@
 ---
 domain: unitedpatientsgroup.com
 slug: unitedpatientsgroup-com
-title: Is unitedpatientsgroup.com Legit? Trust Signal Check
+title: Is unitedpatientsgroup.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for unitedpatientsgroup.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  unitedpatientsgroup.com scores 76/100 on our public trust checks. Established
+  domain — registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:30.314Z'
 finalUrl: 'https://unitedpatientsgroup.com/'
 reachable: true

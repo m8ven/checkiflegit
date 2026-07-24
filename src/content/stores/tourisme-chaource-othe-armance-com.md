@@ -1,10 +1,10 @@
 ---
 domain: tourisme-chaource-othe-armance.com
 slug: tourisme-chaource-othe-armance-com
-title: Is tourisme-chaource-othe-armance.com Legit? Trust Signal Check
+title: Is tourisme-chaource-othe-armance.com Legit? Score 76/100
 description: >-
-  An automated trust-signal check for tourisme-chaource-othe-armance.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  tourisme-chaource-othe-armance.com scores 76/100 on our public trust checks.
+  Established domain — registered 7.1 years ago.
 fetchedAt: '2026-06-25T02:54:13.108Z'
 finalUrl: 'https://tourisme-chaource-othe-armance.com/'
 reachable: true

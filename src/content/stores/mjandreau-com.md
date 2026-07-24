@@ -1,10 +1,10 @@
 ---
 domain: mjandreau.com
 slug: mjandreau-com
-title: Is mjandreau.com Legit? Trust Signal Check
+title: Is mjandreau.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mjandreau.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mjandreau.com scores 100/100 on our public trust checks. Established domain —
+  registered 16.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:33.779Z'
 finalUrl: 'https://www.mjandreau.com/'
 reachable: true

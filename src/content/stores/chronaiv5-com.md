@@ -1,10 +1,10 @@
 ---
 domain: chronaiv5.com
 slug: chronaiv5-com
-title: Is chronaiv5.com Legit? Trust Signal Check
+title: Is chronaiv5.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for chronaiv5.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chronaiv5.com scores 73/100 on our public trust checks. Established domain —
+  registered 1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:53.400Z'
 finalUrl: 'https://chronaiv5.com/'
 reachable: true

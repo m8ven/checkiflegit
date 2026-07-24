@@ -1,10 +1,10 @@
 ---
 domain: optikaorasi.gr
 slug: optikaorasi-gr
-title: Is optikaorasi.gr Legit? Trust Signal Check
+title: Is optikaorasi.gr Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for optikaorasi.gr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  optikaorasi.gr scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:14.157Z'
 finalUrl: 'https://www.optikaorasi.gr/'
 reachable: true

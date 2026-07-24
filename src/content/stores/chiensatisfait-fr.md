@@ -1,10 +1,10 @@
 ---
 domain: chiensatisfait.fr
 slug: chiensatisfait-fr
-title: Is chiensatisfait.fr Legit? Trust Signal Check
+title: Is chiensatisfait.fr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for chiensatisfait.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chiensatisfait.fr scores 73/100 on our public trust checks. Established domain
+  — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:41.072Z'
 finalUrl: 'https://www.chiensatisfait.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: losbanosunshinebar.com
 slug: losbanosunshinebar-com
-title: Is losbanosunshinebar.com Legit? Trust Signal Check
+title: Is losbanosunshinebar.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for losbanosunshinebar.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  losbanosunshinebar.com scores 100/100 on our public trust checks. Established
+  domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:23.749Z'
 finalUrl: 'https://losbanosunshinebar.com/'
 reachable: true

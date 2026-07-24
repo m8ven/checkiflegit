@@ -1,10 +1,10 @@
 ---
 domain: intratuin.nl
 slug: intratuin-nl
-title: Is intratuin.nl Legit? Trust Signal Check
+title: Is intratuin.nl Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for intratuin.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  intratuin.nl scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-24T21:46:30.200Z'
 finalUrl: 'https://www.intratuin.nl/'
 reachable: true

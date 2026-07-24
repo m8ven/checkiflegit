@@ -1,10 +1,10 @@
 ---
 domain: bogmanden.dk
 slug: bogmanden-dk
-title: Is bogmanden.dk Legit? Trust Signal Check
+title: Is bogmanden.dk Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for bogmanden.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bogmanden.dk scores 76/100 on our public trust checks. Established domain —
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:16:19.806Z'
 finalUrl: 'https://bogmanden.dk/'
 reachable: true

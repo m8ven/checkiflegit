@@ -1,10 +1,10 @@
 ---
 domain: hoffmann-dental.com
 slug: hoffmann-dental-com
-title: Is hoffmann-dental.com Legit? Trust Signal Check
+title: Is hoffmann-dental.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for hoffmann-dental.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hoffmann-dental.com scores 82/100 on our public trust checks. Established
+  domain — registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:14.388Z'
 finalUrl: 'https://hoffmann-dental.com/'
 reachable: true

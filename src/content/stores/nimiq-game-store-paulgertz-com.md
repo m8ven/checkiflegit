@@ -1,11 +1,10 @@
 ---
 domain: nimiq-game-store.paulgertz.com
 slug: nimiq-game-store-paulgertz-com
-title: Is nimiq-game-store.paulgertz.com Legit? Trust Signal Check
+title: Is nimiq-game-store.paulgertz.com Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for nimiq-game-store.paulgertz.com: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  nimiq-game-store.paulgertz.com scores 31/100 on our public trust checks.
+  Standard contact and policy pages were not found.
 fetchedAt: '2026-06-25T03:55:16.451Z'
 finalUrl: 'https://nimiq-game-store.paulgertz.com/'
 reachable: true

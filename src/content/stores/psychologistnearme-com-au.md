@@ -1,11 +1,10 @@
 ---
 domain: psychologistnearme.com.au
 slug: psychologistnearme-com-au
-title: Is psychologistnearme.com.au Legit? Trust Signal Check
+title: Is psychologistnearme.com.au Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for psychologistnearme.com.au: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  psychologistnearme.com.au scores 36/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T12:33:05.509Z'
 finalUrl: 'https://www.psychologistnearme.com.au/'
 reachable: true

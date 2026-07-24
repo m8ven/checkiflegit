@@ -1,10 +1,10 @@
 ---
 domain: e-z-hook.com
 slug: e-z-hook-com
-title: Is e-z-hook.com Legit? Trust Signal Check
+title: Is e-z-hook.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for e-z-hook.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  e-z-hook.com scores 100/100 on our public trust checks. Established domain —
+  registered 28.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:32.295Z'
 finalUrl: 'https://e-z-hook.com/'
 reachable: true

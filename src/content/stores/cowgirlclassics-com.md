@@ -1,10 +1,10 @@
 ---
 domain: cowgirlclassics.com
 slug: cowgirlclassics-com
-title: Is cowgirlclassics.com Legit? Trust Signal Check
+title: Is cowgirlclassics.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for cowgirlclassics.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cowgirlclassics.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:23:09.786Z'
 finalUrl: 'https://cowgirlclassics.com/'
 reachable: true

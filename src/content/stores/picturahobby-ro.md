@@ -1,10 +1,10 @@
 ---
 domain: picturahobby.ro
 slug: picturahobby-ro
-title: Is picturahobby.ro Legit? Trust Signal Check
+title: Is picturahobby.ro Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for picturahobby.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  picturahobby.ro scores 88/100 on our public trust checks. Established domain —
+  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:57.110Z'
 finalUrl: 'https://picturahobby.ro/'
 reachable: true

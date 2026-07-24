@@ -1,10 +1,10 @@
 ---
 domain: loansupportindia.com
 slug: loansupportindia-com
-title: Is loansupportindia.com Legit? Trust Signal Check
+title: Is loansupportindia.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for loansupportindia.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  loansupportindia.com scores 73/100 on our public trust checks. Established
+  domain — registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:06.711Z'
 finalUrl: 'https://loansupportindia.com/'
 reachable: true

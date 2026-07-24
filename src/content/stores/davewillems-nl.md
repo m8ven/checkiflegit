@@ -1,10 +1,10 @@
 ---
 domain: davewillems.nl
 slug: davewillems-nl
-title: Is davewillems.nl Legit? Trust Signal Check
+title: Is davewillems.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for davewillems.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  davewillems.nl scores 88/100 on our public trust checks. Established domain —
+  registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:43.790Z'
 finalUrl: 'https://davewillems.nl/'
 reachable: true

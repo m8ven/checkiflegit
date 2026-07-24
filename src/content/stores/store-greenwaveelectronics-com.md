@@ -1,10 +1,10 @@
 ---
 domain: store.greenwaveelectronics.com
 slug: store-greenwaveelectronics-com
-title: Is store.greenwaveelectronics.com Legit? Trust Signal Check
+title: Is store.greenwaveelectronics.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for store.greenwaveelectronics.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  store.greenwaveelectronics.com scores 100/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:13:32.826Z'
 finalUrl: 'https://store.greenwaveelectronics.com/'
 reachable: true

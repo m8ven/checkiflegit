@@ -1,10 +1,11 @@
 ---
 domain: honeywell-vietnam.com
 slug: honeywell-vietnam-com
-title: Is honeywell-vietnam.com Legit? Trust Signal Check
+title: Is honeywell-vietnam.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for honeywell-vietnam.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  honeywell-vietnam.com scores 55/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T03:48:24.701Z'
 finalUrl: 'https://honeywell-vietnam.com/'
 reachable: true

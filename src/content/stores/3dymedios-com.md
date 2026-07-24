@@ -1,10 +1,11 @@
 ---
 domain: 3dymedios.com
 slug: 3dymedios-com
-title: Is 3dymedios.com Legit? Trust Signal Check
+title: Is 3dymedios.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for 3dymedios.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  3dymedios.com scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T02:22:21.283Z'
 finalUrl: 'https://3dymedios.com/'
 reachable: true

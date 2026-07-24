@@ -1,10 +1,10 @@
 ---
 domain: carlaatala.com
 slug: carlaatala-com
-title: Is carlaatala.com Legit? Trust Signal Check
+title: Is carlaatala.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for carlaatala.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  carlaatala.com scores 70/100 on our public trust checks. Established domain —
+  registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:40.301Z'
 finalUrl: 'https://carlaatala.com/'
 reachable: true

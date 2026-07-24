@@ -1,10 +1,10 @@
 ---
 domain: rezbook.co
 slug: rezbook-co
-title: Is rezbook.co Legit? Trust Signal Check
+title: Is rezbook.co Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for rezbook.co: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rezbook.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:42:50.697Z'
 finalUrl: 'https://rezbook.co/'
 reachable: true

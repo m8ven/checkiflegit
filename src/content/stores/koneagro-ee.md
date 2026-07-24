@@ -1,10 +1,10 @@
 ---
 domain: koneagro.ee
 slug: koneagro-ee
-title: Is koneagro.ee Legit? Trust Signal Check
+title: Is koneagro.ee Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for koneagro.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  koneagro.ee scores 88/100 on our public trust checks. Established domain —
+  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:25:42.132Z'
 finalUrl: 'https://www.koneagro.ee/'
 reachable: true

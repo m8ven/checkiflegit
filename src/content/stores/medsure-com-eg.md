@@ -1,10 +1,10 @@
 ---
 domain: medsure.com.eg
 slug: medsure-com-eg
-title: Is medsure.com.eg Legit? Trust Signal Check
+title: Is medsure.com.eg Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for medsure.com.eg: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  medsure.com.eg scores 40/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T02:17:00.625Z'
 finalUrl: 'http://medsure.com.eg/'
 reachable: true

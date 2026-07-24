@@ -1,10 +1,10 @@
 ---
 domain: esports.talentacademypro.com
 slug: esports-talentacademypro-com
-title: Is esports.talentacademypro.com Legit? Trust Signal Check
+title: Is esports.talentacademypro.com Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for esports.talentacademypro.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  esports.talentacademypro.com scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:12.470Z'
 finalUrl: 'https://esports.talentacademypro.com/'
 reachable: true

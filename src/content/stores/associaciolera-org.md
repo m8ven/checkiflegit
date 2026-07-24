@@ -1,10 +1,10 @@
 ---
 domain: associaciolera.org
 slug: associaciolera-org
-title: Is associaciolera.org Legit? Trust Signal Check
+title: Is associaciolera.org Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for associaciolera.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  associaciolera.org scores 70/100 on our public trust checks. Established
+  domain — registered 20.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:05.963Z'
 finalUrl: 'https://associaciolera.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: angelique-bernhard.fr
 slug: angelique-bernhard-fr
-title: Is angelique-bernhard.fr Legit? Trust Signal Check
+title: Is angelique-bernhard.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for angelique-bernhard.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  angelique-bernhard.fr scores 100/100 on our public trust checks. Established
+  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:16.154Z'
 finalUrl: 'https://angelique-bernhard.fr/'
 reachable: true

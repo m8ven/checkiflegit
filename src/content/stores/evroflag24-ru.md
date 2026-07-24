@@ -1,10 +1,10 @@
 ---
 domain: evroflag24.ru
 slug: evroflag24-ru
-title: Is evroflag24.ru Legit? Trust Signal Check
+title: Is evroflag24.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for evroflag24.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  evroflag24.ru scores 82/100 on our public trust checks. Established domain —
+  registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:56.149Z'
 finalUrl: 'https://evroflag24.ru/'
 reachable: true

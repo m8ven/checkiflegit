@@ -1,10 +1,10 @@
 ---
 domain: doat.co.in
 slug: doat-co-in
-title: Is doat.co.in Legit? Trust Signal Check
+title: Is doat.co.in Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for doat.co.in: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  doat.co.in scores 19/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:40:56.816Z'
 finalUrl: 'https://doat.co.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: texastent.net
 slug: texastent-net
-title: Is texastent.net Legit? Trust Signal Check
+title: Is texastent.net Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for texastent.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  texastent.net scores 88/100 on our public trust checks. Established domain —
+  registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:45.774Z'
 finalUrl: 'https://texastent.net/'
 reachable: true

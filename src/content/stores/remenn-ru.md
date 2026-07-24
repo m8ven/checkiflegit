@@ -1,10 +1,10 @@
 ---
 domain: remenn.ru
 slug: remenn-ru
-title: Is remenn.ru Legit? Trust Signal Check
+title: Is remenn.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for remenn.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  remenn.ru scores 73/100 on our public trust checks. Established domain —
+  registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:51.541Z'
 finalUrl: 'https://remenn.ru/'
 reachable: true

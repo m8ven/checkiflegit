@@ -1,10 +1,10 @@
 ---
 domain: docarnettefoundation.org
 slug: docarnettefoundation-org
-title: Is docarnettefoundation.org Legit? Trust Signal Check
+title: Is docarnettefoundation.org Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for docarnettefoundation.org: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  docarnettefoundation.org scores 55/100 on our public trust checks. No valid
+  SSL certificate — connection may not be secure.
 fetchedAt: '2026-06-25T02:20:00.699Z'
 finalUrl: 'http://www.docarnettefoundation.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: molveno.uy
 slug: molveno-uy
-title: Is molveno.uy Legit? Trust Signal Check
+title: Is molveno.uy Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for molveno.uy: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  molveno.uy scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:23:10.612Z'
 finalUrl: 'https://molveno.com.uy/'
 reachable: true

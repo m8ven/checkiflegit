@@ -1,10 +1,10 @@
 ---
 domain: thepoolshoppe.ca
 slug: thepoolshoppe-ca
-title: Is thepoolshoppe.ca Legit? Trust Signal Check
+title: Is thepoolshoppe.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thepoolshoppe.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thepoolshoppe.ca scores 100/100 on our public trust checks. Established domain
+  — registered 24.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:25.044Z'
 finalUrl: 'https://thepoolshoppe.ca/'
 reachable: true

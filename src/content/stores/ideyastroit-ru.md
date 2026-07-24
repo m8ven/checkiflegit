@@ -1,10 +1,10 @@
 ---
 domain: ideyastroit.ru
 slug: ideyastroit-ru
-title: Is ideyastroit.ru Legit? Trust Signal Check
+title: Is ideyastroit.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for ideyastroit.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ideyastroit.ru scores 82/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:31.434Z'
 finalUrl: 'https://ideyastroit.ru/'
 reachable: true

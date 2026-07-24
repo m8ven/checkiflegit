@@ -1,10 +1,11 @@
 ---
 domain: primepalletdeal.com
 slug: primepalletdeal-com
-title: Is primepalletdeal.com Legit? Trust Signal Check
+title: Is primepalletdeal.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for primepalletdeal.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  primepalletdeal.com scores 40/100 on our public trust checks. Domain
+  registered very recently (52 days ago). No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:31:06.560Z'
 finalUrl: 'https://primepalletdeal.com/'
 reachable: true

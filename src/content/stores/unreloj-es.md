@@ -1,10 +1,10 @@
 ---
 domain: unreloj.es
 slug: unreloj-es
-title: Is unreloj.es Legit? Trust Signal Check
+title: Is unreloj.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for unreloj.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  unreloj.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:49:18.382Z'
 finalUrl: 'https://unreloj.es/es/'
 reachable: true

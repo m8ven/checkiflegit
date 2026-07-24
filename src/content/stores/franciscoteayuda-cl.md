@@ -1,10 +1,10 @@
 ---
 domain: franciscoteayuda.cl
 slug: franciscoteayuda-cl
-title: Is franciscoteayuda.cl Legit? Trust Signal Check
+title: Is franciscoteayuda.cl Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for franciscoteayuda.cl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  franciscoteayuda.cl scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:30:18.832Z'
 finalUrl: 'https://franciscoteayuda.cl/'
 reachable: true

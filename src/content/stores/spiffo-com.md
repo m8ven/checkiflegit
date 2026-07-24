@@ -1,10 +1,10 @@
 ---
 domain: spiffo.com
 slug: spiffo-com
-title: Is spiffo.com Legit? Trust Signal Check
+title: Is spiffo.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for spiffo.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  spiffo.com scores 70/100 on our public trust checks. Established domain —
+  registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:00:38.871Z'
 finalUrl: 'https://spiffo.com/'
 reachable: true

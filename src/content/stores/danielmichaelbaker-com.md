@@ -1,10 +1,10 @@
 ---
 domain: danielmichaelbaker.com
 slug: danielmichaelbaker-com
-title: Is danielmichaelbaker.com Legit? Trust Signal Check
+title: Is danielmichaelbaker.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for danielmichaelbaker.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  danielmichaelbaker.com scores 52/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T14:52:37.439Z'
 finalUrl: 'https://danielmichaelbaker.com/'
 reachable: true

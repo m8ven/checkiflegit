@@ -1,10 +1,10 @@
 ---
 domain: reklamacje.online
 slug: reklamacje-online
-title: Is reklamacje.online Legit? Trust Signal Check
+title: Is reklamacje.online Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for reklamacje.online: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  reklamacje.online scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:42:46.264Z'
 finalUrl: 'https://www.reklamacje.online/'
 reachable: true

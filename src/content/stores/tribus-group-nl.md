@@ -1,10 +1,10 @@
 ---
 domain: tribus-group.nl
 slug: tribus-group-nl
-title: Is tribus-group.nl Legit? Trust Signal Check
+title: Is tribus-group.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for tribus-group.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tribus-group.nl scores 88/100 on our public trust checks. Established domain —
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:47.778Z'
 finalUrl: 'https://tribus-group.nl/'
 reachable: true

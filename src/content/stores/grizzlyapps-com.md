@@ -1,10 +1,10 @@
 ---
 domain: grizzlyapps.com
 slug: grizzlyapps-com
-title: Is grizzlyapps.com Legit? Trust Signal Check
+title: Is grizzlyapps.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for grizzlyapps.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  grizzlyapps.com scores 85/100 on our public trust checks. Established domain —
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:16.251Z'
 finalUrl: 'https://grizzlyapps.com/'
 reachable: true

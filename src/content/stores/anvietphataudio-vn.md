@@ -1,10 +1,10 @@
 ---
 domain: anvietphataudio.vn
 slug: anvietphataudio-vn
-title: Is anvietphataudio.vn Legit? Trust Signal Check
+title: Is anvietphataudio.vn Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for anvietphataudio.vn: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  anvietphataudio.vn scores 36/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:41:24.227Z'
 finalUrl: 'https://anvietphataudio.vn/'
 reachable: true

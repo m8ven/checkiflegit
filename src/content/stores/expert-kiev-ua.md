@@ -1,10 +1,10 @@
 ---
 domain: expert.kiev.ua
 slug: expert-kiev-ua
-title: Is expert.kiev.ua Legit? Trust Signal Check
+title: Is expert.kiev.ua Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for expert.kiev.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  expert.kiev.ua scores 82/100 on our public trust checks. Established domain —
+  registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:18:38.940Z'
 finalUrl: 'https://www.expert.kiev.ua/?doing_wp_cron=1782389921.4181730747222900390625'
 reachable: true

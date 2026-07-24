@@ -1,10 +1,10 @@
 ---
 domain: simplescreen.net.au
 slug: simplescreen-net-au
-title: Is simplescreen.net.au Legit? Trust Signal Check
+title: Is simplescreen.net.au Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for simplescreen.net.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  simplescreen.net.au scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:38:02.957Z'
 finalUrl: 'https://simplescreen.net.au/'
 reachable: true

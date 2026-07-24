@@ -1,10 +1,10 @@
 ---
 domain: srzshoppy.in
 slug: srzshoppy-in
-title: Is srzshoppy.in Legit? Trust Signal Check
+title: Is srzshoppy.in Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for srzshoppy.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  srzshoppy.in scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:04:19.024Z'
 finalUrl: 'https://srzshoppy.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: wildvoyager.com
 slug: wildvoyager-com
-title: Is wildvoyager.com Legit? Trust Signal Check
+title: Is wildvoyager.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for wildvoyager.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wildvoyager.com scores 88/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:36.957Z'
 finalUrl: 'https://www.wildvoyager.com/'
 reachable: true

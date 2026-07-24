@@ -1,10 +1,10 @@
 ---
 domain: alphababy.fr
 slug: alphababy-fr
-title: Is alphababy.fr Legit? Trust Signal Check
+title: Is alphababy.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for alphababy.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  alphababy.fr scores 100/100 on our public trust checks. Established domain —
+  registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:40:52.081Z'
 finalUrl: 'https://alphababy.fr/'
 reachable: true

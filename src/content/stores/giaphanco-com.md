@@ -1,10 +1,10 @@
 ---
 domain: giaphanco.com
 slug: giaphanco-com
-title: Is giaphanco.com Legit? Trust Signal Check
+title: Is giaphanco.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for giaphanco.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  giaphanco.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T14:59:08.018Z'
 finalUrl: 'https://giaphanco.com/'
 reachable: true

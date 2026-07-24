@@ -1,10 +1,10 @@
 ---
 domain: bonitoepantanal.com.br
 slug: bonitoepantanal-com-br
-title: Is bonitoepantanal.com.br Legit? Trust Signal Check
+title: Is bonitoepantanal.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for bonitoepantanal.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bonitoepantanal.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:03:10.786Z'
 finalUrl: 'https://bonitoepantanal.com.br/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: ezermegegy.eu
 slug: ezermegegy-eu
-title: Is ezermegegy.eu Legit? Trust Signal Check
+title: Is ezermegegy.eu Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ezermegegy.eu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ezermegegy.eu scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T14:56:11.560Z'
 finalUrl: 'https://ezermegegy.eu/'
 reachable: true

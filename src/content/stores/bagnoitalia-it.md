@@ -1,10 +1,10 @@
 ---
 domain: bagnoitalia.it
 slug: bagnoitalia-it
-title: Is bagnoitalia.it Legit? Trust Signal Check
+title: Is bagnoitalia.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bagnoitalia.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bagnoitalia.it scores 88/100 on our public trust checks. Established domain —
+  registered 17 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:15.862Z'
 finalUrl: 'https://www.bagnoitalia.it/'
 reachable: true

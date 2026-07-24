@@ -1,10 +1,10 @@
 ---
 domain: metroadd.net
 slug: metroadd-net
-title: Is metroadd.net Legit? Trust Signal Check
+title: Is metroadd.net Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for metroadd.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  metroadd.net scores 85/100 on our public trust checks. Established domain —
+  registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:07.072Z'
 finalUrl: 'https://metroadd.net/'
 reachable: true

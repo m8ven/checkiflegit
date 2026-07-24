@@ -1,10 +1,10 @@
 ---
 domain: castelaosl.com
 slug: castelaosl-com
-title: Is castelaosl.com Legit? Trust Signal Check
+title: Is castelaosl.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for castelaosl.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  castelaosl.com scores 100/100 on our public trust checks. Established domain —
+  registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:05:17.148Z'
 finalUrl: 'https://castelaosl.com/'
 reachable: true

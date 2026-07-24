@@ -1,10 +1,10 @@
 ---
 domain: somethingsplendidco.com
 slug: somethingsplendidco-com
-title: Is somethingsplendidco.com Legit? Trust Signal Check
+title: Is somethingsplendidco.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for somethingsplendidco.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  somethingsplendidco.com scores 100/100 on our public trust checks. Established
+  domain — registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:17.697Z'
 finalUrl: 'https://somethingsplendidco.com/'
 reachable: true

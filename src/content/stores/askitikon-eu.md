@@ -1,10 +1,10 @@
 ---
 domain: askitikon.eu
 slug: askitikon-eu
-title: Is askitikon.eu Legit? Trust Signal Check
+title: Is askitikon.eu Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for askitikon.eu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  askitikon.eu scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:12:43.250Z'
 finalUrl: 'https://www.askitikon.eu/'
 reachable: true

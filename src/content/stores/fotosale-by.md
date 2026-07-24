@@ -1,10 +1,10 @@
 ---
 domain: fotosale.by
 slug: fotosale-by
-title: Is fotosale.by Legit? Trust Signal Check
+title: Is fotosale.by Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for fotosale.by: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  fotosale.by scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:49:32.104Z'
 finalUrl: 'https://fotosale.by/'
 reachable: true

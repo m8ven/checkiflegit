@@ -1,10 +1,10 @@
 ---
 domain: halilnakliyat.com
 slug: halilnakliyat-com
-title: Is halilnakliyat.com Legit? Trust Signal Check
+title: Is halilnakliyat.com Legit? Trust Score 37/100
 description: >-
-  An automated trust-signal check for halilnakliyat.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  halilnakliyat.com scores 37/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:29:46.214Z'
 finalUrl: 'https://halilnakliyat.com/'
 reachable: true

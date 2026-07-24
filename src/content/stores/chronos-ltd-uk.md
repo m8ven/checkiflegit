@@ -1,10 +1,10 @@
 ---
 domain: chronos.ltd.uk
 slug: chronos-ltd-uk
-title: Is chronos.ltd.uk Legit? Trust Signal Check
+title: Is chronos.ltd.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for chronos.ltd.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chronos.ltd.uk scores 100/100 on our public trust checks. Established domain —
+  registered 27 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:56.452Z'
 finalUrl: 'https://chronos.ltd.uk/'
 reachable: true

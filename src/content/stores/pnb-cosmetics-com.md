@@ -1,10 +1,10 @@
 ---
 domain: pnb-cosmetics.com
 slug: pnb-cosmetics-com
-title: Is pnb-cosmetics.com Legit? Trust Signal Check
+title: Is pnb-cosmetics.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for pnb-cosmetics.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pnb-cosmetics.com scores 88/100 on our public trust checks. Established domain
+  — registered 13.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:33.484Z'
 finalUrl: 'https://pnb-cosmetics.com/'
 reachable: true

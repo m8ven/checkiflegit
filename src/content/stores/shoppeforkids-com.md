@@ -1,10 +1,10 @@
 ---
 domain: shoppeforkids.com
 slug: shoppeforkids-com
-title: Is shoppeforkids.com Legit? Trust Signal Check
+title: Is shoppeforkids.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shoppeforkids.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shoppeforkids.com scores 100/100 on our public trust checks. Established
+  domain — registered 8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:17.047Z'
 finalUrl: 'https://shoppeforkids.com/'
 reachable: true

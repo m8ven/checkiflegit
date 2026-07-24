@@ -1,10 +1,10 @@
 ---
 domain: golfyouup.com
 slug: golfyouup-com
-title: Is golfyouup.com Legit? Trust Signal Check
+title: Is golfyouup.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for golfyouup.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  golfyouup.com scores 100/100 on our public trust checks. Established domain —
+  registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:26.434Z'
 finalUrl: 'https://www.golfyouup.com/'
 reachable: true

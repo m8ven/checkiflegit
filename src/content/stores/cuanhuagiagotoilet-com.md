@@ -1,10 +1,10 @@
 ---
 domain: cuanhuagiagotoilet.com
 slug: cuanhuagiagotoilet-com
-title: Is cuanhuagiagotoilet.com Legit? Trust Signal Check
+title: Is cuanhuagiagotoilet.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cuanhuagiagotoilet.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cuanhuagiagotoilet.com scores 88/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:35.123Z'
 finalUrl: 'https://cuanhuagiagotoilet.com/'
 reachable: true

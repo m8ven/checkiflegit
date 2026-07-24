@@ -1,10 +1,10 @@
 ---
 domain: amy-shop.ch
 slug: amy-shop-ch
-title: Is amy-shop.ch Legit? Trust Signal Check
+title: Is amy-shop.ch Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for amy-shop.ch: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  amy-shop.ch scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:45:47.529Z'
 finalUrl: 'https://amy-shop.ch/'
 reachable: true

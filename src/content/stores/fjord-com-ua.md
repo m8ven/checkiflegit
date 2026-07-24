@@ -1,10 +1,10 @@
 ---
 domain: fjord.com.ua
 slug: fjord-com-ua
-title: Is fjord.com.ua Legit? Trust Signal Check
+title: Is fjord.com.ua Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for fjord.com.ua: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  fjord.com.ua scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:29:24.432Z'
 finalUrl: 'https://fjord.com.ua/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: hygeia.ro
 slug: hygeia-ro
-title: Is hygeia.ro Legit? Trust Signal Check
+title: Is hygeia.ro Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hygeia.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hygeia.ro scores 88/100 on our public trust checks. Established domain —
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:43.636Z'
 finalUrl: 'https://hygeia.ro/'
 reachable: true

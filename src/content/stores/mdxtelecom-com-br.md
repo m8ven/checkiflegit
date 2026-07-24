@@ -1,10 +1,10 @@
 ---
 domain: mdxtelecom.com.br
 slug: mdxtelecom-com-br
-title: Is mdxtelecom.com.br Legit? Trust Signal Check
+title: Is mdxtelecom.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for mdxtelecom.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mdxtelecom.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:35:59.032Z'
 finalUrl: 'https://mdxtelecom.com.br/'
 reachable: true

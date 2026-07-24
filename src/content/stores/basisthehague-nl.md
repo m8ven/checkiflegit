@@ -1,10 +1,10 @@
 ---
 domain: basisthehague.nl
 slug: basisthehague-nl
-title: Is basisthehague.nl Legit? Trust Signal Check
+title: Is basisthehague.nl Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for basisthehague.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  basisthehague.nl scores 70/100 on our public trust checks. Established domain
+  — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:45.856Z'
 finalUrl: 'https://basisthehague.nl/'
 reachable: true

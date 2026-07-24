@@ -1,10 +1,10 @@
 ---
 domain: muzchart.ru
 slug: muzchart-ru
-title: Is muzchart.ru Legit? Trust Signal Check
+title: Is muzchart.ru Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for muzchart.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  muzchart.ru scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T03:57:11.169Z'
 finalUrl: 'https://muzchart.ru/'
 reachable: true

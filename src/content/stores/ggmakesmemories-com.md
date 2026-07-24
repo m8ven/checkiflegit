@@ -1,10 +1,10 @@
 ---
 domain: ggmakesmemories.com
 slug: ggmakesmemories-com
-title: Is ggmakesmemories.com Legit? Trust Signal Check
+title: Is ggmakesmemories.com Legit? Trust Score 0/100
 description: >-
-  An automated trust-signal check for ggmakesmemories.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  ggmakesmemories.com scores 0/100 on our public trust checks. Domain registered
+  very recently (83 days ago). Standard contact and policy pages were not found.
 fetchedAt: '2026-06-25T14:59:05.245Z'
 finalUrl: 'https://ggmakesmemories.com/'
 reachable: true

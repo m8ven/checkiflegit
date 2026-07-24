@@ -1,10 +1,10 @@
 ---
 domain: mee4u.com
 slug: mee4u-com
-title: Is mee4u.com Legit? Trust Signal Check
+title: Is mee4u.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mee4u.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mee4u.com scores 70/100 on our public trust checks. Established domain —
+  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:15.082Z'
 finalUrl: 'https://mee4u.com/'
 reachable: true

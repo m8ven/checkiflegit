@@ -1,10 +1,11 @@
 ---
 domain: asociacioncapitanantonio.com
 slug: asociacioncapitanantonio-com
-title: Is asociacioncapitanantonio.com Legit? Trust Signal Check
+title: Is asociacioncapitanantonio.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for asociacioncapitanantonio.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  asociacioncapitanantonio.com scores 100/100 on our public trust checks.
+  Established domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:25:30.925Z'
 finalUrl: 'https://asociacioncapitanantonio.com/'
 reachable: true

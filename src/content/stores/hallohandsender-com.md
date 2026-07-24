@@ -1,10 +1,10 @@
 ---
 domain: hallohandsender.com
 slug: hallohandsender-com
-title: Is hallohandsender.com Legit? Trust Signal Check
+title: Is hallohandsender.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for hallohandsender.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hallohandsender.com scores 85/100 on our public trust checks. Established
+  domain — registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:35.524Z'
 finalUrl: 'https://hallohandsender.com/'
 reachable: true

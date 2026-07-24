@@ -1,10 +1,10 @@
 ---
 domain: profcerti.com
 slug: profcerti-com
-title: Is profcerti.com Legit? Trust Signal Check
+title: Is profcerti.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for profcerti.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  profcerti.com scores 100/100 on our public trust checks. Established domain —
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:13.477Z'
 finalUrl: 'https://profcerti.com/'
 reachable: true

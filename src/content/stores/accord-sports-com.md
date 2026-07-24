@@ -1,10 +1,10 @@
 ---
 domain: accord-sports.com
 slug: accord-sports-com
-title: Is accord-sports.com Legit? Trust Signal Check
+title: Is accord-sports.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for accord-sports.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  accord-sports.com scores 88/100 on our public trust checks. Established domain
+  — registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:12.874Z'
 finalUrl: 'https://accord-sports.com/'
 reachable: true

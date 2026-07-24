@@ -1,10 +1,11 @@
 ---
 domain: kellyorientalaesthetic.com
 slug: kellyorientalaesthetic-com
-title: Is kellyorientalaesthetic.com Legit? Trust Signal Check
+title: Is kellyorientalaesthetic.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kellyorientalaesthetic.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kellyorientalaesthetic.com scores 100/100 on our public trust checks.
+  Established domain — registered 3.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:32:15.524Z'
 finalUrl: 'https://kellyorientalaesthetic.com/'
 reachable: true

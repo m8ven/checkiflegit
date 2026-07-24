@@ -1,10 +1,10 @@
 ---
 domain: benetton.com
 slug: benetton-com
-title: Is benetton.com Legit? Trust Signal Check
+title: Is benetton.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for benetton.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  benetton.com scores 88/100 on our public trust checks. Established domain —
+  registered 29.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:01.549Z'
 finalUrl: 'https://world.benetton.com/?shpxid=bf218ed0-da5c-4f9f-9304-5019bac844e1'
 reachable: true

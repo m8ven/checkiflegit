@@ -1,10 +1,10 @@
 ---
 domain: aujlanaturalcure.in
 slug: aujlanaturalcure-in
-title: Is aujlanaturalcure.in Legit? Trust Signal Check
+title: Is aujlanaturalcure.in Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for aujlanaturalcure.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aujlanaturalcure.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:01:21.687Z'
 finalUrl: 'https://aujlanaturalcure.in/'
 reachable: true

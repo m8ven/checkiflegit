@@ -1,10 +1,10 @@
 ---
 domain: alphacare-lab.com
 slug: alphacare-lab-com
-title: Is alphacare-lab.com Legit? Trust Signal Check
+title: Is alphacare-lab.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for alphacare-lab.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alphacare-lab.com scores 76/100 on our public trust checks. Established domain
+  — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:16.023Z'
 finalUrl: 'https://alphacare-lab.com/'
 reachable: true

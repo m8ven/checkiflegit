@@ -1,10 +1,10 @@
 ---
 domain: shop.harrer-nuernberg.de
 slug: shop-harrer-nuernberg-de
-title: Is shop.harrer-nuernberg.de Legit? Trust Signal Check
+title: Is shop.harrer-nuernberg.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for shop.harrer-nuernberg.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.harrer-nuernberg.de scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:05:15.346Z'
 finalUrl: 'https://shop.harrer-nuernberg.de/'
 reachable: true

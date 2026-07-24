@@ -1,10 +1,10 @@
 ---
 domain: mastroquimica.com.br
 slug: mastroquimica-com-br
-title: Is mastroquimica.com.br Legit? Trust Signal Check
+title: Is mastroquimica.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for mastroquimica.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mastroquimica.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:52:02.610Z'
 finalUrl: 'https://mastroquimica.com.br/'
 reachable: true

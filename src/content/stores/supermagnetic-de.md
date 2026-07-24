@@ -1,10 +1,10 @@
 ---
 domain: supermagnetic.de
 slug: supermagnetic-de
-title: Is supermagnetic.de Legit? Trust Signal Check
+title: Is supermagnetic.de Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for supermagnetic.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  supermagnetic.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:40:20.730Z'
 finalUrl: 'https://supermagnetic.de/'
 reachable: true

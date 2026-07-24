@@ -1,10 +1,10 @@
 ---
 domain: ravecadet.com
 slug: ravecadet-com
-title: Is ravecadet.com Legit? Trust Signal Check
+title: Is ravecadet.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ravecadet.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ravecadet.com scores 100/100 on our public trust checks. Established domain —
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:15.664Z'
 finalUrl: 'https://ravecadet.com/'
 reachable: true

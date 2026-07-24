@@ -1,10 +1,11 @@
 ---
 domain: new.semua.ru
 slug: new-semua-ru
-title: Is new.semua.ru Legit? Trust Signal Check
+title: Is new.semua.ru Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for new.semua.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  new.semua.ru scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:31:29.788Z'
 finalUrl: 'https://new.semua.ru/'
 reachable: true

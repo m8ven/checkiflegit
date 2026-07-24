@@ -1,10 +1,10 @@
 ---
 domain: abzarrostami.ir
 slug: abzarrostami-ir
-title: Is abzarrostami.ir Legit? Trust Signal Check
+title: Is abzarrostami.ir Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for abzarrostami.ir: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  abzarrostami.ir scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:34:10.290Z'
 finalUrl: 'https://abzarrostami.ir/'
 reachable: true

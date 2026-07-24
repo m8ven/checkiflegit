@@ -1,10 +1,11 @@
 ---
 domain: sbbuildingsupplies.co.uk
 slug: sbbuildingsupplies-co-uk
-title: Is sbbuildingsupplies.co.uk Legit? Trust Signal Check
+title: Is sbbuildingsupplies.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sbbuildingsupplies.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sbbuildingsupplies.co.uk scores 100/100 on our public trust checks.
+  Established domain — registered 14 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:35:51.813Z'
 finalUrl: 'https://sbbuildingsupplies.co.uk/'
 reachable: true

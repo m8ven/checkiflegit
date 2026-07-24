@@ -1,10 +1,10 @@
 ---
 domain: ashbyjewellers.co.uk
 slug: ashbyjewellers-co-uk
-title: Is ashbyjewellers.co.uk Legit? Trust Signal Check
+title: Is ashbyjewellers.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ashbyjewellers.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ashbyjewellers.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:47.279Z'
 finalUrl: 'https://ashbyjewellers.co.uk/'
 reachable: true

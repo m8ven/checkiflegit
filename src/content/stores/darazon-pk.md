@@ -1,10 +1,10 @@
 ---
 domain: darazon.pk
 slug: darazon-pk
-title: Is darazon.pk Legit? Trust Signal Check
+title: Is darazon.pk Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for darazon.pk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  darazon.pk scores 82/100 on our public trust checks. Established domain —
+  registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:47:37.672Z'
 finalUrl: 'https://darazon.pk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: hunterstore.ro
 slug: hunterstore-ro
-title: Is hunterstore.ro Legit? Trust Signal Check
+title: Is hunterstore.ro Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for hunterstore.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hunterstore.ro scores 88/100 on our public trust checks. Established domain —
+  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:41.282Z'
 finalUrl: 'https://hunterstore.ro/'
 reachable: true

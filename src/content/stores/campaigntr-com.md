@@ -1,10 +1,10 @@
 ---
 domain: campaigntr.com
 slug: campaigntr-com
-title: Is campaigntr.com Legit? Trust Signal Check
+title: Is campaigntr.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for campaigntr.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  campaigntr.com scores 88/100 on our public trust checks. Established domain —
+  registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:08.009Z'
 finalUrl: 'https://www.campaigntr.com/'
 reachable: true

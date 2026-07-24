@@ -1,10 +1,10 @@
 ---
 domain: brightstoneme.com
 slug: brightstoneme-com
-title: Is brightstoneme.com Legit? Trust Signal Check
+title: Is brightstoneme.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for brightstoneme.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brightstoneme.com scores 88/100 on our public trust checks. Established domain
+  — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:44:19.145Z'
 finalUrl: 'https://brightstoneme.com/'
 reachable: true

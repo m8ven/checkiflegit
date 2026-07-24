@@ -1,10 +1,10 @@
 ---
 domain: hkfcc.org
 slug: hkfcc-org
-title: Is hkfcc.org Legit? Trust Signal Check
+title: Is hkfcc.org Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hkfcc.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hkfcc.org scores 88/100 on our public trust checks. Established domain —
+  registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:02.859Z'
 finalUrl: 'https://hkfcc.org/'
 reachable: true

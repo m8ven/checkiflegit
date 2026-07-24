@@ -1,10 +1,10 @@
 ---
 domain: weddingdance.net
 slug: weddingdance-net
-title: Is weddingdance.net Legit? Trust Signal Check
+title: Is weddingdance.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for weddingdance.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  weddingdance.net scores 100/100 on our public trust checks. Established domain
+  — registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:00.380Z'
 finalUrl: 'https://weddingdance.net/'
 reachable: true

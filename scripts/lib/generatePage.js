@@ -78,6 +78,63 @@ function buildBody(domain, verdict, signals) {
   return paras.join('\n\n');
 }
 
+// ---------------------------------------------------------------------------
+// SERP snippet builders.
+//
+// These decide what a searcher sees in Google, so they are the site's main
+// click-through lever. Every page used to share one title template and one of
+// three descriptions, which made 10.5k results indistinguishable in the SERP.
+// Both now carry the store's own score and findings.
+//
+// Exported because scripts/retitle.js rewrites already-generated pages with
+// them — the two must never drift apart.
+// ---------------------------------------------------------------------------
+
+// Measured language only, per the hard rule in score.js: no "scam"/"warning".
+const TIER_SUFFIX = {
+  strong: 'Trust Checks Pass',
+  moderate: 'Mixed Signals',
+  limited: 'Proceed With Caution',
+};
+const TITLE_MAX = 60;   // ~Google's title truncation point
+const DESC_MAX = 158;   // ~Google's description truncation point
+
+// The platform flag is true of 91% of the corpus, so it differentiates nothing
+// in a snippet. Sort it behind findings that actually vary between stores.
+const GENERIC_FLAG = /^(Built on |Recognisable storefront)/;
+
+export function buildTitle(domain, verdict) {
+  const base = `Is ${domain} Legit?`;
+  if (verdict.score == null) return `${base} Trust Signal Check`;
+  const withScore = `${base} Trust Score ${verdict.score}/100`;
+  const suffix = TIER_SUFFIX[verdict.tier];
+  const full = suffix ? `${withScore} — ${suffix}` : withScore;
+  if (full.length <= TITLE_MAX) return full;
+  if (withScore.length <= TITLE_MAX) return withScore;
+  return `${base} Score ${verdict.score}/100`;
+}
+
+export function buildDescription(domain, verdict) {
+  if (verdict.score == null) {
+    return `We could not gather enough public information to assess ${domain}. See which trust checks were inconclusive and why.`;
+  }
+  // Strong stores lead with what they got right; everyone else leads with the
+  // concern, because that is what the searcher is actually asking about.
+  const findings = (verdict.tier === 'strong'
+    ? [...verdict.greenFlags, ...verdict.cautions]
+    : [...verdict.redFlags, ...verdict.cautions, ...verdict.greenFlags]
+  ).slice();
+  findings.sort((a, b) => (GENERIC_FLAG.test(a) ? 1 : 0) - (GENERIC_FLAG.test(b) ? 1 : 0));
+
+  let out = `${domain} scores ${verdict.score}/100 on our public trust checks.`;
+  for (const flag of findings) {
+    const next = `${out} ${String(flag).trim().replace(/\s+/g, ' ')}`;
+    if (next.length > DESC_MAX) break;
+    out = next;
+  }
+  return out;
+}
+
 /**
  * Turn a fetched-signals object into an MDX file on disk.
  * Unreachable domains are written with `noindex: true` and an `_` slug prefix so
@@ -104,9 +161,9 @@ export async function generatePage(result) {
   const frontmatter = {
     domain,
     slug,
-    title: `Is ${domain} Legit? Trust Signal Check`,
+    title: buildTitle(domain, verdict),
     description: reachable
-      ? `An automated trust-signal check for ${domain}: ${verdict.label.toLowerCase()}. Domain age, SSL, contact info, reviews and more.`
+      ? buildDescription(domain, verdict)
       : `${domain} did not load when we checked it.`,
     fetchedAt,
     finalUrl: finalUrl || null,

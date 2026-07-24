@@ -1,10 +1,10 @@
 ---
 domain: slokvietnam.com
 slug: slokvietnam-com
-title: Is slokvietnam.com Legit? Trust Signal Check
+title: Is slokvietnam.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for slokvietnam.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  slokvietnam.com scores 73/100 on our public trust checks. Established domain —
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:45.708Z'
 finalUrl: 'https://slokvietnam.com/'
 reachable: true

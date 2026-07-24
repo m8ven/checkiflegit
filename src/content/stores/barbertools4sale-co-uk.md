@@ -1,10 +1,10 @@
 ---
 domain: barbertools4sale.co.uk
 slug: barbertools4sale-co-uk
-title: Is barbertools4sale.co.uk Legit? Trust Signal Check
+title: Is barbertools4sale.co.uk Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for barbertools4sale.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  barbertools4sale.co.uk scores 94/100 on our public trust checks. Established
+  domain — registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:33.075Z'
 finalUrl: 'https://barbertools4sale.co.uk/'
 reachable: true

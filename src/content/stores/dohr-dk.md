@@ -1,10 +1,10 @@
 ---
 domain: dohr.dk
 slug: dohr-dk
-title: Is dohr.dk Legit? Trust Signal Check
+title: Is dohr.dk Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dohr.dk: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  dohr.dk scores 88/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:05.115Z'
 finalUrl: 'https://dohr.dk/'
 reachable: true

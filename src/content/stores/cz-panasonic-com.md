@@ -1,10 +1,10 @@
 ---
 domain: cz.panasonic.com
 slug: cz-panasonic-com
-title: Is cz.panasonic.com Legit? Trust Signal Check
+title: Is cz.panasonic.com Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for cz.panasonic.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cz.panasonic.com scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:47:25.875Z'
 finalUrl: 'https://cz.panasonic.com/'
 reachable: true

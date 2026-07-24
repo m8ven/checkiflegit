@@ -1,10 +1,10 @@
 ---
 domain: dienbinhduong.com
 slug: dienbinhduong-com
-title: Is dienbinhduong.com Legit? Trust Signal Check
+title: Is dienbinhduong.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dienbinhduong.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dienbinhduong.com scores 88/100 on our public trust checks. Established domain
+  — registered 11 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:01:09.551Z'
 finalUrl: 'https://www.dienbinhduong.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: service.soundcore.com
 slug: service-soundcore-com
-title: Is service.soundcore.com Legit? Trust Signal Check
+title: Is service.soundcore.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for service.soundcore.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  service.soundcore.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:30:58.945Z'
 finalUrl: 'https://service.soundcore.com/'
 reachable: true

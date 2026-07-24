@@ -1,10 +1,10 @@
 ---
 domain: pliiatsjaprint.ee
 slug: pliiatsjaprint-ee
-title: Is pliiatsjaprint.ee Legit? Trust Signal Check
+title: Is pliiatsjaprint.ee Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for pliiatsjaprint.ee: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pliiatsjaprint.ee scores 73/100 on our public trust checks. Established domain
+  — registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:39.368Z'
 finalUrl: 'https://pliiatsjaprint.ee/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: brilliant.tech
 slug: brilliant-tech
-title: Is brilliant.tech Legit? Trust Signal Check
+title: Is brilliant.tech Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for brilliant.tech: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brilliant.tech scores 88/100 on our public trust checks. Established domain —
+  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:52.432Z'
 finalUrl: 'https://www.brilliant.tech/'
 reachable: true

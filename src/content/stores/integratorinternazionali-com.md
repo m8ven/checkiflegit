@@ -1,10 +1,11 @@
 ---
 domain: integratorinternazionali.com
 slug: integratorinternazionali-com
-title: Is integratorinternazionali.com Legit? Trust Signal Check
+title: Is integratorinternazionali.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for integratorinternazionali.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  integratorinternazionali.com scores 85/100 on our public trust checks.
+  Established domain — registered 1.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:41:54.855Z'
 finalUrl: 'https://integratorinternazionali.com/'
 reachable: true

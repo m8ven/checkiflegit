@@ -1,10 +1,10 @@
 ---
 domain: monana-baby.de
 slug: monana-baby-de
-title: Is monana-baby.de Legit? Trust Signal Check
+title: Is monana-baby.de Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for monana-baby.de: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  monana-baby.de scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:24:38.236Z'
 finalUrl: 'https://www.monana-baby.de/'
 reachable: true

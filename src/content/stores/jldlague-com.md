@@ -1,10 +1,10 @@
 ---
 domain: jldlague.com
 slug: jldlague-com
-title: Is jldlague.com Legit? Trust Signal Check
+title: Is jldlague.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for jldlague.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jldlague.com scores 76/100 on our public trust checks. Established domain —
+  registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:40.464Z'
 finalUrl: 'https://jldlague.com/'
 reachable: true

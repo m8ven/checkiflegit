@@ -1,10 +1,10 @@
 ---
 domain: solusimutu.id
 slug: solusimutu-id
-title: Is solusimutu.id Legit? Trust Signal Check
+title: Is solusimutu.id Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for solusimutu.id: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  solusimutu.id scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:39:17.660Z'
 finalUrl: 'https://solusimutu.id/'
 reachable: true

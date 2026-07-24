@@ -1,10 +1,10 @@
 ---
 domain: messerkoenig.at
 slug: messerkoenig-at
-title: Is messerkoenig.at Legit? Trust Signal Check
+title: Is messerkoenig.at Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for messerkoenig.at: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  messerkoenig.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:24:23.610Z'
 finalUrl: 'https://www.messerkoenig.at/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: assurancedrivingschool.com.au
 slug: assurancedrivingschool-com-au
-title: Is assurancedrivingschool.com.au Legit? Trust Signal Check
+title: Is assurancedrivingschool.com.au Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for assurancedrivingschool.com.au: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  assurancedrivingschool.com.au scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:34:39.891Z'
 finalUrl: 'https://assurancedrivingschool.com.au/'
 reachable: true

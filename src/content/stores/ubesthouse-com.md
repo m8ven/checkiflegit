@@ -1,10 +1,10 @@
 ---
 domain: ubesthouse.com
 slug: ubesthouse-com
-title: Is ubesthouse.com Legit? Trust Signal Check
+title: Is ubesthouse.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ubesthouse.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ubesthouse.com scores 88/100 on our public trust checks. Established domain —
+  registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:48.172Z'
 finalUrl: 'https://ubesthouse.com/'
 reachable: true

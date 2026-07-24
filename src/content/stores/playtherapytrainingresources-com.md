@@ -1,10 +1,10 @@
 ---
 domain: playtherapytrainingresources.com
 slug: playtherapytrainingresources-com
-title: Is playtherapytrainingresources.com Legit? Trust Signal Check
+title: Is playtherapytrainingresources.com Legit? Score 88/100
 description: >-
-  An automated trust-signal check for playtherapytrainingresources.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  playtherapytrainingresources.com scores 88/100 on our public trust checks.
+  Established domain — registered 5.1 years ago.
 fetchedAt: '2026-06-25T12:29:45.498Z'
 finalUrl: 'https://playtherapytrainingresources.com/'
 reachable: true

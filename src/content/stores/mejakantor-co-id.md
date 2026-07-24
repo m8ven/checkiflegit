@@ -1,10 +1,10 @@
 ---
 domain: mejakantor.co.id
 slug: mejakantor-co-id
-title: Is mejakantor.co.id Legit? Trust Signal Check
+title: Is mejakantor.co.id Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mejakantor.co.id: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mejakantor.co.id scores 88/100 on our public trust checks. Established domain
+  — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:21.955Z'
 finalUrl: 'https://mejakantor.co.id/'
 reachable: true

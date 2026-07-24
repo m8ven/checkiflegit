@@ -1,10 +1,10 @@
 ---
 domain: aether-wines.com
 slug: aether-wines-com
-title: Is aether-wines.com Legit? Trust Signal Check
+title: Is aether-wines.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for aether-wines.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aether-wines.com scores 100/100 on our public trust checks. Established domain
+  — registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:11:58.205Z'
 finalUrl: 'https://www.aether-wines.com/'
 reachable: true

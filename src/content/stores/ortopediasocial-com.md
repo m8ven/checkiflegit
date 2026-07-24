@@ -1,10 +1,10 @@
 ---
 domain: ortopediasocial.com
 slug: ortopediasocial-com
-title: Is ortopediasocial.com Legit? Trust Signal Check
+title: Is ortopediasocial.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for ortopediasocial.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ortopediasocial.com scores 94/100 on our public trust checks. Established
+  domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:09.969Z'
 finalUrl: 'https://ortopediasocial.com/'
 reachable: true

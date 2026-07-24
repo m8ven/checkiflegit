@@ -1,10 +1,10 @@
 ---
 domain: aranchakonde.com
 slug: aranchakonde-com
-title: Is aranchakonde.com Legit? Trust Signal Check
+title: Is aranchakonde.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for aranchakonde.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aranchakonde.com scores 88/100 on our public trust checks. Established domain
+  — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:19:31.119Z'
 finalUrl: 'https://aranchakonde.com/'
 reachable: true

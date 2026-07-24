@@ -1,10 +1,10 @@
 ---
 domain: franciscoaparicio.com
 slug: franciscoaparicio-com
-title: Is franciscoaparicio.com Legit? Trust Signal Check
+title: Is franciscoaparicio.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for franciscoaparicio.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  franciscoaparicio.com scores 82/100 on our public trust checks. Established
+  domain — registered 25.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:18.067Z'
 finalUrl: 'https://franciscoaparicio.com/'
 reachable: true

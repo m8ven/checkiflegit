@@ -1,10 +1,10 @@
 ---
 domain: networkconsultant.net
 slug: networkconsultant-net
-title: Is networkconsultant.net Legit? Trust Signal Check
+title: Is networkconsultant.net Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for networkconsultant.net: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  networkconsultant.net scores 73/100 on our public trust checks. Established
+  domain — registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:42.076Z'
 finalUrl: 'https://networkconsultant.net/'
 reachable: true

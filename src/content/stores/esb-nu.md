@@ -1,10 +1,10 @@
 ---
 domain: esb.nu
 slug: esb-nu
-title: Is esb.nu Legit? Trust Signal Check
+title: Is esb.nu Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for esb.nu: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  esb.nu scores 76/100 on our public trust checks. Established domain —
+  registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:58.637Z'
 finalUrl: 'https://esb.nu/'
 reachable: true

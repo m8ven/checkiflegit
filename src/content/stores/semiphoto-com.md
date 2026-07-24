@@ -1,10 +1,10 @@
 ---
 domain: semiphoto.com
 slug: semiphoto-com
-title: Is semiphoto.com Legit? Trust Signal Check
+title: Is semiphoto.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for semiphoto.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  semiphoto.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:02:30.416Z'
 finalUrl: 'https://semiphoto.com/'
 reachable: true

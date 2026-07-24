@@ -1,10 +1,10 @@
 ---
 domain: unitedkart.in
 slug: unitedkart-in
-title: Is unitedkart.in Legit? Trust Signal Check
+title: Is unitedkart.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for unitedkart.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  unitedkart.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:46:30.085Z'
 finalUrl: 'https://unitedkart.in/'
 reachable: true

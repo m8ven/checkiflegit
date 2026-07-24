@@ -1,10 +1,10 @@
 ---
 domain: thcfactorygrow.com
 slug: thcfactorygrow-com
-title: Is thcfactorygrow.com Legit? Trust Signal Check
+title: Is thcfactorygrow.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for thcfactorygrow.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thcfactorygrow.com scores 88/100 on our public trust checks. Established
+  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:49.045Z'
 finalUrl: 'https://thcfactorygrow.com/'
 reachable: true

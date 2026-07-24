@@ -1,10 +1,10 @@
 ---
 domain: bco.org.uk
 slug: bco-org-uk
-title: Is bco.org.uk Legit? Trust Signal Check
+title: Is bco.org.uk Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bco.org.uk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bco.org.uk scores 88/100 on our public trust checks. Established domain —
+  registered 29.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:14:52.828Z'
 finalUrl: 'https://www.bco.org.uk/'
 reachable: true

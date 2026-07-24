@@ -1,10 +1,10 @@
 ---
 domain: dongho1s.com
 slug: dongho1s-com
-title: Is dongho1s.com Legit? Trust Signal Check
+title: Is dongho1s.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for dongho1s.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  dongho1s.com scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:26:38.595Z'
 finalUrl: 'https://dongho1s.com/'
 reachable: true

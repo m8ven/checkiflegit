@@ -1,10 +1,10 @@
 ---
 domain: ecuadorpreguntas.com
 slug: ecuadorpreguntas-com
-title: Is ecuadorpreguntas.com Legit? Trust Signal Check
+title: Is ecuadorpreguntas.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for ecuadorpreguntas.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ecuadorpreguntas.com scores 76/100 on our public trust checks. Established
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:32.486Z'
 finalUrl: 'https://ecuadorpreguntas.com/'
 reachable: true

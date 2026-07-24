@@ -1,10 +1,10 @@
 ---
 domain: slodkosci.com.pl
 slug: slodkosci-com-pl
-title: Is slodkosci.com.pl Legit? Trust Signal Check
+title: Is slodkosci.com.pl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for slodkosci.com.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  slodkosci.com.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:21:57.057Z'
 finalUrl: 'https://www.slodkosci.com.pl/'
 reachable: true

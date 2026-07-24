@@ -1,10 +1,10 @@
 ---
 domain: ilpoggio.sitiwebonline.com
 slug: ilpoggio-sitiwebonline-com
-title: Is ilpoggio.sitiwebonline.com Legit? Trust Signal Check
+title: Is ilpoggio.sitiwebonline.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ilpoggio.sitiwebonline.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ilpoggio.sitiwebonline.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:32.491Z'
 finalUrl: 'https://ilpoggio.sitiwebonline.com/'
 reachable: true

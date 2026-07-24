@@ -1,10 +1,11 @@
 ---
 domain: lifepo4golfcartbattery.com
 slug: lifepo4golfcartbattery-com
-title: Is lifepo4golfcartbattery.com Legit? Trust Signal Check
+title: Is lifepo4golfcartbattery.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for lifepo4golfcartbattery.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lifepo4golfcartbattery.com scores 73/100 on our public trust checks.
+  Established domain — registered 4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:36:27.301Z'
 finalUrl: 'https://www.lifepo4golfcartbattery.com/'
 reachable: true

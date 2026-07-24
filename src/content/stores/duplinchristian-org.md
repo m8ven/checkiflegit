@@ -1,10 +1,10 @@
 ---
 domain: duplinchristian.org
 slug: duplinchristian-org
-title: Is duplinchristian.org Legit? Trust Signal Check
+title: Is duplinchristian.org Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for duplinchristian.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  duplinchristian.org scores 82/100 on our public trust checks. Established
+  domain — registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:26.594Z'
 finalUrl: 'https://duplinchristian.org/'
 reachable: true

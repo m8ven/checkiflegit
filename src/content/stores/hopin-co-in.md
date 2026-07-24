@@ -1,10 +1,10 @@
 ---
 domain: hopin.co.in
 slug: hopin-co-in
-title: Is hopin.co.in Legit? Trust Signal Check
+title: Is hopin.co.in Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hopin.co.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hopin.co.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:46:08.419Z'
 finalUrl: 'https://hopin.co.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lastenmissio.fi
 slug: lastenmissio-fi
-title: Is lastenmissio.fi Legit? Trust Signal Check
+title: Is lastenmissio.fi Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for lastenmissio.fi: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  lastenmissio.fi scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:52:37.469Z'
 finalUrl: 'https://lastenmissio.fi/'
 reachable: true

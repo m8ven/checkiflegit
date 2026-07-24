@@ -1,10 +1,10 @@
 ---
 domain: bebeauty.in.ua
 slug: bebeauty-in-ua
-title: Is bebeauty.in.ua Legit? Trust Signal Check
+title: Is bebeauty.in.ua Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bebeauty.in.ua: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bebeauty.in.ua scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:04.064Z'
 finalUrl: 'https://bebeauty.in.ua/'
 reachable: true

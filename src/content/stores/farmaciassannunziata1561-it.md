@@ -1,10 +1,11 @@
 ---
 domain: farmaciassannunziata1561.it
 slug: farmaciassannunziata1561-it
-title: Is farmaciassannunziata1561.it Legit? Trust Signal Check
+title: Is farmaciassannunziata1561.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for farmaciassannunziata1561.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  farmaciassannunziata1561.it scores 100/100 on our public trust checks.
+  Established domain — registered 18.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:42:22.561Z'
 finalUrl: 'https://farmaciassannunziata1561.it/'
 reachable: true

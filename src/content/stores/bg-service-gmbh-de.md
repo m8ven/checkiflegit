@@ -1,10 +1,10 @@
 ---
 domain: bg-service-gmbh.de
 slug: bg-service-gmbh-de
-title: Is bg-service-gmbh.de Legit? Trust Signal Check
+title: Is bg-service-gmbh.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for bg-service-gmbh.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bg-service-gmbh.de scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:58:40.523Z'
 finalUrl: 'https://bg-service-gmbh.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: denisdeschamps.com
 slug: denisdeschamps-com
-title: Is denisdeschamps.com Legit? Trust Signal Check
+title: Is denisdeschamps.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for denisdeschamps.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  denisdeschamps.com scores 76/100 on our public trust checks. Established
+  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:24.543Z'
 finalUrl: 'https://denisdeschamps.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kakvsezdorovo.ru
 slug: kakvsezdorovo-ru
-title: Is kakvsezdorovo.ru Legit? Trust Signal Check
+title: Is kakvsezdorovo.ru Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for kakvsezdorovo.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kakvsezdorovo.ru scores 70/100 on our public trust checks. Established domain
+  — registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:15.389Z'
 finalUrl: 'https://kakvsezdorovo.ru/'
 reachable: true

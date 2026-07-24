@@ -1,10 +1,10 @@
 ---
 domain: beauxvillages.be
 slug: beauxvillages-be
-title: Is beauxvillages.be Legit? Trust Signal Check
+title: Is beauxvillages.be Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for beauxvillages.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beauxvillages.be scores 100/100 on our public trust checks. Established domain
+  — registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:39.656Z'
 finalUrl: 'https://beauxvillages.be/'
 reachable: true

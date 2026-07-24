@@ -1,10 +1,10 @@
 ---
 domain: attajir.ma
 slug: attajir-ma
-title: Is attajir.ma Legit? Trust Signal Check
+title: Is attajir.ma Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for attajir.ma: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  attajir.ma scores 73/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:45.940Z'
 finalUrl: 'https://www.attajir.ma/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: grand-kitchen.com.tw
 slug: grand-kitchen-com-tw
-title: Is grand-kitchen.com.tw Legit? Trust Signal Check
+title: Is grand-kitchen.com.tw Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for grand-kitchen.com.tw: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  grand-kitchen.com.tw scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:14:06.283Z'
 finalUrl: 'https://grand-kitchen.com.tw/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: seasidebeads.com
 slug: seasidebeads-com
-title: Is seasidebeads.com Legit? Trust Signal Check
+title: Is seasidebeads.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for seasidebeads.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  seasidebeads.com scores 85/100 on our public trust checks. Established domain
+  — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:00:24.079Z'
 finalUrl: 'https://seasidebeads.com/'
 reachable: true

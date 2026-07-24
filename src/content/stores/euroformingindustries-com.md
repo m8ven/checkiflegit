@@ -1,10 +1,11 @@
 ---
 domain: euroformingindustries.com
 slug: euroformingindustries-com
-title: Is euroformingindustries.com Legit? Trust Signal Check
+title: Is euroformingindustries.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for euroformingindustries.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  euroformingindustries.com scores 73/100 on our public trust checks.
+  Established domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:11:23.166Z'
 finalUrl: 'https://euroformingindustries.com/'
 reachable: true

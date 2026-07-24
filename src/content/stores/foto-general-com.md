@@ -1,10 +1,10 @@
 ---
 domain: foto-general.com
 slug: foto-general-com
-title: Is foto-general.com Legit? Trust Signal Check
+title: Is foto-general.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for foto-general.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  foto-general.com scores 88/100 on our public trust checks. Established domain
+  — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:51.869Z'
 finalUrl: 'https://foto-general.com/'
 reachable: true

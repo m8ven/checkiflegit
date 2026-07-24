@@ -1,10 +1,10 @@
 ---
 domain: hildurblad.se
 slug: hildurblad-se
-title: Is hildurblad.se Legit? Trust Signal Check
+title: Is hildurblad.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for hildurblad.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hildurblad.se scores 88/100 on our public trust checks. Established domain —
+  registered 13.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:48.367Z'
 finalUrl: 'https://hildurblad.se/'
 reachable: true

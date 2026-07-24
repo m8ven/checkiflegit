@@ -1,10 +1,10 @@
 ---
 domain: bud99.cc
 slug: bud99-cc
-title: Is bud99.cc Legit? Trust Signal Check
+title: Is bud99.cc Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bud99.cc: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bud99.cc scores 88/100 on our public trust checks. Established domain —
+  registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:10.841Z'
 finalUrl: 'https://bud99.cc/'
 reachable: true

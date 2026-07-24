@@ -1,10 +1,10 @@
 ---
 domain: vapem.org
 slug: vapem-org
-title: Is vapem.org Legit? Trust Signal Check
+title: Is vapem.org Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for vapem.org: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  vapem.org scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:55:11.148Z'
 finalUrl: 'https://vapem.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: camdubois.com
 slug: camdubois-com
-title: Is camdubois.com Legit? Trust Signal Check
+title: Is camdubois.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for camdubois.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  camdubois.com scores 88/100 on our public trust checks. Established domain —
+  registered 20.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:22.298Z'
 finalUrl: 'https://camdubois.com/fr/'
 reachable: true

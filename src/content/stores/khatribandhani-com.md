@@ -1,10 +1,10 @@
 ---
 domain: khatribandhani.com
 slug: khatribandhani-com
-title: Is khatribandhani.com Legit? Trust Signal Check
+title: Is khatribandhani.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for khatribandhani.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  khatribandhani.com scores 88/100 on our public trust checks. Established
+  domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:35.940Z'
 finalUrl: 'https://khatribandhani.com/'
 reachable: true

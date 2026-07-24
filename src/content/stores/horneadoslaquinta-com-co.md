@@ -1,10 +1,10 @@
 ---
 domain: horneadoslaquinta.com.co
 slug: horneadoslaquinta-com-co
-title: Is horneadoslaquinta.com.co Legit? Trust Signal Check
+title: Is horneadoslaquinta.com.co Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for horneadoslaquinta.com.co: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  horneadoslaquinta.com.co scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T11:57:05.969Z'
 finalUrl: 'https://horneadoslaquinta.com.co/'
 reachable: true

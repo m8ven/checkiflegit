@@ -1,11 +1,10 @@
 ---
 domain: bianconero-umstadt.de
 slug: bianconero-umstadt-de
-title: Is bianconero-umstadt.de Legit? Trust Signal Check
+title: Is bianconero-umstadt.de Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for bianconero-umstadt.de: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  bianconero-umstadt.de scores 44/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:19:21.905Z'
 finalUrl: 'https://bianconero-umstadt.de/'
 reachable: true

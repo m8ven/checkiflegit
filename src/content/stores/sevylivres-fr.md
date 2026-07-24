@@ -1,10 +1,10 @@
 ---
 domain: sevylivres.fr
 slug: sevylivres-fr
-title: Is sevylivres.fr Legit? Trust Signal Check
+title: Is sevylivres.fr Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for sevylivres.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sevylivres.fr scores 76/100 on our public trust checks. Established domain —
+  registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:36:51.128Z'
 finalUrl: 'https://sevylivres.fr/'
 reachable: true

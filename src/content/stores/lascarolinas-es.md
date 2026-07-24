@@ -1,10 +1,10 @@
 ---
 domain: lascarolinas.es
 slug: lascarolinas-es
-title: Is lascarolinas.es Legit? Trust Signal Check
+title: Is lascarolinas.es Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lascarolinas.es: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lascarolinas.es scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:01:51.251Z'
 finalUrl: 'https://www.lascarolinas.es/'
 reachable: true

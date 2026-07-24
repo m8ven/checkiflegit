@@ -1,10 +1,10 @@
 ---
 domain: kojinaite.lt
 slug: kojinaite-lt
-title: Is kojinaite.lt Legit? Trust Signal Check
+title: Is kojinaite.lt Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for kojinaite.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kojinaite.lt scores 73/100 on our public trust checks. Established domain —
+  registered 17 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:44.564Z'
 finalUrl: 'https://kojinaite.lt/'
 reachable: true

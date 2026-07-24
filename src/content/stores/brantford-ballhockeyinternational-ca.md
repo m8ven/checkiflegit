@@ -1,10 +1,10 @@
 ---
 domain: brantford.ballhockeyinternational.ca
 slug: brantford-ballhockeyinternational-ca
-title: Is brantford.ballhockeyinternational.ca Legit? Trust Signal Check
+title: Is brantford.ballhockeyinternational.ca Legit? Score 61/100
 description: >-
-  An automated trust-signal check for brantford.ballhockeyinternational.ca:
-  moderate trust signals. Domain age, SSL, contact info, reviews and more.
+  brantford.ballhockeyinternational.ca scores 61/100 on our public trust checks.
+  No links to major social platforms found.
 fetchedAt: '2026-06-25T02:27:23.928Z'
 finalUrl: 'https://brantford.ballhockeyinternational.ca/'
 reachable: true

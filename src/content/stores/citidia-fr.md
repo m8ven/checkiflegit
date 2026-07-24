@@ -1,10 +1,10 @@
 ---
 domain: citidia.fr
 slug: citidia-fr
-title: Is citidia.fr Legit? Trust Signal Check
+title: Is citidia.fr Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for citidia.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  citidia.fr scores 94/100 on our public trust checks. Established domain —
+  registered 5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:21.856Z'
 finalUrl: 'https://citidia.fr/'
 reachable: true

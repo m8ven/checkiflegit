@@ -1,10 +1,10 @@
 ---
 domain: hurghadatogo.com
 slug: hurghadatogo-com
-title: Is hurghadatogo.com Legit? Trust Signal Check
+title: Is hurghadatogo.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for hurghadatogo.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hurghadatogo.com scores 82/100 on our public trust checks. Established domain
+  — registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:01.808Z'
 finalUrl: 'https://www.hurghadatogo.com/'
 reachable: true

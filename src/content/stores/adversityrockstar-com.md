@@ -1,10 +1,10 @@
 ---
 domain: adversityrockstar.com
 slug: adversityrockstar-com
-title: Is adversityrockstar.com Legit? Trust Signal Check
+title: Is adversityrockstar.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for adversityrockstar.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  adversityrockstar.com scores 100/100 on our public trust checks. Established
+  domain — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:13.845Z'
 finalUrl: 'https://adversityrockstar.com/'
 reachable: true

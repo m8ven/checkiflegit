@@ -1,10 +1,10 @@
 ---
 domain: migraeneliga.de
 slug: migraeneliga-de
-title: Is migraeneliga.de Legit? Trust Signal Check
+title: Is migraeneliga.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for migraeneliga.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  migraeneliga.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:23:47.924Z'
 finalUrl: 'https://www.migraeneliga.de/'
 reachable: true

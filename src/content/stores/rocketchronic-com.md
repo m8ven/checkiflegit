@@ -1,10 +1,10 @@
 ---
 domain: rocketchronic.com
 slug: rocketchronic-com
-title: Is rocketchronic.com Legit? Trust Signal Check
+title: Is rocketchronic.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for rocketchronic.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rocketchronic.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:29:54.428Z'
 finalUrl: 'https://rocketchronic.com/'
 reachable: true

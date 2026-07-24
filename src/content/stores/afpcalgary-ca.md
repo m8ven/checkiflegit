@@ -1,10 +1,10 @@
 ---
 domain: afpcalgary.ca
 slug: afpcalgary-ca
-title: Is afpcalgary.ca Legit? Trust Signal Check
+title: Is afpcalgary.ca Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for afpcalgary.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  afpcalgary.ca scores 85/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:17:22.481Z'
 finalUrl: 'https://afpcalgary.ca/'
 reachable: true

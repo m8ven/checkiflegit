@@ -1,10 +1,10 @@
 ---
 domain: dreamproxies.com
 slug: dreamproxies-com
-title: Is dreamproxies.com Legit? Trust Signal Check
+title: Is dreamproxies.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for dreamproxies.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dreamproxies.com scores 82/100 on our public trust checks. Established domain
+  — registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:23.378Z'
 finalUrl: 'https://dreamproxies.com/'
 reachable: true

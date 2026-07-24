@@ -1,10 +1,10 @@
 ---
 domain: teleskopshop.ch
 slug: teleskopshop-ch
-title: Is teleskopshop.ch Legit? Trust Signal Check
+title: Is teleskopshop.ch Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for teleskopshop.ch: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  teleskopshop.ch scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:47:02.748Z'
 finalUrl: 'https://www.teleskopshop.ch/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: fettine.pl
 slug: fettine-pl
-title: Is fettine.pl Legit? Trust Signal Check
+title: Is fettine.pl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fettine.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fettine.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:44:58.454Z'
 finalUrl: 'https://fettine.pl/'
 reachable: true

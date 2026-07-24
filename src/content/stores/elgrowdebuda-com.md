@@ -1,10 +1,10 @@
 ---
 domain: elgrowdebuda.com
 slug: elgrowdebuda-com
-title: Is elgrowdebuda.com Legit? Trust Signal Check
+title: Is elgrowdebuda.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for elgrowdebuda.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elgrowdebuda.com scores 100/100 on our public trust checks. Established domain
+  — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:57:25.288Z'
 finalUrl: 'https://www.elgrowdebuda.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: heatscope-terrasverwarming.nl
 slug: heatscope-terrasverwarming-nl
-title: Is heatscope-terrasverwarming.nl Legit? Trust Signal Check
+title: Is heatscope-terrasverwarming.nl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for heatscope-terrasverwarming.nl: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  heatscope-terrasverwarming.nl scores 61/100 on our public trust checks. No
+  links to major social platforms found.
 fetchedAt: '2026-06-25T15:11:56.902Z'
 finalUrl: 'https://www.heatscope-terrasverwarming.nl/'
 reachable: true

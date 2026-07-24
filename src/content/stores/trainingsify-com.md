@@ -1,10 +1,10 @@
 ---
 domain: trainingsify.com
 slug: trainingsify-com
-title: Is trainingsify.com Legit? Trust Signal Check
+title: Is trainingsify.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for trainingsify.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  trainingsify.com scores 73/100 on our public trust checks. Established domain
+  — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:36.006Z'
 finalUrl: 'https://trainingsify.com/'
 reachable: true

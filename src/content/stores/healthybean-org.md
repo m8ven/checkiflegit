@@ -1,10 +1,10 @@
 ---
 domain: healthybean.org
 slug: healthybean-org
-title: Is healthybean.org Legit? Trust Signal Check
+title: Is healthybean.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for healthybean.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  healthybean.org scores 100/100 on our public trust checks. Established domain
+  — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:22.894Z'
 finalUrl: 'https://healthybean.org/'
 reachable: true

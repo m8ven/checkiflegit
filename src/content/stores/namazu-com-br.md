@@ -1,10 +1,11 @@
 ---
 domain: namazu.com.br
 slug: namazu-com-br
-title: Is namazu.com.br Legit? Trust Signal Check
+title: Is namazu.com.br Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for namazu.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  namazu.com.br scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:45:29.055Z'
 finalUrl: 'https://namazu.com.br/'
 reachable: true

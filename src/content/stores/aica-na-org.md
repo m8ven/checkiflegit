@@ -1,10 +1,10 @@
 ---
 domain: aica-na.org
 slug: aica-na-org
-title: Is aica-na.org Legit? Trust Signal Check
+title: Is aica-na.org Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for aica-na.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aica-na.org scores 73/100 on our public trust checks. Established domain —
+  registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:29.734Z'
 finalUrl: 'https://aica-na.org/'
 reachable: true

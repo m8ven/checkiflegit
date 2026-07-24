@@ -1,10 +1,10 @@
 ---
 domain: prodaja-alata.rs
 slug: prodaja-alata-rs
-title: Is prodaja-alata.rs Legit? Trust Signal Check
+title: Is prodaja-alata.rs Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for prodaja-alata.rs: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  prodaja-alata.rs scores 88/100 on our public trust checks. Established domain
+  — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:15.641Z'
 finalUrl: 'https://prodaja-alata.rs/'
 reachable: true

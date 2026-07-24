@@ -1,10 +1,10 @@
 ---
 domain: kimberlyelizabethdesignandapparel.com
 slug: kimberlyelizabethdesignandapparel-com
-title: Is kimberlyelizabethdesignandapparel.com Legit? Trust Signal Check
+title: Is kimberlyelizabethdesignandapparel.com Legit? Score 73/100
 description: >-
-  An automated trust-signal check for kimberlyelizabethdesignandapparel.com:
-  strong trust signals. Domain age, SSL, contact info, reviews and more.
+  kimberlyelizabethdesignandapparel.com scores 73/100 on our public trust
+  checks. Established domain — registered 4.8 years ago.
 fetchedAt: '2026-06-25T02:42:09.923Z'
 finalUrl: 'https://kimberlyelizabethdesignandapparel.com/'
 reachable: true

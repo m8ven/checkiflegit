@@ -1,10 +1,11 @@
 ---
 domain: d-pixx.de
 slug: d-pixx-de
-title: Is d-pixx.de Legit? Trust Signal Check
+title: Is d-pixx.de Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for d-pixx.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  d-pixx.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:16:39.395Z'
 finalUrl: 'https://www.d-pixx.de/'
 reachable: true

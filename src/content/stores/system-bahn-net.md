@@ -1,10 +1,10 @@
 ---
 domain: system-bahn.net
 slug: system-bahn-net
-title: Is system-bahn.net Legit? Trust Signal Check
+title: Is system-bahn.net Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for system-bahn.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  system-bahn.net scores 85/100 on our public trust checks. Established domain —
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:28:00.868Z'
 finalUrl: 'https://www.system-bahn.net/'
 reachable: true

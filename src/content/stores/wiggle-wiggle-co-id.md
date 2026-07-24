@@ -1,10 +1,10 @@
 ---
 domain: wiggle-wiggle.co.id
 slug: wiggle-wiggle-co-id
-title: Is wiggle-wiggle.co.id Legit? Trust Signal Check
+title: Is wiggle-wiggle.co.id Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for wiggle-wiggle.co.id: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wiggle-wiggle.co.id scores 94/100 on our public trust checks. Established
+  domain — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:07.625Z'
 finalUrl: 'https://wiggle-wiggle.co.id/'
 reachable: true

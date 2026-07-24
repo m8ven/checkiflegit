@@ -1,10 +1,10 @@
 ---
 domain: chateaurigolo.ch
 slug: chateaurigolo-ch
-title: Is chateaurigolo.ch Legit? Trust Signal Check
+title: Is chateaurigolo.ch Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for chateaurigolo.ch: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chateaurigolo.ch scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:38:48.557Z'
 finalUrl: 'https://chateaurigolo.ch/'
 reachable: true

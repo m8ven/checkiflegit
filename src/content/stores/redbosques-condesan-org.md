@@ -1,11 +1,11 @@
 ---
 domain: redbosques.condesan.org
 slug: redbosques-condesan-org
-title: Is redbosques.condesan.org Legit? Trust Signal Check
+title: Is redbosques.condesan.org Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for redbosques.condesan.org: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  redbosques.condesan.org scores 36/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:05:46.860Z'
 finalUrl: 'https://redbosques.condesan.org/'
 reachable: true

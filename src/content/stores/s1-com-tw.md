@@ -1,10 +1,11 @@
 ---
 domain: s1.com.tw
 slug: s1-com-tw
-title: Is s1.com.tw Legit? Trust Signal Check
+title: Is s1.com.tw Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for s1.com.tw: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  s1.com.tw scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T02:43:32.400Z'
 finalUrl: 'https://s1.com.tw/'
 reachable: true

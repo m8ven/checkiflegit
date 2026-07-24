@@ -1,10 +1,10 @@
 ---
 domain: weboating.com
 slug: weboating-com
-title: Is weboating.com Legit? Trust Signal Check
+title: Is weboating.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for weboating.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  weboating.com scores 70/100 on our public trust checks. Established domain —
+  registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:43.781Z'
 finalUrl: 'https://weboating.com/'
 reachable: true

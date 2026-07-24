@@ -1,10 +1,10 @@
 ---
 domain: kaisersignature.com
 slug: kaisersignature-com
-title: Is kaisersignature.com Legit? Trust Signal Check
+title: Is kaisersignature.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kaisersignature.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kaisersignature.com scores 100/100 on our public trust checks. Established
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:06.795Z'
 finalUrl: 'https://kaisersignature.com/'
 reachable: true

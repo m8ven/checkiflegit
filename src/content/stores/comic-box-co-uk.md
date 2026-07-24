@@ -1,10 +1,10 @@
 ---
 domain: comic-box.co.uk
 slug: comic-box-co-uk
-title: Is comic-box.co.uk Legit? Trust Signal Check
+title: Is comic-box.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for comic-box.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  comic-box.co.uk scores 88/100 on our public trust checks. Established domain —
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:56:36.245Z'
 finalUrl: 'https://www.comic-box.co.uk/'
 reachable: true

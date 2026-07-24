@@ -1,10 +1,10 @@
 ---
 domain: bigbangdist.com
 slug: bigbangdist-com
-title: Is bigbangdist.com Legit? Trust Signal Check
+title: Is bigbangdist.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bigbangdist.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bigbangdist.com scores 100/100 on our public trust checks. Established domain
+  — registered 30.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:48:21.397Z'
 finalUrl: 'https://bigbangdist.com/'
 reachable: true

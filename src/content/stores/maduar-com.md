@@ -1,10 +1,10 @@
 ---
 domain: maduar.com
 slug: maduar-com
-title: Is maduar.com Legit? Trust Signal Check
+title: Is maduar.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for maduar.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  maduar.com scores 76/100 on our public trust checks. Established domain —
+  registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:47.724Z'
 finalUrl: 'https://www.maduar.com/'
 reachable: true

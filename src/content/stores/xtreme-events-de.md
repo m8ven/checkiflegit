@@ -1,10 +1,10 @@
 ---
 domain: xtreme-events.de
 slug: xtreme-events-de
-title: Is xtreme-events.de Legit? Trust Signal Check
+title: Is xtreme-events.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for xtreme-events.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  xtreme-events.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:25:10.731Z'
 finalUrl: 'https://www.xtreme-events.de/'
 reachable: true

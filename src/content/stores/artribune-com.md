@@ -1,10 +1,10 @@
 ---
 domain: artribune.com
 slug: artribune-com
-title: Is artribune.com Legit? Trust Signal Check
+title: Is artribune.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for artribune.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  artribune.com scores 88/100 on our public trust checks. Established domain —
+  registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:32.558Z'
 finalUrl: 'https://www.artribune.com/'
 reachable: true

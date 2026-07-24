@@ -1,10 +1,10 @@
 ---
 domain: higherpets.com
 slug: higherpets-com
-title: Is higherpets.com Legit? Trust Signal Check
+title: Is higherpets.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for higherpets.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  higherpets.com scores 70/100 on our public trust checks. Established domain —
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:50.848Z'
 finalUrl: 'https://higherpets.com/'
 reachable: true

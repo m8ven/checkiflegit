@@ -1,10 +1,10 @@
 ---
 domain: detalneftehim.ru
 slug: detalneftehim-ru
-title: Is detalneftehim.ru Legit? Trust Signal Check
+title: Is detalneftehim.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for detalneftehim.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  detalneftehim.ru scores 85/100 on our public trust checks. Established domain
+  — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:56.589Z'
 finalUrl: 'https://detalneftehim.ru/'
 reachable: true

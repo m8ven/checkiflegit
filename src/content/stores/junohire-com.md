@@ -1,10 +1,10 @@
 ---
 domain: junohire.com
 slug: junohire-com
-title: Is junohire.com Legit? Trust Signal Check
+title: Is junohire.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for junohire.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  junohire.com scores 100/100 on our public trust checks. Established domain —
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:53.214Z'
 finalUrl: 'https://junohire.com/'
 reachable: true

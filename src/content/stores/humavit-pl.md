@@ -1,10 +1,10 @@
 ---
 domain: humavit.pl
 slug: humavit-pl
-title: Is humavit.pl Legit? Trust Signal Check
+title: Is humavit.pl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for humavit.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  humavit.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:35:54.004Z'
 finalUrl: 'https://humavit.pl/'
 reachable: true

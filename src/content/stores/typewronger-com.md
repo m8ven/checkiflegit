@@ -1,10 +1,10 @@
 ---
 domain: typewronger.com
 slug: typewronger-com
-title: Is typewronger.com Legit? Trust Signal Check
+title: Is typewronger.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for typewronger.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  typewronger.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:10:23.154Z'
 finalUrl: 'https://typewronger.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: juboweinhaus.de
 slug: juboweinhaus-de
-title: Is juboweinhaus.de Legit? Trust Signal Check
+title: Is juboweinhaus.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for juboweinhaus.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  juboweinhaus.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:51:07.662Z'
 finalUrl: 'https://juboweinhaus.de/'
 reachable: true

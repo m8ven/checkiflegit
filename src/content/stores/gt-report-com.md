@@ -1,10 +1,10 @@
 ---
 domain: gt-report.com
 slug: gt-report-com
-title: Is gt-report.com Legit? Trust Signal Check
+title: Is gt-report.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for gt-report.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gt-report.com scores 76/100 on our public trust checks. Established domain —
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:22.723Z'
 finalUrl: 'https://www.gt-report.com/'
 reachable: true

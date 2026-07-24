@@ -1,10 +1,10 @@
 ---
 domain: vysavame.cz
 slug: vysavame-cz
-title: Is vysavame.cz Legit? Trust Signal Check
+title: Is vysavame.cz Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for vysavame.cz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vysavame.cz scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:24:12.439Z'
 finalUrl: 'https://www.vysavame.cz/'
 reachable: true

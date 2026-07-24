@@ -1,10 +1,10 @@
 ---
 domain: jdmreelhub.com
 slug: jdmreelhub-com
-title: Is jdmreelhub.com Legit? Trust Signal Check
+title: Is jdmreelhub.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for jdmreelhub.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jdmreelhub.com scores 100/100 on our public trust checks. Established domain —
+  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:27.284Z'
 finalUrl: 'https://jdmreelhub.com/'
 reachable: true

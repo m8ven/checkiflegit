@@ -1,10 +1,10 @@
 ---
 domain: eatsouthbound.com
 slug: eatsouthbound-com
-title: Is eatsouthbound.com Legit? Trust Signal Check
+title: Is eatsouthbound.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for eatsouthbound.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eatsouthbound.com scores 70/100 on our public trust checks. Established domain
+  — registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:38.861Z'
 finalUrl: 'https://eatsouthbound.com/'
 reachable: true

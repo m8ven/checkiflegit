@@ -1,10 +1,10 @@
 ---
 domain: thebudgrower.com
 slug: thebudgrower-com
-title: Is thebudgrower.com Legit? Trust Signal Check
+title: Is thebudgrower.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thebudgrower.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thebudgrower.com scores 100/100 on our public trust checks. Established domain
+  — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:00.948Z'
 finalUrl: 'https://thebudgrower.com/'
 reachable: true

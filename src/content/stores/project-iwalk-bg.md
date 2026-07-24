@@ -1,10 +1,10 @@
 ---
 domain: project.iwalk.bg
 slug: project-iwalk-bg
-title: Is project.iwalk.bg Legit? Trust Signal Check
+title: Is project.iwalk.bg Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for project.iwalk.bg: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  project.iwalk.bg scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:04:14.586Z'
 finalUrl: 'https://project.iwalk.bg/'
 reachable: true

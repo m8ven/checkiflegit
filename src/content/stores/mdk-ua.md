@@ -1,10 +1,10 @@
 ---
 domain: mdk.ua
 slug: mdk-ua
-title: Is mdk.ua Legit? Trust Signal Check
+title: Is mdk.ua Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mdk.ua: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  mdk.ua scores 76/100 on our public trust checks. Established domain —
+  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:57.430Z'
 finalUrl: 'https://mdk.ua/'
 reachable: true

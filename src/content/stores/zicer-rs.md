@@ -1,10 +1,10 @@
 ---
 domain: zicer.rs
 slug: zicer-rs
-title: Is zicer.rs Legit? Trust Signal Check
+title: Is zicer.rs Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for zicer.rs: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zicer.rs scores 74/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:39:18.833Z'
 finalUrl: 'https://zicer.rs/'
 reachable: true

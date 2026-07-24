@@ -1,10 +1,10 @@
 ---
 domain: iodpa.org
 slug: iodpa-org
-title: Is iodpa.org Legit? Trust Signal Check
+title: Is iodpa.org Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for iodpa.org: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  iodpa.org scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:16:19.656Z'
 finalUrl: 'https://iodpa.org/'
 reachable: true

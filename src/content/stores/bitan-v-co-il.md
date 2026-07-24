@@ -1,10 +1,11 @@
 ---
 domain: bitan-v.co.il
 slug: bitan-v-co-il
-title: Is bitan-v.co.il Legit? Trust Signal Check
+title: Is bitan-v.co.il Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bitan-v.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bitan-v.co.il scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:20:23.265Z'
 finalUrl: 'https://bitan-v.co.il/'
 reachable: true

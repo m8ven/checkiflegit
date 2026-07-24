@@ -1,10 +1,10 @@
 ---
 domain: tanzuskincare.com
 slug: tanzuskincare-com
-title: Is tanzuskincare.com Legit? Trust Signal Check
+title: Is tanzuskincare.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for tanzuskincare.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tanzuskincare.com scores 82/100 on our public trust checks. Established domain
+  — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:07.117Z'
 finalUrl: 'https://tanzuskincare.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: newsole.ch
 slug: newsole-ch
-title: Is newsole.ch Legit? Trust Signal Check
+title: Is newsole.ch Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for newsole.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  newsole.ch scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:15:17.526Z'
 finalUrl: 'https://newsole.ch/'
 reachable: true

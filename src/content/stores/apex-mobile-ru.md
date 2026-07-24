@@ -1,10 +1,10 @@
 ---
 domain: apex-mobile.ru
 slug: apex-mobile-ru
-title: Is apex-mobile.ru Legit? Trust Signal Check
+title: Is apex-mobile.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for apex-mobile.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  apex-mobile.ru scores 85/100 on our public trust checks. Established domain —
+  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:21.668Z'
 finalUrl: 'https://apex-mobile.ru/'
 reachable: true

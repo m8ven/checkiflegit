@@ -1,10 +1,10 @@
 ---
 domain: yhlgroup.com.my
 slug: yhlgroup-com-my
-title: Is yhlgroup.com.my Legit? Trust Signal Check
+title: Is yhlgroup.com.my Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for yhlgroup.com.my: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  yhlgroup.com.my scores 88/100 on our public trust checks. Established domain —
+  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:49:47.885Z'
 finalUrl: 'https://yhlgroup.com.my/'
 reachable: true

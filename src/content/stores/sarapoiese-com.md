@@ -1,10 +1,10 @@
 ---
 domain: sarapoiese.com
 slug: sarapoiese-com
-title: Is sarapoiese.com Legit? Trust Signal Check
+title: Is sarapoiese.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sarapoiese.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sarapoiese.com scores 88/100 on our public trust checks. Established domain —
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:53.835Z'
 finalUrl: 'https://sarapoiese.com/'
 reachable: true

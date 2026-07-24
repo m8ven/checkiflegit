@@ -1,10 +1,10 @@
 ---
 domain: drechslerei-meister.at
 slug: drechslerei-meister-at
-title: Is drechslerei-meister.at Legit? Trust Signal Check
+title: Is drechslerei-meister.at Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for drechslerei-meister.at: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  drechslerei-meister.at scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:52.242Z'
 finalUrl: 'https://drechslerei-meister.at/'
 reachable: true

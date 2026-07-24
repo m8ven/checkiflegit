@@ -1,10 +1,10 @@
 ---
 domain: littlesicily2.co.uk
 slug: littlesicily2-co-uk
-title: Is littlesicily2.co.uk Legit? Trust Signal Check
+title: Is littlesicily2.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for littlesicily2.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  littlesicily2.co.uk scores 73/100 on our public trust checks. Established
+  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:07.716Z'
 finalUrl: 'https://littlesicily2.co.uk/'
 reachable: true

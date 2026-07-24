@@ -1,10 +1,10 @@
 ---
 domain: m-a-c-egypt.com
 slug: m-a-c-egypt-com
-title: Is m-a-c-egypt.com Legit? Trust Signal Check
+title: Is m-a-c-egypt.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for m-a-c-egypt.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  m-a-c-egypt.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:21:55.483Z'
 finalUrl: 'https://www.m-a-c-egypt.com/'
 reachable: true

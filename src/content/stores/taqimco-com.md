@@ -1,10 +1,10 @@
 ---
 domain: taqimco.com
 slug: taqimco-com
-title: Is taqimco.com Legit? Trust Signal Check
+title: Is taqimco.com Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for taqimco.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  taqimco.com scores 31/100 on our public trust checks. Domain registered very
+  recently (78 days ago).
 fetchedAt: '2026-06-25T12:04:24.833Z'
 finalUrl: 'https://taqimco.com/'
 reachable: true

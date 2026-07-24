@@ -1,10 +1,10 @@
 ---
 domain: shrinetheme.com
 slug: shrinetheme-com
-title: Is shrinetheme.com Legit? Trust Signal Check
+title: Is shrinetheme.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for shrinetheme.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shrinetheme.com scores 70/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:03.326Z'
 finalUrl: 'https://shrine.io/'
 reachable: true

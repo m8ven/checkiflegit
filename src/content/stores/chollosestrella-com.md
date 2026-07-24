@@ -1,10 +1,10 @@
 ---
 domain: chollosestrella.com
 slug: chollosestrella-com
-title: Is chollosestrella.com Legit? Trust Signal Check
+title: Is chollosestrella.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for chollosestrella.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chollosestrella.com scores 73/100 on our public trust checks. Established
+  domain — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:10.185Z'
 finalUrl: 'https://chollosestrella.com/'
 reachable: true

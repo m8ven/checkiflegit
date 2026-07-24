@@ -1,10 +1,10 @@
 ---
 domain: producator-incaltaminte-moldoveanu.ro
 slug: producator-incaltaminte-moldoveanu-ro
-title: Is producator-incaltaminte-moldoveanu.ro Legit? Trust Signal Check
+title: Is producator-incaltaminte-moldoveanu.ro Legit? Score 88/100
 description: >-
-  An automated trust-signal check for producator-incaltaminte-moldoveanu.ro:
-  strong trust signals. Domain age, SSL, contact info, reviews and more.
+  producator-incaltaminte-moldoveanu.ro scores 88/100 on our public trust
+  checks. Established domain — registered 9 years ago.
 fetchedAt: '2026-06-25T12:31:16.924Z'
 finalUrl: 'https://producator-incaltaminte-moldoveanu.ro/'
 reachable: true

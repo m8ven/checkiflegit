@@ -1,10 +1,10 @@
 ---
 domain: newtechwood.de
 slug: newtechwood-de
-title: Is newtechwood.de Legit? Trust Signal Check
+title: Is newtechwood.de Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for newtechwood.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  newtechwood.de scores 66/100 on our public trust checks. HTTPS certificate
+  present but its trust chain is incomplete.
 fetchedAt: '2026-06-25T03:03:46.374Z'
 finalUrl: 'https://www.newtechwood.de/'
 reachable: true

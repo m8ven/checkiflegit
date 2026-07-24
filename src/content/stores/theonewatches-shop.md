@@ -1,10 +1,10 @@
 ---
 domain: theonewatches.shop
 slug: theonewatches-shop
-title: Is theonewatches.shop Legit? Trust Signal Check
+title: Is theonewatches.shop Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for theonewatches.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  theonewatches.shop scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:10:02.858Z'
 finalUrl: 'https://theonewatches.shop/'
 reachable: true

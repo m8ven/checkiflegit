@@ -1,10 +1,10 @@
 ---
 domain: luftkuss.at
 slug: luftkuss-at
-title: Is luftkuss.at Legit? Trust Signal Check
+title: Is luftkuss.at Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for luftkuss.at: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  luftkuss.at scores 61/100 on our public trust checks. No links to major social
+  platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:24:43.898Z'
 finalUrl: 'https://luftkuss.at/'
 reachable: true

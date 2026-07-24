@@ -1,10 +1,10 @@
 ---
 domain: killroy-media.de
 slug: killroy-media-de
-title: Is killroy-media.de Legit? Trust Signal Check
+title: Is killroy-media.de Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for killroy-media.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  killroy-media.de scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:20:54.751Z'
 finalUrl: 'https://www.killroy-media.de/'
 reachable: true

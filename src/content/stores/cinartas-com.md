@@ -1,10 +1,10 @@
 ---
 domain: cinartas.com
 slug: cinartas-com
-title: Is cinartas.com Legit? Trust Signal Check
+title: Is cinartas.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for cinartas.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cinartas.com scores 73/100 on our public trust checks. Established domain —
+  registered 23 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:09.917Z'
 finalUrl: 'https://cinartas.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: de.ulasistanbul.com
 slug: de-ulasistanbul-com
-title: Is de.ulasistanbul.com Legit? Trust Signal Check
+title: Is de.ulasistanbul.com Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for de.ulasistanbul.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  de.ulasistanbul.com scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:41:14.925Z'
 finalUrl: 'https://de.ulasistanbul.com/'
 reachable: true

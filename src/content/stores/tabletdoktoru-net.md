@@ -1,10 +1,10 @@
 ---
 domain: tabletdoktoru.net
 slug: tabletdoktoru-net
-title: Is tabletdoktoru.net Legit? Trust Signal Check
+title: Is tabletdoktoru.net Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for tabletdoktoru.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tabletdoktoru.net scores 49/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:22:44.522Z'
 finalUrl: 'http://www.tabletdoktoru.net/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kkgroup-lao.com
 slug: kkgroup-lao-com
-title: Is kkgroup-lao.com Legit? Trust Signal Check
+title: Is kkgroup-lao.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for kkgroup-lao.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kkgroup-lao.com scores 76/100 on our public trust checks. Established domain —
+  registered 2.1 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:16:56.272Z'
 finalUrl: 'http://kkgroup-lao.com/'
 reachable: true

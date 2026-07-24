@@ -1,10 +1,10 @@
 ---
 domain: tshcollection.com
 slug: tshcollection-com
-title: Is tshcollection.com Legit? Trust Signal Check
+title: Is tshcollection.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for tshcollection.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tshcollection.com scores 85/100 on our public trust checks. Established domain
+  — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:59.231Z'
 finalUrl: 'https://tshcollection.com/'
 reachable: true

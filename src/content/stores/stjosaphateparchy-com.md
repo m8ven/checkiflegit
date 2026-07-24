@@ -1,10 +1,10 @@
 ---
 domain: stjosaphateparchy.com
 slug: stjosaphateparchy-com
-title: Is stjosaphateparchy.com Legit? Trust Signal Check
+title: Is stjosaphateparchy.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for stjosaphateparchy.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  stjosaphateparchy.com scores 88/100 on our public trust checks. Established
+  domain — registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:21.147Z'
 finalUrl: 'https://stjosaphateparchy.com/'
 reachable: true

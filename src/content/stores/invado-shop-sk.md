@@ -1,10 +1,10 @@
 ---
 domain: invado-shop.sk
 slug: invado-shop-sk
-title: Is invado-shop.sk Legit? Trust Signal Check
+title: Is invado-shop.sk Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for invado-shop.sk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  invado-shop.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:01:30.698Z'
 finalUrl: 'https://invado-shop.sk/'
 reachable: true

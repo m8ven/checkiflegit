@@ -1,10 +1,10 @@
 ---
 domain: suite54.it
 slug: suite54-it
-title: Is suite54.it Legit? Trust Signal Check
+title: Is suite54.it Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for suite54.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  suite54.it scores 100/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:04.626Z'
 finalUrl: 'https://www.suite54.it/'
 reachable: true

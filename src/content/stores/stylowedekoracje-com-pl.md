@@ -1,10 +1,10 @@
 ---
 domain: stylowedekoracje.com.pl
 slug: stylowedekoracje-com-pl
-title: Is stylowedekoracje.com.pl Legit? Trust Signal Check
+title: Is stylowedekoracje.com.pl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for stylowedekoracje.com.pl: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  stylowedekoracje.com.pl scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:52:39.544Z'
 finalUrl: 'https://stylowedekoracje.com.pl/'
 reachable: true

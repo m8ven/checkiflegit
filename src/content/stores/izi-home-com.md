@@ -1,10 +1,10 @@
 ---
 domain: izi-home.com
 slug: izi-home-com
-title: Is izi-home.com Legit? Trust Signal Check
+title: Is izi-home.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for izi-home.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  izi-home.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T12:24:55.978Z'
 finalUrl: 'https://www.izi-home.com/'
 reachable: true

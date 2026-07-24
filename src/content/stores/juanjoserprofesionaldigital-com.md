@@ -1,10 +1,10 @@
 ---
 domain: juanjoserprofesionaldigital.com
 slug: juanjoserprofesionaldigital-com
-title: Is juanjoserprofesionaldigital.com Legit? Trust Signal Check
+title: Is juanjoserprofesionaldigital.com Legit? Score 100/100
 description: >-
-  An automated trust-signal check for juanjoserprofesionaldigital.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  juanjoserprofesionaldigital.com scores 100/100 on our public trust checks.
+  Established domain — registered 4.6 years ago.
 fetchedAt: '2026-06-25T15:17:10.825Z'
 finalUrl: 'https://juanjoserprofesionaldigital.com/'
 reachable: true

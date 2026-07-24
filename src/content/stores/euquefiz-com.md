@@ -1,10 +1,10 @@
 ---
 domain: euquefiz.com
 slug: euquefiz-com
-title: Is euquefiz.com Legit? Trust Signal Check
+title: Is euquefiz.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for euquefiz.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  euquefiz.com scores 70/100 on our public trust checks. Established domain —
+  registered 20.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:49.141Z'
 finalUrl: 'https://euquefiz.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: almacenesespana.es
 slug: almacenesespana-es
-title: Is almacenesespana.es Legit? Trust Signal Check
+title: Is almacenesespana.es Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for almacenesespana.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  almacenesespana.es scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:34:58.967Z'
 finalUrl: 'https://almacenesespana.es/'
 reachable: true

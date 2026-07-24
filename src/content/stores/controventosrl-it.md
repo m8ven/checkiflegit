@@ -1,10 +1,10 @@
 ---
 domain: controventosrl.it
 slug: controventosrl-it
-title: Is controventosrl.it Legit? Trust Signal Check
+title: Is controventosrl.it Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for controventosrl.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  controventosrl.it scores 94/100 on our public trust checks. Established domain
+  — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:20.317Z'
 finalUrl: 'https://www.controventosrl.it/'
 reachable: true

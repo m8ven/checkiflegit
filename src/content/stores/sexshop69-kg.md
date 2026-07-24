@@ -1,10 +1,10 @@
 ---
 domain: sexshop69.kg
 slug: sexshop69-kg
-title: Is sexshop69.kg Legit? Trust Signal Check
+title: Is sexshop69.kg Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for sexshop69.kg: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sexshop69.kg scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:50:54.100Z'
 finalUrl: 'https://sexshop69.kg/'
 reachable: true

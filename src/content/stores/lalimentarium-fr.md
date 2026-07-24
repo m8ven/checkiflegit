@@ -1,10 +1,10 @@
 ---
 domain: lalimentarium.fr
 slug: lalimentarium-fr
-title: Is lalimentarium.fr Legit? Trust Signal Check
+title: Is lalimentarium.fr Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for lalimentarium.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lalimentarium.fr scores 82/100 on our public trust checks. Established domain
+  — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:46.775Z'
 finalUrl: 'https://lalimentarium.fr/'
 reachable: true

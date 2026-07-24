@@ -1,10 +1,10 @@
 ---
 domain: softy.lt
 slug: softy-lt
-title: Is softy.lt Legit? Trust Signal Check
+title: Is softy.lt Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for softy.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  softy.lt scores 94/100 on our public trust checks. Established domain —
+  registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:11:44.267Z'
 finalUrl: 'https://softy.lt/'
 reachable: true

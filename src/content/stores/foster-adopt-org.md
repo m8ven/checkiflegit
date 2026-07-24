@@ -1,10 +1,10 @@
 ---
 domain: foster-adopt.org
 slug: foster-adopt-org
-title: Is foster-adopt.org Legit? Trust Signal Check
+title: Is foster-adopt.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for foster-adopt.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  foster-adopt.org scores 88/100 on our public trust checks. Established domain
+  — registered 25.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:12.627Z'
 finalUrl: 'https://www.foster-adopt.org/'
 reachable: true

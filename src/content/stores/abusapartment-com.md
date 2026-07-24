@@ -1,10 +1,10 @@
 ---
 domain: abusapartment.com
 slug: abusapartment-com
-title: Is abusapartment.com Legit? Trust Signal Check
+title: Is abusapartment.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for abusapartment.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  abusapartment.com scores 70/100 on our public trust checks. Established domain
+  — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:17:07.019Z'
 finalUrl: 'https://abusapartment.com/'
 reachable: true

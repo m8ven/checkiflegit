@@ -1,10 +1,10 @@
 ---
 domain: asl-lavardens.fr
 slug: asl-lavardens-fr
-title: Is asl-lavardens.fr Legit? Trust Signal Check
+title: Is asl-lavardens.fr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for asl-lavardens.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  asl-lavardens.fr scores 73/100 on our public trust checks. Established domain
+  — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:55.900Z'
 finalUrl: 'https://asl-lavardens.fr/'
 reachable: true

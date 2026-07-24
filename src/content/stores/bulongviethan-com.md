@@ -1,10 +1,10 @@
 ---
 domain: bulongviethan.com
 slug: bulongviethan-com
-title: Is bulongviethan.com Legit? Trust Signal Check
+title: Is bulongviethan.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for bulongviethan.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bulongviethan.com scores 70/100 on our public trust checks. Established domain
+  — registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:57:53.534Z'
 finalUrl: 'https://bulongviethan.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: shop.legionmagazine.com
 slug: shop-legionmagazine-com
-title: Is shop.legionmagazine.com Legit? Trust Signal Check
+title: Is shop.legionmagazine.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for shop.legionmagazine.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.legionmagazine.com scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:03.514Z'
 finalUrl: 'https://shop.legionmagazine.com/'
 reachable: true

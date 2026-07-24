@@ -1,10 +1,10 @@
 ---
 domain: alafpolak.com
 slug: alafpolak-com
-title: Is alafpolak.com Legit? Trust Signal Check
+title: Is alafpolak.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for alafpolak.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alafpolak.com scores 88/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:34.891Z'
 finalUrl: 'https://alafpolak.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: acepowerproducts.us
 slug: acepowerproducts-us
-title: Is acepowerproducts.us Legit? Trust Signal Check
+title: Is acepowerproducts.us Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for acepowerproducts.us: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  acepowerproducts.us scores 100/100 on our public trust checks. Established
+  domain — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:11.199Z'
 finalUrl: 'https://acepowerparts.com/'
 reachable: true

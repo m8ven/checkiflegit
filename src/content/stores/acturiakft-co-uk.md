@@ -1,10 +1,10 @@
 ---
 domain: acturiakft.co.uk
 slug: acturiakft-co-uk
-title: Is acturiakft.co.uk Legit? Trust Signal Check
+title: Is acturiakft.co.uk Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for acturiakft.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  acturiakft.co.uk scores 76/100 on our public trust checks. Established domain
+  — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:06.774Z'
 finalUrl: 'https://acturiakft.co.uk/'
 reachable: true

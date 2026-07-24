@@ -1,10 +1,10 @@
 ---
 domain: shophoahuongvien.com
 slug: shophoahuongvien-com
-title: Is shophoahuongvien.com Legit? Trust Signal Check
+title: Is shophoahuongvien.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for shophoahuongvien.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shophoahuongvien.com scores 64/100 on our public trust checks. Standard
+  contact and policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:10:38.951Z'
 finalUrl: 'https://shophoahuongvien.com/'
 reachable: true

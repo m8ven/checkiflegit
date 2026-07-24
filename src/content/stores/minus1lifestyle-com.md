@@ -1,10 +1,10 @@
 ---
 domain: minus1lifestyle.com
 slug: minus1lifestyle-com
-title: Is minus1lifestyle.com Legit? Trust Signal Check
+title: Is minus1lifestyle.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for minus1lifestyle.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  minus1lifestyle.com scores 70/100 on our public trust checks. Established
+  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:51.713Z'
 finalUrl: 'https://minus1lifestyle.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gulmekiyilestirir.org.tr
 slug: gulmekiyilestirir-org-tr
-title: Is gulmekiyilestirir.org.tr Legit? Trust Signal Check
+title: Is gulmekiyilestirir.org.tr Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for gulmekiyilestirir.org.tr: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  gulmekiyilestirir.org.tr scores 57/100 on our public trust checks. Standard
+  contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:26.369Z'
 finalUrl: 'https://gulmekiyilestirir.org.tr/'
 reachable: true

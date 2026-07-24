@@ -1,10 +1,10 @@
 ---
 domain: dorakadapaliya.lk
 slug: dorakadapaliya-lk
-title: Is dorakadapaliya.lk Legit? Trust Signal Check
+title: Is dorakadapaliya.lk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for dorakadapaliya.lk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dorakadapaliya.lk scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:00:34.021Z'
 finalUrl: 'https://www.dorakadapaliya.lk/'
 reachable: true

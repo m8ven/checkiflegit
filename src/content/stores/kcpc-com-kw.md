@@ -1,10 +1,10 @@
 ---
 domain: kcpc.com.kw
 slug: kcpc-com-kw
-title: Is kcpc.com.kw Legit? Trust Signal Check
+title: Is kcpc.com.kw Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kcpc.com.kw: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kcpc.com.kw scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:31:15.798Z'
 finalUrl: 'https://kcpc.com.kw/'
 reachable: true

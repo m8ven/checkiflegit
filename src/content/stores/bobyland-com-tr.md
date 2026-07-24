@@ -1,10 +1,10 @@
 ---
 domain: bobyland.com.tr
 slug: bobyland-com-tr
-title: Is bobyland.com.tr Legit? Trust Signal Check
+title: Is bobyland.com.tr Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bobyland.com.tr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bobyland.com.tr scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:27.565Z'
 finalUrl: 'https://www.bobyland.com.tr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: toldoshop.com.ar
 slug: toldoshop-com-ar
-title: Is toldoshop.com.ar Legit? Trust Signal Check
+title: Is toldoshop.com.ar Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for toldoshop.com.ar: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  toldoshop.com.ar scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:24:43.073Z'
 finalUrl: 'https://toldoshop.com.ar/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dream-chasers.de
 slug: dream-chasers-de
-title: Is dream-chasers.de Legit? Trust Signal Check
+title: Is dream-chasers.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for dream-chasers.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dream-chasers.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:27:01.975Z'
 finalUrl: 'https://dream-chasers.de/'
 reachable: true

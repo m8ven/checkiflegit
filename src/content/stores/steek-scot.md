@@ -1,10 +1,10 @@
 ---
 domain: steek.scot
 slug: steek-scot
-title: Is steek.scot Legit? Trust Signal Check
+title: Is steek.scot Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for steek.scot: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  steek.scot scores 70/100 on our public trust checks. Established domain —
+  registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:03.444Z'
 finalUrl: 'https://www.steek.scot/'
 reachable: true

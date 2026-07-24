@@ -1,10 +1,10 @@
 ---
 domain: creditboost-usa.com
 slug: creditboost-usa-com
-title: Is creditboost-usa.com Legit? Trust Signal Check
+title: Is creditboost-usa.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for creditboost-usa.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  creditboost-usa.com scores 88/100 on our public trust checks. Established
+  domain — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:40:21.595Z'
 finalUrl: 'https://creditboost-usa.com/'
 reachable: true

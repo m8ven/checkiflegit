@@ -1,10 +1,10 @@
 ---
 domain: artdecocanvas.com
 slug: artdecocanvas-com
-title: Is artdecocanvas.com Legit? Trust Signal Check
+title: Is artdecocanvas.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for artdecocanvas.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  artdecocanvas.com scores 88/100 on our public trust checks. Established domain
+  — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:37.270Z'
 finalUrl: 'https://artdecocanvas.com/'
 reachable: true

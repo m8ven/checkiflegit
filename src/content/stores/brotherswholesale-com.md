@@ -1,10 +1,10 @@
 ---
 domain: brotherswholesale.com
 slug: brotherswholesale-com
-title: Is brotherswholesale.com Legit? Trust Signal Check
+title: Is brotherswholesale.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for brotherswholesale.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  brotherswholesale.com scores 88/100 on our public trust checks. Established
+  domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:38.960Z'
 finalUrl: 'https://brotherswholesale.com/'
 reachable: true

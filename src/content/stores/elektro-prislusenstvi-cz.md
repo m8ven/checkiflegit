@@ -1,11 +1,11 @@
 ---
 domain: elektro-prislusenstvi.cz
 slug: elektro-prislusenstvi-cz
-title: Is elektro-prislusenstvi.cz Legit? Trust Signal Check
+title: Is elektro-prislusenstvi.cz Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for elektro-prislusenstvi.cz: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  elektro-prislusenstvi.cz scores 19/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:18:02.435Z'
 finalUrl: 'https://www.elektro-prislusenstvi.cz/'
 reachable: true

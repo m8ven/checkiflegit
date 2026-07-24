@@ -1,10 +1,10 @@
 ---
 domain: arenasport.com
 slug: arenasport-com
-title: Is arenasport.com Legit? Trust Signal Check
+title: Is arenasport.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for arenasport.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arenasport.com scores 100/100 on our public trust checks. Established domain —
+  registered 27.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:29.365Z'
 finalUrl: 'https://www.arenasport.com/en_us/'
 reachable: true

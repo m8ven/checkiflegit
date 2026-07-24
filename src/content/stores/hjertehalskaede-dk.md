@@ -1,10 +1,10 @@
 ---
 domain: hjertehalskaede.dk
 slug: hjertehalskaede-dk
-title: Is hjertehalskaede.dk Legit? Trust Signal Check
+title: Is hjertehalskaede.dk Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for hjertehalskaede.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hjertehalskaede.dk scores 70/100 on our public trust checks. Established
+  domain — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:05.170Z'
 finalUrl: 'https://hjertehalskaede.dk/'
 reachable: true

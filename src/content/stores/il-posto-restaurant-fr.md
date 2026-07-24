@@ -1,10 +1,10 @@
 ---
 domain: il-posto-restaurant.fr
 slug: il-posto-restaurant-fr
-title: Is il-posto-restaurant.fr Legit? Trust Signal Check
+title: Is il-posto-restaurant.fr Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for il-posto-restaurant.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  il-posto-restaurant.fr scores 94/100 on our public trust checks. Established
+  domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:30.871Z'
 finalUrl: 'https://www.il-posto-restaurant.fr/'
 reachable: true

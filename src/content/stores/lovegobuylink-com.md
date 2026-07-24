@@ -1,10 +1,10 @@
 ---
 domain: lovegobuylink.com
 slug: lovegobuylink-com
-title: Is lovegobuylink.com Legit? Trust Signal Check
+title: Is lovegobuylink.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for lovegobuylink.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lovegobuylink.com scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage. Domain is relatively young.
 fetchedAt: '2026-06-25T14:56:29.772Z'
 finalUrl: 'https://lovegobuylink.com/'
 reachable: true

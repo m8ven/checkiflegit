@@ -1,10 +1,10 @@
 ---
 domain: diverescueintl.com
 slug: diverescueintl-com
-title: Is diverescueintl.com Legit? Trust Signal Check
+title: Is diverescueintl.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for diverescueintl.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  diverescueintl.com scores 88/100 on our public trust checks. Established
+  domain — registered 29.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:38.631Z'
 finalUrl: 'https://diverescueintl.com/'
 reachable: true

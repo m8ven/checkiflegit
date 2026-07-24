@@ -1,10 +1,10 @@
 ---
 domain: copamaindustrial.com.pa
 slug: copamaindustrial-com-pa
-title: Is copamaindustrial.com.pa Legit? Trust Signal Check
+title: Is copamaindustrial.com.pa Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for copamaindustrial.com.pa: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  copamaindustrial.com.pa scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:29:46.210Z'
 finalUrl: 'https://copamaindustrial.com.pa/'
 reachable: true

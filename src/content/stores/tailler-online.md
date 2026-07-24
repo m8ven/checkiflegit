@@ -1,10 +1,10 @@
 ---
 domain: tailler.online
 slug: tailler-online
-title: Is tailler.online Legit? Trust Signal Check
+title: Is tailler.online Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for tailler.online: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tailler.online scores 70/100 on our public trust checks. Established domain —
+  registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:09.496Z'
 finalUrl: 'https://tailler.online/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: abc.cl
 slug: abc-cl
-title: Is abc.cl Legit? Trust Signal Check
+title: Is abc.cl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for abc.cl: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  abc.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-24T21:44:43.321Z'
 finalUrl: 'https://www.abc.cl/'
 reachable: true

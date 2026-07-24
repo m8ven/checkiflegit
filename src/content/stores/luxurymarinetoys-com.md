@@ -1,10 +1,10 @@
 ---
 domain: luxurymarinetoys.com
 slug: luxurymarinetoys-com
-title: Is luxurymarinetoys.com Legit? Trust Signal Check
+title: Is luxurymarinetoys.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for luxurymarinetoys.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  luxurymarinetoys.com scores 100/100 on our public trust checks. Established
+  domain — registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:57.193Z'
 finalUrl: 'https://luxurymarinetoys.com/'
 reachable: true

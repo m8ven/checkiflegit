@@ -1,10 +1,10 @@
 ---
 domain: dantagmbh10.com
 slug: dantagmbh10-com
-title: Is dantagmbh10.com Legit? Trust Signal Check
+title: Is dantagmbh10.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for dantagmbh10.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dantagmbh10.com scores 73/100 on our public trust checks. Established domain —
+  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:03.245Z'
 finalUrl: 'https://dantagmbh10.com/'
 reachable: true

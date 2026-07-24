@@ -1,10 +1,10 @@
 ---
 domain: lumumba-awards.com
 slug: lumumba-awards-com
-title: Is lumumba-awards.com Legit? Trust Signal Check
+title: Is lumumba-awards.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lumumba-awards.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lumumba-awards.com scores 88/100 on our public trust checks. Established
+  domain — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:24:47.693Z'
 finalUrl: 'https://lumumba-awards.com/'
 reachable: true

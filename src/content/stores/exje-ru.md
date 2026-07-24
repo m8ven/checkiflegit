@@ -1,10 +1,10 @@
 ---
 domain: exje.ru
 slug: exje-ru
-title: Is exje.ru Legit? Trust Signal Check
+title: Is exje.ru Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for exje.ru: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  exje.ru scores 82/100 on our public trust checks. Established domain —
+  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:37.033Z'
 finalUrl: 'https://www.exje.ru/'
 reachable: true

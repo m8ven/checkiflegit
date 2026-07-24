@@ -1,10 +1,11 @@
 ---
 domain: thegiftedstationeryco.com
 slug: thegiftedstationeryco-com
-title: Is thegiftedstationeryco.com Legit? Trust Signal Check
+title: Is thegiftedstationeryco.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for thegiftedstationeryco.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thegiftedstationeryco.com scores 82/100 on our public trust checks.
+  Established domain — registered 18.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:35:53.329Z'
 finalUrl: 'https://www.thegiftedstationeryco.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: projectmachinery.co.uk
 slug: projectmachinery-co-uk
-title: Is projectmachinery.co.uk Legit? Trust Signal Check
+title: Is projectmachinery.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for projectmachinery.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  projectmachinery.co.uk scores 73/100 on our public trust checks. Established
+  domain — registered 23.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:00.775Z'
 finalUrl: 'https://www.projectmachinery.co.uk/'
 reachable: true

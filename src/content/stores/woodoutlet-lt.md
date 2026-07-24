@@ -1,10 +1,10 @@
 ---
 domain: woodoutlet.lt
 slug: woodoutlet-lt
-title: Is woodoutlet.lt Legit? Trust Signal Check
+title: Is woodoutlet.lt Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for woodoutlet.lt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  woodoutlet.lt scores 76/100 on our public trust checks. Established domain —
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:22:01.015Z'
 finalUrl: 'https://woodoutlet.lt/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: arbeidsfolk.no
 slug: arbeidsfolk-no
-title: Is arbeidsfolk.no Legit? Trust Signal Check
+title: Is arbeidsfolk.no Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for arbeidsfolk.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arbeidsfolk.no scores 88/100 on our public trust checks. Established domain —
+  registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:32.484Z'
 finalUrl: 'https://arbeidsfolk.no/'
 reachable: true

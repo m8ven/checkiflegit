@@ -1,10 +1,10 @@
 ---
 domain: primaveradavida.com
 slug: primaveradavida-com
-title: Is primaveradavida.com Legit? Trust Signal Check
+title: Is primaveradavida.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for primaveradavida.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  primaveradavida.com scores 70/100 on our public trust checks. Established
+  domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:55.501Z'
 finalUrl: 'https://www.primaveradavida.com/'
 reachable: true

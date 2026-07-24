@@ -1,10 +1,10 @@
 ---
 domain: mehdizenhari.com
 slug: mehdizenhari-com
-title: Is mehdizenhari.com Legit? Trust Signal Check
+title: Is mehdizenhari.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for mehdizenhari.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mehdizenhari.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:53:31.862Z'
 finalUrl: 'https://mehdizenhari.com/'
 reachable: true

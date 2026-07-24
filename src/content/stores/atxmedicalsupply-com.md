@@ -1,10 +1,10 @@
 ---
 domain: atxmedicalsupply.com
 slug: atxmedicalsupply-com
-title: Is atxmedicalsupply.com Legit? Trust Signal Check
+title: Is atxmedicalsupply.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for atxmedicalsupply.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  atxmedicalsupply.com scores 100/100 on our public trust checks. Established
+  domain — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:11.803Z'
 finalUrl: 'https://atxmedicalsupply.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: shop.psa.org.au
 slug: shop-psa-org-au
-title: Is shop.psa.org.au Legit? Trust Signal Check
+title: Is shop.psa.org.au Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for shop.psa.org.au: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.psa.org.au scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:36:01.587Z'
 finalUrl: 'https://shop.psa.org.au/'
 reachable: true

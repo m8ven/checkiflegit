@@ -1,10 +1,10 @@
 ---
 domain: holdfastaust.com.au
 slug: holdfastaust-com-au
-title: Is holdfastaust.com.au Legit? Trust Signal Check
+title: Is holdfastaust.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for holdfastaust.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  holdfastaust.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:30:05.885Z'
 finalUrl: 'https://holdfastaust.com.au/'
 reachable: true

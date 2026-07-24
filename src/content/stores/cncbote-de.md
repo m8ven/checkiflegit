@@ -1,10 +1,10 @@
 ---
 domain: cncbote.de
 slug: cncbote-de
-title: Is cncbote.de Legit? Trust Signal Check
+title: Is cncbote.de Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cncbote.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cncbote.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:03:01.116Z'
 finalUrl: 'https://cncbote.de/'
 reachable: true

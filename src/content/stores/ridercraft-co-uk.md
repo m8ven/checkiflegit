@@ -1,10 +1,10 @@
 ---
 domain: ridercraft.co.uk
 slug: ridercraft-co-uk
-title: Is ridercraft.co.uk Legit? Trust Signal Check
+title: Is ridercraft.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for ridercraft.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ridercraft.co.uk scores 73/100 on our public trust checks. Established domain
+  — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:26.572Z'
 finalUrl: 'https://ridercraft.co.uk/'
 reachable: true

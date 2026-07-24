@@ -1,10 +1,10 @@
 ---
 domain: blainestoner.com
 slug: blainestoner-com
-title: Is blainestoner.com Legit? Trust Signal Check
+title: Is blainestoner.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for blainestoner.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blainestoner.com scores 100/100 on our public trust checks. Established domain
+  — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:10.552Z'
 finalUrl: 'https://blainestoner.com/'
 reachable: true

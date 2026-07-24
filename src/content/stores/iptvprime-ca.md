@@ -1,10 +1,10 @@
 ---
 domain: iptvprime.ca
 slug: iptvprime-ca
-title: Is iptvprime.ca Legit? Trust Signal Check
+title: Is iptvprime.ca Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for iptvprime.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  iptvprime.ca scores 85/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:06.554Z'
 finalUrl: 'https://iptvprime.ca/'
 reachable: true

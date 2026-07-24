@@ -1,10 +1,10 @@
 ---
 domain: orboekengids.nl
 slug: orboekengids-nl
-title: Is orboekengids.nl Legit? Trust Signal Check
+title: Is orboekengids.nl Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for orboekengids.nl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  orboekengids.nl scores 25/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:42:37.258Z'
 finalUrl: 'https://orboekengids.nl/'
 reachable: true

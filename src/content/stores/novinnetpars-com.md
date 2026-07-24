@@ -1,10 +1,10 @@
 ---
 domain: novinnetpars.com
 slug: novinnetpars-com
-title: Is novinnetpars.com Legit? Trust Signal Check
+title: Is novinnetpars.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for novinnetpars.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  novinnetpars.com scores 82/100 on our public trust checks. Established domain
+  — registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:10.681Z'
 finalUrl: 'https://novinnetpars.com/'
 reachable: true

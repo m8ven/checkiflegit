@@ -1,10 +1,10 @@
 ---
 domain: konstkapellet.se
 slug: konstkapellet-se
-title: Is konstkapellet.se Legit? Trust Signal Check
+title: Is konstkapellet.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for konstkapellet.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  konstkapellet.se scores 88/100 on our public trust checks. Established domain
+  — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:04.070Z'
 finalUrl: 'https://konstkapellet.se/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: poesia.fi
 slug: poesia-fi
-title: Is poesia.fi Legit? Trust Signal Check
+title: Is poesia.fi Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for poesia.fi: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  poesia.fi scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:27:42.674Z'
 finalUrl: 'https://poesia.fi/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: keepkindheart.top
 slug: keepkindheart-top
-title: Is keepkindheart.top Legit? Trust Signal Check
+title: Is keepkindheart.top Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for keepkindheart.top: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  keepkindheart.top scores 85/100 on our public trust checks. Established domain
+  — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:37.746Z'
 finalUrl: 'https://keepkindheart.top/'
 reachable: true

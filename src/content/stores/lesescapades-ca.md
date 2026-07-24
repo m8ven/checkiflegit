@@ -1,10 +1,10 @@
 ---
 domain: lesescapades.ca
 slug: lesescapades-ca
-title: Is lesescapades.ca Legit? Trust Signal Check
+title: Is lesescapades.ca Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lesescapades.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lesescapades.ca scores 88/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:34:14.094Z'
 finalUrl: 'https://lesescapades.ca/'
 reachable: true

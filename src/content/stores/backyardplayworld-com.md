@@ -1,10 +1,10 @@
 ---
 domain: backyardplayworld.com
 slug: backyardplayworld-com
-title: Is backyardplayworld.com Legit? Trust Signal Check
+title: Is backyardplayworld.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for backyardplayworld.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  backyardplayworld.com scores 88/100 on our public trust checks. Established
+  domain — registered 16.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:02.294Z'
 finalUrl: 'https://www.backyardplayworld.com/'
 reachable: true

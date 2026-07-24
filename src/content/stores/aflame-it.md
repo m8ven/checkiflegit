@@ -1,10 +1,10 @@
 ---
 domain: aflame.it
 slug: aflame-it
-title: Is aflame.it Legit? Trust Signal Check
+title: Is aflame.it Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for aflame.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aflame.it scores 94/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:31.661Z'
 finalUrl: 'https://aflame.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sanatrooz.ir
 slug: sanatrooz-ir
-title: Is sanatrooz.ir Legit? Trust Signal Check
+title: Is sanatrooz.ir Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for sanatrooz.ir: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sanatrooz.ir scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:01:26.222Z'
 finalUrl: 'https://sanatrooz.ir/'
 reachable: true

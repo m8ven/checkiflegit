@@ -1,10 +1,10 @@
 ---
 domain: drtomdreyer.com
 slug: drtomdreyer-com
-title: Is drtomdreyer.com Legit? Trust Signal Check
+title: Is drtomdreyer.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for drtomdreyer.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  drtomdreyer.com scores 100/100 on our public trust checks. Established domain
+  — registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:25:54.425Z'
 finalUrl: 'https://drtomdreyer.com/'
 reachable: true

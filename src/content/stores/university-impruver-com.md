@@ -1,10 +1,10 @@
 ---
 domain: university.impruver.com
 slug: university-impruver-com
-title: Is university.impruver.com Legit? Trust Signal Check
+title: Is university.impruver.com Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for university.impruver.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  university.impruver.com scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:27.444Z'
 finalUrl: 'https://university.impruver.com/'
 reachable: true

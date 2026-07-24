@@ -1,10 +1,10 @@
 ---
 domain: temperosedoces.com.br
 slug: temperosedoces-com-br
-title: Is temperosedoces.com.br Legit? Trust Signal Check
+title: Is temperosedoces.com.br Legit? Trust Score 46/100
 description: >-
-  An automated trust-signal check for temperosedoces.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  temperosedoces.com.br scores 46/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:18:58.369Z'
 finalUrl: 'https://temperosedoces.com.br/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: albertslund-cykler.dk
 slug: albertslund-cykler-dk
-title: Is albertslund-cykler.dk Legit? Trust Signal Check
+title: Is albertslund-cykler.dk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for albertslund-cykler.dk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  albertslund-cykler.dk scores 88/100 on our public trust checks. Established
+  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:05.690Z'
 finalUrl: 'https://albertslund-cykler.dk/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: mipro.es
 slug: mipro-es
-title: Is mipro.es Legit? Trust Signal Check
+title: Is mipro.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mipro.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mipro.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T03:54:44.586Z'
 finalUrl: 'https://mipro.es/'
 reachable: true

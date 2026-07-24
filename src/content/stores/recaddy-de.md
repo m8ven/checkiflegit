@@ -1,10 +1,10 @@
 ---
 domain: recaddy.de
 slug: recaddy-de
-title: Is recaddy.de Legit? Trust Signal Check
+title: Is recaddy.de Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for recaddy.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  recaddy.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:54:47.074Z'
 finalUrl: 'https://recaddy.de/'
 reachable: true

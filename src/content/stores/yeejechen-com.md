@@ -1,10 +1,10 @@
 ---
 domain: yeejechen.com
 slug: yeejechen-com
-title: Is yeejechen.com Legit? Trust Signal Check
+title: Is yeejechen.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for yeejechen.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  yeejechen.com scores 76/100 on our public trust checks. Established domain —
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:54.428Z'
 finalUrl: 'https://yeejechen.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: overcominghate.org
 slug: overcominghate-org
-title: Is overcominghate.org Legit? Trust Signal Check
+title: Is overcominghate.org Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for overcominghate.org: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  overcominghate.org scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:40:08.723Z'
 finalUrl: 'https://overcominghate.org/'
 reachable: true

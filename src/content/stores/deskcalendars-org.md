@@ -1,10 +1,10 @@
 ---
 domain: deskcalendars.org
 slug: deskcalendars-org
-title: Is deskcalendars.org Legit? Trust Signal Check
+title: Is deskcalendars.org Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for deskcalendars.org: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  deskcalendars.org scores 25/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T02:24:40.841Z'
 finalUrl: 'https://deskcalendars.org/'
 reachable: true

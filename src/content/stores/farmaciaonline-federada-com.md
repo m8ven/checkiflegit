@@ -1,10 +1,10 @@
 ---
 domain: farmaciaonline.federada.com
 slug: farmaciaonline-federada-com
-title: Is farmaciaonline.federada.com Legit? Trust Signal Check
+title: Is farmaciaonline.federada.com Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for farmaciaonline.federada.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  farmaciaonline.federada.com scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:46:15.649Z'
 finalUrl: 'https://farmaciaonline.federada.com/'
 reachable: true

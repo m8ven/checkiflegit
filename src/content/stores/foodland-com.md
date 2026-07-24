@@ -1,10 +1,10 @@
 ---
 domain: foodland.com
 slug: foodland-com
-title: Is foodland.com Legit? Trust Signal Check
+title: Is foodland.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for foodland.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  foodland.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T14:57:31.921Z'
 finalUrl: 'https://foodland.com/'
 reachable: true

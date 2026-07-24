@@ -1,10 +1,10 @@
 ---
 domain: strekernatursaft.de
 slug: strekernatursaft-de
-title: Is strekernatursaft.de Legit? Trust Signal Check
+title: Is strekernatursaft.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for strekernatursaft.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  strekernatursaft.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:04:46.992Z'
 finalUrl: 'https://strekernatursaft.de/'
 reachable: true

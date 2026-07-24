@@ -1,10 +1,10 @@
 ---
 domain: antikchimera.cz
 slug: antikchimera-cz
-title: Is antikchimera.cz Legit? Trust Signal Check
+title: Is antikchimera.cz Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for antikchimera.cz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  antikchimera.cz scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:24:25.266Z'
 finalUrl: 'https://antikchimera.cz/'
 reachable: true

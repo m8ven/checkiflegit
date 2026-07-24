@@ -1,10 +1,10 @@
 ---
 domain: banyanmarinesg.com
 slug: banyanmarinesg-com
-title: Is banyanmarinesg.com Legit? Trust Signal Check
+title: Is banyanmarinesg.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for banyanmarinesg.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  banyanmarinesg.com scores 82/100 on our public trust checks. Established
+  domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:16.113Z'
 finalUrl: 'https://banyanmarinesg.com/'
 reachable: true

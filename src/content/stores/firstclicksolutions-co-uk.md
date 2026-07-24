@@ -1,10 +1,11 @@
 ---
 domain: firstclicksolutions.co.uk
 slug: firstclicksolutions-co-uk
-title: Is firstclicksolutions.co.uk Legit? Trust Signal Check
+title: Is firstclicksolutions.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for firstclicksolutions.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  firstclicksolutions.co.uk scores 88/100 on our public trust checks.
+  Established domain — registered 15.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:27:43.353Z'
 finalUrl: 'https://firstclicksolutions.co.uk/'
 reachable: true

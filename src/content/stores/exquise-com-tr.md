@@ -1,10 +1,11 @@
 ---
 domain: exquise.com.tr
 slug: exquise-com-tr
-title: Is exquise.com.tr Legit? Trust Signal Check
+title: Is exquise.com.tr Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for exquise.com.tr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  exquise.com.tr scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:30:33.987Z'
 finalUrl: 'https://exquise.com.tr/'
 reachable: true

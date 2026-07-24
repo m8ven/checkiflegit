@@ -1,10 +1,10 @@
 ---
 domain: ibetpbrasil.com.br
 slug: ibetpbrasil-com-br
-title: Is ibetpbrasil.com.br Legit? Trust Signal Check
+title: Is ibetpbrasil.com.br Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for ibetpbrasil.com.br: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  ibetpbrasil.com.br scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:37:48.186Z'
 finalUrl: 'https://ibetpbrasil.com.br/'
 reachable: true

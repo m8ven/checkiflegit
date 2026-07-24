@@ -1,10 +1,10 @@
 ---
 domain: ckitchensolutions.com
 slug: ckitchensolutions-com
-title: Is ckitchensolutions.com Legit? Trust Signal Check
+title: Is ckitchensolutions.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for ckitchensolutions.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ckitchensolutions.com scores 100/100 on our public trust checks. Established
+  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:08.901Z'
 finalUrl: 'https://www.ckitchensolutions.com/'
 reachable: true

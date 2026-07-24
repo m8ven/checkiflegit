@@ -1,10 +1,10 @@
 ---
 domain: signamedia.de
 slug: signamedia-de
-title: Is signamedia.de Legit? Trust Signal Check
+title: Is signamedia.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for signamedia.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  signamedia.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:21:41.687Z'
 finalUrl: 'https://www.signamedia.de/'
 reachable: true

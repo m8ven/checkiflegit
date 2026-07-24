@@ -1,10 +1,10 @@
 ---
 domain: inprosols.com
 slug: inprosols-com
-title: Is inprosols.com Legit? Trust Signal Check
+title: Is inprosols.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for inprosols.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  inprosols.com scores 100/100 on our public trust checks. Established domain —
+  registered 19 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:49:47.680Z'
 finalUrl: 'https://inprosols.com/'
 reachable: true

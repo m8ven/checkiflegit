@@ -1,10 +1,10 @@
 ---
 domain: mycollegeebook.com
 slug: mycollegeebook-com
-title: Is mycollegeebook.com Legit? Trust Signal Check
+title: Is mycollegeebook.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for mycollegeebook.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mycollegeebook.com scores 73/100 on our public trust checks. Established
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:54.828Z'
 finalUrl: 'https://mycollegeebook.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pulcutarim.com
 slug: pulcutarim-com
-title: Is pulcutarim.com Legit? Trust Signal Check
+title: Is pulcutarim.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for pulcutarim.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pulcutarim.com scores 76/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:13.228Z'
 finalUrl: 'https://www.pulcutarim.com/'
 reachable: true

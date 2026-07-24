@@ -1,10 +1,10 @@
 ---
 domain: bayshoreconcretellc.com
 slug: bayshoreconcretellc-com
-title: Is bayshoreconcretellc.com Legit? Trust Signal Check
+title: Is bayshoreconcretellc.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bayshoreconcretellc.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bayshoreconcretellc.com scores 100/100 on our public trust checks. Established
+  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:50:33.864Z'
 finalUrl: 'https://bayshoreconcretellc.com/'
 reachable: true

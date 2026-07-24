@@ -1,10 +1,10 @@
 ---
 domain: digitaladvicefirm.com
 slug: digitaladvicefirm-com
-title: Is digitaladvicefirm.com Legit? Trust Signal Check
+title: Is digitaladvicefirm.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for digitaladvicefirm.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  digitaladvicefirm.com scores 82/100 on our public trust checks. Established
+  domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:20.117Z'
 finalUrl: 'https://digitaladvicefirm.com/'
 reachable: true

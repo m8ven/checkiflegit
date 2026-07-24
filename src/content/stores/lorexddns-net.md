@@ -1,10 +1,11 @@
 ---
 domain: lorexddns.net
 slug: lorexddns-net
-title: Is lorexddns.net Legit? Trust Signal Check
+title: Is lorexddns.net Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lorexddns.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lorexddns.net scores 58/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure. Only limited contact details were
+  found.
 fetchedAt: '2026-06-24T21:45:36.933Z'
 finalUrl: 'https://www.lorex.com/'
 reachable: true

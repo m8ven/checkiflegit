@@ -1,10 +1,10 @@
 ---
 domain: shagunsilks.in
 slug: shagunsilks-in
-title: Is shagunsilks.in Legit? Trust Signal Check
+title: Is shagunsilks.in Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for shagunsilks.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shagunsilks.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:02:49.677Z'
 finalUrl: 'https://shagunsilks.in/'
 reachable: true

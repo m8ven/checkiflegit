@@ -1,10 +1,10 @@
 ---
 domain: cinefoxx.com
 slug: cinefoxx-com
-title: Is cinefoxx.com Legit? Trust Signal Check
+title: Is cinefoxx.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cinefoxx.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cinefoxx.com scores 100/100 on our public trust checks. Established domain —
+  registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:58.123Z'
 finalUrl: 'https://cinefoxx.com/home/'
 reachable: true

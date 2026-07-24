@@ -1,10 +1,11 @@
 ---
 domain: peridotsa.co.za
 slug: peridotsa-co-za
-title: Is peridotsa.co.za Legit? Trust Signal Check
+title: Is peridotsa.co.za Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for peridotsa.co.za: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  peridotsa.co.za scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T11:55:49.354Z'
 finalUrl: 'https://peridotsa.co.za/'
 reachable: true

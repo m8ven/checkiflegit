@@ -1,10 +1,10 @@
 ---
 domain: fondazionemondadori.it
 slug: fondazionemondadori-it
-title: Is fondazionemondadori.it Legit? Trust Signal Check
+title: Is fondazionemondadori.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fondazionemondadori.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fondazionemondadori.it scores 100/100 on our public trust checks. Established
+  domain — registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:22:29.852Z'
 finalUrl: 'https://www.fondazionemondadori.it/'
 reachable: true

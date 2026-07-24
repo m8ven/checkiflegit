@@ -1,10 +1,10 @@
 ---
 domain: bgasc.com
 slug: bgasc-com
-title: Is bgasc.com Legit? Trust Signal Check
+title: Is bgasc.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bgasc.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bgasc.com scores 88/100 on our public trust checks. Established domain —
+  registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:28.022Z'
 finalUrl: 'https://www.bgasc.com/'
 reachable: true

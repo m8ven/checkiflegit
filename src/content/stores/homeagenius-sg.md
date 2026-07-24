@@ -1,10 +1,10 @@
 ---
 domain: homeagenius.sg
 slug: homeagenius-sg
-title: Is homeagenius.sg Legit? Trust Signal Check
+title: Is homeagenius.sg Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for homeagenius.sg: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  homeagenius.sg scores 100/100 on our public trust checks. Established domain —
+  registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:01:22.734Z'
 finalUrl: 'https://homeagenius.sg/'
 reachable: true

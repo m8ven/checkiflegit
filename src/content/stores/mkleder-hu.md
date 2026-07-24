@@ -1,10 +1,10 @@
 ---
 domain: mkleder.hu
 slug: mkleder-hu
-title: Is mkleder.hu Legit? Trust Signal Check
+title: Is mkleder.hu Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for mkleder.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  mkleder.hu scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:44:37.352Z'
 finalUrl: 'https://mkleder.hu/'
 reachable: true

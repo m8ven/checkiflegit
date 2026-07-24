@@ -1,10 +1,10 @@
 ---
 domain: dibkom.net
 slug: dibkom-net
-title: Is dibkom.net Legit? Trust Signal Check
+title: Is dibkom.net Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dibkom.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dibkom.net scores 100/100 on our public trust checks. Established domain —
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:40.874Z'
 finalUrl: 'https://dibkom.net/'
 reachable: true

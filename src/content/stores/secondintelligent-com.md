@@ -1,10 +1,10 @@
 ---
 domain: secondintelligent.com
 slug: secondintelligent-com
-title: Is secondintelligent.com Legit? Trust Signal Check
+title: Is secondintelligent.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for secondintelligent.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  secondintelligent.com scores 100/100 on our public trust checks. Established
+  domain — registered 8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:05:17.941Z'
 finalUrl: 'https://secondintelligent.com/'
 reachable: true

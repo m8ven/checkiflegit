@@ -1,10 +1,10 @@
 ---
 domain: thebrandingbusiness.com.au
 slug: thebrandingbusiness-com-au
-title: Is thebrandingbusiness.com.au Legit? Trust Signal Check
+title: Is thebrandingbusiness.com.au Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for thebrandingbusiness.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thebrandingbusiness.com.au scores 91/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:33:50.224Z'
 finalUrl: 'https://thebrandingbusiness.com.au/'
 reachable: true

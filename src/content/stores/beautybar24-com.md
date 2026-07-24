@@ -1,10 +1,10 @@
 ---
 domain: beautybar24.com
 slug: beautybar24-com
-title: Is beautybar24.com Legit? Trust Signal Check
+title: Is beautybar24.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for beautybar24.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beautybar24.com scores 100/100 on our public trust checks. Established domain
+  — registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:20:34.610Z'
 finalUrl: 'https://beautybar24.com/'
 reachable: true

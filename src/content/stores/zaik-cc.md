@@ -1,10 +1,10 @@
 ---
 domain: zaik.cc
 slug: zaik-cc
-title: Is zaik.cc Legit? Trust Signal Check
+title: Is zaik.cc Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for zaik.cc: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  zaik.cc scores 76/100 on our public trust checks. Public business contact
+  details are listed. Maintains links to multiple social media platforms.
 fetchedAt: '2026-06-25T15:30:16.174Z'
 finalUrl: 'https://zaik.cc/'
 reachable: true

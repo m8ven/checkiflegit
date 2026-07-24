@@ -1,10 +1,10 @@
 ---
 domain: cricnovasports.com
 slug: cricnovasports-com
-title: Is cricnovasports.com Legit? Trust Signal Check
+title: Is cricnovasports.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cricnovasports.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cricnovasports.com scores 88/100 on our public trust checks. Established
+  domain — registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:17.682Z'
 finalUrl: 'https://cricnovasports.com/'
 reachable: true

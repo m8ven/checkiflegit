@@ -1,10 +1,10 @@
 ---
 domain: danielavegashoes.com
 slug: danielavegashoes-com
-title: Is danielavegashoes.com Legit? Trust Signal Check
+title: Is danielavegashoes.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for danielavegashoes.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  danielavegashoes.com scores 94/100 on our public trust checks. Established
+  domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:30:56.319Z'
 finalUrl: 'https://danielavegashoes.com/'
 reachable: true

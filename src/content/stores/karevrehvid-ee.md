@@ -1,10 +1,10 @@
 ---
 domain: karevrehvid.ee
 slug: karevrehvid-ee
-title: Is karevrehvid.ee Legit? Trust Signal Check
+title: Is karevrehvid.ee Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for karevrehvid.ee: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  karevrehvid.ee scores 88/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:48:07.216Z'
 finalUrl: 'https://karevrehvid.ee/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: johnsurtees.co.uk
 slug: johnsurtees-co-uk
-title: Is johnsurtees.co.uk Legit? Trust Signal Check
+title: Is johnsurtees.co.uk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for johnsurtees.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  johnsurtees.co.uk scores 73/100 on our public trust checks. Established domain
+  — registered 26.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:49.096Z'
 finalUrl: 'https://johnsurtees.co.uk/'
 reachable: true

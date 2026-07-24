@@ -1,10 +1,10 @@
 ---
 domain: littlefallstrophy.com
 slug: littlefallstrophy-com
-title: Is littlefallstrophy.com Legit? Trust Signal Check
+title: Is littlefallstrophy.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for littlefallstrophy.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  littlefallstrophy.com scores 70/100 on our public trust checks. Established
+  domain — registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:20:06.343Z'
 finalUrl: 'https://littlefallstrophy.com/'
 reachable: true

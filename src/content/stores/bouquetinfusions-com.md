@@ -1,10 +1,10 @@
 ---
 domain: bouquetinfusions.com
 slug: bouquetinfusions-com
-title: Is bouquetinfusions.com Legit? Trust Signal Check
+title: Is bouquetinfusions.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for bouquetinfusions.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bouquetinfusions.com scores 64/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:56:13.836Z'
 finalUrl: 'https://bouquetinfusions.com/'
 reachable: true

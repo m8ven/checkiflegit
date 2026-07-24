@@ -1,10 +1,10 @@
 ---
 domain: cascade-ionic.ru
 slug: cascade-ionic-ru
-title: Is cascade-ionic.ru Legit? Trust Signal Check
+title: Is cascade-ionic.ru Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for cascade-ionic.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cascade-ionic.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:25:22.596Z'
 finalUrl: 'https://cascade-ionic.ru/'
 reachable: true

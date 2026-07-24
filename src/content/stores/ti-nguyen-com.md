@@ -1,10 +1,10 @@
 ---
 domain: ti-nguyen.com
 slug: ti-nguyen-com
-title: Is ti-nguyen.com Legit? Trust Signal Check
+title: Is ti-nguyen.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ti-nguyen.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ti-nguyen.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T14:54:21.373Z'
 finalUrl: 'https://ti-nguyen.com/'
 reachable: true

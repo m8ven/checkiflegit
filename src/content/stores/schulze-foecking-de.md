@@ -1,10 +1,10 @@
 ---
 domain: schulze-foecking.de
 slug: schulze-foecking-de
-title: Is schulze-foecking.de Legit? Trust Signal Check
+title: Is schulze-foecking.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for schulze-foecking.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  schulze-foecking.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:44:14.743Z'
 finalUrl: 'https://schulze-foecking.de/'
 reachable: true

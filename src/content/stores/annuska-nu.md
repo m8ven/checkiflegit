@@ -1,10 +1,10 @@
 ---
 domain: annuska.nu
 slug: annuska-nu
-title: Is annuska.nu Legit? Trust Signal Check
+title: Is annuska.nu Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for annuska.nu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  annuska.nu scores 88/100 on our public trust checks. Established domain —
+  registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:17:54.411Z'
 finalUrl: 'https://annuska.nu/'
 reachable: true

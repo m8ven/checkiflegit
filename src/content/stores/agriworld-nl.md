@@ -1,10 +1,11 @@
 ---
 domain: agriworld.nl
 slug: agriworld-nl
-title: Is agriworld.nl Legit? Trust Signal Check
+title: Is agriworld.nl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for agriworld.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  agriworld.nl scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:34:34.535Z'
 finalUrl: 'https://agriworld.nl/'
 reachable: true

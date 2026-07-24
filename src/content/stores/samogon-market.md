@@ -1,10 +1,10 @@
 ---
 domain: samogon.market
 slug: samogon-market
-title: Is samogon.market Legit? Trust Signal Check
+title: Is samogon.market Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for samogon.market: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  samogon.market scores 19/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:35:31.558Z'
 finalUrl: 'https://samogon.market/'
 reachable: true

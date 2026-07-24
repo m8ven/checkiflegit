@@ -1,10 +1,10 @@
 ---
 domain: dvernoy-doctor.ru
 slug: dvernoy-doctor-ru
-title: Is dvernoy-doctor.ru Legit? Trust Signal Check
+title: Is dvernoy-doctor.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for dvernoy-doctor.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dvernoy-doctor.ru scores 73/100 on our public trust checks. Established domain
+  — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:13.947Z'
 finalUrl: 'https://dvernoy-doctor.ru/'
 reachable: true

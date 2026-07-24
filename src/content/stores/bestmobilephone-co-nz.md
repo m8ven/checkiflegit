@@ -1,10 +1,10 @@
 ---
 domain: bestmobilephone.co.nz
 slug: bestmobilephone-co-nz
-title: Is bestmobilephone.co.nz Legit? Trust Signal Check
+title: Is bestmobilephone.co.nz Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for bestmobilephone.co.nz: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bestmobilephone.co.nz scores 85/100 on our public trust checks. Established
+  domain — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:22.132Z'
 finalUrl: 'https://bestmobilephone.co.nz/'
 reachable: true

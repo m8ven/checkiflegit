@@ -1,10 +1,10 @@
 ---
 domain: langguth.consulting
 slug: langguth-consulting
-title: Is langguth.consulting Legit? Trust Signal Check
+title: Is langguth.consulting Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for langguth.consulting: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  langguth.consulting scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:18:08.133Z'
 finalUrl: 'https://langguth.consulting/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: holtzindustries.com
 slug: holtzindustries-com
-title: Is holtzindustries.com Legit? Trust Signal Check
+title: Is holtzindustries.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for holtzindustries.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  holtzindustries.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:01:12.807Z'
 finalUrl: 'https://holtzindustries.com/'
 reachable: true

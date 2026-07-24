@@ -1,10 +1,10 @@
 ---
 domain: dublingasworks.com
 slug: dublingasworks-com
-title: Is dublingasworks.com Legit? Trust Signal Check
+title: Is dublingasworks.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for dublingasworks.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dublingasworks.com scores 100/100 on our public trust checks. Established
+  domain — registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:00.962Z'
 finalUrl: 'https://dublingasworks.com/'
 reachable: true

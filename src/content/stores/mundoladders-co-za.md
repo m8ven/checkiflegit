@@ -1,10 +1,10 @@
 ---
 domain: mundoladders.co.za
 slug: mundoladders-co-za
-title: Is mundoladders.co.za Legit? Trust Signal Check
+title: Is mundoladders.co.za Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mundoladders.co.za: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mundoladders.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:14:01.501Z'
 finalUrl: 'https://mundoladders.co.za/'
 reachable: true

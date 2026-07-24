@@ -1,10 +1,10 @@
 ---
 domain: aquawellness.mx
 slug: aquawellness-mx
-title: Is aquawellness.mx Legit? Trust Signal Check
+title: Is aquawellness.mx Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for aquawellness.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aquawellness.mx scores 88/100 on our public trust checks. Established domain —
+  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:41:42.550Z'
 finalUrl: 'https://aquawellness.mx/'
 reachable: true

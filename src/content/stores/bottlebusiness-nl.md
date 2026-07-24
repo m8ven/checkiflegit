@@ -1,10 +1,10 @@
 ---
 domain: bottlebusiness.nl
 slug: bottlebusiness-nl
-title: Is bottlebusiness.nl Legit? Trust Signal Check
+title: Is bottlebusiness.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bottlebusiness.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bottlebusiness.nl scores 88/100 on our public trust checks. Established domain
+  — registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:44.698Z'
 finalUrl: 'https://bottlebusiness.nl/'
 reachable: true

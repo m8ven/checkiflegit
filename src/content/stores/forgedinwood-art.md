@@ -1,10 +1,10 @@
 ---
 domain: forgedinwood.art
 slug: forgedinwood-art
-title: Is forgedinwood.art Legit? Trust Signal Check
+title: Is forgedinwood.art Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for forgedinwood.art: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  forgedinwood.art scores 70/100 on our public trust checks. Established domain
+  — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:28.841Z'
 finalUrl: 'https://www.forgedinwood.art/?v=fefc4a79cecf'
 reachable: true

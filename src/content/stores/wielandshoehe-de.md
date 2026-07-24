@@ -1,10 +1,10 @@
 ---
 domain: wielandshoehe.de
 slug: wielandshoehe-de
-title: Is wielandshoehe.de Legit? Trust Signal Check
+title: Is wielandshoehe.de Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for wielandshoehe.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wielandshoehe.de scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:24:22.438Z'
 finalUrl: 'https://www.wielandshoehe.de/'
 reachable: true

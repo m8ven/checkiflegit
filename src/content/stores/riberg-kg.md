@@ -1,10 +1,10 @@
 ---
 domain: riberg.kg
 slug: riberg-kg
-title: Is riberg.kg Legit? Trust Signal Check
+title: Is riberg.kg Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for riberg.kg: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  riberg.kg scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:46:40.599Z'
 finalUrl: 'https://riberg.kg/'
 reachable: true

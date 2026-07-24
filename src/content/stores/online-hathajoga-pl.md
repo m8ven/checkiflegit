@@ -1,10 +1,10 @@
 ---
 domain: online.hathajoga.pl
 slug: online-hathajoga-pl
-title: Is online.hathajoga.pl Legit? Trust Signal Check
+title: Is online.hathajoga.pl Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for online.hathajoga.pl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  online.hathajoga.pl scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:46:34.666Z'
 finalUrl: 'https://online.hathajoga.pl/'
 reachable: true

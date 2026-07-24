@@ -1,10 +1,10 @@
 ---
 domain: anabelle.com.ua
 slug: anabelle-com-ua
-title: Is anabelle.com.ua Legit? Trust Signal Check
+title: Is anabelle.com.ua Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for anabelle.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  anabelle.com.ua scores 100/100 on our public trust checks. Established domain
+  — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:41:14.467Z'
 finalUrl: 'https://anabelle.com.ua/'
 reachable: true

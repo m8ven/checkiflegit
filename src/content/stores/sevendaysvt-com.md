@@ -1,10 +1,10 @@
 ---
 domain: sevendaysvt.com
 slug: sevendaysvt-com
-title: Is sevendaysvt.com Legit? Trust Signal Check
+title: Is sevendaysvt.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sevendaysvt.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sevendaysvt.com scores 100/100 on our public trust checks. Established domain
+  — registered 28.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:21.033Z'
 finalUrl: 'https://www.sevendaysvt.com/'
 reachable: true

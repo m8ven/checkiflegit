@@ -1,10 +1,10 @@
 ---
 domain: sharik-kiev.com.ua
 slug: sharik-kiev-com-ua
-title: Is sharik-kiev.com.ua Legit? Trust Signal Check
+title: Is sharik-kiev.com.ua Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for sharik-kiev.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sharik-kiev.com.ua scores 76/100 on our public trust checks. Established
+  domain — registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:05:44.236Z'
 finalUrl: 'https://sharik-kiev.com.ua/'
 reachable: true

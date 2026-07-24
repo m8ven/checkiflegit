@@ -1,10 +1,10 @@
 ---
 domain: printdeco.ru
 slug: printdeco-ru
-title: Is printdeco.ru Legit? Trust Signal Check
+title: Is printdeco.ru Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for printdeco.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  printdeco.ru scores 82/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:55.270Z'
 finalUrl: 'https://printdeco.ru/'
 reachable: true

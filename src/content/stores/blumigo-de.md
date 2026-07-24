@@ -1,10 +1,10 @@
 ---
 domain: blumigo.de
 slug: blumigo-de
-title: Is blumigo.de Legit? Trust Signal Check
+title: Is blumigo.de Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for blumigo.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  blumigo.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:23:37.643Z'
 finalUrl: 'https://www.blumigo.de/'
 reachable: true

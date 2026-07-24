@@ -1,10 +1,10 @@
 ---
 domain: hardthoehenkurier.de
 slug: hardthoehenkurier-de
-title: Is hardthoehenkurier.de Legit? Trust Signal Check
+title: Is hardthoehenkurier.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for hardthoehenkurier.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hardthoehenkurier.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:06.149Z'
 finalUrl: 'https://hardthoehenkurier.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: inpressbooks.co.uk
 slug: inpressbooks-co-uk
-title: Is inpressbooks.co.uk Legit? Trust Signal Check
+title: Is inpressbooks.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for inpressbooks.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  inpressbooks.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 23.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:47.776Z'
 finalUrl: 'https://inpressbooks.co.uk/'
 reachable: true

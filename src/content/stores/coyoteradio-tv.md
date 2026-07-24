@@ -1,10 +1,11 @@
 ---
 domain: coyoteradio.tv
 slug: coyoteradio-tv
-title: Is coyoteradio.tv Legit? Trust Signal Check
+title: Is coyoteradio.tv Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for coyoteradio.tv: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  coyoteradio.tv scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:24:05.152Z'
 finalUrl: 'https://coyoteradio.tv/'
 reachable: true

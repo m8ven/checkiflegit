@@ -1,10 +1,10 @@
 ---
 domain: surfoutlook.store
 slug: surfoutlook-store
-title: Is surfoutlook.store Legit? Trust Signal Check
+title: Is surfoutlook.store Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for surfoutlook.store: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  surfoutlook.store scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:04:57.372Z'
 finalUrl: 'https://surfoutlook.store/'
 reachable: true

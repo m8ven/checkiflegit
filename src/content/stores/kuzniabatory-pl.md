@@ -1,10 +1,10 @@
 ---
 domain: kuzniabatory.pl
 slug: kuzniabatory-pl
-title: Is kuzniabatory.pl Legit? Trust Signal Check
+title: Is kuzniabatory.pl Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for kuzniabatory.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  kuzniabatory.pl scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T14:55:14.210Z'
 finalUrl: 'https://kuzniabatory.pl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lesfeesdesplantes.fr
 slug: lesfeesdesplantes-fr
-title: Is lesfeesdesplantes.fr Legit? Trust Signal Check
+title: Is lesfeesdesplantes.fr Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for lesfeesdesplantes.fr: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lesfeesdesplantes.fr scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:02:07.142Z'
 finalUrl: 'https://www.lesfeesdesplantes.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: i-beauty.com.ua
 slug: i-beauty-com-ua
-title: Is i-beauty.com.ua Legit? Trust Signal Check
+title: Is i-beauty.com.ua Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for i-beauty.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  i-beauty.com.ua scores 73/100 on our public trust checks. Established domain —
+  registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:15.929Z'
 finalUrl: 'https://i-beauty.com.ua/'
 reachable: true

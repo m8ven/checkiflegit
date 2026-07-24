@@ -1,10 +1,10 @@
 ---
 domain: grupoloading.com
 slug: grupoloading-com
-title: Is grupoloading.com Legit? Trust Signal Check
+title: Is grupoloading.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for grupoloading.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  grupoloading.com scores 76/100 on our public trust checks. Established domain
+  — registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:29.951Z'
 finalUrl: 'https://www.loading.es/'
 reachable: true

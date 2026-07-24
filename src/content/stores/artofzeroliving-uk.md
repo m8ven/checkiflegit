@@ -1,10 +1,10 @@
 ---
 domain: artofzeroliving.uk
 slug: artofzeroliving-uk
-title: Is artofzeroliving.uk Legit? Trust Signal Check
+title: Is artofzeroliving.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for artofzeroliving.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  artofzeroliving.uk scores 88/100 on our public trust checks. Established
+  domain — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:25.535Z'
 finalUrl: 'https://artofzeroliving.uk/'
 reachable: true

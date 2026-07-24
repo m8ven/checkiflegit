@@ -1,10 +1,10 @@
 ---
 domain: altdorfhittli.de
 slug: altdorfhittli-de
-title: Is altdorfhittli.de Legit? Trust Signal Check
+title: Is altdorfhittli.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for altdorfhittli.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  altdorfhittli.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:42:24.956Z'
 finalUrl: 'https://altdorfhittli.de/'
 reachable: true

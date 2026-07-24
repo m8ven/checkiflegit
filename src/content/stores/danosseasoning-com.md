@@ -1,10 +1,10 @@
 ---
 domain: danosseasoning.com
 slug: danosseasoning-com
-title: Is danosseasoning.com Legit? Trust Signal Check
+title: Is danosseasoning.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for danosseasoning.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  danosseasoning.com scores 88/100 on our public trust checks. Established
+  domain — registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:42.399Z'
 finalUrl: 'https://danosseasoning.com/'
 reachable: true

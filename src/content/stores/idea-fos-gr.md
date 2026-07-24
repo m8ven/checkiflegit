@@ -1,10 +1,10 @@
 ---
 domain: idea-fos.gr
 slug: idea-fos-gr
-title: Is idea-fos.gr Legit? Trust Signal Check
+title: Is idea-fos.gr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for idea-fos.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  idea-fos.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:46:29.312Z'
 finalUrl: 'https://idea-fos.gr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: trinitytransformation.co.uk
 slug: trinitytransformation-co-uk
-title: Is trinitytransformation.co.uk Legit? Trust Signal Check
+title: Is trinitytransformation.co.uk Legit? Trust Score 63/100
 description: >-
-  An automated trust-signal check for trinitytransformation.co.uk: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  trinitytransformation.co.uk scores 63/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:54:30.512Z'
 finalUrl: 'https://trinitytransformation.co.uk/'
 reachable: true

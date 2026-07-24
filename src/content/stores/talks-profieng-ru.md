@@ -1,10 +1,10 @@
 ---
 domain: talks.profieng.ru
 slug: talks-profieng-ru
-title: Is talks.profieng.ru Legit? Trust Signal Check
+title: Is talks.profieng.ru Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for talks.profieng.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  talks.profieng.ru scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:04:19.255Z'
 finalUrl: 'https://talks.profieng.ru/'
 reachable: true

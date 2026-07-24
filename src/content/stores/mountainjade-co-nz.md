@@ -1,10 +1,10 @@
 ---
 domain: mountainjade.co.nz
 slug: mountainjade-co-nz
-title: Is mountainjade.co.nz Legit? Trust Signal Check
+title: Is mountainjade.co.nz Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mountainjade.co.nz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mountainjade.co.nz scores 100/100 on our public trust checks. Established
+  domain — registered 26 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:41.233Z'
 finalUrl: 'https://www.mountainjade.co.nz/'
 reachable: true

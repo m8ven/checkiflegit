@@ -1,10 +1,10 @@
 ---
 domain: maradgo.nl
 slug: maradgo-nl
-title: Is maradgo.nl Legit? Trust Signal Check
+title: Is maradgo.nl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for maradgo.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  maradgo.nl scores 88/100 on our public trust checks. Established domain —
+  registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:33.164Z'
 finalUrl: 'https://www.maradgo.nl/'
 reachable: true

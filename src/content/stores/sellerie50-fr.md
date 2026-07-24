@@ -1,10 +1,10 @@
 ---
 domain: sellerie50.fr
 slug: sellerie50-fr
-title: Is sellerie50.fr Legit? Trust Signal Check
+title: Is sellerie50.fr Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for sellerie50.fr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sellerie50.fr scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:50:38.081Z'
 finalUrl: 'https://sellerie50.fr/'
 reachable: true

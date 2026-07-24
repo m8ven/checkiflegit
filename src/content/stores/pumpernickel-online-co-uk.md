@@ -1,10 +1,11 @@
 ---
 domain: pumpernickel-online.co.uk
 slug: pumpernickel-online-co-uk
-title: Is pumpernickel-online.co.uk Legit? Trust Signal Check
+title: Is pumpernickel-online.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pumpernickel-online.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pumpernickel-online.co.uk scores 100/100 on our public trust checks.
+  Established domain — registered 18.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:26:21.190Z'
 finalUrl: 'https://www.pumpernickel-online.co.uk/'
 reachable: true

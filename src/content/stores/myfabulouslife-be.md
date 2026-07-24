@@ -1,10 +1,10 @@
 ---
 domain: myfabulouslife.be
 slug: myfabulouslife-be
-title: Is myfabulouslife.be Legit? Trust Signal Check
+title: Is myfabulouslife.be Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for myfabulouslife.be: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  myfabulouslife.be scores 76/100 on our public trust checks. Established domain
+  — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:50.226Z'
 finalUrl: 'https://www.myfabulouslife.be/'
 reachable: true

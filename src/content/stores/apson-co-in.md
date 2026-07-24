@@ -1,10 +1,10 @@
 ---
 domain: apson.co.in
 slug: apson-co-in
-title: Is apson.co.in Legit? Trust Signal Check
+title: Is apson.co.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for apson.co.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  apson.co.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:33:53.482Z'
 finalUrl: 'https://apson.co.in/'
 reachable: true

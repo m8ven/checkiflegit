@@ -1,10 +1,10 @@
 ---
 domain: sainttaylor.com
 slug: sainttaylor-com
-title: Is sainttaylor.com Legit? Trust Signal Check
+title: Is sainttaylor.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sainttaylor.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sainttaylor.com scores 100/100 on our public trust checks. Established domain
+  — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:27:09.110Z'
 finalUrl: 'https://www.sainttaylor.com/'
 reachable: true

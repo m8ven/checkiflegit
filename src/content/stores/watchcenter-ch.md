@@ -1,10 +1,10 @@
 ---
 domain: watchcenter.ch
 slug: watchcenter-ch
-title: Is watchcenter.ch Legit? Trust Signal Check
+title: Is watchcenter.ch Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for watchcenter.ch: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  watchcenter.ch scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:11:32.406Z'
 finalUrl: 'https://watchcenter.ch/'
 reachable: true

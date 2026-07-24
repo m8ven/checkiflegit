@@ -1,10 +1,10 @@
 ---
 domain: likeg.it
 slug: likeg-it
-title: Is likeg.it Legit? Trust Signal Check
+title: Is likeg.it Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for likeg.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  likeg.it scores 76/100 on our public trust checks. Established domain —
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:15.266Z'
 finalUrl: 'https://www.likeg.it/'
 reachable: true

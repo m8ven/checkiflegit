@@ -1,10 +1,10 @@
 ---
 domain: libreriafarinelli.com
 slug: libreriafarinelli-com
-title: Is libreriafarinelli.com Legit? Trust Signal Check
+title: Is libreriafarinelli.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for libreriafarinelli.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  libreriafarinelli.com scores 88/100 on our public trust checks. Established
+  domain — registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:41.929Z'
 finalUrl: 'https://www.libreriafarinelli.com/'
 reachable: true

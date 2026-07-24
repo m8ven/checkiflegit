@@ -1,10 +1,10 @@
 ---
 domain: 7wonderscarrental.com
 slug: 7wonderscarrental-com
-title: Is 7wonderscarrental.com Legit? Trust Signal Check
+title: Is 7wonderscarrental.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for 7wonderscarrental.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  7wonderscarrental.com scores 94/100 on our public trust checks. Established
+  domain — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:36:27.603Z'
 finalUrl: 'https://7wonderscarrental.com/'
 reachable: true

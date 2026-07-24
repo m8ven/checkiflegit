@@ -1,10 +1,10 @@
 ---
 domain: euronovelty.com.mx
 slug: euronovelty-com-mx
-title: Is euronovelty.com.mx Legit? Trust Signal Check
+title: Is euronovelty.com.mx Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for euronovelty.com.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  euronovelty.com.mx scores 76/100 on our public trust checks. Established
+  domain — registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:04.220Z'
 finalUrl: 'https://euronovelty.com.mx/'
 reachable: true

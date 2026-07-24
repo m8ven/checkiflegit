@@ -1,10 +1,10 @@
 ---
 domain: kavastragalas.gr
 slug: kavastragalas-gr
-title: Is kavastragalas.gr Legit? Trust Signal Check
+title: Is kavastragalas.gr Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for kavastragalas.gr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kavastragalas.gr scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:19:42.425Z'
 finalUrl: 'https://www.kavastragalas.gr/'
 reachable: true

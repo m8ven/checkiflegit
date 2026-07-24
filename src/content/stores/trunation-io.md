@@ -1,10 +1,10 @@
 ---
 domain: trunation.io
 slug: trunation-io
-title: Is trunation.io Legit? Trust Signal Check
+title: Is trunation.io Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for trunation.io: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  trunation.io scores 88/100 on our public trust checks. Established domain —
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:44:57.481Z'
 finalUrl: 'https://trunation.io/'
 reachable: true

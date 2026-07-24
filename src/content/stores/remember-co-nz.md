@@ -1,10 +1,10 @@
 ---
 domain: remember.co.nz
 slug: remember-co-nz
-title: Is remember.co.nz Legit? Trust Signal Check
+title: Is remember.co.nz Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for remember.co.nz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  remember.co.nz scores 100/100 on our public trust checks. Established domain —
+  registered 28.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:21:08.930Z'
 finalUrl: 'https://www.remember.co.nz/'
 reachable: true

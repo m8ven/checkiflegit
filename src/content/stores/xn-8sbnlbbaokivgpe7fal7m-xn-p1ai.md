@@ -1,10 +1,10 @@
 ---
 domain: xn----8sbnlbbaokivgpe7fal7m.xn--p1ai
 slug: xn-8sbnlbbaokivgpe7fal7m-xn-p1ai
-title: Is xn----8sbnlbbaokivgpe7fal7m.xn--p1ai Legit? Trust Signal Check
+title: Is xn----8sbnlbbaokivgpe7fal7m.xn--p1ai Legit? Score 61/100
 description: >-
-  An automated trust-signal check for xn----8sbnlbbaokivgpe7fal7m.xn--p1ai:
-  moderate trust signals. Domain age, SSL, contact info, reviews and more.
+  xn----8sbnlbbaokivgpe7fal7m.xn--p1ai scores 61/100 on our public trust checks.
+  No links to major social platforms found.
 fetchedAt: '2026-06-25T15:29:41.033Z'
 finalUrl: 'https://xn----8sbnlbbaokivgpe7fal7m.xn--p1ai/'
 reachable: true

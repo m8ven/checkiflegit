@@ -1,10 +1,10 @@
 ---
 domain: fairydustcrystals.com
 slug: fairydustcrystals-com
-title: Is fairydustcrystals.com Legit? Trust Signal Check
+title: Is fairydustcrystals.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for fairydustcrystals.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fairydustcrystals.com scores 82/100 on our public trust checks. Established
+  domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:09.530Z'
 finalUrl: 'https://fairydustcrystals.com/'
 reachable: true

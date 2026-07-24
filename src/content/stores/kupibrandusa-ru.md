@@ -1,10 +1,10 @@
 ---
 domain: kupibrandusa.ru
 slug: kupibrandusa-ru
-title: Is kupibrandusa.ru Legit? Trust Signal Check
+title: Is kupibrandusa.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kupibrandusa.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kupibrandusa.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T14:55:09.819Z'
 finalUrl: 'https://kupibrandusa.ru/'
 reachable: true

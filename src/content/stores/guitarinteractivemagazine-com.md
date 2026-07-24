@@ -1,10 +1,11 @@
 ---
 domain: guitarinteractivemagazine.com
 slug: guitarinteractivemagazine-com
-title: Is guitarinteractivemagazine.com Legit? Trust Signal Check
+title: Is guitarinteractivemagazine.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for guitarinteractivemagazine.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  guitarinteractivemagazine.com scores 88/100 on our public trust checks.
+  Established domain — registered 15.6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:36:11.818Z'
 finalUrl: 'https://guitarinteractivemagazine.com/'
 reachable: true

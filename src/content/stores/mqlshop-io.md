@@ -1,10 +1,10 @@
 ---
 domain: mqlshop.io
 slug: mqlshop-io
-title: Is mqlshop.io Legit? Trust Signal Check
+title: Is mqlshop.io Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mqlshop.io: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mqlshop.io scores 67/100 on our public trust checks. No links to major social
+  platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:37:31.733Z'
 finalUrl: 'https://mqlshop.io/'
 reachable: true

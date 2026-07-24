@@ -1,10 +1,10 @@
 ---
 domain: tjtyus.com
 slug: tjtyus-com
-title: Is tjtyus.com Legit? Trust Signal Check
+title: Is tjtyus.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tjtyus.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tjtyus.com scores 88/100 on our public trust checks. Established domain —
+  registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:11:34.746Z'
 finalUrl: 'https://tjtyus.com/'
 reachable: true

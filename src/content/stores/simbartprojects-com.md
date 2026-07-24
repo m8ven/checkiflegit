@@ -1,10 +1,10 @@
 ---
 domain: simbartprojects.com
 slug: simbartprojects-com
-title: Is simbartprojects.com Legit? Trust Signal Check
+title: Is simbartprojects.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for simbartprojects.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  simbartprojects.com scores 76/100 on our public trust checks. Established
+  domain — registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:23.895Z'
 finalUrl: 'https://simbartprojects.com/'
 reachable: true

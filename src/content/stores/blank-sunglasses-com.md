@@ -1,10 +1,10 @@
 ---
 domain: blank-sunglasses.com
 slug: blank-sunglasses-com
-title: Is blank-sunglasses.com Legit? Trust Signal Check
+title: Is blank-sunglasses.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for blank-sunglasses.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  blank-sunglasses.com scores 100/100 on our public trust checks. Established
+  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:39.273Z'
 finalUrl: 'https://blank-sunglasses.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pec.vn
 slug: pec-vn
-title: Is pec.vn Legit? Trust Signal Check
+title: Is pec.vn Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pec.vn: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  pec.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:26:58.775Z'
 finalUrl: 'https://pec.vn/'
 reachable: true

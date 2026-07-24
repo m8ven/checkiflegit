@@ -1,10 +1,10 @@
 ---
 domain: lomancreativeservices.com
 slug: lomancreativeservices-com
-title: Is lomancreativeservices.com Legit? Trust Signal Check
+title: Is lomancreativeservices.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for lomancreativeservices.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lomancreativeservices.com scores 64/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:47:44.918Z'
 finalUrl: 'https://lomancreativeservices.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: shop.kookzaak.nl
 slug: shop-kookzaak-nl
-title: Is shop.kookzaak.nl Legit? Trust Signal Check
+title: Is shop.kookzaak.nl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for shop.kookzaak.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.kookzaak.nl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:05:30.903Z'
 finalUrl: 'https://shop.kookzaak.nl/'
 reachable: true

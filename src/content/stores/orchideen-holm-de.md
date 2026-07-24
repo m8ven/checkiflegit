@@ -1,10 +1,10 @@
 ---
 domain: orchideen-holm.de
 slug: orchideen-holm-de
-title: Is orchideen-holm.de Legit? Trust Signal Check
+title: Is orchideen-holm.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for orchideen-holm.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  orchideen-holm.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:26:56.500Z'
 finalUrl: 'https://orchideen-holm.de/'
 reachable: true

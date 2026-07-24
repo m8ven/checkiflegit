@@ -1,10 +1,10 @@
 ---
 domain: 535abond.co
 slug: 535abond-co
-title: Is 535abond.co Legit? Trust Signal Check
+title: Is 535abond.co Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for 535abond.co: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  535abond.co scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:33:57.017Z'
 finalUrl: 'https://535abond.co/'
 reachable: true

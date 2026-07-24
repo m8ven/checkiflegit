@@ -1,10 +1,10 @@
 ---
 domain: vapestoresaustralia.com
 slug: vapestoresaustralia-com
-title: Is vapestoresaustralia.com Legit? Trust Signal Check
+title: Is vapestoresaustralia.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for vapestoresaustralia.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  vapestoresaustralia.com scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:55:11.809Z'
 finalUrl: 'https://vapestoresaustralia.com/'
 reachable: true

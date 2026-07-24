@@ -1,10 +1,10 @@
 ---
 domain: kruger.com.tr
 slug: kruger-com-tr
-title: Is kruger.com.tr Legit? Trust Signal Check
+title: Is kruger.com.tr Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for kruger.com.tr: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  kruger.com.tr scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:16:11.980Z'
 finalUrl: 'https://kruger.com.tr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: xn--lsetpper-m0a0p.dk
 slug: xn-lsetpper-m0a0p-dk
-title: Is xn--lsetpper-m0a0p.dk Legit? Trust Signal Check
+title: Is xn--lsetpper-m0a0p.dk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for xn--lsetpper-m0a0p.dk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  xn--lsetpper-m0a0p.dk scores 82/100 on our public trust checks. Established
+  domain — registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:40.649Z'
 finalUrl: 'https://xn--lsetpper-m0a0p.dk/'
 reachable: true

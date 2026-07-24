@@ -1,10 +1,10 @@
 ---
 domain: doublestickytape.com
 slug: doublestickytape-com
-title: Is doublestickytape.com Legit? Trust Signal Check
+title: Is doublestickytape.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for doublestickytape.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  doublestickytape.com scores 85/100 on our public trust checks. Established
+  domain — registered 1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:54.836Z'
 finalUrl: 'https://doublestickytape.com/'
 reachable: true

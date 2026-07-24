@@ -1,11 +1,10 @@
 ---
 domain: kranbolagetutbildning.se
 slug: kranbolagetutbildning-se
-title: Is kranbolagetutbildning.se Legit? Trust Signal Check
+title: Is kranbolagetutbildning.se Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for kranbolagetutbildning.se: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  kranbolagetutbildning.se scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T14:54:42.930Z'
 finalUrl: 'https://kranbolagetutbildning.se/'
 reachable: true

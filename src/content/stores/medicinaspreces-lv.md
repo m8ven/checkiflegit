@@ -1,10 +1,10 @@
 ---
 domain: medicinaspreces.lv
 slug: medicinaspreces-lv
-title: Is medicinaspreces.lv Legit? Trust Signal Check
+title: Is medicinaspreces.lv Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for medicinaspreces.lv: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  medicinaspreces.lv scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T14:57:47.230Z'
 finalUrl: 'https://medicinaspreces.lv/'
 reachable: true

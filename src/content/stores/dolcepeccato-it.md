@@ -1,10 +1,10 @@
 ---
 domain: dolcepeccato.it
 slug: dolcepeccato-it
-title: Is dolcepeccato.it Legit? Trust Signal Check
+title: Is dolcepeccato.it Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for dolcepeccato.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dolcepeccato.it scores 82/100 on our public trust checks. Established domain —
+  registered 13.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:00:10.569Z'
 finalUrl: 'https://www.dolcepeccato.it/'
 reachable: true

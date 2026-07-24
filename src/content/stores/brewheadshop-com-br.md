@@ -1,10 +1,10 @@
 ---
 domain: brewheadshop.com.br
 slug: brewheadshop-com-br
-title: Is brewheadshop.com.br Legit? Trust Signal Check
+title: Is brewheadshop.com.br Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for brewheadshop.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  brewheadshop.com.br scores 57/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:23:53.024Z'
 finalUrl: 'https://www.brewheadshop.com.br/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: redeital.org
 slug: redeital-org
-title: Is redeital.org Legit? Trust Signal Check
+title: Is redeital.org Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for redeital.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  redeital.org scores 94/100 on our public trust checks. Established domain —
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:05:47.058Z'
 finalUrl: 'https://redeital.org/'
 reachable: true

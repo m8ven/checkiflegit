@@ -1,10 +1,10 @@
 ---
 domain: itim.rs
 slug: itim-rs
-title: Is itim.rs Legit? Trust Signal Check
+title: Is itim.rs Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for itim.rs: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  itim.rs scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:02:40.120Z'
 finalUrl: 'https://itim.rs/'
 reachable: true

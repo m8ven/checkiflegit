@@ -1,10 +1,10 @@
 ---
 domain: kathrinelee.com
 slug: kathrinelee-com
-title: Is kathrinelee.com Legit? Trust Signal Check
+title: Is kathrinelee.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kathrinelee.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kathrinelee.com scores 88/100 on our public trust checks. Established domain —
+  registered 23 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:21.911Z'
 finalUrl: 'https://kathrinelee.com/'
 reachable: true

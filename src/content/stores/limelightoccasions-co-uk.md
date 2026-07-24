@@ -1,10 +1,11 @@
 ---
 domain: limelightoccasions.co.uk
 slug: limelightoccasions-co-uk
-title: Is limelightoccasions.co.uk Legit? Trust Signal Check
+title: Is limelightoccasions.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for limelightoccasions.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  limelightoccasions.co.uk scores 100/100 on our public trust checks.
+  Established domain — registered 18.6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:26:41.394Z'
 finalUrl: 'https://www.limelightoccasions.co.uk/'
 reachable: true

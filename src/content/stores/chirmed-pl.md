@@ -1,10 +1,10 @@
 ---
 domain: chirmed.pl
 slug: chirmed-pl
-title: Is chirmed.pl Legit? Trust Signal Check
+title: Is chirmed.pl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for chirmed.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  chirmed.pl scores 88/100 on our public trust checks. Established domain —
+  registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:09.672Z'
 finalUrl: 'https://chirmed.pl/'
 reachable: true

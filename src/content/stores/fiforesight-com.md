@@ -1,10 +1,10 @@
 ---
 domain: fiforesight.com
 slug: fiforesight-com
-title: Is fiforesight.com Legit? Trust Signal Check
+title: Is fiforesight.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for fiforesight.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fiforesight.com scores 88/100 on our public trust checks. Established domain —
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:51.707Z'
 finalUrl: 'https://fiforesight.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: oldcobbler.shop
 slug: oldcobbler-shop
-title: Is oldcobbler.shop Legit? Trust Signal Check
+title: Is oldcobbler.shop Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for oldcobbler.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  oldcobbler.shop scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:56:36.571Z'
 finalUrl: 'https://oldcobbler.shop/'
 reachable: true

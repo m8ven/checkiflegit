@@ -1,10 +1,10 @@
 ---
 domain: guddusfoods.com.au
 slug: guddusfoods-com-au
-title: Is guddusfoods.com.au Legit? Trust Signal Check
+title: Is guddusfoods.com.au Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for guddusfoods.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  guddusfoods.com.au scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:47:24.265Z'
 finalUrl: 'https://guddusfoods.com.au/'
 reachable: true

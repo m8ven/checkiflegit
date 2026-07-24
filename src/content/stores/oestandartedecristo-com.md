@@ -1,10 +1,10 @@
 ---
 domain: oestandartedecristo.com
 slug: oestandartedecristo-com
-title: Is oestandartedecristo.com Legit? Trust Signal Check
+title: Is oestandartedecristo.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for oestandartedecristo.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  oestandartedecristo.com scores 88/100 on our public trust checks. Established
+  domain — registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:26.622Z'
 finalUrl: 'https://oestandartedecristo.com/'
 reachable: true

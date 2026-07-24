@@ -1,10 +1,10 @@
 ---
 domain: galaxydigital.co.in
 slug: galaxydigital-co-in
-title: Is galaxydigital.co.in Legit? Trust Signal Check
+title: Is galaxydigital.co.in Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for galaxydigital.co.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  galaxydigital.co.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:34:59.013Z'
 finalUrl: 'https://galaxydigital.co.in/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: shop.gservicesrl.eu
 slug: shop-gservicesrl-eu
-title: Is shop.gservicesrl.eu Legit? Trust Signal Check
+title: Is shop.gservicesrl.eu Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for shop.gservicesrl.eu: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.gservicesrl.eu scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:35:48.821Z'
 finalUrl: 'https://shop.gservicesrl.eu/'
 reachable: true

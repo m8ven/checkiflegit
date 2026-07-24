@@ -1,10 +1,10 @@
 ---
 domain: shop.biblesociety-zimbabwe.org
 slug: shop-biblesociety-zimbabwe-org
-title: Is shop.biblesociety-zimbabwe.org Legit? Trust Signal Check
+title: Is shop.biblesociety-zimbabwe.org Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for shop.biblesociety-zimbabwe.org: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  shop.biblesociety-zimbabwe.org scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:02:51.231Z'
 finalUrl: 'https://shop.biblesociety-zimbabwe.org/'
 reachable: true

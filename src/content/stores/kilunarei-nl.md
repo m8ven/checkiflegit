@@ -1,10 +1,10 @@
 ---
 domain: kilunarei.nl
 slug: kilunarei-nl
-title: Is kilunarei.nl Legit? Trust Signal Check
+title: Is kilunarei.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for kilunarei.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kilunarei.nl scores 88/100 on our public trust checks. Established domain —
+  registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:42.641Z'
 finalUrl: 'https://kilunarei.nl/'
 reachable: true

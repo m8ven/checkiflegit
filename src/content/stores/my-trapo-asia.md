@@ -1,10 +1,10 @@
 ---
 domain: my.trapo.asia
 slug: my-trapo-asia
-title: Is my.trapo.asia Legit? Trust Signal Check
+title: Is my.trapo.asia Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for my.trapo.asia: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  my.trapo.asia scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:11.732Z'
 finalUrl: 'https://my.trapo.asia/'
 reachable: true

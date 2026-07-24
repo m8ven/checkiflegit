@@ -1,10 +1,10 @@
 ---
 domain: dallasreloads.com
 slug: dallasreloads-com
-title: Is dallasreloads.com Legit? Trust Signal Check
+title: Is dallasreloads.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for dallasreloads.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dallasreloads.com scores 73/100 on our public trust checks. Established domain
+  — registered 19 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:37.020Z'
 finalUrl: 'https://dallasreloads.com/'
 reachable: true

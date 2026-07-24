@@ -1,10 +1,10 @@
 ---
 domain: silkroadhorizons.com
 slug: silkroadhorizons-com
-title: Is silkroadhorizons.com Legit? Trust Signal Check
+title: Is silkroadhorizons.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for silkroadhorizons.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  silkroadhorizons.com scores 88/100 on our public trust checks. Established
+  domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:39.116Z'
 finalUrl: 'https://silkroadhorizons.com/'
 reachable: true

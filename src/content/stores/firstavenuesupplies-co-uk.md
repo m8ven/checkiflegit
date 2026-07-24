@@ -1,10 +1,11 @@
 ---
 domain: firstavenuesupplies.co.uk
 slug: firstavenuesupplies-co-uk
-title: Is firstavenuesupplies.co.uk Legit? Trust Signal Check
+title: Is firstavenuesupplies.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for firstavenuesupplies.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  firstavenuesupplies.co.uk scores 100/100 on our public trust checks.
+  Established domain — registered 18.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:43:31.154Z'
 finalUrl: 'https://firstavenuesupplies.co.uk/'
 reachable: true

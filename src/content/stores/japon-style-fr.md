@@ -1,10 +1,10 @@
 ---
 domain: japon-style.fr
 slug: japon-style-fr
-title: Is japon-style.fr Legit? Trust Signal Check
+title: Is japon-style.fr Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for japon-style.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  japon-style.fr scores 73/100 on our public trust checks. Established domain —
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:30.986Z'
 finalUrl: 'https://www.japon-style.fr/'
 reachable: true

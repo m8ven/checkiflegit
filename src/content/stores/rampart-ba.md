@@ -1,10 +1,10 @@
 ---
 domain: rampart.ba
 slug: rampart-ba
-title: Is rampart.ba Legit? Trust Signal Check
+title: Is rampart.ba Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for rampart.ba: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rampart.ba scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:42:49.409Z'
 finalUrl: 'https://rampart.ba/'
 reachable: true

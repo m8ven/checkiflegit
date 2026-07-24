@@ -1,10 +1,10 @@
 ---
 domain: skytour.tw
 slug: skytour-tw
-title: Is skytour.tw Legit? Trust Signal Check
+title: Is skytour.tw Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for skytour.tw: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  skytour.tw scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:11:17.014Z'
 finalUrl: 'https://skytour.tw/'
 reachable: true

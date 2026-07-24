@@ -1,10 +1,10 @@
 ---
 domain: drivingvisionnews.com
 slug: drivingvisionnews-com
-title: Is drivingvisionnews.com Legit? Trust Signal Check
+title: Is drivingvisionnews.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for drivingvisionnews.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  drivingvisionnews.com scores 100/100 on our public trust checks. Established
+  domain — registered 18.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:37.908Z'
 finalUrl: 'https://www.drivingvisionnews.com/'
 reachable: true

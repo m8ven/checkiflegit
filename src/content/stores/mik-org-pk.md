@@ -1,10 +1,10 @@
 ---
 domain: mik.org.pk
 slug: mik-org-pk
-title: Is mik.org.pk Legit? Trust Signal Check
+title: Is mik.org.pk Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mik.org.pk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mik.org.pk scores 100/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:35.037Z'
 finalUrl: 'https://mik.org.pk/'
 reachable: true

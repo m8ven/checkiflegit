@@ -1,10 +1,10 @@
 ---
 domain: entrepreneuriat.com
 slug: entrepreneuriat-com
-title: Is entrepreneuriat.com Legit? Trust Signal Check
+title: Is entrepreneuriat.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for entrepreneuriat.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  entrepreneuriat.com scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T03:43:43.422Z'
 finalUrl: 'https://entrepreneuriat.com/'
 reachable: true

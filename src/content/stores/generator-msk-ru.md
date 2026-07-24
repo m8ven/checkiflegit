@@ -1,10 +1,10 @@
 ---
 domain: generator.msk.ru
 slug: generator-msk-ru
-title: Is generator.msk.ru Legit? Trust Signal Check
+title: Is generator.msk.ru Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for generator.msk.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  generator.msk.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:46:56.481Z'
 finalUrl: 'https://generator.msk.ru/'
 reachable: true

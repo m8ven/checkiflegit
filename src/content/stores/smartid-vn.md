@@ -1,10 +1,10 @@
 ---
 domain: smartid.vn
 slug: smartid-vn
-title: Is smartid.vn Legit? Trust Signal Check
+title: Is smartid.vn Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for smartid.vn: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  smartid.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:02:04.959Z'
 finalUrl: 'https://smartid.vn/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: clasificadosmegalatin.com
 slug: clasificadosmegalatin-com
-title: Is clasificadosmegalatin.com Legit? Trust Signal Check
+title: Is clasificadosmegalatin.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for clasificadosmegalatin.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  clasificadosmegalatin.com scores 76/100 on our public trust checks.
+  Established domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:28:59.871Z'
 finalUrl: 'https://clasificadosmegalatin.com/'
 reachable: true

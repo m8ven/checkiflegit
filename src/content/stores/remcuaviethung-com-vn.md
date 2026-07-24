@@ -1,10 +1,10 @@
 ---
 domain: remcuaviethung.com.vn
 slug: remcuaviethung-com-vn
-title: Is remcuaviethung.com.vn Legit? Trust Signal Check
+title: Is remcuaviethung.com.vn Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for remcuaviethung.com.vn: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  remcuaviethung.com.vn scores 57/100 on our public trust checks. Standard
+  contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:24.313Z'
 finalUrl: 'https://remcuaviethung.com.vn/'
 reachable: true

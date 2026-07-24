@@ -1,10 +1,10 @@
 ---
 domain: sellzys.com
 slug: sellzys-com
-title: Is sellzys.com Legit? Trust Signal Check
+title: Is sellzys.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sellzys.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sellzys.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:53:08.138Z'
 finalUrl: 'https://sellzys.com/'
 reachable: true

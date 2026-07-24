@@ -1,10 +1,10 @@
 ---
 domain: d-green.ru
 slug: d-green-ru
-title: Is d-green.ru Legit? Trust Signal Check
+title: Is d-green.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for d-green.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  d-green.ru scores 73/100 on our public trust checks. Established domain —
+  registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:46.528Z'
 finalUrl: 'https://d-green.ru/'
 reachable: true

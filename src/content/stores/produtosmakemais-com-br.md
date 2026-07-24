@@ -1,10 +1,10 @@
 ---
 domain: produtosmakemais.com.br
 slug: produtosmakemais-com-br
-title: Is produtosmakemais.com.br Legit? Trust Signal Check
+title: Is produtosmakemais.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for produtosmakemais.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  produtosmakemais.com.br scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T11:59:16.647Z'
 finalUrl: 'https://produtosmakemais.com.br/'
 reachable: true

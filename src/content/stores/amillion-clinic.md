@@ -1,10 +1,10 @@
 ---
 domain: amillion.clinic
 slug: amillion-clinic
-title: Is amillion.clinic Legit? Trust Signal Check
+title: Is amillion.clinic Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for amillion.clinic: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  amillion.clinic scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:35:10.928Z'
 finalUrl: 'https://amillion.clinic/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: numbereightprophire.com
 slug: numbereightprophire-com
-title: Is numbereightprophire.com Legit? Trust Signal Check
+title: Is numbereightprophire.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for numbereightprophire.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  numbereightprophire.com scores 85/100 on our public trust checks. Established
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:00.849Z'
 finalUrl: 'https://numbereightprophire.com/'
 reachable: true

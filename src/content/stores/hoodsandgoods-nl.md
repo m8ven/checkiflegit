@@ -1,10 +1,10 @@
 ---
 domain: hoodsandgoods.nl
 slug: hoodsandgoods-nl
-title: Is hoodsandgoods.nl Legit? Trust Signal Check
+title: Is hoodsandgoods.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for hoodsandgoods.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hoodsandgoods.nl scores 88/100 on our public trust checks. Established domain
+  — registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:11.867Z'
 finalUrl: 'https://www.hoodsandgoods.nl/'
 reachable: true

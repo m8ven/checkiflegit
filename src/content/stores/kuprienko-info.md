@@ -1,10 +1,11 @@
 ---
 domain: kuprienko.info
 slug: kuprienko-info
-title: Is kuprienko.info Legit? Trust Signal Check
+title: Is kuprienko.info Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kuprienko.info: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kuprienko.info scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T03:47:19.043Z'
 finalUrl: 'https://kuprienko.info/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: myumzug.de
 slug: myumzug-de
-title: Is myumzug.de Legit? Trust Signal Check
+title: Is myumzug.de Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for myumzug.de: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  myumzug.de scores 61/100 on our public trust checks. No links to major social
+  platforms found. HTTPS certificate present but its trust chain is incomplete.
 fetchedAt: '2026-06-25T03:03:38.888Z'
 finalUrl: 'https://www.myumzug.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: algoritmbezopasnosti.ru
 slug: algoritmbezopasnosti-ru
-title: Is algoritmbezopasnosti.ru Legit? Trust Signal Check
+title: Is algoritmbezopasnosti.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for algoritmbezopasnosti.ru: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  algoritmbezopasnosti.ru scores 85/100 on our public trust checks. Established
+  domain — registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:17:37.403Z'
 finalUrl: 'https://algoritmbezopasnosti.ru/'
 reachable: true

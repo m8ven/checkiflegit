@@ -1,10 +1,10 @@
 ---
 domain: lanxiformer.com
 slug: lanxiformer-com
-title: Is lanxiformer.com Legit? Trust Signal Check
+title: Is lanxiformer.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lanxiformer.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lanxiformer.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:18:10.816Z'
 finalUrl: 'https://lanxiformer.com/'
 reachable: true

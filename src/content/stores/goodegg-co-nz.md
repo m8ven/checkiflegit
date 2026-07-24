@@ -1,10 +1,10 @@
 ---
 domain: goodegg.co.nz
 slug: goodegg-co-nz
-title: Is goodegg.co.nz Legit? Trust Signal Check
+title: Is goodegg.co.nz Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for goodegg.co.nz: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  goodegg.co.nz scores 100/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:32.145Z'
 finalUrl: 'https://www.goodegg.co.nz/'
 reachable: true

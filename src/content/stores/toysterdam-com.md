@@ -1,10 +1,10 @@
 ---
 domain: toysterdam.com
 slug: toysterdam-com
-title: Is toysterdam.com Legit? Trust Signal Check
+title: Is toysterdam.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for toysterdam.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  toysterdam.com scores 88/100 on our public trust checks. Established domain —
+  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:31.597Z'
 finalUrl: 'https://www.toysterdam.com/'
 reachable: true

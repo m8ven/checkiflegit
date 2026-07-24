@@ -1,10 +1,10 @@
 ---
 domain: wildernessgallery.ca
 slug: wildernessgallery-ca
-title: Is wildernessgallery.ca Legit? Trust Signal Check
+title: Is wildernessgallery.ca Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for wildernessgallery.ca: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  wildernessgallery.ca scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:56:09.216Z'
 finalUrl: 'https://wildernessgallery.ca/'
 reachable: true

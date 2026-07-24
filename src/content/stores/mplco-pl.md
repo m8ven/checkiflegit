@@ -1,10 +1,10 @@
 ---
 domain: mplco.pl
 slug: mplco-pl
-title: Is mplco.pl Legit? Trust Signal Check
+title: Is mplco.pl Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mplco.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mplco.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:36:11.736Z'
 finalUrl: 'https://www.mplco.pl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: takkruto.ru
 slug: takkruto-ru
-title: Is takkruto.ru Legit? Trust Signal Check
+title: Is takkruto.ru Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for takkruto.ru: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  takkruto.ru scores 43/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:05:27.662Z'
 finalUrl: 'http://takkruto.ru/'
 reachable: true

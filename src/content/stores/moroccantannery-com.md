@@ -1,10 +1,10 @@
 ---
 domain: moroccantannery.com
 slug: moroccantannery-com
-title: Is moroccantannery.com Legit? Trust Signal Check
+title: Is moroccantannery.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for moroccantannery.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  moroccantannery.com scores 85/100 on our public trust checks. Established
+  domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:40.184Z'
 finalUrl: 'https://moroccantannery.com/'
 reachable: true

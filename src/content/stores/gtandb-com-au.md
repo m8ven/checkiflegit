@@ -1,10 +1,10 @@
 ---
 domain: gtandb.com.au
 slug: gtandb-com-au
-title: Is gtandb.com.au Legit? Trust Signal Check
+title: Is gtandb.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for gtandb.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gtandb.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:59:49.069Z'
 finalUrl: 'https://gtandb.com.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gm-outdoor.nl
 slug: gm-outdoor-nl
-title: Is gm-outdoor.nl Legit? Trust Signal Check
+title: Is gm-outdoor.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for gm-outdoor.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gm-outdoor.nl scores 88/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:18:20.185Z'
 finalUrl: 'https://www.gm-outdoor.nl/'
 reachable: true

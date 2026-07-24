@@ -1,10 +1,10 @@
 ---
 domain: shop.meteoproject.it
 slug: shop-meteoproject-it
-title: Is shop.meteoproject.it Legit? Trust Signal Check
+title: Is shop.meteoproject.it Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for shop.meteoproject.it: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.meteoproject.it scores 57/100 on our public trust checks. Standard
+  contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:31:14.492Z'
 finalUrl: 'https://shop.meteoproject.it/'
 reachable: true

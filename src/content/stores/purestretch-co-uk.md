@@ -1,10 +1,10 @@
 ---
 domain: purestretch.co.uk
 slug: purestretch-co-uk
-title: Is purestretch.co.uk Legit? Trust Signal Check
+title: Is purestretch.co.uk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for purestretch.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  purestretch.co.uk scores 88/100 on our public trust checks. Established domain
+  — registered 16.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:06.086Z'
 finalUrl: 'https://www.purestretch.co.uk/'
 reachable: true

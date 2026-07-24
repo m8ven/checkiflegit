@@ -1,10 +1,10 @@
 ---
 domain: theal5aesthetics.com
 slug: theal5aesthetics-com
-title: Is theal5aesthetics.com Legit? Trust Signal Check
+title: Is theal5aesthetics.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for theal5aesthetics.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  theal5aesthetics.com scores 85/100 on our public trust checks. Established
+  domain — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:27.946Z'
 finalUrl: 'https://theal5aesthetics.com/'
 reachable: true

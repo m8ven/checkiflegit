@@ -1,10 +1,10 @@
 ---
 domain: asialoha.boiteanuages.fr
 slug: asialoha-boiteanuages-fr
-title: Is asialoha.boiteanuages.fr Legit? Trust Signal Check
+title: Is asialoha.boiteanuages.fr Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for asialoha.boiteanuages.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  asialoha.boiteanuages.fr scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:47.797Z'
 finalUrl: 'https://asialoha.boiteanuages.fr/'
 reachable: true

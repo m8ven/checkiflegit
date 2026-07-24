@@ -1,10 +1,10 @@
 ---
 domain: laboratoriovihom.com
 slug: laboratoriovihom-com
-title: Is laboratoriovihom.com Legit? Trust Signal Check
+title: Is laboratoriovihom.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for laboratoriovihom.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  laboratoriovihom.com scores 73/100 on our public trust checks. Established
+  domain — registered 17 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:17.921Z'
 finalUrl: 'https://laboratoriovihom.com/'
 reachable: true

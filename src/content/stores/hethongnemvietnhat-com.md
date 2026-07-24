@@ -1,10 +1,10 @@
 ---
 domain: hethongnemvietnhat.com
 slug: hethongnemvietnhat-com
-title: Is hethongnemvietnhat.com Legit? Trust Signal Check
+title: Is hethongnemvietnhat.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for hethongnemvietnhat.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  hethongnemvietnhat.com scores 64/100 on our public trust checks. Domain is
+  relatively young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:48:02.959Z'
 finalUrl: 'https://hethongnemvietnhat.com/'
 reachable: true

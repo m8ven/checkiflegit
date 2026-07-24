@@ -1,10 +1,11 @@
 ---
 domain: porszivos.hu
 slug: porszivos-hu
-title: Is porszivos.hu Legit? Trust Signal Check
+title: Is porszivos.hu Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for porszivos.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  porszivos.hu scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:41:18.621Z'
 finalUrl: 'https://porszivos.hu/'
 reachable: true

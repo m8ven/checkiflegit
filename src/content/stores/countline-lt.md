@@ -1,10 +1,10 @@
 ---
 domain: countline.lt
 slug: countline-lt
-title: Is countline.lt Legit? Trust Signal Check
+title: Is countline.lt Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for countline.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  countline.lt scores 88/100 on our public trust checks. Established domain —
+  registered 23.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:07.352Z'
 finalUrl: 'https://www.countline.lt/'
 reachable: true

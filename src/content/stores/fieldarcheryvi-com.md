@@ -1,10 +1,10 @@
 ---
 domain: fieldarcheryvi.com
 slug: fieldarcheryvi-com
-title: Is fieldarcheryvi.com Legit? Trust Signal Check
+title: Is fieldarcheryvi.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for fieldarcheryvi.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fieldarcheryvi.com scores 70/100 on our public trust checks. Established
+  domain — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:51.706Z'
 finalUrl: 'https://fieldarcheryvi.com/'
 reachable: true

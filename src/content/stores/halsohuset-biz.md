@@ -1,10 +1,10 @@
 ---
 domain: halsohuset.biz
 slug: halsohuset-biz
-title: Is halsohuset.biz Legit? Trust Signal Check
+title: Is halsohuset.biz Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for halsohuset.biz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  halsohuset.biz scores 49/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:20:10.917Z'
 finalUrl: 'https://www.halsohuset.biz/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: avist.su
 slug: avist-su
-title: Is avist.su Legit? Trust Signal Check
+title: Is avist.su Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for avist.su: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  avist.su scores 73/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:25.287Z'
 finalUrl: 'https://avist.su/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: rmt-tuning.de
 slug: rmt-tuning-de
-title: Is rmt-tuning.de Legit? Trust Signal Check
+title: Is rmt-tuning.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rmt-tuning.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rmt-tuning.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:57:53.266Z'
 finalUrl: 'https://rmt-tuning.de/'
 reachable: true

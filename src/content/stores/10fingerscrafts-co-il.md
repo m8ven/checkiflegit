@@ -1,10 +1,10 @@
 ---
 domain: 10fingerscrafts.co.il
 slug: 10fingerscrafts-co-il
-title: Is 10fingerscrafts.co.il Legit? Trust Signal Check
+title: Is 10fingerscrafts.co.il Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for 10fingerscrafts.co.il: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  10fingerscrafts.co.il scores 57/100 on our public trust checks. Standard
+  contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:12.680Z'
 finalUrl: 'https://10fingerscrafts.co.il/'
 reachable: true

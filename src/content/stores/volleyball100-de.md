@@ -1,10 +1,10 @@
 ---
 domain: volleyball100.de
 slug: volleyball100-de
-title: Is volleyball100.de Legit? Trust Signal Check
+title: Is volleyball100.de Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for volleyball100.de: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  volleyball100.de scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:19:19.920Z'
 finalUrl: 'https://unitedvolleys.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: anisconstructions.com
 slug: anisconstructions-com
-title: Is anisconstructions.com Legit? Trust Signal Check
+title: Is anisconstructions.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for anisconstructions.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  anisconstructions.com scores 85/100 on our public trust checks. Established
+  domain — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:57.863Z'
 finalUrl: 'https://anisconstructions.com/'
 reachable: true

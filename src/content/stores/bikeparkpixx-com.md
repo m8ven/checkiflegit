@@ -1,10 +1,10 @@
 ---
 domain: bikeparkpixx.com
 slug: bikeparkpixx-com
-title: Is bikeparkpixx.com Legit? Trust Signal Check
+title: Is bikeparkpixx.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for bikeparkpixx.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bikeparkpixx.com scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T15:02:55.289Z'
 finalUrl: 'https://bikeparkpixx.com/'
 reachable: true

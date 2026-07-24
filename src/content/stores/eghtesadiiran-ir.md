@@ -1,10 +1,10 @@
 ---
 domain: eghtesadiiran.ir
 slug: eghtesadiiran-ir
-title: Is eghtesadiiran.ir Legit? Trust Signal Check
+title: Is eghtesadiiran.ir Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for eghtesadiiran.ir: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eghtesadiiran.ir scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:18.443Z'
 finalUrl: 'https://eghtesadiiran.ir/'
 reachable: true

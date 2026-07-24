@@ -1,10 +1,10 @@
 ---
 domain: ovs.it
 slug: ovs-it
-title: Is ovs.it Legit? Trust Signal Check
+title: Is ovs.it Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ovs.it: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  ovs.it scores 88/100 on our public trust checks. Established domain —
+  registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:05.658Z'
 finalUrl: 'https://www.ovs.it/it/it/'
 reachable: true

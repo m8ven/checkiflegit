@@ -1,10 +1,10 @@
 ---
 domain: wordpresslab.ru
 slug: wordpresslab-ru
-title: Is wordpresslab.ru Legit? Trust Signal Check
+title: Is wordpresslab.ru Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for wordpresslab.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wordpresslab.ru scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T12:10:39.025Z'
 finalUrl: 'https://wordpresslab.ru/'
 reachable: true

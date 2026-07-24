@@ -1,10 +1,10 @@
 ---
 domain: fjbsports.com.br
 slug: fjbsports-com-br
-title: Is fjbsports.com.br Legit? Trust Signal Check
+title: Is fjbsports.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for fjbsports.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fjbsports.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:47:47.947Z'
 finalUrl: 'https://fjbsports.com.br/'
 reachable: true

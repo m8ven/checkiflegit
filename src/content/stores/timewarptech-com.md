@@ -1,10 +1,10 @@
 ---
 domain: timewarptech.com
 slug: timewarptech-com
-title: Is timewarptech.com Legit? Trust Signal Check
+title: Is timewarptech.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for timewarptech.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  timewarptech.com scores 70/100 on our public trust checks. Established domain
+  — registered 26.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:09.101Z'
 finalUrl: 'https://timewarptech.com/'
 reachable: true

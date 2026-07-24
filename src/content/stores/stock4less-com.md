@@ -1,10 +1,10 @@
 ---
 domain: stock4less.com
 slug: stock4less-com
-title: Is stock4less.com Legit? Trust Signal Check
+title: Is stock4less.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for stock4less.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stock4less.com scores 100/100 on our public trust checks. Established domain —
+  registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:14.591Z'
 finalUrl: 'https://stock4less.com/'
 reachable: true

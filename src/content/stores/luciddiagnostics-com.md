@@ -1,10 +1,10 @@
 ---
 domain: luciddiagnostics.com
 slug: luciddiagnostics-com
-title: Is luciddiagnostics.com Legit? Trust Signal Check
+title: Is luciddiagnostics.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for luciddiagnostics.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  luciddiagnostics.com scores 88/100 on our public trust checks. Established
+  domain — registered 19.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:38.964Z'
 finalUrl: 'https://luciddiagnostics.com/'
 reachable: true

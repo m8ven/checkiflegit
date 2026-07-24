@@ -1,10 +1,10 @@
 ---
 domain: bastardsknives.com
 slug: bastardsknives-com
-title: Is bastardsknives.com Legit? Trust Signal Check
+title: Is bastardsknives.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bastardsknives.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bastardsknives.com scores 100/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:57.891Z'
 finalUrl: 'https://bastardsknives.com/'
 reachable: true

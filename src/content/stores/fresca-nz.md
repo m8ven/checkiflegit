@@ -1,10 +1,10 @@
 ---
 domain: fresca.nz
 slug: fresca-nz
-title: Is fresca.nz Legit? Trust Signal Check
+title: Is fresca.nz Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fresca.nz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fresca.nz scores 88/100 on our public trust checks. Established domain —
+  registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:22.488Z'
 finalUrl: 'https://fresca.nz/'
 reachable: true

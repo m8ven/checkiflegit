@@ -1,10 +1,10 @@
 ---
 domain: free-scores.com
 slug: free-scores-com
-title: Is free-scores.com Legit? Trust Signal Check
+title: Is free-scores.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for free-scores.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  free-scores.com scores 76/100 on our public trust checks. Established domain —
+  registered 25.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:45.729Z'
 finalUrl: 'https://www.free-scores.com/index_uk.php'
 reachable: true

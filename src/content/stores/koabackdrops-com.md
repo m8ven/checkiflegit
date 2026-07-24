@@ -1,10 +1,10 @@
 ---
 domain: koabackdrops.com
 slug: koabackdrops-com
-title: Is koabackdrops.com Legit? Trust Signal Check
+title: Is koabackdrops.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for koabackdrops.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  koabackdrops.com scores 100/100 on our public trust checks. Established domain
+  — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:31.875Z'
 finalUrl: 'https://koabackdrops.com/'
 reachable: true

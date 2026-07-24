@@ -1,10 +1,10 @@
 ---
 domain: krystian.com.pl
 slug: krystian-com-pl
-title: Is krystian.com.pl Legit? Trust Signal Check
+title: Is krystian.com.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for krystian.com.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  krystian.com.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:01:31.754Z'
 finalUrl: 'https://www.krystian.com.pl/'
 reachable: true

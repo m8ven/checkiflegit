@@ -1,10 +1,10 @@
 ---
 domain: prisipusksypsena.lt
 slug: prisipusksypsena-lt
-title: Is prisipusksypsena.lt Legit? Trust Signal Check
+title: Is prisipusksypsena.lt Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for prisipusksypsena.lt: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  prisipusksypsena.lt scores 88/100 on our public trust checks. Established
+  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:56.589Z'
 finalUrl: 'https://prisipusksypsena.lt/'
 reachable: true

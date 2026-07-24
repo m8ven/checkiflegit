@@ -1,10 +1,10 @@
 ---
 domain: mamaguru.hu
 slug: mamaguru-hu
-title: Is mamaguru.hu Legit? Trust Signal Check
+title: Is mamaguru.hu Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for mamaguru.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  mamaguru.hu scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:51:49.618Z'
 finalUrl: 'https://mamaguru.hu/'
 reachable: true

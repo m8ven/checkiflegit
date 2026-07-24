@@ -1,10 +1,10 @@
 ---
 domain: ecocell.com.au
 slug: ecocell-com-au
-title: Is ecocell.com.au Legit? Trust Signal Check
+title: Is ecocell.com.au Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ecocell.com.au: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ecocell.com.au scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:36:13.872Z'
 finalUrl: 'https://ecocell.com.au/'
 reachable: true

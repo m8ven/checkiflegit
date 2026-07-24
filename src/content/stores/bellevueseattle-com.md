@@ -1,10 +1,10 @@
 ---
 domain: bellevueseattle.com
 slug: bellevueseattle-com
-title: Is bellevueseattle.com Legit? Trust Signal Check
+title: Is bellevueseattle.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for bellevueseattle.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bellevueseattle.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:36:10.103Z'
 finalUrl: 'https://bellevueseattle.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: chinami-chita.jp
 slug: chinami-chita-jp
-title: Is chinami-chita.jp Legit? Trust Signal Check
+title: Is chinami-chita.jp Legit? Trust Score 16/100
 description: >-
-  An automated trust-signal check for chinami-chita.jp: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  chinami-chita.jp scores 16/100 on our public trust checks. Domain registered
+  very recently (55 days ago). No links to major social platforms found.
 fetchedAt: '2026-06-25T15:15:25.586Z'
 finalUrl: 'https://www.chinami-chita.jp/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: nabigfootsearch.net
 slug: nabigfootsearch-net
-title: Is nabigfootsearch.net Legit? Trust Signal Check
+title: Is nabigfootsearch.net Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for nabigfootsearch.net: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  nabigfootsearch.net scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T03:57:50.557Z'
 finalUrl: 'https://nabigfootsearch.net/'
 reachable: true

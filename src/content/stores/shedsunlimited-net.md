@@ -1,10 +1,10 @@
 ---
 domain: shedsunlimited.net
 slug: shedsunlimited-net
-title: Is shedsunlimited.net Legit? Trust Signal Check
+title: Is shedsunlimited.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shedsunlimited.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shedsunlimited.net scores 100/100 on our public trust checks. Established
+  domain — registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:02:50.425Z'
 finalUrl: 'https://shedsunlimited.net/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jardinopia.com
 slug: jardinopia-com
-title: Is jardinopia.com Legit? Trust Signal Check
+title: Is jardinopia.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for jardinopia.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jardinopia.com scores 94/100 on our public trust checks. Established domain —
+  registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:48.038Z'
 finalUrl: 'https://www.jardinopia.com/'
 reachable: true

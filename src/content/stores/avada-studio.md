@@ -1,10 +1,10 @@
 ---
 domain: avada.studio
 slug: avada-studio
-title: Is avada.studio Legit? Trust Signal Check
+title: Is avada.studio Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for avada.studio: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  avada.studio scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:27.674Z'
 finalUrl: 'https://avada.studio/'
 reachable: true

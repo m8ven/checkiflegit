@@ -1,10 +1,10 @@
 ---
 domain: thermoclim.ro
 slug: thermoclim-ro
-title: Is thermoclim.ro Legit? Trust Signal Check
+title: Is thermoclim.ro Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for thermoclim.ro: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thermoclim.ro scores 82/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:25.645Z'
 finalUrl: 'https://thermoclim.ro/'
 reachable: true

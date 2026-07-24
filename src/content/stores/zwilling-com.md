@@ -1,10 +1,10 @@
 ---
 domain: zwilling.com
 slug: zwilling-com
-title: Is zwilling.com Legit? Trust Signal Check
+title: Is zwilling.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for zwilling.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zwilling.com scores 88/100 on our public trust checks. Established domain —
+  registered 28.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:39.995Z'
 finalUrl: 'https://www.zwilling.com/us/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: westside.com
 slug: westside-com
-title: Is westside.com Legit? Trust Signal Check
+title: Is westside.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for westside.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  westside.com scores 70/100 on our public trust checks. Established domain —
+  registered 32.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:56.725Z'
 finalUrl: 'https://www.westside.com/'
 reachable: true

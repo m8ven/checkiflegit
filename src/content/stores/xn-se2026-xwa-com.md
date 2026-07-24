@@ -1,10 +1,10 @@
 ---
 domain: xn--se2026-xwa.com
 slug: xn-se2026-xwa-com
-title: Is xn--se2026-xwa.com Legit? Trust Signal Check
+title: Is xn--se2026-xwa.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for xn--se2026-xwa.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  xn--se2026-xwa.com scores 73/100 on our public trust checks. Established
+  domain — registered 1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:34:30.472Z'
 finalUrl: 'https://xn--se2026-xwa.com/'
 reachable: true

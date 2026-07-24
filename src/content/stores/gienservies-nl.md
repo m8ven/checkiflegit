@@ -1,10 +1,10 @@
 ---
 domain: gienservies.nl
 slug: gienservies-nl
-title: Is gienservies.nl Legit? Trust Signal Check
+title: Is gienservies.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for gienservies.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gienservies.nl scores 88/100 on our public trust checks. Established domain —
+  registered 12 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:12.136Z'
 finalUrl: 'https://gienservies.nl/'
 reachable: true

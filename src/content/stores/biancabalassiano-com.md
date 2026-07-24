@@ -1,10 +1,10 @@
 ---
 domain: biancabalassiano.com
 slug: biancabalassiano-com
-title: Is biancabalassiano.com Legit? Trust Signal Check
+title: Is biancabalassiano.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for biancabalassiano.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  biancabalassiano.com scores 76/100 on our public trust checks. Established
+  domain — registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:30.627Z'
 finalUrl: 'https://biancabalassiano.com/'
 reachable: true

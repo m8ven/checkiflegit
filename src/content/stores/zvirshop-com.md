@@ -1,10 +1,10 @@
 ---
 domain: zvirshop.com
 slug: zvirshop-com
-title: Is zvirshop.com Legit? Trust Signal Check
+title: Is zvirshop.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for zvirshop.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zvirshop.com scores 88/100 on our public trust checks. Established domain —
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:29:32.447Z'
 finalUrl: 'https://www.zvirshop.com/'
 reachable: true

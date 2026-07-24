@@ -1,10 +1,10 @@
 ---
 domain: sugarandspicecustomcreations.net
 slug: sugarandspicecustomcreations-net
-title: Is sugarandspicecustomcreations.net Legit? Trust Signal Check
+title: Is sugarandspicecustomcreations.net Legit? Score 82/100
 description: >-
-  An automated trust-signal check for sugarandspicecustomcreations.net: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  sugarandspicecustomcreations.net scores 82/100 on our public trust checks.
+  Established domain — registered 2.2 years ago.
 fetchedAt: '2026-06-25T12:40:09.730Z'
 finalUrl: 'https://sugarandspicecustomcreations.net/'
 reachable: true

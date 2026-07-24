@@ -1,10 +1,10 @@
 ---
 domain: miriamlindaweiss.de
 slug: miriamlindaweiss-de
-title: Is miriamlindaweiss.de Legit? Trust Signal Check
+title: Is miriamlindaweiss.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for miriamlindaweiss.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  miriamlindaweiss.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:28:29.306Z'
 finalUrl: 'https://www.miriamlindaweiss.de/'
 reachable: true

@@ -1,11 +1,10 @@
 ---
 domain: highprofiledispensary.uk
 slug: highprofiledispensary-uk
-title: Is highprofiledispensary.uk Legit? Trust Signal Check
+title: Is highprofiledispensary.uk Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for highprofiledispensary.uk: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  highprofiledispensary.uk scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:48:08.999Z'
 finalUrl: 'https://highprofiledispensary.uk/'
 reachable: true

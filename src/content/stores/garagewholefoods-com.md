@@ -1,10 +1,10 @@
 ---
 domain: garagewholefoods.com
 slug: garagewholefoods-com
-title: Is garagewholefoods.com Legit? Trust Signal Check
+title: Is garagewholefoods.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for garagewholefoods.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  garagewholefoods.com scores 82/100 on our public trust checks. Established
+  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:05.916Z'
 finalUrl: 'https://garagewholefoods.com/'
 reachable: true

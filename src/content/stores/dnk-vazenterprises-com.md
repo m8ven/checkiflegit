@@ -1,11 +1,10 @@
 ---
 domain: dnk.vazenterprises.com
 slug: dnk-vazenterprises-com
-title: Is dnk.vazenterprises.com Legit? Trust Signal Check
+title: Is dnk.vazenterprises.com Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for dnk.vazenterprises.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  dnk.vazenterprises.com scores 44/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T03:40:55.868Z'
 finalUrl: 'https://dnk.vazenterprises.com/'
 reachable: true

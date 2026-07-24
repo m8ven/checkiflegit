@@ -1,10 +1,10 @@
 ---
 domain: az-almaz.ru
 slug: az-almaz-ru
-title: Is az-almaz.ru Legit? Trust Signal Check
+title: Is az-almaz.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for az-almaz.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  az-almaz.ru scores 73/100 on our public trust checks. Established domain —
+  registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:25.776Z'
 finalUrl: 'https://az-almaz.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pom-pon.ch
 slug: pom-pon-ch
-title: Is pom-pon.ch Legit? Trust Signal Check
+title: Is pom-pon.ch Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pom-pon.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pom-pon.ch scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:48:04.152Z'
 finalUrl: 'https://pom-pon.ch/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: cupidclothings.com
 slug: cupidclothings-com
-title: Is cupidclothings.com Legit? Trust Signal Check
+title: Is cupidclothings.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for cupidclothings.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cupidclothings.com scores 88/100 on our public trust checks. Established
+  domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:52:20.027Z'
 finalUrl: 'https://cupidclothings.com/'
 reachable: true

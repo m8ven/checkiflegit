@@ -1,10 +1,10 @@
 ---
 domain: cpq.qc.ca
 slug: cpq-qc-ca
-title: Is cpq.qc.ca Legit? Trust Signal Check
+title: Is cpq.qc.ca Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cpq.qc.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cpq.qc.ca scores 76/100 on our public trust checks. Established domain —
+  registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:08.192Z'
 finalUrl: 'https://www.cpq.qc.ca/'
 reachable: true

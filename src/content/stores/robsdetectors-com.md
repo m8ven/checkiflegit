@@ -1,10 +1,10 @@
 ---
 domain: robsdetectors.com
 slug: robsdetectors-com
-title: Is robsdetectors.com Legit? Trust Signal Check
+title: Is robsdetectors.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for robsdetectors.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  robsdetectors.com scores 82/100 on our public trust checks. Established domain
+  — registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:32.603Z'
 finalUrl: 'https://www.robsdetectors.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: latortuguitablanca.com
 slug: latortuguitablanca-com
-title: Is latortuguitablanca.com Legit? Trust Signal Check
+title: Is latortuguitablanca.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for latortuguitablanca.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  latortuguitablanca.com scores 88/100 on our public trust checks. Established
+  domain — registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:18:57.331Z'
 finalUrl: 'https://latortuguitablanca.com/'
 reachable: true

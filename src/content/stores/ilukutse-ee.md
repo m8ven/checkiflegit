@@ -1,10 +1,10 @@
 ---
 domain: ilukutse.ee
 slug: ilukutse-ee
-title: Is ilukutse.ee Legit? Trust Signal Check
+title: Is ilukutse.ee Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ilukutse.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ilukutse.ee scores 88/100 on our public trust checks. Established domain —
+  registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:44.108Z'
 finalUrl: 'https://ilukutse.ee/'
 reachable: true

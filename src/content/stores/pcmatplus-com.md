@@ -1,10 +1,10 @@
 ---
 domain: pcmatplus.com
 slug: pcmatplus-com
-title: Is pcmatplus.com Legit? Trust Signal Check
+title: Is pcmatplus.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for pcmatplus.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pcmatplus.com scores 88/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:26:55.061Z'
 finalUrl: 'https://pcmatplus.com/'
 reachable: true

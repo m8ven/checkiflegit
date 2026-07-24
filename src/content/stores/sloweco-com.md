@@ -1,10 +1,10 @@
 ---
 domain: sloweco.com
 slug: sloweco-com
-title: Is sloweco.com Legit? Trust Signal Check
+title: Is sloweco.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sloweco.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sloweco.com scores 100/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:11:24.822Z'
 finalUrl: 'https://sloweco.com/'
 reachable: true

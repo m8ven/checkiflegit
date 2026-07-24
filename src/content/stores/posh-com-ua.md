@@ -1,10 +1,10 @@
 ---
 domain: posh.com.ua
 slug: posh-com-ua
-title: Is posh.com.ua Legit? Trust Signal Check
+title: Is posh.com.ua Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for posh.com.ua: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  posh.com.ua scores 58/100 on our public trust checks. Domain is relatively
+  young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:03:28.002Z'
 finalUrl: 'https://posh.com.ua/'
 reachable: true

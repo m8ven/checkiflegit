@@ -1,10 +1,10 @@
 ---
 domain: robomaniashop.it
 slug: robomaniashop-it
-title: Is robomaniashop.it Legit? Trust Signal Check
+title: Is robomaniashop.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for robomaniashop.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  robomaniashop.it scores 100/100 on our public trust checks. Established domain
+  — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:32.313Z'
 finalUrl: 'https://www.robomaniashop.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lovecyclingtech.co.uk
 slug: lovecyclingtech-co-uk
-title: Is lovecyclingtech.co.uk Legit? Trust Signal Check
+title: Is lovecyclingtech.co.uk Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for lovecyclingtech.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  lovecyclingtech.co.uk scores 70/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:34:52.352Z'
 finalUrl: 'https://lovecyclingtech.co.uk/'
 reachable: true

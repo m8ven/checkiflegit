@@ -1,11 +1,11 @@
 ---
 domain: azionecattolicamazara.it
 slug: azionecattolicamazara-it
-title: Is azionecattolicamazara.it Legit? Trust Signal Check
+title: Is azionecattolicamazara.it Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for azionecattolicamazara.it: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  azionecattolicamazara.it scores 43/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T12:13:13.099Z'
 finalUrl: 'https://www.azionecattolicamazara.it/'
 reachable: true

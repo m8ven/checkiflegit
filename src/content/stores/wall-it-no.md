@@ -1,10 +1,10 @@
 ---
 domain: wall-it.no
 slug: wall-it-no
-title: Is wall-it.no Legit? Trust Signal Check
+title: Is wall-it.no Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for wall-it.no: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  wall-it.no scores 58/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T12:09:33.570Z'
 finalUrl: 'https://wall-it.no/'
 reachable: true

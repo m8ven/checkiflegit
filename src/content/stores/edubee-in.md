@@ -1,10 +1,11 @@
 ---
 domain: edubee.in
 slug: edubee-in
-title: Is edubee.in Legit? Trust Signal Check
+title: Is edubee.in Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for edubee.in: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  edubee.in scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T03:40:40.832Z'
 finalUrl: 'https://edubee.in/'
 reachable: true

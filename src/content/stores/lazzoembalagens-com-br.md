@@ -1,11 +1,10 @@
 ---
 domain: lazzoembalagens.com.br
 slug: lazzoembalagens-com-br
-title: Is lazzoembalagens.com.br Legit? Trust Signal Check
+title: Is lazzoembalagens.com.br Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for lazzoembalagens.com.br: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  lazzoembalagens.com.br scores 44/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T12:19:30.940Z'
 finalUrl: 'https://lazzoembalagens.com.br/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: atelierq.nl
 slug: atelierq-nl
-title: Is atelierq.nl Legit? Trust Signal Check
+title: Is atelierq.nl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for atelierq.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  atelierq.nl scores 88/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:59:24.784Z'
 finalUrl: 'https://atelierq.nl/'
 reachable: true

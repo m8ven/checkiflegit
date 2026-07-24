@@ -1,10 +1,10 @@
 ---
 domain: candysnackexperts.com
 slug: candysnackexperts-com
-title: Is candysnackexperts.com Legit? Trust Signal Check
+title: Is candysnackexperts.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for candysnackexperts.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  candysnackexperts.com scores 94/100 on our public trust checks. Established
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:42.904Z'
 finalUrl: 'https://candysnackexperts.com/'
 reachable: true

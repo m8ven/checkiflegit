@@ -1,10 +1,10 @@
 ---
 domain: presonus.com
 slug: presonus-com
-title: Is presonus.com Legit? Trust Signal Check
+title: Is presonus.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for presonus.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  presonus.com scores 70/100 on our public trust checks. Established domain —
+  registered 30.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:31.064Z'
 finalUrl: 'https://www.presonus.com/'
 reachable: true

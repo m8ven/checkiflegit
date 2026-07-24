@@ -1,10 +1,10 @@
 ---
 domain: polifarbfarby.pl
 slug: polifarbfarby-pl
-title: Is polifarbfarby.pl Legit? Trust Signal Check
+title: Is polifarbfarby.pl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for polifarbfarby.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  polifarbfarby.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:02:53.883Z'
 finalUrl: 'https://polifarbfarby.pl/'
 reachable: true

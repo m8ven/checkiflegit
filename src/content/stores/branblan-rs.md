@@ -1,10 +1,10 @@
 ---
 domain: branblan.rs
 slug: branblan-rs
-title: Is branblan.rs Legit? Trust Signal Check
+title: Is branblan.rs Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for branblan.rs: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  branblan.rs scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:24:03.259Z'
 finalUrl: 'https://branblan.rs/'
 reachable: true

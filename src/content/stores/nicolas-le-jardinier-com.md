@@ -1,10 +1,10 @@
 ---
 domain: nicolas-le-jardinier.com
 slug: nicolas-le-jardinier-com
-title: Is nicolas-le-jardinier.com Legit? Trust Signal Check
+title: Is nicolas-le-jardinier.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for nicolas-le-jardinier.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  nicolas-le-jardinier.com scores 88/100 on our public trust checks. Established
+  domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:23:03.657Z'
 finalUrl: 'https://nicolas-le-jardinier.com/'
 reachable: true

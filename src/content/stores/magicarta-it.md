@@ -1,10 +1,10 @@
 ---
 domain: magicarta.it
 slug: magicarta-it
-title: Is magicarta.it Legit? Trust Signal Check
+title: Is magicarta.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for magicarta.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  magicarta.it scores 100/100 on our public trust checks. Established domain —
+  registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:38.520Z'
 finalUrl: 'https://www.magicarta.it/'
 reachable: true

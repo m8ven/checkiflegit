@@ -1,10 +1,11 @@
 ---
 domain: idental.co.il
 slug: idental-co-il
-title: Is idental.co.il Legit? Trust Signal Check
+title: Is idental.co.il Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for idental.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  idental.co.il scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:30:29.069Z'
 finalUrl: 'https://idental.co.il/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: specialguest.co.kr
 slug: specialguest-co-kr
-title: Is specialguest.co.kr Legit? Trust Signal Check
+title: Is specialguest.co.kr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for specialguest.co.kr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  specialguest.co.kr scores 100/100 on our public trust checks. Established
+  domain — registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:56.498Z'
 finalUrl: 'https://specialguest.co.kr/'
 reachable: true

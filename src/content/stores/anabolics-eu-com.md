@@ -1,10 +1,10 @@
 ---
 domain: anabolics-eu.com
 slug: anabolics-eu-com
-title: Is anabolics-eu.com Legit? Trust Signal Check
+title: Is anabolics-eu.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for anabolics-eu.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  anabolics-eu.com scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:19:08.220Z'
 finalUrl: 'https://anabolics-eu.com/'
 reachable: true

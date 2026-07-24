@@ -1,10 +1,10 @@
 ---
 domain: sunsuppv.com
 slug: sunsuppv-com
-title: Is sunsuppv.com Legit? Trust Signal Check
+title: Is sunsuppv.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for sunsuppv.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sunsuppv.com scores 94/100 on our public trust checks. Established domain —
+  registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:45.901Z'
 finalUrl: 'https://sunsuppv.com/'
 reachable: true

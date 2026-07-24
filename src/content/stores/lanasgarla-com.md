@@ -1,10 +1,10 @@
 ---
 domain: lanasgarla.com
 slug: lanasgarla-com
-title: Is lanasgarla.com Legit? Trust Signal Check
+title: Is lanasgarla.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for lanasgarla.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lanasgarla.com scores 70/100 on our public trust checks. Established domain —
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:27.807Z'
 finalUrl: 'https://lanasgarla.com/'
 reachable: true

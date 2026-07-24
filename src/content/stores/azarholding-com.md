@@ -1,10 +1,10 @@
 ---
 domain: azarholding.com
 slug: azarholding-com
-title: Is azarholding.com Legit? Trust Signal Check
+title: Is azarholding.com Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for azarholding.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  azarholding.com scores 66/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:36:15.656Z'
 finalUrl: 'https://azarholding.com/'
 reachable: true

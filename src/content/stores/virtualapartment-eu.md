@@ -1,10 +1,11 @@
 ---
 domain: virtualapartment.eu
 slug: virtualapartment-eu
-title: Is virtualapartment.eu Legit? Trust Signal Check
+title: Is virtualapartment.eu Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for virtualapartment.eu: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  virtualapartment.eu scores 57/100 on our public trust checks. No public
+  contact details detected on the homepage. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:11:18.496Z'
 finalUrl: 'https://virtualapartment.eu/'
 reachable: true

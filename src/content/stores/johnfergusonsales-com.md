@@ -1,10 +1,10 @@
 ---
 domain: johnfergusonsales.com
 slug: johnfergusonsales-com
-title: Is johnfergusonsales.com Legit? Trust Signal Check
+title: Is johnfergusonsales.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for johnfergusonsales.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  johnfergusonsales.com scores 88/100 on our public trust checks. Established
+  domain — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:54.555Z'
 finalUrl: 'https://johnfergusonsales.com/'
 reachable: true

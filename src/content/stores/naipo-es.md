@@ -1,10 +1,11 @@
 ---
 domain: naipo.es
 slug: naipo-es
-title: Is naipo.es Legit? Trust Signal Check
+title: Is naipo.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for naipo.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  naipo.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T15:24:03.424Z'
 finalUrl: 'https://naipo.es/'
 reachable: true

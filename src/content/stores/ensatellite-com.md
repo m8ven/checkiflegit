@@ -1,10 +1,10 @@
 ---
 domain: ensatellite.com
 slug: ensatellite-com
-title: Is ensatellite.com Legit? Trust Signal Check
+title: Is ensatellite.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ensatellite.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ensatellite.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:32:31.934Z'
 finalUrl: 'https://ensatellite.com/'
 reachable: true

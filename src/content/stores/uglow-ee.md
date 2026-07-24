@@ -1,10 +1,10 @@
 ---
 domain: uglow.ee
 slug: uglow-ee
-title: Is uglow.ee Legit? Trust Signal Check
+title: Is uglow.ee Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for uglow.ee: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  uglow.ee scores 58/100 on our public trust checks. Standard contact and policy
+  pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:08:03.173Z'
 finalUrl: 'https://uglow.ee/'
 reachable: true

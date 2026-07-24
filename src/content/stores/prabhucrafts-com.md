@@ -1,10 +1,10 @@
 ---
 domain: prabhucrafts.com
 slug: prabhucrafts-com
-title: Is prabhucrafts.com Legit? Trust Signal Check
+title: Is prabhucrafts.com Legit? Trust Score 67/100
 description: >-
-  An automated trust-signal check for prabhucrafts.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  prabhucrafts.com scores 67/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T15:23:42.965Z'
 finalUrl: 'https://prabhucrafts.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: dreamongallery.com
 slug: dreamongallery-com
-title: Is dreamongallery.com Legit? Trust Signal Check
+title: Is dreamongallery.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for dreamongallery.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dreamongallery.com scores 100/100 on our public trust checks. Established
+  domain — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:28.665Z'
 finalUrl: 'https://dreamongallery.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: loctok.com.br
 slug: loctok-com-br
-title: Is loctok.com.br Legit? Trust Signal Check
+title: Is loctok.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for loctok.com.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  loctok.com.br scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:23:01.574Z'
 finalUrl: 'https://www.loctok.com.br/'
 reachable: true

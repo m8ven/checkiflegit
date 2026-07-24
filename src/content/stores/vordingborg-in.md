@@ -1,10 +1,10 @@
 ---
 domain: vordingborg.in
 slug: vordingborg-in
-title: Is vordingborg.in Legit? Trust Signal Check
+title: Is vordingborg.in Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for vordingborg.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vordingborg.in scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:55:51.578Z'
 finalUrl: 'https://vordingborg.in/'
 reachable: true

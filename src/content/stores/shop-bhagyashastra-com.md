@@ -1,10 +1,10 @@
 ---
 domain: shop.bhagyashastra.com
 slug: shop-bhagyashastra-com
-title: Is shop.bhagyashastra.com Legit? Trust Signal Check
+title: Is shop.bhagyashastra.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.bhagyashastra.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.bhagyashastra.com scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:58.385Z'
 finalUrl: 'https://shop.bhagyashastra.com/'
 reachable: true

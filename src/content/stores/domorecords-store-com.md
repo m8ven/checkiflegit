@@ -1,10 +1,10 @@
 ---
 domain: domorecords-store.com
 slug: domorecords-store-com
-title: Is domorecords-store.com Legit? Trust Signal Check
+title: Is domorecords-store.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for domorecords-store.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  domorecords-store.com scores 88/100 on our public trust checks. Established
+  domain — registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:29.917Z'
 finalUrl: 'https://domorecords-store.com/'
 reachable: true

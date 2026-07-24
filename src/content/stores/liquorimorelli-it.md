@@ -1,10 +1,10 @@
 ---
 domain: liquorimorelli.it
 slug: liquorimorelli-it
-title: Is liquorimorelli.it Legit? Trust Signal Check
+title: Is liquorimorelli.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for liquorimorelli.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  liquorimorelli.it scores 88/100 on our public trust checks. Established domain
+  — registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:08.319Z'
 finalUrl: 'https://liquorimorelli.it/'
 reachable: true

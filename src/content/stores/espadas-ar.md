@@ -1,10 +1,10 @@
 ---
 domain: espadas.ar
 slug: espadas-ar
-title: Is espadas.ar Legit? Trust Signal Check
+title: Is espadas.ar Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for espadas.ar: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  espadas.ar scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:32:49.515Z'
 finalUrl: 'https://espadas.ar/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: petramoes.nl
 slug: petramoes-nl
-title: Is petramoes.nl Legit? Trust Signal Check
+title: Is petramoes.nl Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for petramoes.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  petramoes.nl scores 52/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:47:27.217Z'
 finalUrl: 'https://petramoes.nl/'
 reachable: true

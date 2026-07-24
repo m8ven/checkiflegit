@@ -1,10 +1,10 @@
 ---
 domain: sexyshop.ba
 slug: sexyshop-ba
-title: Is sexyshop.ba Legit? Trust Signal Check
+title: Is sexyshop.ba Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sexyshop.ba: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sexyshop.ba scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:44:47.493Z'
 finalUrl: 'https://sexyshop.ba/'
 reachable: true

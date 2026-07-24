@@ -1,10 +1,10 @@
 ---
 domain: jppharma.com.br
 slug: jppharma-com-br
-title: Is jppharma.com.br Legit? Trust Signal Check
+title: Is jppharma.com.br Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for jppharma.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jppharma.com.br scores 66/100 on our public trust checks. HTTPS certificate
+  present but its trust chain is incomplete.
 fetchedAt: '2026-06-25T02:40:27.070Z'
 finalUrl: 'http://jppharma.com.br/'
 reachable: true

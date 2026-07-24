@@ -1,10 +1,10 @@
 ---
 domain: quiltblox.com
 slug: quiltblox-com
-title: Is quiltblox.com Legit? Trust Signal Check
+title: Is quiltblox.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for quiltblox.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  quiltblox.com scores 88/100 on our public trust checks. Established domain —
+  registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:53:16.045Z'
 finalUrl: 'https://quiltblox.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pauseforinspiration.org
 slug: pauseforinspiration-org
-title: Is pauseforinspiration.org Legit? Trust Signal Check
+title: Is pauseforinspiration.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pauseforinspiration.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pauseforinspiration.org scores 100/100 on our public trust checks. Established
+  domain — registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:01:16.661Z'
 finalUrl: 'https://pauseforinspiration.org/'
 reachable: true

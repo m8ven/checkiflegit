@@ -1,10 +1,10 @@
 ---
 domain: marcelinehistory.org
 slug: marcelinehistory-org
-title: Is marcelinehistory.org Legit? Trust Signal Check
+title: Is marcelinehistory.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for marcelinehistory.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  marcelinehistory.org scores 76/100 on our public trust checks. Established
+  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:15.892Z'
 finalUrl: 'https://www.marcelinehistory.org/'
 reachable: true

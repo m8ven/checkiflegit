@@ -1,10 +1,10 @@
 ---
 domain: udaption.com
 slug: udaption-com
-title: Is udaption.com Legit? Trust Signal Check
+title: Is udaption.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for udaption.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  udaption.com scores 85/100 on our public trust checks. Established domain —
+  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:48.429Z'
 finalUrl: 'https://udaption.com/'
 reachable: true

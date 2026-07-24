@@ -1,10 +1,10 @@
 ---
 domain: artisanatbladna.com
 slug: artisanatbladna-com
-title: Is artisanatbladna.com Legit? Trust Signal Check
+title: Is artisanatbladna.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for artisanatbladna.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  artisanatbladna.com scores 88/100 on our public trust checks. Established
+  domain — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:58:00.921Z'
 finalUrl: 'https://www.artisanatbladna.com/'
 reachable: true

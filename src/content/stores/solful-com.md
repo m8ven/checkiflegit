@@ -1,10 +1,10 @@
 ---
 domain: solful.com
 slug: solful-com
-title: Is solful.com Legit? Trust Signal Check
+title: Is solful.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for solful.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  solful.com scores 73/100 on our public trust checks. Established domain —
+  registered 15 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:03:58.898Z'
 finalUrl: 'https://solful.com/'
 reachable: true

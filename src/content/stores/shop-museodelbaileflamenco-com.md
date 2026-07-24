@@ -1,10 +1,10 @@
 ---
 domain: shop.museodelbaileflamenco.com
 slug: shop-museodelbaileflamenco-com
-title: Is shop.museodelbaileflamenco.com Legit? Trust Signal Check
+title: Is shop.museodelbaileflamenco.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for shop.museodelbaileflamenco.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  shop.museodelbaileflamenco.com scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:09.138Z'
 finalUrl: 'https://shop.museodelbaileflamenco.com/'
 reachable: true

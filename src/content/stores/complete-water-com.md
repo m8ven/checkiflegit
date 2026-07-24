@@ -1,10 +1,10 @@
 ---
 domain: complete-water.com
 slug: complete-water-com
-title: Is complete-water.com Legit? Trust Signal Check
+title: Is complete-water.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for complete-water.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  complete-water.com scores 100/100 on our public trust checks. Established
+  domain — registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:46.501Z'
 finalUrl: 'https://complete-water.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: affect.bg
 slug: affect-bg
-title: Is affect.bg Legit? Trust Signal Check
+title: Is affect.bg Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for affect.bg: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  affect.bg scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T02:41:08.476Z'
 finalUrl: 'https://affect.bg/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: brookeslearning.ca
 slug: brookeslearning-ca
-title: Is brookeslearning.ca Legit? Trust Signal Check
+title: Is brookeslearning.ca Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for brookeslearning.ca: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  brookeslearning.ca scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:20:36.675Z'
 finalUrl: 'https://brookeslearning.ca/'
 reachable: true

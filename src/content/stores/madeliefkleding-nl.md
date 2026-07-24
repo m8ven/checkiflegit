@@ -1,10 +1,10 @@
 ---
 domain: madeliefkleding.nl
 slug: madeliefkleding-nl
-title: Is madeliefkleding.nl Legit? Trust Signal Check
+title: Is madeliefkleding.nl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for madeliefkleding.nl: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  madeliefkleding.nl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:49:15.462Z'
 finalUrl: 'https://madeliefkleding.nl/'
 reachable: true

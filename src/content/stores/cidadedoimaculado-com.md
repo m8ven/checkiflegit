@@ -1,10 +1,10 @@
 ---
 domain: cidadedoimaculado.com
 slug: cidadedoimaculado-com
-title: Is cidadedoimaculado.com Legit? Trust Signal Check
+title: Is cidadedoimaculado.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for cidadedoimaculado.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cidadedoimaculado.com scores 70/100 on our public trust checks. Established
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:07.296Z'
 finalUrl: 'https://www.cidadedoimaculado.com/'
 reachable: true

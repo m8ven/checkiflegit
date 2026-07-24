@@ -1,10 +1,10 @@
 ---
 domain: visja-vibracija.si
 slug: visja-vibracija-si
-title: Is visja-vibracija.si Legit? Trust Signal Check
+title: Is visja-vibracija.si Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for visja-vibracija.si: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  visja-vibracija.si scores 76/100 on our public trust checks. Established
+  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:05.499Z'
 finalUrl: 'https://www.visja-vibracija.si/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: modena21.com.br
 slug: modena21-com-br
-title: Is modena21.com.br Legit? Trust Signal Check
+title: Is modena21.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for modena21.com.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  modena21.com.br scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:44:44.478Z'
 finalUrl: 'https://modena21.com.br/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kreaktivismus.org
 slug: kreaktivismus-org
-title: Is kreaktivismus.org Legit? Trust Signal Check
+title: Is kreaktivismus.org Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for kreaktivismus.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kreaktivismus.org scores 82/100 on our public trust checks. Established domain
+  — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:43.208Z'
 finalUrl: 'https://kreaktivismus.org/'
 reachable: true

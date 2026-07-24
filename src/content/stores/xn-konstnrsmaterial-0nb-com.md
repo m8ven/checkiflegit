@@ -1,11 +1,10 @@
 ---
 domain: xn--konstnrsmaterial-0nb.com
 slug: xn-konstnrsmaterial-0nb-com
-title: Is xn--konstnrsmaterial-0nb.com Legit? Trust Signal Check
+title: Is xn--konstnrsmaterial-0nb.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for xn--konstnrsmaterial-0nb.com: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  xn--konstnrsmaterial-0nb.com scores 43/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:29:46.740Z'
 finalUrl: 'https://xn--konstnrsmaterial-0nb.com/'
 reachable: true

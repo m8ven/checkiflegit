@@ -1,11 +1,10 @@
 ---
 domain: balashiha.fitness-bikini-shoes.ru
 slug: balashiha-fitness-bikini-shoes-ru
-title: Is balashiha.fitness-bikini-shoes.ru Legit? Trust Signal Check
+title: Is balashiha.fitness-bikini-shoes.ru Legit? Score 44/100
 description: >-
-  An automated trust-signal check for balashiha.fitness-bikini-shoes.ru: limited
-  trust signals — proceed with caution. Domain age, SSL, contact info, reviews
-  and more.
+  balashiha.fitness-bikini-shoes.ru scores 44/100 on our public trust checks. No
+  links to major social platforms found.
 fetchedAt: '2026-06-25T12:42:43.927Z'
 finalUrl: 'https://balashiha.fitness-bikini-shoes.ru/'
 reachable: true

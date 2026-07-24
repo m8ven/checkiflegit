@@ -1,10 +1,10 @@
 ---
 domain: abbigliamentototi.it
 slug: abbigliamentototi-it
-title: Is abbigliamentototi.it Legit? Trust Signal Check
+title: Is abbigliamentototi.it Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for abbigliamentototi.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  abbigliamentototi.it scores 94/100 on our public trust checks. Established
+  domain — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:48:34.844Z'
 finalUrl: 'https://www.abbigliamentototi.it/'
 reachable: true

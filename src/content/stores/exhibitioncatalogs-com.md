@@ -1,10 +1,10 @@
 ---
 domain: exhibitioncatalogs.com
 slug: exhibitioncatalogs-com
-title: Is exhibitioncatalogs.com Legit? Trust Signal Check
+title: Is exhibitioncatalogs.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for exhibitioncatalogs.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  exhibitioncatalogs.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T14:56:00.206Z'
 finalUrl: 'https://exhibitioncatalogs.com/'
 reachable: true

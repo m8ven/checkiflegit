@@ -1,10 +1,10 @@
 ---
 domain: fondasport.net
 slug: fondasport-net
-title: Is fondasport.net Legit? Trust Signal Check
+title: Is fondasport.net Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for fondasport.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fondasport.net scores 82/100 on our public trust checks. Established domain —
+  registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:14.859Z'
 finalUrl: 'https://www.fondasport.net/'
 reachable: true

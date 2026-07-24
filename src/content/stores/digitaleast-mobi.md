@@ -1,10 +1,10 @@
 ---
 domain: digitaleast.mobi
 slug: digitaleast-mobi
-title: Is digitaleast.mobi Legit? Trust Signal Check
+title: Is digitaleast.mobi Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for digitaleast.mobi: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  digitaleast.mobi scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-24T21:44:33.855Z'
 finalUrl: 'https://www.digitaleast.mobi/'
 reachable: true

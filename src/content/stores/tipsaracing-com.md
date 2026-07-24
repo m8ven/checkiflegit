@@ -1,10 +1,10 @@
 ---
 domain: tipsaracing.com
 slug: tipsaracing-com
-title: Is tipsaracing.com Legit? Trust Signal Check
+title: Is tipsaracing.com Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for tipsaracing.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tipsaracing.com scores 67/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:11:29.589Z'
 finalUrl: 'https://tipsaracing.com/'
 reachable: true

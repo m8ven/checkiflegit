@@ -1,10 +1,10 @@
 ---
 domain: groupe-imt.com
 slug: groupe-imt-com
-title: Is groupe-imt.com Legit? Trust Signal Check
+title: Is groupe-imt.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for groupe-imt.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  groupe-imt.com scores 85/100 on our public trust checks. Established domain —
+  registered 26.1 years ago. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:32:12.438Z'
 finalUrl: 'https://www.groupe-imt.com/'
 reachable: true

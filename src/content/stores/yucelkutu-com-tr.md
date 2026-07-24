@@ -1,10 +1,10 @@
 ---
 domain: yucelkutu.com.tr
 slug: yucelkutu-com-tr
-title: Is yucelkutu.com.tr Legit? Trust Signal Check
+title: Is yucelkutu.com.tr Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for yucelkutu.com.tr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  yucelkutu.com.tr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:30:08.937Z'
 finalUrl: 'https://yucelkutu.com.tr/'
 reachable: true

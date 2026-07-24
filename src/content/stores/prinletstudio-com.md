@@ -1,10 +1,10 @@
 ---
 domain: prinletstudio.com
 slug: prinletstudio-com
-title: Is prinletstudio.com Legit? Trust Signal Check
+title: Is prinletstudio.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for prinletstudio.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  prinletstudio.com scores 88/100 on our public trust checks. Established domain
+  — registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:35.369Z'
 finalUrl: 'https://www.prinletstudio.com/'
 reachable: true

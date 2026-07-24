@@ -1,10 +1,10 @@
 ---
 domain: hasmoternessa.org
 slug: hasmoternessa-org
-title: Is hasmoternessa.org Legit? Trust Signal Check
+title: Is hasmoternessa.org Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for hasmoternessa.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hasmoternessa.org scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T12:32:45.660Z'
 finalUrl: 'https://www.hasmoternessa.org/'
 reachable: true

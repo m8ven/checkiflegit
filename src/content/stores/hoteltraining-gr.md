@@ -1,10 +1,10 @@
 ---
 domain: hoteltraining.gr
 slug: hoteltraining-gr
-title: Is hoteltraining.gr Legit? Trust Signal Check
+title: Is hoteltraining.gr Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for hoteltraining.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hoteltraining.gr scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:39:03.613Z'
 finalUrl: 'https://hoteltraining.gr/'
 reachable: true

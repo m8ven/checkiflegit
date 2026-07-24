@@ -1,10 +1,10 @@
 ---
 domain: an1-homolog.com.br
 slug: an1-homolog-com-br
-title: Is an1-homolog.com.br Legit? Trust Signal Check
+title: Is an1-homolog.com.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for an1-homolog.com.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  an1-homolog.com.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:26:23.941Z'
 finalUrl: 'https://www.an1-homolog.com.br/'
 reachable: true

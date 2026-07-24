@@ -1,10 +1,10 @@
 ---
 domain: mrdmed.com
 slug: mrdmed-com
-title: Is mrdmed.com Legit? Trust Signal Check
+title: Is mrdmed.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mrdmed.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mrdmed.com scores 88/100 on our public trust checks. Established domain —
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:20:16.910Z'
 finalUrl: 'https://mrdmed.com/'
 reachable: true

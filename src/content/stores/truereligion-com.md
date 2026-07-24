@@ -1,10 +1,10 @@
 ---
 domain: truereligion.com
 slug: truereligion-com
-title: Is truereligion.com Legit? Trust Signal Check
+title: Is truereligion.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for truereligion.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  truereligion.com scores 100/100 on our public trust checks. Established domain
+  — registered 27.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:10.204Z'
 finalUrl: 'https://www.truereligion.com/'
 reachable: true

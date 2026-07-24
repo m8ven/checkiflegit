@@ -1,10 +1,10 @@
 ---
 domain: ecodigital.vn
 slug: ecodigital-vn
-title: Is ecodigital.vn Legit? Trust Signal Check
+title: Is ecodigital.vn Legit? Trust Score 49/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ecodigital.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ecodigital.vn scores 49/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T15:10:09.958Z'
 finalUrl: 'https://ecodigital.vn/'
 reachable: true

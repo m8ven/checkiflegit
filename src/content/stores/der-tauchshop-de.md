@@ -1,10 +1,10 @@
 ---
 domain: der-tauchshop.de
 slug: der-tauchshop-de
-title: Is der-tauchshop.de Legit? Trust Signal Check
+title: Is der-tauchshop.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for der-tauchshop.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  der-tauchshop.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:33:48.449Z'
 finalUrl: 'https://der-tauchshop.de/'
 reachable: true

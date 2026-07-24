@@ -1,10 +1,10 @@
 ---
 domain: toolcenter.pl
 slug: toolcenter-pl
-title: Is toolcenter.pl Legit? Trust Signal Check
+title: Is toolcenter.pl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for toolcenter.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  toolcenter.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:25:05.253Z'
 finalUrl: 'https://toolcenter.pl/'
 reachable: true

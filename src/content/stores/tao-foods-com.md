@@ -1,10 +1,10 @@
 ---
 domain: tao-foods.com
 slug: tao-foods-com
-title: Is tao-foods.com Legit? Trust Signal Check
+title: Is tao-foods.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for tao-foods.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tao-foods.com scores 88/100 on our public trust checks. Established domain —
+  registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:14:18.726Z'
 finalUrl: 'https://tao-foods.com/shop/'
 reachable: true

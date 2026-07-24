@@ -1,10 +1,10 @@
 ---
 domain: johannastruck.de
 slug: johannastruck-de
-title: Is johannastruck.de Legit? Trust Signal Check
+title: Is johannastruck.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for johannastruck.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  johannastruck.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:25:02.523Z'
 finalUrl: 'https://www.johannastruck.de/'
 reachable: true

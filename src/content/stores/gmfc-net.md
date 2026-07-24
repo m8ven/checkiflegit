@@ -1,10 +1,10 @@
 ---
 domain: gmfc.net
 slug: gmfc-net
-title: Is gmfc.net Legit? Trust Signal Check
+title: Is gmfc.net Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for gmfc.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gmfc.net scores 100/100 on our public trust checks. Established domain —
+  registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:44:43.580Z'
 finalUrl: 'https://gmfc.net/'
 reachable: true

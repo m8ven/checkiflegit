@@ -1,10 +1,10 @@
 ---
 domain: campgroundlist.com
 slug: campgroundlist-com
-title: Is campgroundlist.com Legit? Trust Signal Check
+title: Is campgroundlist.com Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for campgroundlist.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  campgroundlist.com scores 25/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T02:20:56.524Z'
 finalUrl: 'https://campgroundlist.com/'
 reachable: true

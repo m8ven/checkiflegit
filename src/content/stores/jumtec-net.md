@@ -1,10 +1,10 @@
 ---
 domain: jumtec.net
 slug: jumtec-net
-title: Is jumtec.net Legit? Trust Signal Check
+title: Is jumtec.net Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for jumtec.net: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jumtec.net scores 73/100 on our public trust checks. Established domain —
+  registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:37.676Z'
 finalUrl: 'https://jumtec.net/'
 reachable: true

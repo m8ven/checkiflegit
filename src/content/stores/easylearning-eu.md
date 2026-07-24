@@ -1,10 +1,10 @@
 ---
 domain: easylearning.eu
 slug: easylearning-eu
-title: Is easylearning.eu Legit? Trust Signal Check
+title: Is easylearning.eu Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for easylearning.eu: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  easylearning.eu scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:35:56.081Z'
 finalUrl: 'https://easylearning.eu/'
 reachable: true

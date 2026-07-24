@@ -1,10 +1,10 @@
 ---
 domain: ajormobasseri.com
 slug: ajormobasseri-com
-title: Is ajormobasseri.com Legit? Trust Signal Check
+title: Is ajormobasseri.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for ajormobasseri.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  ajormobasseri.com scores 43/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T14:58:42.996Z'
 finalUrl: 'https://ajormobasseri.com/'
 reachable: true

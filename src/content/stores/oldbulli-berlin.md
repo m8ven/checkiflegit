@@ -1,10 +1,10 @@
 ---
 domain: oldbulli.berlin
 slug: oldbulli-berlin
-title: Is oldbulli.berlin Legit? Trust Signal Check
+title: Is oldbulli.berlin Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for oldbulli.berlin: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  oldbulli.berlin scores 100/100 on our public trust checks. Established domain
+  — registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:27.812Z'
 finalUrl: 'https://oldbulli.berlin/'
 reachable: true

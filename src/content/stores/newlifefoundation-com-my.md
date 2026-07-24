@@ -1,10 +1,11 @@
 ---
 domain: newlifefoundation.com.my
 slug: newlifefoundation-com-my
-title: Is newlifefoundation.com.my Legit? Trust Signal Check
+title: Is newlifefoundation.com.my Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for newlifefoundation.com.my: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  newlifefoundation.com.my scores 100/100 on our public trust checks.
+  Established domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:39:30.656Z'
 finalUrl: 'https://www.newlifefoundation.com.my/'
 reachable: true

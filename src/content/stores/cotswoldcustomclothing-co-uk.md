@@ -1,10 +1,11 @@
 ---
 domain: cotswoldcustomclothing.co.uk
 slug: cotswoldcustomclothing-co-uk
-title: Is cotswoldcustomclothing.co.uk Legit? Trust Signal Check
+title: Is cotswoldcustomclothing.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cotswoldcustomclothing.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cotswoldcustomclothing.co.uk scores 100/100 on our public trust checks.
+  Established domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:29:46.758Z'
 finalUrl: 'https://cotswoldcustomclothing.co.uk/'
 reachable: true

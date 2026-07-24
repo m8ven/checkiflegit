@@ -1,10 +1,10 @@
 ---
 domain: browardinternationalwomensclub.org
 slug: browardinternationalwomensclub-org
-title: Is browardinternationalwomensclub.org Legit? Trust Signal Check
+title: Is browardinternationalwomensclub.org Legit? Score 88/100
 description: >-
-  An automated trust-signal check for browardinternationalwomensclub.org: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  browardinternationalwomensclub.org scores 88/100 on our public trust checks.
+  Established domain — registered 17.9 years ago.
 fetchedAt: '2026-06-25T02:20:36.902Z'
 finalUrl: 'https://browardinternationalwomensclub.org/'
 reachable: true

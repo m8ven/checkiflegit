@@ -1,10 +1,10 @@
 ---
 domain: ordershop.gallzick.com
 slug: ordershop-gallzick-com
-title: Is ordershop.gallzick.com Legit? Trust Signal Check
+title: Is ordershop.gallzick.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for ordershop.gallzick.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ordershop.gallzick.com scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:26:03.629Z'
 finalUrl: 'https://ordershop.gallzick.com/'
 reachable: true

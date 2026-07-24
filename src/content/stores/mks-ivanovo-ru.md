@@ -1,10 +1,10 @@
 ---
 domain: mks-ivanovo.ru
 slug: mks-ivanovo-ru
-title: Is mks-ivanovo.ru Legit? Trust Signal Check
+title: Is mks-ivanovo.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for mks-ivanovo.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mks-ivanovo.ru scores 85/100 on our public trust checks. Established domain —
+  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:57.647Z'
 finalUrl: 'https://mks-ivanovo.ru/'
 reachable: true

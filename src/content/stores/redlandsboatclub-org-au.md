@@ -1,10 +1,10 @@
 ---
 domain: redlandsboatclub.org.au
 slug: redlandsboatclub-org-au
-title: Is redlandsboatclub.org.au Legit? Trust Signal Check
+title: Is redlandsboatclub.org.au Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for redlandsboatclub.org.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  redlandsboatclub.org.au scores 91/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:28:11.972Z'
 finalUrl: 'https://redlandsboatclub.org.au/'
 reachable: true

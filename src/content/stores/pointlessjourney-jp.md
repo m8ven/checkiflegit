@@ -1,10 +1,10 @@
 ---
 domain: pointlessjourney.jp
 slug: pointlessjourney-jp
-title: Is pointlessjourney.jp Legit? Trust Signal Check
+title: Is pointlessjourney.jp Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for pointlessjourney.jp: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pointlessjourney.jp scores 64/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T15:27:43.451Z'
 finalUrl: 'https://pointlessjourney.jp/'
 reachable: true

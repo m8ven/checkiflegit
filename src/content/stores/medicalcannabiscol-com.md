@@ -1,10 +1,10 @@
 ---
 domain: medicalcannabiscol.com
 slug: medicalcannabiscol-com
-title: Is medicalcannabiscol.com Legit? Trust Signal Check
+title: Is medicalcannabiscol.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for medicalcannabiscol.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  medicalcannabiscol.com scores 85/100 on our public trust checks. Established
+  domain — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:05.273Z'
 finalUrl: 'https://medicalcannabiscol.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: spbrik.ru
 slug: spbrik-ru
-title: Is spbrik.ru Legit? Trust Signal Check
+title: Is spbrik.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for spbrik.ru: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  spbrik.ru scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:52:06.911Z'
 finalUrl: 'https://spbrik.ru/'
 reachable: true

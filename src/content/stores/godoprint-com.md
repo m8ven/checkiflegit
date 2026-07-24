@@ -1,10 +1,10 @@
 ---
 domain: godoprint.com
 slug: godoprint-com
-title: Is godoprint.com Legit? Trust Signal Check
+title: Is godoprint.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for godoprint.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  godoprint.com scores 88/100 on our public trust checks. Established domain —
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:37.312Z'
 finalUrl: 'https://godoprint.com/'
 reachable: true

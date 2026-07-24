@@ -1,10 +1,10 @@
 ---
 domain: sterlitamak.ap-tent.ru
 slug: sterlitamak-ap-tent-ru
-title: Is sterlitamak.ap-tent.ru Legit? Trust Signal Check
+title: Is sterlitamak.ap-tent.ru Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for sterlitamak.ap-tent.ru: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  sterlitamak.ap-tent.ru scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:20.009Z'
 finalUrl: 'https://sterlitamak.ap-tent.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: alitropic.com
 slug: alitropic-com
-title: Is alitropic.com Legit? Trust Signal Check
+title: Is alitropic.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for alitropic.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alitropic.com scores 73/100 on our public trust checks. Established domain —
+  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:42.228Z'
 finalUrl: 'https://alitropic.com/'
 reachable: true

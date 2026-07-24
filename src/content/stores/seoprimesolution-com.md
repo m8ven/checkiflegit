@@ -1,10 +1,10 @@
 ---
 domain: seoprimesolution.com
 slug: seoprimesolution-com
-title: Is seoprimesolution.com Legit? Trust Signal Check
+title: Is seoprimesolution.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for seoprimesolution.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  seoprimesolution.com scores 55/100 on our public trust checks. No links to
+  major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:44:35.739Z'
 finalUrl: 'https://seoprimesolution.com/'
 reachable: true

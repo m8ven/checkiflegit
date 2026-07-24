@@ -1,10 +1,10 @@
 ---
 domain: ariat.com
 slug: ariat-com
-title: Is ariat.com Legit? Trust Signal Check
+title: Is ariat.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ariat.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ariat.com scores 70/100 on our public trust checks. Established domain —
+  registered 30.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:14.382Z'
 finalUrl: 'https://www.ariat.com/'
 reachable: true

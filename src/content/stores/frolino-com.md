@@ -1,10 +1,10 @@
 ---
 domain: frolino.com
 slug: frolino-com
-title: Is frolino.com Legit? Trust Signal Check
+title: Is frolino.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for frolino.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  frolino.com scores 76/100 on our public trust checks. Established domain —
+  registered 9.5 years ago.
 fetchedAt: '2026-06-25T02:26:58.482Z'
 finalUrl: 'http://www.frolino.com/'
 reachable: true

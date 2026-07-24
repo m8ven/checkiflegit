@@ -1,10 +1,10 @@
 ---
 domain: corsi.isdifog.it
 slug: corsi-isdifog-it
-title: Is corsi.isdifog.it Legit? Trust Signal Check
+title: Is corsi.isdifog.it Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for corsi.isdifog.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  corsi.isdifog.it scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:23:06.289Z'
 finalUrl: 'https://corsi.isdifog.it/'
 reachable: true

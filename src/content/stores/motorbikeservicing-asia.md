@@ -1,10 +1,10 @@
 ---
 domain: motorbikeservicing.asia
 slug: motorbikeservicing-asia
-title: Is motorbikeservicing.asia Legit? Trust Signal Check
+title: Is motorbikeservicing.asia Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for motorbikeservicing.asia: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  motorbikeservicing.asia scores 88/100 on our public trust checks. Established
+  domain — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:29.512Z'
 finalUrl: 'https://motorbikeservicing.asia/'
 reachable: true

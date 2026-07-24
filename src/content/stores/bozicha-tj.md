@@ -1,10 +1,10 @@
 ---
 domain: bozicha.tj
 slug: bozicha-tj
-title: Is bozicha.tj Legit? Trust Signal Check
+title: Is bozicha.tj Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bozicha.tj: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bozicha.tj scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:56:22.124Z'
 finalUrl: 'https://bozicha.tj/'
 reachable: true

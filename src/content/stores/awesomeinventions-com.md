@@ -1,10 +1,10 @@
 ---
 domain: awesomeinventions.com
 slug: awesomeinventions-com
-title: Is awesomeinventions.com Legit? Trust Signal Check
+title: Is awesomeinventions.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for awesomeinventions.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  awesomeinventions.com scores 70/100 on our public trust checks. Established
+  domain — registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:01.533Z'
 finalUrl: 'https://www.awesomeinventions.com/'
 reachable: true

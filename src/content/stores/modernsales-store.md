@@ -1,10 +1,10 @@
 ---
 domain: modernsales.store
 slug: modernsales-store
-title: Is modernsales.store Legit? Trust Signal Check
+title: Is modernsales.store Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for modernsales.store: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  modernsales.store scores 88/100 on our public trust checks. Established domain
+  — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:56:16.749Z'
 finalUrl: 'https://modernsales.store/'
 reachable: true

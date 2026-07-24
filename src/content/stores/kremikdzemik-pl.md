@@ -1,10 +1,10 @@
 ---
 domain: kremikdzemik.pl
 slug: kremikdzemik-pl
-title: Is kremikdzemik.pl Legit? Trust Signal Check
+title: Is kremikdzemik.pl Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for kremikdzemik.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kremikdzemik.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:52:11.151Z'
 finalUrl: 'https://kremikdzemik.pl/'
 reachable: true

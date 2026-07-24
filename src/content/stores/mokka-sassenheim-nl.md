@@ -1,10 +1,10 @@
 ---
 domain: mokka-sassenheim.nl
 slug: mokka-sassenheim-nl
-title: Is mokka-sassenheim.nl Legit? Trust Signal Check
+title: Is mokka-sassenheim.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mokka-sassenheim.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mokka-sassenheim.nl scores 88/100 on our public trust checks. Established
+  domain — registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:01.771Z'
 finalUrl: 'https://www.mokka-sassenheim.nl/'
 reachable: true

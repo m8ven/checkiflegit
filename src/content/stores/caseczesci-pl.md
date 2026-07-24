@@ -1,10 +1,10 @@
 ---
 domain: caseczesci.pl
 slug: caseczesci-pl
-title: Is caseczesci.pl Legit? Trust Signal Check
+title: Is caseczesci.pl Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for caseczesci.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  caseczesci.pl scores 70/100 on our public trust checks. Established domain —
+  registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:13.931Z'
 finalUrl: 'https://www.caseczesci.pl/'
 reachable: true

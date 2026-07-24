@@ -1,10 +1,11 @@
 ---
 domain: toptantemizlikmalzemeleri.com
 slug: toptantemizlikmalzemeleri-com
-title: Is toptantemizlikmalzemeleri.com Legit? Trust Signal Check
+title: Is toptantemizlikmalzemeleri.com Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for toptantemizlikmalzemeleri.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  toptantemizlikmalzemeleri.com scores 64/100 on our public trust checks.
+  Standard contact and policy pages were not found. Limited social media
+  presence.
 fetchedAt: '2026-06-25T02:48:27.237Z'
 finalUrl: 'https://toptantemizlikmalzemeleri.com/'
 reachable: true

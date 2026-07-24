@@ -1,10 +1,10 @@
 ---
 domain: repairxpress.com.sg
 slug: repairxpress-com-sg
-title: Is repairxpress.com.sg Legit? Trust Signal Check
+title: Is repairxpress.com.sg Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for repairxpress.com.sg: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  repairxpress.com.sg scores 73/100 on our public trust checks. Established
+  domain — registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:51.627Z'
 finalUrl: 'https://repairxpress.com.sg/'
 reachable: true

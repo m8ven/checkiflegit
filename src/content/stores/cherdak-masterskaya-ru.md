@@ -1,10 +1,10 @@
 ---
 domain: cherdak-masterskaya.ru
 slug: cherdak-masterskaya-ru
-title: Is cherdak-masterskaya.ru Legit? Trust Signal Check
+title: Is cherdak-masterskaya.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for cherdak-masterskaya.ru: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cherdak-masterskaya.ru scores 73/100 on our public trust checks. Established
+  domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:57.309Z'
 finalUrl: 'https://cherdak-masterskaya.ru/'
 reachable: true

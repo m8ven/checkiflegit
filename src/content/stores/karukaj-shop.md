@@ -1,10 +1,10 @@
 ---
 domain: karukaj.shop
 slug: karukaj-shop
-title: Is karukaj.shop Legit? Trust Signal Check
+title: Is karukaj.shop Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for karukaj.shop: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  karukaj.shop scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:17:35.609Z'
 finalUrl: 'https://karukaj.shop/'
 reachable: true

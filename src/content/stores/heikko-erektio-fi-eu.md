@@ -1,11 +1,11 @@
 ---
 domain: heikko-erektio-fi.eu
 slug: heikko-erektio-fi-eu
-title: Is heikko-erektio-fi.eu Legit? Trust Signal Check
+title: Is heikko-erektio-fi.eu Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for heikko-erektio-fi.eu: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  heikko-erektio-fi.eu scores 36/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T15:00:35.963Z'
 finalUrl: 'https://heikko-erektio-fi.eu/'
 reachable: true

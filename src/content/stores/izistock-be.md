@@ -1,10 +1,10 @@
 ---
 domain: izistock.be
 slug: izistock-be
-title: Is izistock.be Legit? Trust Signal Check
+title: Is izistock.be Legit? Trust Score 78/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for izistock.be: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  izistock.be scores 78/100 on our public trust checks. Established domain —
+  registered 3.4 years ago.
 fetchedAt: '2026-06-25T12:24:57.774Z'
 finalUrl: 'https://www.izistock.be/'
 reachable: true

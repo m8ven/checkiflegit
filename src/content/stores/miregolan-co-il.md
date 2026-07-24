@@ -1,10 +1,10 @@
 ---
 domain: miregolan.co.il
 slug: miregolan-co-il
-title: Is miregolan.co.il Legit? Trust Signal Check
+title: Is miregolan.co.il Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for miregolan.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  miregolan.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:22:46.266Z'
 finalUrl: 'https://miregolan.co.il/'
 reachable: true

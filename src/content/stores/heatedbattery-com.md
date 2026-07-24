@@ -1,10 +1,11 @@
 ---
 domain: heatedbattery.com
 slug: heatedbattery-com
-title: Is heatedbattery.com Legit? Trust Signal Check
+title: Is heatedbattery.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for heatedbattery.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  heatedbattery.com scores 76/100 on our public trust checks. Public business
+  contact details are listed. Maintains links to multiple social media
+  platforms.
 fetchedAt: '2026-06-25T15:18:53.920Z'
 finalUrl: 'https://www.heatedbattery.com/'
 reachable: true

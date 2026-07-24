@@ -1,10 +1,10 @@
 ---
 domain: raeanna.com
 slug: raeanna-com
-title: Is raeanna.com Legit? Trust Signal Check
+title: Is raeanna.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for raeanna.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  raeanna.com scores 88/100 on our public trust checks. Established domain —
+  registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:32.880Z'
 finalUrl: 'https://raeanna.com/'
 reachable: true

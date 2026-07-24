@@ -1,10 +1,11 @@
 ---
 domain: ruhig.at
 slug: ruhig-at
-title: Is ruhig.at Legit? Trust Signal Check
+title: Is ruhig.at Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ruhig.at: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ruhig.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:01:16.418Z'
 finalUrl: 'https://ruhig.at/'
 reachable: true

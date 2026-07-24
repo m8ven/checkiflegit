@@ -1,10 +1,10 @@
 ---
 domain: tomyard.com.ua
 slug: tomyard-com-ua
-title: Is tomyard.com.ua Legit? Trust Signal Check
+title: Is tomyard.com.ua Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for tomyard.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tomyard.com.ua scores 76/100 on our public trust checks. Established domain —
+  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:05.762Z'
 finalUrl: 'https://tomyard.com.ua/'
 reachable: true

@@ -1,11 +1,11 @@
 ---
 domain: vape-manufactory.com
 slug: vape-manufactory-com
-title: Is vape-manufactory.com Legit? Trust Signal Check
+title: Is vape-manufactory.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for vape-manufactory.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  vape-manufactory.com scores 43/100 on our public trust checks. Standard
+  contact and policy pages were not found. No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T03:29:02.611Z'
 finalUrl: 'https://www.vape-manufactory.com/'
 reachable: true

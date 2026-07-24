@@ -1,10 +1,10 @@
 ---
 domain: shop.gutundvonhier.shop
 slug: shop-gutundvonhier-shop
-title: Is shop.gutundvonhier.shop Legit? Trust Signal Check
+title: Is shop.gutundvonhier.shop Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for shop.gutundvonhier.shop: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  shop.gutundvonhier.shop scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:56:01.480Z'
 finalUrl: 'https://shop.gutundvonhier.shop/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: nashdom.shop
 slug: nashdom-shop
-title: Is nashdom.shop Legit? Trust Signal Check
+title: Is nashdom.shop Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for nashdom.shop: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  nashdom.shop scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:35:40.506Z'
 finalUrl: 'https://nashdom.shop/'
 reachable: true

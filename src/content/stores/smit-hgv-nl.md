@@ -1,10 +1,10 @@
 ---
 domain: smit-hgv.nl
 slug: smit-hgv-nl
-title: Is smit-hgv.nl Legit? Trust Signal Check
+title: Is smit-hgv.nl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for smit-hgv.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  smit-hgv.nl scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:03:45.144Z'
 finalUrl: 'https://smit-hgv.nl/'
 reachable: true

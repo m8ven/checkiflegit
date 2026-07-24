@@ -1,10 +1,10 @@
 ---
 domain: pasturastropicales.com
 slug: pasturastropicales-com
-title: Is pasturastropicales.com Legit? Trust Signal Check
+title: Is pasturastropicales.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pasturastropicales.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pasturastropicales.com scores 100/100 on our public trust checks. Established
+  domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:57.102Z'
 finalUrl: 'https://pasturastropicales.com/'
 reachable: true

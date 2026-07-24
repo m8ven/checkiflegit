@@ -1,10 +1,10 @@
 ---
 domain: evotechbackupsystem.com
 slug: evotechbackupsystem-com
-title: Is evotechbackupsystem.com Legit? Trust Signal Check
+title: Is evotechbackupsystem.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for evotechbackupsystem.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  evotechbackupsystem.com scores 73/100 on our public trust checks. Established
+  domain — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:30.321Z'
 finalUrl: 'https://evotechbackupsystem.com/'
 reachable: true

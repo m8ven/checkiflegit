@@ -1,10 +1,11 @@
 ---
 domain: negincenter.ir
 slug: negincenter-ir
-title: Is negincenter.ir Legit? Trust Signal Check
+title: Is negincenter.ir Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for negincenter.ir: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  negincenter.ir scores 57/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:16:39.104Z'
 finalUrl: 'https://www.negincenter.ir/'
 reachable: true

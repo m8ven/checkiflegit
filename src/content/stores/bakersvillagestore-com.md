@@ -1,10 +1,10 @@
 ---
 domain: bakersvillagestore.com
 slug: bakersvillagestore-com
-title: Is bakersvillagestore.com Legit? Trust Signal Check
+title: Is bakersvillagestore.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bakersvillagestore.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bakersvillagestore.com scores 100/100 on our public trust checks. Established
+  domain — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:38.280Z'
 finalUrl: 'https://bakersvillagestore.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pood.raamaturinglus.ee
 slug: pood-raamaturinglus-ee
-title: Is pood.raamaturinglus.ee Legit? Trust Signal Check
+title: Is pood.raamaturinglus.ee Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for pood.raamaturinglus.ee: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  pood.raamaturinglus.ee scores 91/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:04.248Z'
 finalUrl: 'https://pood.raamaturinglus.ee/'
 reachable: true

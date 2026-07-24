@@ -1,10 +1,10 @@
 ---
 domain: carautocovers.com
 slug: carautocovers-com
-title: Is carautocovers.com Legit? Trust Signal Check
+title: Is carautocovers.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for carautocovers.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  carautocovers.com scores 85/100 on our public trust checks. Established domain
+  — registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:25:52.264Z'
 finalUrl: 'https://www.carautocovers.com/'
 reachable: true

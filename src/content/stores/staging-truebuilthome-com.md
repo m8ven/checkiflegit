@@ -1,10 +1,10 @@
 ---
 domain: staging.truebuilthome.com
 slug: staging-truebuilthome-com
-title: Is staging.truebuilthome.com Legit? Trust Signal Check
+title: Is staging.truebuilthome.com Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for staging.truebuilthome.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  staging.truebuilthome.com scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:52:13.808Z'
 finalUrl: 'https://staging.truebuilthome.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: nanashop-de.com
 slug: nanashop-de-com
-title: Is nanashop-de.com Legit? Trust Signal Check
+title: Is nanashop-de.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for nanashop-de.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nanashop-de.com scores 100/100 on our public trust checks. Established domain
+  — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:58:45.538Z'
 finalUrl: 'https://nanashop-de.com/'
 reachable: true

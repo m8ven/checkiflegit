@@ -1,10 +1,10 @@
 ---
 domain: animekaizoku.xyz
 slug: animekaizoku-xyz
-title: Is animekaizoku.xyz Legit? Trust Signal Check
+title: Is animekaizoku.xyz Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for animekaizoku.xyz: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  animekaizoku.xyz scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:12:08.595Z'
 finalUrl: 'https://www.animekaizoku.xyz/'
 reachable: true

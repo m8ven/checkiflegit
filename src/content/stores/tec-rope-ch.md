@@ -1,10 +1,10 @@
 ---
 domain: tec-rope.ch
 slug: tec-rope-ch
-title: Is tec-rope.ch Legit? Trust Signal Check
+title: Is tec-rope.ch Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for tec-rope.ch: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tec-rope.ch scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:47:14.982Z'
 finalUrl: 'https://tec-rope.ch/'
 reachable: true

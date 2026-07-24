@@ -1,10 +1,10 @@
 ---
 domain: limelight.pk
 slug: limelight-pk
-title: Is limelight.pk Legit? Trust Signal Check
+title: Is limelight.pk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for limelight.pk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  limelight.pk scores 100/100 on our public trust checks. Established domain —
+  registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:33.931Z'
 finalUrl: 'https://www.limelight.pk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: biocare-us.com
 slug: biocare-us-com
-title: Is biocare-us.com Legit? Trust Signal Check
+title: Is biocare-us.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for biocare-us.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  biocare-us.com scores 100/100 on our public trust checks. Established domain —
+  registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:58.469Z'
 finalUrl: 'https://biocare-us.com/'
 reachable: true

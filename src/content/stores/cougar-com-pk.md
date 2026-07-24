@@ -1,10 +1,10 @@
 ---
 domain: cougar.com.pk
 slug: cougar-com-pk
-title: Is cougar.com.pk Legit? Trust Signal Check
+title: Is cougar.com.pk Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for cougar.com.pk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cougar.com.pk scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T03:20:04.633Z'
 finalUrl: 'https://cougar.com.pk/'
 reachable: true

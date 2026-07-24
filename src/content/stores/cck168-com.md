@@ -1,10 +1,10 @@
 ---
 domain: cck168.com
 slug: cck168-com
-title: Is cck168.com Legit? Trust Signal Check
+title: Is cck168.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cck168.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cck168.com scores 76/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:05:21.519Z'
 finalUrl: 'https://cck168.com/'
 reachable: true

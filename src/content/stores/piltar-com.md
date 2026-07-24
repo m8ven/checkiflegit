@@ -1,10 +1,10 @@
 ---
 domain: piltar.com
 slug: piltar-com
-title: Is piltar.com Legit? Trust Signal Check
+title: Is piltar.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for piltar.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  piltar.com scores 70/100 on our public trust checks. Established domain —
+  registered 19.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:35:24.654Z'
 finalUrl: 'https://www.piltar.com/'
 reachable: true

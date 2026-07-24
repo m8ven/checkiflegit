@@ -1,10 +1,10 @@
 ---
 domain: vashtv-service.ru
 slug: vashtv-service-ru
-title: Is vashtv-service.ru Legit? Trust Signal Check
+title: Is vashtv-service.ru Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for vashtv-service.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vashtv-service.ru scores 88/100 on our public trust checks. Established domain
+  — registered 8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:11.194Z'
 finalUrl: 'https://vashtv-service.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pummba.com
 slug: pummba-com
-title: Is pummba.com Legit? Trust Signal Check
+title: Is pummba.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for pummba.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pummba.com scores 100/100 on our public trust checks. Established domain —
+  registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:20:52.215Z'
 finalUrl: 'https://www.pummba.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vnautomation.net
 slug: vnautomation-net
-title: Is vnautomation.net Legit? Trust Signal Check
+title: Is vnautomation.net Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for vnautomation.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vnautomation.net scores 88/100 on our public trust checks. Established domain
+  — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:54.311Z'
 finalUrl: 'https://vnautomation.net/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: cavallo-inc.com
 slug: cavallo-inc-com
-title: Is cavallo-inc.com Legit? Trust Signal Check
+title: Is cavallo-inc.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for cavallo-inc.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cavallo-inc.com scores 100/100 on our public trust checks. Established domain
+  — registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:27.127Z'
 finalUrl: 'https://cavallo-inc.com/'
 reachable: true

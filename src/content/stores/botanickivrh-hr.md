@@ -1,10 +1,10 @@
 ---
 domain: botanickivrh.hr
 slug: botanickivrh-hr
-title: Is botanickivrh.hr Legit? Trust Signal Check
+title: Is botanickivrh.hr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for botanickivrh.hr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  botanickivrh.hr scores 88/100 on our public trust checks. Established domain —
+  registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:44.331Z'
 finalUrl: 'https://botanickivrh.hr/'
 reachable: true

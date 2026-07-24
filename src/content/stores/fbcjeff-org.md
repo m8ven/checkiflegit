@@ -1,10 +1,10 @@
 ---
 domain: fbcjeff.org
 slug: fbcjeff-org
-title: Is fbcjeff.org Legit? Trust Signal Check
+title: Is fbcjeff.org Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for fbcjeff.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  fbcjeff.org scores 88/100 on our public trust checks. Established domain —
+  registered 18.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:04:22.512Z'
 finalUrl: 'https://www.fbcjeff.org/'
 reachable: true

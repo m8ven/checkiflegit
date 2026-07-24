@@ -1,10 +1,10 @@
 ---
 domain: crossfit.reviva.fit
 slug: crossfit-reviva-fit
-title: Is crossfit.reviva.fit Legit? Trust Signal Check
+title: Is crossfit.reviva.fit Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for crossfit.reviva.fit: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  crossfit.reviva.fit scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:39:20.819Z'
 finalUrl: 'https://crossfit.reviva.fit/'
 reachable: true

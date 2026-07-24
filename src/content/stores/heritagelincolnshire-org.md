@@ -1,10 +1,11 @@
 ---
 domain: heritagelincolnshire.org
 slug: heritagelincolnshire-org
-title: Is heritagelincolnshire.org Legit? Trust Signal Check
+title: Is heritagelincolnshire.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for heritagelincolnshire.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  heritagelincolnshire.org scores 100/100 on our public trust checks.
+  Established domain — registered 18.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:14:58.368Z'
 finalUrl: 'https://heritagelincolnshire.org/'
 reachable: true

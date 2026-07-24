@@ -1,10 +1,10 @@
 ---
 domain: fleamarket.bg
 slug: fleamarket-bg
-title: Is fleamarket.bg Legit? Trust Signal Check
+title: Is fleamarket.bg Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for fleamarket.bg: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fleamarket.bg scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:43:31.177Z'
 finalUrl: 'https://fleamarket.bg/'
 reachable: true

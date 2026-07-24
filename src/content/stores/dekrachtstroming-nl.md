@@ -1,10 +1,10 @@
 ---
 domain: dekrachtstroming.nl
 slug: dekrachtstroming-nl
-title: Is dekrachtstroming.nl Legit? Trust Signal Check
+title: Is dekrachtstroming.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dekrachtstroming.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dekrachtstroming.nl scores 88/100 on our public trust checks. Established
+  domain — registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:33:06.333Z'
 finalUrl: 'https://dekrachtstroming.nl/'
 reachable: true

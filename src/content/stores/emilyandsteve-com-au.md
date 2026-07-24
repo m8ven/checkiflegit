@@ -1,10 +1,10 @@
 ---
 domain: emilyandsteve.com.au
 slug: emilyandsteve-com-au
-title: Is emilyandsteve.com.au Legit? Trust Signal Check
+title: Is emilyandsteve.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for emilyandsteve.com.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  emilyandsteve.com.au scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:16.325Z'
 finalUrl: 'https://emilyandsteve.com.au/'
 reachable: true

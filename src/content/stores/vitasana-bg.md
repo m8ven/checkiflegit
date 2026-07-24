@@ -1,10 +1,10 @@
 ---
 domain: vitasana.bg
 slug: vitasana-bg
-title: Is vitasana.bg Legit? Trust Signal Check
+title: Is vitasana.bg Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for vitasana.bg: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  vitasana.bg scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:18:44.899Z'
 finalUrl: 'https://vitasana.bg/'
 reachable: true

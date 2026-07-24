@@ -1,10 +1,10 @@
 ---
 domain: agorafurniture.ru
 slug: agorafurniture-ru
-title: Is agorafurniture.ru Legit? Trust Signal Check
+title: Is agorafurniture.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for agorafurniture.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  agorafurniture.ru scores 73/100 on our public trust checks. Established domain
+  — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:35.615Z'
 finalUrl: 'https://agorafurniture.ru/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: alapupe.com.ar
 slug: alapupe-com-ar
-title: Is alapupe.com.ar Legit? Trust Signal Check
+title: Is alapupe.com.ar Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for alapupe.com.ar: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alapupe.com.ar scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:39:21.628Z'
 finalUrl: 'https://alapupe.com.ar/'
 reachable: true

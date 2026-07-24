@@ -1,10 +1,10 @@
 ---
 domain: tecnomundo.com.gt
 slug: tecnomundo-com-gt
-title: Is tecnomundo.com.gt Legit? Trust Signal Check
+title: Is tecnomundo.com.gt Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for tecnomundo.com.gt: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tecnomundo.com.gt scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:05:43.134Z'
 finalUrl: 'https://tecnomundo.com.gt/'
 reachable: true

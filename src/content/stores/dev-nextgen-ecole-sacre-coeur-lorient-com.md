@@ -1,10 +1,10 @@
 ---
 domain: dev-nextgen.ecole-sacre-coeur-lorient.com
 slug: dev-nextgen-ecole-sacre-coeur-lorient-com
-title: Is dev-nextgen.ecole-sacre-coeur-lorient.com Legit? Trust Signal Check
+title: Is dev-nextgen.ecole-sacre-coeur-lorient.com Legit? Score 61/100
 description: >-
-  An automated trust-signal check for dev-nextgen.ecole-sacre-coeur-lorient.com:
-  moderate trust signals. Domain age, SSL, contact info, reviews and more.
+  dev-nextgen.ecole-sacre-coeur-lorient.com scores 61/100 on our public trust
+  checks. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:24:43.232Z'
 finalUrl: 'https://dev-nextgen.ecole-sacre-coeur-lorient.com/'
 reachable: true

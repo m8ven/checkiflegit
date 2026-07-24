@@ -1,10 +1,11 @@
 ---
 domain: cmhgwm.co.za
 slug: cmhgwm-co-za
-title: Is cmhgwm.co.za Legit? Trust Signal Check
+title: Is cmhgwm.co.za Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for cmhgwm.co.za: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  cmhgwm.co.za scores 44/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:46:14.128Z'
 finalUrl: 'https://cmhgwm.co.za/'
 reachable: true

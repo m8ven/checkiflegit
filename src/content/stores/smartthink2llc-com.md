@@ -1,10 +1,10 @@
 ---
 domain: smartthink2llc.com
 slug: smartthink2llc-com
-title: Is smartthink2llc.com Legit? Trust Signal Check
+title: Is smartthink2llc.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for smartthink2llc.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  smartthink2llc.com scores 100/100 on our public trust checks. Established
+  domain — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:31.917Z'
 finalUrl: 'https://smartthink2llc.com/'
 reachable: true

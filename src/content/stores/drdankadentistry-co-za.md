@@ -1,10 +1,10 @@
 ---
 domain: drdankadentistry.co.za
 slug: drdankadentistry-co-za
-title: Is drdankadentistry.co.za Legit? Trust Signal Check
+title: Is drdankadentistry.co.za Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for drdankadentistry.co.za: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  drdankadentistry.co.za scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:38:26.021Z'
 finalUrl: 'https://drdankadentistry.co.za/'
 reachable: true

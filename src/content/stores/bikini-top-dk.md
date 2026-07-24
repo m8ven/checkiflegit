@@ -1,10 +1,10 @@
 ---
 domain: bikini-top.dk
 slug: bikini-top-dk
-title: Is bikini-top.dk Legit? Trust Signal Check
+title: Is bikini-top.dk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for bikini-top.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bikini-top.dk scores 82/100 on our public trust checks. Established domain —
+  registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:36:39.523Z'
 finalUrl: 'https://bikini-top.dk/'
 reachable: true

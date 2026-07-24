@@ -1,10 +1,11 @@
 ---
 domain: mail.ton-merckx-wielershirts.nl
 slug: mail-ton-merckx-wielershirts-nl
-title: Is mail.ton-merckx-wielershirts.nl Legit? Trust Signal Check
+title: Is mail.ton-merckx-wielershirts.nl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for mail.ton-merckx-wielershirts.nl: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  mail.ton-merckx-wielershirts.nl scores 61/100 on our public trust checks. No
+  links to major social platforms found. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T12:15:32.341Z'
 finalUrl: 'https://mail.ton-merckx-wielershirts.nl/'
 reachable: true

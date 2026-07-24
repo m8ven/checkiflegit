@@ -1,10 +1,10 @@
 ---
 domain: bristolelectric.ca
 slug: bristolelectric-ca
-title: Is bristolelectric.ca Legit? Trust Signal Check
+title: Is bristolelectric.ca Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bristolelectric.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bristolelectric.ca scores 88/100 on our public trust checks. Established
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:49:32.740Z'
 finalUrl: 'https://bristolelectric.ca/'
 reachable: true

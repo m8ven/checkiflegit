@@ -1,10 +1,10 @@
 ---
 domain: soroptimist.nl
 slug: soroptimist-nl
-title: Is soroptimist.nl Legit? Trust Signal Check
+title: Is soroptimist.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for soroptimist.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  soroptimist.nl scores 88/100 on our public trust checks. Established domain —
+  registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:35:07.319Z'
 finalUrl: 'https://www.soroptimist.nl/'
 reachable: true

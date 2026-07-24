@@ -1,10 +1,10 @@
 ---
 domain: dainese.com
 slug: dainese-com
-title: Is dainese.com Legit? Trust Signal Check
+title: Is dainese.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for dainese.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dainese.com scores 100/100 on our public trust checks. Established domain —
+  registered 27.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:24.405Z'
 finalUrl: 'https://www.dainese.com/us/en/'
 reachable: true

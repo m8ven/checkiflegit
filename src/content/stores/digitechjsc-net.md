@@ -1,10 +1,10 @@
 ---
 domain: digitechjsc.net
 slug: digitechjsc-net
-title: Is digitechjsc.net Legit? Trust Signal Check
+title: Is digitechjsc.net Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for digitechjsc.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  digitechjsc.net scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T03:40:42.149Z'
 finalUrl: 'https://digitechjsc.net/'
 reachable: true

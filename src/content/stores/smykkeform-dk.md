@@ -1,10 +1,10 @@
 ---
 domain: smykkeform.dk
 slug: smykkeform-dk
-title: Is smykkeform.dk Legit? Trust Signal Check
+title: Is smykkeform.dk Legit? Trust Score 25/100
 description: >-
-  An automated trust-signal check for smykkeform.dk: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  smykkeform.dk scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:11:33.070Z'
 finalUrl: 'https://smykkeform.dk/'
 reachable: true

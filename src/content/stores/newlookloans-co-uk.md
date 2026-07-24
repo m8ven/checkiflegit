@@ -1,10 +1,10 @@
 ---
 domain: newlookloans.co.uk
 slug: newlookloans-co-uk
-title: Is newlookloans.co.uk Legit? Trust Signal Check
+title: Is newlookloans.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for newlookloans.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  newlookloans.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:44.562Z'
 finalUrl: 'https://www.newlookloans.co.uk/'
 reachable: true

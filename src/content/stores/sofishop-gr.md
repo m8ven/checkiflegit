@@ -1,10 +1,10 @@
 ---
 domain: sofishop.gr
 slug: sofishop-gr
-title: Is sofishop.gr Legit? Trust Signal Check
+title: Is sofishop.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sofishop.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sofishop.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:11:41.854Z'
 finalUrl: 'https://sofishop.gr/'
 reachable: true

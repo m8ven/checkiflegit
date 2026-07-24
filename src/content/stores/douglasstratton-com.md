@@ -1,10 +1,10 @@
 ---
 domain: douglasstratton.com
 slug: douglasstratton-com
-title: Is douglasstratton.com Legit? Trust Signal Check
+title: Is douglasstratton.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for douglasstratton.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  douglasstratton.com scores 88/100 on our public trust checks. Established
+  domain — registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:24.927Z'
 finalUrl: 'https://douglasstratton.com/'
 reachable: true

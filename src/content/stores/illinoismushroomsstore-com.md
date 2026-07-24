@@ -1,10 +1,11 @@
 ---
 domain: illinoismushroomsstore.com
 slug: illinoismushroomsstore-com
-title: Is illinoismushroomsstore.com Legit? Trust Signal Check
+title: Is illinoismushroomsstore.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for illinoismushroomsstore.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  illinoismushroomsstore.com scores 85/100 on our public trust checks.
+  Established domain — registered 2.2 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:15:48.983Z'
 finalUrl: 'https://illinoismushroomsstore.com/'
 reachable: true

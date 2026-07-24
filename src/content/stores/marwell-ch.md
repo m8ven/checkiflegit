@@ -1,10 +1,10 @@
 ---
 domain: marwell.ch
 slug: marwell-ch
-title: Is marwell.ch Legit? Trust Signal Check
+title: Is marwell.ch Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for marwell.ch: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  marwell.ch scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:25:12.690Z'
 finalUrl: 'https://www.marwell.ch/'
 reachable: true

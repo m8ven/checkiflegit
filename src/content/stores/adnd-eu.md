@@ -1,10 +1,10 @@
 ---
 domain: adnd.eu
 slug: adnd-eu
-title: Is adnd.eu Legit? Trust Signal Check
+title: Is adnd.eu Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for adnd.eu: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  adnd.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T15:34:14.227Z'
 finalUrl: 'https://adnd.eu/'
 reachable: true

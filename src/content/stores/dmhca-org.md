@@ -1,10 +1,10 @@
 ---
 domain: dmhca.org
 slug: dmhca-org
-title: Is dmhca.org Legit? Trust Signal Check
+title: Is dmhca.org Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dmhca.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dmhca.org scores 85/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:24:54.836Z'
 finalUrl: 'https://dmhca.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mielecentar-eldalux.com
 slug: mielecentar-eldalux-com
-title: Is mielecentar-eldalux.com Legit? Trust Signal Check
+title: Is mielecentar-eldalux.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for mielecentar-eldalux.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  mielecentar-eldalux.com scores 82/100 on our public trust checks. Established
+  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:44:23.586Z'
 finalUrl: 'https://mielecentar-eldalux.com/'
 reachable: true

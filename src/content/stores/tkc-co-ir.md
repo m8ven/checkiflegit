@@ -1,10 +1,10 @@
 ---
 domain: tkc-co.ir
 slug: tkc-co-ir
-title: Is tkc-co.ir Legit? Trust Signal Check
+title: Is tkc-co.ir Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for tkc-co.ir: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tkc-co.ir scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T15:34:34.700Z'
 finalUrl: 'https://tkc-co.ir/'
 reachable: true

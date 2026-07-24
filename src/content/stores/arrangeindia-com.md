@@ -1,10 +1,10 @@
 ---
 domain: arrangeindia.com
 slug: arrangeindia-com
-title: Is arrangeindia.com Legit? Trust Signal Check
+title: Is arrangeindia.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for arrangeindia.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arrangeindia.com scores 73/100 on our public trust checks. Established domain
+  — registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:34:23.515Z'
 finalUrl: 'https://arrangeindia.com/'
 reachable: true

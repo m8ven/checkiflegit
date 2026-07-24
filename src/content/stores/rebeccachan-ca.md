@@ -1,10 +1,10 @@
 ---
 domain: rebeccachan.ca
 slug: rebeccachan-ca
-title: Is rebeccachan.ca Legit? Trust Signal Check
+title: Is rebeccachan.ca Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for rebeccachan.ca: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rebeccachan.ca scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:49:14.819Z'
 finalUrl: 'https://rebeccachan.ca/'
 reachable: true

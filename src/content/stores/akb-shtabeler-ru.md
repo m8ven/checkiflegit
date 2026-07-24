@@ -1,10 +1,10 @@
 ---
 domain: akb-shtabeler.ru
 slug: akb-shtabeler-ru
-title: Is akb-shtabeler.ru Legit? Trust Signal Check
+title: Is akb-shtabeler.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for akb-shtabeler.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  akb-shtabeler.ru scores 73/100 on our public trust checks. Established domain
+  — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:39.618Z'
 finalUrl: 'https://akb-shtabeler.ru/'
 reachable: true

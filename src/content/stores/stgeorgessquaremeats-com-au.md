@@ -1,10 +1,10 @@
 ---
 domain: stgeorgessquaremeats.com.au
 slug: stgeorgessquaremeats-com-au
-title: Is stgeorgessquaremeats.com.au Legit? Trust Signal Check
+title: Is stgeorgessquaremeats.com.au Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for stgeorgessquaremeats.com.au: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  stgeorgessquaremeats.com.au scores 61/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T12:12:45.469Z'
 finalUrl: 'https://stgeorgessquaremeats.com.au/'
 reachable: true

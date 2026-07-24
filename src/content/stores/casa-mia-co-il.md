@@ -1,10 +1,10 @@
 ---
 domain: casa-mia.co.il
 slug: casa-mia-co-il
-title: Is casa-mia.co.il Legit? Trust Signal Check
+title: Is casa-mia.co.il Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for casa-mia.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  casa-mia.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:15:14.694Z'
 finalUrl: 'https://www.casa-mia.co.il/'
 reachable: true

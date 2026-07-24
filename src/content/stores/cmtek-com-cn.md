@@ -1,10 +1,11 @@
 ---
 domain: cmtek.com.cn
 slug: cmtek-com-cn
-title: Is cmtek.com.cn Legit? Trust Signal Check
+title: Is cmtek.com.cn Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for cmtek.com.cn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  cmtek.com.cn scores 66/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:36:48.637Z'
 finalUrl: 'http://cmtek.com.cn/'
 reachable: true

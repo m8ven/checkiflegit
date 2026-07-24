@@ -1,10 +1,10 @@
 ---
 domain: stanley1913.com
 slug: stanley1913-com
-title: Is stanley1913.com Legit? Trust Signal Check
+title: Is stanley1913.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for stanley1913.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stanley1913.com scores 88/100 on our public trust checks. Established domain —
+  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:23.157Z'
 finalUrl: 'https://www.stanley1913.com/'
 reachable: true

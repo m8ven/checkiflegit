@@ -1,10 +1,10 @@
 ---
 domain: snabkomplekt40.ru
 slug: snabkomplekt40-ru
-title: Is snabkomplekt40.ru Legit? Trust Signal Check
+title: Is snabkomplekt40.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for snabkomplekt40.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  snabkomplekt40.ru scores 85/100 on our public trust checks. Established domain
+  — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:49.811Z'
 finalUrl: 'https://snabkomplekt40.ru/'
 reachable: true

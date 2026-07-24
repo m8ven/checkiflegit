@@ -1,10 +1,10 @@
 ---
 domain: akvazoo.ee
 slug: akvazoo-ee
-title: Is akvazoo.ee Legit? Trust Signal Check
+title: Is akvazoo.ee Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for akvazoo.ee: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  akvazoo.ee scores 94/100 on our public trust checks. Established domain —
+  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:39:12.759Z'
 finalUrl: 'https://akvazoo.ee/'
 reachable: true

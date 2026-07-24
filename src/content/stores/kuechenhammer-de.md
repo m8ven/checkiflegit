@@ -1,10 +1,10 @@
 ---
 domain: kuechenhammer.de
 slug: kuechenhammer-de
-title: Is kuechenhammer.de Legit? Trust Signal Check
+title: Is kuechenhammer.de Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for kuechenhammer.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kuechenhammer.de scores 49/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T03:47:12.131Z'
 finalUrl: 'https://kuechenhammer.de/'
 reachable: true

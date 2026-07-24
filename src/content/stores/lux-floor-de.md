@@ -1,10 +1,10 @@
 ---
 domain: lux-floor.de
 slug: lux-floor-de
-title: Is lux-floor.de Legit? Trust Signal Check
+title: Is lux-floor.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for lux-floor.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lux-floor.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:56:32.996Z'
 finalUrl: 'https://lux-floor.de/'
 reachable: true

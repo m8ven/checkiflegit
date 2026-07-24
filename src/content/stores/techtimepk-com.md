@@ -1,10 +1,10 @@
 ---
 domain: techtimepk.com
 slug: techtimepk-com
-title: Is techtimepk.com Legit? Trust Signal Check
+title: Is techtimepk.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for techtimepk.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  techtimepk.com scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:33:31.017Z'
 finalUrl: 'https://techtimepk.com/'
 reachable: true

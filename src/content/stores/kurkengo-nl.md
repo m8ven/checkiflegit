@@ -1,10 +1,10 @@
 ---
 domain: kurkengo.nl
 slug: kurkengo-nl
-title: Is kurkengo.nl Legit? Trust Signal Check
+title: Is kurkengo.nl Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kurkengo.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kurkengo.nl scores 70/100 on our public trust checks. Established domain —
+  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:13.679Z'
 finalUrl: 'https://www.kurkengo.nl/'
 reachable: true

@@ -1,11 +1,10 @@
 ---
 domain: michigandigitalnews.com
 slug: michigandigitalnews-com
-title: Is michigandigitalnews.com Legit? Trust Signal Check
+title: Is michigandigitalnews.com Legit? Trust Score 37/100
 description: >-
-  An automated trust-signal check for michigandigitalnews.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  michigandigitalnews.com scores 37/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:52:38.771Z'
 finalUrl: 'https://michigandigitalnews.com/'
 reachable: true

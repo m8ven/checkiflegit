@@ -1,10 +1,11 @@
 ---
 domain: journal-adventure-therapy.com
 slug: journal-adventure-therapy-com
-title: Is journal-adventure-therapy.com Legit? Trust Signal Check
+title: Is journal-adventure-therapy.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for journal-adventure-therapy.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  journal-adventure-therapy.com scores 85/100 on our public trust checks.
+  Established domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:39:27.012Z'
 finalUrl: 'https://journal-adventure-therapy.com/'
 reachable: true

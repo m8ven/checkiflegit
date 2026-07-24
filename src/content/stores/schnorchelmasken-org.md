@@ -1,10 +1,10 @@
 ---
 domain: schnorchelmasken.org
 slug: schnorchelmasken-org
-title: Is schnorchelmasken.org Legit? Trust Signal Check
+title: Is schnorchelmasken.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for schnorchelmasken.org: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  schnorchelmasken.org scores 76/100 on our public trust checks. Established
+  domain — registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:40.927Z'
 finalUrl: 'https://schnorchelmasken.org/'
 reachable: true

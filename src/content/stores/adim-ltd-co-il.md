@@ -1,10 +1,11 @@
 ---
 domain: adim-ltd.co.il
 slug: adim-ltd-co-il
-title: Is adim-ltd.co.il Legit? Trust Signal Check
+title: Is adim-ltd.co.il Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for adim-ltd.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  adim-ltd.co.il scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:46:05.005Z'
 finalUrl: 'https://adim-ltd.co.il/'
 reachable: true

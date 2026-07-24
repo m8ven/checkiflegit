@@ -1,10 +1,10 @@
 ---
 domain: derevolux.com.ua
 slug: derevolux-com-ua
-title: Is derevolux.com.ua Legit? Trust Signal Check
+title: Is derevolux.com.ua Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for derevolux.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  derevolux.com.ua scores 85/100 on our public trust checks. Established domain
+  — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:26.319Z'
 finalUrl: 'https://derevolux.com.ua/'
 reachable: true

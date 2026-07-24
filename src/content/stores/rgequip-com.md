@@ -1,10 +1,10 @@
 ---
 domain: rgequip.com
 slug: rgequip-com
-title: Is rgequip.com Legit? Trust Signal Check
+title: Is rgequip.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for rgequip.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rgequip.com scores 100/100 on our public trust checks. Established domain —
+  registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:21:12.393Z'
 finalUrl: 'https://www.rgequip.com/'
 reachable: true

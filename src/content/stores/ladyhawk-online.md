@@ -1,10 +1,10 @@
 ---
 domain: ladyhawk.online
 slug: ladyhawk-online
-title: Is ladyhawk.online Legit? Trust Signal Check
+title: Is ladyhawk.online Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for ladyhawk.online: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ladyhawk.online scores 82/100 on our public trust checks. Established domain —
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:22.531Z'
 finalUrl: 'https://ladyhawk.online/'
 reachable: true

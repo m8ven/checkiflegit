@@ -1,10 +1,10 @@
 ---
 domain: proficlin.ro
 slug: proficlin-ro
-title: Is proficlin.ro Legit? Trust Signal Check
+title: Is proficlin.ro Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for proficlin.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  proficlin.ro scores 73/100 on our public trust checks. Established domain —
+  registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:50.933Z'
 finalUrl: 'https://proficlin.ro/'
 reachable: true

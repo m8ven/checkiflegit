@@ -1,10 +1,11 @@
 ---
 domain: techmar.gda.pl
 slug: techmar-gda-pl
-title: Is techmar.gda.pl Legit? Trust Signal Check
+title: Is techmar.gda.pl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for techmar.gda.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  techmar.gda.pl scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T15:33:29.550Z'
 finalUrl: 'https://techmar.gda.pl/'
 reachable: true

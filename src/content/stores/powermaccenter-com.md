@@ -1,10 +1,10 @@
 ---
 domain: powermaccenter.com
 slug: powermaccenter-com
-title: Is powermaccenter.com Legit? Trust Signal Check
+title: Is powermaccenter.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for powermaccenter.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  powermaccenter.com scores 100/100 on our public trust checks. Established
+  domain — registered 20.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:33.273Z'
 finalUrl: 'https://powermaccenter.com/'
 reachable: true

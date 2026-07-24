@@ -1,10 +1,10 @@
 ---
 domain: natural-herbs-market.co.uk
 slug: natural-herbs-market-co-uk
-title: Is natural-herbs-market.co.uk Legit? Trust Signal Check
+title: Is natural-herbs-market.co.uk Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for natural-herbs-market.co.uk: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  natural-herbs-market.co.uk scores 61/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T03:54:27.721Z'
 finalUrl: 'https://natural-herbs-market.co.uk/'
 reachable: true

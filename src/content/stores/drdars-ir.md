@@ -1,10 +1,10 @@
 ---
 domain: drdars.ir
 slug: drdars-ir
-title: Is drdars.ir Legit? Trust Signal Check
+title: Is drdars.ir Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for drdars.ir: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  drdars.ir scores 57/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:25:46.767Z'
 finalUrl: 'https://drdars.ir/'
 reachable: true

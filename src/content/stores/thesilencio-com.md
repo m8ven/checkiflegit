@@ -1,10 +1,10 @@
 ---
 domain: thesilencio.com
 slug: thesilencio-com
-title: Is thesilencio.com Legit? Trust Signal Check
+title: Is thesilencio.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for thesilencio.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thesilencio.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:23.415Z'
 finalUrl: 'https://thesilencio.com/'
 reachable: true

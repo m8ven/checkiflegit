@@ -1,10 +1,10 @@
 ---
 domain: albalazari.com
 slug: albalazari-com
-title: Is albalazari.com Legit? Trust Signal Check
+title: Is albalazari.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for albalazari.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  albalazari.com scores 70/100 on our public trust checks. Established domain —
+  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:59.909Z'
 finalUrl: 'https://albalazari.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: wandermonks.com
 slug: wandermonks-com
-title: Is wandermonks.com Legit? Trust Signal Check
+title: Is wandermonks.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for wandermonks.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wandermonks.com scores 100/100 on our public trust checks. Established domain
+  — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:49:11.908Z'
 finalUrl: 'https://wandermonks.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: enjoymiyagi.com
 slug: enjoymiyagi-com
-title: Is enjoymiyagi.com Legit? Trust Signal Check
+title: Is enjoymiyagi.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for enjoymiyagi.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  enjoymiyagi.com scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found.
 fetchedAt: '2026-06-25T12:50:41.643Z'
 finalUrl: >-
   https://enjoymiyagi.com/?lang=ja&doing_wp_cron=1782391844.2944691181182861328125

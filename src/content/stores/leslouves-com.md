@@ -1,10 +1,10 @@
 ---
 domain: leslouves.com
 slug: leslouves-com
-title: Is leslouves.com Legit? Trust Signal Check
+title: Is leslouves.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for leslouves.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  leslouves.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:25:36.111Z'
 finalUrl: 'https://www.leslouves.com/'
 reachable: true

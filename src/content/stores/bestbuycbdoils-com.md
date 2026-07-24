@@ -1,10 +1,10 @@
 ---
 domain: bestbuycbdoils.com
 slug: bestbuycbdoils-com
-title: Is bestbuycbdoils.com Legit? Trust Signal Check
+title: Is bestbuycbdoils.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for bestbuycbdoils.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bestbuycbdoils.com scores 94/100 on our public trust checks. Established
+  domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:02.745Z'
 finalUrl: 'https://bestbuycbdoils.com/'
 reachable: true

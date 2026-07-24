@@ -1,10 +1,10 @@
 ---
 domain: lamaca.vn
 slug: lamaca-vn
-title: Is lamaca.vn Legit? Trust Signal Check
+title: Is lamaca.vn Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lamaca.vn: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lamaca.vn scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:33:44.257Z'
 finalUrl: 'https://lamaca.vn/'
 reachable: true

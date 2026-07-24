@@ -1,10 +1,11 @@
 ---
 domain: extremotion-communication.com
 slug: extremotion-communication-com
-title: Is extremotion-communication.com Legit? Trust Signal Check
+title: Is extremotion-communication.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for extremotion-communication.com: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  extremotion-communication.com scores 100/100 on our public trust checks.
+  Established domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:41:26.756Z'
 finalUrl: 'https://extremotion-communication.com/'
 reachable: true

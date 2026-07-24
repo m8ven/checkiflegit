@@ -1,10 +1,10 @@
 ---
 domain: indegotourism.com
 slug: indegotourism-com
-title: Is indegotourism.com Legit? Trust Signal Check
+title: Is indegotourism.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for indegotourism.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  indegotourism.com scores 88/100 on our public trust checks. Established domain
+  — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:37:13.628Z'
 finalUrl: 'https://indegotourism.com/'
 reachable: true

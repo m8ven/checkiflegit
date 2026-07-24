@@ -1,10 +1,10 @@
 ---
 domain: lifesport.vn
 slug: lifesport-vn
-title: Is lifesport.vn Legit? Trust Signal Check
+title: Is lifesport.vn Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lifesport.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lifesport.vn scores 57/100 on our public trust checks. Standard contact and
+  policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:11:39.827Z'
 finalUrl: 'https://lifesport.vn/'
 reachable: true

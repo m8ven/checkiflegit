@@ -1,10 +1,10 @@
 ---
 domain: bitajarod.com
 slug: bitajarod-com
-title: Is bitajarod.com Legit? Trust Signal Check
+title: Is bitajarod.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bitajarod.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bitajarod.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:37:06.636Z'
 finalUrl: 'https://bitajarod.com/'
 reachable: true

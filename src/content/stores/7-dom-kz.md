@@ -1,10 +1,10 @@
 ---
 domain: 7-dom.kz
 slug: 7-dom-kz
-title: Is 7-dom.kz Legit? Trust Signal Check
+title: Is 7-dom.kz Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for 7-dom.kz: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  7-dom.kz scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:18:06.909Z'
 finalUrl: 'https://7-dom.kz/'
 reachable: true

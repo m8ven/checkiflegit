@@ -1,10 +1,10 @@
 ---
 domain: fitnessfaqs.com
 slug: fitnessfaqs-com
-title: Is fitnessfaqs.com Legit? Trust Signal Check
+title: Is fitnessfaqs.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for fitnessfaqs.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fitnessfaqs.com scores 70/100 on our public trust checks. Established domain —
+  registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:30.915Z'
 finalUrl: 'https://fitnessfaqs.com/'
 reachable: true

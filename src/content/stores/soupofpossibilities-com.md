@@ -1,10 +1,10 @@
 ---
 domain: soupofpossibilities.com
 slug: soupofpossibilities-com
-title: Is soupofpossibilities.com Legit? Trust Signal Check
+title: Is soupofpossibilities.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for soupofpossibilities.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  soupofpossibilities.com scores 76/100 on our public trust checks. Established
+  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:51.219Z'
 finalUrl: 'https://soupofpossibilities.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: neworleansconference.com
 slug: neworleansconference-com
-title: Is neworleansconference.com Legit? Trust Signal Check
+title: Is neworleansconference.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for neworleansconference.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  neworleansconference.com scores 76/100 on our public trust checks. Established
+  domain — registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:24:40.632Z'
 finalUrl: 'https://neworleansconference.com/'
 reachable: true

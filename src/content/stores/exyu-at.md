@@ -1,10 +1,10 @@
 ---
 domain: exyu.at
 slug: exyu-at
-title: Is exyu.at Legit? Trust Signal Check
+title: Is exyu.at Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for exyu.at: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  exyu.at scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:26.719Z'
 finalUrl: 'https://www.exyu.at/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: electroknight.de
 slug: electroknight-de
-title: Is electroknight.de Legit? Trust Signal Check
+title: Is electroknight.de Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for electroknight.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  electroknight.de scores 49/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:32:04.177Z'
 finalUrl: 'https://electroknight.de/'
 reachable: true

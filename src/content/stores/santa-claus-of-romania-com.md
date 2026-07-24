@@ -1,10 +1,10 @@
 ---
 domain: santa-claus-of-romania.com
 slug: santa-claus-of-romania-com
-title: Is santa-claus-of-romania.com Legit? Trust Signal Check
+title: Is santa-claus-of-romania.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for santa-claus-of-romania.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  santa-claus-of-romania.com scores 61/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T11:59:49.668Z'
 finalUrl: 'https://santa-claus-of-romania.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lewesfc.com
 slug: lewesfc-com
-title: Is lewesfc.com Legit? Trust Signal Check
+title: Is lewesfc.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lewesfc.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lewesfc.com scores 70/100 on our public trust checks. Established domain —
+  registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:19:38.647Z'
 finalUrl: 'https://lewesfc.com/'
 reachable: true

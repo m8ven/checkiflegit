@@ -1,10 +1,10 @@
 ---
 domain: byteboxstore.com.sg
 slug: byteboxstore-com-sg
-title: Is byteboxstore.com.sg Legit? Trust Signal Check
+title: Is byteboxstore.com.sg Legit? Trust Score 64/100
 description: >-
-  An automated trust-signal check for byteboxstore.com.sg: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  byteboxstore.com.sg scores 64/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T02:21:55.576Z'
 finalUrl: 'https://byteboxstore.com.sg/'
 reachable: true

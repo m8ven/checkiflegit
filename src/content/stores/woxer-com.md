@@ -1,10 +1,10 @@
 ---
 domain: woxer.com
 slug: woxer-com
-title: Is woxer.com Legit? Trust Signal Check
+title: Is woxer.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for woxer.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  woxer.com scores 100/100 on our public trust checks. Established domain —
+  registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:02.762Z'
 finalUrl: 'https://woxer.com/'
 reachable: true

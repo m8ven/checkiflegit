@@ -1,10 +1,10 @@
 ---
 domain: inter-first.aero
 slug: inter-first-aero
-title: Is inter-first.aero Legit? Trust Signal Check
+title: Is inter-first.aero Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for inter-first.aero: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  inter-first.aero scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:47:08.317Z'
 finalUrl: 'https://inter-first.aero/'
 reachable: true

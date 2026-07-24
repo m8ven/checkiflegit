@@ -1,10 +1,10 @@
 ---
 domain: loox3d.store
 slug: loox3d-store
-title: Is loox3d.store Legit? Trust Signal Check
+title: Is loox3d.store Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for loox3d.store: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  loox3d.store scores 70/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:22.960Z'
 finalUrl: 'https://loox3d.store/'
 reachable: true

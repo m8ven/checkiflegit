@@ -1,10 +1,10 @@
 ---
 domain: photographie.de
 slug: photographie-de
-title: Is photographie.de Legit? Trust Signal Check
+title: Is photographie.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for photographie.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  photographie.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:20:46.420Z'
 finalUrl: 'https://photographie.de/'
 reachable: true

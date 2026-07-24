@@ -1,10 +1,10 @@
 ---
 domain: gruposeres.com
 slug: gruposeres-com
-title: Is gruposeres.com Legit? Trust Signal Check
+title: Is gruposeres.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for gruposeres.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gruposeres.com scores 88/100 on our public trust checks. Established domain —
+  registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:36:04.688Z'
 finalUrl: 'https://gruposeres.com/'
 reachable: true

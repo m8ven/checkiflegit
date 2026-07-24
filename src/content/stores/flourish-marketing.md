@@ -1,10 +1,10 @@
 ---
 domain: flourish.marketing
 slug: flourish-marketing
-title: Is flourish.marketing Legit? Trust Signal Check
+title: Is flourish.marketing Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for flourish.marketing: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  flourish.marketing scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:32.550Z'
 finalUrl: 'https://flourish.marketing/'
 reachable: true

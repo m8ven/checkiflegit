@@ -1,10 +1,10 @@
 ---
 domain: sebda.org
 slug: sebda-org
-title: Is sebda.org Legit? Trust Signal Check
+title: Is sebda.org Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sebda.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sebda.org scores 85/100 on our public trust checks. Established domain —
+  registered 23.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:36:20.853Z'
 finalUrl: 'https://sebda.org/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: editions-jeu-oie.com
 slug: editions-jeu-oie-com
-title: Is editions-jeu-oie.com Legit? Trust Signal Check
+title: Is editions-jeu-oie.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for editions-jeu-oie.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  editions-jeu-oie.com scores 88/100 on our public trust checks. Established
+  domain — registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:29.910Z'
 finalUrl: 'https://editions-jeu-oie.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lemonbaski.com
 slug: lemonbaski-com
-title: Is lemonbaski.com Legit? Trust Signal Check
+title: Is lemonbaski.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lemonbaski.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lemonbaski.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:51.227Z'
 finalUrl: 'https://lemonbaski.com/'
 reachable: true

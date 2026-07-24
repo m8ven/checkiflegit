@@ -1,10 +1,10 @@
 ---
 domain: dorotastojek.pl
 slug: dorotastojek-pl
-title: Is dorotastojek.pl Legit? Trust Signal Check
+title: Is dorotastojek.pl Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for dorotastojek.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dorotastojek.pl scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:25:36.578Z'
 finalUrl: 'https://dorotastojek.pl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gregmoto.se
 slug: gregmoto-se
-title: Is gregmoto.se Legit? Trust Signal Check
+title: Is gregmoto.se Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for gregmoto.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gregmoto.se scores 85/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:54:38.430Z'
 finalUrl: 'https://gregmoto.se/'
 reachable: true

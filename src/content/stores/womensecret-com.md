@@ -1,10 +1,10 @@
 ---
 domain: womensecret.com
 slug: womensecret-com
-title: Is womensecret.com Legit? Trust Signal Check
+title: Is womensecret.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for womensecret.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  womensecret.com scores 100/100 on our public trust checks. Established domain
+  — registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:50.832Z'
 finalUrl: 'https://womensecret.com/es/es'
 reachable: true

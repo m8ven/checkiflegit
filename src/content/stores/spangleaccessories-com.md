@@ -1,10 +1,10 @@
 ---
 domain: spangleaccessories.com
 slug: spangleaccessories-com
-title: Is spangleaccessories.com Legit? Trust Signal Check
+title: Is spangleaccessories.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for spangleaccessories.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  spangleaccessories.com scores 100/100 on our public trust checks. Established
+  domain — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:32:08.888Z'
 finalUrl: 'https://spangleaccessories.com/'
 reachable: true

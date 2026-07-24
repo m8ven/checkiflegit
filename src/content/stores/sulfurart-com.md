@@ -1,10 +1,10 @@
 ---
 domain: sulfurart.com
 slug: sulfurart-com
-title: Is sulfurart.com Legit? Trust Signal Check
+title: Is sulfurart.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for sulfurart.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sulfurart.com scores 70/100 on our public trust checks. Established domain —
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:36.491Z'
 finalUrl: 'https://sulfurart.com/'
 reachable: true

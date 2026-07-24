@@ -1,10 +1,10 @@
 ---
 domain: projekt-fenix.com
 slug: projekt-fenix-com
-title: Is projekt-fenix.com Legit? Trust Signal Check
+title: Is projekt-fenix.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for projekt-fenix.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  projekt-fenix.com scores 82/100 on our public trust checks. Established domain
+  — registered 1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:24.793Z'
 finalUrl: 'https://projekt-fenix.com/'
 reachable: true

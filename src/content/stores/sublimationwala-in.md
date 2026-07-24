@@ -1,10 +1,10 @@
 ---
 domain: sublimationwala.in
 slug: sublimationwala-in
-title: Is sublimationwala.in Legit? Trust Signal Check
+title: Is sublimationwala.in Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for sublimationwala.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sublimationwala.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:13:10.271Z'
 finalUrl: 'https://sublimationwala.in/'
 reachable: true

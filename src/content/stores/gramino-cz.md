@@ -1,10 +1,10 @@
 ---
 domain: gramino.cz
 slug: gramino-cz
-title: Is gramino.cz Legit? Trust Signal Check
+title: Is gramino.cz Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for gramino.cz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gramino.cz scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:47:18.361Z'
 finalUrl: 'https://gramino.cz/'
 reachable: true

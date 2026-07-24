@@ -1,10 +1,10 @@
 ---
 domain: loveyourdogs.store
 slug: loveyourdogs-store
-title: Is loveyourdogs.store Legit? Trust Signal Check
+title: Is loveyourdogs.store Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for loveyourdogs.store: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  loveyourdogs.store scores 82/100 on our public trust checks. Established
+  domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:51.718Z'
 finalUrl: 'https://loveyourdogs.store/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: coutelier-cazorla.com
 slug: coutelier-cazorla-com
-title: Is coutelier-cazorla.com Legit? Trust Signal Check
+title: Is coutelier-cazorla.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for coutelier-cazorla.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  coutelier-cazorla.com scores 100/100 on our public trust checks. Established
+  domain — registered 11 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:09.740Z'
 finalUrl: 'https://coutelier-cazorla.com/'
 reachable: true

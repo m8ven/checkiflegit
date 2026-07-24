@@ -1,10 +1,10 @@
 ---
 domain: blogbacfr.fr
 slug: blogbacfr-fr
-title: Is blogbacfr.fr Legit? Trust Signal Check
+title: Is blogbacfr.fr Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for blogbacfr.fr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blogbacfr.fr scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:21:13.326Z'
 finalUrl: 'https://blogbacfr.fr/'
 reachable: true

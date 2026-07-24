@@ -1,10 +1,10 @@
 ---
 domain: cotemsa.mx
 slug: cotemsa-mx
-title: Is cotemsa.mx Legit? Trust Signal Check
+title: Is cotemsa.mx Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cotemsa.mx: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cotemsa.mx scores 70/100 on our public trust checks. Established domain —
+  registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:12.425Z'
 finalUrl: 'https://cotemsa.mx/'
 reachable: true

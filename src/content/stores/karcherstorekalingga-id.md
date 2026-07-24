@@ -1,10 +1,10 @@
 ---
 domain: karcherstorekalingga.id
 slug: karcherstorekalingga-id
-title: Is karcherstorekalingga.id Legit? Trust Signal Check
+title: Is karcherstorekalingga.id Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for karcherstorekalingga.id: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  karcherstorekalingga.id scores 70/100 on our public trust checks. Established
+  domain — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:22.878Z'
 finalUrl: 'https://karcherstorekalingga.id/'
 reachable: true

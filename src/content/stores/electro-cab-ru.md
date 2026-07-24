@@ -1,10 +1,10 @@
 ---
 domain: electro-cab.ru
 slug: electro-cab-ru
-title: Is electro-cab.ru Legit? Trust Signal Check
+title: Is electro-cab.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for electro-cab.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  electro-cab.ru scores 73/100 on our public trust checks. Established domain —
+  registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:31:47.550Z'
 finalUrl: 'https://electro-cab.ru/'
 reachable: true

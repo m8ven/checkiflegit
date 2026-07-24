@@ -1,10 +1,10 @@
 ---
 domain: radiociencia.com.mx
 slug: radiociencia-com-mx
-title: Is radiociencia.com.mx Legit? Trust Signal Check
+title: Is radiociencia.com.mx Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for radiociencia.com.mx: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  radiociencia.com.mx scores 88/100 on our public trust checks. Established
+  domain — registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:15.641Z'
 finalUrl: 'https://radiociencia.com.mx/'
 reachable: true

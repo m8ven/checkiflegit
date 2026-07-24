@@ -1,10 +1,10 @@
 ---
 domain: prohart.gr
 slug: prohart-gr
-title: Is prohart.gr Legit? Trust Signal Check
+title: Is prohart.gr Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for prohart.gr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  prohart.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:59:24.344Z'
 finalUrl: 'https://prohart.gr/'
 reachable: true

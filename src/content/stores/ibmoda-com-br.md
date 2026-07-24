@@ -1,10 +1,10 @@
 ---
 domain: ibmoda.com.br
 slug: ibmoda-com-br
-title: Is ibmoda.com.br Legit? Trust Signal Check
+title: Is ibmoda.com.br Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for ibmoda.com.br: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  ibmoda.com.br scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T11:58:25.786Z'
 finalUrl: 'https://ibmoda.com.br/'
 reachable: true

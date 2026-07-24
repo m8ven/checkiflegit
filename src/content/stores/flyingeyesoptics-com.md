@@ -1,10 +1,10 @@
 ---
 domain: flyingeyesoptics.com
 slug: flyingeyesoptics-com
-title: Is flyingeyesoptics.com Legit? Trust Signal Check
+title: Is flyingeyesoptics.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for flyingeyesoptics.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  flyingeyesoptics.com scores 100/100 on our public trust checks. Established
+  domain — registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:12:29.201Z'
 finalUrl: 'https://flyingeyesoptics.com/'
 reachable: true

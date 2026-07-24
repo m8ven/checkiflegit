@@ -1,10 +1,10 @@
 ---
 domain: robertkafka.com
 slug: robertkafka-com
-title: Is robertkafka.com Legit? Trust Signal Check
+title: Is robertkafka.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for robertkafka.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  robertkafka.com scores 88/100 on our public trust checks. Established domain —
+  registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:43:08.038Z'
 finalUrl: 'https://robertkafka.com/'
 reachable: true

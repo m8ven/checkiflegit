@@ -1,10 +1,10 @@
 ---
 domain: saanshis.com
 slug: saanshis-com
-title: Is saanshis.com Legit? Trust Signal Check
+title: Is saanshis.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for saanshis.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  saanshis.com scores 88/100 on our public trust checks. Established domain —
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:48.452Z'
 finalUrl: 'https://saanshis.com/'
 reachable: true

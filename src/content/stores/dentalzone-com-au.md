@@ -1,10 +1,10 @@
 ---
 domain: dentalzone.com.au
 slug: dentalzone-com-au
-title: Is dentalzone.com.au Legit? Trust Signal Check
+title: Is dentalzone.com.au Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for dentalzone.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dentalzone.com.au scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:33:38.265Z'
 finalUrl: 'https://dentalzone.com.au/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: hannaandersson.com
 slug: hannaandersson-com
-title: Is hannaandersson.com Legit? Trust Signal Check
+title: Is hannaandersson.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for hannaandersson.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hannaandersson.com scores 88/100 on our public trust checks. Established
+  domain — registered 30.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:52.970Z'
 finalUrl: 'https://www.hannaandersson.com/'
 reachable: true

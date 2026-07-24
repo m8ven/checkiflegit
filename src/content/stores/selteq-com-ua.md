@@ -1,10 +1,11 @@
 ---
 domain: selteq.com.ua
 slug: selteq-com-ua
-title: Is selteq.com.ua Legit? Trust Signal Check
+title: Is selteq.com.ua Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for selteq.com.ua: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  selteq.com.ua scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:53:08.366Z'
 finalUrl: 'https://selteq.com.ua/'
 reachable: true

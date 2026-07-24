@@ -1,10 +1,10 @@
 ---
 domain: samsonite.com.pe
 slug: samsonite-com-pe
-title: Is samsonite.com.pe Legit? Trust Signal Check
+title: Is samsonite.com.pe Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for samsonite.com.pe: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  samsonite.com.pe scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:43:46.248Z'
 finalUrl: 'https://samsonite.com.pe/'
 reachable: true

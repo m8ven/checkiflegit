@@ -1,10 +1,10 @@
 ---
 domain: sobatfurniture.com
 slug: sobatfurniture-com
-title: Is sobatfurniture.com Legit? Trust Signal Check
+title: Is sobatfurniture.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for sobatfurniture.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sobatfurniture.com scores 73/100 on our public trust checks. Established
+  domain — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:50.913Z'
 finalUrl: 'https://sobatfurniture.com/'
 reachable: true

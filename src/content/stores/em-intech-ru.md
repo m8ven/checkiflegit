@@ -1,10 +1,11 @@
 ---
 domain: em-intech.ru
 slug: em-intech-ru
-title: Is em-intech.ru Legit? Trust Signal Check
+title: Is em-intech.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for em-intech.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  em-intech.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T03:28:44.951Z'
 finalUrl: 'https://em-intech.ru/'
 reachable: true

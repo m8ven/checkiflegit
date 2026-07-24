@@ -1,10 +1,10 @@
 ---
 domain: ritterkrieg.com
 slug: ritterkrieg-com
-title: Is ritterkrieg.com Legit? Trust Signal Check
+title: Is ritterkrieg.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for ritterkrieg.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ritterkrieg.com scores 85/100 on our public trust checks. Established domain —
+  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:10.731Z'
 finalUrl: 'https://ritterkrieg.com/'
 reachable: true

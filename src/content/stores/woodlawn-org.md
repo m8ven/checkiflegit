@@ -1,10 +1,10 @@
 ---
 domain: woodlawn.org
 slug: woodlawn-org
-title: Is woodlawn.org Legit? Trust Signal Check
+title: Is woodlawn.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for woodlawn.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  woodlawn.org scores 100/100 on our public trust checks. Established domain —
+  registered 27.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:48:21.397Z'
 finalUrl: 'https://www.woodlawn.org/'
 reachable: true

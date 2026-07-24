@@ -1,10 +1,10 @@
 ---
 domain: persicia.com
 slug: persicia-com
-title: Is persicia.com Legit? Trust Signal Check
+title: Is persicia.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for persicia.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  persicia.com scores 70/100 on our public trust checks. Established domain —
+  registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:59.113Z'
 finalUrl: 'https://persicia.com/'
 reachable: true

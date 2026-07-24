@@ -1,10 +1,10 @@
 ---
 domain: olxmbg.com
 slug: olxmbg-com
-title: Is olxmbg.com Legit? Trust Signal Check
+title: Is olxmbg.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for olxmbg.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  olxmbg.com scores 55/100 on our public trust checks. Domain registered very
+  recently (45 days ago). Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:48.322Z'
 finalUrl: 'https://olxtoto.win/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: jamberooabbey.org.au
 slug: jamberooabbey-org-au
-title: Is jamberooabbey.org.au Legit? Trust Signal Check
+title: Is jamberooabbey.org.au Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for jamberooabbey.org.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  jamberooabbey.org.au scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:00:47.171Z'
 finalUrl: 'https://www.jamberooabbey.org.au/'
 reachable: true

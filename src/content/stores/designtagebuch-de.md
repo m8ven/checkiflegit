@@ -1,10 +1,10 @@
 ---
 domain: designtagebuch.de
 slug: designtagebuch-de
-title: Is designtagebuch.de Legit? Trust Signal Check
+title: Is designtagebuch.de Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for designtagebuch.de: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  designtagebuch.de scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T03:00:57.475Z'
 finalUrl: 'https://www.designtagebuch.de/'
 reachable: true

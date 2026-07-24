@@ -1,10 +1,10 @@
 ---
 domain: vietkolorstour.com
 slug: vietkolorstour-com
-title: Is vietkolorstour.com Legit? Trust Signal Check
+title: Is vietkolorstour.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for vietkolorstour.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  vietkolorstour.com scores 100/100 on our public trust checks. Established
+  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:35.246Z'
 finalUrl: 'https://vietkolorstour.com/'
 reachable: true

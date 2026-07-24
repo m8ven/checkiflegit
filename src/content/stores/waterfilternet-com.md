@@ -1,10 +1,10 @@
 ---
 domain: waterfilternet.com
 slug: waterfilternet-com
-title: Is waterfilternet.com Legit? Trust Signal Check
+title: Is waterfilternet.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for waterfilternet.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  waterfilternet.com scores 88/100 on our public trust checks. Established
+  domain — registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:09:42.357Z'
 finalUrl: 'https://waterfilternet.com/'
 reachable: true

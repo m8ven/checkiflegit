@@ -1,10 +1,10 @@
 ---
 domain: ryfi.online
 slug: ryfi-online
-title: Is ryfi.online Legit? Trust Signal Check
+title: Is ryfi.online Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ryfi.online: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ryfi.online scores 82/100 on our public trust checks. Established domain —
+  registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:45.475Z'
 finalUrl: 'https://ryfi.online/'
 reachable: true

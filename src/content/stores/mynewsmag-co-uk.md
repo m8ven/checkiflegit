@@ -1,10 +1,10 @@
 ---
 domain: mynewsmag.co.uk
 slug: mynewsmag-co-uk
-title: Is mynewsmag.co.uk Legit? Trust Signal Check
+title: Is mynewsmag.co.uk Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for mynewsmag.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mynewsmag.co.uk scores 94/100 on our public trust checks. Established domain —
+  registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:34.214Z'
 finalUrl: 'https://www.mynewsmag.co.uk/'
 reachable: true

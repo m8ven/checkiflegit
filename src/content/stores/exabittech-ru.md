@@ -1,10 +1,10 @@
 ---
 domain: exabittech.ru
 slug: exabittech-ru
-title: Is exabittech.ru Legit? Trust Signal Check
+title: Is exabittech.ru Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for exabittech.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  exabittech.ru scores 85/100 on our public trust checks. Established domain —
+  registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:30.918Z'
 finalUrl: 'https://exabittech.ru/'
 reachable: true

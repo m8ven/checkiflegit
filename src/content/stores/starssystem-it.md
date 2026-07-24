@@ -1,10 +1,10 @@
 ---
 domain: starssystem.it
 slug: starssystem-it
-title: Is starssystem.it Legit? Trust Signal Check
+title: Is starssystem.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for starssystem.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  starssystem.it scores 88/100 on our public trust checks. Established domain —
+  registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:01.794Z'
 finalUrl: 'https://www.starssystem.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: 2ndlifeatingrid.nl
 slug: 2ndlifeatingrid-nl
-title: Is 2ndlifeatingrid.nl Legit? Trust Signal Check
+title: Is 2ndlifeatingrid.nl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for 2ndlifeatingrid.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  2ndlifeatingrid.nl scores 73/100 on our public trust checks. Established
+  domain — registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:32:38.146Z'
 finalUrl: 'https://2ndlifeatingrid.nl/'
 reachable: true

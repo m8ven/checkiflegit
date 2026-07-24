@@ -1,10 +1,10 @@
 ---
 domain: retrogamefan.com
 slug: retrogamefan-com
-title: Is retrogamefan.com Legit? Trust Signal Check
+title: Is retrogamefan.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for retrogamefan.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  retrogamefan.com scores 85/100 on our public trust checks. Established domain
+  — registered 21 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:54.225Z'
 finalUrl: 'https://retrogamefan.com/'
 reachable: true

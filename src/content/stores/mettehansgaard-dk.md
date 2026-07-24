@@ -1,10 +1,10 @@
 ---
 domain: mettehansgaard.dk
 slug: mettehansgaard-dk
-title: Is mettehansgaard.dk Legit? Trust Signal Check
+title: Is mettehansgaard.dk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for mettehansgaard.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mettehansgaard.dk scores 88/100 on our public trust checks. Established domain
+  — registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:10.136Z'
 finalUrl: 'https://mettehansgaard.dk/'
 reachable: true

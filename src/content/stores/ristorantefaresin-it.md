@@ -1,10 +1,10 @@
 ---
 domain: ristorantefaresin.it
 slug: ristorantefaresin-it
-title: Is ristorantefaresin.it Legit? Trust Signal Check
+title: Is ristorantefaresin.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ristorantefaresin.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ristorantefaresin.it scores 88/100 on our public trust checks. Established
+  domain — registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:25:26.915Z'
 finalUrl: 'https://www.ristorantefaresin.it/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: compostcheira.eco.br
 slug: compostcheira-eco-br
-title: Is compostcheira.eco.br Legit? Trust Signal Check
+title: Is compostcheira.eco.br Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for compostcheira.eco.br: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  compostcheira.eco.br scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:46:37.216Z'
 finalUrl: 'https://compostcheira.eco.br/'
 reachable: true

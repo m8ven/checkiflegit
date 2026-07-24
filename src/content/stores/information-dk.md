@@ -1,10 +1,10 @@
 ---
 domain: information.dk
 slug: information-dk
-title: Is information.dk Legit? Trust Signal Check
+title: Is information.dk Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for information.dk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  information.dk scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-24T21:46:43.263Z'
 finalUrl: 'https://www.information.dk/'
 reachable: true

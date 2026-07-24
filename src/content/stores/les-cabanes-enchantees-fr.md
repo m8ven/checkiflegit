@@ -1,10 +1,11 @@
 ---
 domain: les-cabanes-enchantees.fr
 slug: les-cabanes-enchantees-fr
-title: Is les-cabanes-enchantees.fr Legit? Trust Signal Check
+title: Is les-cabanes-enchantees.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for les-cabanes-enchantees.fr: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  les-cabanes-enchantees.fr scores 88/100 on our public trust checks.
+  Established domain — registered 7.8 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:41:54.293Z'
 finalUrl: 'https://les-cabanes-enchantees.fr/'
 reachable: true

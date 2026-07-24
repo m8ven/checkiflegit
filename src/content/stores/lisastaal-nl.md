@@ -1,10 +1,11 @@
 ---
 domain: lisastaal.nl
 slug: lisastaal-nl
-title: Is lisastaal.nl Legit? Trust Signal Check
+title: Is lisastaal.nl Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for lisastaal.nl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  lisastaal.nl scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
 fetchedAt: '2026-06-25T02:34:34.902Z'
 finalUrl: 'https://lisastaal.nl/'
 reachable: true

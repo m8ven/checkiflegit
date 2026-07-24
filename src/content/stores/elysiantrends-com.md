@@ -1,10 +1,10 @@
 ---
 domain: elysiantrends.com
 slug: elysiantrends-com
-title: Is elysiantrends.com Legit? Trust Signal Check
+title: Is elysiantrends.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for elysiantrends.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elysiantrends.com scores 85/100 on our public trust checks. Established domain
+  — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:59.853Z'
 finalUrl: 'https://elysiantrends.com/'
 reachable: true

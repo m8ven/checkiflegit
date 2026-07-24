@@ -1,10 +1,10 @@
 ---
 domain: globaltimber.se
 slug: globaltimber-se
-title: Is globaltimber.se Legit? Trust Signal Check
+title: Is globaltimber.se Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for globaltimber.se: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  globaltimber.se scores 88/100 on our public trust checks. Established domain —
+  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:46:55.141Z'
 finalUrl: 'https://globaltimber.se/'
 reachable: true

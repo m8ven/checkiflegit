@@ -1,10 +1,10 @@
 ---
 domain: printedgifthouse.com
 slug: printedgifthouse-com
-title: Is printedgifthouse.com Legit? Trust Signal Check
+title: Is printedgifthouse.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for printedgifthouse.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  printedgifthouse.com scores 100/100 on our public trust checks. Established
+  domain — registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:03:13.977Z'
 finalUrl: 'https://printedgifthouse.com/'
 reachable: true

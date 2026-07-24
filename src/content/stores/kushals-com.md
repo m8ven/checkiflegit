@@ -1,10 +1,10 @@
 ---
 domain: kushals.com
 slug: kushals-com
-title: Is kushals.com Legit? Trust Signal Check
+title: Is kushals.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kushals.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kushals.com scores 100/100 on our public trust checks. Established domain —
+  registered 19.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:35.666Z'
 finalUrl: 'https://www.kushals.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: golfrecruitmentcentral.com.au
 slug: golfrecruitmentcentral-com-au
-title: Is golfrecruitmentcentral.com.au Legit? Trust Signal Check
+title: Is golfrecruitmentcentral.com.au Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for golfrecruitmentcentral.com.au: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  golfrecruitmentcentral.com.au scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T14:55:13.818Z'
 finalUrl: 'https://www.golfrecruitmentcentral.com.au/'
 reachable: true

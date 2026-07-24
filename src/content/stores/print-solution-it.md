@@ -1,10 +1,10 @@
 ---
 domain: print-solution.it
 slug: print-solution-it
-title: Is print-solution.it Legit? Trust Signal Check
+title: Is print-solution.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for print-solution.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  print-solution.it scores 88/100 on our public trust checks. Established domain
+  — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:48:29.240Z'
 finalUrl: 'https://print-solution.it/'
 reachable: true

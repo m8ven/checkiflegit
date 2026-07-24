@@ -1,10 +1,10 @@
 ---
 domain: sijmenlouis.nl
 slug: sijmenlouis-nl
-title: Is sijmenlouis.nl Legit? Trust Signal Check
+title: Is sijmenlouis.nl Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for sijmenlouis.nl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  sijmenlouis.nl scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:31:21.529Z'
 finalUrl: 'https://sijmenlouis.nl/'
 reachable: true

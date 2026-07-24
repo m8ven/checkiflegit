@@ -1,10 +1,10 @@
 ---
 domain: durkintactical.com
 slug: durkintactical-com
-title: Is durkintactical.com Legit? Trust Signal Check
+title: Is durkintactical.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for durkintactical.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  durkintactical.com scores 88/100 on our public trust checks. Established
+  domain — registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:31.977Z'
 finalUrl: 'https://www.durkintactical.com/'
 reachable: true

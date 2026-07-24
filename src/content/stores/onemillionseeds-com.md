@@ -1,10 +1,10 @@
 ---
 domain: onemillionseeds.com
 slug: onemillionseeds-com
-title: Is onemillionseeds.com Legit? Trust Signal Check
+title: Is onemillionseeds.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for onemillionseeds.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  onemillionseeds.com scores 85/100 on our public trust checks. Established
+  domain — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:22.508Z'
 finalUrl: 'https://onemillionseeds.com/'
 reachable: true

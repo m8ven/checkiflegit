@@ -1,10 +1,10 @@
 ---
 domain: mebaks.az
 slug: mebaks-az
-title: Is mebaks.az Legit? Trust Signal Check
+title: Is mebaks.az Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for mebaks.az: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mebaks.az scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:51:37.502Z'
 finalUrl: 'https://mebaks.az/'
 reachable: true

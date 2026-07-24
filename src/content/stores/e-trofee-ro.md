@@ -1,10 +1,10 @@
 ---
 domain: e-trofee.ro
 slug: e-trofee-ro
-title: Is e-trofee.ro Legit? Trust Signal Check
+title: Is e-trofee.ro Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for e-trofee.ro: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  e-trofee.ro scores 100/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:32.009Z'
 finalUrl: 'https://e-trofee.ro/'
 reachable: true

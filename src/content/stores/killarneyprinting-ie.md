@@ -1,10 +1,10 @@
 ---
 domain: killarneyprinting.ie
 slug: killarneyprinting-ie
-title: Is killarneyprinting.ie Legit? Trust Signal Check
+title: Is killarneyprinting.ie Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for killarneyprinting.ie: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  killarneyprinting.ie scores 73/100 on our public trust checks. Established
+  domain — registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:09.627Z'
 finalUrl: 'https://killarneyprinting.ie/'
 reachable: true

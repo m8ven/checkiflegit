@@ -1,10 +1,10 @@
 ---
 domain: moon.si
 slug: moon-si
-title: Is moon.si Legit? Trust Signal Check
+title: Is moon.si Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for moon.si: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  moon.si scores 70/100 on our public trust checks. Established domain —
+  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:37.488Z'
 finalUrl: 'https://moon.si/'
 reachable: true

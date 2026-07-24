@@ -1,10 +1,10 @@
 ---
 domain: novapets.co.za
 slug: novapets-co-za
-title: Is novapets.co.za Legit? Trust Signal Check
+title: Is novapets.co.za Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for novapets.co.za: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  novapets.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:25:18.636Z'
 finalUrl: 'https://novapets.co.za/'
 reachable: true

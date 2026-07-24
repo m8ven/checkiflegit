@@ -1,10 +1,10 @@
 ---
 domain: dhbpolska.com
 slug: dhbpolska-com
-title: Is dhbpolska.com Legit? Trust Signal Check
+title: Is dhbpolska.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for dhbpolska.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dhbpolska.com scores 88/100 on our public trust checks. Established domain —
+  registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:58.590Z'
 finalUrl: 'https://dhbpolska.com/'
 reachable: true

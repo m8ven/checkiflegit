@@ -1,10 +1,10 @@
 ---
 domain: kalypso.es
 slug: kalypso-es
-title: Is kalypso.es Legit? Trust Signal Check
+title: Is kalypso.es Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kalypso.es: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kalypso.es scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:51:22.186Z'
 finalUrl: 'https://kalypso.es/'
 reachable: true

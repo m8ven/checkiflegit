@@ -1,10 +1,10 @@
 ---
 domain: trainme-dz.com
 slug: trainme-dz-com
-title: Is trainme-dz.com Legit? Trust Signal Check
+title: Is trainme-dz.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for trainme-dz.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  trainme-dz.com scores 100/100 on our public trust checks. Established domain —
+  registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:54:18.123Z'
 finalUrl: 'https://trainme-dz.com/'
 reachable: true

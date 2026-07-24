@@ -1,10 +1,10 @@
 ---
 domain: youth-line.org
 slug: youth-line-org
-title: Is youth-line.org Legit? Trust Signal Check
+title: Is youth-line.org Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for youth-line.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  youth-line.org scores 70/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:56.568Z'
 finalUrl: 'https://youth-line.org/'
 reachable: true

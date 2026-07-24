@@ -1,10 +1,10 @@
 ---
 domain: fiha.sk
 slug: fiha-sk
-title: Is fiha.sk Legit? Trust Signal Check
+title: Is fiha.sk Legit? Trust Score 0/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for fiha.sk: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  fiha.sk scores 0/100 on our public trust checks. Standard contact and policy
+  pages were not found. No public contact details detected on the homepage.
 fetchedAt: '2026-06-25T14:56:46.363Z'
 finalUrl: 'https://fiha.sk/'
 reachable: true

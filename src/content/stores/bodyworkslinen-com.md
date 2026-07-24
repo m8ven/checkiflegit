@@ -1,10 +1,10 @@
 ---
 domain: bodyworkslinen.com
 slug: bodyworkslinen-com
-title: Is bodyworkslinen.com Legit? Trust Signal Check
+title: Is bodyworkslinen.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for bodyworkslinen.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bodyworkslinen.com scores 100/100 on our public trust checks. Established
+  domain — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:35.442Z'
 finalUrl: 'https://bodyworkslinen.com/'
 reachable: true

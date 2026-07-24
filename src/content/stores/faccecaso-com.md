@@ -1,10 +1,10 @@
 ---
 domain: faccecaso.com
 slug: faccecaso-com
-title: Is faccecaso.com Legit? Trust Signal Check
+title: Is faccecaso.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for faccecaso.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  faccecaso.com scores 88/100 on our public trust checks. Established domain —
+  registered 11 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:22:02.988Z'
 finalUrl: 'https://www.faccecaso.com/'
 reachable: true

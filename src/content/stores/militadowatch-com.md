@@ -1,10 +1,10 @@
 ---
 domain: militadowatch.com
 slug: militadowatch-com
-title: Is militadowatch.com Legit? Trust Signal Check
+title: Is militadowatch.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for militadowatch.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  militadowatch.com scores 70/100 on our public trust checks. Established domain
+  — registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:03:04.478Z'
 finalUrl: 'https://www.militadowatch.com/'
 reachable: true

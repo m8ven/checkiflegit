@@ -1,10 +1,10 @@
 ---
 domain: michaela-de-luxe.de
 slug: michaela-de-luxe-de
-title: Is michaela-de-luxe.de Legit? Trust Signal Check
+title: Is michaela-de-luxe.de Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for michaela-de-luxe.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  michaela-de-luxe.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:53:10.340Z'
 finalUrl: 'https://michaela-de-luxe.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: market7.ir
 slug: market7-ir
-title: Is market7.ir Legit? Trust Signal Check
+title: Is market7.ir Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for market7.ir: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  market7.ir scores 57/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:57:06.432Z'
 finalUrl: 'https://market7.ir/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: theareston.cy
 slug: theareston-cy
-title: Is theareston.cy Legit? Trust Signal Check
+title: Is theareston.cy Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for theareston.cy: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  theareston.cy scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:05:12.993Z'
 finalUrl: 'https://theareston.cy/'
 reachable: true

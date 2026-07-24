@@ -1,10 +1,10 @@
 ---
 domain: chastityboycz.fun
 slug: chastityboycz-fun
-title: Is chastityboycz.fun Legit? Trust Signal Check
+title: Is chastityboycz.fun Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for chastityboycz.fun: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chastityboycz.fun scores 88/100 on our public trust checks. Established domain
+  — registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:28:47.611Z'
 finalUrl: 'https://chastityboycz.fun/'
 reachable: true

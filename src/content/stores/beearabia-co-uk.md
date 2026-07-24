@@ -1,10 +1,10 @@
 ---
 domain: beearabia.co.uk
 slug: beearabia-co-uk
-title: Is beearabia.co.uk Legit? Trust Signal Check
+title: Is beearabia.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for beearabia.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  beearabia.co.uk scores 100/100 on our public trust checks. Established domain
+  — registered 2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:51:10.327Z'
 finalUrl: 'https://beearabia.co.uk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mafemmedemenage.com
 slug: mafemmedemenage-com
-title: Is mafemmedemenage.com Legit? Trust Signal Check
+title: Is mafemmedemenage.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for mafemmedemenage.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mafemmedemenage.com scores 73/100 on our public trust checks. Established
+  domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:23:43.351Z'
 finalUrl: 'https://www.mafemmedemenage.com/'
 reachable: true

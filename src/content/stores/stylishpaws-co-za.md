@@ -1,10 +1,10 @@
 ---
 domain: stylishpaws.co.za
 slug: stylishpaws-co-za
-title: Is stylishpaws.co.za Legit? Trust Signal Check
+title: Is stylishpaws.co.za Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for stylishpaws.co.za: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stylishpaws.co.za scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:52:37.376Z'
 finalUrl: 'https://stylishpaws.co.za/'
 reachable: true

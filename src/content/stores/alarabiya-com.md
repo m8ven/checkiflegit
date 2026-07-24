@@ -1,10 +1,10 @@
 ---
 domain: alarabiya.com
 slug: alarabiya-com
-title: Is alarabiya.com Legit? Trust Signal Check
+title: Is alarabiya.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for alarabiya.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alarabiya.com scores 70/100 on our public trust checks. Established domain —
+  registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:54.357Z'
 finalUrl: 'https://www.alarabiya.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: vitabioticsnigeria.zestydev4.co.nz
 slug: vitabioticsnigeria-zestydev4-co-nz
-title: Is vitabioticsnigeria.zestydev4.co.nz Legit? Trust Signal Check
+title: Is vitabioticsnigeria.zestydev4.co.nz Legit? Score 83/100
 description: >-
-  An automated trust-signal check for vitabioticsnigeria.zestydev4.co.nz: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  vitabioticsnigeria.zestydev4.co.nz scores 83/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:18:54.819Z'
 finalUrl: 'https://vitabioticsnigeria.zestydev4.co.nz/'
 reachable: true

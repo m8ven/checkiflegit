@@ -1,10 +1,10 @@
 ---
 domain: happybabymassage.ru
 slug: happybabymassage-ru
-title: Is happybabymassage.ru Legit? Trust Signal Check
+title: Is happybabymassage.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for happybabymassage.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  happybabymassage.ru scores 73/100 on our public trust checks. Established
+  domain — registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:14:37.581Z'
 finalUrl: 'https://happybabymassage.ru/'
 reachable: true

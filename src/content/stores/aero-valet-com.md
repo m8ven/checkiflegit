@@ -1,10 +1,10 @@
 ---
 domain: aero-valet.com
 slug: aero-valet-com
-title: Is aero-valet.com Legit? Trust Signal Check
+title: Is aero-valet.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for aero-valet.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aero-valet.com scores 100/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:18:30.259Z'
 finalUrl: 'https://aero-valet.com/'
 reachable: true

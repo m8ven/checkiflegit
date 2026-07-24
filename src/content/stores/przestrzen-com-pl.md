@@ -1,10 +1,10 @@
 ---
 domain: przestrzen.com.pl
 slug: przestrzen-com-pl
-title: Is przestrzen.com.pl Legit? Trust Signal Check
+title: Is przestrzen.com.pl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for przestrzen.com.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  przestrzen.com.pl scores 82/100 on our public trust checks. Established domain
+  — registered 17.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:27.917Z'
 finalUrl: 'https://przestrzen.com.pl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: liquidprocess.com
 slug: liquidprocess-com
-title: Is liquidprocess.com Legit? Trust Signal Check
+title: Is liquidprocess.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for liquidprocess.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  liquidprocess.com scores 100/100 on our public trust checks. Established
+  domain — registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:26:43.757Z'
 finalUrl: 'https://www.liquidprocess.com/'
 reachable: true

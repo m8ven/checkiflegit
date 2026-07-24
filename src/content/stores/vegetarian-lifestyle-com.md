@@ -1,10 +1,10 @@
 ---
 domain: vegetarian-lifestyle.com
 slug: vegetarian-lifestyle-com
-title: Is vegetarian-lifestyle.com Legit? Trust Signal Check
+title: Is vegetarian-lifestyle.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for vegetarian-lifestyle.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  vegetarian-lifestyle.com scores 88/100 on our public trust checks. Established
+  domain — registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:18:04.582Z'
 finalUrl: 'https://vegetarian-lifestyle.com/'
 reachable: true

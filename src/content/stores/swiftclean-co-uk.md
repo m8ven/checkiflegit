@@ -1,10 +1,10 @@
 ---
 domain: swiftclean.co.uk
 slug: swiftclean-co-uk
-title: Is swiftclean.co.uk Legit? Trust Signal Check
+title: Is swiftclean.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for swiftclean.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  swiftclean.co.uk scores 100/100 on our public trust checks. Established domain
+  — registered 28.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:50.521Z'
 finalUrl: 'https://www.swiftclean.co.uk/'
 reachable: true

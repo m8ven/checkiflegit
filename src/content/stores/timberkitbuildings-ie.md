@@ -1,10 +1,10 @@
 ---
 domain: timberkitbuildings.ie
 slug: timberkitbuildings-ie
-title: Is timberkitbuildings.ie Legit? Trust Signal Check
+title: Is timberkitbuildings.ie Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for timberkitbuildings.ie: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  timberkitbuildings.ie scores 94/100 on our public trust checks. Established
+  domain — registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:01.344Z'
 finalUrl: 'https://www.timberkitbuildings.ie/'
 reachable: true

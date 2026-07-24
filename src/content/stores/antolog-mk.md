@@ -1,10 +1,10 @@
 ---
 domain: antolog.mk
 slug: antolog-mk
-title: Is antolog.mk Legit? Trust Signal Check
+title: Is antolog.mk Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for antolog.mk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  antolog.mk scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:34:22.351Z'
 finalUrl: 'https://antolog.mk/'
 reachable: true

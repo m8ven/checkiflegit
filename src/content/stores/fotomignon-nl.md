@@ -1,10 +1,10 @@
 ---
 domain: fotomignon.nl
 slug: fotomignon-nl
-title: Is fotomignon.nl Legit? Trust Signal Check
+title: Is fotomignon.nl Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for fotomignon.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fotomignon.nl scores 100/100 on our public trust checks. Established domain —
+  registered 18 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:42.036Z'
 finalUrl: 'https://fotomignon.nl/'
 reachable: true

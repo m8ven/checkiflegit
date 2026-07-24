@@ -1,10 +1,10 @@
 ---
 domain: producent.org.pl
 slug: producent-org-pl
-title: Is producent.org.pl Legit? Trust Signal Check
+title: Is producent.org.pl Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for producent.org.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  producent.org.pl scores 73/100 on our public trust checks. Established domain
+  — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:56:59.384Z'
 finalUrl: 'https://producent.org.pl/'
 reachable: true

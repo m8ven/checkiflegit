@@ -1,10 +1,10 @@
 ---
 domain: finewatches.berlin
 slug: finewatches-berlin
-title: Is finewatches.berlin Legit? Trust Signal Check
+title: Is finewatches.berlin Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for finewatches.berlin: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  finewatches.berlin scores 100/100 on our public trust checks. Established
+  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:30:49.821Z'
 finalUrl: 'https://www.finewatches.berlin/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gematriaeffect.news
 slug: gematriaeffect-news
-title: Is gematriaeffect.news Legit? Trust Signal Check
+title: Is gematriaeffect.news Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for gematriaeffect.news: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gematriaeffect.news scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:13:30.820Z'
 finalUrl: 'https://gematriaeffect.news/'
 reachable: true

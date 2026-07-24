@@ -1,10 +1,10 @@
 ---
 domain: brittsimperial.com
 slug: brittsimperial-com
-title: Is brittsimperial.com Legit? Trust Signal Check
+title: Is brittsimperial.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for brittsimperial.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brittsimperial.com scores 85/100 on our public trust checks. Established
+  domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:37:50.939Z'
 finalUrl: 'https://brittsimperial.com/'
 reachable: true

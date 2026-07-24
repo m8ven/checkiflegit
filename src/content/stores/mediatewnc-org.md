@@ -1,10 +1,10 @@
 ---
 domain: mediatewnc.org
 slug: mediatewnc-org
-title: Is mediatewnc.org Legit? Trust Signal Check
+title: Is mediatewnc.org Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for mediatewnc.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mediatewnc.org scores 82/100 on our public trust checks. Established domain —
+  registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:47.078Z'
 finalUrl: 'https://mediatewnc.org/'
 reachable: true

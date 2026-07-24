@@ -1,10 +1,10 @@
 ---
 domain: pittarello.com
 slug: pittarello-com
-title: Is pittarello.com Legit? Trust Signal Check
+title: Is pittarello.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for pittarello.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pittarello.com scores 88/100 on our public trust checks. Established domain —
+  registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:40.112Z'
 finalUrl: 'https://www.pittarello.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: brunnerz.de
 slug: brunnerz-de
-title: Is brunnerz.de Legit? Trust Signal Check
+title: Is brunnerz.de Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for brunnerz.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  brunnerz.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:24:03.083Z'
 finalUrl: 'https://www.brunnerz.de/'
 reachable: true

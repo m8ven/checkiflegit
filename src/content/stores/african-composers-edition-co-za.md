@@ -1,10 +1,10 @@
 ---
 domain: african-composers-edition.co.za
 slug: african-composers-edition-co-za
-title: Is african-composers-edition.co.za Legit? Trust Signal Check
+title: Is african-composers-edition.co.za Legit? Score 100/100
 description: >-
-  An automated trust-signal check for african-composers-edition.co.za: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  african-composers-edition.co.za scores 100/100 on our public trust checks.
+  Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:18.567Z'
 finalUrl: 'https://african-composers-edition.co.za/'
 reachable: true

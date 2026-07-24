@@ -1,10 +1,10 @@
 ---
 domain: mundogugu.com
 slug: mundogugu-com
-title: Is mundogugu.com Legit? Trust Signal Check
+title: Is mundogugu.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for mundogugu.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mundogugu.com scores 76/100 on our public trust checks. Established domain —
+  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:57:08.544Z'
 finalUrl: 'https://mundogugu.com/'
 reachable: true

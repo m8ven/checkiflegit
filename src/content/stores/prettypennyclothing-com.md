@@ -1,10 +1,10 @@
 ---
 domain: prettypennyclothing.com
 slug: prettypennyclothing-com
-title: Is prettypennyclothing.com Legit? Trust Signal Check
+title: Is prettypennyclothing.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for prettypennyclothing.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  prettypennyclothing.com scores 82/100 on our public trust checks. Established
+  domain — registered 18.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:36.322Z'
 finalUrl: 'https://prettypennyclothing.com/'
 reachable: true

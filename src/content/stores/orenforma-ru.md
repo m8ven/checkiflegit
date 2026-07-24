@@ -1,10 +1,11 @@
 ---
 domain: orenforma.ru
 slug: orenforma-ru
-title: Is orenforma.ru Legit? Trust Signal Check
+title: Is orenforma.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for orenforma.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  orenforma.ru scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:17:53.903Z'
 finalUrl: 'https://orenforma.ru/'
 reachable: true

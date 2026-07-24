@@ -1,10 +1,10 @@
 ---
 domain: bullion79.com
 slug: bullion79-com
-title: Is bullion79.com Legit? Trust Signal Check
+title: Is bullion79.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for bullion79.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bullion79.com scores 85/100 on our public trust checks. Established domain —
+  registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:49:41.588Z'
 finalUrl: 'https://bullion79.com/'
 reachable: true

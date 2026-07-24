@@ -1,10 +1,10 @@
 ---
 domain: aksaakustik.com
 slug: aksaakustik-com
-title: Is aksaakustik.com Legit? Trust Signal Check
+title: Is aksaakustik.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for aksaakustik.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aksaakustik.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T12:21:07.330Z'
 finalUrl: 'https://www.aksaakustik.com/'
 reachable: true

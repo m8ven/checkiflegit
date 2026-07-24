@@ -1,10 +1,10 @@
 ---
 domain: micprice.com
 slug: micprice-com
-title: Is micprice.com Legit? Trust Signal Check
+title: Is micprice.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for micprice.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  micprice.com scores 85/100 on our public trust checks. Established domain —
+  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:11:24.368Z'
 finalUrl: 'https://micprice.com/'
 reachable: true

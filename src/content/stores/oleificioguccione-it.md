@@ -1,10 +1,10 @@
 ---
 domain: oleificioguccione.it
 slug: oleificioguccione-it
-title: Is oleificioguccione.it Legit? Trust Signal Check
+title: Is oleificioguccione.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for oleificioguccione.it: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  oleificioguccione.it scores 88/100 on our public trust checks. Established
+  domain — registered 13.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:58:38.502Z'
 finalUrl: 'https://oleificioguccione.it/'
 reachable: true

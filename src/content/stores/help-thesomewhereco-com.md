@@ -1,10 +1,10 @@
 ---
 domain: help.thesomewhereco.com
 slug: help-thesomewhereco-com
-title: Is help.thesomewhereco.com Legit? Trust Signal Check
+title: Is help.thesomewhereco.com Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for help.thesomewhereco.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  help.thesomewhereco.com scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:00:45.696Z'
 finalUrl: 'https://help.thesomewhereco.com/en-US'
 reachable: true

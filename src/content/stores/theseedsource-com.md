@@ -1,10 +1,10 @@
 ---
 domain: theseedsource.com
 slug: theseedsource-com
-title: Is theseedsource.com Legit? Trust Signal Check
+title: Is theseedsource.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for theseedsource.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  theseedsource.com scores 70/100 on our public trust checks. Established domain
+  — registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:39.939Z'
 finalUrl: 'https://theseedsource.com/'
 reachable: true

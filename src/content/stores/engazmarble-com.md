@@ -1,10 +1,10 @@
 ---
 domain: engazmarble.com
 slug: engazmarble-com
-title: Is engazmarble.com Legit? Trust Signal Check
+title: Is engazmarble.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for engazmarble.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  engazmarble.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
 fetchedAt: '2026-06-25T14:55:20.570Z'
 finalUrl: 'https://engazmarble.com/'
 reachable: true

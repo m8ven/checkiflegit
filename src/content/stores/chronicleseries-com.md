@@ -1,10 +1,10 @@
 ---
 domain: chronicleseries.com
 slug: chronicleseries-com
-title: Is chronicleseries.com Legit? Trust Signal Check
+title: Is chronicleseries.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for chronicleseries.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chronicleseries.com scores 100/100 on our public trust checks. Established
+  domain — registered 25.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:42.124Z'
 finalUrl: 'https://www.chronicleseries.com/'
 reachable: true

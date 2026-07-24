@@ -1,10 +1,10 @@
 ---
 domain: dusera.com
 slug: dusera-com
-title: Is dusera.com Legit? Trust Signal Check
+title: Is dusera.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dusera.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dusera.com scores 73/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:44.003Z'
 finalUrl: 'https://www.dusera.com/'
 reachable: true

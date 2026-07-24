@@ -1,10 +1,10 @@
 ---
 domain: danishkada.com.pk
 slug: danishkada-com-pk
-title: Is danishkada.com.pk Legit? Trust Signal Check
+title: Is danishkada.com.pk Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for danishkada.com.pk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  danishkada.com.pk scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:30:57.563Z'
 finalUrl: 'https://danishkada.com.pk/'
 reachable: true

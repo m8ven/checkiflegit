@@ -1,10 +1,11 @@
 ---
 domain: interinject.pl
 slug: interinject-pl
-title: Is interinject.pl Legit? Trust Signal Check
+title: Is interinject.pl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for interinject.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  interinject.pl scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:30:50.878Z'
 finalUrl: 'https://interinject.pl/'
 reachable: true

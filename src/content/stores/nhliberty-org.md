@@ -1,10 +1,11 @@
 ---
 domain: nhliberty.org
 slug: nhliberty-org
-title: Is nhliberty.org Legit? Trust Signal Check
+title: Is nhliberty.org Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for nhliberty.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nhliberty.org scores 76/100 on our public trust checks. Public business
+  contact details are listed. Maintains links to multiple social media
+  platforms.
 fetchedAt: '2026-06-25T15:30:27.195Z'
 finalUrl: 'https://www.nhliberty.org/'
 reachable: true

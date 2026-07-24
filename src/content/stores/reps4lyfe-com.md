@@ -1,10 +1,10 @@
 ---
 domain: reps4lyfe.com
 slug: reps4lyfe-com
-title: Is reps4lyfe.com Legit? Trust Signal Check
+title: Is reps4lyfe.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for reps4lyfe.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  reps4lyfe.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:43.098Z'
 finalUrl: 'https://reps4lyfe.com/'
 reachable: true

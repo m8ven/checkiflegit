@@ -1,10 +1,10 @@
 ---
 domain: skofijska-knjigarna.si
 slug: skofijska-knjigarna-si
-title: Is skofijska-knjigarna.si Legit? Trust Signal Check
+title: Is skofijska-knjigarna.si Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for skofijska-knjigarna.si: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  skofijska-knjigarna.si scores 88/100 on our public trust checks. Established
+  domain — registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:06:39.697Z'
 finalUrl: 'https://skofijska-knjigarna.si/'
 reachable: true

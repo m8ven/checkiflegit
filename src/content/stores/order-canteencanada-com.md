@@ -1,10 +1,10 @@
 ---
 domain: order.canteencanada.com
 slug: order-canteencanada-com
-title: Is order.canteencanada.com Legit? Trust Signal Check
+title: Is order.canteencanada.com Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for order.canteencanada.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  order.canteencanada.com scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:17:51.225Z'
 finalUrl: 'https://order.canteencanada.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gastro-trader.eu
 slug: gastro-trader-eu
-title: Is gastro-trader.eu Legit? Trust Signal Check
+title: Is gastro-trader.eu Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for gastro-trader.eu: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  gastro-trader.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:33:09.381Z'
 finalUrl: 'https://gastro-trader.eu/'
 reachable: true

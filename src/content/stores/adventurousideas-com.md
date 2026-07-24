@@ -1,10 +1,10 @@
 ---
 domain: adventurousideas.com
 slug: adventurousideas-com
-title: Is adventurousideas.com Legit? Trust Signal Check
+title: Is adventurousideas.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for adventurousideas.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  adventurousideas.com scores 58/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T15:34:22.440Z'
 finalUrl: 'https://adventurousideas.com/'
 reachable: true

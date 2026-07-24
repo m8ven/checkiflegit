@@ -1,10 +1,10 @@
 ---
 domain: aapnasweets.ca
 slug: aapnasweets-ca
-title: Is aapnasweets.ca Legit? Trust Signal Check
+title: Is aapnasweets.ca Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for aapnasweets.ca: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aapnasweets.ca scores 100/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:34:00.132Z'
 finalUrl: 'https://aapnasweets.ca/'
 reachable: true

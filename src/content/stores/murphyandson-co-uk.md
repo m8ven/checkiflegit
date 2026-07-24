@@ -1,10 +1,10 @@
 ---
 domain: murphyandson.co.uk
 slug: murphyandson-co-uk
-title: Is murphyandson.co.uk Legit? Trust Signal Check
+title: Is murphyandson.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for murphyandson.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  murphyandson.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 27.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:01.743Z'
 finalUrl: 'https://www.murphyandson.co.uk/'
 reachable: true

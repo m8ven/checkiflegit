@@ -1,10 +1,10 @@
 ---
 domain: promosamerica.com
 slug: promosamerica-com
-title: Is promosamerica.com Legit? Trust Signal Check
+title: Is promosamerica.com Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for promosamerica.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  promosamerica.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T02:48:39.534Z'
 finalUrl: 'https://promosamerica.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: gstile.com
 slug: gstile-com
-title: Is gstile.com Legit? Trust Signal Check
+title: Is gstile.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for gstile.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gstile.com scores 70/100 on our public trust checks. Established domain —
+  registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:10.461Z'
 finalUrl: 'https://gstile.com/'
 reachable: true

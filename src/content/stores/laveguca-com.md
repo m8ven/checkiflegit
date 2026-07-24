@@ -1,10 +1,10 @@
 ---
 domain: laveguca.com
 slug: laveguca-com
-title: Is laveguca.com Legit? Trust Signal Check
+title: Is laveguca.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for laveguca.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  laveguca.com scores 100/100 on our public trust checks. Established domain —
+  registered 21.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:33:54.637Z'
 finalUrl: 'https://laveguca.com/'
 reachable: true

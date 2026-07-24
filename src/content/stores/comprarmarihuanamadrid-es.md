@@ -1,10 +1,10 @@
 ---
 domain: comprarmarihuanamadrid.es
 slug: comprarmarihuanamadrid-es
-title: Is comprarmarihuanamadrid.es Legit? Trust Signal Check
+title: Is comprarmarihuanamadrid.es Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for comprarmarihuanamadrid.es: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  comprarmarihuanamadrid.es scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:39:49.136Z'
 finalUrl: 'https://comprarmarihuanamadrid.com/'
 reachable: true

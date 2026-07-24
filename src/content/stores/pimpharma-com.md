@@ -1,10 +1,10 @@
 ---
 domain: pimpharma.com
 slug: pimpharma-com
-title: Is pimpharma.com Legit? Trust Signal Check
+title: Is pimpharma.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for pimpharma.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pimpharma.com scores 88/100 on our public trust checks. Established domain —
+  registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:32.070Z'
 finalUrl: 'https://pimpharma.com/'
 reachable: true

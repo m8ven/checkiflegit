@@ -1,10 +1,10 @@
 ---
 domain: nu3sinutre.com
 slug: nu3sinutre-com
-title: Is nu3sinutre.com Legit? Trust Signal Check
+title: Is nu3sinutre.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for nu3sinutre.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nu3sinutre.com scores 82/100 on our public trust checks. Established domain —
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:12.198Z'
 finalUrl: 'https://nu3sinutre.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: aptekatop100.pl
 slug: aptekatop100-pl
-title: Is aptekatop100.pl Legit? Trust Signal Check
+title: Is aptekatop100.pl Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for aptekatop100.pl: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  aptekatop100.pl scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:41:37.781Z'
 finalUrl: 'https://aptekatop100.pl/'
 reachable: true

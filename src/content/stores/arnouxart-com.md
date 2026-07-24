@@ -1,10 +1,10 @@
 ---
 domain: arnouxart.com
 slug: arnouxart-com
-title: Is arnouxart.com Legit? Trust Signal Check
+title: Is arnouxart.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for arnouxart.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  arnouxart.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:00:32.600Z'
 finalUrl: 'https://arnouxart.com/'
 reachable: true

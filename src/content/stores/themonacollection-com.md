@@ -1,10 +1,10 @@
 ---
 domain: themonacollection.com
 slug: themonacollection-com
-title: Is themonacollection.com Legit? Trust Signal Check
+title: Is themonacollection.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for themonacollection.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  themonacollection.com scores 100/100 on our public trust checks. Established
+  domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:46.164Z'
 finalUrl: 'https://themonacollection.com/'
 reachable: true

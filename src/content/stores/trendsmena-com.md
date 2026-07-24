@@ -1,10 +1,10 @@
 ---
 domain: trendsmena.com
 slug: trendsmena-com
-title: Is trendsmena.com Legit? Trust Signal Check
+title: Is trendsmena.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for trendsmena.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  trendsmena.com scores 70/100 on our public trust checks. Established domain —
+  registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:13:42.300Z'
 finalUrl: 'https://trendsmena.com/'
 reachable: true

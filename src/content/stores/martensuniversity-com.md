@@ -1,10 +1,10 @@
 ---
 domain: martensuniversity.com
 slug: martensuniversity-com
-title: Is martensuniversity.com Legit? Trust Signal Check
+title: Is martensuniversity.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for martensuniversity.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  martensuniversity.com scores 73/100 on our public trust checks. Established
+  domain — registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:03.740Z'
 finalUrl: 'https://martensuniversity.com/'
 reachable: true

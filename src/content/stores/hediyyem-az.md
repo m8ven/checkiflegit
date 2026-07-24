@@ -1,10 +1,10 @@
 ---
 domain: hediyyem.az
 slug: hediyyem-az
-title: Is hediyyem.az Legit? Trust Signal Check
+title: Is hediyyem.az Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for hediyyem.az: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  hediyyem.az scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:00:35.408Z'
 finalUrl: 'https://hediyyem.az/'
 reachable: true

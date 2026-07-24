@@ -1,10 +1,11 @@
 ---
 domain: comunicacionnoviolenta.com
 slug: comunicacionnoviolenta-com
-title: Is comunicacionnoviolenta.com Legit? Trust Signal Check
+title: Is comunicacionnoviolenta.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for comunicacionnoviolenta.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  comunicacionnoviolenta.com scores 100/100 on our public trust checks.
+  Established domain — registered 20.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T12:46:37.216Z'
 finalUrl: 'https://comunicacionnoviolenta.com/'
 reachable: true

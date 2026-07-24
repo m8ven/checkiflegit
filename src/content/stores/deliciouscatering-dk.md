@@ -1,10 +1,10 @@
 ---
 domain: deliciouscatering.dk
 slug: deliciouscatering-dk
-title: Is deliciouscatering.dk Legit? Trust Signal Check
+title: Is deliciouscatering.dk Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for deliciouscatering.dk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  deliciouscatering.dk scores 88/100 on our public trust checks. Established
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:30:24.484Z'
 finalUrl: 'https://deliciouscatering.dk/'
 reachable: true

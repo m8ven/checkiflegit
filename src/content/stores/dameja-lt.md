@@ -1,10 +1,10 @@
 ---
 domain: dameja.lt
 slug: dameja-lt
-title: Is dameja.lt Legit? Trust Signal Check
+title: Is dameja.lt Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dameja.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dameja.lt scores 82/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:58:12.248Z'
 finalUrl: 'https://www.dameja.lt/'
 reachable: true

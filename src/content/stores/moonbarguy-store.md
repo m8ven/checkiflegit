@@ -1,10 +1,10 @@
 ---
 domain: moonbarguy.store
 slug: moonbarguy-store
-title: Is moonbarguy.store Legit? Trust Signal Check
+title: Is moonbarguy.store Legit? Trust Score 37/100
 description: >-
-  An automated trust-signal check for moonbarguy.store: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  moonbarguy.store scores 37/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:55:42.334Z'
 finalUrl: 'https://moonbarguy.store/'
 reachable: true

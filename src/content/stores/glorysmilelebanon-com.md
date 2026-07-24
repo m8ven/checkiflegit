@@ -1,10 +1,10 @@
 ---
 domain: glorysmilelebanon.com
 slug: glorysmilelebanon-com
-title: Is glorysmilelebanon.com Legit? Trust Signal Check
+title: Is glorysmilelebanon.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for glorysmilelebanon.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  glorysmilelebanon.com scores 88/100 on our public trust checks. Established
+  domain — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:12.992Z'
 finalUrl: 'https://glorysmilelebanon.com/'
 reachable: true

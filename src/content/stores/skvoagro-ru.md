@@ -1,10 +1,10 @@
 ---
 domain: skvoagro.ru
 slug: skvoagro-ru
-title: Is skvoagro.ru Legit? Trust Signal Check
+title: Is skvoagro.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for skvoagro.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  skvoagro.ru scores 73/100 on our public trust checks. Established domain —
+  registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:01:38.604Z'
 finalUrl: 'https://skvoagro.ru/'
 reachable: true

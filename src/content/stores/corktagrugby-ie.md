@@ -1,10 +1,10 @@
 ---
 domain: corktagrugby.ie
 slug: corktagrugby-ie
-title: Is corktagrugby.ie Legit? Trust Signal Check
+title: Is corktagrugby.ie Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for corktagrugby.ie: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  corktagrugby.ie scores 88/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:29:59.938Z'
 finalUrl: 'https://corktagrugby.ie/'
 reachable: true

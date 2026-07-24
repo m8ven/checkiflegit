@@ -1,10 +1,10 @@
 ---
 domain: ivglesadresses.org
 slug: ivglesadresses-org
-title: Is ivglesadresses.org Legit? Trust Signal Check
+title: Is ivglesadresses.org Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ivglesadresses.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ivglesadresses.org scores 88/100 on our public trust checks. Established
+  domain — registered 13.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:21.886Z'
 finalUrl: 'https://ivglesadresses.org/'
 reachable: true

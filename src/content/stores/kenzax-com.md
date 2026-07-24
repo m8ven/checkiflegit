@@ -1,10 +1,10 @@
 ---
 domain: kenzax.com
 slug: kenzax-com
-title: Is kenzax.com Legit? Trust Signal Check
+title: Is kenzax.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kenzax.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kenzax.com scores 88/100 on our public trust checks. Established domain —
+  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:11:29.913Z'
 finalUrl: 'https://kenzax.com/'
 reachable: true

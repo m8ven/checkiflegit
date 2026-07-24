@@ -1,10 +1,11 @@
 ---
 domain: partyninja.dk
 slug: partyninja-dk
-title: Is partyninja.dk Legit? Trust Signal Check
+title: Is partyninja.dk Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for partyninja.dk: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  partyninja.dk scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:26:49.195Z'
 finalUrl: 'https://partyninja.dk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: mapharma.fr
 slug: mapharma-fr
-title: Is mapharma.fr Legit? Trust Signal Check
+title: Is mapharma.fr Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for mapharma.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mapharma.fr scores 94/100 on our public trust checks. Established domain —
+  registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:02.216Z'
 finalUrl: 'https://mapharma.fr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: africaeaffari.it
 slug: africaeaffari-it
-title: Is africaeaffari.it Legit? Trust Signal Check
+title: Is africaeaffari.it Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for africaeaffari.it: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  africaeaffari.it scores 88/100 on our public trust checks. Established domain
+  — registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:26.274Z'
 finalUrl: 'https://www.africaeaffari.it/'
 reachable: true

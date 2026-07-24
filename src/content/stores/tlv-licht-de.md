@@ -1,10 +1,10 @@
 ---
 domain: tlv-licht.de
 slug: tlv-licht-de
-title: Is tlv-licht.de Legit? Trust Signal Check
+title: Is tlv-licht.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for tlv-licht.de: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  tlv-licht.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:23:14.913Z'
 finalUrl: 'https://www.tlv-licht.de/'
 reachable: true

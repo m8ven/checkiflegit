@@ -1,10 +1,10 @@
 ---
 domain: certempire.com
 slug: certempire-com
-title: Is certempire.com Legit? Trust Signal Check
+title: Is certempire.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for certempire.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  certempire.com scores 88/100 on our public trust checks. Established domain —
+  registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:00:39.314Z'
 finalUrl: 'https://certempire.com/'
 reachable: true

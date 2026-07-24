@@ -1,10 +1,10 @@
 ---
 domain: demarchefle.com
 slug: demarchefle-com
-title: Is demarchefle.com Legit? Trust Signal Check
+title: Is demarchefle.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for demarchefle.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  demarchefle.com scores 94/100 on our public trust checks. Established domain —
+  registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:16:19.619Z'
 finalUrl: 'https://www.demarchefle.com/'
 reachable: true

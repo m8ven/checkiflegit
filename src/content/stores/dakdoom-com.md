@@ -1,10 +1,10 @@
 ---
 domain: dakdoom.com
 slug: dakdoom-com
-title: Is dakdoom.com Legit? Trust Signal Check
+title: Is dakdoom.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for dakdoom.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dakdoom.com scores 100/100 on our public trust checks. Established domain —
+  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:08:01.131Z'
 finalUrl: 'https://dakdoom.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: fresh.gully2gully.in
 slug: fresh-gully2gully-in
-title: Is fresh.gully2gully.in Legit? Trust Signal Check
+title: Is fresh.gully2gully.in Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for fresh.gully2gully.in: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  fresh.gully2gully.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T03:43:55.532Z'
 finalUrl: 'https://fresh.gully2gully.in/'
 reachable: true

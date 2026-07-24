@@ -1,10 +1,10 @@
 ---
 domain: piercedbody.co.uk
 slug: piercedbody-co-uk
-title: Is piercedbody.co.uk Legit? Trust Signal Check
+title: Is piercedbody.co.uk Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for piercedbody.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  piercedbody.co.uk scores 70/100 on our public trust checks. Established domain
+  — registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:02:14.429Z'
 finalUrl: 'https://piercedbody.co.uk/'
 reachable: true

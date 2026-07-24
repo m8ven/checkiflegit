@@ -1,10 +1,10 @@
 ---
 domain: bryggol.no
 slug: bryggol-no
-title: Is bryggol.no Legit? Trust Signal Check
+title: Is bryggol.no Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bryggol.no: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bryggol.no scores 76/100 on our public trust checks. Established domain —
+  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:27:36.218Z'
 finalUrl: 'https://bryggol.no/'
 reachable: true

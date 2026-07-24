@@ -1,10 +1,10 @@
 ---
 domain: brazilianlumber.com
 slug: brazilianlumber-com
-title: Is brazilianlumber.com Legit? Trust Signal Check
+title: Is brazilianlumber.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for brazilianlumber.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  brazilianlumber.com scores 100/100 on our public trust checks. Established
+  domain — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:37:42.646Z'
 finalUrl: 'https://brazilianlumber.com/'
 reachable: true

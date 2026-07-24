@@ -1,10 +1,10 @@
 ---
 domain: lsdc.com
 slug: lsdc-com
-title: Is lsdc.com Legit? Trust Signal Check
+title: Is lsdc.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lsdc.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lsdc.com scores 73/100 on our public trust checks. Established domain —
+  registered 28 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:50:33.711Z'
 finalUrl: 'https://lsdc.com/'
 reachable: true

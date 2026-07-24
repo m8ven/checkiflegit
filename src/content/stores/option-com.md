@@ -1,10 +1,10 @@
 ---
 domain: option.com
 slug: option-com
-title: Is option.com Legit? Trust Signal Check
+title: Is option.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for option.com: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  option.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:40:06.688Z'
 finalUrl: 'https://www.option.com/?doing_wp_cron=1782391207.6315031051635742187500'
 reachable: true

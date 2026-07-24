@@ -1,10 +1,10 @@
 ---
 domain: delicent.com
 slug: delicent-com
-title: Is delicent.com Legit? Trust Signal Check
+title: Is delicent.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for delicent.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  delicent.com scores 70/100 on our public trust checks. Established domain —
+  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:31:39.107Z'
 finalUrl: 'https://delicent.com/'
 reachable: true

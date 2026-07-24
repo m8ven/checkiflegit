@@ -1,10 +1,10 @@
 ---
 domain: europeantechnicalsales.com
 slug: europeantechnicalsales-com
-title: Is europeantechnicalsales.com Legit? Trust Signal Check
+title: Is europeantechnicalsales.com Legit? Trust Score 46/100
 description: >-
-  An automated trust-signal check for europeantechnicalsales.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  europeantechnicalsales.com scores 46/100 on our public trust checks. No links
+  to major social platforms found.
 fetchedAt: '2026-06-25T14:48:26.604Z'
 finalUrl: 'https://europeantechnicalsales.com/'
 reachable: true

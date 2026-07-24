@@ -1,10 +1,10 @@
 ---
 domain: sportenbagn.no
 slug: sportenbagn-no
-title: Is sportenbagn.no Legit? Trust Signal Check
+title: Is sportenbagn.no Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for sportenbagn.no: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sportenbagn.no scores 88/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:45:48.622Z'
 finalUrl: 'https://www.sportenbagn.no/'
 reachable: true

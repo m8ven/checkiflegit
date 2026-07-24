@@ -1,10 +1,11 @@
 ---
 domain: electis.co.il
 slug: electis-co-il
-title: Is electis.co.il Legit? Trust Signal Check
+title: Is electis.co.il Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for electis.co.il: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  electis.co.il scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T14:54:48.430Z'
 finalUrl: 'https://electis.co.il/'
 reachable: true

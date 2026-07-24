@@ -1,10 +1,10 @@
 ---
 domain: ordering.justindavid.com
 slug: ordering-justindavid-com
-title: Is ordering.justindavid.com Legit? Trust Signal Check
+title: Is ordering.justindavid.com Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for ordering.justindavid.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ordering.justindavid.com scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:42:42.563Z'
 finalUrl: 'https://ordering.justindavid.com/'
 reachable: true

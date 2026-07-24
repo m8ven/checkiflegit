@@ -1,10 +1,10 @@
 ---
 domain: dzijustudija.lv
 slug: dzijustudija-lv
-title: Is dzijustudija.lv Legit? Trust Signal Check
+title: Is dzijustudija.lv Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for dzijustudija.lv: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dzijustudija.lv scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:09:55.803Z'
 finalUrl: 'https://dzijustudija.lv/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: ekspert-agd.com
 slug: ekspert-agd-com
-title: Is ekspert-agd.com Legit? Trust Signal Check
+title: Is ekspert-agd.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for ekspert-agd.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ekspert-agd.com scores 70/100 on our public trust checks. Established domain —
+  registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:19.568Z'
 finalUrl: 'https://ekspert-agd.com/'
 reachable: true

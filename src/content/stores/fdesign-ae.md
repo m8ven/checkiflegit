@@ -1,10 +1,10 @@
 ---
 domain: fdesign.ae
 slug: fdesign-ae
-title: Is fdesign.ae Legit? Trust Signal Check
+title: Is fdesign.ae Legit? Trust Score 4/100
 description: >-
-  An automated trust-signal check for fdesign.ae: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  fdesign.ae scores 4/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T15:04:24.444Z'
 finalUrl: 'https://www.fdesign.ae/'
 reachable: true

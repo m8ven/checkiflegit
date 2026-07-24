@@ -1,10 +1,10 @@
 ---
 domain: cdpo72.ru
 slug: cdpo72-ru
-title: Is cdpo72.ru Legit? Trust Signal Check
+title: Is cdpo72.ru Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cdpo72.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cdpo72.ru scores 82/100 on our public trust checks. Established domain —
+  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:38:37.200Z'
 finalUrl: 'https://cdpo72.ru/'
 reachable: true

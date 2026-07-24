@@ -1,10 +1,10 @@
 ---
 domain: lalashoes.gr
 slug: lalashoes-gr
-title: Is lalashoes.gr Legit? Trust Signal Check
+title: Is lalashoes.gr Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for lalashoes.gr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lalashoes.gr scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:18:42.990Z'
 finalUrl: 'https://lalashoes.gr/'
 reachable: true

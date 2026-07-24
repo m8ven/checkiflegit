@@ -1,10 +1,10 @@
 ---
 domain: goldengreen.energy
 slug: goldengreen-energy
-title: Is goldengreen.energy Legit? Trust Signal Check
+title: Is goldengreen.energy Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for goldengreen.energy: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  goldengreen.energy scores 49/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T03:34:56.500Z'
 finalUrl: 'https://goldengreen.energy/'
 reachable: true

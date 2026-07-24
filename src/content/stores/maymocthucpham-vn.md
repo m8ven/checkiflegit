@@ -1,10 +1,10 @@
 ---
 domain: maymocthucpham.vn
 slug: maymocthucpham-vn
-title: Is maymocthucpham.vn Legit? Trust Signal Check
+title: Is maymocthucpham.vn Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for maymocthucpham.vn: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  maymocthucpham.vn scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:09:53.055Z'
 finalUrl: 'https://maymocthucpham.vn/'
 reachable: true

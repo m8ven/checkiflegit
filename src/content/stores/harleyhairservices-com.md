@@ -1,11 +1,11 @@
 ---
 domain: harleyhairservices.com
 slug: harleyhairservices-com
-title: Is harleyhairservices.com Legit? Trust Signal Check
+title: Is harleyhairservices.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for harleyhairservices.com: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  harleyhairservices.com scores 40/100 on our public trust checks. Domain
+  registered very recently (66 days ago). No links to major social platforms
+  found.
 fetchedAt: '2026-06-25T15:00:14.229Z'
 finalUrl: 'https://harleyhairservices.com/'
 reachable: true

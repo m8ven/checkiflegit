@@ -1,10 +1,10 @@
 ---
 domain: fhmtasarim.com
 slug: fhmtasarim-com
-title: Is fhmtasarim.com Legit? Trust Signal Check
+title: Is fhmtasarim.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for fhmtasarim.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  fhmtasarim.com scores 88/100 on our public trust checks. Established domain —
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:56:43.659Z'
 finalUrl: 'https://fhmtasarim.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: blissme.ch
 slug: blissme-ch
-title: Is blissme.ch Legit? Trust Signal Check
+title: Is blissme.ch Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for blissme.ch: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  blissme.ch scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T12:14:04.767Z'
 finalUrl: 'https://www.blissme.ch/'
 reachable: true

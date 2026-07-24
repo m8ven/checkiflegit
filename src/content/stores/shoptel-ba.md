@@ -1,10 +1,10 @@
 ---
 domain: shoptel.ba
 slug: shoptel-ba
-title: Is shoptel.ba Legit? Trust Signal Check
+title: Is shoptel.ba Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for shoptel.ba: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  shoptel.ba scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:51:20.585Z'
 finalUrl: 'https://shoptel.ba/'
 reachable: true

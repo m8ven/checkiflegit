@@ -1,10 +1,10 @@
 ---
 domain: sagorik.se
 slug: sagorik-se
-title: Is sagorik.se Legit? Trust Signal Check
+title: Is sagorik.se Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for sagorik.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sagorik.se scores 88/100 on our public trust checks. Established domain —
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:29:51.632Z'
 finalUrl: 'https://sagorik.se/'
 reachable: true

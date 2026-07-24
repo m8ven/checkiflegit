@@ -1,10 +1,10 @@
 ---
 domain: mathematiques-fantastiques.fr
 slug: mathematiques-fantastiques-fr
-title: Is mathematiques-fantastiques.fr Legit? Trust Signal Check
+title: Is mathematiques-fantastiques.fr Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for mathematiques-fantastiques.fr: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  mathematiques-fantastiques.fr scores 58/100 on our public trust checks. No
+  public contact details detected on the homepage.
 fetchedAt: '2026-06-25T02:50:56.445Z'
 finalUrl: 'https://mathematiques-fantastiques.fr/fr/'
 reachable: true

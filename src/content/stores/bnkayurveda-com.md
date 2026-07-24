@@ -1,10 +1,10 @@
 ---
 domain: bnkayurveda.com
 slug: bnkayurveda-com
-title: Is bnkayurveda.com Legit? Trust Signal Check
+title: Is bnkayurveda.com Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bnkayurveda.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bnkayurveda.com scores 67/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:21:19.446Z'
 finalUrl: 'https://bnkayurveda.com/'
 reachable: true

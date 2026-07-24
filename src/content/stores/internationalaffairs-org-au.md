@@ -1,10 +1,10 @@
 ---
 domain: internationalaffairs.org.au
 slug: internationalaffairs-org-au
-title: Is internationalaffairs.org.au Legit? Trust Signal Check
+title: Is internationalaffairs.org.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for internationalaffairs.org.au: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  internationalaffairs.org.au scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:21:09.760Z'
 finalUrl: 'https://www.internationalaffairs.org.au/'
 reachable: true

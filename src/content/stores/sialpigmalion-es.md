@@ -1,10 +1,10 @@
 ---
 domain: sialpigmalion.es
 slug: sialpigmalion-es
-title: Is sialpigmalion.es Legit? Trust Signal Check
+title: Is sialpigmalion.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sialpigmalion.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sialpigmalion.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:01:24.161Z'
 finalUrl: 'https://sialpigmalion.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: elegiofertas.com
 slug: elegiofertas-com
-title: Is elegiofertas.com Legit? Trust Signal Check
+title: Is elegiofertas.com Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for elegiofertas.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  elegiofertas.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T02:26:23.831Z'
 finalUrl: 'https://elegiofertas.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: uazoptom.ru
 slug: uazoptom-ru
-title: Is uazoptom.ru Legit? Trust Signal Check
+title: Is uazoptom.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for uazoptom.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  uazoptom.ru scores 73/100 on our public trust checks. Established domain —
+  registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:15:21.735Z'
 finalUrl: 'https://uazoptom.ru/'
 reachable: true

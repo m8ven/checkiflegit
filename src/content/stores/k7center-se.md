@@ -1,10 +1,10 @@
 ---
 domain: k7center.se
 slug: k7center-se
-title: Is k7center.se Legit? Trust Signal Check
+title: Is k7center.se Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for k7center.se: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  k7center.se scores 76/100 on our public trust checks. Established domain —
+  registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:47:49.026Z'
 finalUrl: 'https://k7center.se/'
 reachable: true

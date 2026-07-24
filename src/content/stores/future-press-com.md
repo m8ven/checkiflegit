@@ -1,10 +1,10 @@
 ---
 domain: future-press.com
 slug: future-press-com
-title: Is future-press.com Legit? Trust Signal Check
+title: Is future-press.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for future-press.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  future-press.com scores 76/100 on our public trust checks. Established domain
+  — registered 27.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:58:50.714Z'
 finalUrl: 'https://www.future-press.com/'
 reachable: true

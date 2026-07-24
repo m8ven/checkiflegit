@@ -1,10 +1,10 @@
 ---
 domain: apo360.at
 slug: apo360-at
-title: Is apo360.at Legit? Trust Signal Check
+title: Is apo360.at Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for apo360.at: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  apo360.at scores 57/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:35:26.793Z'
 finalUrl: 'https://apo360.at/'
 reachable: true

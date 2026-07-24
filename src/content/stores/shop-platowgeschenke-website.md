@@ -1,10 +1,10 @@
 ---
 domain: shop.platowgeschenke.website
 slug: shop-platowgeschenke-website
-title: Is shop.platowgeschenke.website Legit? Trust Signal Check
+title: Is shop.platowgeschenke.website Legit? Trust Score 67/100
 description: >-
-  An automated trust-signal check for shop.platowgeschenke.website: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  shop.platowgeschenke.website scores 67/100 on our public trust checks. No
+  links to major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T02:45:14.573Z'
 finalUrl: 'https://shop.platowgeschenke.website/'
 reachable: true

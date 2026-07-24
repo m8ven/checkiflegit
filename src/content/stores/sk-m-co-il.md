@@ -1,10 +1,10 @@
 ---
 domain: sk-m.co.il
 slug: sk-m-co-il
-title: Is sk-m.co.il Legit? Trust Signal Check
+title: Is sk-m.co.il Legit? Trust Score 36/100
 description: >-
-  An automated trust-signal check for sk-m.co.il: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  sk-m.co.il scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:11:04.888Z'
 finalUrl: 'https://sk-m.co.il/'
 reachable: true

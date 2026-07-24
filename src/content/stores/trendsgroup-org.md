@@ -1,10 +1,10 @@
 ---
 domain: trendsgroup.org
 slug: trendsgroup-org
-title: Is trendsgroup.org Legit? Trust Signal Check
+title: Is trendsgroup.org Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for trendsgroup.org: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  trendsgroup.org scores 55/100 on our public trust checks. Domain registered
+  very recently (79 days ago). Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:07:21.975Z'
 finalUrl: 'https://trendsgroup.org/'
 reachable: true

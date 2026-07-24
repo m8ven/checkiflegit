@@ -1,10 +1,10 @@
 ---
 domain: bricodepot.fr
 slug: bricodepot-fr
-title: Is bricodepot.fr Legit? Trust Signal Check
+title: Is bricodepot.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for bricodepot.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bricodepot.fr scores 88/100 on our public trust checks. Established domain —
+  registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:31.063Z'
 finalUrl: 'https://www.bricodepot.fr/'
 reachable: true

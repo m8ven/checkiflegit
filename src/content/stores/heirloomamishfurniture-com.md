@@ -1,10 +1,11 @@
 ---
 domain: heirloomamishfurniture.com
 slug: heirloomamishfurniture-com
-title: Is heirloomamishfurniture.com Legit? Trust Signal Check
+title: Is heirloomamishfurniture.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for heirloomamishfurniture.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  heirloomamishfurniture.com scores 88/100 on our public trust checks.
+  Established domain — registered 13.3 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T14:51:38.402Z'
 finalUrl: 'https://heirloomamishfurniture.com/'
 reachable: true

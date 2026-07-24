@@ -1,10 +1,10 @@
 ---
 domain: caramel-pl.com
 slug: caramel-pl-com
-title: Is caramel-pl.com Legit? Trust Signal Check
+title: Is caramel-pl.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for caramel-pl.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  caramel-pl.com scores 52/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T14:50:16.295Z'
 finalUrl: 'https://caramel-pl.com/'
 reachable: true

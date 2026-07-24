@@ -1,10 +1,10 @@
 ---
 domain: hhifurniture.com
 slug: hhifurniture-com
-title: Is hhifurniture.com Legit? Trust Signal Check
+title: Is hhifurniture.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for hhifurniture.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hhifurniture.com scores 94/100 on our public trust checks. Established domain
+  — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:14.312Z'
 finalUrl: 'https://hhifurniture.com/'
 reachable: true

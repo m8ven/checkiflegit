@@ -1,10 +1,10 @@
 ---
 domain: web-nichido.com
 slug: web-nichido-com
-title: Is web-nichido.com Legit? Trust Signal Check
+title: Is web-nichido.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for web-nichido.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  web-nichido.com scores 100/100 on our public trust checks. Established domain
+  — registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:37:53.824Z'
 finalUrl: 'https://web-nichido.com/'
 reachable: true

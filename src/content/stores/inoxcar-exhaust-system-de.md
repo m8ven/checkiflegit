@@ -1,10 +1,10 @@
 ---
 domain: inoxcar-exhaust-system.de
 slug: inoxcar-exhaust-system-de
-title: Is inoxcar-exhaust-system.de Legit? Trust Signal Check
+title: Is inoxcar-exhaust-system.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for inoxcar-exhaust-system.de: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  inoxcar-exhaust-system.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:37.849Z'
 finalUrl: 'https://inoxcar-exhaust-system.de/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: romapy.com
 slug: romapy-com
-title: Is romapy.com Legit? Trust Signal Check
+title: Is romapy.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for romapy.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  romapy.com scores 76/100 on our public trust checks. Established domain —
+  registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:16.273Z'
 finalUrl: 'https://www.romapy.com/'
 reachable: true

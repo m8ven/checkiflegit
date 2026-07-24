@@ -1,10 +1,10 @@
 ---
 domain: tronicskibris.com
 slug: tronicskibris-com
-title: Is tronicskibris.com Legit? Trust Signal Check
+title: Is tronicskibris.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for tronicskibris.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tronicskibris.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T15:27:13.488Z'
 finalUrl: 'https://tronicskibris.com/'
 reachable: true

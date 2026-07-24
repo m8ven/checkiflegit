@@ -1,10 +1,10 @@
 ---
 domain: vangchat.com.vn
 slug: vangchat-com-vn
-title: Is vangchat.com.vn Legit? Trust Signal Check
+title: Is vangchat.com.vn Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for vangchat.com.vn: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  vangchat.com.vn scores 40/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:08:27.794Z'
 finalUrl: 'https://vangchat.com.vn/'
 reachable: true

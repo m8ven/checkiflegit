@@ -1,10 +1,11 @@
 ---
 domain: apadanarugsandcarpets.com
 slug: apadanarugsandcarpets-com
-title: Is apadanarugsandcarpets.com Legit? Trust Signal Check
+title: Is apadanarugsandcarpets.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for apadanarugsandcarpets.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  apadanarugsandcarpets.com scores 100/100 on our public trust checks.
+  Established domain — registered 4.6 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T02:55:40.061Z'
 finalUrl: 'https://apadanarugsandcarpets.com/'
 reachable: true

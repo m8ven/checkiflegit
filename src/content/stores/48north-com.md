@@ -1,10 +1,10 @@
 ---
 domain: 48north.com
 slug: 48north-com
-title: Is 48north.com Legit? Trust Signal Check
+title: Is 48north.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 48north.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  48north.com scores 70/100 on our public trust checks. Established domain —
+  registered 30.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:45:38.863Z'
 finalUrl: 'https://48north.com/'
 reachable: true

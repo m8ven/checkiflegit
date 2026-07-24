@@ -1,10 +1,10 @@
 ---
 domain: chocolatesandpearls.com
 slug: chocolatesandpearls-com
-title: Is chocolatesandpearls.com Legit? Trust Signal Check
+title: Is chocolatesandpearls.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for chocolatesandpearls.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  chocolatesandpearls.com scores 100/100 on our public trust checks. Established
+  domain — registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:22:00.390Z'
 finalUrl: 'https://chocolatesandpearls.com/'
 reachable: true

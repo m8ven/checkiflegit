@@ -1,10 +1,10 @@
 ---
 domain: mibranda.es
 slug: mibranda-es
-title: Is mibranda.es Legit? Trust Signal Check
+title: Is mibranda.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mibranda.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mibranda.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:53:06.146Z'
 finalUrl: 'https://mibranda.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: uchinocogourmet.jp
 slug: uchinocogourmet-jp
-title: Is uchinocogourmet.jp Legit? Trust Signal Check
+title: Is uchinocogourmet.jp Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for uchinocogourmet.jp: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  uchinocogourmet.jp scores 73/100 on our public trust checks. Established
+  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:10:32.961Z'
 finalUrl: 'https://uchinocogourmet.jp/'
 reachable: true

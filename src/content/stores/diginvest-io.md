@@ -1,10 +1,10 @@
 ---
 domain: diginvest.io
 slug: diginvest-io
-title: Is diginvest.io Legit? Trust Signal Check
+title: Is diginvest.io Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for diginvest.io: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  diginvest.io scores 82/100 on our public trust checks. Established domain —
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:41:52.350Z'
 finalUrl: 'https://diginvest.io/'
 reachable: true

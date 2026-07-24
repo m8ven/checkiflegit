@@ -1,10 +1,11 @@
 ---
 domain: looskappers.nl
 slug: looskappers-nl
-title: Is looskappers.nl Legit? Trust Signal Check
+title: Is looskappers.nl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for looskappers.nl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  looskappers.nl scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:22:35.685Z'
 finalUrl: 'https://looskappers.nl/'
 reachable: true

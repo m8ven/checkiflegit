@@ -1,10 +1,10 @@
 ---
 domain: resveralife.com
 slug: resveralife-com
-title: Is resveralife.com Legit? Trust Signal Check
+title: Is resveralife.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for resveralife.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  resveralife.com scores 88/100 on our public trust checks. Established domain —
+  registered 13.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:33:37.271Z'
 finalUrl: 'https://resveralife.com/'
 reachable: true

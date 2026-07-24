@@ -1,10 +1,10 @@
 ---
 domain: outsidetheboxmom.com
 slug: outsidetheboxmom-com
-title: Is outsidetheboxmom.com Legit? Trust Signal Check
+title: Is outsidetheboxmom.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for outsidetheboxmom.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  outsidetheboxmom.com scores 70/100 on our public trust checks. Established
+  domain — registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:18.584Z'
 finalUrl: 'https://outsidetheboxmom.com/'
 reachable: true

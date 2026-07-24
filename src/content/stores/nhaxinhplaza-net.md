@@ -1,10 +1,10 @@
 ---
 domain: nhaxinhplaza.net
 slug: nhaxinhplaza-net
-title: Is nhaxinhplaza.net Legit? Trust Signal Check
+title: Is nhaxinhplaza.net Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for nhaxinhplaza.net: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  nhaxinhplaza.net scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T15:24:52.229Z'
 finalUrl: 'https://nhaxinhplaza.net/'
 reachable: true

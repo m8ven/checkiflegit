@@ -1,10 +1,10 @@
 ---
 domain: vl-abris.ru
 slug: vl-abris-ru
-title: Is vl-abris.ru Legit? Trust Signal Check
+title: Is vl-abris.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for vl-abris.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  vl-abris.ru scores 73/100 on our public trust checks. Established domain —
+  registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:08:45.988Z'
 finalUrl: 'https://vl-abris.ru/'
 reachable: true

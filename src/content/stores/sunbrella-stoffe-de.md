@@ -1,10 +1,10 @@
 ---
 domain: sunbrella-stoffe.de
 slug: sunbrella-stoffe-de
-title: Is sunbrella-stoffe.de Legit? Trust Signal Check
+title: Is sunbrella-stoffe.de Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for sunbrella-stoffe.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sunbrella-stoffe.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:52:43.585Z'
 finalUrl: 'https://sunbrella-stoffe.de/'
 reachable: true

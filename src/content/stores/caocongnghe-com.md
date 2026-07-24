@@ -1,10 +1,10 @@
 ---
 domain: caocongnghe.com
 slug: caocongnghe-com
-title: Is caocongnghe.com Legit? Trust Signal Check
+title: Is caocongnghe.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for caocongnghe.com: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  caocongnghe.com scores 58/100 on our public trust checks. Standard contact and
+  policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:23:57.435Z'
 finalUrl: 'https://caocongnghe.com/'
 reachable: true

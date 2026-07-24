@@ -1,10 +1,10 @@
 ---
 domain: minimore-eg.com
 slug: minimore-eg-com
-title: Is minimore-eg.com Legit? Trust Signal Check
+title: Is minimore-eg.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for minimore-eg.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  minimore-eg.com scores 100/100 on our public trust checks. Established domain
+  — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:44.781Z'
 finalUrl: 'https://minimore-eg.com/'
 reachable: true

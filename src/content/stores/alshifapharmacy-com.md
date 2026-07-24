@@ -1,10 +1,10 @@
 ---
 domain: alshifapharmacy.com
 slug: alshifapharmacy-com
-title: Is alshifapharmacy.com Legit? Trust Signal Check
+title: Is alshifapharmacy.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for alshifapharmacy.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alshifapharmacy.com scores 76/100 on our public trust checks. Established
+  domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:16.493Z'
 finalUrl: 'https://alshifapharmacy.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: pnwkeyclub.org
 slug: pnwkeyclub-org
-title: Is pnwkeyclub.org Legit? Trust Signal Check
+title: Is pnwkeyclub.org Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for pnwkeyclub.org: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pnwkeyclub.org scores 100/100 on our public trust checks. Established domain —
+  registered 29.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:22:34.451Z'
 finalUrl: 'https://pnwkeyclub.org/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: frenchfurniturefittings.co.uk
 slug: frenchfurniturefittings-co-uk
-title: Is frenchfurniturefittings.co.uk Legit? Trust Signal Check
+title: Is frenchfurniturefittings.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for frenchfurniturefittings.co.uk: strong
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  frenchfurniturefittings.co.uk scores 100/100 on our public trust checks.
+  Established domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:32:19.443Z'
 finalUrl: 'https://frenchfurniturefittings.co.uk/'
 reachable: true

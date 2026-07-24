@@ -1,10 +1,10 @@
 ---
 domain: drivetronscooter.com
 slug: drivetronscooter-com
-title: Is drivetronscooter.com Legit? Trust Signal Check
+title: Is drivetronscooter.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for drivetronscooter.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  drivetronscooter.com scores 70/100 on our public trust checks. Established
+  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:40:37.704Z'
 finalUrl: 'https://drivetronscooter.com/'
 reachable: true

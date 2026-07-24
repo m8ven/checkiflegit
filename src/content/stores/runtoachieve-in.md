@@ -1,10 +1,10 @@
 ---
 domain: runtoachieve.in
 slug: runtoachieve-in
-title: Is runtoachieve.in Legit? Trust Signal Check
+title: Is runtoachieve.in Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for runtoachieve.in: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  runtoachieve.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:59:25.298Z'
 finalUrl: 'https://runtoachieve.in/'
 reachable: true

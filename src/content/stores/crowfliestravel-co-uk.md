@@ -1,10 +1,10 @@
 ---
 domain: crowfliestravel.co.uk
 slug: crowfliestravel-co-uk
-title: Is crowfliestravel.co.uk Legit? Trust Signal Check
+title: Is crowfliestravel.co.uk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for crowfliestravel.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  crowfliestravel.co.uk scores 82/100 on our public trust checks. Established
+  domain — registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:23:23.205Z'
 finalUrl: 'https://crowfliestravel.co.uk/'
 reachable: true

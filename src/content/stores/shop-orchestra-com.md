@@ -1,10 +1,10 @@
 ---
 domain: shop-orchestra.com
 slug: shop-orchestra-com
-title: Is shop-orchestra.com Legit? Trust Signal Check
+title: Is shop-orchestra.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for shop-orchestra.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop-orchestra.com scores 70/100 on our public trust checks. Established
+  domain — registered 11.8 years ago.
 fetchedAt: '2026-06-24T21:46:27.468Z'
 finalUrl: 'https://fr.shop-orchestra.com/'
 reachable: true

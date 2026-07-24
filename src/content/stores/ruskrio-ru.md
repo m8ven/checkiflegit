@@ -1,10 +1,10 @@
 ---
 domain: ruskrio.ru
 slug: ruskrio-ru
-title: Is ruskrio.ru Legit? Trust Signal Check
+title: Is ruskrio.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ruskrio.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ruskrio.ru scores 73/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:59:25.555Z'
 finalUrl: 'https://ruskrio.ru/'
 reachable: true

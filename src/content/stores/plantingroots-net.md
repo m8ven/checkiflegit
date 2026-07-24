@@ -1,10 +1,10 @@
 ---
 domain: plantingroots.net
 slug: plantingroots-net
-title: Is plantingroots.net Legit? Trust Signal Check
+title: Is plantingroots.net Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for plantingroots.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  plantingroots.net scores 100/100 on our public trust checks. Established
+  domain — registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:27:36.670Z'
 finalUrl: 'https://plantingroots.net/'
 reachable: true

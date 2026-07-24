@@ -1,10 +1,10 @@
 ---
 domain: coaltech.co.za
 slug: coaltech-co-za
-title: Is coaltech.co.za Legit? Trust Signal Check
+title: Is coaltech.co.za Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for coaltech.co.za: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  coaltech.co.za scores 31/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T14:51:34.426Z'
 finalUrl: 'https://coaltech.co.za/'
 reachable: true

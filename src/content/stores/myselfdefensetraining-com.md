@@ -1,10 +1,11 @@
 ---
 domain: myselfdefensetraining.com
 slug: myselfdefensetraining-com
-title: Is myselfdefensetraining.com Legit? Trust Signal Check
+title: Is myselfdefensetraining.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for myselfdefensetraining.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  myselfdefensetraining.com scores 70/100 on our public trust checks.
+  Established domain — registered 12.1 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:03:37.645Z'
 finalUrl: 'https://www.myselfdefensetraining.com/'
 reachable: true

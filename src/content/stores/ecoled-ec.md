@@ -1,10 +1,10 @@
 ---
 domain: ecoled.ec
 slug: ecoled-ec
-title: Is ecoled.ec Legit? Trust Signal Check
+title: Is ecoled.ec Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ecoled.ec: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ecoled.ec scores 88/100 on our public trust checks. Established domain —
+  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:43:04.287Z'
 finalUrl: 'https://ecoled.ec/'
 reachable: true

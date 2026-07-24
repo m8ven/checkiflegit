@@ -1,10 +1,10 @@
 ---
 domain: salg.atbfilm.dk
 slug: salg-atbfilm-dk
-title: Is salg.atbfilm.dk Legit? Trust Signal Check
+title: Is salg.atbfilm.dk Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for salg.atbfilm.dk: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  salg.atbfilm.dk scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:35:27.755Z'
 finalUrl: 'https://salg.atbfilm.dk/'
 reachable: true

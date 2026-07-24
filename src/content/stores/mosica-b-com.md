@@ -1,10 +1,10 @@
 ---
 domain: mosica-b.com
 slug: mosica-b-com
-title: Is mosica-b.com Legit? Trust Signal Check
+title: Is mosica-b.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for mosica-b.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  mosica-b.com scores 73/100 on our public trust checks. Established domain —
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:23.586Z'
 finalUrl: 'https://mosica-b.com/'
 reachable: true

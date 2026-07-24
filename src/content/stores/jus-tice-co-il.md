@@ -1,10 +1,10 @@
 ---
 domain: jus-tice.co.il
 slug: jus-tice-co-il
-title: Is jus-tice.co.il Legit? Trust Signal Check
+title: Is jus-tice.co.il Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for jus-tice.co.il: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  jus-tice.co.il scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:40:49.448Z'
 finalUrl: 'https://jus-tice.co.il/'
 reachable: true

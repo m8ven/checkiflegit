@@ -1,10 +1,10 @@
 ---
 domain: jetchair.nl
 slug: jetchair-nl
-title: Is jetchair.nl Legit? Trust Signal Check
+title: Is jetchair.nl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for jetchair.nl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jetchair.nl scores 88/100 on our public trust checks. Established domain —
+  registered 18.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:05:48.224Z'
 finalUrl: 'https://jetchair.nl/'
 reachable: true

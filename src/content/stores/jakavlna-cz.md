@@ -1,10 +1,10 @@
 ---
 domain: jakavlna.cz
 slug: jakavlna-cz
-title: Is jakavlna.cz Legit? Trust Signal Check
+title: Is jakavlna.cz Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for jakavlna.cz: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jakavlna.cz scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:16:37.842Z'
 finalUrl: 'https://jakavlna.cz/'
 reachable: true

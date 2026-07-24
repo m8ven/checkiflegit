@@ -1,10 +1,10 @@
 ---
 domain: laved.ru
 slug: laved-ru
-title: Is laved.ru Legit? Trust Signal Check
+title: Is laved.ru Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for laved.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  laved.ru scores 82/100 on our public trust checks. Established domain —
+  registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:55:41.524Z'
 finalUrl: 'https://laved.ru/'
 reachable: true

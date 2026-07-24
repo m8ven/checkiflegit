@@ -1,10 +1,10 @@
 ---
 domain: stainlessandalloy.com
 slug: stainlessandalloy-com
-title: Is stainlessandalloy.com Legit? Trust Signal Check
+title: Is stainlessandalloy.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for stainlessandalloy.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  stainlessandalloy.com scores 100/100 on our public trust checks. Established
+  domain — registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:52:14.387Z'
 finalUrl: 'https://stainlessandalloy.com/'
 reachable: true

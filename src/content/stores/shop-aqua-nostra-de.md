@@ -1,10 +1,10 @@
 ---
 domain: shop.aqua-nostra.de
 slug: shop-aqua-nostra-de
-title: Is shop.aqua-nostra.de Legit? Trust Signal Check
+title: Is shop.aqua-nostra.de Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for shop.aqua-nostra.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.aqua-nostra.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:00:53.185Z'
 finalUrl: 'https://shop.aqua-nostra.de/'
 reachable: true

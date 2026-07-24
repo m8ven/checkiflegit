@@ -1,10 +1,10 @@
 ---
 domain: motorhelmgigant.nl
 slug: motorhelmgigant-nl
-title: Is motorhelmgigant.nl Legit? Trust Signal Check
+title: Is motorhelmgigant.nl Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for motorhelmgigant.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  motorhelmgigant.nl scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:56:51.017Z'
 finalUrl: 'https://motorhelmgigant.nl/'
 reachable: true

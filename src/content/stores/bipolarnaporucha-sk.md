@@ -1,10 +1,10 @@
 ---
 domain: bipolarnaporucha.sk
 slug: bipolarnaporucha-sk
-title: Is bipolarnaporucha.sk Legit? Trust Signal Check
+title: Is bipolarnaporucha.sk Legit? Trust Score 31/100
 description: >-
-  An automated trust-signal check for bipolarnaporucha.sk: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  bipolarnaporucha.sk scores 31/100 on our public trust checks. No public
+  contact details detected on the homepage.
 fetchedAt: '2026-06-25T03:20:12.857Z'
 finalUrl: 'https://bipolarnaporucha.sk/'
 reachable: true

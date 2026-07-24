@@ -1,10 +1,10 @@
 ---
 domain: blog.techfura.com
 slug: blog-techfura-com
-title: Is blog.techfura.com Legit? Trust Signal Check
+title: Is blog.techfura.com Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for blog.techfura.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  blog.techfura.com scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:43:41.795Z'
 finalUrl: 'https://blog.techfura.com/'
 reachable: true

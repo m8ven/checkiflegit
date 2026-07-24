@@ -1,10 +1,10 @@
 ---
 domain: activcarbon.com.ua
 slug: activcarbon-com-ua
-title: Is activcarbon.com.ua Legit? Trust Signal Check
+title: Is activcarbon.com.ua Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for activcarbon.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  activcarbon.com.ua scores 73/100 on our public trust checks. Established
+  domain — registered 19 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:35:28.584Z'
 finalUrl: 'https://activcarbon.com.ua/uk/'
 reachable: true

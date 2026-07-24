@@ -1,10 +1,10 @@
 ---
 domain: revivalantiques.com
 slug: revivalantiques-com
-title: Is revivalantiques.com Legit? Trust Signal Check
+title: Is revivalantiques.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for revivalantiques.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  revivalantiques.com scores 94/100 on our public trust checks. Established
+  domain — registered 23.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:06:35.155Z'
 finalUrl: 'https://revivalantiques.com/'
 reachable: true

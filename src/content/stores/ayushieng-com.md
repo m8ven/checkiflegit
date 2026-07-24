@@ -1,10 +1,10 @@
 ---
 domain: ayushieng.com
 slug: ayushieng-com
-title: Is ayushieng.com Legit? Trust Signal Check
+title: Is ayushieng.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for ayushieng.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ayushieng.com scores 82/100 on our public trust checks. Established domain —
+  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:35:33.783Z'
 finalUrl: 'https://ayushieng.com/'
 reachable: true

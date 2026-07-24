@@ -1,10 +1,10 @@
 ---
 domain: patriciamarulandaescritora.com
 slug: patriciamarulandaescritora-com
-title: Is patriciamarulandaescritora.com Legit? Trust Signal Check
+title: Is patriciamarulandaescritora.com Legit? Trust Score 55/100
 description: >-
-  An automated trust-signal check for patriciamarulandaescritora.com: moderate
-  trust signals. Domain age, SSL, contact info, reviews and more.
+  patriciamarulandaescritora.com scores 55/100 on our public trust checks. No
+  links to major social platforms found. Domain is relatively young.
 fetchedAt: '2026-06-25T11:57:45.043Z'
 finalUrl: 'https://patriciamarulandaescritora.com/'
 reachable: true

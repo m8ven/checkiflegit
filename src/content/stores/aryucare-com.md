@@ -1,10 +1,10 @@
 ---
 domain: aryucare.com
 slug: aryucare-com
-title: Is aryucare.com Legit? Trust Signal Check
+title: Is aryucare.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for aryucare.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aryucare.com scores 100/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:08.755Z'
 finalUrl: 'https://www.aryucare.com/'
 reachable: true

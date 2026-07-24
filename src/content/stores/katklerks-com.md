@@ -1,10 +1,10 @@
 ---
 domain: katklerks.com
 slug: katklerks-com
-title: Is katklerks.com Legit? Trust Signal Check
+title: Is katklerks.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for katklerks.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  katklerks.com scores 88/100 on our public trust checks. Established domain —
+  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:14.489Z'
 finalUrl: 'https://katklerks.com/'
 reachable: true

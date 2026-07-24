@@ -1,10 +1,10 @@
 ---
 domain: retinahealthcare.co
 slug: retinahealthcare-co
-title: Is retinahealthcare.co Legit? Trust Signal Check
+title: Is retinahealthcare.co Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for retinahealthcare.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  retinahealthcare.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:56:30.642Z'
 finalUrl: 'https://retinahealthcare.co/'
 reachable: true

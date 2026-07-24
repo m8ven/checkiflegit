@@ -1,10 +1,10 @@
 ---
 domain: rpsboxe.com
 slug: rpsboxe-com
-title: Is rpsboxe.com Legit? Trust Signal Check
+title: Is rpsboxe.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for rpsboxe.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  rpsboxe.com scores 88/100 on our public trust checks. Established domain —
+  registered 18.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:20.279Z'
 finalUrl: 'https://www.rpsboxe.com/'
 reachable: true

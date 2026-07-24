@@ -1,10 +1,10 @@
 ---
 domain: tickets.yarts.com
 slug: tickets-yarts-com
-title: Is tickets.yarts.com Legit? Trust Signal Check
+title: Is tickets.yarts.com Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for tickets.yarts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  tickets.yarts.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:05:52.581Z'
 finalUrl: 'https://tickets.yarts.com/'
 reachable: true

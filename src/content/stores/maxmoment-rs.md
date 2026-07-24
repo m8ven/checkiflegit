@@ -1,10 +1,10 @@
 ---
 domain: maxmoment.rs
 slug: maxmoment-rs
-title: Is maxmoment.rs Legit? Trust Signal Check
+title: Is maxmoment.rs Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for maxmoment.rs: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  maxmoment.rs scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:35:52.183Z'
 finalUrl: 'https://maxmoment.rs/'
 reachable: true

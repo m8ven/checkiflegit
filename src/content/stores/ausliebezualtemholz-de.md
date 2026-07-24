@@ -1,10 +1,10 @@
 ---
 domain: ausliebezualtemholz.de
 slug: ausliebezualtemholz-de
-title: Is ausliebezualtemholz.de Legit? Trust Signal Check
+title: Is ausliebezualtemholz.de Legit? Trust Score 49/100
 description: >-
-  An automated trust-signal check for ausliebezualtemholz.de: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ausliebezualtemholz.de scores 49/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
 fetchedAt: '2026-06-25T12:12:59.470Z'
 finalUrl: 'https://www.ausliebezualtemholz.de/'
 reachable: true

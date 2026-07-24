@@ -1,10 +1,10 @@
 ---
 domain: rsbreakers.com
 slug: rsbreakers-com
-title: Is rsbreakers.com Legit? Trust Signal Check
+title: Is rsbreakers.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for rsbreakers.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  rsbreakers.com scores 82/100 on our public trust checks. Established domain —
+  registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:59:11.926Z'
 finalUrl: 'https://rsbreakers.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: kmb.net.my
 slug: kmb-net-my
-title: Is kmb.net.my Legit? Trust Signal Check
+title: Is kmb.net.my Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for kmb.net.my: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kmb.net.my scores 88/100 on our public trust checks. Established domain —
+  registered 18.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:06.981Z'
 finalUrl: 'https://kmb.net.my/'
 reachable: true

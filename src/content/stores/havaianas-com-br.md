@@ -1,10 +1,10 @@
 ---
 domain: havaianas.com.br
 slug: havaianas-com-br
-title: Is havaianas.com.br Legit? Trust Signal Check
+title: Is havaianas.com.br Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for havaianas.com.br: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  havaianas.com.br scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-24T21:46:21.240Z'
 finalUrl: 'https://havaianas.com.br/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: eventexpo.ba
 slug: eventexpo-ba
-title: Is eventexpo.ba Legit? Trust Signal Check
+title: Is eventexpo.ba Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for eventexpo.ba: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  eventexpo.ba scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:44:45.452Z'
 finalUrl: 'https://eventexpo.ba/'
 reachable: true

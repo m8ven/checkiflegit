@@ -1,10 +1,10 @@
 ---
 domain: muhibalkutub.com
 slug: muhibalkutub-com
-title: Is muhibalkutub.com Legit? Trust Signal Check
+title: Is muhibalkutub.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for muhibalkutub.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  muhibalkutub.com scores 88/100 on our public trust checks. Established domain
+  — registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:46.983Z'
 finalUrl: 'https://muhibalkutub.com/'
 reachable: true

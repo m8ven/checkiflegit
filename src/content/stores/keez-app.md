@@ -1,10 +1,10 @@
 ---
 domain: keez.app
 slug: keez-app
-title: Is keez.app Legit? Trust Signal Check
+title: Is keez.app Legit? Trust Score 19/100 — Proceed With Caution
 description: >-
-  An automated trust-signal check for keez.app: limited trust signals — proceed
-  with caution. Domain age, SSL, contact info, reviews and more.
+  keez.app scores 19/100 on our public trust checks. Standard contact and policy
+  pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:40:19.679Z'
 finalUrl: 'https://keez.app/'
 reachable: true

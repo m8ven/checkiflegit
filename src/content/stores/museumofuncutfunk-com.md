@@ -1,10 +1,10 @@
 ---
 domain: museumofuncutfunk.com
 slug: museumofuncutfunk-com
-title: Is museumofuncutfunk.com Legit? Trust Signal Check
+title: Is museumofuncutfunk.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for museumofuncutfunk.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  museumofuncutfunk.com scores 76/100 on our public trust checks. Established
+  domain — registered 17.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:47.947Z'
 finalUrl: 'https://museumofuncutfunk.com/'
 reachable: true

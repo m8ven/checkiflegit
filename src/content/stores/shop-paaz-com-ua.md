@@ -1,10 +1,10 @@
 ---
 domain: shop.paaz.com.ua
 slug: shop-paaz-com-ua
-title: Is shop.paaz.com.ua Legit? Trust Signal Check
+title: Is shop.paaz.com.ua Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for shop.paaz.com.ua: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  shop.paaz.com.ua scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:56:46.735Z'
 finalUrl: 'https://shop.paaz.com.ua/'
 reachable: true

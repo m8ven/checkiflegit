@@ -1,10 +1,10 @@
 ---
 domain: acilis.ca
 slug: acilis-ca
-title: Is acilis.ca Legit? Trust Signal Check
+title: Is acilis.ca Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for acilis.ca: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  acilis.ca scores 94/100 on our public trust checks. Established domain —
+  registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:45:56.592Z'
 finalUrl: 'https://acilis.ca/'
 reachable: true

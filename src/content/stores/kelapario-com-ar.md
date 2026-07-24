@@ -1,10 +1,10 @@
 ---
 domain: kelapario.com.ar
 slug: kelapario-com-ar
-title: Is kelapario.com.ar Legit? Trust Signal Check
+title: Is kelapario.com.ar Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for kelapario.com.ar: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kelapario.com.ar scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:05:42.298Z'
 finalUrl: 'https://kelapario.com.ar/'
 reachable: true

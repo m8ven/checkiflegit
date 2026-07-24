@@ -1,10 +1,11 @@
 ---
 domain: bokshop.lu.se
 slug: bokshop-lu-se
-title: Is bokshop.lu.se Legit? Trust Signal Check
+title: Is bokshop.lu.se Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for bokshop.lu.se: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bokshop.lu.se scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T12:23:43.740Z'
 finalUrl: 'https://www.bokshop.lu.se/'
 reachable: true

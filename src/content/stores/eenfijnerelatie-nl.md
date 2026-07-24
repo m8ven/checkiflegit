@@ -1,10 +1,10 @@
 ---
 domain: eenfijnerelatie.nl
 slug: eenfijnerelatie-nl
-title: Is eenfijnerelatie.nl Legit? Trust Signal Check
+title: Is eenfijnerelatie.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for eenfijnerelatie.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  eenfijnerelatie.nl scores 88/100 on our public trust checks. Established
+  domain — registered 7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:37.046Z'
 finalUrl: 'https://eenfijnerelatie.nl/'
 reachable: true

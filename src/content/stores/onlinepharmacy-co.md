@@ -1,10 +1,10 @@
 ---
 domain: onlinepharmacy.co
 slug: onlinepharmacy-co
-title: Is onlinepharmacy.co Legit? Trust Signal Check
+title: Is onlinepharmacy.co Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for onlinepharmacy.co: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  onlinepharmacy.co scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T11:56:44.162Z'
 finalUrl: 'https://onlinepharmacy.co/'
 reachable: true

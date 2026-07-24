@@ -1,10 +1,10 @@
 ---
 domain: sparkpop.com.au
 slug: sparkpop-com-au
-title: Is sparkpop.com.au Legit? Trust Signal Check
+title: Is sparkpop.com.au Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for sparkpop.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  sparkpop.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:39:21.987Z'
 finalUrl: 'https://sparkpop.com.au/'
 reachable: true

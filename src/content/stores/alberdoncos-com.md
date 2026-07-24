@@ -1,10 +1,10 @@
 ---
 domain: alberdoncos.com
 slug: alberdoncos-com
-title: Is alberdoncos.com Legit? Trust Signal Check
+title: Is alberdoncos.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for alberdoncos.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  alberdoncos.com scores 82/100 on our public trust checks. Established domain —
+  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:46:49.383Z'
 finalUrl: 'https://alberdoncos.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: sewamobil369.com
 slug: sewamobil369-com
-title: Is sewamobil369.com Legit? Trust Signal Check
+title: Is sewamobil369.com Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for sewamobil369.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  sewamobil369.com scores 40/100 on our public trust checks. Standard contact
+  and policy pages were not found. Domain is relatively young.
 fetchedAt: '2026-06-25T15:34:09.780Z'
 finalUrl: 'https://sewamobil369.com/'
 reachable: true

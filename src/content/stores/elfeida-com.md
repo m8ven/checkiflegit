@@ -1,10 +1,10 @@
 ---
 domain: elfeida.com
 slug: elfeida-com
-title: Is elfeida.com Legit? Trust Signal Check
+title: Is elfeida.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for elfeida.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  elfeida.com scores 88/100 on our public trust checks. Established domain —
+  registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:26:26.642Z'
 finalUrl: 'https://elfeida.com/'
 reachable: true

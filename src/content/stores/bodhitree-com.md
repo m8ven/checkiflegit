@@ -1,10 +1,10 @@
 ---
 domain: bodhitree.com
 slug: bodhitree-com
-title: Is bodhitree.com Legit? Trust Signal Check
+title: Is bodhitree.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for bodhitree.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  bodhitree.com scores 70/100 on our public trust checks. Established domain —
+  registered 30.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:02:54.826Z'
 finalUrl: 'https://bodhitree.com/'
 reachable: true

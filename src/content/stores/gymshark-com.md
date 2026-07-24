@@ -1,10 +1,10 @@
 ---
 domain: gymshark.com
 slug: gymshark-com
-title: Is gymshark.com Legit? Trust Signal Check
+title: Is gymshark.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for gymshark.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  gymshark.com scores 73/100 on our public trust checks. Established domain —
+  registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T15:33:25.338Z'
 finalUrl: 'https://us.checkout.gymshark.com/'
 reachable: true

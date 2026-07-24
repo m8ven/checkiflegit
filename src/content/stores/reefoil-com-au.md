@@ -1,10 +1,10 @@
 ---
 domain: reefoil.com.au
 slug: reefoil-com-au
-title: Is reefoil.com.au Legit? Trust Signal Check
+title: Is reefoil.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for reefoil.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  reefoil.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T12:00:23.349Z'
 finalUrl: 'https://reefoil.com.au/'
 reachable: true

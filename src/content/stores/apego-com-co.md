@@ -1,10 +1,10 @@
 ---
 domain: apego.com.co
 slug: apego-com-co
-title: Is apego.com.co Legit? Trust Signal Check
+title: Is apego.com.co Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for apego.com.co: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  apego.com.co scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T14:59:45.624Z'
 finalUrl: 'https://apego.com.co/'
 reachable: true

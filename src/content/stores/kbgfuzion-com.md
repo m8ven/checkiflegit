@@ -1,10 +1,10 @@
 ---
 domain: kbgfuzion.com
 slug: kbgfuzion-com
-title: Is kbgfuzion.com Legit? Trust Signal Check
+title: Is kbgfuzion.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for kbgfuzion.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kbgfuzion.com scores 100/100 on our public trust checks. Established domain —
+  registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:54:15.234Z'
 finalUrl: 'https://kbgfuzion.com/'
 reachable: true

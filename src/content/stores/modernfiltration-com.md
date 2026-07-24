@@ -1,10 +1,10 @@
 ---
 domain: modernfiltration.com
 slug: modernfiltration-com
-title: Is modernfiltration.com Legit? Trust Signal Check
+title: Is modernfiltration.com Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for modernfiltration.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  modernfiltration.com scores 94/100 on our public trust checks. Established
+  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:07.293Z'
 finalUrl: 'https://modernfiltration.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: teaching-point.net
 slug: teaching-point-net
-title: Is teaching-point.net Legit? Trust Signal Check
+title: Is teaching-point.net Legit? Trust Score 94/100
 description: >-
-  An automated trust-signal check for teaching-point.net: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  teaching-point.net scores 94/100 on our public trust checks. Established
+  domain — registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:04:38.419Z'
 finalUrl: 'https://teaching-point.net/'
 reachable: true

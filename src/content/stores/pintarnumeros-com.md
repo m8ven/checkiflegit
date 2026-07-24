@@ -1,10 +1,10 @@
 ---
 domain: pintarnumeros.com
 slug: pintarnumeros-com
-title: Is pintarnumeros.com Legit? Trust Signal Check
+title: Is pintarnumeros.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for pintarnumeros.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pintarnumeros.com scores 73/100 on our public trust checks. Established domain
+  — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:02:34.293Z'
 finalUrl: 'https://pintarnumeros.com/'
 reachable: true

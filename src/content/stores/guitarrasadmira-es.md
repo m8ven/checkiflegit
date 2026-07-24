@@ -1,10 +1,10 @@
 ---
 domain: guitarrasadmira.es
 slug: guitarrasadmira-es
-title: Is guitarrasadmira.es Legit? Trust Signal Check
+title: Is guitarrasadmira.es Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for guitarrasadmira.es: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  guitarrasadmira.es scores 100/100 on our public trust checks. Has a contact
+  page and multiple policy pages (privacy/terms/refund).
 fetchedAt: '2026-06-25T02:33:04.984Z'
 finalUrl: 'https://guitarrasadmira.es/'
 reachable: true

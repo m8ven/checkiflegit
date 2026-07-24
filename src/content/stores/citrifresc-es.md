@@ -1,10 +1,11 @@
 ---
 domain: citrifresc.es
 slug: citrifresc-es
-title: Is citrifresc.es Legit? Trust Signal Check
+title: Is citrifresc.es Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for citrifresc.es: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  citrifresc.es scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
 fetchedAt: '2026-06-25T02:16:42.252Z'
 finalUrl: 'https://citrifresc.es/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: cagrimobilya.com.tr
 slug: cagrimobilya-com-tr
-title: Is cagrimobilya.com.tr Legit? Trust Signal Check
+title: Is cagrimobilya.com.tr Legit? Trust Score 57/100
 description: >-
-  An automated trust-signal check for cagrimobilya.com.tr: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  cagrimobilya.com.tr scores 57/100 on our public trust checks. Standard contact
+  and policy pages were not found. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:25:10.576Z'
 finalUrl: 'https://cagrimobilya.com.tr/'
 reachable: true

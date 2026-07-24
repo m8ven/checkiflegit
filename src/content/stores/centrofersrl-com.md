@@ -1,10 +1,10 @@
 ---
 domain: centrofersrl.com
 slug: centrofersrl-com
-title: Is centrofersrl.com Legit? Trust Signal Check
+title: Is centrofersrl.com Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for centrofersrl.com: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  centrofersrl.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:54:50.334Z'
 finalUrl: 'https://www.centrofersrl.com/'
 reachable: true

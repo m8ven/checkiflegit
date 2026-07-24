@@ -1,10 +1,10 @@
 ---
 domain: 3d-exclusive.com.ua
 slug: 3d-exclusive-com-ua
-title: Is 3d-exclusive.com.ua Legit? Trust Signal Check
+title: Is 3d-exclusive.com.ua Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for 3d-exclusive.com.ua: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  3d-exclusive.com.ua scores 82/100 on our public trust checks. Established
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:45:13.155Z'
 finalUrl: 'https://3d-exclusive.com.ua/'
 reachable: true

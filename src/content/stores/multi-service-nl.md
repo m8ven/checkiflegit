@@ -1,10 +1,10 @@
 ---
 domain: multi-service.nl
 slug: multi-service-nl
-title: Is multi-service.nl Legit? Trust Signal Check
+title: Is multi-service.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for multi-service.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  multi-service.nl scores 88/100 on our public trust checks. Established domain
+  — registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:40.545Z'
 finalUrl: 'https://multi-service.nl/'
 reachable: true

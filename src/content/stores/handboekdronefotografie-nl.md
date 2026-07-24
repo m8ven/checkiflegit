@@ -1,11 +1,10 @@
 ---
 domain: handboekdronefotografie.nl
 slug: handboekdronefotografie-nl
-title: Is handboekdronefotografie.nl Legit? Trust Signal Check
+title: Is handboekdronefotografie.nl Legit? Trust Score 10/100
 description: >-
-  An automated trust-signal check for handboekdronefotografie.nl: limited trust
-  signals — proceed with caution. Domain age, SSL, contact info, reviews and
-  more.
+  handboekdronefotografie.nl scores 10/100 on our public trust checks. Domain
+  registered very recently (64 days ago).
 fetchedAt: '2026-06-25T14:57:45.368Z'
 finalUrl: 'https://www.handboekdronefotografie.nl/'
 reachable: true

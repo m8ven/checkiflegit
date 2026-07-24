@@ -1,10 +1,11 @@
 ---
 domain: awreathworld.gr
 slug: awreathworld-gr
-title: Is awreathworld.gr Legit? Trust Signal Check
+title: Is awreathworld.gr Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for awreathworld.gr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  awreathworld.gr scores 76/100 on our public trust checks. Public business
+  contact details are listed. Maintains links to multiple social media
+  platforms.
 fetchedAt: '2026-06-25T12:13:59.305Z'
 finalUrl: 'https://www.awreathworld.gr/'
 reachable: true

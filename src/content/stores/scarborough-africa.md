@@ -1,10 +1,10 @@
 ---
 domain: scarborough.africa
 slug: scarborough-africa
-title: Is scarborough.africa Legit? Trust Signal Check
+title: Is scarborough.africa Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for scarborough.africa: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  scarborough.africa scores 73/100 on our public trust checks. Established
+  domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:01:55.623Z'
 finalUrl: 'http://scarborough.africa/'
 reachable: true

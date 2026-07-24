@@ -1,10 +1,10 @@
 ---
 domain: wsbathroom.com
 slug: wsbathroom-com
-title: Is wsbathroom.com Legit? Trust Signal Check
+title: Is wsbathroom.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for wsbathroom.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  wsbathroom.com scores 88/100 on our public trust checks. Established domain —
+  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:38:06.391Z'
 finalUrl: 'https://www.wsbathroom.com/'
 reachable: true

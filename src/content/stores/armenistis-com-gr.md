@@ -1,10 +1,10 @@
 ---
 domain: armenistis.com.gr
 slug: armenistis-com-gr
-title: Is armenistis.com.gr Legit? Trust Signal Check
+title: Is armenistis.com.gr Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for armenistis.com.gr: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  armenistis.com.gr scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:57:50.421Z'
 finalUrl: 'https://www.armenistis.gr/'
 reachable: true

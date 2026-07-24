@@ -1,10 +1,10 @@
 ---
 domain: ornb.brookss-shop.ru
 slug: ornb-brookss-shop-ru
-title: Is ornb.brookss-shop.ru Legit? Trust Signal Check
+title: Is ornb.brookss-shop.ru Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for ornb.brookss-shop.ru: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  ornb.brookss-shop.ru scores 61/100 on our public trust checks. No links to
+  major social platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T12:27:06.545Z'
 finalUrl: 'https://ornb.brookss-shop.ru/'
 reachable: true

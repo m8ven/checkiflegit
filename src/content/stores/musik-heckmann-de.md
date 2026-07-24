@@ -1,10 +1,10 @@
 ---
 domain: musik-heckmann.de
 slug: musik-heckmann-de
-title: Is musik-heckmann.de Legit? Trust Signal Check
+title: Is musik-heckmann.de Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for musik-heckmann.de: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  musik-heckmann.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:38:20.724Z'
 finalUrl: 'https://www.musik-heckmann.de/'
 reachable: true

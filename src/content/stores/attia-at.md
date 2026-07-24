@@ -1,10 +1,10 @@
 ---
 domain: attia.at
 slug: attia-at
-title: Is attia.at Legit? Trust Signal Check
+title: Is attia.at Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for attia.at: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  attia.at scores 61/100 on our public trust checks. No links to major social
+  platforms found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:13:57.261Z'
 finalUrl: 'https://www.attia.at/'
 reachable: true

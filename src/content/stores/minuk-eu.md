@@ -1,10 +1,11 @@
 ---
 domain: minuk.eu
 slug: minuk-eu
-title: Is minuk.eu Legit? Trust Signal Check
+title: Is minuk.eu Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for minuk.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  minuk.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T03:52:49.956Z'
 finalUrl: 'https://minuk.eu/'
 reachable: true

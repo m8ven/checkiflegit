@@ -1,10 +1,10 @@
 ---
 domain: bakung-cikande.desa.id
 slug: bakung-cikande-desa-id
-title: Is bakung-cikande.desa.id Legit? Trust Signal Check
+title: Is bakung-cikande.desa.id Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for bakung-cikande.desa.id: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  bakung-cikande.desa.id scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T02:20:21.612Z'
 finalUrl: 'https://bakung-cikande.desa.id/'
 reachable: true

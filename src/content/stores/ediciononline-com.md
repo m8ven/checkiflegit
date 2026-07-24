@@ -1,10 +1,10 @@
 ---
 domain: ediciononline.com
 slug: ediciononline-com
-title: Is ediciononline.com Legit? Trust Signal Check
+title: Is ediciononline.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for ediciononline.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ediciononline.com scores 88/100 on our public trust checks. Established domain
+  — registered 6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:17:46.348Z'
 finalUrl: 'https://www.ediciononline.com/'
 reachable: true

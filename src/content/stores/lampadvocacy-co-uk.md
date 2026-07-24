@@ -1,10 +1,10 @@
 ---
 domain: lampadvocacy.co.uk
 slug: lampadvocacy-co-uk
-title: Is lampadvocacy.co.uk Legit? Trust Signal Check
+title: Is lampadvocacy.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for lampadvocacy.co.uk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lampadvocacy.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 10 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:35:53.055Z'
 finalUrl: 'https://www.lampadvocacy.co.uk/'
 reachable: true

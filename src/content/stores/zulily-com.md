@@ -1,10 +1,10 @@
 ---
 domain: zulily.com
 slug: zulily-com
-title: Is zulily.com Legit? Trust Signal Check
+title: Is zulily.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for zulily.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  zulily.com scores 70/100 on our public trust checks. Established domain —
+  registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:45:16.154Z'
 finalUrl: 'https://www.zulily.com/'
 reachable: true

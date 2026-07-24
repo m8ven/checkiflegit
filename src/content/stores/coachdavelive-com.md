@@ -1,10 +1,10 @@
 ---
 domain: coachdavelive.com
 slug: coachdavelive-com
-title: Is coachdavelive.com Legit? Trust Signal Check
+title: Is coachdavelive.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for coachdavelive.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  coachdavelive.com scores 88/100 on our public trust checks. Established domain
+  — registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:39:32.822Z'
 finalUrl: 'https://coachdavelive.com/'
 reachable: true

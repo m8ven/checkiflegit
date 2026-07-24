@@ -1,10 +1,11 @@
 ---
 domain: productionsupplystore.com
 slug: productionsupplystore-com
-title: Is productionsupplystore.com Legit? Trust Signal Check
+title: Is productionsupplystore.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for productionsupplystore.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  productionsupplystore.com scores 85/100 on our public trust checks.
+  Established domain — registered 6.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T15:24:55.989Z'
 finalUrl: 'https://www.productionsupplystore.com/'
 reachable: true

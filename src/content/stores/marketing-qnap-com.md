@@ -1,10 +1,10 @@
 ---
 domain: marketing.qnap.com
 slug: marketing-qnap-com
-title: Is marketing.qnap.com Legit? Trust Signal Check
+title: Is marketing.qnap.com Legit? Trust Score 0/100
 description: >-
-  An automated trust-signal check for marketing.qnap.com: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  marketing.qnap.com scores 0/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T02:43:24.183Z'
 finalUrl: 'https://marketing.qnap.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: outerbanks-obx.com
 slug: outerbanks-obx-com
-title: Is outerbanks-obx.com Legit? Trust Signal Check
+title: Is outerbanks-obx.com Legit? Trust Score 52/100
 description: >-
-  An automated trust-signal check for outerbanks-obx.com: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  outerbanks-obx.com scores 52/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:24:05.169Z'
 finalUrl: 'https://www.outerbanks-obx.com/'
 reachable: true

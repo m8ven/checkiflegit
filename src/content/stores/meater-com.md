@@ -1,10 +1,10 @@
 ---
 domain: meater.com
 slug: meater-com
-title: Is meater.com Legit? Trust Signal Check
+title: Is meater.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for meater.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  meater.com scores 70/100 on our public trust checks. Established domain —
+  registered 15.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:44:56.089Z'
 finalUrl: 'https://meater.com/'
 reachable: true

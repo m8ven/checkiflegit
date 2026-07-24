@@ -1,10 +1,10 @@
 ---
 domain: bogjensen.dk
 slug: bogjensen-dk
-title: Is bogjensen.dk Legit? Trust Signal Check
+title: Is bogjensen.dk Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for bogjensen.dk: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bogjensen.dk scores 73/100 on our public trust checks. Established domain —
+  registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:55:37.485Z'
 finalUrl: 'https://bogjensen.dk/'
 reachable: true

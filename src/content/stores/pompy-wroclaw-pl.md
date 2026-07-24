@@ -1,10 +1,10 @@
 ---
 domain: pompy-wroclaw.pl
 slug: pompy-wroclaw-pl
-title: Is pompy-wroclaw.pl Legit? Trust Signal Check
+title: Is pompy-wroclaw.pl Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for pompy-wroclaw.pl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  pompy-wroclaw.pl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T03:33:44.157Z'
 finalUrl: 'https://pompy-wroclaw.pl/'
 reachable: true

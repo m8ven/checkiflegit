@@ -1,10 +1,10 @@
 ---
 domain: first-avenue.com
 slug: first-avenue-com
-title: Is first-avenue.com Legit? Trust Signal Check
+title: Is first-avenue.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for first-avenue.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  first-avenue.com scores 76/100 on our public trust checks. Established domain
+  — registered 29.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:06.378Z'
 finalUrl: 'https://first-avenue.com/'
 reachable: true

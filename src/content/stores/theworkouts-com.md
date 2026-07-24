@@ -1,10 +1,10 @@
 ---
 domain: theworkouts.com
 slug: theworkouts-com
-title: Is theworkouts.com Legit? Trust Signal Check
+title: Is theworkouts.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for theworkouts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  theworkouts.com scores 73/100 on our public trust checks. Established domain —
+  registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:43:56.107Z'
 finalUrl: 'https://theworkouts.com/'
 reachable: true

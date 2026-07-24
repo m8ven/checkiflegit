@@ -1,10 +1,10 @@
 ---
 domain: pnails.ro
 slug: pnails-ro
-title: Is pnails.ro Legit? Trust Signal Check
+title: Is pnails.ro Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for pnails.ro: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  pnails.ro scores 58/100 on our public trust checks. Domain is relatively
+  young. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:22:27.332Z'
 finalUrl: 'https://pnails.ro/'
 reachable: true

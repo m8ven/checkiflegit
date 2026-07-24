@@ -1,10 +1,10 @@
 ---
 domain: btsbrickshop.com
 slug: btsbrickshop-com
-title: Is btsbrickshop.com Legit? Trust Signal Check
+title: Is btsbrickshop.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for btsbrickshop.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  btsbrickshop.com scores 100/100 on our public trust checks. Established domain
+  — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:44:24.618Z'
 finalUrl: 'https://btsbrickshop.com/'
 reachable: true

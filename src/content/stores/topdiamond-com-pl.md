@@ -1,10 +1,10 @@
 ---
 domain: topdiamond.com.pl
 slug: topdiamond-com-pl
-title: Is topdiamond.com.pl Legit? Trust Signal Check
+title: Is topdiamond.com.pl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for topdiamond.com.pl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  topdiamond.com.pl scores 82/100 on our public trust checks. Established domain
+  — registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:15.604Z'
 finalUrl: 'https://topdiamond.com.pl/'
 reachable: true

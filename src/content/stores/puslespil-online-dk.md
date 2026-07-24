@@ -1,10 +1,10 @@
 ---
 domain: puslespil-online.dk
 slug: puslespil-online-dk
-title: Is puslespil-online.dk Legit? Trust Signal Check
+title: Is puslespil-online.dk Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for puslespil-online.dk: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  puslespil-online.dk scores 82/100 on our public trust checks. Established
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:31:52.037Z'
 finalUrl: 'https://puslespil-online.dk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: chic-et-soft.fr
 slug: chic-et-soft-fr
-title: Is chic-et-soft.fr Legit? Trust Signal Check
+title: Is chic-et-soft.fr Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for chic-et-soft.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  chic-et-soft.fr scores 88/100 on our public trust checks. Established domain —
+  registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:51:06.806Z'
 finalUrl: 'https://chic-et-soft.fr/'
 reachable: true

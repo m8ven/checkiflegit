@@ -1,10 +1,10 @@
 ---
 domain: cmchr.fr
 slug: cmchr-fr
-title: Is cmchr.fr Legit? Trust Signal Check
+title: Is cmchr.fr Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for cmchr.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  cmchr.fr scores 85/100 on our public trust checks. Established domain —
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:15:43.816Z'
 finalUrl: 'https://www.cmchr.fr/'
 reachable: true

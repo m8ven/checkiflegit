@@ -1,10 +1,10 @@
 ---
 domain: orminatours.com
 slug: orminatours-com
-title: Is orminatours.com Legit? Trust Signal Check
+title: Is orminatours.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for orminatours.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  orminatours.com scores 100/100 on our public trust checks. Established domain
+  — registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:23:59.261Z'
 finalUrl: 'https://www.orminatours.com/'
 reachable: true

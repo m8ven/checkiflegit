@@ -1,10 +1,10 @@
 ---
 domain: sask.fi
 slug: sask-fi
-title: Is sask.fi Legit? Trust Signal Check
+title: Is sask.fi Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for sask.fi: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  sask.fi scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T03:21:24.534Z'
 finalUrl: 'https://www.sask.fi/'
 reachable: true

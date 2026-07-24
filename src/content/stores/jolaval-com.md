@@ -1,10 +1,10 @@
 ---
 domain: jolaval.com
 slug: jolaval-com
-title: Is jolaval.com Legit? Trust Signal Check
+title: Is jolaval.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for jolaval.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  jolaval.com scores 70/100 on our public trust checks. Established domain —
+  registered 14 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:17:07.167Z'
 finalUrl: 'https://jolaval.com/'
 reachable: true

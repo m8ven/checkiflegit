@@ -1,10 +1,10 @@
 ---
 domain: encajesluisvalencia.com
 slug: encajesluisvalencia-com
-title: Is encajesluisvalencia.com Legit? Trust Signal Check
+title: Is encajesluisvalencia.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for encajesluisvalencia.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  encajesluisvalencia.com scores 73/100 on our public trust checks. Established
+  domain — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:38:37.100Z'
 finalUrl: 'https://encajesluisvalencia.com/'
 reachable: true

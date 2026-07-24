@@ -1,10 +1,10 @@
 ---
 domain: stikishop.dk
 slug: stikishop-dk
-title: Is stikishop.dk Legit? Trust Signal Check
+title: Is stikishop.dk Legit? Trust Score 43/100
 description: >-
-  An automated trust-signal check for stikishop.dk: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  stikishop.dk scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:03:01.567Z'
 finalUrl: 'https://stikishop.dk/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: boggi.com
 slug: boggi-com
-title: Is boggi.com Legit? Trust Signal Check
+title: Is boggi.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for boggi.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  boggi.com scores 100/100 on our public trust checks. Established domain —
+  registered 27.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:40.558Z'
 finalUrl: 'https://www.boggi.com/de_DE/default-homepage'
 reachable: true

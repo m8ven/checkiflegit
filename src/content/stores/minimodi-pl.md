@@ -1,10 +1,10 @@
 ---
 domain: minimodi.pl
 slug: minimodi-pl
-title: Is minimodi.pl Legit? Trust Signal Check
+title: Is minimodi.pl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for minimodi.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  minimodi.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:52:49.744Z'
 finalUrl: 'https://minimodi.pl/'
 reachable: true

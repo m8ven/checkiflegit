@@ -1,10 +1,10 @@
 ---
 domain: pollysbeads.com.au
 slug: pollysbeads-com-au
-title: Is pollysbeads.com.au Legit? Trust Signal Check
+title: Is pollysbeads.com.au Legit? Trust Score 44/100
 description: >-
-  An automated trust-signal check for pollysbeads.com.au: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  pollysbeads.com.au scores 44/100 on our public trust checks. No links to major
+  social platforms found.
 fetchedAt: '2026-06-25T12:41:24.186Z'
 finalUrl: 'https://www.pollysbeads.com.au/'
 reachable: true

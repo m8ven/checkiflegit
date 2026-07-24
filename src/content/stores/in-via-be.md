@@ -1,10 +1,10 @@
 ---
 domain: in-via.be
 slug: in-via-be
-title: Is in-via.be Legit? Trust Signal Check
+title: Is in-via.be Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for in-via.be: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  in-via.be scores 55/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:38:09.888Z'
 finalUrl: 'https://in-via.be/binnenkort/'
 reachable: true

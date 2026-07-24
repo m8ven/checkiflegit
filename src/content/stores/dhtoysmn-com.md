@@ -1,10 +1,10 @@
 ---
 domain: dhtoysmn.com
 slug: dhtoysmn-com
-title: Is dhtoysmn.com Legit? Trust Signal Check
+title: Is dhtoysmn.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for dhtoysmn.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dhtoysmn.com scores 82/100 on our public trust checks. Established domain —
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:48:25.205Z'
 finalUrl: 'https://dhtoysmn.com/'
 reachable: true

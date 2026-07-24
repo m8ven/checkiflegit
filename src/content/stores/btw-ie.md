@@ -1,10 +1,10 @@
 ---
 domain: btw.ie
 slug: btw-ie
-title: Is btw.ie Legit? Trust Signal Check
+title: Is btw.ie Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for btw.ie: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  btw.ie scores 88/100 on our public trust checks. Established domain —
+  registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:32:36.903Z'
 finalUrl: 'https://www.btw.ie/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: number4.boutique
 slug: number4-boutique
-title: Is number4.boutique Legit? Trust Signal Check
+title: Is number4.boutique Legit? Trust Score 91/100
 description: >-
-  An automated trust-signal check for number4.boutique: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  number4.boutique scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:39:14.381Z'
 finalUrl: 'https://number4.boutique/'
 reachable: true

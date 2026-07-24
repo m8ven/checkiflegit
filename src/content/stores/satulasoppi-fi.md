@@ -1,10 +1,11 @@
 ---
 domain: satulasoppi.fi
 slug: satulasoppi-fi
-title: Is satulasoppi.fi Legit? Trust Signal Check
+title: Is satulasoppi.fi Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for satulasoppi.fi: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  satulasoppi.fi scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T15:40:04.886Z'
 finalUrl: 'https://www.satulasoppi.fi/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: aptikom.org
 slug: aptikom-org
-title: Is aptikom.org Legit? Trust Signal Check
+title: Is aptikom.org Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for aptikom.org: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  aptikom.org scores 88/100 on our public trust checks. Established domain —
+  registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:47:36.099Z'
 finalUrl: 'https://aptikom.org/'
 reachable: true

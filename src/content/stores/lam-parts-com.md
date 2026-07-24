@@ -1,10 +1,10 @@
 ---
 domain: lam-parts.com
 slug: lam-parts-com
-title: Is lam-parts.com Legit? Trust Signal Check
+title: Is lam-parts.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for lam-parts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lam-parts.com scores 88/100 on our public trust checks. Established domain —
+  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:52:23.238Z'
 finalUrl: 'https://lam-parts.com/'
 reachable: true

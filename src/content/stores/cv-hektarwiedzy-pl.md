@@ -1,10 +1,10 @@
 ---
 domain: cv.hektarwiedzy.pl
 slug: cv-hektarwiedzy-pl
-title: Is cv.hektarwiedzy.pl Legit? Trust Signal Check
+title: Is cv.hektarwiedzy.pl Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for cv.hektarwiedzy.pl: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  cv.hektarwiedzy.pl scores 40/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
 fetchedAt: '2026-06-25T15:07:50.223Z'
 finalUrl: 'http://cv.hektarwiedzy.pl/'
 reachable: true

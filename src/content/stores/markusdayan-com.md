@@ -1,10 +1,10 @@
 ---
 domain: markusdayan.com
 slug: markusdayan-com
-title: Is markusdayan.com Legit? Trust Signal Check
+title: Is markusdayan.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for markusdayan.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  markusdayan.com scores 100/100 on our public trust checks. Established domain
+  — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:09.370Z'
 finalUrl: 'https://markusdayan.com/'
 reachable: true

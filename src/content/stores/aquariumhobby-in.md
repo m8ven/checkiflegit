@@ -1,10 +1,10 @@
 ---
 domain: aquariumhobby.in
 slug: aquariumhobby-in
-title: Is aquariumhobby.in Legit? Trust Signal Check
+title: Is aquariumhobby.in Legit? Trust Score 66/100
 description: >-
-  An automated trust-signal check for aquariumhobby.in: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  aquariumhobby.in scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T15:35:30.461Z'
 finalUrl: 'https://aquariumhobby.in/'
 reachable: true

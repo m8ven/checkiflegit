@@ -1,10 +1,10 @@
 ---
 domain: revotrading.com.tr
 slug: revotrading-com-tr
-title: Is revotrading.com.tr Legit? Trust Signal Check
+title: Is revotrading.com.tr Legit? Trust Score 40/100
 description: >-
-  An automated trust-signal check for revotrading.com.tr: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  revotrading.com.tr scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
 fetchedAt: '2026-06-25T15:29:01.075Z'
 finalUrl: 'https://revotrading.com.tr/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: thermaltake.com
 slug: thermaltake-com
-title: Is thermaltake.com Legit? Trust Signal Check
+title: Is thermaltake.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for thermaltake.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  thermaltake.com scores 76/100 on our public trust checks. Established domain —
+  registered 26.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:00.576Z'
 finalUrl: 'https://thermaltake.com/'
 reachable: true

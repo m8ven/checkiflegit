@@ -1,10 +1,10 @@
 ---
 domain: recordshop-austria.at
 slug: recordshop-austria-at
-title: Is recordshop-austria.at Legit? Trust Signal Check
+title: Is recordshop-austria.at Legit? Trust Score 79/100
 description: >-
-  An automated trust-signal check for recordshop-austria.at: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  recordshop-austria.at scores 79/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:42:25.181Z'
 finalUrl: 'https://recordshop-austria.at/'
 reachable: true

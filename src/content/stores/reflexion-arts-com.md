@@ -1,10 +1,10 @@
 ---
 domain: reflexion-arts.com
 slug: reflexion-arts-com
-title: Is reflexion-arts.com Legit? Trust Signal Check
+title: Is reflexion-arts.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for reflexion-arts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  reflexion-arts.com scores 100/100 on our public trust checks. Established
+  domain — registered 28.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:26:40.301Z'
 finalUrl: 'https://www.reflexion-arts.com/'
 reachable: true

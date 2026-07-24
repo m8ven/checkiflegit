@@ -1,10 +1,10 @@
 ---
 domain: baikalspec.ru
 slug: baikalspec-ru
-title: Is baikalspec.ru Legit? Trust Signal Check
+title: Is baikalspec.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for baikalspec.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  baikalspec.ru scores 73/100 on our public trust checks. Established domain —
+  registered 19.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:42:37.560Z'
 finalUrl: 'https://baikalspec.ru/'
 reachable: true

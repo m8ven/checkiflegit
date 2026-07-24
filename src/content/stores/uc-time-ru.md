@@ -1,10 +1,10 @@
 ---
 domain: uc-time.ru
 slug: uc-time-ru
-title: Is uc-time.ru Legit? Trust Signal Check
+title: Is uc-time.ru Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for uc-time.ru: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  uc-time.ru scores 55/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:15:30.794Z'
 finalUrl: 'https://uc-time.ru/'
 reachable: true

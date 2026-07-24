@@ -1,10 +1,10 @@
 ---
 domain: thevintagerooms.co.uk
 slug: thevintagerooms-co-uk
-title: Is thevintagerooms.co.uk Legit? Trust Signal Check
+title: Is thevintagerooms.co.uk Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for thevintagerooms.co.uk: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  thevintagerooms.co.uk scores 100/100 on our public trust checks. Established
+  domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:53:52.989Z'
 finalUrl: 'https://thevintagerooms.co.uk/'
 reachable: true

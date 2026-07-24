@@ -1,10 +1,10 @@
 ---
 domain: audere.sm
 slug: audere-sm
-title: Is audere.sm Legit? Trust Signal Check
+title: Is audere.sm Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for audere.sm: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  audere.sm scores 100/100 on our public trust checks. Established domain —
+  registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:28:47.563Z'
 finalUrl: 'https://www.audere.sm/'
 reachable: true

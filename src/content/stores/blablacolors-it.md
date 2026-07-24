@@ -1,10 +1,10 @@
 ---
 domain: blablacolors.it
 slug: blablacolors-it
-title: Is blablacolors.it Legit? Trust Signal Check
+title: Is blablacolors.it Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for blablacolors.it: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  blablacolors.it scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
 fetchedAt: '2026-06-25T12:31:19.955Z'
 finalUrl: 'https://www.blablacolors.it/'
 reachable: true

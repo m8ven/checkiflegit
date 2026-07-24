@@ -1,10 +1,10 @@
 ---
 domain: dbdmag.fr
 slug: dbdmag-fr
-title: Is dbdmag.fr Legit? Trust Signal Check
+title: Is dbdmag.fr Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dbdmag.fr: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dbdmag.fr scores 70/100 on our public trust checks. Established domain —
+  registered 18.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:17:57.633Z'
 finalUrl: 'https://dbdmag.fr/'
 reachable: true

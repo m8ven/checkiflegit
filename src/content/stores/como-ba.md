@@ -1,10 +1,10 @@
 ---
 domain: como.ba
 slug: como-ba
-title: Is como.ba Legit? Trust Signal Check
+title: Is como.ba Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for como.ba: strong trust signals. Domain age,
-  SSL, contact info, reviews and more.
+  como.ba scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T03:30:29.610Z'
 finalUrl: 'https://como.ba/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: davidpowell.nl
 slug: davidpowell-nl
-title: Is davidpowell.nl Legit? Trust Signal Check
+title: Is davidpowell.nl Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for davidpowell.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  davidpowell.nl scores 82/100 on our public trust checks. Established domain —
+  registered 19.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:24:08.813Z'
 finalUrl: 'https://davidpowell.nl/'
 reachable: true

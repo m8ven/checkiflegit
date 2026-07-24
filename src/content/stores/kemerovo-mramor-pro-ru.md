@@ -1,10 +1,10 @@
 ---
 domain: kemerovo.mramor-pro.ru
 slug: kemerovo-mramor-pro-ru
-title: Is kemerovo.mramor-pro.ru Legit? Trust Signal Check
+title: Is kemerovo.mramor-pro.ru Legit? Trust Score 61/100
 description: >-
-  An automated trust-signal check for kemerovo.mramor-pro.ru: moderate trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  kemerovo.mramor-pro.ru scores 61/100 on our public trust checks. No links to
+  major social platforms found.
 fetchedAt: '2026-06-25T15:04:33.724Z'
 finalUrl: 'https://kemerovo.mramor-pro.ru/'
 reachable: true

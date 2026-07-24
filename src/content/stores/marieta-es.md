@@ -1,10 +1,10 @@
 ---
 domain: marieta.es
 slug: marieta-es
-title: Is marieta.es Legit? Trust Signal Check
+title: Is marieta.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for marieta.es: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  marieta.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:30:10.701Z'
 finalUrl: 'https://www.marieta.es/'
 reachable: true

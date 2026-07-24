@@ -1,10 +1,10 @@
 ---
 domain: dmpsport.it
 slug: dmpsport-it
-title: Is dmpsport.it Legit? Trust Signal Check
+title: Is dmpsport.it Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for dmpsport.it: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  dmpsport.it scores 88/100 on our public trust checks. Established domain —
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:56:24.032Z'
 finalUrl: 'https://www.dmpsport.it/'
 reachable: true

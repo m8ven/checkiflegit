@@ -1,10 +1,10 @@
 ---
 domain: 44packs.com
 slug: 44packs-com
-title: Is 44packs.com Legit? Trust Signal Check
+title: Is 44packs.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 44packs.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  44packs.com scores 85/100 on our public trust checks. Established domain —
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:41.514Z'
 finalUrl: 'https://44packs.com/'
 reachable: true

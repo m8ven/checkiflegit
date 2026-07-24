@@ -1,10 +1,10 @@
 ---
 domain: boutiqueromana.nl
 slug: boutiqueromana-nl
-title: Is boutiqueromana.nl Legit? Trust Signal Check
+title: Is boutiqueromana.nl Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for boutiqueromana.nl: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  boutiqueromana.nl scores 88/100 on our public trust checks. Established domain
+  — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:20:19.976Z'
 finalUrl: 'https://boutiqueromana.nl/'
 reachable: true

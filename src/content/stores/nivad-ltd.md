@@ -1,10 +1,10 @@
 ---
 domain: nivad.ltd
 slug: nivad-ltd
-title: Is nivad.ltd Legit? Trust Signal Check
+title: Is nivad.ltd Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for nivad.ltd: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  nivad.ltd scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
 fetchedAt: '2026-06-25T15:15:40.623Z'
 finalUrl: 'https://nivad.ltd/'
 reachable: true

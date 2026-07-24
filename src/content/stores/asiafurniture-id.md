@@ -1,10 +1,10 @@
 ---
 domain: asiafurniture.id
 slug: asiafurniture-id
-title: Is asiafurniture.id Legit? Trust Signal Check
+title: Is asiafurniture.id Legit? Trust Score 58/100
 description: >-
-  An automated trust-signal check for asiafurniture.id: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  asiafurniture.id scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
 fetchedAt: '2026-06-25T02:19:44.301Z'
 finalUrl: 'https://asiafurniture.id/'
 reachable: true

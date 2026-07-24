@@ -1,10 +1,10 @@
 ---
 domain: kutyamacskatap.hu
 slug: kutyamacskatap-hu
-title: Is kutyamacskatap.hu Legit? Trust Signal Check
+title: Is kutyamacskatap.hu Legit? Trust Score 19/100
 description: >-
-  An automated trust-signal check for kutyamacskatap.hu: limited trust signals —
-  proceed with caution. Domain age, SSL, contact info, reviews and more.
+  kutyamacskatap.hu scores 19/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
 fetchedAt: '2026-06-25T02:33:09.619Z'
 finalUrl: 'https://kutyamacskatap.hu/'
 reachable: true

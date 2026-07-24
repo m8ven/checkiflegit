@@ -1,10 +1,10 @@
 ---
 domain: goldvitebsk.by
 slug: goldvitebsk-by
-title: Is goldvitebsk.by Legit? Trust Signal Check
+title: Is goldvitebsk.by Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for goldvitebsk.by: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  goldvitebsk.by scores 82/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:37:02.411Z'
 finalUrl: 'https://goldvitebsk.by/'
 reachable: true

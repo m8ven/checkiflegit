@@ -1,10 +1,10 @@
 ---
 domain: phithaionline.co.uk
 slug: phithaionline-co-uk
-title: Is phithaionline.co.uk Legit? Trust Signal Check
+title: Is phithaionline.co.uk Legit? Trust Score 7/100
 description: >-
-  An automated trust-signal check for phithaionline.co.uk: limited trust signals
-  — proceed with caution. Domain age, SSL, contact info, reviews and more.
+  phithaionline.co.uk scores 7/100 on our public trust checks. Standard contact
+  and policy pages were not found.
 fetchedAt: '2026-06-25T03:30:47.656Z'
 finalUrl: 'https://phithaionline.co.uk/'
 reachable: true

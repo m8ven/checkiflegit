@@ -1,10 +1,10 @@
 ---
 domain: stolldrew.pl
 slug: stolldrew-pl
-title: Is stolldrew.pl Legit? Trust Signal Check
+title: Is stolldrew.pl Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for stolldrew.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  stolldrew.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:52:24.298Z'
 finalUrl: 'https://stolldrew.pl/'
 reachable: true

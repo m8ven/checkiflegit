@@ -1,10 +1,10 @@
 ---
 domain: x-plane.com
 slug: x-plane-com
-title: Is x-plane.com Legit? Trust Signal Check
+title: Is x-plane.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for x-plane.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  x-plane.com scores 100/100 on our public trust checks. Established domain —
+  registered 29.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-24T21:46:21.639Z'
 finalUrl: 'https://www.x-plane.com/'
 reachable: true

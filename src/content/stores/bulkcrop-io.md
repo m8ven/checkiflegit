@@ -1,10 +1,10 @@
 ---
 domain: bulkcrop.io
 slug: bulkcrop-io
-title: Is bulkcrop.io Legit? Trust Signal Check
+title: Is bulkcrop.io Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for bulkcrop.io: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  bulkcrop.io scores 73/100 on our public trust checks. Established domain —
+  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:37:25.402Z'
 finalUrl: 'https://bulkcrop.io/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: lumikidi.lt
 slug: lumikidi-lt
-title: Is lumikidi.lt Legit? Trust Signal Check
+title: Is lumikidi.lt Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for lumikidi.lt: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  lumikidi.lt scores 88/100 on our public trust checks. Established domain —
+  registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:53:38.046Z'
 finalUrl: 'https://lumikidi.lt/'
 reachable: true

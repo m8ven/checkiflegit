@@ -1,10 +1,11 @@
 ---
 domain: ing.uc.cl
 slug: ing-uc-cl
-title: Is ing.uc.cl Legit? Trust Signal Check
+title: Is ing.uc.cl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for ing.uc.cl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  ing.uc.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:33:50.191Z'
 finalUrl: 'https://www.ing.uc.cl/'
 reachable: true

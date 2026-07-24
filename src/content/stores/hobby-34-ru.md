@@ -1,10 +1,10 @@
 ---
 domain: hobby-34.ru
 slug: hobby-34-ru
-title: Is hobby-34.ru Legit? Trust Signal Check
+title: Is hobby-34.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for hobby-34.ru: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hobby-34.ru scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
 fetchedAt: '2026-06-25T02:35:07.574Z'
 finalUrl: 'https://hobby-34.ru/'
 reachable: true

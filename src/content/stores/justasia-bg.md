@@ -1,10 +1,10 @@
 ---
 domain: justasia.bg
 slug: justasia-bg
-title: Is justasia.bg Legit? Trust Signal Check
+title: Is justasia.bg Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for justasia.bg: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  justasia.bg scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T12:08:42.836Z'
 finalUrl: 'https://justasia.bg/'
 reachable: true

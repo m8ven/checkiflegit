@@ -1,10 +1,10 @@
 ---
 domain: location.nrix.fr
 slug: location-nrix-fr
-title: Is location.nrix.fr Legit? Trust Signal Check
+title: Is location.nrix.fr Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for location.nrix.fr: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  location.nrix.fr scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T02:47:32.764Z'
 finalUrl: 'https://location.nrix.fr/'
 reachable: true

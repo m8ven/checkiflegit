@@ -1,10 +1,11 @@
 ---
 domain: ingeticom.cl
 slug: ingeticom-cl
-title: Is ingeticom.cl Legit? Trust Signal Check
+title: Is ingeticom.cl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for ingeticom.cl: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  ingeticom.cl scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
 fetchedAt: '2026-06-25T02:37:31.620Z'
 finalUrl: 'https://ingeticom.cl/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: prostozhiszpanii.com
 slug: prostozhiszpanii-com
-title: Is prostozhiszpanii.com Legit? Trust Signal Check
+title: Is prostozhiszpanii.com Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for prostozhiszpanii.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  prostozhiszpanii.com scores 73/100 on our public trust checks. Established
+  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T11:57:09.762Z'
 finalUrl: 'https://prostozhiszpanii.com/'
 reachable: true

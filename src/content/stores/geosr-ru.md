@@ -1,10 +1,10 @@
 ---
 domain: geosr.ru
 slug: geosr-ru
-title: Is geosr.ru Legit? Trust Signal Check
+title: Is geosr.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for geosr.ru: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  geosr.ru scores 73/100 on our public trust checks. Established domain —
+  registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:50:13.178Z'
 finalUrl: 'https://geosr.ru/'
 reachable: true

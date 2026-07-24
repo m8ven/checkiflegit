@@ -1,10 +1,10 @@
 ---
 domain: damamobilespares.co.ke
 slug: damamobilespares-co-ke
-title: Is damamobilespares.co.ke Legit? Trust Signal Check
+title: Is damamobilespares.co.ke Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for damamobilespares.co.ke: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  damamobilespares.co.ke scores 100/100 on our public trust checks. Established
+  domain — registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:39:40.476Z'
 finalUrl: 'https://damamobilespares.co.ke/'
 reachable: true

@@ -1,10 +1,11 @@
 ---
 domain: rationalphotographics.com
 slug: rationalphotographics-com
-title: Is rationalphotographics.com Legit? Trust Signal Check
+title: Is rationalphotographics.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for rationalphotographics.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  rationalphotographics.com scores 88/100 on our public trust checks.
+  Established domain — registered 13.9 years ago. Valid HTTPS/SSL certificate in
+  place.
 fetchedAt: '2026-06-25T03:21:03.275Z'
 finalUrl: 'https://www.rationalphotographics.com/'
 reachable: true

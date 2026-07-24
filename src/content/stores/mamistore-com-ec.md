@@ -1,10 +1,10 @@
 ---
 domain: mamistore.com.ec
 slug: mamistore-com-ec
-title: Is mamistore.com.ec Legit? Trust Signal Check
+title: Is mamistore.com.ec Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for mamistore.com.ec: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  mamistore.com.ec scores 100/100 on our public trust checks. Established domain
+  — registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T15:21:14.640Z'
 finalUrl: 'https://mamistore.com.ec/'
 reachable: true

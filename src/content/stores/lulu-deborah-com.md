@@ -1,10 +1,10 @@
 ---
 domain: lulu-deborah.com
 slug: lulu-deborah-com
-title: Is lulu-deborah.com Legit? Trust Signal Check
+title: Is lulu-deborah.com Legit? Trust Score 76/100
 description: >-
-  An automated trust-signal check for lulu-deborah.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  lulu-deborah.com scores 76/100 on our public trust checks. Established domain
+  — registered 6.8 years ago.
 fetchedAt: '2026-06-25T15:21:50.066Z'
 finalUrl: 'https://www.lulu-deborah.com/'
 reachable: true

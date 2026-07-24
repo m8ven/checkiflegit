@@ -1,10 +1,10 @@
 ---
 domain: 7robots.com
 slug: 7robots-com
-title: Is 7robots.com Legit? Trust Signal Check
+title: Is 7robots.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for 7robots.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  7robots.com scores 76/100 on our public trust checks. Established domain —
+  registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:46:15.052Z'
 finalUrl: 'https://7robots.com/'
 reachable: true

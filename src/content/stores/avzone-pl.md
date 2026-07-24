@@ -1,10 +1,10 @@
 ---
 domain: avzone.pl
 slug: avzone-pl
-title: Is avzone.pl Legit? Trust Signal Check
+title: Is avzone.pl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for avzone.pl: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  avzone.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:20:11.239Z'
 finalUrl: 'https://avzone.pl/'
 reachable: true

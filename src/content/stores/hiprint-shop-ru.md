@@ -1,10 +1,10 @@
 ---
 domain: hiprint-shop.ru
 slug: hiprint-shop-ru
-title: Is hiprint-shop.ru Legit? Trust Signal Check
+title: Is hiprint-shop.ru Legit? Trust Score 73/100
 description: >-
-  An automated trust-signal check for hiprint-shop.ru: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  hiprint-shop.ru scores 73/100 on our public trust checks. Established domain —
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:45:48.052Z'
 finalUrl: 'https://hiprint-shop.ru/'
 reachable: true

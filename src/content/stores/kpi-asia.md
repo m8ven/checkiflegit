@@ -1,10 +1,10 @@
 ---
 domain: kpi.asia
 slug: kpi-asia
-title: Is kpi.asia Legit? Trust Signal Check
+title: Is kpi.asia Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kpi.asia: moderate trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  kpi.asia scores 58/100 on our public trust checks. No public contact details
+  detected on the homepage.
 fetchedAt: '2026-06-25T03:22:24.089Z'
 finalUrl: 'https://www.kpi.asia/'
 reachable: true

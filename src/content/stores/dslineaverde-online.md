@@ -1,10 +1,10 @@
 ---
 domain: dslineaverde.online
 slug: dslineaverde-online
-title: Is dslineaverde.online Legit? Trust Signal Check
+title: Is dslineaverde.online Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for dslineaverde.online: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dslineaverde.online scores 85/100 on our public trust checks. Established
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:42:32.625Z'
 finalUrl: 'https://dslineaverde.online/'
 reachable: true

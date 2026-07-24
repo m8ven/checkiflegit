@@ -1,10 +1,10 @@
 ---
 domain: barchettaparts.com
 slug: barchettaparts-com
-title: Is barchettaparts.com Legit? Trust Signal Check
+title: Is barchettaparts.com Legit? Trust Score 85/100
 description: >-
-  An automated trust-signal check for barchettaparts.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  barchettaparts.com scores 85/100 on our public trust checks. Established
+  domain — registered 19 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:49:36.274Z'
 finalUrl: 'https://barchettaparts.com/'
 reachable: true

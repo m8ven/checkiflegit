@@ -1,10 +1,10 @@
 ---
 domain: kraftnet.com.br
 slug: kraftnet-com-br
-title: Is kraftnet.com.br Legit? Trust Signal Check
+title: Is kraftnet.com.br Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  An automated trust-signal check for kraftnet.com.br: moderate trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  kraftnet.com.br scores 66/100 on our public trust checks. HTTPS certificate
+  present but its trust chain is incomplete.
 fetchedAt: '2026-06-25T12:25:51.153Z'
 finalUrl: 'https://www.kraftnet.com.br/'
 reachable: true

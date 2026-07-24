@@ -1,10 +1,10 @@
 ---
 domain: marvelrich.com
 slug: marvelrich-com
-title: Is marvelrich.com Legit? Trust Signal Check
+title: Is marvelrich.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for marvelrich.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  marvelrich.com scores 88/100 on our public trust checks. Established domain —
+  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T14:57:13.579Z'
 finalUrl: 'https://marvelrich.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: novolife.co.th
 slug: novolife-co-th
-title: Is novolife.co.th Legit? Trust Signal Check
+title: Is novolife.co.th Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for novolife.co.th: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  novolife.co.th scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:39:09.364Z'
 finalUrl: 'https://novolife.co.th/'
 reachable: true

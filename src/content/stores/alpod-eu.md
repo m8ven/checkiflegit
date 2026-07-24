@@ -1,10 +1,11 @@
 ---
 domain: alpod.eu
 slug: alpod-eu
-title: Is alpod.eu Legit? Trust Signal Check
+title: Is alpod.eu Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for alpod.eu: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  alpod.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Has a contact page and multiple policy pages
+  (privacy/terms/refund).
 fetchedAt: '2026-06-25T12:12:35.133Z'
 finalUrl: 'https://www.alpod.eu/'
 reachable: true

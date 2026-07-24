@@ -1,10 +1,10 @@
 ---
 domain: colnago.com
 slug: colnago-com
-title: Is colnago.com Legit? Trust Signal Check
+title: Is colnago.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  An automated trust-signal check for colnago.com: strong trust signals. Domain
-  age, SSL, contact info, reviews and more.
+  colnago.com scores 70/100 on our public trust checks. Established domain —
+  registered 29.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:16:01.739Z'
 finalUrl: 'https://www.colnago.com/en-us'
 reachable: true

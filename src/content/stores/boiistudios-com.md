@@ -1,10 +1,10 @@
 ---
 domain: boiistudios.com
 slug: boiistudios-com
-title: Is boiistudios.com Legit? Trust Signal Check
+title: Is boiistudios.com Legit? Trust Score 88/100
 description: >-
-  An automated trust-signal check for boiistudios.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  boiistudios.com scores 88/100 on our public trust checks. Established domain —
+  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:21:26.325Z'
 finalUrl: 'https://boiistudios.com/'
 reachable: true

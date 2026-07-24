@@ -1,10 +1,10 @@
 ---
 domain: customwoolenmills.com
 slug: customwoolenmills-com
-title: Is customwoolenmills.com Legit? Trust Signal Check
+title: Is customwoolenmills.com Legit? Trust Score 100/100
 description: >-
-  An automated trust-signal check for customwoolenmills.com: strong trust
-  signals. Domain age, SSL, contact info, reviews and more.
+  customwoolenmills.com scores 100/100 on our public trust checks. Established
+  domain — registered 24.7 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:39:27.041Z'
 finalUrl: 'https://www.customwoolenmills.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: stupidmonkey.web.id
 slug: stupidmonkey-web-id
-title: Is stupidmonkey.web.id Legit? Trust Signal Check
+title: Is stupidmonkey.web.id Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for stupidmonkey.web.id: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  stupidmonkey.web.id scores 70/100 on our public trust checks. Established
+  domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T12:35:18.010Z'
 finalUrl: 'https://www.stupidmonkey.web.id/'
 reachable: true

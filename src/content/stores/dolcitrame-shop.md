@@ -1,10 +1,10 @@
 ---
 domain: dolcitrame.shop
 slug: dolcitrame-shop
-title: Is dolcitrame.shop Legit? Trust Signal Check
+title: Is dolcitrame.shop Legit? Trust Score 74/100
 description: >-
-  An automated trust-signal check for dolcitrame.shop: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  dolcitrame.shop scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
 fetchedAt: '2026-06-25T02:56:26.873Z'
 finalUrl: 'https://www.dolcitrame.shop/'
 reachable: true

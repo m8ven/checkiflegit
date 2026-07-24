@@ -1,10 +1,10 @@
 ---
 domain: keramacontract.com
 slug: keramacontract-com
-title: Is keramacontract.com Legit? Trust Signal Check
+title: Is keramacontract.com Legit? Trust Score 82/100
 description: >-
-  An automated trust-signal check for keramacontract.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  keramacontract.com scores 82/100 on our public trust checks. Established
+  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T02:41:50.118Z'
 finalUrl: 'https://keramacontract.com/'
 reachable: true

@@ -1,10 +1,10 @@
 ---
 domain: paclights.com
 slug: paclights-com
-title: Is paclights.com Legit? Trust Signal Check
+title: Is paclights.com Legit? Trust Score 70/100
 description: >-
-  An automated trust-signal check for paclights.com: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  paclights.com scores 70/100 on our public trust checks. Established domain —
+  registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
 fetchedAt: '2026-06-25T03:19:44.111Z'
 finalUrl: 'https://www.paclights.com/'
 reachable: true

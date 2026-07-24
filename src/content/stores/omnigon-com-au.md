@@ -1,10 +1,10 @@
 ---
 domain: omnigon.com.au
 slug: omnigon-com-au
-title: Is omnigon.com.au Legit? Trust Signal Check
+title: Is omnigon.com.au Legit? Trust Score 83/100
 description: >-
-  An automated trust-signal check for omnigon.com.au: strong trust signals.
-  Domain age, SSL, contact info, reviews and more.
+  omnigon.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
 fetchedAt: '2026-06-25T15:32:51.746Z'
 finalUrl: 'https://www.omnigon.com.au/'
 reachable: true
