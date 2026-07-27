@@ -4,8 +4,8 @@ slug: purpleair-com
 title: Is purpleair.com Legit? Trust Score 88/100
 description: >-
   purpleair.com scores 88/100 on our public trust checks. Established domain —
-  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:53.062Z'
+  registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:05.477Z'
 finalUrl: 'https://www2.purpleair.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 10.7 years ago.
+    - Established domain — registered 10.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2015-09-28'
-      ageDays: 3922
-      ageYears: 10.7
-    detail: Registered 10.7 years ago (2015-09-28).
+      ageDays: 3954
+      ageYears: 10.8
+    detail: Registered 10.8 years ago (2015-09-28).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-purpleair.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+purpleair.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Purpleair in the score above.
 

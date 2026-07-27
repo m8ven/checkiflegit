@@ -4,8 +4,8 @@ slug: skunksoasis-io
 title: Is skunksoasis.io Legit? Trust Score 73/100
 description: >-
   skunksoasis.io scores 73/100 on our public trust checks. Established domain —
-  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:35.972Z'
+  registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:31:53.289Z'
 finalUrl: 'https://skunksoasis.io/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.4 years ago.
+    - Established domain — registered 6.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-01-25'
-      ageDays: 2342
-      ageYears: 6.4
-    detail: Registered 6.4 years ago (2020-01-25).
+      ageDays: 2374
+      ageYears: 6.5
+    detail: Registered 6.5 years ago (2020-01-25).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-skunksoasis.io looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+skunksoasis.io looks like a well-established store. The clearest positives are that its domain has been registered for 6.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Skunksoasis in the score above.
 

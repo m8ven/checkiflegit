@@ -4,8 +4,8 @@ slug: takko-com
 title: Is takko.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   takko.com scores 73/100 on our public trust checks. Established domain —
-  registered 25.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:17.836Z'
+  registered 25.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:26.895Z'
 finalUrl: 'https://www.takko.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 25.2 years ago.
+    - Established domain — registered 25.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 33
+      validTo: '2026-09-25'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-04-04'
-      ageDays: 9212
-      ageYears: 25.2
-    detail: Registered 25.2 years ago (2001-04-04).
+      ageDays: 9244
+      ageYears: 25.3
+    detail: Registered 25.3 years ago (2001-04-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-takko.com looks like a well-established store. The clearest positives are that its domain has been registered for 25.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+takko.com looks like a well-established store. The clearest positives are that its domain has been registered for 25.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Takko in the score above.
 

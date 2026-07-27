@@ -5,7 +5,7 @@ title: Is ivt.tj Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   ivt.tj scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:38:44.171Z'
+fetchedAt: '2026-07-27T08:25:45.732Z'
 finalUrl: 'https://ivt.tj/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: auto-fasteners-com
 title: Is auto-fasteners.com Legit? Trust Score 94/100
 description: >-
   auto-fasteners.com scores 94/100 on our public trust checks. Established
-  domain — registered 18 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:20:03.715Z'
+  domain — registered 18.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:10:57.722Z'
 finalUrl: 'https://auto-fasteners.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18 years ago.
+    - Established domain — registered 18.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-05'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-06-30'
-      ageDays: 6568
-      ageYears: 18
-    detail: Registered 18 years ago (2008-06-30).
+      ageDays: 6600
+      ageYears: 18.1
+    detail: Registered 18.1 years ago (2008-06-30).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-auto-fasteners.com looks like a well-established store. The clearest positives are that its domain has been registered for 18 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+auto-fasteners.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Auto-fasteners in the score above.
 

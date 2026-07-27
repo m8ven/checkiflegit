@@ -1,29 +1,29 @@
 ---
 domain: hotelikdworcowy.pl
 slug: hotelikdworcowy-pl
-title: Is hotelikdworcowy.pl Legit? Trust Score 19/100
+title: Is hotelikdworcowy.pl Legit? Trust Score 61/100
 description: >-
-  hotelikdworcowy.pl scores 19/100 on our public trust checks. Standard contact
-  and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:35:27.897Z'
+  hotelikdworcowy.pl scores 61/100 on our public trust checks. No links to major
+  social platforms found.
+fetchedAt: '2026-07-27T08:23:17.300Z'
 finalUrl: 'https://hotelikdworcowy.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 19
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 4.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
-    - Standard contact and policy pages were not found.
     - No links to major social platforms found.
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,26 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
       contact: false
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-20'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2022-03-16'
+      ageDays: 1593
+      ageYears: 4.4
+    detail: Registered 4.4 years ago (2022-03-16).
   contact:
     status: warn
     value:
@@ -92,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for hotelikdworcowy.pl. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+hotelikdworcowy.pl sends a mixed set of signals. On the positive side, its domain has been registered for 4.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hotelikdworcowy in the score above.
 

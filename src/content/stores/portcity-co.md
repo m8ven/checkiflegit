@@ -5,7 +5,7 @@ title: Is portcity.co Legit? Trust Score 100/100
 description: >-
   portcity.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:41:19.832Z'
+fetchedAt: '2026-07-27T08:27:57.544Z'
 finalUrl: 'https://portcity.co/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-17'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

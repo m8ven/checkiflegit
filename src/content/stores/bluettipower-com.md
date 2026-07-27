@@ -4,9 +4,9 @@ slug: bluettipower-com
 title: Is bluettipower.com Legit? Trust Score 100/100
 description: >-
   bluettipower.com scores 100/100 on our public trust checks. Established domain
-  — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:15.474Z'
-finalUrl: 'https://bluettipower.com/'
+  — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:24.311Z'
+finalUrl: 'https://www.bluettipower.com/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://bluettipower.com/'
+      finalUrl: 'https://www.bluettipower.com/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-07-04'
-      daysToExpiry: 10
+      issuer: Google Trust Services
+      validTo: '2026-10-21'
+      daysToExpiry: 86
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-01-20'
-      ageDays: 1981
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-01-20).
+      ageDays: 2013
+      ageYears: 5.5
+    detail: Registered 5.5 years ago (2021-01-20).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bluettipower.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bluettipower.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bluettipower in the score above.
 

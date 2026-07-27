@@ -4,8 +4,8 @@ slug: denisluzin-com
 title: Is denisluzin.com Legit? Trust Score 76/100
 description: >-
   denisluzin.com scores 76/100 on our public trust checks. Established domain —
-  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:29.053Z'
+  registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:19:14.858Z'
 finalUrl: 'https://denisluzin.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.7 years ago.
+    - Established domain — registered 10.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-09-29'
-      ageDays: 3921
-      ageYears: 10.7
-    detail: Registered 10.7 years ago (2015-09-29).
+      ageDays: 3953
+      ageYears: 10.8
+    detail: Registered 10.8 years ago (2015-09-29).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-denisluzin.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+denisluzin.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Denisluzin in the score above.
 

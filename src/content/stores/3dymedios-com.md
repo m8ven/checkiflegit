@@ -6,7 +6,7 @@ description: >-
   3dymedios.com scores 25/100 on our public trust checks. Standard contact and
   policy pages were not found. No public contact details detected on the
   homepage.
-fetchedAt: '2026-06-25T02:22:21.283Z'
+fetchedAt: '2026-07-27T08:12:31.825Z'
 finalUrl: 'https://3dymedios.com/'
 reachable: true
 noindex: false
@@ -20,7 +20,7 @@ verdict:
   score: 25
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -59,16 +59,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-29'
-      ageDays: 1638
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2021-12-29).
+      ageDays: 1670
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2021-12-29).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for 3dymedios.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 4.5 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for 3dymedios.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 4.6 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 3dymedios in the score above.
 

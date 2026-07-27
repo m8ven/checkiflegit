@@ -5,7 +5,7 @@ title: Is sogo4x4.com Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
   sogo4x4.com scores 94/100 on our public trust checks. Established domain —
   registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:45.219Z'
+fetchedAt: '2026-07-27T08:32:03.115Z'
 finalUrl: 'https://sogo4x4.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Sectigo Limited
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2027-01-23'
+      daysToExpiry: 181
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2020-03-25'
-      ageDays: 2282
+      ageDays: 2314
       ageYears: 6.3
     detail: Registered 6.3 years ago (2020-03-25).
   contact:

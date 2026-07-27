@@ -4,8 +4,8 @@ slug: nendoworld-com
 title: Is nendoworld.com Legit? Trust Score 100/100
 description: >-
   nendoworld.com scores 100/100 on our public trust checks. Established domain —
-  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:18.260Z'
+  registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:29.284Z'
 finalUrl: 'https://nendoworld.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.1 years ago.
+    - Established domain — registered 10.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-04'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-05-08'
-      ageDays: 3699
-      ageYears: 10.1
-    detail: Registered 10.1 years ago (2016-05-08).
+      ageDays: 3731
+      ageYears: 10.2
+    detail: Registered 10.2 years ago (2016-05-08).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      address: false
+    detail: 'Public contact details found: email, phone.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nendoworld.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nendoworld.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nendoworld in the score above.
 

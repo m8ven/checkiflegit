@@ -5,7 +5,7 @@ title: Is brunetticlassico.com.au Legit? Trust Score 100/100
 description: >-
   brunetticlassico.com.au scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:29.545Z'
+fetchedAt: '2026-07-27T08:16:47.494Z'
 finalUrl: 'https://brunetticlassico.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

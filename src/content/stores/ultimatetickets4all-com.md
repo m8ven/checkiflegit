@@ -5,7 +5,7 @@ title: Is ultimatetickets4all.com Legit? Trust Score 70/100
 description: >-
   ultimatetickets4all.com scores 70/100 on our public trust checks. Established
   domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:11.145Z'
+fetchedAt: '2026-07-27T08:35:12.339Z'
 finalUrl: 'https://ultimatetickets4all.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-04-30'
-      ageDays: 2246
+      ageDays: 2278
       ageYears: 6.2
     detail: Registered 6.2 years ago (2020-04-30).
   contact:

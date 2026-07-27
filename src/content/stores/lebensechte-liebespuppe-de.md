@@ -5,7 +5,7 @@ title: Is lebensechte-liebespuppe.de Legit? Trust Score 19/100
 description: >-
   lebensechte-liebespuppe.de scores 19/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:41:45.911Z'
+fetchedAt: '2026-07-27T08:28:19.768Z'
 finalUrl: 'https://lebensechte-liebespuppe.de/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-20'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

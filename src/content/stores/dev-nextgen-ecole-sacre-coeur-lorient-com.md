@@ -5,7 +5,7 @@ title: Is dev-nextgen.ecole-sacre-coeur-lorient.com Legit? Score 61/100
 description: >-
   dev-nextgen.ecole-sacre-coeur-lorient.com scores 61/100 on our public trust
   checks. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:24:43.232Z'
+fetchedAt: '2026-07-27T08:14:12.058Z'
 finalUrl: 'https://dev-nextgen.ecole-sacre-coeur-lorient.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-12'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

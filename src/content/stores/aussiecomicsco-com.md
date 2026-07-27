@@ -4,8 +4,8 @@ slug: aussiecomicsco-com
 title: Is aussiecomicsco.com Legit? Trust Score 88/100
 description: >-
   aussiecomicsco.com scores 88/100 on our public trust checks. Established
-  domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:20:03.411Z'
+  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:10:57.498Z'
 finalUrl: 'https://aussiecomicsco.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.7 years ago.
+    - Established domain — registered 4.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-23'
-      daysToExpiry: 90
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-10-19'
-      ageDays: 1709
-      ageYears: 4.7
-    detail: Registered 4.7 years ago (2021-10-19).
+      ageDays: 1741
+      ageYears: 4.8
+    detail: Registered 4.8 years ago (2021-10-19).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aussiecomicsco.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aussiecomicsco.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aussiecomicsco in the score above.
 

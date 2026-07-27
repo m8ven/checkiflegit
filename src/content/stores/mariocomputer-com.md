@@ -4,8 +4,8 @@ slug: mariocomputer-com
 title: Is mariocomputer.com Legit? Trust Score 100/100
 description: >-
   mariocomputer.com scores 100/100 on our public trust checks. Established
-  domain — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:50:09.497Z'
+  domain — registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:36:10.292Z'
 finalUrl: 'https://mariocomputer.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-11-08'
-      ageDays: 3515
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-11-08).
+      ageDays: 3547
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-08).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mariocomputer.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mariocomputer.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mariocomputer in the score above.
 

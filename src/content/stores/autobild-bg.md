@@ -5,7 +5,7 @@ title: Is autobild.bg Legit? Trust Score 44/100
 description: >-
   autobild.bg scores 44/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:25:48.738Z'
+fetchedAt: '2026-07-27T08:15:07.544Z'
 finalUrl: 'https://autobild.bg/'
 reachable: true
 noindex: false
@@ -48,16 +48,16 @@ signals:
     value:
       contact: false
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: DigiCert Inc
       validTo: '2027-01-14'
-      daysToExpiry: 204
+      daysToExpiry: 172
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

@@ -5,7 +5,7 @@ title: Is akcnezeny.sk Legit? Trust Score 83/100
 description: >-
   akcnezeny.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:42:32.440Z'
+fetchedAt: '2026-07-27T08:28:56.042Z'
 finalUrl: 'https://akcnezeny.sk/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

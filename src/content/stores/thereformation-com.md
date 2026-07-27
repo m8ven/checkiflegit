@@ -1,11 +1,11 @@
 ---
 domain: thereformation.com
 slug: thereformation-com
-title: Is thereformation.com Legit? Trust Score 88/100
+title: Is thereformation.com Legit? Trust Score 70/100
 description: >-
-  thereformation.com scores 88/100 on our public trust checks. Established
-  domain — registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:00.253Z'
+  thereformation.com scores 70/100 on our public trust checks. Established
+  domain — registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:30.214Z'
 finalUrl: 'https://www.thereformation.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 70
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 22.3 years ago.
+    - Established domain — registered 22.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  redFlags:
+    - No public contact details detected on the homepage.
+  cautions: []
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-11-15'
-      daysToExpiry: 145
+      daysToExpiry: 112
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
     status: pass
     value:
       createdAt: '2004-03-10'
-      ageDays: 8141
-      ageYears: 22.3
-    detail: Registered 22.3 years ago (2004-03-10).
+      ageDays: 8173
+      ageYears: 22.4
+    detail: Registered 22.4 years ago (2004-03-10).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thereformation.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thereformation.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thereformation in the score above.
 

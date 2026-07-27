@@ -5,7 +5,7 @@ title: Is bilxtra.is Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   bilxtra.is scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:19:29.430Z'
+fetchedAt: '2026-07-27T08:10:37.412Z'
 finalUrl: 'https://bilxtra.is/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-17'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

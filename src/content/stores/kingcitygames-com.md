@@ -5,7 +5,7 @@ title: Is kingcitygames.com Legit? Trust Score 64/100
 description: >-
   kingcitygames.com scores 64/100 on our public trust checks. Standard contact
   and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:16:56.199Z'
+fetchedAt: '2026-07-27T08:07:59.742Z'
 finalUrl: 'https://kingcitygames.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.3 years ago.
+    - Established domain — registered 3.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-02-28'
-      ageDays: 1212
-      ageYears: 3.3
-    detail: Registered 3.3 years ago (2023-02-28).
+      ageDays: 1245
+      ageYears: 3.4
+    detail: Registered 3.4 years ago (2023-02-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kingcitygames.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.3 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+kingcitygames.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.4 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kingcitygames in the score above.
 

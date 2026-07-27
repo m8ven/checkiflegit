@@ -6,7 +6,7 @@ description: >-
   citrifresc.es scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T02:16:42.252Z'
+fetchedAt: '2026-07-27T08:07:43.223Z'
 finalUrl: 'https://citrifresc.es/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 49
+      validTo: '2026-10-12'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

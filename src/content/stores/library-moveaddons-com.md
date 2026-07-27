@@ -6,7 +6,7 @@ description: >-
   library.moveaddons.com scores 19/100 on our public trust checks. No public
   contact details detected on the homepage. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T02:34:20.601Z'
+fetchedAt: '2026-07-27T08:22:10.739Z'
 finalUrl: 'https://library.moveaddons.com/'
 reachable: true
 noindex: false
@@ -57,8 +57,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

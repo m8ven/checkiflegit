@@ -5,7 +5,7 @@ title: Is bcstore.bcoredisc.com Legit? Trust Score 100/100
 description: >-
   bcstore.bcoredisc.com scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:50:00.640Z'
+fetchedAt: '2026-07-27T08:36:04.259Z'
 finalUrl: 'https://bcstore.bcoredisc.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: GlobalSign nv-sa
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by GlobalSign nv-sa.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

@@ -5,7 +5,7 @@ title: Is heinelt.de Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   heinelt.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:29:57.917Z'
+fetchedAt: '2026-07-27T08:18:49.321Z'
 finalUrl: 'https://heinelt.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-25'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

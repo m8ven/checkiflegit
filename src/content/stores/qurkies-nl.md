@@ -1,11 +1,11 @@
 ---
 domain: qurkies.nl
 slug: qurkies-nl
-title: Is qurkies.nl Legit? Trust Score 82/100 — Trust Checks Pass
+title: Is qurkies.nl Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  qurkies.nl scores 82/100 on our public trust checks. Established domain —
-  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:01.724Z'
+  qurkies.nl scores 94/100 on our public trust checks. Established domain —
+  registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:04.909Z'
 finalUrl: 'https://qurkies.nl/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.8 years ago.
+    - Established domain — registered 8.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
-      terms: false
-      refund: false
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-08-22'
-      ageDays: 3229
-      ageYears: 8.8
-    detail: Registered 8.8 years ago (2017-08-22).
+      ageDays: 3261
+      ageYears: 8.9
+    detail: Registered 8.9 years ago (2017-08-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-qurkies.nl looks like a well-established store. The clearest positives are that its domain has been registered for 8.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+qurkies.nl looks like a well-established store. The clearest positives are that its domain has been registered for 8.9 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Qurkies in the score above.
 

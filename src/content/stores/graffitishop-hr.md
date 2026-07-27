@@ -4,8 +4,8 @@ slug: graffitishop-hr
 title: Is graffitishop.hr Legit? Trust Score 88/100
 description: >-
   graffitishop.hr scores 88/100 on our public trust checks. Established domain —
-  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:51.550Z'
+  registered 8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:23:30.154Z'
 finalUrl: 'https://graffitishop.hr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.9 years ago.
+    - Established domain — registered 8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-01'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-07-19'
-      ageDays: 2897
-      ageYears: 7.9
-    detail: Registered 7.9 years ago (2018-07-19).
+      ageDays: 2929
+      ageYears: 8
+    detail: Registered 8 years ago (2018-07-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-graffitishop.hr looks like a well-established store. The clearest positives are that its domain has been registered for 7.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+graffitishop.hr looks like a well-established store. The clearest positives are that its domain has been registered for 8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Graffitishop in the score above.
 

@@ -4,8 +4,8 @@ slug: manyavar-com
 title: Is manyavar.com Legit? Trust Score 100/100
 description: >-
   manyavar.com scores 100/100 on our public trust checks. Established domain —
-  registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:23.535Z'
+  registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:46.603Z'
 finalUrl: 'https://www.manyavar.com/en-us'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 18.2 years ago.
+    - Established domain — registered 18.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2008-04-23'
-      ageDays: 6636
-      ageYears: 18.2
-    detail: Registered 18.2 years ago (2008-04-23).
+      ageDays: 6668
+      ageYears: 18.3
+    detail: Registered 18.3 years ago (2008-04-23).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-manyavar.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+manyavar.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Manyavar in the score above.
 

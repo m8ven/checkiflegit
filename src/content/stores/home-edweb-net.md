@@ -5,7 +5,7 @@ title: Is home.edweb.net Legit? Trust Score 40/100
 description: >-
   home.edweb.net scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:35:17.428Z'
+fetchedAt: '2026-07-27T08:23:05.131Z'
 finalUrl: 'https://home.edweb.net/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

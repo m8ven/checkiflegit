@@ -4,8 +4,8 @@ slug: momcozy-com
 title: Is momcozy.com Legit? Trust Score 100/100
 description: >-
   momcozy.com scores 100/100 on our public trust checks. Established domain —
-  registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:45.858Z'
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:01.334Z'
 finalUrl: 'https://momcozy.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 8.9 years ago.
+    - Established domain — registered 9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-07-25'
-      ageDays: 3256
-      ageYears: 8.9
-    detail: Registered 8.9 years ago (2017-07-25).
+      ageDays: 3288
+      ageYears: 9
+    detail: Registered 9 years ago (2017-07-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-momcozy.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+momcozy.com looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Momcozy in the score above.
 

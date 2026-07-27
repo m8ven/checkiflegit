@@ -6,7 +6,7 @@ description: >-
   s1.com.tw scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-25T02:43:32.400Z'
+fetchedAt: '2026-07-27T08:29:55.543Z'
 finalUrl: 'https://s1.com.tw/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

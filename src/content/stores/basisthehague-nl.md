@@ -4,8 +4,8 @@ slug: basisthehague-nl
 title: Is basisthehague.nl Legit? Trust Score 70/100
 description: >-
   basisthehague.nl scores 70/100 on our public trust checks. Established domain
-  — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:45.856Z'
+  — registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:50.672Z'
 finalUrl: 'https://basisthehague.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-12-01'
-      ageDays: 3493
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-12-01).
+      ageDays: 3525
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-12-01).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-basisthehague.nl looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+basisthehague.nl looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Basisthehague in the score above.
 

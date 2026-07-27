@@ -5,7 +5,7 @@ title: Is shokz.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   shokz.com scores 100/100 on our public trust checks. Established domain —
   registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:21.902Z'
+fetchedAt: '2026-07-27T08:06:31.505Z'
 finalUrl: 'https://shokz.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-09-27'
-      ageDays: 7939
+      ageDays: 7972
       ageYears: 21.8
     detail: Registered 21.8 years ago (2004-09-27).
   contact:

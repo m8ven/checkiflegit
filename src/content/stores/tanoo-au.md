@@ -6,7 +6,7 @@ description: >-
   tanoo.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-25T02:53:09.401Z'
+fetchedAt: '2026-07-27T08:38:44.688Z'
 finalUrl: 'https://tanoo.au/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-28'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

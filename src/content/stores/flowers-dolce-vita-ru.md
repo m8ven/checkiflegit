@@ -1,11 +1,11 @@
 ---
 domain: flowers-dolce-vita.ru
 slug: flowers-dolce-vita-ru
-title: Is flowers-dolce-vita.ru Legit? Trust Score 82/100
+title: Is flowers-dolce-vita.ru Legit? Trust Score 94/100
 description: >-
-  flowers-dolce-vita.ru scores 82/100 on our public trust checks. Established
+  flowers-dolce-vita.ru scores 94/100 on our public trust checks. Established
   domain — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:13.440Z'
+fetchedAt: '2026-07-27T08:22:05.558Z'
 finalUrl: 'https://flowers-dolce-vita.ru/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Established domain — registered 6.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Only limited contact details were found.
     - Limited social media presence.
 signals:
   http:
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-10-13'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-02-17'
-      ageDays: 2319
+      ageDays: 2351
       ageYears: 6.4
     detail: Registered 6.4 years ago (2020-02-17).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-flowers-dolce-vita.ru looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+flowers-dolce-vita.ru looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Flowers-dolce-vita in the score above.
 

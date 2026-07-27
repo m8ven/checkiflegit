@@ -5,7 +5,7 @@ title: Is africanartworld.com Legit? Trust Score 88/100
 description: >-
   africanartworld.com scores 88/100 on our public trust checks. Established
   domain — registered 24.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:16:30.873Z'
+fetchedAt: '2026-07-27T08:07:31.881Z'
 finalUrl: 'https://www.africanartworld.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-01-15'
-      ageDays: 8926
+      ageDays: 8959
       ageYears: 24.5
     detail: Registered 24.5 years ago (2002-01-15).
   contact:

@@ -5,7 +5,7 @@ title: Is bnkayurveda.com Legit? Trust Score 67/100 — Mixed Signals
 description: >-
   bnkayurveda.com scores 67/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T02:21:19.446Z'
+fetchedAt: '2026-07-27T08:11:43.084Z'
 finalUrl: 'https://bnkayurveda.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-01-14'
-      ageDays: 161
-      ageYears: 0.4
-    detail: Registered 0.4 years ago (2026-01-14).
+      ageDays: 193
+      ageYears: 0.5
+    detail: Registered 0.5 years ago (2026-01-14).
   contact:
     status: pass
     value:

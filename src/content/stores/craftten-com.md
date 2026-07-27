@@ -5,7 +5,7 @@ title: Is craftten.com Legit? Trust Score 82/100
 description: >-
   craftten.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:29:51.821Z'
+fetchedAt: '2026-07-27T08:18:45.431Z'
 finalUrl: 'https://craftten.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-08-02'
-      ageDays: 326
-      ageYears: 0.9
-    detail: Registered 0.9 years ago (2025-08-02).
+      ageDays: 358
+      ageYears: 1
+    detail: Registered 1 years ago (2025-08-02).
   contact:
     status: pass
     value:

@@ -1,30 +1,30 @@
 ---
 domain: stampwithtammy.com
 slug: stampwithtammy-com
-title: Is stampwithtammy.com Legit? Trust Score 76/100
+title: Is stampwithtammy.com Legit? Trust Score 58/100
 description: >-
-  stampwithtammy.com scores 76/100 on our public trust checks. Established
-  domain — registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:16.028Z'
+  stampwithtammy.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
+fetchedAt: '2026-07-27T08:32:39.059Z'
 finalUrl: 'https://stampwithtammy.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 76
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.4 years ago.
+    - Established domain — registered 22.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No public contact details detected on the homepage.
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-02-13'
-      ageDays: 8168
-      ageYears: 22.4
-    detail: Registered 22.4 years ago (2004-02-13).
+      ageDays: 8200
+      ageYears: 22.5
+    detail: Registered 22.5 years ago (2004-02-13).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
       phone: false
-      address: true
-    detail: 'Public contact details found: address.'
+      address: false
+    detail: No public contact details detected on the homepage.
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-stampwithtammy.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+stampwithtammy.com sends a mixed set of signals. On the positive side, its domain has been registered for 22.5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Stampwithtammy in the score above.
 

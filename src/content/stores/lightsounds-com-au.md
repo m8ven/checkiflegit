@@ -5,7 +5,7 @@ title: Is lightsounds.com.au Legit? Trust Score 83/100
 description: >-
   lightsounds.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:34:33.015Z'
+fetchedAt: '2026-07-27T08:22:20.729Z'
 finalUrl: 'https://lightsounds.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 75
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

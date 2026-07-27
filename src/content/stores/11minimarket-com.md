@@ -4,8 +4,8 @@ slug: 11minimarket-com
 title: Is 11minimarket.com Legit? Trust Score 70/100
 description: >-
   11minimarket.com scores 70/100 on our public trust checks. Established domain
-  — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:08.100Z'
+  — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:21.249Z'
 finalUrl: 'https://11minimarket.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.3 years ago.
+    - Established domain — registered 5.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-03-08'
-      ageDays: 1934
-      ageYears: 5.3
-    detail: Registered 5.3 years ago (2021-03-08).
+      ageDays: 1967
+      ageYears: 5.4
+    detail: Registered 5.4 years ago (2021-03-08).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-11minimarket.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+11minimarket.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 11minimarket in the score above.
 

@@ -3,9 +3,9 @@ domain: livrariaultramarina.pt
 slug: livrariaultramarina-pt
 title: Is livrariaultramarina.pt Legit? Trust Score 100/100
 description: >-
-  livrariaultramarina.pt scores 100/100 on our public trust checks. Established
-  domain — registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:42:22.005Z'
+  livrariaultramarina.pt scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:28:49.001Z'
 finalUrl: 'https://livrariaultramarina.pt/'
 reachable: true
 noindex: false
@@ -18,7 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +48,21 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2014-09-01'
-      ageDays: 4314
-      ageYears: 11.8
-    detail: Registered 11.8 years ago (2014-09-01).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-livrariaultramarina.pt looks like a well-established store. The clearest positives are that its domain has been registered for 11.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+livrariaultramarina.pt looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Livrariaultramarina in the score above.
 

@@ -4,8 +4,8 @@ slug: chinabeautylighting-com
 title: Is chinabeautylighting.com Legit? Trust Score 88/100
 description: >-
   chinabeautylighting.com scores 88/100 on our public trust checks. Established
-  domain — registered 17.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:49.908Z'
+  domain — registered 17.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:09.018Z'
 finalUrl: 'https://chinabeautylighting.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.8 years ago.
+    - Established domain — registered 17.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2008-08-25'
-      ageDays: 6512
-      ageYears: 17.8
-    detail: Registered 17.8 years ago (2008-08-25).
+      ageDays: 6544
+      ageYears: 17.9
+    detail: Registered 17.9 years ago (2008-08-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-chinabeautylighting.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+chinabeautylighting.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Chinabeautylighting in the score above.
 

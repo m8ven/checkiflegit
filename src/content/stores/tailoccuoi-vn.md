@@ -1,28 +1,27 @@
 ---
 domain: tailoccuoi.vn
 slug: tailoccuoi-vn
-title: Is tailoccuoi.vn Legit? Trust Score 40/100
+title: Is tailoccuoi.vn Legit? Trust Score 83/100
 description: >-
-  tailoccuoi.vn scores 40/100 on our public trust checks. Standard contact and
-  policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:47:00.348Z'
+  tailoccuoi.vn scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-07-27T08:33:23.685Z'
 finalUrl: 'https://tailoccuoi.vn/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 40
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 83
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
     - Only limited contact details were found.
 signals:
@@ -44,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
-      terms: false
+      contact: true
+      privacy: true
+      terms: true
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -94,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for tailoccuoi.vn. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+tailoccuoi.vn looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tailoccuoi in the score above.
 

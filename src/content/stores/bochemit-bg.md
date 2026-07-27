@@ -5,7 +5,7 @@ title: Is bochemit.bg Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   bochemit.bg scores 57/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:19:52.250Z'
+fetchedAt: '2026-07-27T08:10:48.292Z'
 finalUrl: 'https://bochemit.bg/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

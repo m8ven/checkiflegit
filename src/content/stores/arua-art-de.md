@@ -5,7 +5,7 @@ title: Is arua-art.de Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   arua-art.de scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T02:19:44.044Z'
+fetchedAt: '2026-07-27T08:10:45.585Z'
 finalUrl: 'https://arua-art.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

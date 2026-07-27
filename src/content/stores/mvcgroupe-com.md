@@ -1,11 +1,11 @@
 ---
 domain: mvcgroupe.com
 slug: mvcgroupe-com
-title: Is mvcgroupe.com Legit? Trust Score 46/100 — Mixed Signals
+title: Is mvcgroupe.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  mvcgroupe.com scores 46/100 on our public trust checks. No valid SSL
+  mvcgroupe.com scores 58/100 on our public trust checks. No valid SSL
   certificate — connection may not be secure.
-fetchedAt: '2026-06-25T02:20:40.408Z'
+fetchedAt: '2026-07-27T08:11:22.706Z'
 finalUrl: 'http://mvcgroupe.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 46
+  score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.8 years ago.
+    - Established domain — registered 8.9 years ago.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags:
     - No valid SSL certificate — connection may not be secure.
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: fail
     value: null
     detail: >
-      TLS connection failed: 801EB1EC01000000:error:0A000438:SSL
+      TLS connection failed: 804C6C8A7E7F0000:error:0A000438:SSL
       routines:ssl3_read_bytes:tlsv1 alert internal
-      error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert
+      error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1601:SSL alert
       number 80
   domainAge:
     status: pass
     value:
       createdAt: '2017-08-28'
-      ageDays: 3222
-      ageYears: 8.8
-    detail: Registered 8.8 years ago (2017-08-28).
+      ageDays: 3254
+      ageYears: 8.9
+    detail: Registered 8.9 years ago (2017-08-28).
   contact:
-    status: warn
+    status: pass
     value:
       email: true
       phone: false
-      address: false
-    detail: 'Public contact details found: email.'
+      address: true
+    detail: 'Public contact details found: email, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mvcgroupe.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.8 years and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+mvcgroupe.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.9 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and it does not present a valid security certificate — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mvcgroupe in the score above.
 

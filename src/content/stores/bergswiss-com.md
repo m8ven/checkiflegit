@@ -6,7 +6,7 @@ description: >-
   bergswiss.com scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T02:19:14.995Z'
+fetchedAt: '2026-07-27T08:10:28.394Z'
 finalUrl: 'https://bergswiss.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.4 years ago.
+    - Established domain — registered 12.5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -48,26 +48,26 @@ signals:
     status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-23'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-01-27'
-      ageDays: 4531
-      ageYears: 12.4
-    detail: Registered 12.4 years ago (2014-01-27).
+      ageDays: 4563
+      ageYears: 12.5
+    detail: Registered 12.5 years ago (2014-01-27).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bergswiss.com sends a mixed set of signals. On the positive side, its domain has been registered for 12.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+bergswiss.com sends a mixed set of signals. On the positive side, its domain has been registered for 12.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bergswiss in the score above.
 

@@ -4,8 +4,8 @@ slug: meater-com
 title: Is meater.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   meater.com scores 70/100 on our public trust checks. Established domain —
-  registered 15.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:56.089Z'
+  registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:25.812Z'
 finalUrl: 'https://meater.com/'
 reachable: true
 noindex: false
@@ -17,8 +17,7 @@ verdict:
     secure payment methods when shopping online.
   score: 70
   greenFlags:
-    - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 15.6 years ago.
+    - Established domain — registered 15.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://meater.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: Shopify
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: false
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on Shopify, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -57,16 +56,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-11-17'
-      ageDays: 5698
-      ageYears: 15.6
-    detail: Registered 15.6 years ago (2010-11-17).
+      ageDays: 5730
+      ageYears: 15.7
+    detail: Registered 15.7 years ago (2010-11-17).
   contact:
     status: fail
     value:
@@ -97,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-meater.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+meater.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Meater in the score above.
 

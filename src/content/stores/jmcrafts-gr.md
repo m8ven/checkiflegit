@@ -5,7 +5,7 @@ title: Is jmcrafts.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   jmcrafts.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:39:46.599Z'
+fetchedAt: '2026-07-27T08:26:41.289Z'
 finalUrl: 'https://jmcrafts.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

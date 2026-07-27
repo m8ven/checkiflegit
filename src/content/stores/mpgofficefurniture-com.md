@@ -4,8 +4,8 @@ slug: mpgofficefurniture-com
 title: Is mpgofficefurniture.com Legit? Trust Score 100/100
 description: >-
   mpgofficefurniture.com scores 100/100 on our public trust checks. Established
-  domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:57.028Z'
+  domain — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:31:21.423Z'
 finalUrl: 'https://mpgofficefurniture.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.3 years ago.
+    - Established domain — registered 5.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-03'
-      daysToExpiry: 71
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-03-12'
-      ageDays: 1930
-      ageYears: 5.3
-    detail: Registered 5.3 years ago (2021-03-12).
+      ageDays: 1962
+      ageYears: 5.4
+    detail: Registered 5.4 years ago (2021-03-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mpgofficefurniture.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mpgofficefurniture.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mpgofficefurniture in the score above.
 

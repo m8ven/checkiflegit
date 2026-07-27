@@ -5,7 +5,7 @@ title: Is divergentcoaching.com.au Legit? Trust Score 19/100
 description: >-
   divergentcoaching.com.au scores 19/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:25:11.650Z'
+fetchedAt: '2026-07-27T08:14:39.575Z'
 finalUrl: 'https://divergentcoaching.com.au/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 30
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

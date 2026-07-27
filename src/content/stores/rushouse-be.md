@@ -4,8 +4,8 @@ slug: rushouse-be
 title: Is rushouse.be Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   rushouse.be scores 88/100 on our public trust checks. Established domain —
-  registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:43:29.523Z'
+  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:29:49.215Z'
 finalUrl: 'https://rushouse.be/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.3 years ago.
+    - Established domain — registered 5.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-03-12'
-      ageDays: 1930
-      ageYears: 5.3
-    detail: Registered 5.3 years ago (2021-03-12).
+      ageDays: 1963
+      ageYears: 5.4
+    detail: Registered 5.4 years ago (2021-03-12).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rushouse.be looks like a well-established store. The clearest positives are that its domain has been registered for 5.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+rushouse.be looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rushouse in the score above.
 

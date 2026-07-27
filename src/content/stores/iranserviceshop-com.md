@@ -5,7 +5,7 @@ title: Is iranserviceshop.com Legit? Trust Score 88/100
 description: >-
   iranserviceshop.com scores 88/100 on our public trust checks. Established
   domain — registered 7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:58.164Z'
+fetchedAt: '2026-07-27T08:19:42.907Z'
 finalUrl: 'https://iranserviceshop.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-08-17'
+      daysToExpiry: 22
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-07-11'
-      ageDays: 2540
+      ageDays: 2573
       ageYears: 7
     detail: Registered 7 years ago (2019-07-11).
   contact:
@@ -78,13 +78,13 @@ signals:
     status: pass
     value:
       facebook: false
-      instagram: true
+      instagram: false
       twitter: true
       tiktok: false
-      youtube: true
+      youtube: false
       linkedin: false
       pinterest: true
-    detail: 'Links to 4 social platform(s): instagram, twitter, youtube, pinterest.'
+    detail: 'Links to 2 social platform(s): twitter, pinterest.'
   reviews:
     status: unknown
     value:

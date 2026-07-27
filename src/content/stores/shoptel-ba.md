@@ -5,7 +5,7 @@ title: Is shoptel.ba Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   shoptel.ba scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:51:20.585Z'
+fetchedAt: '2026-07-27T08:37:10.943Z'
 finalUrl: 'https://shoptel.ba/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

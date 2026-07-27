@@ -1,29 +1,30 @@
 ---
 domain: sharjahclub.ae
 slug: sharjahclub-ae
-title: Is sharjahclub.ae Legit? Trust Score 83/100
+title: Is sharjahclub.ae Legit? Trust Score 0/100
 description: >-
-  sharjahclub.ae scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T02:50:57.557Z'
+  sharjahclub.ae scores 0/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
+fetchedAt: '2026-07-27T08:36:42.033Z'
 finalUrl: 'https://sharjahclub.ae/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 83
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 0
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  redFlags:
+    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -32,55 +33,55 @@ signals:
       finalUrl: 'https://sharjahclub.ae/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: pass
+    status: fail
     value:
-      contact: true
-      privacy: true
-      terms: true
+      contact: false
+      privacy: false
+      terms: false
       refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-08-19'
-      daysToExpiry: 55
+      issuer: Let's Encrypt
+      validTo: '2026-10-01'
+      daysToExpiry: 67
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
-      youtube: true
-      linkedin: true
+      youtube: false
+      linkedin: false
       pinterest: false
-    detail: 'Links to 4 social platform(s): facebook, instagram, youtube, linkedin.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -91,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sharjahclub.ae looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for sharjahclub.ae. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sharjahclub in the score above.
 

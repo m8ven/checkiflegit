@@ -5,7 +5,7 @@ title: Is shop.sillex.de Legit? Trust Score 83/100
 description: >-
   shop.sillex.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:51:13.394Z'
+fetchedAt: '2026-07-27T08:36:59.958Z'
 finalUrl: 'https://shop.sillex.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

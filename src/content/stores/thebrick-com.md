@@ -4,8 +4,8 @@ slug: thebrick-com
 title: Is thebrick.com Legit? Trust Score 100/100
 description: >-
   thebrick.com scores 100/100 on our public trust checks. Established domain —
-  registered 30.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:17.441Z'
+  registered 30.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:26.720Z'
 finalUrl: 'https://www.thebrick.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 30.7 years ago.
+    - Established domain — registered 30.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1995-11-03'
-      ageDays: 11191
-      ageYears: 30.7
-    detail: Registered 30.7 years ago (1995-11-03).
+      ageDays: 11224
+      ageYears: 30.8
+    detail: Registered 30.8 years ago (1995-11-03).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thebrick.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thebrick.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thebrick in the score above.
 

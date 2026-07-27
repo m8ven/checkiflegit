@@ -5,7 +5,7 @@ title: Is shop.platowgeschenke.website Legit? Trust Score 67/100
 description: >-
   shop.platowgeschenke.website scores 67/100 on our public trust checks. No
   links to major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T02:45:14.573Z'
+fetchedAt: '2026-07-27T08:31:33.213Z'
 finalUrl: 'https://shop.platowgeschenke.website/'
 reachable: true
 noindex: false
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: true
+      refund: false
       shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-02-05'
-      ageDays: 139
-      ageYears: 0.4
-    detail: Registered 0.4 years ago (2026-02-05).
+      ageDays: 171
+      ageYears: 0.5
+    detail: Registered 0.5 years ago (2026-02-05).
   contact:
     status: pass
     value:

@@ -1,11 +1,11 @@
 ---
 domain: pcrichard.com
 slug: pcrichard-com
-title: Is pcrichard.com Legit? Trust Score 100/100
+title: Is pcrichard.com Legit? Trust Score 88/100
 description: >-
-  pcrichard.com scores 100/100 on our public trust checks. Established domain —
-  registered 29.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:32.716Z'
+  pcrichard.com scores 88/100 on our public trust checks. Established domain —
+  registered 30 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:51.986Z'
 finalUrl: 'https://www.pcrichard.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 29.9 years ago.
+    - Established domain — registered 30 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -38,7 +38,7 @@ signals:
       platform: Salesforce Commerce
       isStore: true
       markers:
-        hasAddToCart: false
+        hasAddToCart: true
         hasCartLink: true
         hasCatalog: false
         hasCartFlow: false
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-12-19'
-      daysToExpiry: 179
+      daysToExpiry: 146
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1996-08-05'
-      ageDays: 10915
-      ageYears: 29.9
-    detail: Registered 29.9 years ago (1996-08-05).
+      ageDays: 10948
+      ageYears: 30
+    detail: Registered 30 years ago (1996-08-05).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pcrichard.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pcrichard.com looks like a well-established store. The clearest positives are that its domain has been registered for 30 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pcrichard in the score above.
 

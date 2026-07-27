@@ -5,7 +5,7 @@ title: Is mardigrasspot.shop Legit? Trust Score 100/100
 description: >-
   mardigrasspot.shop scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:50:04.477Z'
+fetchedAt: '2026-07-27T08:36:07.041Z'
 finalUrl: 'https://mardigrasspot.shop/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-14'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

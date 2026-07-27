@@ -4,8 +4,8 @@ slug: byczewski-com
 title: Is byczewski.com Legit? Trust Score 94/100
 description: >-
   byczewski.com scores 94/100 on our public trust checks. Established domain —
-  registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:53.152Z'
+  registered 22.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:10.588Z'
 finalUrl: 'https://byczewski.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.1 years ago.
+    - Established domain — registered 22.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: nazwa.pl Sp. z o.o.
       validTo: '2026-11-10'
-      daysToExpiry: 138
+      daysToExpiry: 106
       authorized: true
     detail: Valid certificate issued by nazwa.pl Sp. z o.o..
   domainAge:
     status: pass
     value:
       createdAt: '2004-05-26'
-      ageDays: 8064
-      ageYears: 22.1
-    detail: Registered 22.1 years ago (2004-05-26).
+      ageDays: 8096
+      ageYears: 22.2
+    detail: Registered 22.2 years ago (2004-05-26).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-byczewski.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+byczewski.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.2 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Byczewski in the score above.
 

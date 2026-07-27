@@ -5,7 +5,7 @@ title: Is featnetworks.com.br Legit? Trust Score 57/100
 description: >-
   featnetworks.com.br scores 57/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:28:53.834Z'
+fetchedAt: '2026-07-27T08:17:50.923Z'
 finalUrl: 'https://featnetworks.com.br/'
 reachable: true
 noindex: false
@@ -45,18 +45,18 @@ signals:
   pages:
     status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-06'
-      daysToExpiry: 42
+      validTo: '2026-10-04'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

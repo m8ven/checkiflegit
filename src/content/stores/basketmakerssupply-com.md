@@ -4,8 +4,8 @@ slug: basketmakerssupply-com
 title: Is basketmakerssupply.com Legit? Trust Score 100/100
 description: >-
   basketmakerssupply.com scores 100/100 on our public trust checks. Established
-  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:45.952Z'
+  domain — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:51.610Z'
 finalUrl: 'https://basketmakerssupply.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 2.6 years ago.
+    - Established domain — registered 2.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-11-03'
-      ageDays: 965
-      ageYears: 2.6
-    detail: Registered 2.6 years ago (2023-11-03).
+      ageDays: 997
+      ageYears: 2.7
+    detail: Registered 2.7 years ago (2023-11-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-basketmakerssupply.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+basketmakerssupply.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Basketmakerssupply in the score above.
 

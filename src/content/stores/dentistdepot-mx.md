@@ -5,7 +5,7 @@ title: Is dentistdepot.mx Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   dentistdepot.mx scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:24:51.100Z'
+fetchedAt: '2026-07-27T08:14:19.510Z'
 finalUrl: 'https://dentistdepot.mx/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-09-24'
-      ageDays: 3561
+      ageDays: 3593
       ageYears: 9.8
     detail: Registered 9.8 years ago (2016-09-24).
   contact:

@@ -5,7 +5,7 @@ title: Is 5d-mission.earth Legit? Trust Score 70/100
 description: >-
   5d-mission.earth scores 70/100 on our public trust checks. Established domain
   — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:32.366Z'
+fetchedAt: '2026-07-27T08:12:36.113Z'
 finalUrl: 'https://5d-mission.earth/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 52
+      validTo: '2026-10-16'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-04-28'
-      ageDays: 1153
+      ageDays: 1185
       ageYears: 3.2
     detail: Registered 3.2 years ago (2023-04-28).
   contact:

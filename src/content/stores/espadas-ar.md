@@ -5,7 +5,7 @@ title: Is espadas.ar Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   espadas.ar scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:32:49.515Z'
+fetchedAt: '2026-07-27T08:21:10.914Z'
 finalUrl: 'https://espadas.ar/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-04'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

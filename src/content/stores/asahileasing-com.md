@@ -4,8 +4,8 @@ slug: asahileasing-com
 title: Is asahileasing.com Legit? Trust Score 73/100
 description: >-
   asahileasing.com scores 73/100 on our public trust checks. Established domain
-  — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:08.575Z'
+  — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:09:07.117Z'
 finalUrl: 'https://asahileasing.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.6 years ago.
+    - Established domain — registered 2.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-11-02'
-      ageDays: 965
-      ageYears: 2.6
-    detail: Registered 2.6 years ago (2023-11-02).
+      ageDays: 998
+      ageYears: 2.7
+    detail: Registered 2.7 years ago (2023-11-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-asahileasing.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+asahileasing.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Asahileasing in the score above.
 

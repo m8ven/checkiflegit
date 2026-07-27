@@ -1,11 +1,11 @@
 ---
 domain: kamixa.se
 slug: kamixa-se
-title: Is kamixa.se Legit? Trust Score 88/100 — Trust Checks Pass
+title: Is kamixa.se Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  kamixa.se scores 88/100 on our public trust checks. Established domain —
-  registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:32:00.875Z'
+  kamixa.se scores 70/100 on our public trust checks. Established domain —
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:20:28.199Z'
 finalUrl: 'https://kamixa.se/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.1 years ago.
+    - Established domain — registered 11.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  redFlags:
+    - Standard contact and policy pages were not found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-05-13'
-      ageDays: 4061
-      ageYears: 11.1
-    detail: Registered 11.1 years ago (2015-05-13).
+      ageDays: 4093
+      ageYears: 11.2
+    detail: Registered 11.2 years ago (2015-05-13).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kamixa.se looks like a well-established store. The clearest positives are that its domain has been registered for 11.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kamixa.se looks like a well-established store. The clearest positives are that its domain has been registered for 11.2 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kamixa in the score above.
 

@@ -4,8 +4,8 @@ slug: fenixmedica-ru
 title: Is fenixmedica.ru Legit? Trust Score 82/100
 description: >-
   fenixmedica.ru scores 82/100 on our public trust checks. Established domain —
-  registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:29.215Z'
+  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:43.333Z'
 finalUrl: 'https://fenixmedica.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.7 years ago.
+    - Established domain — registered 4.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: GlobalSign nv-sa
       validTo: '2026-12-19'
-      daysToExpiry: 178
+      daysToExpiry: 145
       authorized: true
     detail: Valid certificate issued by GlobalSign nv-sa.
   domainAge:
     status: pass
     value:
       createdAt: '2021-10-04'
-      ageDays: 1724
-      ageYears: 4.7
-    detail: Registered 4.7 years ago (2021-10-04).
+      ageDays: 1756
+      ageYears: 4.8
+    detail: Registered 4.8 years ago (2021-10-04).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fenixmedica.ru looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fenixmedica.ru looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fenixmedica in the score above.
 

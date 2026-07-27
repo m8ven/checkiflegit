@@ -5,7 +5,7 @@ title: Is somdase.pt Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   somdase.pt scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:51:49.468Z'
+fetchedAt: '2026-07-27T08:37:32.965Z'
 finalUrl: 'https://somdase.pt/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

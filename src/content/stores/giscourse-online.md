@@ -4,8 +4,8 @@ slug: giscourse-online
 title: Is giscourse.online Legit? Trust Score 88/100
 description: >-
   giscourse.online scores 88/100 on our public trust checks. Established domain
-  — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:31:49.577Z'
+  — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:20:18.645Z'
 finalUrl: 'https://giscourse.online/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-11-27'
-      ageDays: 2036
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-11-27).
+      ageDays: 2068
+      ageYears: 5.7
+    detail: Registered 5.7 years ago (2020-11-27).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-giscourse.online looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+giscourse.online looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Giscourse in the score above.
 

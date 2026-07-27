@@ -5,7 +5,7 @@ title: Is fr.ragt-new.com Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   fr.ragt-new.com scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:28:10.293Z'
+fetchedAt: '2026-07-27T08:17:18.773Z'
 finalUrl: 'https://fr.ragt-new.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

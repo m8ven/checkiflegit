@@ -4,8 +4,8 @@ slug: hnanavet-com
 title: Is hnanavet.com Legit? Trust Score 73/100
 description: >-
   hnanavet.com scores 73/100 on our public trust checks. Established domain —
-  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:02.844Z'
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:53.588Z'
 finalUrl: 'https://hnanavet.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.9 years ago.
+    - Established domain — registered 3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -47,26 +47,26 @@ signals:
     status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: false
-      refund: false
+      refund: true
       shipping: false
     detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-24'
-      ageDays: 1066
-      ageYears: 2.9
-    detail: Registered 2.9 years ago (2023-07-24).
+      ageDays: 1098
+      ageYears: 3
+    detail: Registered 3 years ago (2023-07-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hnanavet.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hnanavet.com looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hnanavet in the score above.
 

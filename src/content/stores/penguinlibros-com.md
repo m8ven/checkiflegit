@@ -4,8 +4,8 @@ slug: penguinlibros-com
 title: Is penguinlibros.com Legit? Trust Score 100/100
 description: >-
   penguinlibros.com scores 100/100 on our public trust checks. Established
-  domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:38.054Z'
+  domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:56.750Z'
 finalUrl: 'https://www.penguinlibros.com/es/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on PrestaShop, an established e-commerce platform.'
-    - Established domain — registered 6.1 years ago.
+    - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-10-10'
-      daysToExpiry: 108
+      daysToExpiry: 76
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2020-05-14'
-      ageDays: 2232
-      ageYears: 6.1
-    detail: Registered 6.1 years ago (2020-05-14).
+      ageDays: 2264
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-05-14).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-penguinlibros.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+penguinlibros.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Penguinlibros in the score above.
 

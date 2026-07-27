@@ -5,7 +5,7 @@ title: Is testbankhub.net Legit? Trust Score 70/100
 description: >-
   testbankhub.net scores 70/100 on our public trust checks. Established domain —
   registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:30.387Z'
+fetchedAt: '2026-07-27T08:33:57.902Z'
 finalUrl: 'https://testbankhub.net/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 78
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-08-16'
-      ageDays: 677
+      ageDays: 710
       ageYears: 1.9
     detail: Registered 1.9 years ago (2024-08-16).
   contact:

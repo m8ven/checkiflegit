@@ -4,8 +4,8 @@ slug: associationdescadres-ca
 title: Is associationdescadres.ca Legit? Trust Score 88/100
 description: >-
   associationdescadres.ca scores 88/100 on our public trust checks. Established
-  domain — registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:19:51.750Z'
+  domain — registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:10:47.939Z'
 finalUrl: 'https://associationdescadres.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.6 years ago.
+    - Established domain — registered 12.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-11-12'
-      ageDays: 4607
-      ageYears: 12.6
-    detail: Registered 12.6 years ago (2013-11-12).
+      ageDays: 4639
+      ageYears: 12.7
+    detail: Registered 12.7 years ago (2013-11-12).
   contact:
     status: warn
     value:
@@ -78,13 +78,13 @@ signals:
     status: pass
     value:
       facebook: true
-      instagram: false
+      instagram: true
       twitter: false
       tiktok: false
       youtube: true
       linkedin: true
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, youtube, linkedin.'
+    detail: 'Links to 4 social platform(s): facebook, instagram, youtube, linkedin.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-associationdescadres.ca looks like a well-established store. The clearest positives are that its domain has been registered for 12.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+associationdescadres.ca looks like a well-established store. The clearest positives are that its domain has been registered for 12.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Associationdescadres in the score above.
 

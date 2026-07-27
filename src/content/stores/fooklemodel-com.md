@@ -4,8 +4,8 @@ slug: fooklemodel-com
 title: Is fooklemodel.com Legit? Trust Score 76/100
 description: >-
   fooklemodel.com scores 76/100 on our public trust checks. Established domain —
-  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:20.504Z'
+  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:10.738Z'
 finalUrl: 'https://fooklemodel.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Amazon
       validTo: '2027-01-14'
-      daysToExpiry: 204
+      daysToExpiry: 172
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
     status: pass
     value:
       createdAt: '2021-02-05'
-      ageDays: 1965
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-02-05).
+      ageDays: 1997
+      ageYears: 5.5
+    detail: Registered 5.5 years ago (2021-02-05).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fooklemodel.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fooklemodel.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fooklemodel in the score above.
 

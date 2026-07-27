@@ -5,7 +5,7 @@ title: Is ffwroethenbach.de Legit? Trust Score 66/100
 description: >-
   ffwroethenbach.de scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:33:48.920Z'
+fetchedAt: '2026-07-27T08:21:43.138Z'
 finalUrl: 'https://ffwroethenbach.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-14'
-      daysToExpiry: 112
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

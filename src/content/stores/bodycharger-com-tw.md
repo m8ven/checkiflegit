@@ -5,7 +5,7 @@ title: Is bodycharger.com.tw Legit? Trust Score 74/100
 description: >-
   bodycharger.com.tw scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:21:24.243Z'
+fetchedAt: '2026-07-27T08:11:47.815Z'
 finalUrl: 'https://bodycharger.com.tw/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is sautom.sk Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   sautom.sk scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:44:02.961Z'
+fetchedAt: '2026-07-27T08:30:33.044Z'
 finalUrl: 'https://sautom.sk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-17'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

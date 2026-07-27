@@ -5,7 +5,7 @@ title: Is cake-artist.de Legit? Trust Score 100/100
 description: >-
   cake-artist.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:27:58.586Z'
+fetchedAt: '2026-07-27T08:17:07.427Z'
 finalUrl: 'https://cake-artist.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-23'
-      daysToExpiry: 182
+      daysToExpiry: 150
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

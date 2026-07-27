@@ -1,31 +1,30 @@
 ---
 domain: havinh.com
 slug: havinh-com
-title: Is havinh.com Legit? Trust Score 37/100
+title: Is havinh.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  havinh.com scores 37/100 on our public trust checks. Standard contact and
-  policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:29:50.997Z'
+  havinh.com scores 55/100 on our public trust checks. No links to major social
+  platforms found. Domain is relatively young.
+fetchedAt: '2026-07-27T08:18:44.006Z'
 finalUrl: 'https://havinh.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 37
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
-    - Standard contact and policy pages were not found.
     - No links to major social platforms found.
   cautions:
     - Domain is relatively young.
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -45,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
       contact: false
-      privacy: false
+      privacy: true
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-03-04'
-      ageDays: 112
-      ageYears: 0.3
-    detail: Registered 0.3 years ago (2026-03-04).
+      ageDays: 145
+      ageYears: 0.4
+    detail: Registered 0.4 years ago (2026-03-04).
   contact:
     status: pass
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for havinh.com. In particular, the domain is still relatively young and we could not find the usual contact and policy pages. It does have some positives — it lists genuine business contact details and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+havinh.com sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Havinh in the score above.
 

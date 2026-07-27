@@ -4,8 +4,8 @@ slug: ebmg-com
 title: Is ebmg.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   ebmg.com scores 100/100 on our public trust checks. Established domain —
-  registered 28.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:15.864Z'
+  registered 29 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:15:29.819Z'
 finalUrl: 'https://ebmg.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.9 years ago.
+    - Established domain — registered 29 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1997-07-22'
-      ageDays: 10564
-      ageYears: 28.9
-    detail: Registered 28.9 years ago (1997-07-22).
+      ageDays: 10597
+      ageYears: 29
+    detail: Registered 29 years ago (1997-07-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ebmg.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ebmg.com looks like a well-established store. The clearest positives are that its domain has been registered for 29 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ebmg in the score above.
 

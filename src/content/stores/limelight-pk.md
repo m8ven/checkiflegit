@@ -4,8 +4,8 @@ slug: limelight-pk
 title: Is limelight.pk Legit? Trust Score 100/100
 description: >-
   limelight.pk scores 100/100 on our public trust checks. Established domain —
-  registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:33.931Z'
+  registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:16.280Z'
 finalUrl: 'https://www.limelight.pk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 12.7 years ago.
+    - Established domain — registered 12.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-10-11'
-      ageDays: 4639
-      ageYears: 12.7
-    detail: Registered 12.7 years ago (2013-10-11).
+      ageDays: 4672
+      ageYears: 12.8
+    detail: Registered 12.8 years ago (2013-10-11).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-limelight.pk looks like a well-established store. The clearest positives are that its domain has been registered for 12.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+limelight.pk looks like a well-established store. The clearest positives are that its domain has been registered for 12.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Limelight in the score above.
 

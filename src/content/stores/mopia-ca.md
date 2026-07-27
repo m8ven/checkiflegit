@@ -4,8 +4,8 @@ slug: mopia-ca
 title: Is mopia.ca Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   mopia.ca scores 100/100 on our public trust checks. Established domain —
-  registered 24.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:50.414Z'
+  registered 24.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:31:19.936Z'
 finalUrl: 'https://mopia.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.2 years ago.
+    - Established domain — registered 24.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -40,7 +40,7 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: false
+        hasCatalog: true
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-04-16'
-      ageDays: 8835
-      ageYears: 24.2
-    detail: Registered 24.2 years ago (2002-04-16).
+      ageDays: 8867
+      ageYears: 24.3
+    detail: Registered 24.3 years ago (2002-04-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mopia.ca looks like a well-established store. The clearest positives are that its domain has been registered for 24.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mopia.ca looks like a well-established store. The clearest positives are that its domain has been registered for 24.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mopia in the score above.
 

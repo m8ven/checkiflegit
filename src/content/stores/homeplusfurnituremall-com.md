@@ -4,9 +4,9 @@ slug: homeplusfurnituremall-com
 title: Is homeplusfurnituremall.com Legit? Trust Score 100/100
 description: >-
   homeplusfurnituremall.com scores 100/100 on our public trust checks.
-  Established domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:35:20.353Z'
+fetchedAt: '2026-07-27T08:23:06.896Z'
 finalUrl: 'https://homeplusfurnituremall.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.1 years ago.
+    - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-05-06'
-      ageDays: 2240
-      ageYears: 6.1
-    detail: Registered 6.1 years ago (2020-05-06).
+      ageDays: 2273
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-05-06).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-homeplusfurnituremall.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+homeplusfurnituremall.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Homeplusfurnituremall in the score above.
 

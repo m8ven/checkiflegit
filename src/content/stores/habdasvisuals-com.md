@@ -4,8 +4,8 @@ slug: habdasvisuals-com
 title: Is habdasvisuals.com Legit? Trust Score 76/100
 description: >-
   habdasvisuals.com scores 76/100 on our public trust checks. Established domain
-  — registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:11.420Z'
+  — registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:05.340Z'
 finalUrl: 'https://www.habdasvisuals.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.1 years ago.
+    - Established domain — registered 17.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-10-09'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-05-27'
-      ageDays: 6237
-      ageYears: 17.1
-    detail: Registered 17.1 years ago (2009-05-27).
+      ageDays: 6269
+      ageYears: 17.2
+    detail: Registered 17.2 years ago (2009-05-27).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-habdasvisuals.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+habdasvisuals.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Habdasvisuals in the score above.
 

@@ -5,7 +5,7 @@ title: Is bowerswilkins.com Legit? Trust Score 100/100
 description: >-
   bowerswilkins.com scores 100/100 on our public trust checks. Established
   domain — registered 25.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:28.775Z'
+fetchedAt: '2026-07-27T08:06:39.726Z'
 finalUrl: 'https://www.bowerswilkins.com/en-us/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-25'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2000-09-29'
-      ageDays: 9399
+      ageDays: 9432
       ageYears: 25.8
     detail: Registered 25.8 years ago (2000-09-29).
   contact:

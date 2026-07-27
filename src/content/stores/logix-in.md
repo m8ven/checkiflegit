@@ -6,7 +6,7 @@ description: >-
   logix.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-24T21:46:11.068Z'
+fetchedAt: '2026-07-27T08:06:21.077Z'
 finalUrl: 'https://logix.in/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-26'
-      daysToExpiry: 95
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

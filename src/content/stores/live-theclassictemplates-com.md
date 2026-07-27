@@ -5,7 +5,7 @@ title: Is live.theclassictemplates.com Legit? Trust Score 36/100
 description: >-
   live.theclassictemplates.com scores 36/100 on our public trust checks. No
   public contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:47:18.904Z'
+fetchedAt: '2026-07-27T08:33:47.005Z'
 finalUrl: 'https://live.theclassictemplates.com/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

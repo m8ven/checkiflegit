@@ -5,7 +5,7 @@ title: Is gigsonline.co.za Legit? Trust Score 83/100
 description: >-
   gigsonline.co.za scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:31:46.716Z'
+fetchedAt: '2026-07-27T08:20:13.891Z'
 finalUrl: 'https://gigsonline.co.za/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-29'
-      daysToExpiry: 158
+      daysToExpiry: 126
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

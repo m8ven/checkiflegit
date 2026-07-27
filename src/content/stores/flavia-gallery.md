@@ -5,7 +5,7 @@ title: Is flavia.gallery Legit? Trust Score 79/100
 description: >-
   flavia.gallery scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:29:25.237Z'
+fetchedAt: '2026-07-27T08:18:26.291Z'
 finalUrl: 'https://flavia.gallery/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-15'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

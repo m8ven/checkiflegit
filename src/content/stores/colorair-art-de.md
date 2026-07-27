@@ -5,7 +5,7 @@ title: Is colorair-art.de Legit? Trust Score 83/100
 description: >-
   colorair-art.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:29:21.804Z'
+fetchedAt: '2026-07-27T08:18:21.475Z'
 finalUrl: 'https://colorair-art.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-20'
-      daysToExpiry: 241
+      daysToExpiry: 209
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

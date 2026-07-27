@@ -1,11 +1,11 @@
 ---
 domain: fufa.co.ug
 slug: fufa-co-ug
-title: Is fufa.co.ug Legit? Trust Score 100/100 — Trust Checks Pass
+title: Is fufa.co.ug Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  fufa.co.ug scores 100/100 on our public trust checks. Established domain —
-  registered 20.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:52.984Z'
+  fufa.co.ug scores 88/100 on our public trust checks. Established domain —
+  registered 21 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:39.723Z'
 finalUrl: 'https://fufa.co.ug/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.9 years ago.
+    - Established domain — registered 21 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-07-19'
-      ageDays: 7646
-      ageYears: 20.9
-    detail: Registered 20.9 years ago (2005-07-19).
+      ageDays: 7678
+      ageYears: 21
+    detail: Registered 21 years ago (2005-07-19).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      address: false
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fufa.co.ug looks like a well-established store. The clearest positives are that its domain has been registered for 20.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fufa.co.ug looks like a well-established store. The clearest positives are that its domain has been registered for 21 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fufa in the score above.
 

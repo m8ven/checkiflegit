@@ -5,7 +5,7 @@ title: Is redmagic.gg Legit? Trust Score 100/100
 description: >-
   redmagic.gg scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-24T21:46:11.040Z'
+fetchedAt: '2026-07-27T08:06:21.057Z'
 finalUrl: 'https://global.redmagic.gg/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-04'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

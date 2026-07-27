@@ -1,26 +1,28 @@
 ---
 domain: classaroundthecorner.com
 slug: classaroundthecorner-com
-title: Is classaroundthecorner.com Legit? Trust Score 63/100
+title: Is classaroundthecorner.com Legit? Trust Score 40/100
 description: >-
-  classaroundthecorner.com scores 63/100 on our public trust checks. Domain is
-  relatively young. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:17:32.298Z'
+  classaroundthecorner.com scores 40/100 on our public trust checks. No valid
+  SSL certificate — connection may not be secure. Domain is relatively young.
+fetchedAt: '2026-07-27T08:08:36.928Z'
 finalUrl: 'http://classaroundthecorner.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 63
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 40
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No valid SSL certificate — connection may not be secure.
   cautions:
     - Domain is relatively young.
     - Some standard policy or contact pages appear to be missing.
@@ -52,16 +54,16 @@ signals:
       shipping: true
     detail: 'Found 4 policy page(s), no contact page.'
   ssl:
-    status: unknown
+    status: fail
     value: null
-    detail: TLS connection timed out.
+    detail: 'TLS connection failed: connect ECONNREFUSED 34.150.117.189:443'
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-30'
-      ageDays: 237
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-10-30).
+      ageDays: 269
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-10-30).
   contact:
     status: pass
     value:
@@ -90,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-classaroundthecorner.com sends a mixed set of signals. On the positive side, it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform. Against that, the domain is still relatively young and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for classaroundthecorner.com. In particular, the domain is still relatively young and some standard contact or policy pages appear to be missing. It does have some positives — it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Classaroundthecorner in the score above.
 

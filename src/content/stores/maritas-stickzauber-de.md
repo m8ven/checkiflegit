@@ -5,7 +5,7 @@ title: Is maritas-stickzauber.de Legit? Trust Score 79/100
 description: >-
   maritas-stickzauber.de scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:50:11.024Z'
+fetchedAt: '2026-07-27T08:36:11.088Z'
 finalUrl: 'https://maritas-stickzauber.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-20'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

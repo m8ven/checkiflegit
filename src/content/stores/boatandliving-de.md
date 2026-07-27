@@ -5,7 +5,7 @@ title: Is boatandliving.de Legit? Trust Score 57/100
 description: >-
   boatandliving.de scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:05.802Z'
+fetchedAt: '2026-07-27T08:16:22.010Z'
 finalUrl: 'https://boatandliving.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

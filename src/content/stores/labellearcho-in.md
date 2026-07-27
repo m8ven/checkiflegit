@@ -5,7 +5,7 @@ title: Is labellearcho.in Legit? Trust Score 100/100
 description: >-
   labellearcho.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:43:49.367Z'
+fetchedAt: '2026-07-27T08:30:17.375Z'
 finalUrl: 'https://labellearcho.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

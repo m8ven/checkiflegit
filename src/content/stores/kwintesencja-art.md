@@ -1,30 +1,31 @@
 ---
 domain: kwintesencja.art
 slug: kwintesencja-art
-title: Is kwintesencja.art Legit? Trust Score 76/100
+title: Is kwintesencja.art Legit? Trust Score 43/100
 description: >-
-  kwintesencja.art scores 76/100 on our public trust checks. Established domain
-  — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:43:44.661Z'
+  kwintesencja.art scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-07-27T08:30:01.430Z'
 finalUrl: 'https://kwintesencja.art/pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 76
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.4 years ago.
+    - Established domain — registered 4.5 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -39,52 +40,52 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: warn
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 44
+      validTo: '2026-10-07'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-01-31'
-      ageDays: 1605
-      ageYears: 4.4
-    detail: Registered 4.4 years ago (2022-01-31).
+      ageDays: 1637
+      ageYears: 4.5
+    detail: Registered 4.5 years ago (2022-01-31).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kwintesencja.art looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for kwintesencja.art. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 4.5 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kwintesencja in the score above.
 

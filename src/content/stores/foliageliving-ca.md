@@ -5,7 +5,7 @@ title: Is foliageliving.ca Legit? Trust Score 100/100
 description: >-
   foliageliving.ca scores 100/100 on our public trust checks. Established domain
   — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:54.833Z'
+fetchedAt: '2026-07-27T08:17:04.738Z'
 finalUrl: 'https://foliageliving.ca/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-22'
-      ageDays: 1736
+      ageDays: 1768
       ageYears: 4.8
     detail: Registered 4.8 years ago (2021-09-22).
   contact:

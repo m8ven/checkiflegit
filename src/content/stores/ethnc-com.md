@@ -5,7 +5,7 @@ title: Is ethnc.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   ethnc.com scores 58/100 on our public trust checks. No public contact details
   detected on the homepage.
-fetchedAt: '2026-06-24T21:44:59.953Z'
+fetchedAt: '2026-07-27T08:05:29.996Z'
 finalUrl: 'https://ethnc.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 7.1 years ago.
+    - Established domain — registered 7.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-05-23'
-      ageDays: 2589
-      ageYears: 7.1
-    detail: Registered 7.1 years ago (2019-05-23).
+      ageDays: 2622
+      ageYears: 7.2
+    detail: Registered 7.2 years ago (2019-05-23).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ethnc.com sends a mixed set of signals. On the positive side, its domain has been registered for 7.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+ethnc.com sends a mixed set of signals. On the positive side, its domain has been registered for 7.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ethnc in the score above.
 

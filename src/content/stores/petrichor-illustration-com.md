@@ -5,7 +5,7 @@ title: Is petrichor-illustration.com Legit? Trust Score 52/100
 description: >-
   petrichor-illustration.com scores 52/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:47:27.815Z'
+fetchedAt: '2026-07-27T08:33:55.631Z'
 finalUrl: 'https://petrichor-illustration.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.1 years ago.
+    - Established domain — registered 7.2 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-20'
-      daysToExpiry: 25
+      validTo: '2026-09-29'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-05-12'
-      ageDays: 2600
-      ageYears: 7.1
-    detail: Registered 7.1 years ago (2019-05-12).
+      ageDays: 2632
+      ageYears: 7.2
+    detail: Registered 7.2 years ago (2019-05-12).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-petrichor-illustration.com sends a mixed set of signals. On the positive side, its domain has been registered for 7.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+petrichor-illustration.com sends a mixed set of signals. On the positive side, its domain has been registered for 7.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Petrichor-illustration in the score above.
 

@@ -4,8 +4,8 @@ slug: homedestock-shop-com
 title: Is homedestock-shop.com Legit? Trust Score 82/100
 description: >-
   homedestock-shop.com scores 82/100 on our public trust checks. Established
-  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:07.621Z'
+  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:56.868Z'
 finalUrl: 'https://homedestock-shop.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9 years ago.
+    - Established domain — registered 9.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-07-05'
-      ageDays: 3276
-      ageYears: 9
-    detail: Registered 9 years ago (2017-07-05).
+      ageDays: 3308
+      ageYears: 9.1
+    detail: Registered 9.1 years ago (2017-07-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-homedestock-shop.com looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+homedestock-shop.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Homedestock-shop in the score above.
 

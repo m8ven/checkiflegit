@@ -5,7 +5,7 @@ title: Is windsorclockandwatch.com Legit? Trust Score 94/100
 description: >-
   windsorclockandwatch.com scores 94/100 on our public trust checks. Established
   domain — registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:50:46.576Z'
+fetchedAt: '2026-07-27T08:36:31.501Z'
 finalUrl: 'https://windsorclockandwatch.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-09-23'
-      ageDays: 4292
+      ageDays: 4324
       ageYears: 11.8
     detail: Registered 11.8 years ago (2014-09-23).
   contact:

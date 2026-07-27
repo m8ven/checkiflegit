@@ -1,27 +1,27 @@
 ---
 domain: luoithepcongnghiep.vn
 slug: luoithepcongnghiep-vn
-title: Is luoithepcongnghiep.vn Legit? Trust Score 49/100
+title: Is luoithepcongnghiep.vn Legit? Trust Score 91/100
 description: >-
-  luoithepcongnghiep.vn scores 49/100 on our public trust checks. Standard
-  contact and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:34:56.948Z'
+  luoithepcongnghiep.vn scores 91/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:43.420Z'
 finalUrl: 'https://luoithepcongnghiep.vn/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 49
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 91
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
     - Limited social media presence.
 signals:
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
+      contact: true
+      privacy: true
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-luoithepcongnghiep.vn sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+luoithepcongnghiep.vn looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Luoithepcongnghiep in the score above.
 

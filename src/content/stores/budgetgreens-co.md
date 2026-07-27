@@ -5,7 +5,7 @@ title: Is budgetgreens.co Legit? Trust Score 36/100
 description: >-
   budgetgreens.co scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:27:39.542Z'
+fetchedAt: '2026-07-27T08:16:55.533Z'
 finalUrl: 'https://budgetgreens.co/'
 reachable: true
 noindex: false
@@ -50,14 +50,14 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-09'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -4,8 +4,8 @@ slug: lush-lash-com
 title: Is lush-lash.com Legit? Trust Score 100/100
 description: >-
   lush-lash.com scores 100/100 on our public trust checks. Established domain —
-  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:42:42.524Z'
+  registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:29:02.024Z'
 finalUrl: 'https://lush-lash.com/'
 reachable: true
 noindex: false
@@ -17,8 +17,8 @@ verdict:
     secure payment methods when shopping online.
   score: 100
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.2 years ago.
+    - 'Built on Shopify, an established e-commerce platform.'
+    - Established domain — registered 8.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -35,14 +35,14 @@ signals:
   platform:
     status: pass
     value:
-      platform: WooCommerce
+      platform: Shopify
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: false
+        hasCartLink: true
         hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasCartFlow: true
+    detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
     status: pass
     value:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-22'
-      daysToExpiry: 90
+      validTo: '2026-10-08'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-04-09'
-      ageDays: 2998
-      ageYears: 8.2
-    detail: Registered 8.2 years ago (2018-04-09).
+      ageDays: 3030
+      ageYears: 8.3
+    detail: Registered 8.3 years ago (2018-04-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lush-lash.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lush-lash.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lush-lash in the score above.
 

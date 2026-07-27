@@ -5,7 +5,7 @@ title: Is academico.baq-cae.ec Legit? Trust Score 40/100
 description: >-
   academico.baq-cae.ec scores 40/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:22:51.823Z'
+fetchedAt: '2026-07-27T08:12:51.874Z'
 finalUrl: >-
   https://academico.baq-cae.ec/product/inscripcion-a-baq-presencial-virtual-semana-completa/
 reachable: true
@@ -58,14 +58,14 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null
-    detail: Creation date not present in WHOIS record.
+    detail: 'WHOIS lookup failed: '
   contact:
     status: fail
     value:

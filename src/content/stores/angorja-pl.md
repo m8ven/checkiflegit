@@ -1,23 +1,24 @@
 ---
 domain: angorja.pl
 slug: angorja-pl
-title: Is angorja.pl Legit? Trust Score 61/100 — Mixed Signals
+title: Is angorja.pl Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  angorja.pl scores 61/100 on our public trust checks. No links to major social
-  platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:46:08.933Z'
+  angorja.pl scores 73/100 on our public trust checks. Established domain —
+  registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:32:35.003Z'
 finalUrl: 'https://angorja.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 17.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -54,15 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: ZeroSSL GmbH
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      issuer: Let's Encrypt
+      validTo: '2026-09-28'
+      daysToExpiry: 64
       authorized: true
-    detail: Valid certificate issued by ZeroSSL GmbH.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2009-05-18'
+      ageDays: 6278
+      ageYears: 17.2
+    detail: Registered 17.2 years ago (2009-05-18).
   contact:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-angorja.pl sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+angorja.pl looks like a well-established store. The clearest positives are that its domain has been registered for 17.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Angorja in the score above.
 

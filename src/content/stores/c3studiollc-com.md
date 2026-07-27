@@ -4,8 +4,8 @@ slug: c3studiollc-com
 title: Is c3studiollc.com Legit? Trust Score 88/100
 description: >-
   c3studiollc.com scores 88/100 on our public trust checks. Established domain —
-  registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:20:54.099Z'
+  registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:11:29.491Z'
 finalUrl: 'https://c3studiollc.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.1 years ago.
+    - Established domain — registered 15.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2011-05-14'
-      ageDays: 5520
-      ageYears: 15.1
-    detail: Registered 15.1 years ago (2011-05-14).
+      ageDays: 5552
+      ageYears: 15.2
+    detail: Registered 15.2 years ago (2011-05-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-c3studiollc.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+c3studiollc.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against C3studiollc in the score above.
 

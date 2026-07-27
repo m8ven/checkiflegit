@@ -5,7 +5,7 @@ title: Is emplonet.lt Legit? Trust Score 100/100
 description: >-
   emplonet.lt scores 100/100 on our public trust checks. Established domain —
   registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:32:17.003Z'
+fetchedAt: '2026-07-27T08:20:42.156Z'
 finalUrl: 'https://emplonet.lt/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: PerfectSSL
       validTo: '2026-12-09'
-      daysToExpiry: 168
+      daysToExpiry: 136
       authorized: true
     detail: Valid certificate issued by PerfectSSL.
   domainAge:
     status: pass
     value:
       createdAt: '2012-01-13'
-      ageDays: 5277
+      ageDays: 5309
       ageYears: 14.5
     detail: Registered 14.5 years ago (2012-01-13).
   contact:

@@ -5,7 +5,7 @@ title: Is azandcontrol.com Legit? Trust Score 88/100
 description: >-
   azandcontrol.com scores 88/100 on our public trust checks. Established domain
   — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:53.114Z'
+fetchedAt: '2026-07-27T08:34:57.121Z'
 finalUrl: 'https://azandcontrol.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-22'
-      daysToExpiry: 59
+      daysToExpiry: 27
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-08-17'
-      ageDays: 3233
+      ageDays: 3265
       ageYears: 8.9
     detail: Registered 8.9 years ago (2017-08-17).
   contact:

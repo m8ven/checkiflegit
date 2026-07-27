@@ -5,7 +5,7 @@ title: Is baliwildlife.com Legit? Trust Score 55/100
 description: >-
   baliwildlife.com scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:20:21.780Z'
+fetchedAt: '2026-07-27T08:11:12.273Z'
 finalUrl: 'https://baliwildlife.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.6 years ago.
+    - Established domain — registered 14.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-12-05'
-      ageDays: 5315
-      ageYears: 14.6
-    detail: Registered 14.6 years ago (2011-12-05).
+      ageDays: 5348
+      ageYears: 14.7
+    detail: Registered 14.7 years ago (2011-12-05).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-baliwildlife.com sends a mixed set of signals. On the positive side, its domain has been registered for 14.6 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+baliwildlife.com sends a mixed set of signals. On the positive side, its domain has been registered for 14.7 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Baliwildlife in the score above.
 

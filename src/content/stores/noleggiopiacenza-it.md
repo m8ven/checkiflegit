@@ -5,7 +5,7 @@ title: Is noleggiopiacenza.it Legit? Trust Score 43/100
 description: >-
   noleggiopiacenza.it scores 43/100 on our public trust checks. Standard contact
   and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:30:14.803Z'
+fetchedAt: '2026-07-27T08:19:00.222Z'
 finalUrl: 'http://www.noleggiopiacenza.it/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.3 years ago.
+    - Established domain — registered 17.4 years ago.
     - Public business contact details are listed.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -58,23 +58,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2009-03-04'
-      ageDays: 6321
-      ageYears: 17.3
-    detail: Registered 17.3 years ago (2009-03-04).
+      ageDays: 6353
+      ageYears: 17.4
+    detail: Registered 17.4 years ago (2009-03-04).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for noleggiopiacenza.it. In particular, we could not find the usual contact and policy pages and its security certificate is not fully trusted. It does have some positives — its domain has been registered for 17.3 years and it lists genuine business contact details — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for noleggiopiacenza.it. In particular, we could not find the usual contact and policy pages and its security certificate is not fully trusted. It does have some positives — its domain has been registered for 17.4 years and it lists genuine business contact details — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Noleggiopiacenza in the score above.
 

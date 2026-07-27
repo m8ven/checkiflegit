@@ -4,8 +4,8 @@ slug: gflfineart-com
 title: Is gflfineart.com Legit? Trust Score 73/100
 description: >-
   gflfineart.com scores 73/100 on our public trust checks. Established domain —
-  registered 24 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:31:43.626Z'
+  registered 24.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:20:10.503Z'
 finalUrl: 'https://gflfineart.com/'
 reachable: true
 noindex: false
@@ -17,8 +17,7 @@ verdict:
     secure payment methods when shopping online.
   score: 73
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24 years ago.
+    - Established domain — registered 24.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://gflfineart.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
@@ -56,24 +55,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-08'
-      daysToExpiry: 76
+      validTo: '2026-10-18'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-06-27'
-      ageDays: 8763
-      ageYears: 24
-    detail: Registered 24 years ago (2002-06-27).
+      ageDays: 8796
+      ageYears: 24.1
+    detail: Registered 24.1 years ago (2002-06-27).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gflfineart.com looks like a well-established store. The clearest positives are that its domain has been registered for 24 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gflfineart.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gflfineart in the score above.
 

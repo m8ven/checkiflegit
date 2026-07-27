@@ -5,7 +5,7 @@ title: Is klimaplatte24.de Legit? Trust Score 79/100
 description: >-
   klimaplatte24.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:42:23.450Z'
+fetchedAt: '2026-07-27T08:28:50.998Z'
 finalUrl: 'https://klimaplatte24.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-21'
-      daysToExpiry: 211
+      daysToExpiry: 179
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

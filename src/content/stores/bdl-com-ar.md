@@ -5,7 +5,7 @@ title: Is bdl.com.ar Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   bdl.com.ar scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:19:02.014Z'
+fetchedAt: '2026-07-27T08:10:22.040Z'
 finalUrl: 'https://bdl.com.ar/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

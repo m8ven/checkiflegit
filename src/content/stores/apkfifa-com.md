@@ -1,72 +1,70 @@
 ---
 domain: apkfifa.com
 slug: apkfifa-com
-title: Is apkfifa.com Legit? Trust Score 55/100 — Mixed Signals
+title: Is apkfifa.com Legit? Trust Score 13/100
 description: >-
-  apkfifa.com scores 55/100 on our public trust checks. No public contact
-  details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:17:58.994Z'
-finalUrl: 'https://apkfifa.com/'
+  apkfifa.com scores 13/100 on our public trust checks. No valid SSL certificate
+  — connection may not be secure.
+fetchedAt: '2026-07-27T08:08:58.651Z'
+finalUrl: 'http://apkfifa.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 55
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 13
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.9 years ago.
-    - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Established domain — registered 2 years ago.
   redFlags:
+    - No valid SSL certificate — connection may not be secure.
     - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://apkfifa.com/'
+      finalUrl: 'http://apkfifa.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: false
+        hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
-      terms: true
+      privacy: false
+      terms: false
       refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-13'
-      daysToExpiry: 81
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: fail
+    value: null
+    detail: >-
+      TLS connection failed: Client network socket disconnected before secure
+      TLS connection was established
   domainAge:
     status: pass
     value:
       createdAt: '2024-07-17'
-      ageDays: 707
-      ageYears: 1.9
-    detail: Registered 1.9 years ago (2024-07-17).
+      ageDays: 739
+      ageYears: 2
+    detail: Registered 2 years ago (2024-07-17).
   contact:
     status: fail
     value:
@@ -95,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-apkfifa.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for apkfifa.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 2 years — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Apkfifa in the score above.
 

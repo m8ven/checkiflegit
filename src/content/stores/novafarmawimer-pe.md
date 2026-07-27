@@ -5,7 +5,7 @@ title: Is novafarmawimer.pe Legit? Trust Score 83/100
 description: >-
   novafarmawimer.pe scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:39:04.072Z'
+fetchedAt: '2026-07-27T08:26:02.526Z'
 finalUrl: 'https://novafarmawimer.pe/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

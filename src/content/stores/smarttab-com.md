@@ -5,7 +5,7 @@ title: Is smarttab.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   smarttab.com scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-24T21:45:49.160Z'
+fetchedAt: '2026-07-27T08:06:02.475Z'
 finalUrl: 'https://smarttab.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.3 years ago.
+    - Established domain — registered 27.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2027-03-20'
-      daysToExpiry: 270
+      daysToExpiry: 237
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1999-03-03'
-      ageDays: 9975
-      ageYears: 27.3
-    detail: Registered 27.3 years ago (1999-03-03).
+      ageDays: 10008
+      ageYears: 27.4
+    detail: Registered 27.4 years ago (1999-03-03).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-smarttab.com sends a mixed set of signals. On the positive side, its domain has been registered for 27.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+smarttab.com sends a mixed set of signals. On the positive side, its domain has been registered for 27.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Smarttab in the score above.
 

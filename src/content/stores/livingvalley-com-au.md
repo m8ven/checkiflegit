@@ -5,7 +5,7 @@ title: Is livingvalley.com.au Legit? Trust Score 83/100
 description: >-
   livingvalley.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:42:21.100Z'
+fetchedAt: '2026-07-27T08:28:48.011Z'
 finalUrl: 'https://livingvalley.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 84
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -6,7 +6,7 @@ description: >-
   articles.listnr.com scores 57/100 on our public trust checks. No public
   contact details detected on the homepage. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:25:23.813Z'
+fetchedAt: '2026-07-27T08:14:47.366Z'
 finalUrl: 'https://articles.listnr.com/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-05'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

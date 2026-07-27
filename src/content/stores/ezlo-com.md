@@ -1,11 +1,11 @@
 ---
 domain: ezlo.com
 slug: ezlo-com
-title: Is ezlo.com Legit? Trust Score 100/100 — Trust Checks Pass
+title: Is ezlo.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  ezlo.com scores 100/100 on our public trust checks. Established domain —
-  registered 19.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:40.960Z'
+  ezlo.com scores 88/100 on our public trust checks. Established domain —
+  registered 19.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:17.489Z'
 finalUrl: 'https://www.ezlo.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 19.1 years ago.
+    - Established domain — registered 19.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -36,7 +36,7 @@ signals:
     status: pass
     value:
       platform: Shopify
-      isStore: true
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: true
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-25'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-05-23'
-      ageDays: 6972
-      ageYears: 19.1
-    detail: Registered 19.1 years ago (2007-05-23).
+      ageDays: 7004
+      ageYears: 19.2
+    detail: Registered 19.2 years ago (2007-05-23).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ezlo.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ezlo.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ezlo in the score above.
 

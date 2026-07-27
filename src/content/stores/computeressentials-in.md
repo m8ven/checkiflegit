@@ -5,7 +5,7 @@ title: Is computeressentials.in Legit? Trust Score 100/100
 description: >-
   computeressentials.in scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:17:29.886Z'
+fetchedAt: '2026-07-27T08:08:29.669Z'
 finalUrl: 'https://www.computeressentials.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-18'
-      daysToExpiry: 208
+      daysToExpiry: 176
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

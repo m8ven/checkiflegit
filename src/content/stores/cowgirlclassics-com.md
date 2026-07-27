@@ -5,7 +5,7 @@ title: Is cowgirlclassics.com Legit? Trust Score 61/100
 description: >-
   cowgirlclassics.com scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:23:09.786Z'
+fetchedAt: '2026-07-27T08:13:06.088Z'
 finalUrl: 'https://cowgirlclassics.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.3 years ago.
+    - Established domain — registered 15.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-01'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2011-02-22'
-      ageDays: 5601
-      ageYears: 15.3
-    detail: Registered 15.3 years ago (2011-02-22).
+      ageDays: 5633
+      ageYears: 15.4
+    detail: Registered 15.4 years ago (2011-02-22).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cowgirlclassics.com sends a mixed set of signals. On the positive side, its domain has been registered for 15.3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+cowgirlclassics.com sends a mixed set of signals. On the positive side, its domain has been registered for 15.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cowgirlclassics in the score above.
 

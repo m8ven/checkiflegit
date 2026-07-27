@@ -5,7 +5,7 @@ title: Is bogos.io Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   bogos.io scores 88/100 on our public trust checks. Established domain —
   registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:37.658Z'
+fetchedAt: '2026-07-27T08:05:55.894Z'
 finalUrl: 'https://bogos.io/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-08'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-02-16'
-      ageDays: 1224
+      ageDays: 1257
       ageYears: 3.4
     detail: Registered 3.4 years ago (2023-02-16).
   contact:

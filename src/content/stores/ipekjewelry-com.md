@@ -5,7 +5,7 @@ title: Is ipekjewelry.com Legit? Trust Score 88/100
 description: >-
   ipekjewelry.com scores 88/100 on our public trust checks. Established domain —
   registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:17.258Z'
+fetchedAt: '2026-07-27T08:25:29.082Z'
 finalUrl: 'https://ipekjewelry.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-25'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-10-31'
-      ageDays: 2428
+      ageDays: 2460
       ageYears: 6.7
     detail: Registered 6.7 years ago (2019-10-31).
   contact:

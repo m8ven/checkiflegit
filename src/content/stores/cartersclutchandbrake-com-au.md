@@ -5,7 +5,7 @@ title: Is cartersclutchandbrake.com.au Legit? Trust Score 74/100
 description: >-
   cartersclutchandbrake.com.au scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:28:10.756Z'
+fetchedAt: '2026-07-27T08:17:20.086Z'
 finalUrl: 'https://cartersclutchandbrake.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-14'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

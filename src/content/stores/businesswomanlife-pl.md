@@ -1,11 +1,11 @@
 ---
 domain: businesswomanlife.pl
 slug: businesswomanlife-pl
-title: Is businesswomanlife.pl Legit? Trust Score 83/100
+title: Is businesswomanlife.pl Legit? Trust Score 100/100
 description: >-
-  businesswomanlife.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:21:49.762Z'
+  businesswomanlife.pl scores 100/100 on our public trust checks. Established
+  domain — registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:08.505Z'
 finalUrl: 'https://businesswomanlife.pl/'
 reachable: true
 noindex: false
@@ -15,15 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 15.8 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -43,33 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
+      privacy: true
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: nazwa.pl Sp. z o.o.
       validTo: '2026-10-20'
-      daysToExpiry: 117
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by nazwa.pl Sp. z o.o..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2010-09-28'
+      ageDays: 5781
+      ageYears: 15.8
+    detail: Registered 15.8 years ago (2010-09-28).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-businesswomanlife.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+businesswomanlife.pl looks like a well-established store. The clearest positives are that its domain has been registered for 15.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Businesswomanlife in the score above.
 

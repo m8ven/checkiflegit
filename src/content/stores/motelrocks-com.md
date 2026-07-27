@@ -5,7 +5,7 @@ title: Is motelrocks.com Legit? Trust Score 88/100
 description: >-
   motelrocks.com scores 88/100 on our public trust checks. Established domain —
   registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:33.441Z'
+fetchedAt: '2026-07-27T08:06:50.618Z'
 finalUrl: 'https://www.motelrocks.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-02-17'
-      ageDays: 7797
+      ageDays: 7829
       ageYears: 21.4
     detail: Registered 21.4 years ago (2005-02-17).
   contact:

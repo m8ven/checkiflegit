@@ -5,7 +5,7 @@ title: Is bollandbranch.com Legit? Trust Score 70/100
 description: >-
   bollandbranch.com scores 70/100 on our public trust checks. Established domain
   — registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:21.776Z'
+fetchedAt: '2026-07-27T08:06:31.209Z'
 finalUrl: 'https://www.bollandbranch.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 78
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-05-02'
-      ageDays: 4801
+      ageDays: 4833
       ageYears: 13.2
     detail: Registered 13.2 years ago (2013-05-02).
   contact:

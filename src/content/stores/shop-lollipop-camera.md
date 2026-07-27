@@ -5,7 +5,7 @@ title: Is shop.lollipop.camera Legit? Trust Score 83/100
 description: >-
   shop.lollipop.camera scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:45:04.750Z'
+fetchedAt: '2026-07-27T08:31:28.487Z'
 finalUrl: 'https://shop.lollipop.camera/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 73
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

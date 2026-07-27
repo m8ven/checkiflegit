@@ -5,7 +5,7 @@ title: Is agrimarket.hu Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   agrimarket.hu scores 49/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:23:24.455Z'
+fetchedAt: '2026-07-27T08:13:12.650Z'
 finalUrl: 'https://agrimarket.hu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

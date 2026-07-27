@@ -5,7 +5,7 @@ title: Is blomster-buket.dk Legit? Trust Score 52/100
 description: >-
   blomster-buket.dk scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:27:03.127Z'
+fetchedAt: '2026-07-27T08:16:17.396Z'
 finalUrl: 'https://blomster-buket.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.3 years ago.
+    - Established domain — registered 1.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -50,23 +50,23 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2025-03-18'
-      ageDays: 464
-      ageYears: 1.3
-    detail: Registered 1.3 years ago (2025-03-18).
+      ageDays: 496
+      ageYears: 1.4
+    detail: Registered 1.4 years ago (2025-03-18).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blomster-buket.dk sends a mixed set of signals. On the positive side, its domain has been registered for 1.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+blomster-buket.dk sends a mixed set of signals. On the positive side, its domain has been registered for 1.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blomster-buket in the score above.
 

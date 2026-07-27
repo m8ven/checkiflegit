@@ -4,8 +4,8 @@ slug: immotourisme-com
 title: Is immotourisme.com Legit? Trust Score 88/100
 description: >-
   immotourisme.com scores 88/100 on our public trust checks. Established domain
-  — registered 14 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:36:59.652Z'
+  — registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:24:35.469Z'
 finalUrl: 'https://www.immotourisme.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14 years ago.
+    - Established domain — registered 14.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-05'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2012-06-14'
-      ageDays: 5123
-      ageYears: 14
-    detail: Registered 14 years ago (2012-06-14).
+      ageDays: 5156
+      ageYears: 14.1
+    detail: Registered 14.1 years ago (2012-06-14).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-immotourisme.com looks like a well-established store. The clearest positives are that its domain has been registered for 14 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+immotourisme.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Immotourisme in the score above.
 

@@ -5,7 +5,7 @@ title: Is 13melbourneairporttaxi.com.au Legit? Trust Score 74/100
 description: >-
   13melbourneairporttaxi.com.au scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:36:12.261Z'
+fetchedAt: '2026-07-27T08:23:51.366Z'
 finalUrl: 'https://13melbourneairporttaxi.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

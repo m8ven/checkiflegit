@@ -5,7 +5,7 @@ title: Is indiancarpets.in Legit? Trust Score 100/100
 description: >-
   indiancarpets.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:30:42.010Z'
+fetchedAt: '2026-07-27T08:19:26.170Z'
 finalUrl: 'https://indiancarpets.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -75,12 +75,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: false
+      twitter: true
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
   reviews:
     status: unknown
     value:

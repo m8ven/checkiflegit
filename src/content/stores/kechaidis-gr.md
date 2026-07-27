@@ -5,7 +5,7 @@ title: Is kechaidis.gr Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   kechaidis.gr scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:41:35.734Z'
+fetchedAt: '2026-07-27T08:28:09.396Z'
 finalUrl: 'https://kechaidis.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-19'
-      daysToExpiry: 86
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

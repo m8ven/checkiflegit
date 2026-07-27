@@ -1,27 +1,28 @@
 ---
 domain: epifania.pl
 slug: epifania-pl
-title: Is epifania.pl Legit? Trust Score 57/100 — Mixed Signals
+title: Is epifania.pl Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  epifania.pl scores 57/100 on our public trust checks. Some standard policy or
-  contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:32:39.163Z'
+  epifania.pl scores 82/100 on our public trust checks. Established domain —
+  registered 26 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:21:01.327Z'
 finalUrl: 'https://epifania.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 57
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 26 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
     - Limited social media presence.
 signals:
@@ -43,26 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
+      privacy: true
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: home.pl S.A.
       validTo: '2026-11-19'
-      daysToExpiry: 148
+      daysToExpiry: 115
       authorized: true
     detail: Valid certificate issued by home.pl S.A..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2000-07-14'
+      ageDays: 9508
+      ageYears: 26
+    detail: Registered 26 years ago (2000-07-14).
   contact:
     status: warn
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-epifania.pl sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+epifania.pl looks like a well-established store. The clearest positives are that its domain has been registered for 26 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Epifania in the score above.
 

@@ -4,8 +4,8 @@ slug: richersounds-com
 title: Is richersounds.com Legit? Trust Score 88/100
 description: >-
   richersounds.com scores 88/100 on our public trust checks. Established domain
-  — registered 29.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:48.767Z'
+  — registered 29.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:17.793Z'
 finalUrl: 'https://www.richersounds.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on BigCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.1 years ago.
+    - Established domain — registered 29.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-20'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1997-06-03'
-      ageDays: 10613
-      ageYears: 29.1
-    detail: Registered 29.1 years ago (1997-06-03).
+      ageDays: 10646
+      ageYears: 29.2
+    detail: Registered 29.2 years ago (1997-06-03).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-richersounds.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+richersounds.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Richersounds in the score above.
 

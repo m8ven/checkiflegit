@@ -5,7 +5,7 @@ title: Is mous.co Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   mous.co scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-24T21:45:16.153Z'
+fetchedAt: '2026-07-27T08:05:40.161Z'
 finalUrl: 'https://www.mous.co/'
 reachable: true
 noindex: false
@@ -38,9 +38,9 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
+        hasCartLink: false
         hasCatalog: true
-        hasCartFlow: true
+        hasCartFlow: false
     detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
     status: pass
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

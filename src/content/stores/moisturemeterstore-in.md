@@ -5,7 +5,7 @@ title: Is moisturemeterstore.in Legit? Trust Score 100/100
 description: >-
   moisturemeterstore.in scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:16.539Z'
+fetchedAt: '2026-07-27T08:24:43.515Z'
 finalUrl: 'https://moisturemeterstore.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is ostoskarry.fi Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   ostoskarry.fi scores 57/100 on our public trust checks. Standard contact and
   policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:40:03.754Z'
+fetchedAt: '2026-07-27T08:26:51.270Z'
 finalUrl: 'https://ostoskarry.fi/?v=d41d8cd98f00'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

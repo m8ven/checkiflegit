@@ -4,8 +4,8 @@ slug: powermaccenter-com
 title: Is powermaccenter.com Legit? Trust Score 100/100
 description: >-
   powermaccenter.com scores 100/100 on our public trust checks. Established
-  domain — registered 20.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:33.273Z'
+  domain — registered 21 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:48.503Z'
 finalUrl: 'https://powermaccenter.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 20.9 years ago.
+    - Established domain — registered 21 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-08-03'
-      ageDays: 7630
-      ageYears: 20.9
-    detail: Registered 20.9 years ago (2005-08-03).
+      ageDays: 7663
+      ageYears: 21
+    detail: Registered 21 years ago (2005-08-03).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-powermaccenter.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+powermaccenter.com looks like a well-established store. The clearest positives are that its domain has been registered for 21 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Powermaccenter in the score above.
 

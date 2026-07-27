@@ -5,7 +5,7 @@ title: Is detailshopbrasil.com.br Legit? Trust Score 83/100
 description: >-
   detailshopbrasil.com.br scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:30:29.572Z'
+fetchedAt: '2026-07-27T08:19:16.332Z'
 finalUrl: 'https://detailshopbrasil.com.br/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: false
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

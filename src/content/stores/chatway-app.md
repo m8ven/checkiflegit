@@ -5,7 +5,7 @@ title: Is chatway.app Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   chatway.app scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:00.423Z'
+fetchedAt: '2026-07-27T08:05:30.644Z'
 finalUrl: 'https://chatway.app/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-19'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

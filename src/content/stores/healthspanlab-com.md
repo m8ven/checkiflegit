@@ -4,8 +4,8 @@ slug: healthspanlab-com
 title: Is healthspanlab.com Legit? Trust Score 100/100
 description: >-
   healthspanlab.com scores 100/100 on our public trust checks. Established
-  domain — registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:55.685Z'
+  domain — registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:48.164Z'
 finalUrl: 'https://healthspanlab.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.3 years ago.
+    - Established domain — registered 11.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-09-30'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2015-02-20'
-      ageDays: 4142
-      ageYears: 11.3
-    detail: Registered 11.3 years ago (2015-02-20).
+      ageDays: 4175
+      ageYears: 11.4
+    detail: Registered 11.4 years ago (2015-02-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-healthspanlab.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+healthspanlab.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Healthspanlab in the score above.
 

@@ -5,7 +5,7 @@ title: Is boutique.snhf.org Legit? Trust Score 40/100
 description: >-
   boutique.snhf.org scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:20:19.582Z'
+fetchedAt: '2026-07-27T08:11:07.888Z'
 finalUrl: 'https://boutique.snhf.org/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-04'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

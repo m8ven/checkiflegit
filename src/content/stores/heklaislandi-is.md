@@ -5,7 +5,7 @@ title: Is heklaislandi.is Legit? Trust Score 83/100
 description: >-
   heklaislandi.is scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:34:33.466Z'
+fetchedAt: '2026-07-27T08:22:20.731Z'
 finalUrl: 'https://heklaislandi.is/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-14'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

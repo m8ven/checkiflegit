@@ -5,7 +5,7 @@ title: Is vorderland-apotheke.at Legit? Trust Score 61/100
 description: >-
   vorderland-apotheke.at scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:49:55.356Z'
+fetchedAt: '2026-07-27T08:36:00.141Z'
 finalUrl: 'https://vorderland-apotheke.at/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

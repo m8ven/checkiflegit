@@ -5,7 +5,7 @@ title: Is wilmingtonhoneybee.com Legit? Trust Score 94/100
 description: >-
   wilmingtonhoneybee.com scores 94/100 on our public trust checks. Established
   domain — registered 5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:50:44.705Z'
+fetchedAt: '2026-07-27T08:36:29.856Z'
 finalUrl: 'https://wilmingtonhoneybee.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-07-13'
-      ageDays: 1807
+      ageDays: 1839
       ageYears: 5
     detail: Registered 5 years ago (2021-07-13).
   contact:

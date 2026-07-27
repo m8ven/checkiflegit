@@ -4,8 +4,8 @@ slug: mosbatesabz-com
 title: Is mosbatesabz.com Legit? Trust Score 100/100
 description: >-
   mosbatesabz.com scores 100/100 on our public trust checks. Established domain
-  — registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:19.225Z'
+  — registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:43.699Z'
 finalUrl: 'https://mosbatesabz.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.4 years ago.
+    - Established domain — registered 10.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2027-03-12'
-      daysToExpiry: 261
+      daysToExpiry: 229
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:
     status: pass
     value:
       createdAt: '2016-01-14'
-      ageDays: 3814
-      ageYears: 10.4
-    detail: Registered 10.4 years ago (2016-01-14).
+      ageDays: 3846
+      ageYears: 10.5
+    detail: Registered 10.5 years ago (2016-01-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mosbatesabz.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mosbatesabz.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mosbatesabz in the score above.
 

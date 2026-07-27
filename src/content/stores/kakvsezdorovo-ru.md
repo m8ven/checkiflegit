@@ -1,11 +1,11 @@
 ---
 domain: kakvsezdorovo.ru
 slug: kakvsezdorovo-ru
-title: Is kakvsezdorovo.ru Legit? Trust Score 70/100
+title: Is kakvsezdorovo.ru Legit? Trust Score 82/100
 description: >-
-  kakvsezdorovo.ru scores 70/100 on our public trust checks. Established domain
-  — registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:41:15.389Z'
+  kakvsezdorovo.ru scores 82/100 on our public trust checks. Established domain
+  — registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:27:52.955Z'
 finalUrl: 'https://kakvsezdorovo.ru/'
 reachable: true
 noindex: false
@@ -15,14 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.3 years ago.
+    - Established domain — registered 10.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
     - Limited social media presence.
 signals:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
       shipping: true
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-10-12'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-02-25'
-      ageDays: 3772
-      ageYears: 10.3
-    detail: Registered 10.3 years ago (2016-02-25).
+      ageDays: 3804
+      ageYears: 10.4
+    detail: Registered 10.4 years ago (2016-02-25).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kakvsezdorovo.ru looks like a well-established store. The clearest positives are that its domain has been registered for 10.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kakvsezdorovo.ru looks like a well-established store. The clearest positives are that its domain has been registered for 10.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kakvsezdorovo in the score above.
 

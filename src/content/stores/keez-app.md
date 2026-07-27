@@ -5,7 +5,7 @@ title: Is keez.app Legit? Trust Score 19/100 — Proceed With Caution
 description: >-
   keez.app scores 19/100 on our public trust checks. Standard contact and policy
   pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:40:19.679Z'
+fetchedAt: '2026-07-27T08:27:07.721Z'
 finalUrl: 'https://keez.app/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

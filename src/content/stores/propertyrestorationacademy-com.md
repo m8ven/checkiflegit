@@ -4,8 +4,8 @@ slug: propertyrestorationacademy-com
 title: Is propertyrestorationacademy.com Legit? Trust Score 100/100
 description: >-
   propertyrestorationacademy.com scores 100/100 on our public trust checks.
-  Established domain — registered 14.1 years ago.
-fetchedAt: '2026-06-25T02:48:40.242Z'
+  Established domain — registered 14.2 years ago.
+fetchedAt: '2026-07-27T08:34:45.099Z'
 finalUrl: 'https://propertyrestorationacademy.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.1 years ago.
+    - Established domain — registered 14.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-05'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-05-29'
-      ageDays: 5139
-      ageYears: 14.1
-    detail: Registered 14.1 years ago (2012-05-29).
+      ageDays: 5171
+      ageYears: 14.2
+    detail: Registered 14.2 years ago (2012-05-29).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-propertyrestorationacademy.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+propertyrestorationacademy.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Propertyrestorationacademy in the score above.
 

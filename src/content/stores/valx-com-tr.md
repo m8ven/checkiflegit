@@ -5,7 +5,7 @@ title: Is valx.com.tr Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   valx.com.tr scores 57/100 on our public trust checks. Standard contact and
   policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:26.661Z'
+fetchedAt: '2026-07-27T08:35:26.293Z'
 finalUrl: 'https://valx.com.tr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

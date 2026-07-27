@@ -5,7 +5,7 @@ title: Is lalala.sk Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   lalala.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:33:42.936Z'
+fetchedAt: '2026-07-27T08:21:40.304Z'
 finalUrl: 'https://lalala.sk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 63
+      validTo: '2026-10-25'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

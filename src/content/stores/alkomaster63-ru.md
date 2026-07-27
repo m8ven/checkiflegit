@@ -1,11 +1,11 @@
 ---
 domain: alkomaster63.ru
 slug: alkomaster63-ru
-title: Is alkomaster63.ru Legit? Trust Score 73/100
+title: Is alkomaster63.ru Legit? Trust Score 85/100
 description: >-
-  alkomaster63.ru scores 73/100 on our public trust checks. Established domain —
-  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:33.584Z'
+  alkomaster63.ru scores 85/100 on our public trust checks. Established domain —
+  registered 8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:38:15.899Z'
 finalUrl: 'https://alkomaster63.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.9 years ago.
+    - Established domain — registered 8 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-08-09'
-      ageDays: 2876
-      ageYears: 7.9
-    detail: Registered 7.9 years ago (2018-08-09).
+      ageDays: 2908
+      ageYears: 8
+    detail: Registered 8 years ago (2018-08-09).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-alkomaster63.ru looks like a well-established store. The clearest positives are that its domain has been registered for 7.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+alkomaster63.ru looks like a well-established store. The clearest positives are that its domain has been registered for 8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Alkomaster63 in the score above.
 

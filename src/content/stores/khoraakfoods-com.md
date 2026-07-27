@@ -4,8 +4,8 @@ slug: khoraakfoods-com
 title: Is khoraakfoods.com Legit? Trust Score 100/100
 description: >-
   khoraakfoods.com scores 100/100 on our public trust checks. Established domain
-  — registered 5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:32:20.163Z'
+  — registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:20:44.179Z'
 finalUrl: 'https://khoraakfoods.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5 years ago.
+    - Established domain — registered 5.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-05'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-07-05'
-      ageDays: 1815
-      ageYears: 5
-    detail: Registered 5 years ago (2021-07-05).
+      ageDays: 1847
+      ageYears: 5.1
+    detail: Registered 5.1 years ago (2021-07-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-khoraakfoods.com looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+khoraakfoods.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Khoraakfoods in the score above.
 

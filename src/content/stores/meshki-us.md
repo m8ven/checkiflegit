@@ -1,11 +1,11 @@
 ---
 domain: meshki.us
 slug: meshki-us
-title: Is meshki.us Legit? Trust Score 100/100 — Trust Checks Pass
+title: Is meshki.us Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  meshki.us scores 100/100 on our public trust checks. Established domain —
-  registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:28.855Z'
+  meshki.us scores 88/100 on our public trust checks. Established domain —
+  registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:39.893Z'
 finalUrl: 'https://www.meshki.us/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 9.1 years ago.
+    - Established domain — registered 9.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-05-12'
-      ageDays: 3330
-      ageYears: 9.1
-    detail: Registered 9.1 years ago (2017-05-12).
+      ageDays: 3362
+      ageYears: 9.2
+    detail: Registered 9.2 years ago (2017-05-12).
   contact:
-    status: pass
+    status: warn
     value:
       email: true
-      phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      phone: false
+      address: false
+    detail: 'Public contact details found: email.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-meshki.us looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+meshki.us looks like a well-established store. The clearest positives are that its domain has been registered for 9.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Meshki in the score above.
 

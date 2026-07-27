@@ -5,7 +5,7 @@ title: Is proathlete.in Legit? Trust Score 83/100
 description: >-
   proathlete.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:41:37.031Z'
+fetchedAt: '2026-07-27T08:28:09.397Z'
 finalUrl: 'https://proathlete.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-22'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

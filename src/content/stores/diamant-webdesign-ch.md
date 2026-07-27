@@ -5,7 +5,7 @@ title: Is diamant-webdesign.ch Legit? Trust Score 40/100
 description: >-
   diamant-webdesign.ch scores 40/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:30:39.827Z'
+fetchedAt: '2026-07-27T08:19:23.818Z'
 finalUrl: 'https://diamant-webdesign.ch/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 74
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: honestsignalz-com
 title: Is honestsignalz.com Legit? Trust Score 100/100
 description: >-
   honestsignalz.com scores 100/100 on our public trust checks. Established
-  domain — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:26.376Z'
+  domain — registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:24:49.993Z'
 finalUrl: 'https://honestsignalz.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.1 years ago.
+    - Established domain — registered 13.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-05-25'
-      ageDays: 4778
-      ageYears: 13.1
-    detail: Registered 13.1 years ago (2013-05-25).
+      ageDays: 4810
+      ageYears: 13.2
+    detail: Registered 13.2 years ago (2013-05-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-honestsignalz.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+honestsignalz.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Honestsignalz in the score above.
 

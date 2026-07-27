@@ -4,8 +4,8 @@ slug: heartfitclinic-com
 title: Is heartfitclinic.com Legit? Trust Score 100/100
 description: >-
   heartfitclinic.com scores 100/100 on our public trust checks. Established
-  domain — registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:23.412Z'
+  domain — registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:13.285Z'
 finalUrl: 'https://heartfitclinic.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.5 years ago.
+    - Established domain — registered 16.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-01-02'
-      ageDays: 6017
-      ageYears: 16.5
-    detail: Registered 16.5 years ago (2010-01-02).
+      ageDays: 6049
+      ageYears: 16.6
+    detail: Registered 16.6 years ago (2010-01-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-heartfitclinic.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+heartfitclinic.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Heartfitclinic in the score above.
 

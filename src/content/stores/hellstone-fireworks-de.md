@@ -5,7 +5,7 @@ title: Is hellstone-fireworks.de Legit? Trust Score 100/100
 description: >-
   hellstone-fireworks.de scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:57.973Z'
+fetchedAt: '2026-07-27T08:18:50.588Z'
 finalUrl: 'https://hellstone-fireworks.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: DigiCert Inc
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2027-01-28'
+      daysToExpiry: 186
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

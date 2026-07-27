@@ -4,8 +4,8 @@ slug: howtobasically-co-uk
 title: Is howtobasically.co.uk Legit? Trust Score 100/100
 description: >-
   howtobasically.co.uk scores 100/100 on our public trust checks. Established
-  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:19.148Z'
+  domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:19:06.872Z'
 finalUrl: 'https://howtobasically.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.4 years ago.
+    - Established domain — registered 4.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 35
+      validTo: '2026-09-29'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-01-20'
-      ageDays: 1616
-      ageYears: 4.4
-    detail: Registered 4.4 years ago (2022-01-20).
+      ageDays: 1649
+      ageYears: 4.5
+    detail: Registered 4.5 years ago (2022-01-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-howtobasically.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+howtobasically.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 4.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Howtobasically in the score above.
 

@@ -5,7 +5,7 @@ title: Is arteyfiesta.cl Legit? Trust Score 100/100
 description: >-
   arteyfiesta.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:18:06.430Z'
+fetchedAt: '2026-07-27T08:09:04.422Z'
 finalUrl: 'https://arteyfiesta.cl/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

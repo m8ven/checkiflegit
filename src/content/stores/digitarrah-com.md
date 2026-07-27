@@ -1,11 +1,11 @@
 ---
 domain: digitarrah.com
 slug: digitarrah-com
-title: Is digitarrah.com Legit? Trust Score 94/100
+title: Is digitarrah.com Legit? Trust Score 82/100
 description: >-
-  digitarrah.com scores 94/100 on our public trust checks. Established domain —
-  registered 7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:00.657Z'
+  digitarrah.com scores 82/100 on our public trust checks. Established domain —
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:14:29.533Z'
 finalUrl: 'https://digitarrah.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 94
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7 years ago.
+    - Established domain — registered 7.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
   redFlags: []
   cautions:
+    - Only limited contact details were found.
     - Limited social media presence.
 signals:
   http:
@@ -55,25 +55,25 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      issuer: Google Trust Services
+      validTo: '2026-10-04'
+      daysToExpiry: 70
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2019-07-03'
-      ageDays: 2548
-      ageYears: 7
-    detail: Registered 7 years ago (2019-07-03).
+      ageDays: 2580
+      ageYears: 7.1
+    detail: Registered 7.1 years ago (2019-07-03).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-digitarrah.com looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+digitarrah.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Digitarrah in the score above.
 

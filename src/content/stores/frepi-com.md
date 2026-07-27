@@ -4,8 +4,8 @@ slug: frepi-com
 title: Is frepi.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   frepi.com scores 100/100 on our public trust checks. Established domain —
-  registered 27.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:46.264Z'
+  registered 27.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:33.708Z'
 finalUrl: 'https://frepi.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.2 years ago.
+    - Established domain — registered 27.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-09'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-04-07'
-      ageDays: 9940
-      ageYears: 27.2
-    detail: Registered 27.2 years ago (1999-04-07).
+      ageDays: 9973
+      ageYears: 27.3
+    detail: Registered 27.3 years ago (1999-04-07).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-frepi.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+frepi.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Frepi in the score above.
 

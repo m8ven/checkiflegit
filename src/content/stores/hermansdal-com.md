@@ -1,24 +1,25 @@
 ---
 domain: hermansdal.com
 slug: hermansdal-com
-title: Is hermansdal.com Legit? Trust Score 63/100 — Mixed Signals
+title: Is hermansdal.com Legit? Trust Score 70/100
 description: >-
-  hermansdal.com scores 63/100 on our public trust checks. Standard contact and
-  policy pages were not found. Established domain — registered 12.1 years ago.
-fetchedAt: '2026-06-25T02:36:56.355Z'
+  hermansdal.com scores 70/100 on our public trust checks. Established domain —
+  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:24:32.066Z'
 finalUrl: 'https://hermansdal.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 63
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.1 years ago.
+    - Established domain — registered 12.2 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -52,16 +53,20 @@ signals:
       shipping: false
     detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-09-23'
+      daysToExpiry: 59
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-05-22'
-      ageDays: 4416
-      ageYears: 12.1
-    detail: Registered 12.1 years ago (2014-05-22).
+      ageDays: 4448
+      ageYears: 12.2
+    detail: Registered 12.2 years ago (2014-05-22).
   contact:
     status: pass
     value:
@@ -90,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hermansdal.com sends a mixed set of signals. On the positive side, its domain has been registered for 12.1 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+hermansdal.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.2 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hermansdal in the score above.
 

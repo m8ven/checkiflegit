@@ -4,8 +4,8 @@ slug: cavallo-inc-com
 title: Is cavallo-inc.com Legit? Trust Score 100/100
 description: >-
   cavallo-inc.com scores 100/100 on our public trust checks. Established domain
-  — registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:27.127Z'
+  — registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:34.615Z'
 finalUrl: 'https://cavallo-inc.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.5 years ago.
+    - Established domain — registered 21.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2005-01-11'
-      ageDays: 7834
-      ageYears: 21.5
-    detail: Registered 21.5 years ago (2005-01-11).
+      ageDays: 7866
+      ageYears: 21.6
+    detail: Registered 21.6 years ago (2005-01-11).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cavallo-inc.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cavallo-inc.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cavallo-inc in the score above.
 

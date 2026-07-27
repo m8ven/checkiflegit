@@ -4,8 +4,8 @@ slug: connectw-org
 title: Is connectw.org Legit? Trust Score 88/100
 description: >-
   connectw.org scores 88/100 on our public trust checks. Established domain —
-  registered 13 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:45.181Z'
+  registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:46.251Z'
 finalUrl: 'https://connectw.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13 years ago.
+    - Established domain — registered 13.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-09'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-06-20'
-      ageDays: 4752
-      ageYears: 13
-    detail: Registered 13 years ago (2013-06-20).
+      ageDays: 4784
+      ageYears: 13.1
+    detail: Registered 13.1 years ago (2013-06-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-connectw.org looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+connectw.org looks like a well-established store. The clearest positives are that its domain has been registered for 13.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Connectw in the score above.
 

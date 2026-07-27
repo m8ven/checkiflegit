@@ -5,7 +5,7 @@ title: Is alfapureo.hr Legit? Trust Score 88/100
 description: >-
   alfapureo.hr scores 88/100 on our public trust checks. Established domain —
   registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:17:34.385Z'
+fetchedAt: '2026-07-27T08:08:41.065Z'
 finalUrl: 'https://alfapureo.hr/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 81
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-04-29'
-      ageDays: 1882
+      ageDays: 1914
       ageYears: 5.2
     detail: Registered 5.2 years ago (2021-04-29).
   contact:

@@ -5,7 +5,7 @@ title: Is bandbtruckparts.com Legit? Trust Score 85/100
 description: >-
   bandbtruckparts.com scores 85/100 on our public trust checks. Established
   domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:11.019Z'
+fetchedAt: '2026-07-27T08:15:25.926Z'
 finalUrl: 'https://bandbtruckparts.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-28'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-06-07'
-      ageDays: 3304
+      ageDays: 3336
       ageYears: 9.1
     detail: Registered 9.1 years ago (2017-06-07).
   contact:

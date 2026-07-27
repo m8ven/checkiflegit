@@ -4,8 +4,8 @@ slug: kanicen-com
 title: Is kanicen.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   kanicen.com scores 88/100 on our public trust checks. Established domain —
-  registered 20 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:41:18.293Z'
+  registered 20.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:27:54.742Z'
 finalUrl: 'https://kanicen.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20 years ago.
+    - Established domain — registered 20.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-06-16'
-      ageDays: 7313
-      ageYears: 20
-    detail: Registered 20 years ago (2006-06-16).
+      ageDays: 7345
+      ageYears: 20.1
+    detail: Registered 20.1 years ago (2006-06-16).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kanicen.com looks like a well-established store. The clearest positives are that its domain has been registered for 20 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kanicen.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kanicen in the score above.
 

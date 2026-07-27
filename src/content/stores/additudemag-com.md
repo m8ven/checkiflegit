@@ -4,8 +4,8 @@ slug: additudemag-com
 title: Is additudemag.com Legit? Trust Score 88/100
 description: >-
   additudemag.com scores 88/100 on our public trust checks. Established domain —
-  registered 28 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:15.449Z'
+  registered 28.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:39.524Z'
 finalUrl: 'https://additudemag.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28 years ago.
+    - Established domain — registered 28.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1998-06-25'
-      ageDays: 10226
-      ageYears: 28
-    detail: Registered 28 years ago (1998-06-25).
+      ageDays: 10259
+      ageYears: 28.1
+    detail: Registered 28.1 years ago (1998-06-25).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-additudemag.com looks like a well-established store. The clearest positives are that its domain has been registered for 28 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+additudemag.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Additudemag in the score above.
 

@@ -6,7 +6,7 @@ description: >-
   fidrik.company scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T02:33:50.619Z'
+fetchedAt: '2026-07-27T08:21:47.816Z'
 finalUrl: 'https://fidrik.company/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-19'
-      daysToExpiry: 56
+      daysToExpiry: 24
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: truenas-com
 title: Is truenas.com Legit? Trust Score 100/100
 description: >-
   truenas.com scores 100/100 on our public trust checks. Established domain —
-  registered 15 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:44.567Z'
+  registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:18.778Z'
 finalUrl: 'https://www.truenas.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15 years ago.
+    - Established domain — registered 15.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-06-27'
-      ageDays: 5476
-      ageYears: 15
-    detail: Registered 15 years ago (2011-06-27).
+      ageDays: 5508
+      ageYears: 15.1
+    detail: Registered 15.1 years ago (2011-06-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-truenas.com looks like a well-established store. The clearest positives are that its domain has been registered for 15 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+truenas.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Truenas in the score above.
 

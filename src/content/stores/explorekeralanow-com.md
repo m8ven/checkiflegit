@@ -1,11 +1,11 @@
 ---
 domain: explorekeralanow.com
 slug: explorekeralanow-com
-title: Is explorekeralanow.com Legit? Trust Score 82/100
+title: Is explorekeralanow.com Legit? Trust Score 94/100
 description: >-
-  explorekeralanow.com scores 82/100 on our public trust checks. Established
-  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:28:23.610Z'
+  explorekeralanow.com scores 94/100 on our public trust checks. Established
+  domain — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:17:26.610Z'
 finalUrl: 'https://explorekeralanow.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.6 years ago.
+    - Established domain — registered 2.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-04'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-11-24'
-      ageDays: 943
-      ageYears: 2.6
-    detail: Registered 2.6 years ago (2023-11-24).
+      ageDays: 975
+      ageYears: 2.7
+    detail: Registered 2.7 years ago (2023-11-24).
   contact:
     status: pass
     value:
@@ -77,14 +77,14 @@ signals:
   social:
     status: warn
     value:
-      facebook: true
+      facebook: false
       instagram: false
-      twitter: false
+      twitter: true
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: 'Links to 1 social platform(s): twitter.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-explorekeralanow.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+explorekeralanow.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Explorekeralanow in the score above.
 

@@ -4,8 +4,8 @@ slug: lebruitdesimages-com
 title: Is lebruitdesimages.com Legit? Trust Score 76/100
 description: >-
   lebruitdesimages.com scores 76/100 on our public trust checks. Established
-  domain — registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:41:46.696Z'
+  domain — registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:28:19.903Z'
 finalUrl: 'https://lebruitdesimages.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.4 years ago.
+    - Established domain — registered 19.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-02-13'
-      ageDays: 7071
-      ageYears: 19.4
-    detail: Registered 19.4 years ago (2007-02-13).
+      ageDays: 7103
+      ageYears: 19.5
+    detail: Registered 19.5 years ago (2007-02-13).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lebruitdesimages.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lebruitdesimages.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lebruitdesimages in the score above.
 

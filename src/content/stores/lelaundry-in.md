@@ -5,7 +5,7 @@ title: Is lelaundry.in Legit? Trust Score 91/100
 description: >-
   lelaundry.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:41:53.220Z'
+fetchedAt: '2026-07-27T08:28:22.767Z'
 finalUrl: 'https://lelaundry.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

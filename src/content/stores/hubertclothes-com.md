@@ -4,8 +4,8 @@ slug: hubertclothes-com
 title: Is hubertclothes.com Legit? Trust Score 94/100
 description: >-
   hubertclothes.com scores 94/100 on our public trust checks. Established domain
-  — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:40.374Z'
+  — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:01.640Z'
 finalUrl: 'https://hubertclothes.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.3 years ago.
+    - Established domain — registered 4.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-03-11'
-      ageDays: 1566
-      ageYears: 4.3
-    detail: Registered 4.3 years ago (2022-03-11).
+      ageDays: 1598
+      ageYears: 4.4
+    detail: Registered 4.4 years ago (2022-03-11).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hubertclothes.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hubertclothes.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hubertclothes in the score above.
 

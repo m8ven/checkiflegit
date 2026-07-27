@@ -5,7 +5,7 @@ title: Is ateliersbytheway.fr Legit? Trust Score 76/100
 description: >-
   ateliersbytheway.fr scores 76/100 on our public trust checks. Established
   domain — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:19:53.672Z'
+fetchedAt: '2026-07-27T08:10:48.330Z'
 finalUrl: 'https://ateliersbytheway.fr/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-29'
-      daysToExpiry: 97
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2019-08-19'
-      ageDays: 2501
+      ageDays: 2533
       ageYears: 6.9
     detail: Registered 6.9 years ago (2019-08-19).
   contact:

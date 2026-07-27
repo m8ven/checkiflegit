@@ -4,8 +4,8 @@ slug: glamira-com
 title: Is glamira.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   glamira.com scores 88/100 on our public trust checks. Established domain —
-  registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:49.728Z'
+  registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:20.838Z'
 finalUrl: 'https://www.glamira.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 17.1 years ago.
+    - Established domain — registered 17.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-05-30'
-      ageDays: 6234
-      ageYears: 17.1
-    detail: Registered 17.1 years ago (2009-05-30).
+      ageDays: 6266
+      ageYears: 17.2
+    detail: Registered 17.2 years ago (2009-05-30).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-glamira.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+glamira.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Glamira in the score above.
 

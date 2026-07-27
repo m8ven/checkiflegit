@@ -5,7 +5,7 @@ title: Is gravirai.bg Legit? Trust Score 100/100
 description: >-
   gravirai.bg scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:35:53.476Z'
+fetchedAt: '2026-07-27T08:23:33.547Z'
 finalUrl: 'https://gravirai.bg/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

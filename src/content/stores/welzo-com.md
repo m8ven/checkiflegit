@@ -4,8 +4,8 @@ slug: welzo-com
 title: Is welzo.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   welzo.com scores 88/100 on our public trust checks. Established domain —
-  registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:50:31.171Z'
+  registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:36:21.369Z'
 finalUrl: 'https://welzo.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 11.5 years ago.
+    - Established domain — registered 11.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-12-23'
-      ageDays: 4201
-      ageYears: 11.5
-    detail: Registered 11.5 years ago (2014-12-23).
+      ageDays: 4233
+      ageYears: 11.6
+    detail: Registered 11.6 years ago (2014-12-23).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-welzo.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+welzo.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Welzo in the score above.
 

@@ -5,7 +5,7 @@ title: Is architectural-lighting.eu Legit? Trust Score 19/100
 description: >-
   architectural-lighting.eu scores 19/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:18:05.665Z'
+fetchedAt: '2026-07-27T08:09:03.713Z'
 finalUrl: 'https://architectural-lighting.eu/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

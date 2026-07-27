@@ -1,30 +1,30 @@
 ---
 domain: foliarex.com.pl
 slug: foliarex-com-pl
-title: Is foliarex.com.pl Legit? Trust Score 44/100
+title: Is foliarex.com.pl Legit? Trust Score 73/100
 description: >-
-  foliarex.com.pl scores 44/100 on our public trust checks. No links to major
-  social platforms found.
-fetchedAt: '2026-06-25T02:34:16.944Z'
+  foliarex.com.pl scores 73/100 on our public trust checks. Established domain —
+  registered 27.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:06.454Z'
 finalUrl: 'https://foliarex.com.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 44
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 27.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,20 +57,23 @@ signals:
     value:
       issuer: home.pl S.A.
       validTo: '2026-10-20'
-      daysToExpiry: 117
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by home.pl S.A..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '1999-05-11'
+      ageDays: 9938
+      ageYears: 27.2
+    detail: Registered 27.2 years ago (1999-05-11).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: fail
     value:
@@ -92,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for foliarex.com.pl. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+foliarex.com.pl looks like a well-established store. The clearest positives are that its domain has been registered for 27.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Foliarex in the score above.
 

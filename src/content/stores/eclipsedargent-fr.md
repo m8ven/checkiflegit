@@ -5,7 +5,7 @@ title: Is eclipsedargent.fr Legit? Trust Score 64/100
 description: >-
   eclipsedargent.fr scores 64/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T02:26:07.598Z'
+fetchedAt: '2026-07-27T08:15:24.782Z'
 finalUrl: 'https://eclipsedargent.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-10-08'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-14'
-      ageDays: 1744
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-09-14).
+      ageDays: 1776
+      ageYears: 4.9
+    detail: Registered 4.9 years ago (2021-09-14).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eclipsedargent.fr sends a mixed set of signals. On the positive side, its domain has been registered for 4.8 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+eclipsedargent.fr sends a mixed set of signals. On the positive side, its domain has been registered for 4.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eclipsedargent in the score above.
 

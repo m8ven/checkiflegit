@@ -4,8 +4,8 @@ slug: body-sds-dk
 title: Is body-sds.dk Legit? Trust Score 100/100
 description: >-
   body-sds.dk scores 100/100 on our public trust checks. Established domain —
-  registered 24.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:23.285Z'
+  registered 24.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:11:46.243Z'
 finalUrl: 'https://body-sds.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.7 years ago.
+    - Established domain — registered 24.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-02'
-      daysToExpiry: 70
+      validTo: '2026-10-17'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2001-10-18'
-      ageDays: 9016
-      ageYears: 24.7
-    detail: Registered 24.7 years ago (2001-10-18).
+      ageDays: 9048
+      ageYears: 24.8
+    detail: Registered 24.8 years ago (2001-10-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-body-sds.dk looks like a well-established store. The clearest positives are that its domain has been registered for 24.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+body-sds.dk looks like a well-established store. The clearest positives are that its domain has been registered for 24.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Body-sds in the score above.
 

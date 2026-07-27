@@ -1,36 +1,36 @@
 ---
 domain: a2vinoycultura.com
 slug: a2vinoycultura-com
-title: Is a2vinoycultura.com Legit? Trust Score 58/100
+title: Is a2vinoycultura.com Legit? Trust Score 100/100
 description: >-
-  a2vinoycultura.com scores 58/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T02:38:31.225Z'
-finalUrl: 'https://a2vinoycultura.com/'
+  a2vinoycultura.com scores 100/100 on our public trust checks. Established
+  domain — registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:38.954Z'
+finalUrl: 'https://www.vinopatas.es/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 58
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.1 years ago.
+    - Established domain — registered 17.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  redFlags: []
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://a2vinoycultura.com/'
+      finalUrl: 'https://www.vinopatas.es/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
+      privacy: true
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-11'
-      daysToExpiry: 48
+      daysToExpiry: 15
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-06-02'
-      ageDays: 6231
-      ageYears: 17.1
-    detail: Registered 17.1 years ago (2009-06-02).
+      ageDays: 6263
+      ageYears: 17.2
+    detail: Registered 17.2 years ago (2009-06-02).
   contact:
-    status: fail
+    status: pass
     value:
-      email: false
-      phone: false
+      email: true
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: email, phone.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-a2vinoycultura.com sends a mixed set of signals. On the positive side, its domain has been registered for 17.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+a2vinoycultura.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against A2vinoycultura in the score above.
 

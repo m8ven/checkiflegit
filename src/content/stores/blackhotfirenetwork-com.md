@@ -4,8 +4,8 @@ slug: blackhotfirenetwork-com
 title: Is blackhotfirenetwork.com Legit? Trust Score 100/100
 description: >-
   blackhotfirenetwork.com scores 100/100 on our public trust checks. Established
-  domain — registered 10 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:52.018Z'
+  domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:01.806Z'
 finalUrl: 'https://blackhotfirenetwork.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-06-17'
-      ageDays: 3659
-      ageYears: 10
-    detail: Registered 10 years ago (2016-06-17).
+      ageDays: 3691
+      ageYears: 10.1
+    detail: Registered 10.1 years ago (2016-06-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blackhotfirenetwork.com looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+blackhotfirenetwork.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blackhotfirenetwork in the score above.
 

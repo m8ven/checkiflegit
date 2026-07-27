@@ -5,7 +5,7 @@ title: Is socialmix.ai Legit? Trust Score 88/100
 description: >-
   socialmix.ai scores 88/100 on our public trust checks. Established domain —
   registered 5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:43.879Z'
+fetchedAt: '2026-07-27T08:32:01.443Z'
 finalUrl: 'https://socialmix.ai/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-07-11'
-      ageDays: 1809
+      ageDays: 1841
       ageYears: 5
     detail: Registered 5 years ago (2021-07-11).
   contact:

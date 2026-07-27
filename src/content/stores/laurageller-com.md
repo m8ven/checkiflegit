@@ -5,7 +5,7 @@ title: Is laurageller.com Legit? Trust Score 100/100
 description: >-
   laurageller.com scores 100/100 on our public trust checks. Established domain
   — registered 27.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:00.393Z'
+fetchedAt: '2026-07-27T08:06:09.494Z'
 finalUrl: 'https://www.laurageller.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-08-22'
-      ageDays: 10168
+      ageDays: 10201
       ageYears: 27.9
     detail: Registered 27.9 years ago (1998-08-22).
   contact:

@@ -5,7 +5,7 @@ title: Is hookahx.de Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   hookahx.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:30:14.711Z'
+fetchedAt: '2026-07-27T08:18:59.820Z'
 finalUrl: 'https://hookahx.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-20'
-      daysToExpiry: 57
+      daysToExpiry: 25
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

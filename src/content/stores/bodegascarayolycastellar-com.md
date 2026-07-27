@@ -6,7 +6,7 @@ description: >-
   bodegascarayolycastellar.com scores 100/100 on our public trust checks.
   Established domain — registered 5.5 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:27:07.914Z'
+fetchedAt: '2026-07-27T08:16:23.685Z'
 finalUrl: 'https://bodegascarayolycastellar.com/'
 reachable: true
 noindex: false
@@ -58,14 +58,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-01-11'
-      ageDays: 1990
+      ageDays: 2022
       ageYears: 5.5
     detail: Registered 5.5 years ago (2021-01-11).
   contact:

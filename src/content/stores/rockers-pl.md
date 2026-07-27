@@ -1,11 +1,11 @@
 ---
 domain: rockers.pl
 slug: rockers-pl
-title: Is rockers.pl Legit? Trust Score 49/100 — Mixed Signals
+title: Is rockers.pl Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  rockers.pl scores 49/100 on our public trust checks. No public contact details
+  rockers.pl scores 64/100 on our public trust checks. No public contact details
   detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T02:43:12.334Z'
+fetchedAt: '2026-07-27T08:29:26.561Z'
 finalUrl: 'https://rockers.pl/'
 reachable: true
 noindex: false
@@ -15,9 +15,10 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 49
+  score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 21.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -47,22 +48,25 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2004-08-25'
+      ageDays: 8005
+      ageYears: 21.9
+    detail: Registered 21.9 years ago (2004-08-25).
   contact:
     status: fail
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rockers.pl sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+rockers.pl sends a mixed set of signals. On the positive side, its domain has been registered for 21.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rockers in the score above.
 

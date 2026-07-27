@@ -4,8 +4,8 @@ slug: bruker-com
 title: Is bruker.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   bruker.com scores 100/100 on our public trust checks. Established domain —
-  registered 36.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:58.874Z'
+  registered 36.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:08.498Z'
 finalUrl: 'https://www.bruker.com/en.html'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 36.8 years ago.
+    - Established domain — registered 36.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 48
+      validTo: '2026-10-22'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1989-09-14'
-      ageDays: 13432
-      ageYears: 36.8
-    detail: Registered 36.8 years ago (1989-09-14).
+      ageDays: 13465
+      ageYears: 36.9
+    detail: Registered 36.9 years ago (1989-09-14).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bruker.com looks like a well-established store. The clearest positives are that its domain has been registered for 36.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bruker.com looks like a well-established store. The clearest positives are that its domain has been registered for 36.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bruker in the score above.
 

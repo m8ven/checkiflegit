@@ -5,7 +5,7 @@ title: Is landmatchmakers.com Legit? Trust Score 85/100
 description: >-
   landmatchmakers.com scores 85/100 on our public trust checks. Established
   domain — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:27.460Z'
+fetchedAt: '2026-07-27T08:31:46.578Z'
 finalUrl: 'https://landmatchmakers.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-09-20'
-      ageDays: 1008
+      ageDays: 1040
       ageYears: 2.8
     detail: Registered 2.8 years ago (2023-09-20).
   contact:

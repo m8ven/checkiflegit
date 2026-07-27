@@ -5,7 +5,7 @@ title: Is portal.uzmanaqvi.com Legit? Trust Score 83/100
 description: >-
   portal.uzmanaqvi.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:48:12.664Z'
+fetchedAt: '2026-07-27T08:34:22.293Z'
 finalUrl: 'https://portal.uzmanaqvi.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

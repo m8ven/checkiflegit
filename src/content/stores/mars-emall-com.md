@@ -4,8 +4,8 @@ slug: mars-emall-com
 title: Is mars-emall.com Legit? Trust Score 100/100
 description: >-
   mars-emall.com scores 100/100 on our public trust checks. Established domain —
-  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:27.328Z'
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:23:16.897Z'
 finalUrl: 'https://mars-emall.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 1.2 years ago.
+    - Established domain — registered 1.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-04-21'
-      ageDays: 429
-      ageYears: 1.2
-    detail: Registered 1.2 years ago (2025-04-21).
+      ageDays: 461
+      ageYears: 1.3
+    detail: Registered 1.3 years ago (2025-04-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mars-emall.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mars-emall.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mars-emall in the score above.
 

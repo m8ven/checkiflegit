@@ -5,7 +5,7 @@ title: Is kuechen-tenne-rastede.de Legit? Trust Score 100/100
 description: >-
   kuechen-tenne-rastede.de scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:43:27.766Z'
+fetchedAt: '2026-07-27T08:29:47.856Z'
 finalUrl: 'https://kuechen-tenne-rastede.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

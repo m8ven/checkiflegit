@@ -1,24 +1,24 @@
 ---
 domain: centrosdesaude.pt
 slug: centrosdesaude-pt
-title: Is centrosdesaude.pt Legit? Trust Score 55/100
+title: Is centrosdesaude.pt Legit? Trust Score 36/100
 description: >-
-  centrosdesaude.pt scores 55/100 on our public trust checks. No public contact
+  centrosdesaude.pt scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:28:33.591Z'
+fetchedAt: '2026-07-27T08:17:34.068Z'
 finalUrl: 'https://centrosdesaude.pt/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 55
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 36
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,13 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2017-08-09'
-      ageDays: 3241
-      ageYears: 8.9
-    detail: Registered 8.9 years ago (2017-08-09).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: fail
     value:
@@ -95,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-centrosdesaude.pt sends a mixed set of signals. On the positive side, its domain has been registered for 8.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for centrosdesaude.pt. In particular, there are no clear public contact details and it has little or no social media footprint. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Centrosdesaude in the score above.
 

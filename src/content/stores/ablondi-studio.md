@@ -5,7 +5,7 @@ title: Is ablondi.studio Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   ablondi.studio scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T02:17:06.257Z'
+fetchedAt: '2026-07-27T08:08:06.476Z'
 finalUrl: 'https://ablondi.studio/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

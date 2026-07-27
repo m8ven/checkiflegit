@@ -6,7 +6,7 @@ description: >-
   teachmeanatomy.info scores 57/100 on our public trust checks. No public
   contact details detected on the homepage. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-24T21:46:43.093Z'
+fetchedAt: '2026-07-27T08:07:12.127Z'
 finalUrl: 'https://teachmeanatomy.info/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-24'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

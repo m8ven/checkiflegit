@@ -1,35 +1,36 @@
 ---
 domain: anderias.eu
 slug: anderias-eu
-title: Is anderias.eu Legit? Trust Score 83/100 — Trust Checks Pass
+title: Is anderias.eu Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  anderias.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T02:16:24.231Z'
-finalUrl: 'https://anderias.eu/'
+  anderias.eu scores 66/100 on our public trust checks. HTTPS certificate
+  present but its trust chain is incomplete. Only limited contact details were
+  found.
+fetchedAt: '2026-07-27T08:07:24.669Z'
+finalUrl: 'http://anderias.eu/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 83
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 66
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
+    - HTTPS certificate present but its trust chain is incomplete.
     - Only limited contact details were found.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://anderias.eu/'
+      finalUrl: 'http://anderias.eu/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -52,13 +53,13 @@ signals:
       shipping: false
     detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: pass
+    status: warn
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 48
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+      validTo: '2026-09-21'
+      daysToExpiry: 57
+      authorized: false
+    detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: unknown
     value: null
@@ -93,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-anderias.eu looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+anderias.eu sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and its security certificate is not fully trusted — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Anderias in the score above.
 

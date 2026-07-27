@@ -4,8 +4,8 @@ slug: thedog-store-jp
 title: Is thedog-store.jp Legit? Trust Score 100/100
 description: >-
   thedog-store.jp scores 100/100 on our public trust checks. Established domain
-  — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:41.454Z'
+  — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:01.693Z'
 finalUrl: 'https://thedog-store.jp/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 5.3 years ago.
+    - Established domain — registered 5.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-03-15'
-      ageDays: 1927
-      ageYears: 5.3
-    detail: Registered 5.3 years ago (2021-03-15).
+      ageDays: 1960
+      ageYears: 5.4
+    detail: Registered 5.4 years ago (2021-03-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thedog-store.jp looks like a well-established store. The clearest positives are that its domain has been registered for 5.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thedog-store.jp looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thedog-store in the score above.
 

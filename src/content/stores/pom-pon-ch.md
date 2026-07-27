@@ -5,7 +5,7 @@ title: Is pom-pon.ch Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   pom-pon.ch scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:48:04.152Z'
+fetchedAt: '2026-07-27T08:34:15.437Z'
 finalUrl: 'https://pom-pon.ch/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

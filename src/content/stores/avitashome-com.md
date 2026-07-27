@@ -4,8 +4,8 @@ slug: avitashome-com
 title: Is avitashome.com Legit? Trust Score 73/100
 description: >-
   avitashome.com scores 73/100 on our public trust checks. Established domain —
-  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:57.852Z'
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:38:37.251Z'
 finalUrl: 'https://www.avitashome.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.5 years ago.
+    - Established domain — registered 2.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: DigiCert Inc
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      issuer: 'TrustAsia Technologies, Inc.'
+      validTo: '2026-10-25'
+      daysToExpiry: 90
       authorized: true
-    detail: Valid certificate issued by DigiCert Inc.
+    detail: 'Valid certificate issued by TrustAsia Technologies, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2024-01-08'
-      ageDays: 898
-      ageYears: 2.5
-    detail: Registered 2.5 years ago (2024-01-08).
+      ageDays: 931
+      ageYears: 2.6
+    detail: Registered 2.6 years ago (2024-01-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-avitashome.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+avitashome.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Avitashome in the score above.
 

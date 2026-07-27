@@ -5,7 +5,7 @@ title: Is labshop.lab.fi Legit? Trust Score 83/100
 description: >-
   labshop.lab.fi scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:45:12.352Z'
+fetchedAt: '2026-07-27T08:31:31.214Z'
 finalUrl: 'https://labshop.lab.fi/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Hellenic Academic and Research Institutions CA
       validTo: '2026-12-10'
-      daysToExpiry: 169
+      daysToExpiry: 136
       authorized: true
     detail: >-
       Valid certificate issued by Hellenic Academic and Research Institutions

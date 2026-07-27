@@ -5,7 +5,7 @@ title: Is bebehome.mk Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   bebehome.mk scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:51:09.132Z'
+fetchedAt: '2026-07-27T08:36:56.187Z'
 finalUrl: 'https://bebehome.mk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-24'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

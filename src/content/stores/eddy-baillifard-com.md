@@ -4,8 +4,8 @@ slug: eddy-baillifard-com
 title: Is eddy-baillifard.com Legit? Trust Score 100/100
 description: >-
   eddy-baillifard.com scores 100/100 on our public trust checks. Established
-  domain — registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:31:48.413Z'
+  domain — registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:20:16.352Z'
 finalUrl: 'https://eddy-baillifard.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.3 years ago.
+    - Established domain — registered 12.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-14'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-02-22'
-      ageDays: 4505
-      ageYears: 12.3
-    detail: Registered 12.3 years ago (2014-02-22).
+      ageDays: 4537
+      ageYears: 12.4
+    detail: Registered 12.4 years ago (2014-02-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eddy-baillifard.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eddy-baillifard.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eddy-baillifard in the score above.
 

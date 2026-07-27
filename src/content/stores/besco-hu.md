@@ -5,7 +5,7 @@ title: Is besco.hu Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   besco.hu scores 49/100 on our public trust checks. Standard contact and policy
   pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:51:46.307Z'
+fetchedAt: '2026-07-27T08:37:29.979Z'
 finalUrl: 'https://besco.hu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-22'
-      daysToExpiry: 27
+      validTo: '2026-09-25'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

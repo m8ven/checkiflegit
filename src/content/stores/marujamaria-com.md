@@ -4,8 +4,8 @@ slug: marujamaria-com
 title: Is marujamaria.com Legit? Trust Score 100/100
 description: >-
   marujamaria.com scores 100/100 on our public trust checks. Established domain
-  — registered 7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:35.989Z'
+  — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:23:20.409Z'
 finalUrl: 'https://marujamaria.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7 years ago.
+    - Established domain — registered 7.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-12'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-06-12'
-      ageDays: 2569
-      ageYears: 7
-    detail: Registered 7 years ago (2019-06-12).
+      ageDays: 2601
+      ageYears: 7.1
+    detail: Registered 7.1 years ago (2019-06-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-marujamaria.com looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+marujamaria.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Marujamaria in the score above.
 

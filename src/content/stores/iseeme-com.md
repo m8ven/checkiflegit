@@ -1,11 +1,11 @@
 ---
 domain: iseeme.com
 slug: iseeme-com
-title: Is iseeme.com Legit? Trust Score 100/100 — Trust Checks Pass
+title: Is iseeme.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  iseeme.com scores 100/100 on our public trust checks. Established domain —
-  registered 27.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:15.448Z'
+  iseeme.com scores 88/100 on our public trust checks. Established domain —
+  registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:39.353Z'
 finalUrl: 'https://www.iseeme.com/en-us/'
 reachable: true
 noindex: false
@@ -15,16 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
-    - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 27.6 years ago.
+    - Established domain — registered 27.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://www.iseeme.com/en-us/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: Magento
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: true
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on Magento, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -57,23 +56,23 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-12-31'
-      daysToExpiry: 191
+      daysToExpiry: 158
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
     status: pass
     value:
       createdAt: '1998-11-11'
-      ageDays: 10087
-      ageYears: 27.6
-    detail: Registered 27.6 years ago (1998-11-11).
+      ageDays: 10120
+      ageYears: 27.7
+    detail: Registered 27.7 years ago (1998-11-11).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -83,8 +82,8 @@ signals:
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: true
-    detail: 'Links to 3 social platform(s): facebook, instagram, pinterest.'
+      pinterest: false
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-iseeme.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+iseeme.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Iseeme in the score above.
 

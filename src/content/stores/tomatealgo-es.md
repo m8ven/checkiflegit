@@ -6,7 +6,7 @@ description: >-
   tomatealgo.es scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T02:48:21.346Z'
+fetchedAt: '2026-07-27T08:34:28.384Z'
 finalUrl: 'https://tomatealgo.es/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -5,7 +5,7 @@ title: Is deviatge.net Legit? Trust Score 100/100
 description: >-
   deviatge.net scores 100/100 on our public trust checks. Established domain —
   registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:04.187Z'
+fetchedAt: '2026-07-27T08:14:33.021Z'
 finalUrl: 'https://deviatge.net/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-17'
-      daysToExpiry: 146
+      daysToExpiry: 114
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2004-12-10'
-      ageDays: 7866
+      ageDays: 7898
       ageYears: 21.6
     detail: Registered 21.6 years ago (2004-12-10).
   contact:

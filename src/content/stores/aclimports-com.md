@@ -1,28 +1,28 @@
 ---
 domain: aclimports.com
 slug: aclimports-com
-title: Is aclimports.com Legit? Trust Score 85/100
+title: Is aclimports.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  aclimports.com scores 85/100 on our public trust checks. Established domain —
-  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:25.975Z'
-finalUrl: 'https://aclimports.com/'
+  aclimports.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-07-27T08:23:10.440Z'
+finalUrl: 'https://aclimports.com/password'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 85
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.9 years ago.
+    - 'Built on Shopify, an established e-commerce platform.'
+    - Established domain — registered 4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
   redFlags:
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions: []
 signals:
@@ -30,19 +30,19 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://aclimports.com/'
+      finalUrl: 'https://aclimports.com/password'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
     value:
-      platform: WooCommerce
+      platform: Shopify
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
+        hasCartLink: false
         hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasCartFlow: false
+    detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
     status: pass
     value:
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 73
+      validTo: '2026-10-12'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-07-25'
-      ageDays: 1430
-      ageYears: 3.9
-    detail: Registered 3.9 years ago (2022-07-25).
+      ageDays: 1463
+      ageYears: 4
+    detail: Registered 4 years ago (2022-07-25).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aclimports.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aclimports.com sends a mixed set of signals. On the positive side, its domain has been registered for 4 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aclimports in the score above.
 

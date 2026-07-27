@@ -4,8 +4,8 @@ slug: ecpplastictrays-com
 title: Is ecpplastictrays.com Legit? Trust Score 73/100
 description: >-
   ecpplastictrays.com scores 73/100 on our public trust checks. Established
-  domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:12.206Z'
+  domain — registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:15:27.153Z'
 finalUrl: 'https://ecpplastictrays.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.3 years ago.
+    - Established domain — registered 14.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-03-02'
-      ageDays: 5227
-      ageYears: 14.3
-    detail: Registered 14.3 years ago (2012-03-02).
+      ageDays: 5259
+      ageYears: 14.4
+    detail: Registered 14.4 years ago (2012-03-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ecpplastictrays.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ecpplastictrays.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ecpplastictrays in the score above.
 

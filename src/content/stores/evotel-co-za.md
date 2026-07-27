@@ -5,7 +5,7 @@ title: Is evotel.co.za Legit? Trust Score 100/100
 description: >-
   evotel.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:27:07.103Z'
+fetchedAt: '2026-07-27T08:16:22.574Z'
 finalUrl: 'https://evotel.co.za/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

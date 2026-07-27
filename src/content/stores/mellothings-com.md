@@ -4,8 +4,8 @@ slug: mellothings-com
 title: Is mellothings.com Legit? Trust Score 88/100
 description: >-
   mellothings.com scores 88/100 on our public trust checks. Established domain —
-  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:00.147Z'
+  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:30:19.743Z'
 finalUrl: 'https://mellothings.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.2 years ago.
+    - Established domain — registered 7.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-04-07'
-      ageDays: 2635
-      ageYears: 7.2
-    detail: Registered 7.2 years ago (2019-04-07).
+      ageDays: 2667
+      ageYears: 7.3
+    detail: Registered 7.3 years ago (2019-04-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mellothings.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mellothings.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mellothings in the score above.
 

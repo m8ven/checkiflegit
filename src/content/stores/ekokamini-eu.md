@@ -5,7 +5,7 @@ title: Is ekokamini.eu Legit? Trust Score 100/100
 description: >-
   ekokamini.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:31:59.036Z'
+fetchedAt: '2026-07-27T08:20:27.896Z'
 finalUrl: 'https://ekokamini.eu/'
 reachable: true
 noindex: false
@@ -37,10 +37,10 @@ signals:
       platform: Shopify
       isStore: true
       markers:
-        hasAddToCart: false
+        hasAddToCart: true
         hasCartLink: true
         hasCatalog: true
-        hasCartFlow: false
+        hasCartFlow: true
     detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
     status: pass
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-06-30'
-      daysToExpiry: 6
+      issuer: Google Trust Services
+      validTo: '2026-10-14'
+      daysToExpiry: 80
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null

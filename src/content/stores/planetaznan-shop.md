@@ -5,7 +5,7 @@ title: Is planetaznan.shop Legit? Trust Score 83/100
 description: >-
   planetaznan.shop scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:47:51.443Z'
+fetchedAt: '2026-07-27T08:34:11.713Z'
 finalUrl: 'https://planetaznan.shop/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-11'
-      daysToExpiry: 48
+      daysToExpiry: 16
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,29 +1,28 @@
 ---
 domain: ec2-35-178-88-138.eu-west-2.compute.amazonaws.com
 slug: ec2-35-178-88-138-eu-west-2-compute-amazonaws-com
-title: Is ec2-35-178-88-138.eu-west-2.compute.amazonaws.com Legit? Score 23/100
+title: Is ec2-35-178-88-138.eu-west-2.compute.amazonaws.com Legit? Score 49/100
 description: >-
-  ec2-35-178-88-138.eu-west-2.compute.amazonaws.com scores 23/100 on our public
-  trust checks. Standard contact and policy pages were not found.
-fetchedAt: '2026-06-25T02:17:29.315Z'
+  ec2-35-178-88-138.eu-west-2.compute.amazonaws.com scores 49/100 on our public
+  trust checks. HTTPS certificate present but its trust chain is incomplete.
+fetchedAt: '2026-07-27T08:08:26.857Z'
 finalUrl: 'http://ec2-35-178-88-138.eu-west-2.compute.amazonaws.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 23
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 49
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
     - HTTPS certificate present but its trust chain is incomplete.
+    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: warn
     value:
       issuer: null
       validTo: '2029-05-09'
-      daysToExpiry: 1050
+      daysToExpiry: 1018
       authorized: false
     detail: Certificate present but chain not trusted (DEPTH_ZERO_SELF_SIGNED_CERT).
   domainAge:
@@ -92,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for ec2-35-178-88-138.eu-west-2.compute.amazonaws.com. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — it runs on WooCommerce, an established e-commerce platform and it maintains active social media profiles — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+ec2-35-178-88-138.eu-west-2.compute.amazonaws.com sends a mixed set of signals. On the positive side, it runs on WooCommerce, an established e-commerce platform and it maintains active social media profiles. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ec2-35-178-88-138.eu-west-2 in the score above.
 

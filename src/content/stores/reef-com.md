@@ -4,8 +4,8 @@ slug: reef-com
 title: Is reef.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   reef.com scores 70/100 on our public trust checks. Established domain —
-  registered 32 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:07.136Z'
+  registered 32.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:17.647Z'
 finalUrl: 'https://www.reef.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 32 years ago.
+    - Established domain — registered 32.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1994-06-15'
-      ageDays: 11697
-      ageYears: 32
-    detail: Registered 32 years ago (1994-06-15).
+      ageDays: 11730
+      ageYears: 32.1
+    detail: Registered 32.1 years ago (1994-06-15).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-reef.com looks like a well-established store. The clearest positives are that its domain has been registered for 32 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+reef.com looks like a well-established store. The clearest positives are that its domain has been registered for 32.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Reef in the score above.
 

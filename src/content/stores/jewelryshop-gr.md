@@ -5,7 +5,7 @@ title: Is jewelryshop.gr Legit? Trust Score 83/100
 description: >-
   jewelryshop.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:39:41.110Z'
+fetchedAt: '2026-07-27T08:26:36.171Z'
 finalUrl: 'https://jewelryshop.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is nerdpress.net Legit? Trust Score 70/100
 description: >-
   nerdpress.net scores 70/100 on our public trust checks. Established domain —
   registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:33.881Z'
+fetchedAt: '2026-07-27T08:05:53.172Z'
 finalUrl: 'https://www.nerdpress.net/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-08'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-12-03'
-      ageDays: 3125
+      ageDays: 3157
       ageYears: 8.6
     detail: Registered 8.6 years ago (2017-12-03).
   contact:

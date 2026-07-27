@@ -4,8 +4,8 @@ slug: mlnaturpleje-dk
 title: Is mlnaturpleje.dk Legit? Trust Score 82/100
 description: >-
   mlnaturpleje.dk scores 82/100 on our public trust checks. Established domain —
-  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:20:21.010Z'
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:11:11.007Z'
 finalUrl: 'https://mlnaturpleje.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.3 years ago.
+    - Established domain — registered 12.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-03-04'
-      ageDays: 4496
-      ageYears: 12.3
-    detail: Registered 12.3 years ago (2014-03-04).
+      ageDays: 4528
+      ageYears: 12.4
+    detail: Registered 12.4 years ago (2014-03-04).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mlnaturpleje.dk looks like a well-established store. The clearest positives are that its domain has been registered for 12.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mlnaturpleje.dk looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mlnaturpleje in the score above.
 

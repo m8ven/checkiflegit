@@ -5,7 +5,7 @@ title: Is alacoohecuador.com Legit? Trust Score 58/100
 description: >-
   alacoohecuador.com scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:51:45.236Z'
+fetchedAt: '2026-07-27T08:37:29.930Z'
 finalUrl: 'https://alacoohecuador.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-17'
-      ageDays: 1650
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2021-12-17).
+      ageDays: 1682
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2021-12-17).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-alacoohecuador.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+alacoohecuador.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.6 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Alacoohecuador in the score above.
 

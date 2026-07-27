@@ -5,7 +5,7 @@ title: Is ecopowerworld.com.au Legit? Trust Score 79/100
 description: >-
   ecopowerworld.com.au scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:17:18.155Z'
+fetchedAt: '2026-07-27T08:08:14.171Z'
 finalUrl: 'https://ecopowerworld.com.au/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-07-12'
-      daysToExpiry: 18
+      issuer: Let's Encrypt
+      validTo: '2026-09-09'
+      daysToExpiry: 44
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null

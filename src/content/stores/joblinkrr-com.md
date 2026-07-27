@@ -4,8 +4,8 @@ slug: joblinkrr-com
 title: Is joblinkrr.com Legit? Trust Score 85/100
 description: >-
   joblinkrr.com scores 85/100 on our public trust checks. Established domain —
-  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:48.931Z'
+  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:26:44.315Z'
 finalUrl: 'https://joblinkrr.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-01-12'
-      ageDays: 528
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-01-12).
+      ageDays: 560
+      ageYears: 1.5
+    detail: Registered 1.5 years ago (2025-01-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-joblinkrr.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+joblinkrr.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Joblinkrr in the score above.
 

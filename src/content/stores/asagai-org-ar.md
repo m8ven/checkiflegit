@@ -5,7 +5,7 @@ title: Is asagai.org.ar Legit? Trust Score 83/100
 description: >-
   asagai.org.ar scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:49:38.537Z'
+fetchedAt: '2026-07-27T08:35:43.886Z'
 finalUrl: 'https://asagai.org.ar/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

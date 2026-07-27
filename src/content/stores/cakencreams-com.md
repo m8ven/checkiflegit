@@ -4,8 +4,8 @@ slug: cakencreams-com
 title: Is cakencreams.com Legit? Trust Score 94/100
 description: >-
   cakencreams.com scores 94/100 on our public trust checks. Established domain —
-  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:58.149Z'
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:13.936Z'
 finalUrl: 'https://cakencreams.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.2 years ago.
+    - Established domain — registered 1.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-20'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-03-27'
-      ageDays: 454
-      ageYears: 1.2
-    detail: Registered 1.2 years ago (2025-03-27).
+      ageDays: 486
+      ageYears: 1.3
+    detail: Registered 1.3 years ago (2025-03-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cakencreams.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cakencreams.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cakencreams in the score above.
 

@@ -6,7 +6,7 @@ description: >-
   porszivos.hu scores 44/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T02:41:18.621Z'
+fetchedAt: '2026-07-27T08:27:55.333Z'
 finalUrl: 'https://porszivos.hu/'
 reachable: true
 noindex: false
@@ -58,7 +58,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

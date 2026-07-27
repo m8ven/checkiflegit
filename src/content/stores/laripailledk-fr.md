@@ -1,11 +1,11 @@
 ---
 domain: laripailledk.fr
 slug: laripailledk-fr
-title: Is laripailledk.fr Legit? Trust Score 88/100
+title: Is laripailledk.fr Legit? Trust Score 100/100
 description: >-
-  laripailledk.fr scores 88/100 on our public trust checks. Established domain —
-  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:41:34.790Z'
+  laripailledk.fr scores 100/100 on our public trust checks. Established domain
+  — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:28:09.135Z'
 finalUrl: 'https://laripailledk.fr/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.5 years ago.
+    - Established domain — registered 1.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2025-01-01'
-      ageDays: 539
-      ageYears: 1.5
-    detail: Registered 1.5 years ago (2025-01-01).
+      ageDays: 572
+      ageYears: 1.6
+    detail: Registered 1.6 years ago (2025-01-01).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-laripailledk.fr looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+laripailledk.fr looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Laripailledk in the score above.
 

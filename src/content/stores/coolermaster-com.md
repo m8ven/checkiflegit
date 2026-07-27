@@ -4,8 +4,8 @@ slug: coolermaster-com
 title: Is coolermaster.com Legit? Trust Score 70/100
 description: >-
   coolermaster.com scores 70/100 on our public trust checks. Established domain
-  — registered 30.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:55.038Z'
+  — registered 30.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:06.349Z'
 finalUrl: 'https://www.coolermaster.com/en-global'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 30.1 years ago.
+    - Established domain — registered 30.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-05'
-      daysToExpiry: 135
+      daysToExpiry: 102
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1996-05-11'
-      ageDays: 11001
-      ageYears: 30.1
-    detail: Registered 30.1 years ago (1996-05-11).
+      ageDays: 11034
+      ageYears: 30.2
+    detail: Registered 30.2 years ago (1996-05-11).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-coolermaster.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+coolermaster.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Coolermaster in the score above.
 

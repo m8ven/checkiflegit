@@ -5,7 +5,7 @@ title: Is chickiedee.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   chickiedee.com scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:28:53.091Z'
+fetchedAt: '2026-07-27T08:17:49.453Z'
 finalUrl: 'https://chickiedee.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.8 years ago.
+    - Established domain — registered 18.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-08-24'
-      ageDays: 6879
-      ageYears: 18.8
-    detail: Registered 18.8 years ago (2007-08-24).
+      ageDays: 6912
+      ageYears: 18.9
+    detail: Registered 18.9 years ago (2007-08-24).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-chickiedee.com sends a mixed set of signals. On the positive side, its domain has been registered for 18.8 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+chickiedee.com sends a mixed set of signals. On the positive side, its domain has been registered for 18.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Chickiedee in the score above.
 

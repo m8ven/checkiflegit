@@ -4,8 +4,8 @@ slug: co-trip-jp
 title: Is co-trip.jp Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   co-trip.jp scores 88/100 on our public trust checks. Established domain —
-  registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:36.809Z'
+  registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:59.713Z'
 finalUrl: 'https://co-trip.jp/'
 reachable: true
 noindex: false
@@ -17,8 +17,7 @@ verdict:
     secure payment methods when shopping online.
   score: 88
   greenFlags:
-    - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 15.4 years ago.
+    - Established domain — registered 15.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://co-trip.jp/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: Shopify
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: false
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on Shopify, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -56,17 +55,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-19'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2011-01-20'
-      ageDays: 5634
-      ageYears: 15.4
-    detail: Registered 15.4 years ago (2011-01-20).
+      ageDays: 5667
+      ageYears: 15.5
+    detail: Registered 15.5 years ago (2011-01-20).
   contact:
     status: warn
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-co-trip.jp looks like a well-established store. The clearest positives are that its domain has been registered for 15.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+co-trip.jp looks like a well-established store. The clearest positives are that its domain has been registered for 15.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Co-trip in the score above.
 

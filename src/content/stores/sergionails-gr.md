@@ -5,7 +5,7 @@ title: Is sergionails.gr Legit? Trust Score 100/100
 description: >-
   sergionails.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:50:48.418Z'
+fetchedAt: '2026-07-27T08:36:31.528Z'
 finalUrl: 'https://sergionails.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

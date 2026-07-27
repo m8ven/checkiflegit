@@ -1,79 +1,78 @@
 ---
 domain: nobleinfoverse.com
 slug: nobleinfoverse-com
-title: Is nobleinfoverse.com Legit? Trust Score 73/100
+title: Is nobleinfoverse.com Legit? Trust Score 55/100
 description: >-
-  nobleinfoverse.com scores 73/100 on our public trust checks. Established
-  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:51.683Z'
-finalUrl: 'https://nobleinfoverse.com/'
+  nobleinfoverse.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-07-27T08:25:52.170Z'
+finalUrl: 'https://nobleinfoverse.com/cgi-sys/suspendedpage.cgi'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.1 years ago.
+    - Established domain — registered 3.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://nobleinfoverse.com/'
+      finalUrl: 'https://nobleinfoverse.com/cgi-sys/suspendedpage.cgi'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-25'
-      daysToExpiry: 62
+      daysToExpiry: 29
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-05-13'
-      ageDays: 1138
-      ageYears: 3.1
-    detail: Registered 3.1 years ago (2023-05-13).
+      ageDays: 1170
+      ageYears: 3.2
+    detail: Registered 3.2 years ago (2023-05-13).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nobleinfoverse.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nobleinfoverse.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nobleinfoverse in the score above.
 

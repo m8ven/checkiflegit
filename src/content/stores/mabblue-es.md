@@ -5,7 +5,7 @@ title: Is mabblue.es Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   mabblue.es scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:35:04.450Z'
+fetchedAt: '2026-07-27T08:22:53.052Z'
 finalUrl: 'https://mabblue.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

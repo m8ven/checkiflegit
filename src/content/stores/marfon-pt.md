@@ -5,7 +5,7 @@ title: Is marfon.pt Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   marfon.pt scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:43:22.776Z'
+fetchedAt: '2026-07-27T08:29:33.385Z'
 finalUrl: 'https://marfon.pt/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

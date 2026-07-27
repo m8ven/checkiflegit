@@ -4,9 +4,9 @@ slug: anticafarmaciaorlandi-it
 title: Is anticafarmaciaorlandi.it Legit? Trust Score 88/100
 description: >-
   anticafarmaciaorlandi.it scores 88/100 on our public trust checks. Established
-  domain — registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:45.503Z'
-finalUrl: 'https://www.anticafarmaciaorlandi.it/'
+  domain — registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:13.679Z'
+finalUrl: 'https://www.farma.it/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 10.4 years ago.
+    - Established domain — registered 10.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.anticafarmaciaorlandi.it/'
+      finalUrl: 'https://www.farma.it/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-28'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-02-08'
-      ageDays: 3788
-      ageYears: 10.4
-    detail: Registered 10.4 years ago (2016-02-08).
+      ageDays: 3821
+      ageYears: 10.5
+    detail: Registered 10.5 years ago (2016-02-08).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-anticafarmaciaorlandi.it looks like a well-established store. The clearest positives are that its domain has been registered for 10.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+anticafarmaciaorlandi.it looks like a well-established store. The clearest positives are that its domain has been registered for 10.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Anticafarmaciaorlandi in the score above.
 

@@ -5,7 +5,7 @@ title: Is bandsaegedirekt.de Legit? Trust Score 79/100
 description: >-
   bandsaegedirekt.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:20:22.299Z'
+fetchedAt: '2026-07-27T08:11:12.371Z'
 finalUrl: 'https://bandsaegedirekt.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

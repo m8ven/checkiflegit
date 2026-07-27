@@ -1,11 +1,11 @@
 ---
 domain: ditronix.net
 slug: ditronix-net
-title: Is ditronix.net Legit? Trust Score 94/100
+title: Is ditronix.net Legit? Trust Score 88/100
 description: >-
-  ditronix.net scores 94/100 on our public trust checks. Established domain —
-  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:09.259Z'
+  ditronix.net scores 88/100 on our public trust checks. Established domain —
+  registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:14:36.854Z'
 finalUrl: 'https://ditronix.net/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 94
+  score: 88
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.7 years ago.
+    - 'Built on Shopify, an established e-commerce platform.'
+    - Established domain — registered 16.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
+    - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Limited social media presence.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -35,14 +35,14 @@ signals:
   platform:
     status: pass
     value:
-      platform: WooCommerce
+      platform: Shopify
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
+        hasCartLink: false
         hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasCartFlow: false
+    detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
     status: pass
     value:
@@ -50,41 +50,41 @@ signals:
       privacy: true
       terms: false
       refund: true
-      shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
-      issuer: Sectigo Limited
-      validTo: '2026-12-16'
-      daysToExpiry: 175
+      issuer: Let's Encrypt
+      validTo: '2026-09-27'
+      daysToExpiry: 62
       authorized: true
-    detail: Valid certificate issued by Sectigo Limited.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-10-28'
-      ageDays: 6083
-      ageYears: 16.7
-    detail: Registered 16.7 years ago (2009-10-28).
+      ageDays: 6115
+      ageYears: 16.8
+    detail: Registered 16.8 years ago (2009-10-28).
   contact:
-    status: pass
-    value:
-      email: true
-      phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
-  social:
     status: warn
     value:
+      email: false
+      phone: true
+      address: false
+    detail: 'Public contact details found: phone.'
+  social:
+    status: pass
+    value:
       facebook: false
-      instagram: false
-      twitter: false
+      instagram: true
+      twitter: true
       tiktok: false
-      youtube: false
+      youtube: true
       linkedin: true
       pinterest: false
-    detail: 'Links to 1 social platform(s): linkedin.'
+    detail: 'Links to 4 social platform(s): instagram, twitter, youtube, linkedin.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ditronix.net looks like a well-established store. The clearest positives are that its domain has been registered for 16.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ditronix.net looks like a well-established store. The clearest positives are that its domain has been registered for 16.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ditronix in the score above.
 

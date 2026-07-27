@@ -1,11 +1,11 @@
 ---
 domain: akvazoo.ee
 slug: akvazoo-ee
-title: Is akvazoo.ee Legit? Trust Score 94/100 — Trust Checks Pass
+title: Is akvazoo.ee Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  akvazoo.ee scores 94/100 on our public trust checks. Established domain —
-  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:12.759Z'
+  akvazoo.ee scores 82/100 on our public trust checks. Established domain —
+  registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:26:06.771Z'
 finalUrl: 'https://akvazoo.ee/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 94
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.7 years ago.
+    - Established domain — registered 11.8 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-10-20'
-      ageDays: 4265
-      ageYears: 11.7
-    detail: Registered 11.7 years ago (2014-10-20).
+      ageDays: 4297
+      ageYears: 11.8
+    detail: Registered 11.8 years ago (2014-10-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-akvazoo.ee looks like a well-established store. The clearest positives are that its domain has been registered for 11.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+akvazoo.ee looks like a well-established store. The clearest positives are that its domain has been registered for 11.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Akvazoo in the score above.
 

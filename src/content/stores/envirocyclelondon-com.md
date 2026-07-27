@@ -4,8 +4,8 @@ slug: envirocyclelondon-com
 title: Is envirocyclelondon.com Legit? Trust Score 100/100
 description: >-
   envirocyclelondon.com scores 100/100 on our public trust checks. Established
-  domain — registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:26.820Z'
+  domain — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:42.179Z'
 finalUrl: 'https://envirocyclelondon.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.3 years ago.
+    - Established domain — registered 9.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-12'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-03-09'
-      ageDays: 3394
-      ageYears: 9.3
-    detail: Registered 9.3 years ago (2017-03-09).
+      ageDays: 3426
+      ageYears: 9.4
+    detail: Registered 9.4 years ago (2017-03-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-envirocyclelondon.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+envirocyclelondon.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Envirocyclelondon in the score above.
 

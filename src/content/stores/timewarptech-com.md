@@ -4,8 +4,8 @@ slug: timewarptech-com
 title: Is timewarptech.com Legit? Trust Score 70/100
 description: >-
   timewarptech.com scores 70/100 on our public trust checks. Established domain
-  — registered 26.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:09.101Z'
+  — registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:19.011Z'
 finalUrl: 'https://timewarptech.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.5 years ago.
+    - Established domain — registered 26.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-19'
-      daysToExpiry: 117
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2000-01-13'
-      ageDays: 9659
-      ageYears: 26.5
-    detail: Registered 26.5 years ago (2000-01-13).
+      ageDays: 9691
+      ageYears: 26.6
+    detail: Registered 26.6 years ago (2000-01-13).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-timewarptech.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+timewarptech.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Timewarptech in the score above.
 

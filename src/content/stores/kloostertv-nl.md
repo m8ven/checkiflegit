@@ -1,30 +1,27 @@
 ---
 domain: kloostertv.nl
 slug: kloostertv-nl
-title: Is kloostertv.nl Legit? Trust Score 58/100 — Mixed Signals
+title: Is kloostertv.nl Legit? Trust Score 100/100
 description: >-
-  kloostertv.nl scores 58/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T02:40:47.735Z'
+  kloostertv.nl scores 100/100 on our public trust checks. Established domain —
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:27:37.611Z'
 finalUrl: 'https://kloostertv.nl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 58
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 100
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.2 years ago.
+    - Established domain — registered 6.3 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags: []
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,58 +30,43 @@ signals:
       finalUrl: 'https://kloostertv.nl/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+    detail: No page content to inspect.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: false
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: warn
-    value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-13'
-      daysToExpiry: 19
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-04-13'
-      ageDays: 2264
-      ageYears: 6.2
-    detail: Registered 6.2 years ago (2020-04-13).
+      ageDays: 2296
+      ageYears: 6.3
+    detail: Registered 6.3 years ago (2020-04-13).
   contact:
-    status: fail
-    value:
-      email: false
-      phone: false
-      address: false
-    detail: No public contact details detected on the homepage.
+    status: unknown
+    value: {}
+    detail: No page content to inspect.
   social:
-    status: pass
-    value:
-      facebook: true
-      instagram: false
-      twitter: true
-      tiktok: false
-      youtube: true
-      linkedin: false
-      pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, twitter, youtube.'
+    status: unknown
+    value: {}
+    detail: No page content to inspect.
   reviews:
     status: unknown
     value:
@@ -95,7 +77,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kloostertv.nl sends a mixed set of signals. On the positive side, its domain has been registered for 6.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+kloostertv.nl looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kloostertv in the score above.
 

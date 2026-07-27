@@ -1,28 +1,30 @@
 ---
 domain: kuono.fi
 slug: kuono-fi
-title: Is kuono.fi Legit? Trust Score 52/100 — Mixed Signals
+title: Is kuono.fi Legit? Trust Score 14/100 — Proceed With Caution
 description: >-
-  kuono.fi scores 52/100 on our public trust checks. Some standard policy or
-  contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:33:06.339Z'
+  kuono.fi scores 14/100 on our public trust checks. Standard contact and policy
+  pages were not found. No public contact details detected on the homepage.
+fetchedAt: '2026-07-27T08:21:28.193Z'
 finalUrl: 'https://kuono.fi/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 52
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 14
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+  redFlags:
+    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
+  cautions: []
 signals:
   http:
     status: pass
@@ -42,29 +44,33 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-09-07'
+      daysToExpiry: 43
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: pass
     value:
@@ -86,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kuono.fi sends a mixed set of signals. On the positive side, it runs on WooCommerce, an established e-commerce platform and it maintains active social media profiles. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for kuono.fi. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kuono in the score above.
 

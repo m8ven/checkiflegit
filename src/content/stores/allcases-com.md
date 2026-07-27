@@ -4,8 +4,8 @@ slug: allcases-com
 title: Is allcases.com Legit? Trust Score 100/100
 description: >-
   allcases.com scores 100/100 on our public trust checks. Established domain —
-  registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:40:13.149Z'
+  registered 27.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:27:04.081Z'
 finalUrl: 'https://allcases.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.7 years ago.
+    - Established domain — registered 27.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1998-10-14'
-      ageDays: 10115
-      ageYears: 27.7
-    detail: Registered 27.7 years ago (1998-10-14).
+      ageDays: 10148
+      ageYears: 27.8
+    detail: Registered 27.8 years ago (1998-10-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-allcases.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+allcases.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Allcases in the score above.
 

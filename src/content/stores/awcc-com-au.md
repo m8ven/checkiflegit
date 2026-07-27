@@ -5,7 +5,7 @@ title: Is awcc.com.au Legit? Trust Score 100/100
 description: >-
   awcc.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:48:38.564Z'
+fetchedAt: '2026-07-27T08:34:42.223Z'
 finalUrl: 'https://awcc.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-23'
-      daysToExpiry: 90
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

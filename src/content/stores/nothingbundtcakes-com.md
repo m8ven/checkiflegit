@@ -4,8 +4,8 @@ slug: nothingbundtcakes-com
 title: Is nothingbundtcakes.com Legit? Trust Score 70/100
 description: >-
   nothingbundtcakes.com scores 70/100 on our public trust checks. Established
-  domain — registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:50.909Z'
+  domain — registered 26.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:03.144Z'
 finalUrl: 'https://www.nothingbundtcakes.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 26.6 years ago.
+    - Established domain — registered 26.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-11-23'
-      ageDays: 9710
-      ageYears: 26.6
-    detail: Registered 26.6 years ago (1999-11-23).
+      ageDays: 9742
+      ageYears: 26.7
+    detail: Registered 26.7 years ago (1999-11-23).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nothingbundtcakes.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nothingbundtcakes.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nothingbundtcakes in the score above.
 

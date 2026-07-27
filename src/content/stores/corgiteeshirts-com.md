@@ -5,7 +5,7 @@ title: Is corgiteeshirts.com Legit? Trust Score 46/100
 description: >-
   corgiteeshirts.com scores 46/100 on our public trust checks. No public contact
   details detected on the homepage. Domain is relatively young.
-fetchedAt: '2026-06-25T02:23:58.583Z'
+fetchedAt: '2026-07-27T08:13:33.478Z'
 finalUrl: 'https://corgiteeshirts.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-11'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-01-08'
-      ageDays: 167
+      ageDays: 199
       ageYears: 0.5
     detail: Registered 0.5 years ago (2026-01-08).
   contact:

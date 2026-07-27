@@ -5,7 +5,7 @@ title: Is aestheticbeautylab.co Legit? Trust Score 83/100
 description: >-
   aestheticbeautylab.co scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:37:37.938Z'
+fetchedAt: '2026-07-27T08:24:59.809Z'
 finalUrl: 'https://aestheticbeautylab.co/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-22'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

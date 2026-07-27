@@ -5,7 +5,7 @@ title: Is corsi.isdifog.it Legit? Trust Score 100/100
 description: >-
   corsi.isdifog.it scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:23:06.289Z'
+fetchedAt: '2026-07-27T08:12:58.082Z'
 finalUrl: 'https://corsi.isdifog.it/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-17'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

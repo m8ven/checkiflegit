@@ -5,7 +5,7 @@ title: Is amalthea.at Legit? Trust Score 100/100
 description: >-
   amalthea.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:19:00.533Z'
+fetchedAt: '2026-07-27T08:10:18.845Z'
 finalUrl: 'https://amalthea.at/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

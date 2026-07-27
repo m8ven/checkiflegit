@@ -5,7 +5,7 @@ title: Is makeyouwant.fr Legit? Trust Score 94/100
 description: >-
   makeyouwant.fr scores 94/100 on our public trust checks. Established domain —
   registered 3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:43:07.160Z'
+fetchedAt: '2026-07-27T08:29:19.534Z'
 finalUrl: 'https://makeyouwant.fr/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-09'
-      ageDays: 1081
+      ageDays: 1113
       ageYears: 3
     detail: Registered 3 years ago (2023-07-09).
   contact:

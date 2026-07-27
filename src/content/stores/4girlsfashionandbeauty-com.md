@@ -5,7 +5,7 @@ title: Is 4girlsfashionandbeauty.com Legit? Trust Score 67/100
 description: >-
   4girlsfashionandbeauty.com scores 67/100 on our public trust checks. No links
   to major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T02:22:25.383Z'
+fetchedAt: '2026-07-27T08:12:34.446Z'
 finalUrl: 'https://4girlsfashionandbeauty.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-12-15'
-      ageDays: 191
-      ageYears: 0.5
-    detail: Registered 0.5 years ago (2025-12-15).
+      ageDays: 223
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2025-12-15).
   contact:
     status: pass
     value:

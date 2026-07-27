@@ -4,8 +4,8 @@ slug: chefcigars-se
 title: Is chefcigars.se Legit? Trust Score 88/100
 description: >-
   chefcigars.se scores 88/100 on our public trust checks. Established domain —
-  registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:16:53.380Z'
+  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:57.336Z'
 finalUrl: 'https://chefcigars.se/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.7 years ago.
+    - Established domain — registered 8.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 78
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-10-21'
-      ageDays: 3169
-      ageYears: 8.7
-    detail: Registered 8.7 years ago (2017-10-21).
+      ageDays: 3201
+      ageYears: 8.8
+    detail: Registered 8.8 years ago (2017-10-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-chefcigars.se looks like a well-established store. The clearest positives are that its domain has been registered for 8.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+chefcigars.se looks like a well-established store. The clearest positives are that its domain has been registered for 8.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Chefcigars in the score above.
 

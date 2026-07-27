@@ -5,7 +5,7 @@ title: Is hiusateljeewinter-aalto.fi Legit? Trust Score 19/100
 description: >-
   hiusateljeewinter-aalto.fi scores 19/100 on our public trust checks. Standard
   contact and policy pages were not found.
-fetchedAt: '2026-06-25T02:37:14.150Z'
+fetchedAt: '2026-07-27T08:24:42.255Z'
 finalUrl: 'https://hiusateljeewinter-aalto.fi/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-20'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

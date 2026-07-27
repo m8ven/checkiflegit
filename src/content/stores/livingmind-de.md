@@ -5,7 +5,7 @@ title: Is livingmind.de Legit? Trust Score 100/100
 description: >-
   livingmind.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:47:23.008Z'
+fetchedAt: '2026-07-27T08:33:51.940Z'
 finalUrl: 'https://livingmind.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

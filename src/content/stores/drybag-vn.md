@@ -5,7 +5,7 @@ title: Is drybag.vn Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   drybag.vn scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:18:14.367Z'
+fetchedAt: '2026-07-27T08:09:14.046Z'
 finalUrl: 'https://drybag.vn/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: ZeroSSL GmbH
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-22'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by ZeroSSL GmbH.
   domainAge:

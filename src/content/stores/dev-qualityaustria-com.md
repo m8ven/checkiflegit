@@ -5,7 +5,7 @@ title: Is dev.qualityaustria.com Legit? Trust Score 100/100
 description: >-
   dev.qualityaustria.com scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:44.511Z'
+fetchedAt: '2026-07-27T08:14:13.646Z'
 finalUrl: 'https://dev.qualityaustria.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-24'
-      daysToExpiry: 153
+      daysToExpiry: 121
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

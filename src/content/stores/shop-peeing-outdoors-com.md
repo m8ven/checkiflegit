@@ -5,7 +5,7 @@ title: Is shop.peeing-outdoors.com Legit? Trust Score 44/100
 description: >-
   shop.peeing-outdoors.com scores 44/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:45:14.215Z'
+fetchedAt: '2026-07-27T08:31:32.231Z'
 finalUrl: 'https://shop.peeing-outdoors.com/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-24'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

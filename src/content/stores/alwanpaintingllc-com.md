@@ -4,8 +4,8 @@ slug: alwanpaintingllc-com
 title: Is alwanpaintingllc.com Legit? Trust Score 73/100
 description: >-
   alwanpaintingllc.com scores 73/100 on our public trust checks. Established
-  domain — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:06.449Z'
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:39.888Z'
 finalUrl: 'https://alwanpaintingllc.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.8 years ago.
+    - Established domain — registered 1.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-09-18'
-      ageDays: 644
-      ageYears: 1.8
-    detail: Registered 1.8 years ago (2024-09-18).
+      ageDays: 676
+      ageYears: 1.9
+    detail: Registered 1.9 years ago (2024-09-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-alwanpaintingllc.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+alwanpaintingllc.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Alwanpaintingllc in the score above.
 

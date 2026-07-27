@@ -5,7 +5,7 @@ title: Is skimania.at Legit? Trust Score 19/100
 description: >-
   skimania.at scores 19/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:51:33.860Z'
+fetchedAt: '2026-07-27T08:37:19.677Z'
 finalUrl: 'https://skimania.at/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

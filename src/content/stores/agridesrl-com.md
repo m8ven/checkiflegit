@@ -3,9 +3,9 @@ domain: agridesrl.com
 slug: agridesrl-com
 title: Is agridesrl.com Legit? Trust Score 100/100
 description: >-
-  agridesrl.com scores 100/100 on our public trust checks. Established domain —
-  registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:36.503Z'
+  agridesrl.com scores 100/100 on our public trust checks. Has a contact page
+  and multiple policy pages (privacy/terms/refund).
+fetchedAt: '2026-07-27T08:09:37.399Z'
 finalUrl: 'https://agridesrl.com/'
 reachable: true
 noindex: false
@@ -18,8 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.5 years ago.
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -53,20 +51,13 @@ signals:
       shipping: false
     detail: Found 3 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-16'
-      daysToExpiry: 84
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2019-12-11'
-      ageDays: 2387
-      ageYears: 6.5
-    detail: Registered 6.5 years ago (2019-12-11).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -95,7 +86,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-agridesrl.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+agridesrl.com looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Agridesrl in the score above.
 

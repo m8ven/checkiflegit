@@ -6,7 +6,7 @@ description: >-
   guitarinteractivemagazine.com scores 88/100 on our public trust checks.
   Established domain — registered 15.6 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:36:11.818Z'
+fetchedAt: '2026-07-27T08:23:50.451Z'
 finalUrl: 'https://guitarinteractivemagazine.com/'
 reachable: true
 noindex: false
@@ -57,15 +57,15 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2010-12-06'
-      ageDays: 5679
+      ageDays: 5711
       ageYears: 15.6
     detail: Registered 15.6 years ago (2010-12-06).
   contact:

@@ -4,9 +4,9 @@ slug: americanvintage-store-com
 title: Is americanvintage-store.com Legit? Trust Score 88/100
 description: >-
   americanvintage-store.com scores 88/100 on our public trust checks.
-  Established domain — registered 19.5 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 19.6 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-24T21:46:37.222Z'
+fetchedAt: '2026-07-27T08:07:03.328Z'
 finalUrl: 'https://www.americanvintage-store.com/fr/fr/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 19.5 years ago.
+    - Established domain — registered 19.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-12-02'
-      daysToExpiry: 162
+      daysToExpiry: 129
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2006-12-19'
-      ageDays: 7127
-      ageYears: 19.5
-    detail: Registered 19.5 years ago (2006-12-19).
+      ageDays: 7159
+      ageYears: 19.6
+    detail: Registered 19.6 years ago (2006-12-19).
   contact:
     status: warn
     value:
@@ -98,7 +98,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-americanvintage-store.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+americanvintage-store.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Americanvintage-store in the score above.
 

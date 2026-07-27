@@ -5,7 +5,7 @@ title: Is formuladaaprovacao.com.br Legit? Trust Score 40/100
 description: >-
   formuladaaprovacao.com.br scores 40/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:28:00.705Z'
+fetchedAt: '2026-07-27T08:17:08.493Z'
 finalUrl: 'https://formuladaaprovacao.com.br/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

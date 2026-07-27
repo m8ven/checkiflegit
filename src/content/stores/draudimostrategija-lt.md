@@ -4,8 +4,8 @@ slug: draudimostrategija-lt
 title: Is draudimostrategija.lt Legit? Trust Score 82/100
 description: >-
   draudimostrategija.lt scores 82/100 on our public trust checks. Established
-  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:51.718Z'
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:15:08.384Z'
 finalUrl: 'https://draudimostrategija.lt/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.3 years ago.
+    - Established domain — registered 1.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-03-15'
-      ageDays: 467
-      ageYears: 1.3
-    detail: Registered 1.3 years ago (2025-03-15).
+      ageDays: 499
+      ageYears: 1.4
+    detail: Registered 1.4 years ago (2025-03-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-draudimostrategija.lt looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+draudimostrategija.lt looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Draudimostrategija in the score above.
 

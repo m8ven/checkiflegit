@@ -1,11 +1,11 @@
 ---
 domain: albalazari.com
 slug: albalazari-com
-title: Is albalazari.com Legit? Trust Score 70/100
+title: Is albalazari.com Legit? Trust Score 88/100
 description: >-
-  albalazari.com scores 70/100 on our public trust checks. Established domain —
-  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:51:59.909Z'
+  albalazari.com scores 88/100 on our public trust checks. Established domain —
+  registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:37:44.419Z'
 finalUrl: 'https://albalazari.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 11.7 years ago.
+    - Established domain — registered 11.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-10-06'
-      ageDays: 4279
-      ageYears: 11.7
-    detail: Registered 11.7 years ago (2014-10-06).
+      ageDays: 4311
+      ageYears: 11.8
+    detail: Registered 11.8 years ago (2014-10-06).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-albalazari.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+albalazari.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Albalazari in the score above.
 

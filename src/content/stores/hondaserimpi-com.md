@@ -5,7 +5,7 @@ title: Is hondaserimpi.com Legit? Trust Score 88/100
 description: >-
   hondaserimpi.com scores 88/100 on our public trust checks. Established domain
   — registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:10.292Z'
+fetchedAt: '2026-07-27T08:18:58.335Z'
 finalUrl: 'https://hondaserimpi.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-17'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-01-13'
-      ageDays: 4180
+      ageDays: 4213
       ageYears: 11.5
     detail: Registered 11.5 years ago (2015-01-13).
   contact:

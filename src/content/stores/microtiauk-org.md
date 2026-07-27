@@ -4,8 +4,8 @@ slug: microtiauk-org
 title: Is microtiauk.org Legit? Trust Score 88/100
 description: >-
   microtiauk.org scores 88/100 on our public trust checks. Established domain —
-  registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:36:43.189Z'
+  registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:24:16.532Z'
 finalUrl: 'https://microtiauk.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.6 years ago.
+    - Established domain — registered 12.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-16'
-      daysToExpiry: 145
+      daysToExpiry: 113
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2013-11-17'
-      ageDays: 4602
-      ageYears: 12.6
-    detail: Registered 12.6 years ago (2013-11-17).
+      ageDays: 4634
+      ageYears: 12.7
+    detail: Registered 12.7 years ago (2013-11-17).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-microtiauk.org looks like a well-established store. The clearest positives are that its domain has been registered for 12.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+microtiauk.org looks like a well-established store. The clearest positives are that its domain has been registered for 12.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Microtiauk in the score above.
 

@@ -5,7 +5,7 @@ title: Is jesusenglishschool.com Legit? Trust Score 94/100
 description: >-
   jesusenglishschool.com scores 94/100 on our public trust checks. Established
   domain — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:38.635Z'
+fetchedAt: '2026-07-27T08:26:34.694Z'
 finalUrl: 'https://jesusenglishschool.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-22'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-06-04'
-      ageDays: 750
+      ageDays: 782
       ageYears: 2.1
     detail: Registered 2.1 years ago (2024-06-04).
   contact:

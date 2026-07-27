@@ -1,11 +1,11 @@
 ---
 domain: integralms.ru
 slug: integralms-ru
-title: Is integralms.ru Legit? Trust Score 73/100
+title: Is integralms.ru Legit? Trust Score 85/100
 description: >-
-  integralms.ru scores 73/100 on our public trust checks. Established domain —
+  integralms.ru scores 85/100 on our public trust checks. Established domain —
   registered 16.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:53.273Z'
+fetchedAt: '2026-07-27T08:25:14.745Z'
 finalUrl: 'https://integralms.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Established domain — registered 16.1 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,27 +44,27 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: GlobalSign nv-sa
       validTo: '2026-10-05'
-      daysToExpiry: 103
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by GlobalSign nv-sa.
   domainAge:
     status: pass
     value:
       createdAt: '2010-06-08'
-      ageDays: 5860
+      ageDays: 5893
       ageYears: 16.1
     detail: Registered 16.1 years ago (2010-06-08).
   contact:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-integralms.ru looks like a well-established store. The clearest positives are that its domain has been registered for 16.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+integralms.ru looks like a well-established store. The clearest positives are that its domain has been registered for 16.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Integralms in the score above.
 

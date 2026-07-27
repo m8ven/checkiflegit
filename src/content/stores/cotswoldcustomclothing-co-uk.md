@@ -4,9 +4,9 @@ slug: cotswoldcustomclothing-co-uk
 title: Is cotswoldcustomclothing.co.uk Legit? Trust Score 100/100
 description: >-
   cotswoldcustomclothing.co.uk scores 100/100 on our public trust checks.
-  Established domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:29:46.758Z'
+fetchedAt: '2026-07-27T08:18:38.879Z'
 finalUrl: 'https://cotswoldcustomclothing.co.uk/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-02-05'
-      ageDays: 504
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-02-05).
+      ageDays: 537
+      ageYears: 1.5
+    detail: Registered 1.5 years ago (2025-02-05).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cotswoldcustomclothing.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cotswoldcustomclothing.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cotswoldcustomclothing in the score above.
 

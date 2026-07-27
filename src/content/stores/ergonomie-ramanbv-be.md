@@ -5,7 +5,7 @@ title: Is ergonomie.ramanbv.be Legit? Trust Score 83/100
 description: >-
   ergonomie.ramanbv.be scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:32:40.999Z'
+fetchedAt: '2026-07-27T08:21:05.342Z'
 finalUrl: 'https://ergonomie.ramanbv.be/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

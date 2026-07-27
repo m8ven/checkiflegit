@@ -4,8 +4,8 @@ slug: partymancatering-com
 title: Is partymancatering.com Legit? Trust Score 88/100
 description: >-
   partymancatering.com scores 88/100 on our public trust checks. Established
-  domain — registered 23.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:40:23.791Z'
+  domain — registered 23.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:27:11.134Z'
 finalUrl: 'https://partymancatering.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.3 years ago.
+    - Established domain — registered 23.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2003-03-23'
-      ageDays: 8495
-      ageYears: 23.3
-    detail: Registered 23.3 years ago (2003-03-23).
+      ageDays: 8527
+      ageYears: 23.4
+    detail: Registered 23.4 years ago (2003-03-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-partymancatering.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+partymancatering.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Partymancatering in the score above.
 

@@ -4,8 +4,8 @@ slug: balancedbodyfoods-com
 title: Is balancedbodyfoods.com Legit? Trust Score 100/100
 description: >-
   balancedbodyfoods.com scores 100/100 on our public trust checks. Established
-  domain — registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:20:21.767Z'
+  domain — registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:11:12.176Z'
 finalUrl: 'https://balancedbodyfoods.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.7 years ago.
+    - Established domain — registered 9.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-10-24'
-      ageDays: 3530
-      ageYears: 9.7
-    detail: Registered 9.7 years ago (2016-10-24).
+      ageDays: 3562
+      ageYears: 9.8
+    detail: Registered 9.8 years ago (2016-10-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-balancedbodyfoods.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+balancedbodyfoods.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Balancedbodyfoods in the score above.
 

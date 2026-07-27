@@ -1,11 +1,11 @@
 ---
 domain: visiblevibrations.com
 slug: visiblevibrations-com
-title: Is visiblevibrations.com Legit? Trust Score 70/100
+title: Is visiblevibrations.com Legit? Trust Score 88/100
 description: >-
-  visiblevibrations.com scores 70/100 on our public trust checks. Established
-  domain — registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:47.743Z'
+  visiblevibrations.com scores 88/100 on our public trust checks. Established
+  domain — registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:52.458Z'
 finalUrl: 'https://visiblevibrations.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.2 years ago.
+    - Established domain — registered 15.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 78
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-04-02'
-      ageDays: 5562
-      ageYears: 15.2
-    detail: Registered 15.2 years ago (2011-04-02).
+      ageDays: 5594
+      ageYears: 15.3
+    detail: Registered 15.3 years ago (2011-04-02).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-visiblevibrations.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+visiblevibrations.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Visiblevibrations in the score above.
 

@@ -4,8 +4,8 @@ slug: fulontri-club
 title: Is fulontri.club Legit? Trust Score 88/100
 description: >-
   fulontri.club scores 88/100 on our public trust checks. Established domain —
-  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:28:37.752Z'
+  registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:17:38.672Z'
 finalUrl: 'https://fulontri.club/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.7 years ago.
+    - Established domain — registered 10.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 44
+      validTo: '2026-10-15'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-10-01'
-      ageDays: 3919
-      ageYears: 10.7
-    detail: Registered 10.7 years ago (2015-10-01).
+      ageDays: 3951
+      ageYears: 10.8
+    detail: Registered 10.8 years ago (2015-10-01).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fulontri.club looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fulontri.club looks like a well-established store. The clearest positives are that its domain has been registered for 10.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fulontri in the score above.
 

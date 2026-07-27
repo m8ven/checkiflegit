@@ -5,7 +5,7 @@ title: Is carmelagalicia.com Legit? Trust Score 55/100
 description: >-
   carmelagalicia.com scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:21:13.669Z'
+fetchedAt: '2026-07-27T08:11:41.459Z'
 finalUrl: 'https://carmelagalicia.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.1 years ago.
+    - Established domain — registered 2.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-04'
-      daysToExpiry: 133
+      daysToExpiry: 101
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2024-05-06'
-      ageDays: 779
-      ageYears: 2.1
-    detail: Registered 2.1 years ago (2024-05-06).
+      ageDays: 811
+      ageYears: 2.2
+    detail: Registered 2.2 years ago (2024-05-06).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-carmelagalicia.com sends a mixed set of signals. On the positive side, its domain has been registered for 2.1 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+carmelagalicia.com sends a mixed set of signals. On the positive side, its domain has been registered for 2.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Carmelagalicia in the score above.
 

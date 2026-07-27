@@ -5,7 +5,7 @@ title: Is grizzlyapps.com Legit? Trust Score 85/100
 description: >-
   grizzlyapps.com scores 85/100 on our public trust checks. Established domain —
   registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:16.251Z'
+fetchedAt: '2026-07-27T08:05:40.881Z'
 finalUrl: 'https://grizzlyapps.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-11-11'
-      daysToExpiry: 141
+      daysToExpiry: 108
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
     status: pass
     value:
       createdAt: '2015-03-25'
-      ageDays: 4109
+      ageDays: 4141
       ageYears: 11.3
     detail: Registered 11.3 years ago (2015-03-25).
   contact:

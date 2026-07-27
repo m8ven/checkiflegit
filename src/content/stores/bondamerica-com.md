@@ -4,8 +4,8 @@ slug: bondamerica-com
 title: Is bondamerica.com Legit? Trust Score 76/100
 description: >-
   bondamerica.com scores 76/100 on our public trust checks. Established domain —
-  registered 28.3 years ago. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:21:26.597Z'
+  registered 28.4 years ago. Public business contact details are listed.
+fetchedAt: '2026-07-27T08:11:49.283Z'
 finalUrl: 'http://bondamerica.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.3 years ago.
+    - Established domain — registered 28.4 years ago.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-13'
-      daysToExpiry: 172
+      daysToExpiry: 140
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '1998-03-16'
-      ageDays: 10327
-      ageYears: 28.3
-    detail: Registered 28.3 years ago (1998-03-16).
+      ageDays: 10360
+      ageYears: 28.4
+    detail: Registered 28.4 years ago (1998-03-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bondamerica.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bondamerica.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bondamerica in the score above.
 

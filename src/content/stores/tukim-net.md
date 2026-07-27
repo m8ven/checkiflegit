@@ -4,8 +4,8 @@ slug: tukim-net
 title: Is tukim.net Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   tukim.net scores 88/100 on our public trust checks. Established domain —
-  registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:57.682Z'
+  registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:03.518Z'
 finalUrl: 'https://tukim.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.1 years ago.
+    - Established domain — registered 23.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-05-14'
-      ageDays: 8442
-      ageYears: 23.1
-    detail: Registered 23.1 years ago (2003-05-14).
+      ageDays: 8474
+      ageYears: 23.2
+    detail: Registered 23.2 years ago (2003-05-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tukim.net looks like a well-established store. The clearest positives are that its domain has been registered for 23.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tukim.net looks like a well-established store. The clearest positives are that its domain has been registered for 23.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tukim in the score above.
 

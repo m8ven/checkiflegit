@@ -4,8 +4,8 @@ slug: islandbcn-com
 title: Is islandbcn.com Legit? Trust Score 100/100
 description: >-
   islandbcn.com scores 100/100 on our public trust checks. Established domain —
-  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:32.558Z'
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:38.955Z'
 finalUrl: 'https://islandbcn.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.2 years ago.
+    - Established domain — registered 1.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-04-05'
-      ageDays: 446
-      ageYears: 1.2
-    detail: Registered 1.2 years ago (2025-04-05).
+      ageDays: 478
+      ageYears: 1.3
+    detail: Registered 1.3 years ago (2025-04-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-islandbcn.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+islandbcn.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Islandbcn in the score above.
 

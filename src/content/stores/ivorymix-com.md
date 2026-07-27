@@ -5,7 +5,7 @@ title: Is ivorymix.com Legit? Trust Score 70/100
 description: >-
   ivorymix.com scores 70/100 on our public trust checks. Established domain —
   registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:41.868Z'
+fetchedAt: '2026-07-27T08:25:43.984Z'
 finalUrl: 'https://ivorymix.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-01'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-12-05'
-      ageDays: 3854
+      ageDays: 3886
       ageYears: 10.6
     detail: Registered 10.6 years ago (2015-12-05).
   contact:

@@ -1,11 +1,11 @@
 ---
 domain: browardinternationalwomensclub.org
 slug: browardinternationalwomensclub-org
-title: Is browardinternationalwomensclub.org Legit? Score 88/100
+title: Is browardinternationalwomensclub.org Legit? Score 100/100
 description: >-
-  browardinternationalwomensclub.org scores 88/100 on our public trust checks.
-  Established domain — registered 17.9 years ago.
-fetchedAt: '2026-06-25T02:20:36.902Z'
+  browardinternationalwomensclub.org scores 100/100 on our public trust checks.
+  Established domain — registered 18 years ago.
+fetchedAt: '2026-07-27T08:11:20.420Z'
 finalUrl: 'https://browardinternationalwomensclub.org/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.9 years ago.
+    - Established domain — registered 18 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-08-08'
-      ageDays: 6529
-      ageYears: 17.9
-    detail: Registered 17.9 years ago (2008-08-08).
+      ageDays: 6561
+      ageYears: 18
+    detail: Registered 18 years ago (2008-08-08).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
-      phone: false
+      phone: true
       address: true
-    detail: 'Public contact details found: address.'
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-browardinternationalwomensclub.org looks like a well-established store. The clearest positives are that its domain has been registered for 17.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+browardinternationalwomensclub.org looks like a well-established store. The clearest positives are that its domain has been registered for 18 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Browardinternationalwomensclub in the score above.
 

@@ -4,9 +4,9 @@ slug: castironradiatorcompany-co-uk
 title: Is castironradiatorcompany.co.uk Legit? Trust Score 94/100
 description: >-
   castironradiatorcompany.co.uk scores 94/100 on our public trust checks.
-  Established domain — registered 5.1 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:21:25.302Z'
+fetchedAt: '2026-07-27T08:11:48.836Z'
 finalUrl: 'https://castironradiatorcompany.co.uk/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.1 years ago.
+    - Established domain — registered 5.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-09-30'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-05-05'
-      ageDays: 1876
-      ageYears: 5.1
-    detail: Registered 5.1 years ago (2021-05-05).
+      ageDays: 1909
+      ageYears: 5.2
+    detail: Registered 5.2 years ago (2021-05-05).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-castironradiatorcompany.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 5.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+castironradiatorcompany.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 5.2 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Castironradiatorcompany in the score above.
 

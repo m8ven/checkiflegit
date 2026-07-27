@@ -5,7 +5,7 @@ title: Is citimobi.com.tw Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   citimobi.com.tw scores 49/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:22:10.407Z'
+fetchedAt: '2026-07-27T08:12:23.575Z'
 finalUrl: 'https://citimobi.com.tw/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

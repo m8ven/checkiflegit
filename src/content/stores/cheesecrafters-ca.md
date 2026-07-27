@@ -4,8 +4,8 @@ slug: cheesecrafters-ca
 title: Is cheesecrafters.ca Legit? Trust Score 100/100
 description: >-
   cheesecrafters.ca scores 100/100 on our public trust checks. Established
-  domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:42.493Z'
+  domain — registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:41.766Z'
 finalUrl: 'https://cheesecrafters.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 14.3 years ago.
+    - Established domain — registered 14.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 78
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-03-16'
-      ageDays: 5213
-      ageYears: 14.3
-    detail: Registered 14.3 years ago (2012-03-16).
+      ageDays: 5245
+      ageYears: 14.4
+    detail: Registered 14.4 years ago (2012-03-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cheesecrafters.ca looks like a well-established store. The clearest positives are that its domain has been registered for 14.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cheesecrafters.ca looks like a well-established store. The clearest positives are that its domain has been registered for 14.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cheesecrafters in the score above.
 

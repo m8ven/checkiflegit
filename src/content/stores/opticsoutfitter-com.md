@@ -5,7 +5,7 @@ title: Is opticsoutfitter.com Legit? Trust Score 100/100
 description: >-
   opticsoutfitter.com scores 100/100 on our public trust checks. Established
   domain — registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:46.865Z'
+fetchedAt: '2026-07-27T08:26:42.456Z'
 finalUrl: 'https://opticsoutfitter.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-10-29'
-      ageDays: 3891
+      ageDays: 3923
       ageYears: 10.7
     detail: Registered 10.7 years ago (2015-10-29).
   contact:

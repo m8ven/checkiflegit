@@ -5,7 +5,7 @@ title: Is edificiodinamarca.cl Legit? Trust Score 83/100
 description: >-
   edificiodinamarca.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:26:27.380Z'
+fetchedAt: '2026-07-27T08:15:38.430Z'
 finalUrl: 'https://edificiodinamarca.cl/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

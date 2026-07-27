@@ -1,31 +1,30 @@
 ---
 domain: zumiez.com
 slug: zumiez-com
-title: Is zumiez.com Legit? Trust Score 43/100
+title: Is zumiez.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  zumiez.com scores 43/100 on our public trust checks. No public contact details
-  detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-24T21:46:29.784Z'
+  zumiez.com scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
+fetchedAt: '2026-07-27T08:06:41.554Z'
 finalUrl: 'https://www.zumiez.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 43
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 30 years ago.
+    - Established domain — registered 30.1 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
-    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -58,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 82
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-07-08'
-      ageDays: 10943
-      ageYears: 30
-    detail: Registered 30 years ago (1996-07-08).
+      ageDays: 10976
+      ageYears: 30.1
+    detail: Registered 30.1 years ago (1996-07-08).
   contact:
-    status: fail
+    status: warn
     value:
-      email: false
+      email: true
       phone: false
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: email.'
   social:
     status: fail
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for zumiez.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 30 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+zumiez.com sends a mixed set of signals. On the positive side, its domain has been registered for 30.1 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Zumiez in the score above.
 

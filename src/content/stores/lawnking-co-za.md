@@ -5,7 +5,7 @@ title: Is lawnking.co.za Legit? Trust Score 83/100
 description: >-
   lawnking.co.za scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:33:54.638Z'
+fetchedAt: '2026-07-27T08:21:53.034Z'
 finalUrl: 'https://lawnking.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-16'
-      daysToExpiry: 22
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

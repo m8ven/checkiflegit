@@ -4,8 +4,8 @@ slug: atomfx-store
 title: Is atomfx.store Legit? Trust Score 100/100
 description: >-
   atomfx.store scores 100/100 on our public trust checks. Established domain —
-  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:19:55.550Z'
+  registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:10:54.198Z'
 finalUrl: 'https://atomfx.store/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.5 years ago.
+    - Established domain — registered 1.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-01-01'
-      ageDays: 539
-      ageYears: 1.5
-    detail: Registered 1.5 years ago (2025-01-01).
+      ageDays: 572
+      ageYears: 1.6
+    detail: Registered 1.6 years ago (2025-01-01).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-atomfx.store looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+atomfx.store looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Atomfx in the score above.
 

@@ -1,27 +1,27 @@
 ---
 domain: audio.vn
 slug: audio-vn
-title: Is audio.vn Legit? Trust Score 49/100 — Mixed Signals
+title: Is audio.vn Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
-  audio.vn scores 49/100 on our public trust checks. Standard contact and policy
-  pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:51:44.571Z'
+  audio.vn scores 91/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
+fetchedAt: '2026-07-27T08:37:28.804Z'
 finalUrl: 'https://audio.vn/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 49
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 91
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
     - Limited social media presence.
 signals:
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
+      contact: true
+      privacy: true
       terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-03'
-      daysToExpiry: 193
+      daysToExpiry: 161
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-audio.vn sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+audio.vn looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Audio in the score above.
 

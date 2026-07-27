@@ -1,24 +1,25 @@
 ---
 domain: kryuchkom.ru
 slug: kryuchkom-ru
-title: Is kryuchkom.ru Legit? Trust Score 40/100
+title: Is kryuchkom.ru Legit? Trust Score 70/100
 description: >-
-  kryuchkom.ru scores 40/100 on our public trust checks. Some standard policy or
-  contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:32:59.395Z'
+  kryuchkom.ru scores 70/100 on our public trust checks. Established domain —
+  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:21:22.351Z'
 finalUrl: 'https://kryuchkom.ru/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 40
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 11.7 years ago.
+    - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
@@ -45,20 +46,27 @@ signals:
   pages:
     status: warn
     value:
-      contact: false
+      contact: true
       privacy: true
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-08-28'
+      daysToExpiry: 33
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2014-12-03'
+      ageDays: 4253
+      ageYears: 11.7
+    detail: Registered 11.7 years ago (2014-12-03).
   contact:
     status: warn
     value:
@@ -87,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for kryuchkom.ru. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+kryuchkom.ru looks like a well-established store. The clearest positives are that its domain has been registered for 11.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kryuchkom in the score above.
 

@@ -1,30 +1,30 @@
 ---
 domain: ahost.cloud
 slug: ahost-cloud
-title: Is ahost.cloud Legit? Trust Score 58/100 — Mixed Signals
+title: Is ahost.cloud Legit? Trust Score 100/100
 description: >-
-  ahost.cloud scores 58/100 on our public trust checks. No valid SSL certificate
-  — connection may not be secure.
-fetchedAt: '2026-06-24T21:46:29.117Z'
+  ahost.cloud scores 100/100 on our public trust checks. Established domain —
+  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:40.758Z'
 finalUrl: 'https://www.ahost.uz/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 58
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 100
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
     - Established domain — registered 7.4 years ago.
+    - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No valid SSL certificate — connection may not be secure.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  redFlags: []
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,23 +44,27 @@ signals:
         hasCartFlow: false
     detail: 'Built on Magento, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: fail
-    value: null
-    detail: 'TLS connection failed: read ECONNRESET'
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-09-12'
+      daysToExpiry: 47
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-02-14'
-      ageDays: 2687
+      ageDays: 2719
       ageYears: 7.4
     detail: Registered 7.4 years ago (2019-02-14).
   contact:
@@ -68,8 +72,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -93,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ahost.cloud sends a mixed set of signals. On the positive side, its domain has been registered for 7.4 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and it does not present a valid security certificate — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+ahost.cloud looks like a well-established store. The clearest positives are that its domain has been registered for 7.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ahost in the score above.
 

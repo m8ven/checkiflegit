@@ -1,30 +1,31 @@
 ---
 domain: natura.com
 slug: natura-com
-title: Is natura.com Legit? Trust Score 88/100 — Trust Checks Pass
+title: Is natura.com Legit? Trust Score 43/100
 description: >-
-  natura.com scores 88/100 on our public trust checks. Established domain —
-  registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:19.295Z'
+  natura.com scores 43/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-07-27T08:05:44.891Z'
 finalUrl: 'https://www.naturabrasil.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 88
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 43
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 27.7 years ago.
+    - Established domain — registered 27.8 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions:
-    - Only limited contact details were found.
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -39,54 +40,52 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
+        hasCartLink: false
         hasCatalog: true
-        hasCartFlow: true
+        hasCartFlow: false
     detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
-      contact: true
+      contact: false
       privacy: true
       terms: true
-      refund: true
+      refund: false
       shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-30'
-      daysToExpiry: 99
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1998-10-02'
-      ageDays: 10127
-      ageYears: 27.7
-    detail: Registered 27.7 years ago (1998-10-02).
+      ageDays: 10160
+      ageYears: 27.8
+    detail: Registered 27.8 years ago (1998-10-02).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
-      tiktok: true
-      youtube: true
+      tiktok: false
+      youtube: false
       linkedin: false
-      pinterest: true
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, tiktok, youtube,
-      pinterest.
+      pinterest: false
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -97,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-natura.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for natura.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 27.8 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Natura in the score above.
 

@@ -4,8 +4,8 @@ slug: allposters-com
 title: Is allposters.com Legit? Trust Score 76/100
 description: >-
   allposters.com scores 76/100 on our public trust checks. Established domain —
-  registered 27.7 years ago.
-fetchedAt: '2026-06-24T21:45:11.045Z'
+  registered 27.8 years ago.
+fetchedAt: '2026-07-27T08:05:36.718Z'
 finalUrl: 'https://www.allposters.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 27.7 years ago.
+    - Established domain — registered 27.8 years ago.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Corporation Service Company
       validTo: '2026-08-18'
-      daysToExpiry: 56
+      daysToExpiry: 23
       authorized: false
     detail: >-
       Certificate present but chain not trusted
@@ -66,9 +66,9 @@ signals:
     status: pass
     value:
       createdAt: '1998-10-24'
-      ageDays: 10105
-      ageYears: 27.7
-    detail: Registered 27.7 years ago (1998-10-24).
+      ageDays: 10138
+      ageYears: 27.8
+    detail: Registered 27.8 years ago (1998-10-24).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-allposters.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+allposters.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Allposters in the score above.
 

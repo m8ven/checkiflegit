@@ -5,7 +5,7 @@ title: Is fvtvn.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   fvtvn.com scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:30:44.111Z'
+fetchedAt: '2026-07-27T08:19:31.967Z'
 finalUrl: 'https://fvtvn.com/od/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-03-29'
-      daysToExpiry: 278
+      daysToExpiry: 246
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2008-12-07'
-      ageDays: 6408
+      ageDays: 6440
       ageYears: 17.6
     detail: Registered 17.6 years ago (2008-12-07).
   contact:

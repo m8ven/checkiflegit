@@ -5,7 +5,7 @@ title: Is aeropostale.com Legit? Trust Score 88/100
 description: >-
   aeropostale.com scores 88/100 on our public trust checks. Established domain —
   registered 29.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:30.650Z'
+fetchedAt: '2026-07-27T08:05:50.704Z'
 finalUrl: 'https://www.aeropostale.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-11'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-02-20'
-      ageDays: 10716
+      ageDays: 10749
       ageYears: 29.4
     detail: Registered 29.4 years ago (1997-02-20).
   contact:

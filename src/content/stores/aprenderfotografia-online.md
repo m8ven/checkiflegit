@@ -5,7 +5,7 @@ title: Is aprenderfotografia.online Legit? Trust Score 52/100
 description: >-
   aprenderfotografia.online scores 52/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:47:24.351Z'
+fetchedAt: '2026-07-27T08:33:54.499Z'
 finalUrl: 'https://aprenderfotografia.online/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.2 years ago.
+    - Established domain — registered 8.3 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-22'
-      daysToExpiry: 28
+      validTo: '2026-10-05'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-04-07'
-      ageDays: 3000
-      ageYears: 8.2
-    detail: Registered 8.2 years ago (2018-04-07).
+      ageDays: 3033
+      ageYears: 8.3
+    detail: Registered 8.3 years ago (2018-04-07).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aprenderfotografia.online sends a mixed set of signals. On the positive side, its domain has been registered for 8.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+aprenderfotografia.online sends a mixed set of signals. On the positive side, its domain has been registered for 8.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aprenderfotografia in the score above.
 

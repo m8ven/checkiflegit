@@ -5,7 +5,7 @@ title: Is 4-paw-lovers.de Legit? Trust Score 36/100
 description: >-
   4-paw-lovers.de scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:16:52.971Z'
+fetchedAt: '2026-07-27T08:07:57.236Z'
 finalUrl: 'https://4-paw-lovers.de/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

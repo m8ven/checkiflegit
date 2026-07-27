@@ -5,7 +5,7 @@ title: Is beachtalkradionews.com Legit? Trust Score 100/100
 description: >-
   beachtalkradionews.com scores 100/100 on our public trust checks. Established
   domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:20:31.961Z'
+fetchedAt: '2026-07-27T08:11:14.388Z'
 finalUrl: 'https://beachtalkradionews.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 31
+      validTo: '2026-10-02'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-06-06'
-      ageDays: 2209
+      ageDays: 2241
       ageYears: 6.1
     detail: Registered 6.1 years ago (2020-06-06).
   contact:

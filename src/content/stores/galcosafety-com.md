@@ -5,7 +5,7 @@ title: Is galcosafety.com Legit? Trust Score 73/100
 description: >-
   galcosafety.com scores 73/100 on our public trust checks. Established domain —
   registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:59.629Z'
+fetchedAt: '2026-07-27T08:22:50.507Z'
 finalUrl: 'https://galcosafety.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-11'
-      daysToExpiry: 79
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2012-01-11'
-      ageDays: 5278
+      ageDays: 5310
       ageYears: 14.5
     detail: Registered 14.5 years ago (2012-01-11).
   contact:

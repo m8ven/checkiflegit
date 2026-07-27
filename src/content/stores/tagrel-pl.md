@@ -1,30 +1,30 @@
 ---
 domain: tagrel.pl
 slug: tagrel-pl
-title: Is tagrel.pl Legit? Trust Score 27/100
+title: Is tagrel.pl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  tagrel.pl scores 27/100 on our public trust checks. No links to major social
+  tagrel.pl scores 61/100 on our public trust checks. No links to major social
   platforms found. HTTPS certificate present but its trust chain is incomplete.
-fetchedAt: '2026-06-25T02:16:26.613Z'
+fetchedAt: '2026-07-27T08:07:30.245Z'
 finalUrl: 'http://tagrel.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 27
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 20.1 years ago.
+    - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
   cautions:
     - HTTPS certificate present but its trust chain is incomplete.
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -47,30 +47,33 @@ signals:
     status: warn
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: warn
     value:
       issuer: home.pl S.A.
       validTo: '2026-12-14'
-      daysToExpiry: 173
+      daysToExpiry: 141
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2006-06-16'
+      ageDays: 7345
+      ageYears: 20.1
+    detail: Registered 20.1 years ago (2006-06-16).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: fail
     value:
@@ -92,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for tagrel.pl. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+tagrel.pl sends a mixed set of signals. On the positive side, its domain has been registered for 20.1 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and its security certificate is not fully trusted — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tagrel in the score above.
 

@@ -4,8 +4,8 @@ slug: daeformacion-com
 title: Is daeformacion.com Legit? Trust Score 100/100
 description: >-
   daeformacion.com scores 100/100 on our public trust checks. Established domain
-  — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:20.686Z'
+  — registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:52.715Z'
 finalUrl: 'https://daeformacion.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.7 years ago.
+    - Established domain — registered 6.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-10-24'
-      ageDays: 2435
-      ageYears: 6.7
-    detail: Registered 6.7 years ago (2019-10-24).
+      ageDays: 2468
+      ageYears: 6.8
+    detail: Registered 6.8 years ago (2019-10-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-daeformacion.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+daeformacion.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Daeformacion in the score above.
 

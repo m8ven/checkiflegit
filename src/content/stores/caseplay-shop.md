@@ -5,7 +5,7 @@ title: Is caseplay.shop Legit? Trust Score 83/100
 description: >-
   caseplay.shop scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:21:21.861Z'
+fetchedAt: '2026-07-27T08:11:45.268Z'
 finalUrl: 'https://caseplay.shop/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

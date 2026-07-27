@@ -5,7 +5,7 @@ title: Is brookeslearning.ca Legit? Trust Score 61/100
 description: >-
   brookeslearning.ca scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:20:36.675Z'
+fetchedAt: '2026-07-27T08:11:20.013Z'
 finalUrl: 'https://brookeslearning.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.8 years ago.
+    - Established domain — registered 9.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-08-29'
-      ageDays: 3586
-      ageYears: 9.8
-    detail: Registered 9.8 years ago (2016-08-29).
+      ageDays: 3618
+      ageYears: 9.9
+    detail: Registered 9.9 years ago (2016-08-29).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-brookeslearning.ca sends a mixed set of signals. On the positive side, its domain has been registered for 9.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+brookeslearning.ca sends a mixed set of signals. On the positive side, its domain has been registered for 9.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Brookeslearning in the score above.
 

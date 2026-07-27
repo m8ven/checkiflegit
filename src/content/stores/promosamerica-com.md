@@ -5,7 +5,7 @@ title: Is promosamerica.com Legit? Trust Score 61/100
 description: >-
   promosamerica.com scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:48:39.534Z'
+fetchedAt: '2026-07-27T08:34:43.990Z'
 finalUrl: 'https://promosamerica.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.8 years ago.
+    - Established domain — registered 17.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-08-25'
-      ageDays: 6512
-      ageYears: 17.8
-    detail: Registered 17.8 years ago (2008-08-25).
+      ageDays: 6544
+      ageYears: 17.9
+    detail: Registered 17.9 years ago (2008-08-25).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-promosamerica.com sends a mixed set of signals. On the positive side, its domain has been registered for 17.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+promosamerica.com sends a mixed set of signals. On the positive side, its domain has been registered for 17.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Promosamerica in the score above.
 

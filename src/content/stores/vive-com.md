@@ -4,8 +4,8 @@ slug: vive-com
 title: Is vive.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   vive.com scores 100/100 on our public trust checks. Established domain —
-  registered 31.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:31.543Z'
+  registered 31.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:51.461Z'
 finalUrl: 'https://www.vive.com/us/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 31.3 years ago.
+    - Established domain — registered 31.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-08-18'
-      daysToExpiry: 56
+      daysToExpiry: 23
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1995-03-02'
-      ageDays: 11437
-      ageYears: 31.3
-    detail: Registered 31.3 years ago (1995-03-02).
+      ageDays: 11470
+      ageYears: 31.4
+    detail: Registered 31.4 years ago (1995-03-02).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-vive.com looks like a well-established store. The clearest positives are that its domain has been registered for 31.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+vive.com looks like a well-established store. The clearest positives are that its domain has been registered for 31.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vive in the score above.
 

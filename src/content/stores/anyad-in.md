@@ -5,7 +5,7 @@ title: Is anyad.in Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   anyad.in scores 61/100 on our public trust checks. No links to major social
   platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:44:19.583Z'
+fetchedAt: '2026-07-27T08:30:48.369Z'
 finalUrl: 'https://anyad.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

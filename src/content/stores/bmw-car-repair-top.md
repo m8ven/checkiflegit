@@ -5,7 +5,7 @@ title: Is bmw.car-repair.top Legit? Trust Score 19/100
 description: >-
   bmw.car-repair.top scores 19/100 on our public trust checks. Standard contact
   and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:21:19.382Z'
+fetchedAt: '2026-07-27T08:11:42.835Z'
 finalUrl: 'https://bmw.car-repair.top/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

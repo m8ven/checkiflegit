@@ -5,7 +5,7 @@ title: Is koristushullud.ee Legit? Trust Score 58/100
 description: >-
   koristushullud.ee scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:41:08.164Z'
+fetchedAt: '2026-07-27T08:27:45.825Z'
 finalUrl: 'https://koristushullud.ee/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-18'
-      daysToExpiry: 54
+      daysToExpiry: 22
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-09'
-      ageDays: 1658
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2021-12-09).
+      ageDays: 1690
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2021-12-09).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-koristushullud.ee sends a mixed set of signals. On the positive side, its domain has been registered for 4.5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+koristushullud.ee sends a mixed set of signals. On the positive side, its domain has been registered for 4.6 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Koristushullud in the score above.
 

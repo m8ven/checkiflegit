@@ -4,8 +4,8 @@ slug: d-green-ru
 title: Is d-green.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   d-green.ru scores 73/100 on our public trust checks. Established domain —
-  registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:23:46.528Z'
+  registered 18.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:23.626Z'
 finalUrl: 'https://d-green.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.4 years ago.
+    - Established domain — registered 18.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 31
+      validTo: '2026-09-25'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-02-13'
-      ageDays: 6706
-      ageYears: 18.4
-    detail: Registered 18.4 years ago (2008-02-13).
+      ageDays: 6738
+      ageYears: 18.5
+    detail: Registered 18.5 years ago (2008-02-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-d-green.ru looks like a well-established store. The clearest positives are that its domain has been registered for 18.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+d-green.ru looks like a well-established store. The clearest positives are that its domain has been registered for 18.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against D-green in the score above.
 

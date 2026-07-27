@@ -4,8 +4,8 @@ slug: moradviandes-fr
 title: Is moradviandes.fr Legit? Trust Score 85/100
 description: >-
   moradviandes.fr scores 85/100 on our public trust checks. Established domain —
-  registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:22.846Z'
+  registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:24:47.419Z'
 finalUrl: 'https://moradviandes.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.7 years ago.
+    - Established domain — registered 14.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-03-19'
-      daysToExpiry: 268
+      daysToExpiry: 236
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2011-10-10'
-      ageDays: 5371
-      ageYears: 14.7
-    detail: Registered 14.7 years ago (2011-10-10).
+      ageDays: 5403
+      ageYears: 14.8
+    detail: Registered 14.8 years ago (2011-10-10).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-moradviandes.fr looks like a well-established store. The clearest positives are that its domain has been registered for 14.7 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+moradviandes.fr looks like a well-established store. The clearest positives are that its domain has been registered for 14.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Moradviandes in the score above.
 

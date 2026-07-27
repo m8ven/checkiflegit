@@ -4,8 +4,8 @@ slug: akmanta-lt
 title: Is akmanta.lt Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   akmanta.lt scores 73/100 on our public trust checks. Established domain —
-  registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:42:35.224Z'
+  registered 19.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:28:58.347Z'
 finalUrl: 'https://akmanta.lt/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.6 years ago.
+    - Established domain — registered 19.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-21'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-11-14'
-      ageDays: 7163
-      ageYears: 19.6
-    detail: Registered 19.6 years ago (2006-11-14).
+      ageDays: 7195
+      ageYears: 19.7
+    detail: Registered 19.7 years ago (2006-11-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-akmanta.lt looks like a well-established store. The clearest positives are that its domain has been registered for 19.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+akmanta.lt looks like a well-established store. The clearest positives are that its domain has been registered for 19.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Akmanta in the score above.
 

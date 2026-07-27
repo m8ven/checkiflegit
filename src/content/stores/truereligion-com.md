@@ -4,8 +4,8 @@ slug: truereligion-com
 title: Is truereligion.com Legit? Trust Score 100/100
 description: >-
   truereligion.com scores 100/100 on our public trust checks. Established domain
-  — registered 27.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:10.204Z'
+  — registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:18.681Z'
 finalUrl: 'https://www.truereligion.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 27.6 years ago.
+    - Established domain — registered 27.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-07-31'
-      daysToExpiry: 38
+      daysToExpiry: 5
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1998-11-11'
-      ageDays: 10087
-      ageYears: 27.6
-    detail: Registered 27.6 years ago (1998-11-11).
+      ageDays: 10120
+      ageYears: 27.7
+    detail: Registered 27.7 years ago (1998-11-11).
   contact:
     status: pass
     value:
@@ -79,14 +79,14 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: false
+      twitter: true
       tiktok: true
       youtube: true
       linkedin: false
       pinterest: true
     detail: >-
-      Links to 5 social platform(s): facebook, instagram, tiktok, youtube,
-      pinterest.
+      Links to 6 social platform(s): facebook, instagram, twitter, tiktok,
+      youtube, pinterest.
   reviews:
     status: unknown
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-truereligion.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+truereligion.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Truereligion in the score above.
 

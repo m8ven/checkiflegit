@@ -1,11 +1,11 @@
 ---
 domain: hoodriversaddleclub.org
 slug: hoodriversaddleclub-org
-title: Is hoodriversaddleclub.org Legit? Trust Score 82/100
+title: Is hoodriversaddleclub.org Legit? Trust Score 74/100
 description: >-
-  hoodriversaddleclub.org scores 82/100 on our public trust checks. Established
-  domain — registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:23.909Z'
+  hoodriversaddleclub.org scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
+fetchedAt: '2026-07-27T08:23:09.328Z'
 finalUrl: 'https://hoodriversaddleclub.org/'
 reachable: true
 noindex: false
@@ -15,10 +15,9 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 74
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -40,8 +39,8 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
+        hasCatalog: false
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: warn
@@ -57,23 +56,20 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-10-12'
-      daysToExpiry: 110
+      daysToExpiry: 78
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
-    status: pass
-    value:
-      createdAt: '2005-12-14'
-      ageDays: 7497
-      ageYears: 20.5
-    detail: Registered 20.5 years ago (2005-12-14).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
       email: true
-      phone: true
+      phone: false
       address: true
-    detail: 'Public contact details found: email, phone, address.'
+    detail: 'Public contact details found: email, address.'
   social:
     status: warn
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hoodriversaddleclub.org looks like a well-established store. The clearest positives are that its domain has been registered for 20.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hoodriversaddleclub.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hoodriversaddleclub in the score above.
 

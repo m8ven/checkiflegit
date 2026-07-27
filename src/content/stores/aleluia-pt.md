@@ -5,7 +5,7 @@ title: Is aleluia.pt Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   aleluia.pt scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:18:50.807Z'
+fetchedAt: '2026-07-27T08:10:11.504Z'
 finalUrl: 'https://aleluia.pt/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: GoGetSSL
       validTo: '2026-10-14'
-      daysToExpiry: 112
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by GoGetSSL.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

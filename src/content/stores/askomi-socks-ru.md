@@ -4,8 +4,8 @@ slug: askomi-socks-ru
 title: Is askomi-socks.ru Legit? Trust Score 85/100
 description: >-
   askomi-socks.ru scores 85/100 on our public trust checks. Established domain —
-  registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:19:49.288Z'
+  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:10:47.892Z'
 finalUrl: 'https://askomi-socks.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.1 years ago.
+    - Established domain — registered 11.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-05-12'
-      ageDays: 4061
-      ageYears: 11.1
-    detail: Registered 11.1 years ago (2015-05-12).
+      ageDays: 4093
+      ageYears: 11.2
+    detail: Registered 11.2 years ago (2015-05-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-askomi-socks.ru looks like a well-established store. The clearest positives are that its domain has been registered for 11.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+askomi-socks.ru looks like a well-established store. The clearest positives are that its domain has been registered for 11.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Askomi-socks in the score above.
 

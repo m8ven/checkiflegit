@@ -5,7 +5,7 @@ title: Is deodap.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   deodap.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-24T21:44:34.424Z'
+fetchedAt: '2026-07-27T08:05:16.282Z'
 finalUrl: 'https://deodap.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

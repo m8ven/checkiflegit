@@ -5,7 +5,7 @@ title: Is 10fingerscrafts.co.il Legit? Trust Score 57/100
 description: >-
   10fingerscrafts.co.il scores 57/100 on our public trust checks. Standard
   contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:12.680Z'
+fetchedAt: '2026-07-27T08:30:40.178Z'
 finalUrl: 'https://10fingerscrafts.co.il/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-27'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

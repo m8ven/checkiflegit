@@ -4,8 +4,8 @@ slug: alexandramatias-com
 title: Is alexandramatias.com Legit? Trust Score 100/100
 description: >-
   alexandramatias.com scores 100/100 on our public trust checks. Established
-  domain — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:17:33.931Z'
+  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:08:40.278Z'
 finalUrl: 'https://alexandramatias.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.3 years ago.
+    - Established domain — registered 8.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-02-27'
-      ageDays: 3039
-      ageYears: 8.3
-    detail: Registered 8.3 years ago (2018-02-27).
+      ageDays: 3071
+      ageYears: 8.4
+    detail: Registered 8.4 years ago (2018-02-27).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-alexandramatias.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+alexandramatias.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Alexandramatias in the score above.
 

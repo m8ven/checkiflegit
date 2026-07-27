@@ -5,7 +5,7 @@ title: Is evolutionpets.es Legit? Trust Score 79/100
 description: >-
   evolutionpets.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:16:49.320Z'
+fetchedAt: '2026-07-27T08:07:53.079Z'
 finalUrl: 'https://evolutionpets.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-09-30'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

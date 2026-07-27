@@ -4,9 +4,9 @@ slug: autodemolizionizerbonia-it
 title: Is autodemolizionizerbonia.it Legit? Trust Score 88/100
 description: >-
   autodemolizionizerbonia.it scores 88/100 on our public trust checks.
-  Established domain — registered 16.6 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 16.7 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:20:04.635Z'
+fetchedAt: '2026-07-27T08:10:57.827Z'
 finalUrl: 'https://autodemolizionizerbonia.it/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.6 years ago.
+    - Established domain — registered 16.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-14'
-      daysToExpiry: 20
+      validTo: '2026-09-25'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-12-04'
-      ageDays: 6046
-      ageYears: 16.6
-    detail: Registered 16.6 years ago (2009-12-04).
+      ageDays: 6078
+      ageYears: 16.7
+    detail: Registered 16.7 years ago (2009-12-04).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-autodemolizionizerbonia.it looks like a well-established store. The clearest positives are that its domain has been registered for 16.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+autodemolizionizerbonia.it looks like a well-established store. The clearest positives are that its domain has been registered for 16.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Autodemolizionizerbonia in the score above.
 

@@ -4,8 +4,8 @@ slug: culligan-mx
 title: Is culligan.mx Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   culligan.mx scores 82/100 on our public trust checks. Established domain —
-  registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:13.152Z'
+  registered 12 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:46.864Z'
 finalUrl: 'https://culligan.mx/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.9 years ago.
+    - Established domain — registered 12 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-08-14'
-      ageDays: 4333
-      ageYears: 11.9
-    detail: Registered 11.9 years ago (2014-08-14).
+      ageDays: 4365
+      ageYears: 12
+    detail: Registered 12 years ago (2014-08-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-culligan.mx looks like a well-established store. The clearest positives are that its domain has been registered for 11.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+culligan.mx looks like a well-established store. The clearest positives are that its domain has been registered for 12 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Culligan in the score above.
 

@@ -1,11 +1,11 @@
 ---
 domain: milionova.pl
 slug: milionova-pl
-title: Is milionova.pl Legit? Trust Score 83/100
+title: Is milionova.pl Legit? Trust Score 100/100
 description: >-
-  milionova.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:36:48.681Z'
+  milionova.pl scores 100/100 on our public trust checks. Established domain —
+  registered 11 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:24:25.774Z'
 finalUrl: 'https://milionova.pl/'
 reachable: true
 noindex: false
@@ -15,15 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 11 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -43,33 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: nazwa.pl Sp. z o.o.
       validTo: '2026-08-17'
-      daysToExpiry: 53
+      daysToExpiry: 21
       authorized: true
     detail: Valid certificate issued by nazwa.pl Sp. z o.o..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2015-08-13'
+      ageDays: 4000
+      ageYears: 11
+    detail: Registered 11 years ago (2015-08-13).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-milionova.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+milionova.pl looks like a well-established store. The clearest positives are that its domain has been registered for 11 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Milionova in the score above.
 

@@ -1,31 +1,30 @@
 ---
 domain: naniebiesko.org
 slug: naniebiesko-org
-title: Is naniebiesko.org Legit? Trust Score 43/100
+title: Is naniebiesko.org Legit? Trust Score 73/100
 description: >-
-  naniebiesko.org scores 43/100 on our public trust checks. Standard contact and
-  policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:38:05.862Z'
+  naniebiesko.org scores 73/100 on our public trust checks. Established domain —
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:21.909Z'
 finalUrl: 'https://naniebiesko.org/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 43
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.3 years ago.
+    - Established domain — registered 2.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
   redFlags:
-    - Standard contact and policy pages were not found.
     - No links to major social platforms found.
   cautions:
-    - Only limited contact details were found.
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -45,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
       contact: false
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: home.pl S.A.
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by home.pl S.A..
   domainAge:
     status: pass
     value:
       createdAt: '2024-03-13'
-      ageDays: 833
-      ageYears: 2.3
-    detail: Registered 2.3 years ago (2024-03-13).
+      ageDays: 865
+      ageYears: 2.4
+    detail: Registered 2.4 years ago (2024-03-13).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: fail
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for naniebiesko.org. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 2.3 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+naniebiesko.org looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Naniebiesko in the score above.
 

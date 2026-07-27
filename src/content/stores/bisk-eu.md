@@ -5,7 +5,7 @@ title: Is bisk.eu Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   bisk.eu scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:20:54.913Z'
+fetchedAt: '2026-07-27T08:11:30.936Z'
 finalUrl: 'https://bisk.eu/'
 reachable: true
 noindex: false
@@ -46,17 +46,17 @@ signals:
     status: warn
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: home.pl S.A.
       validTo: '2026-11-15'
-      daysToExpiry: 143
+      daysToExpiry: 111
       authorized: true
     detail: Valid certificate issued by home.pl S.A..
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

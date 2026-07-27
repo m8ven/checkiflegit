@@ -4,8 +4,8 @@ slug: adsmisr-com
 title: Is adsmisr.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   adsmisr.com scores 73/100 on our public trust checks. Established domain —
-  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:06.498Z'
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:09.927Z'
 finalUrl: 'https://adsmisr.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.7 years ago.
+    - Established domain — registered 7.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-09-27'
-      ageDays: 2827
-      ageYears: 7.7
-    detail: Registered 7.7 years ago (2018-09-27).
+      ageDays: 2859
+      ageYears: 7.8
+    detail: Registered 7.8 years ago (2018-09-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-adsmisr.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+adsmisr.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Adsmisr in the score above.
 

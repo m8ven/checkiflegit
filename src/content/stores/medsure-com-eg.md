@@ -1,48 +1,47 @@
 ---
 domain: medsure.com.eg
 slug: medsure-com-eg
-title: Is medsure.com.eg Legit? Trust Score 40/100
+title: Is medsure.com.eg Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  medsure.com.eg scores 40/100 on our public trust checks. No valid SSL
-  certificate — connection may not be secure.
-fetchedAt: '2026-06-25T02:17:00.625Z'
-finalUrl: 'http://medsure.com.eg/'
+  medsure.com.eg scores 66/100 on our public trust checks. Some standard policy
+  or contact pages appear to be missing. Only limited contact details were
+  found.
+fetchedAt: '2026-07-27T08:08:06.451Z'
+finalUrl: 'https://medsure.com.eg/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 40
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 66
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Public business contact details are listed.
+    - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No valid SSL certificate — connection may not be secure.
+  redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'http://medsure.com.eg/'
+      finalUrl: 'https://medsure.com.eg/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
@@ -53,35 +52,35 @@ signals:
       shipping: false
     detail: Found 0 policy page(s) and a contact page.
   ssl:
-    status: fail
-    value: null
-    detail: >
-      TLS connection failed: 801EB1EC01000000:error:0A000438:SSL
-      routines:ssl3_read_bytes:tlsv1 alert internal
-      error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert
-      number 80
+    status: pass
+    value:
+      issuer: Google Trust Services
+      validTo: '2026-10-17'
+      daysToExpiry: 83
+      authorized: true
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
       facebook: true
-      instagram: false
+      instagram: true
       twitter: false
       tiktok: false
       youtube: false
       linkedin: true
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, linkedin.'
+    detail: 'Links to 3 social platform(s): facebook, instagram, linkedin.'
   reviews:
     status: unknown
     value:
@@ -92,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for medsure.com.eg. In particular, some standard contact or policy pages appear to be missing and it does not present a valid security certificate. It does have some positives — it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+medsure.com.eg sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it maintains active social media profiles. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Medsure in the score above.
 

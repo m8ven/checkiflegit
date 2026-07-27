@@ -5,7 +5,7 @@ title: Is franciscoteayuda.cl Legit? Trust Score 66/100
 description: >-
   franciscoteayuda.cl scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:30:18.832Z'
+fetchedAt: '2026-07-27T08:19:01.371Z'
 finalUrl: 'https://franciscoteayuda.cl/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-07'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is dinamo-papeleria.net Legit? Trust Score 82/100
 description: >-
   dinamo-papeleria.net scores 82/100 on our public trust checks. Established
   domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:48.737Z'
+fetchedAt: '2026-07-27T08:19:34.085Z'
 finalUrl: 'https://dinamo-papeleria.net/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-09'
-      daysToExpiry: 107
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2022-03-25'
-      ageDays: 1552
+      ageDays: 1584
       ageYears: 4.3
     detail: Registered 4.3 years ago (2022-03-25).
   contact:

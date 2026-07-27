@@ -4,8 +4,8 @@ slug: mindyourbizexpert-com
 title: Is mindyourbizexpert.com Legit? Trust Score 88/100
 description: >-
   mindyourbizexpert.com scores 88/100 on our public trust checks. Established
-  domain — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:30.353Z'
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:31:00.824Z'
 finalUrl: 'https://mindyourbizexpert.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.8 years ago.
+    - Established domain — registered 1.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-11'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-09-02'
-      ageDays: 660
-      ageYears: 1.8
-    detail: Registered 1.8 years ago (2024-09-02).
+      ageDays: 692
+      ageYears: 1.9
+    detail: Registered 1.9 years ago (2024-09-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mindyourbizexpert.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mindyourbizexpert.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mindyourbizexpert in the score above.
 

@@ -1,25 +1,23 @@
 ---
 domain: charitychristianfellowship.org
 slug: charitychristianfellowship-org
-title: Is charitychristianfellowship.org Legit? Trust Score 73/100
+title: Is charitychristianfellowship.org Legit? Trust Score 61/100
 description: >-
-  charitychristianfellowship.org scores 73/100 on our public trust checks.
-  Established domain — registered 18.4 years ago. Valid HTTPS/SSL certificate in
-  place.
-fetchedAt: '2026-06-25T02:28:45.908Z'
+  charitychristianfellowship.org scores 61/100 on our public trust checks. No
+  links to major social platforms found.
+fetchedAt: '2026-07-27T08:17:47.386Z'
 finalUrl: 'https://charitychristianfellowship.org/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -58,16 +56,13 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2008-01-24'
-      ageDays: 6726
-      ageYears: 18.4
-    detail: Registered 18.4 years ago (2008-01-24).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -96,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-charitychristianfellowship.org looks like a well-established store. The clearest positives are that its domain has been registered for 18.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+charitychristianfellowship.org sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Charitychristianfellowship in the score above.
 

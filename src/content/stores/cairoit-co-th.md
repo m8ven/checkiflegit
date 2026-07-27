@@ -5,7 +5,7 @@ title: Is cairoit.co.th Legit? Trust Score 91/100
 description: >-
   cairoit.co.th scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:27:58.006Z'
+fetchedAt: '2026-07-27T08:17:07.030Z'
 finalUrl: 'https://cairoit.co.th/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

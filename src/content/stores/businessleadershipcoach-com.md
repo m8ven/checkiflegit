@@ -5,7 +5,7 @@ title: Is businessleadershipcoach.com Legit? Trust Score 61/100
 description: >-
   businessleadershipcoach.com scores 61/100 on our public trust checks. No links
   to major social platforms found.
-fetchedAt: '2026-06-25T02:20:46.172Z'
+fetchedAt: '2026-07-27T08:11:27.943Z'
 finalUrl: 'https://businessleadershipcoach.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.9 years ago.
+    - Established domain — registered 7 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2019-07-21'
-      ageDays: 2530
-      ageYears: 6.9
-    detail: Registered 6.9 years ago (2019-07-21).
+      ageDays: 2563
+      ageYears: 7
+    detail: Registered 7 years ago (2019-07-21).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-businessleadershipcoach.com sends a mixed set of signals. On the positive side, its domain has been registered for 6.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+businessleadershipcoach.com sends a mixed set of signals. On the positive side, its domain has been registered for 7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Businessleadershipcoach in the score above.
 

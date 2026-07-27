@@ -5,7 +5,7 @@ title: Is jornaltvs.pt Legit? Trust Score 83/100
 description: >-
   jornaltvs.pt scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:39:23.720Z'
+fetchedAt: '2026-07-27T08:26:23.149Z'
 finalUrl: 'https://jornaltvs.pt/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+      shipping: true
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-23'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is meetjack.com.au Legit? Trust Score 83/100
 description: >-
   meetjack.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:36:15.263Z'
+fetchedAt: '2026-07-27T08:23:52.122Z'
 finalUrl: 'https://meetjack.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is findaspring.org Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   findaspring.org scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-24T21:46:15.721Z'
+fetchedAt: '2026-07-27T08:06:24.455Z'
 finalUrl: 'https://findaspring.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.1 years ago.
+    - Established domain — registered 17.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-05-13'
-      ageDays: 6251
-      ageYears: 17.1
-    detail: Registered 17.1 years ago (2009-05-13).
+      ageDays: 6283
+      ageYears: 17.2
+    detail: Registered 17.2 years ago (2009-05-13).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-findaspring.org sends a mixed set of signals. On the positive side, its domain has been registered for 17.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+findaspring.org sends a mixed set of signals. On the positive side, its domain has been registered for 17.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Findaspring in the score above.
 

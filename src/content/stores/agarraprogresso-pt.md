@@ -5,7 +5,7 @@ title: Is agarraprogresso.pt Legit? Trust Score 100/100
 description: >-
   agarraprogresso.pt scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:17:24.279Z'
+fetchedAt: '2026-07-27T08:08:21.596Z'
 finalUrl: 'https://agarraprogresso.pt/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 43
+      validTo: '2026-10-07'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

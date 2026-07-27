@@ -5,7 +5,7 @@ title: Is myanmar9.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   myanmar9.com scores 52/100 on our public trust checks. Standard contact and
   policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:37:52.005Z'
+fetchedAt: '2026-07-27T08:25:12.993Z'
 finalUrl: 'https://myanmar9.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.7 years ago.
+    - Established domain — registered 8.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-10-07'
-      ageDays: 3182
-      ageYears: 8.7
-    detail: Registered 8.7 years ago (2017-10-07).
+      ageDays: 3215
+      ageYears: 8.8
+    detail: Registered 8.8 years ago (2017-10-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-myanmar9.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+myanmar9.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Myanmar9 in the score above.
 

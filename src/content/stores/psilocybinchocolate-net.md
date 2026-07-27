@@ -5,7 +5,7 @@ title: Is psilocybinchocolate.net Legit? Trust Score 43/100
 description: >-
   psilocybinchocolate.net scores 43/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:48:44.586Z'
+fetchedAt: '2026-07-27T08:34:50.253Z'
 finalUrl: 'https://psilocybinchocolate.net/'
 reachable: true
 noindex: false
@@ -56,16 +56,16 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      issuer: ZeroSSL GmbH
+      validTo: '2026-10-17'
+      daysToExpiry: 83
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by ZeroSSL GmbH.
   domainAge:
     status: pass
     value:
       createdAt: '2023-01-08'
-      ageDays: 1263
+      ageDays: 1295
       ageYears: 3.5
     detail: Registered 3.5 years ago (2023-01-08).
   contact:

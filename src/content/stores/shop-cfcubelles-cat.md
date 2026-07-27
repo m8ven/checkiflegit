@@ -5,7 +5,7 @@ title: Is shop.cfcubelles.cat Legit? Trust Score 0/100
 description: >-
   shop.cfcubelles.cat scores 0/100 on our public trust checks. Standard contact
   and policy pages were not found.
-fetchedAt: '2026-06-25T02:51:06.088Z'
+fetchedAt: '2026-07-27T08:36:55.228Z'
 finalUrl: 'https://shop.cfcubelles.cat/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is brazil.direct-sarms.com Legit? Trust Score 79/100
 description: >-
   brazil.direct-sarms.com scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:20:31.711Z'
+fetchedAt: '2026-07-27T08:11:14.211Z'
 finalUrl: 'https://brazil.direct-sarms.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-07'
-      daysToExpiry: 43
+      validTo: '2026-10-05'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

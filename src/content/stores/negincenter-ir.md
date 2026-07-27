@@ -6,7 +6,7 @@ description: >-
   negincenter.ir scores 57/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T02:16:39.104Z'
+fetchedAt: '2026-07-27T08:07:41.013Z'
 finalUrl: 'https://www.negincenter.ir/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2027-02-25'
-      daysToExpiry: 246
+      daysToExpiry: 214
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:

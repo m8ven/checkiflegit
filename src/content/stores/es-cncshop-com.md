@@ -5,7 +5,7 @@ title: Is es.cncshop.com Legit? Trust Score 100/100
 description: >-
   es.cncshop.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:27:39.341Z'
+fetchedAt: '2026-07-27T08:16:54.245Z'
 finalUrl: 'https://es.cncshop.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 55
+      validTo: '2026-10-18'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

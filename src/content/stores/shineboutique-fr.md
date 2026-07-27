@@ -5,7 +5,7 @@ title: Is shineboutique.fr Legit? Trust Score 100/100
 description: >-
   shineboutique.fr scores 100/100 on our public trust checks. Established domain
   — registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:51:03.133Z'
+fetchedAt: '2026-07-27T08:36:52.476Z'
 finalUrl: 'https://shineboutique.fr/'
 reachable: true
 noindex: false
@@ -49,22 +49,22 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-17'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-12-06'
-      ageDays: 2757
+      ageDays: 2789
       ageYears: 7.6
     detail: Registered 7.6 years ago (2018-12-06).
   contact:

@@ -5,7 +5,7 @@ title: Is leopard-jewelry.com Legit? Trust Score 100/100
 description: >-
   leopard-jewelry.com scores 100/100 on our public trust checks. Established
   domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:41:54.293Z'
+fetchedAt: '2026-07-27T08:28:23.750Z'
 finalUrl: 'https://leopard-jewelry.com/en/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-12-21'
-      daysToExpiry: 180
+      daysToExpiry: 148
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2018-05-02'
-      ageDays: 2975
+      ageDays: 3007
       ageYears: 8.2
     detail: Registered 8.2 years ago (2018-05-02).
   contact:
@@ -72,8 +72,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

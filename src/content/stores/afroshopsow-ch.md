@@ -5,7 +5,7 @@ title: Is afroshopsow.ch Legit? Trust Score 83/100
 description: >-
   afroshopsow.ch scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:49:51.938Z'
+fetchedAt: '2026-07-27T08:35:57.208Z'
 finalUrl: 'https://afroshopsow.ch/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

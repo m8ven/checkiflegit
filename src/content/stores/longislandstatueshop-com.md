@@ -4,8 +4,8 @@ slug: longislandstatueshop-com
 title: Is longislandstatueshop.com Legit? Trust Score 88/100
 description: >-
   longislandstatueshop.com scores 88/100 on our public trust checks. Established
-  domain — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:56.515Z'
+  domain — registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:14.394Z'
 finalUrl: 'https://longislandstatueshop.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.6 years ago.
+    - Established domain — registered 1.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-11-29'
-      ageDays: 572
-      ageYears: 1.6
-    detail: Registered 1.6 years ago (2024-11-29).
+      ageDays: 604
+      ageYears: 1.7
+    detail: Registered 1.7 years ago (2024-11-29).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-longislandstatueshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+longislandstatueshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Longislandstatueshop in the score above.
 

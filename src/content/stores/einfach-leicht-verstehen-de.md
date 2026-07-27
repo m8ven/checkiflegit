@@ -5,7 +5,7 @@ title: Is einfach-leicht-verstehen.de Legit? Trust Score 79/100
 description: >-
   einfach-leicht-verstehen.de scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:21.687Z'
+fetchedAt: '2026-07-27T08:15:31.743Z'
 finalUrl: 'https://einfach-leicht-verstehen.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-23'
-      daysToExpiry: 60
+      daysToExpiry: 28
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

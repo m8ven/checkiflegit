@@ -5,7 +5,7 @@ title: Is zolicol.gob.pa Legit? Trust Score 40/100
 description: >-
   zolicol.gob.pa scores 40/100 on our public trust checks. Standard contact and
   policy pages were not found.
-fetchedAt: '2026-06-25T02:22:04.969Z'
+fetchedAt: '2026-07-27T08:12:19.559Z'
 finalUrl: 'http://zolicol.gob.pa/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: warn
     value:
       issuer: ZeroSSL GmbH
-      validTo: '2026-07-05'
-      daysToExpiry: 11
+      validTo: '2026-09-30'
+      daysToExpiry: 66
       authorized: false
     detail: >-
       Certificate present but chain not trusted

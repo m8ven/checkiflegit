@@ -4,8 +4,8 @@ slug: charleskeith-com
 title: Is charleskeith.com Legit? Trust Score 70/100
 description: >-
   charleskeith.com scores 70/100 on our public trust checks. Established domain
-  — registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:06.737Z'
+  — registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:15.201Z'
 finalUrl: 'https://www.charleskeith.com/us'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 26.8 years ago.
+    - Established domain — registered 26.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -40,7 +40,7 @@ signals:
       markers:
         hasAddToCart: false
         hasCartLink: true
-        hasCatalog: false
+        hasCatalog: true
         hasCartFlow: false
     detail: 'Built on Salesforce Commerce, an established e-commerce platform.'
   pages:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-09-10'
-      ageDays: 9784
-      ageYears: 26.8
-    detail: Registered 26.8 years ago (1999-09-10).
+      ageDays: 9816
+      ageYears: 26.9
+    detail: Registered 26.9 years ago (1999-09-10).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-charleskeith.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+charleskeith.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Charleskeith in the score above.
 

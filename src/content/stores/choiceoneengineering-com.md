@@ -5,7 +5,7 @@ title: Is choiceoneengineering.com Legit? Trust Score 82/100
 description: >-
   choiceoneengineering.com scores 82/100 on our public trust checks. Established
   domain — registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:47.671Z'
+fetchedAt: '2026-07-27T08:12:48.458Z'
 finalUrl: 'https://choiceoneengineering.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-03-30'
-      ageDays: 10313
+      ageDays: 10346
       ageYears: 28.3
     detail: Registered 28.3 years ago (1998-03-30).
   contact:

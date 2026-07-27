@@ -5,7 +5,7 @@ title: Is cardcapital.shop Legit? Trust Score 57/100
 description: >-
   cardcapital.shop scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:10.655Z'
+fetchedAt: '2026-07-27T08:11:38.198Z'
 finalUrl: 'https://cardcapital.shop/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

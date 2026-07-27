@@ -5,7 +5,7 @@ title: Is ambientes.co Legit? Trust Score 19/100
 description: >-
   ambientes.co scores 19/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:24:08.169Z'
+fetchedAt: '2026-07-27T08:13:43.454Z'
 finalUrl: 'https://ambientes.co/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 52
+      validTo: '2026-10-15'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

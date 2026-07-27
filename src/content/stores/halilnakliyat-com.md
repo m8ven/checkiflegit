@@ -5,7 +5,7 @@ title: Is halilnakliyat.com Legit? Trust Score 37/100
 description: >-
   halilnakliyat.com scores 37/100 on our public trust checks. Standard contact
   and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:29:46.214Z'
+fetchedAt: '2026-07-27T08:18:38.696Z'
 finalUrl: 'https://halilnakliyat.com/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-26'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-04'
-      ageDays: 232
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-04).
+      ageDays: 264
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-04).
   contact:
     status: pass
     value:

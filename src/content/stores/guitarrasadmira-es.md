@@ -3,9 +3,9 @@ domain: guitarrasadmira.es
 slug: guitarrasadmira-es
 title: Is guitarrasadmira.es Legit? Trust Score 100/100
 description: >-
-  guitarrasadmira.es scores 100/100 on our public trust checks. Has a contact
-  page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T02:33:04.984Z'
+  guitarrasadmira.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-07-27T08:21:26.420Z'
 finalUrl: 'https://guitarrasadmira.es/'
 reachable: true
 noindex: false
@@ -18,6 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -51,9 +52,13 @@ signals:
       shipping: false
     detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-08-30'
+      daysToExpiry: 34
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null

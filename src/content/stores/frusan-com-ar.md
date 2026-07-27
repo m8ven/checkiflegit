@@ -5,7 +5,7 @@ title: Is frusan.com.ar Legit? Trust Score 100/100
 description: >-
   frusan.com.ar scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:34:51.694Z'
+fetchedAt: '2026-07-27T08:22:38.420Z'
 finalUrl: 'https://frusan.com.ar/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 52
+      validTo: '2026-10-16'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

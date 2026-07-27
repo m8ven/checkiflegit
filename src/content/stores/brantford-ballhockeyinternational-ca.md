@@ -5,7 +5,7 @@ title: Is brantford.ballhockeyinternational.ca Legit? Score 61/100
 description: >-
   brantford.ballhockeyinternational.ca scores 61/100 on our public trust checks.
   No links to major social platforms found.
-fetchedAt: '2026-06-25T02:27:23.928Z'
+fetchedAt: '2026-07-27T08:16:38.104Z'
 finalUrl: 'https://brantford.ballhockeyinternational.ca/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-10'
-      daysToExpiry: 16
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -66,10 +66,10 @@ signals:
   contact:
     status: pass
     value:
-      email: true
+      email: false
       phone: true
       address: true
-    detail: 'Public contact details found: email, phone, address.'
+    detail: 'Public contact details found: phone, address.'
   social:
     status: fail
     value:

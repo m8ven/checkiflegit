@@ -5,7 +5,7 @@ title: Is airfaretravel.us Legit? Trust Score 82/100
 description: >-
   airfaretravel.us scores 82/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:17:26.602Z'
+fetchedAt: '2026-07-27T08:08:23.132Z'
 finalUrl: 'https://airfaretravel.us/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-28'
-      daysToExpiry: 157
+      daysToExpiry: 125
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-28'
-      ageDays: 208
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-28).
+      ageDays: 240
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-28).
   contact:
     status: pass
     value:

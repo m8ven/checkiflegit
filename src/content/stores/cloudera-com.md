@@ -4,8 +4,8 @@ slug: cloudera-com
 title: Is cloudera.com Legit? Trust Score 100/100
 description: >-
   cloudera.com scores 100/100 on our public trust checks. Established domain —
-  registered 20.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:54.415Z'
+  registered 20.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:24.287Z'
 finalUrl: 'https://www.cloudera.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on BigCartel, an established e-commerce platform.'
-    - Established domain — registered 20.3 years ago.
+    - Established domain — registered 20.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-24'
-      daysToExpiry: 93
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2006-02-28'
-      ageDays: 7421
-      ageYears: 20.3
-    detail: Registered 20.3 years ago (2006-02-28).
+      ageDays: 7453
+      ageYears: 20.4
+    detail: Registered 20.4 years ago (2006-02-28).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cloudera.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cloudera.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cloudera in the score above.
 

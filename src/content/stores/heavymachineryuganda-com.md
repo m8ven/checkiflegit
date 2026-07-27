@@ -4,8 +4,8 @@ slug: heavymachineryuganda-com
 title: Is heavymachineryuganda.com Legit? Trust Score 85/100
 description: >-
   heavymachineryuganda.com scores 85/100 on our public trust checks. Established
-  domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:23.476Z'
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:13.356Z'
 finalUrl: 'https://heavymachineryuganda.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.8 years ago.
+    - Established domain — registered 8.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-09-02'
-      ageDays: 3217
-      ageYears: 8.8
-    detail: Registered 8.8 years ago (2017-09-02).
+      ageDays: 3249
+      ageYears: 8.9
+    detail: Registered 8.9 years ago (2017-09-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-heavymachineryuganda.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+heavymachineryuganda.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Heavymachineryuganda in the score above.
 

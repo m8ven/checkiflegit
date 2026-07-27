@@ -5,7 +5,7 @@ title: Is cosignmag.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   cosignmag.com scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:23:08.115Z'
+fetchedAt: '2026-07-27T08:13:01.848Z'
 finalUrl: 'https://cosignmag.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.9 years ago.
+    - Established domain — registered 16 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: GoDaddy.com
       validTo: '2026-09-19'
-      daysToExpiry: 86
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2010-07-19'
-      ageDays: 5819
-      ageYears: 15.9
-    detail: Registered 15.9 years ago (2010-07-19).
+      ageDays: 5851
+      ageYears: 16
+    detail: Registered 16 years ago (2010-07-19).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cosignmag.com sends a mixed set of signals. On the positive side, its domain has been registered for 15.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+cosignmag.com sends a mixed set of signals. On the positive side, its domain has been registered for 16 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cosignmag in the score above.
 

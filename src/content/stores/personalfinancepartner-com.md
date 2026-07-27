@@ -4,9 +4,9 @@ slug: personalfinancepartner-com
 title: Is personalfinancepartner.com Legit? Trust Score 88/100
 description: >-
   personalfinancepartner.com scores 88/100 on our public trust checks.
-  Established domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 2.5 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:40:37.760Z'
+fetchedAt: '2026-07-27T08:27:21.043Z'
 finalUrl: 'https://personalfinancepartner.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.4 years ago.
+    - Established domain — registered 2.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2026-12-14'
-      daysToExpiry: 173
+      daysToExpiry: 141
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2024-02-10'
-      ageDays: 865
-      ageYears: 2.4
-    detail: Registered 2.4 years ago (2024-02-10).
+      ageDays: 897
+      ageYears: 2.5
+    detail: Registered 2.5 years ago (2024-02-10).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-personalfinancepartner.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+personalfinancepartner.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Personalfinancepartner in the score above.
 

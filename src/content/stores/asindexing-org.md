@@ -4,8 +4,8 @@ slug: asindexing-org
 title: Is asindexing.org Legit? Trust Score 76/100
 description: >-
   asindexing.org scores 76/100 on our public trust checks. Established domain —
-  registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:28.408Z'
+  registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:14:52.586Z'
 finalUrl: 'https://asindexing.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.3 years ago.
+    - Established domain — registered 28.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-05'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-03-16'
-      ageDays: 10327
-      ageYears: 28.3
-    detail: Registered 28.3 years ago (1998-03-16).
+      ageDays: 10360
+      ageYears: 28.4
+    detail: Registered 28.4 years ago (1998-03-16).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-asindexing.org looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+asindexing.org looks like a well-established store. The clearest positives are that its domain has been registered for 28.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Asindexing in the score above.
 

@@ -6,7 +6,7 @@ description: >-
   store.costosperu.com scores 19/100 on our public trust checks. No public
   contact details detected on the homepage. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T02:52:25.255Z'
+fetchedAt: '2026-07-27T08:38:07.619Z'
 finalUrl: 'https://store.costosperu.com/'
 reachable: true
 noindex: false
@@ -58,7 +58,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-27'
-      daysToExpiry: 186
+      daysToExpiry: 154
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

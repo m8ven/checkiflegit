@@ -5,7 +5,7 @@ title: Is 1837barossa.com.au Legit? Trust Score 83/100
 description: >-
   1837barossa.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:44:31.359Z'
+fetchedAt: '2026-07-27T08:31:01.002Z'
 finalUrl: 'https://1837barossa.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-01'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

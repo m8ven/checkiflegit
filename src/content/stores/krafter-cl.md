@@ -5,7 +5,7 @@ title: Is krafter.cl Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   krafter.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:32:56.569Z'
+fetchedAt: '2026-07-27T08:21:21.010Z'
 finalUrl: 'https://krafter.cl/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

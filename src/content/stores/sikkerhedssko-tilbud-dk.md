@@ -4,8 +4,8 @@ slug: sikkerhedssko-tilbud-dk
 title: Is sikkerhedssko-tilbud.dk Legit? Trust Score 70/100
 description: >-
   sikkerhedssko-tilbud.dk scores 70/100 on our public trust checks. Established
-  domain — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:51:22.049Z'
+  domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:37:12.796Z'
 finalUrl: 'https://sikkerhedssko-tilbud.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.3 years ago.
+    - Established domain — registered 2.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2024-02-27'
-      ageDays: 849
-      ageYears: 2.3
-    detail: Registered 2.3 years ago (2024-02-27).
+      ageDays: 881
+      ageYears: 2.4
+    detail: Registered 2.4 years ago (2024-02-27).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sikkerhedssko-tilbud.dk looks like a well-established store. The clearest positives are that its domain has been registered for 2.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sikkerhedssko-tilbud.dk looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sikkerhedssko-tilbud in the score above.
 

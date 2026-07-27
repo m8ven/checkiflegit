@@ -4,8 +4,8 @@ slug: sarlielektrik-com
 title: Is sarlielektrik.com Legit? Trust Score 73/100
 description: >-
   sarlielektrik.com scores 73/100 on our public trust checks. Established domain
-  — registered 12 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:43:57.488Z'
+  — registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:30:18.384Z'
 finalUrl: 'https://sarlielektrik.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12 years ago.
+    - Established domain — registered 12.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-04'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-06-19'
-      ageDays: 4388
-      ageYears: 12
-    detail: Registered 12 years ago (2014-06-19).
+      ageDays: 4420
+      ageYears: 12.1
+    detail: Registered 12.1 years ago (2014-06-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sarlielektrik.com looks like a well-established store. The clearest positives are that its domain has been registered for 12 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sarlielektrik.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sarlielektrik in the score above.
 

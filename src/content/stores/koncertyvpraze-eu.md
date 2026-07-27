@@ -5,7 +5,7 @@ title: Is koncertyvpraze.eu Legit? Trust Score 66/100
 description: >-
   koncertyvpraze.eu scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:42:42.843Z'
+fetchedAt: '2026-07-27T08:29:04.952Z'
 finalUrl: 'https://koncertyvpraze.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-10-16'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

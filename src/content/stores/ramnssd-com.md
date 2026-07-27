@@ -5,7 +5,7 @@ title: Is ramnssd.com Legit? Trust Score 67/100 — Mixed Signals
 description: >-
   ramnssd.com scores 67/100 on our public trust checks. No links to major social
   platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T02:42:18.318Z'
+fetchedAt: '2026-07-27T08:28:47.099Z'
 finalUrl: 'https://ramnssd.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-03-02'
-      ageDays: 114
-      ageYears: 0.3
-    detail: Registered 0.3 years ago (2026-03-02).
+      ageDays: 146
+      ageYears: 0.4
+    detail: Registered 0.4 years ago (2026-03-02).
   contact:
     status: pass
     value:

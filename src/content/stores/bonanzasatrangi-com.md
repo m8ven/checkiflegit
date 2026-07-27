@@ -4,8 +4,8 @@ slug: bonanzasatrangi-com
 title: Is bonanzasatrangi.com Legit? Trust Score 100/100
 description: >-
   bonanzasatrangi.com scores 100/100 on our public trust checks. Established
-  domain — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:40.040Z'
+  domain — registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:07.031Z'
 finalUrl: 'https://bonanzasatrangi.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-11-01'
-      ageDays: 3522
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-11-01).
+      ageDays: 3554
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bonanzasatrangi.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bonanzasatrangi.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bonanzasatrangi in the score above.
 

@@ -5,7 +5,7 @@ title: Is enoavia.es Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
   enoavia.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:32:30.239Z'
+fetchedAt: '2026-07-27T08:20:55.407Z'
 finalUrl: 'https://enoavia.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

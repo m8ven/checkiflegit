@@ -5,7 +5,7 @@ title: Is jcdiywholesale.com Legit? Trust Score 70/100
 description: >-
   jcdiywholesale.com scores 70/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:39:09.574Z'
+fetchedAt: '2026-07-27T08:26:06.669Z'
 finalUrl: 'https://jcdiywholesale.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-02-11'
-      ageDays: 133
-      ageYears: 0.4
-    detail: Registered 0.4 years ago (2026-02-11).
+      ageDays: 165
+      ageYears: 0.5
+    detail: Registered 0.5 years ago (2026-02-11).
   contact:
     status: pass
     value:

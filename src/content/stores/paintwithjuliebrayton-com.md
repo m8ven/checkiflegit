@@ -4,9 +4,9 @@ slug: paintwithjuliebrayton-com
 title: Is paintwithjuliebrayton.com Legit? Trust Score 100/100
 description: >-
   paintwithjuliebrayton.com scores 100/100 on our public trust checks.
-  Established domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 4.6 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:46:56.652Z'
+fetchedAt: '2026-07-27T08:33:22.194Z'
 finalUrl: 'https://paintwithjuliebrayton.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-22'
-      ageDays: 1645
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2021-12-22).
+      ageDays: 1677
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2021-12-22).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-paintwithjuliebrayton.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+paintwithjuliebrayton.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Paintwithjuliebrayton in the score above.
 

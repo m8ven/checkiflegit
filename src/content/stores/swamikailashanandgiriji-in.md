@@ -5,7 +5,7 @@ title: Is swamikailashanandgiriji.in Legit? Trust Score 100/100
 description: >-
   swamikailashanandgiriji.in scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:52.922Z'
+fetchedAt: '2026-07-27T08:33:19.367Z'
 finalUrl: 'https://swamikailashanandgiriji.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

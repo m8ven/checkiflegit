@@ -5,7 +5,7 @@ title: Is hml24.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
   hml24.com scores 85/100 on our public trust checks. Established domain —
   registered 20.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:04.648Z'
+fetchedAt: '2026-07-27T08:22:53.427Z'
 finalUrl: 'https://hml24.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-11-02'
-      ageDays: 7539
+      ageDays: 7571
       ageYears: 20.7
     detail: Registered 20.7 years ago (2005-11-02).
   contact:
@@ -72,8 +72,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

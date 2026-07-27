@@ -6,7 +6,7 @@ description: >-
   frikilandia.eu scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T02:28:22.893Z'
+fetchedAt: '2026-07-27T08:17:26.247Z'
 finalUrl: 'https://frikilandia.eu/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is pt-nbm.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   pt-nbm.com scores 76/100 on our public trust checks. Established domain —
   registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:45.542Z'
+fetchedAt: '2026-07-27T08:34:50.305Z'
 finalUrl: 'https://pt-nbm.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-12-05'
-      ageDays: 4219
+      ageDays: 4252
       ageYears: 11.6
     detail: Registered 11.6 years ago (2014-12-05).
   contact:

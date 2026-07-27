@@ -5,7 +5,7 @@ title: Is designmuseumdedel.nl Legit? Trust Score 88/100
 description: >-
   designmuseumdedel.nl scores 88/100 on our public trust checks. Established
   domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:39.682Z'
+fetchedAt: '2026-07-27T08:14:06.812Z'
 finalUrl: 'https://designmuseumdedel.nl/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-04'
-      daysToExpiry: 225
+      daysToExpiry: 193
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2017-08-18'
-      ageDays: 3233
+      ageDays: 3265
       ageYears: 8.9
     detail: Registered 8.9 years ago (2017-08-18).
   contact:
@@ -72,8 +72,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

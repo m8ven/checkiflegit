@@ -4,8 +4,8 @@ slug: gardena-com
 title: Is gardena.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   gardena.com scores 70/100 on our public trust checks. Established domain —
-  registered 28.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:26.157Z'
+  registered 28.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:48.327Z'
 finalUrl: 'https://us.gardena.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 28.1 years ago.
+    - Established domain — registered 28.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-20'
-      daysToExpiry: 180
+      daysToExpiry: 147
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '1998-05-22'
-      ageDays: 10260
-      ageYears: 28.1
-    detail: Registered 28.1 years ago (1998-05-22).
+      ageDays: 10293
+      ageYears: 28.2
+    detail: Registered 28.2 years ago (1998-05-22).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gardena.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gardena.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gardena in the score above.
 

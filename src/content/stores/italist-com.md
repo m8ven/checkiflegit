@@ -1,11 +1,11 @@
 ---
 domain: italist.com
 slug: italist-com
-title: Is italist.com Legit? Trust Score 70/100 — Trust Checks Pass
+title: Is italist.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  italist.com scores 70/100 on our public trust checks. Established domain —
-  registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:57.336Z'
+  italist.com scores 88/100 on our public trust checks. Established domain —
+  registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:07.509Z'
 finalUrl: 'https://italist.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 15.3 years ago.
+    - Established domain — registered 15.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-02-27'
-      ageDays: 5596
-      ageYears: 15.3
-    detail: Registered 15.3 years ago (2011-02-27).
+      ageDays: 5628
+      ageYears: 15.4
+    detail: Registered 15.4 years ago (2011-02-27).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-italist.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+italist.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Italist in the score above.
 

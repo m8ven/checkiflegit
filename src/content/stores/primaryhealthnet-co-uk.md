@@ -5,7 +5,7 @@ title: Is primaryhealthnet.co.uk Legit? Trust Score 94/100
 description: >-
   primaryhealthnet.co.uk scores 94/100 on our public trust checks. Established
   domain — registered 21.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:28.439Z'
+fetchedAt: '2026-07-27T08:34:37.210Z'
 finalUrl: 'https://primaryhealthnet.co.uk/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-02'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-08-20'
-      ageDays: 7978
+      ageDays: 8011
       ageYears: 21.9
     detail: Registered 21.9 years ago (2004-08-20).
   contact:

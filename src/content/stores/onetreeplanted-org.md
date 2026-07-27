@@ -3,9 +3,9 @@ domain: onetreeplanted.org
 slug: onetreeplanted-org
 title: Is onetreeplanted.org Legit? Trust Score 100/100
 description: >-
-  onetreeplanted.org scores 100/100 on our public trust checks. Established
-  domain — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:25.987Z'
+  onetreeplanted.org scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-07-27T08:06:35.657Z'
 finalUrl: 'https://onetreeplanted.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 12.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +49,20 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2013-07-16'
-      ageDays: 4726
-      ageYears: 12.9
-    detail: Registered 12.9 years ago (2013-07-16).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -97,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-onetreeplanted.org looks like a well-established store. The clearest positives are that its domain has been registered for 12.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+onetreeplanted.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Onetreeplanted in the score above.
 

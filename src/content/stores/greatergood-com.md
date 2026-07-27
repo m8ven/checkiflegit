@@ -5,7 +5,7 @@ title: Is greatergood.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   greatergood.com scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-24T21:45:16.676Z'
+fetchedAt: '2026-07-27T08:05:41.047Z'
 finalUrl: 'https://greatergood.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 27.6 years ago.
+    - Established domain — registered 27.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-12-04'
-      ageDays: 10064
-      ageYears: 27.6
-    detail: Registered 27.6 years ago (1998-12-04).
+      ageDays: 10097
+      ageYears: 27.7
+    detail: Registered 27.7 years ago (1998-12-04).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-greatergood.com sends a mixed set of signals. On the positive side, its domain has been registered for 27.6 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+greatergood.com sends a mixed set of signals. On the positive side, its domain has been registered for 27.7 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Greatergood in the score above.
 

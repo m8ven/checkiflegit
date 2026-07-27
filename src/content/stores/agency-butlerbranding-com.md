@@ -5,7 +5,7 @@ title: Is agency.butlerbranding.com Legit? Trust Score 40/100
 description: >-
   agency.butlerbranding.com scores 40/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:38:00.658Z'
+fetchedAt: '2026-07-27T08:25:20.669Z'
 finalUrl: 'https://agency.butlerbranding.com/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

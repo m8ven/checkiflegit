@@ -5,7 +5,7 @@ title: Is mebaks.az Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   mebaks.az scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:51:37.502Z'
+fetchedAt: '2026-07-27T08:37:22.977Z'
 finalUrl: 'https://mebaks.az/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

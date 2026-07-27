@@ -5,7 +5,7 @@ title: Is lebanontimes.news Legit? Trust Score 100/100
 description: >-
   lebanontimes.news scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:46:07.157Z'
+fetchedAt: '2026-07-27T08:32:30.102Z'
 finalUrl: 'https://lebanontimes.news/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-17'
-      daysToExpiry: 54
+      daysToExpiry: 21
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

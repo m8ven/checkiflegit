@@ -4,8 +4,8 @@ slug: redwinggallery-co-uk
 title: Is redwinggallery.co.uk Legit? Trust Score 88/100
 description: >-
   redwinggallery.co.uk scores 88/100 on our public trust checks. Established
-  domain — registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:42:31.205Z'
+  domain — registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:28:54.951Z'
 finalUrl: 'https://redwinggallery.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.1 years ago.
+    - Established domain — registered 14.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-05-16'
-      ageDays: 5152
-      ageYears: 14.1
-    detail: Registered 14.1 years ago (2012-05-16).
+      ageDays: 5185
+      ageYears: 14.2
+    detail: Registered 14.2 years ago (2012-05-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-redwinggallery.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 14.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+redwinggallery.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 14.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Redwinggallery in the score above.
 

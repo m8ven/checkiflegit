@@ -5,7 +5,7 @@ title: Is tek.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   tek.com scores 70/100 on our public trust checks. Established domain —
   registered 40.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:55.134Z'
+fetchedAt: '2026-07-27T08:06:06.492Z'
 finalUrl: 'https://www.tek.com/en'
 reachable: true
 noindex: false
@@ -55,16 +55,16 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      issuer: DigiCert Inc
+      validTo: '2026-11-29'
+      daysToExpiry: 126
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1986-05-08'
-      ageDays: 14657
+      ageDays: 14690
       ageYears: 40.2
     detail: Registered 40.2 years ago (1986-05-08).
   contact:

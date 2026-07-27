@@ -5,7 +5,7 @@ title: Is securos.org.ua Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   securos.org.ua scores 58/100 on our public trust checks. HTTPS certificate
   present but its trust chain is incomplete.
-fetchedAt: '2026-06-25T02:17:12.706Z'
+fetchedAt: '2026-07-27T08:08:07.380Z'
 finalUrl: 'http://securos.org.ua/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.7 years ago.
+    - Established domain — registered 16.8 years ago.
   redFlags: []
   cautions:
     - HTTPS certificate present but its trust chain is incomplete.
@@ -56,17 +56,17 @@ signals:
     status: warn
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-10-01'
+      daysToExpiry: 67
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2009-10-14'
-      ageDays: 6097
-      ageYears: 16.7
-    detail: Registered 16.7 years ago (2009-10-14).
+      ageDays: 6129
+      ageYears: 16.8
+    detail: Registered 16.8 years ago (2009-10-14).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-securos.org.ua sends a mixed set of signals. On the positive side, its domain has been registered for 16.7 years and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+securos.org.ua sends a mixed set of signals. On the positive side, its domain has been registered for 16.8 years and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Securos in the score above.
 

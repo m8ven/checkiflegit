@@ -5,7 +5,7 @@ title: Is my.healthlabsexpress.com Legit? Trust Score 79/100
 description: >-
   my.healthlabsexpress.com scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:48.781Z'
+fetchedAt: '2026-07-27T08:25:10.651Z'
 finalUrl: 'https://my.healthlabsexpress.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

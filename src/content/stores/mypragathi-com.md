@@ -5,7 +5,7 @@ title: Is mypragathi.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   mypragathi.com scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:37:59.387Z'
+fetchedAt: '2026-07-27T08:25:19.436Z'
 finalUrl: 'https://mypragathi.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2025-02-14'
-      ageDays: 495
+      ageDays: 527
       ageYears: 1.4
     detail: Registered 1.4 years ago (2025-02-14).
   contact:

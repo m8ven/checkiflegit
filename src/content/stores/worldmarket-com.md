@@ -4,8 +4,8 @@ slug: worldmarket-com
 title: Is worldmarket.com Legit? Trust Score 100/100
 description: >-
   worldmarket.com scores 100/100 on our public trust checks. Established domain
-  — registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:49.125Z'
+  — registered 27.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:20.710Z'
 finalUrl: 'https://www.worldmarket.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 27.7 years ago.
+    - Established domain — registered 27.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-10-07'
-      ageDays: 10122
-      ageYears: 27.7
-    detail: Registered 27.7 years ago (1998-10-07).
+      ageDays: 10155
+      ageYears: 27.8
+    detail: Registered 27.8 years ago (1998-10-07).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-worldmarket.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+worldmarket.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Worldmarket in the score above.
 

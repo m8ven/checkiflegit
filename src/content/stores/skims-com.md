@@ -4,8 +4,8 @@ slug: skims-com
 title: Is skims.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   skims.com scores 70/100 on our public trust checks. Established domain —
-  registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:17.065Z'
+  registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:41.215Z'
 finalUrl: 'https://skims.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 26.3 years ago.
+    - Established domain — registered 26.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-03-04'
-      ageDays: 9608
-      ageYears: 26.3
-    detail: Registered 26.3 years ago (2000-03-04).
+      ageDays: 9640
+      ageYears: 26.4
+    detail: Registered 26.4 years ago (2000-03-04).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-skims.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+skims.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Skims in the score above.
 

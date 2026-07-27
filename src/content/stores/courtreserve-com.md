@@ -5,7 +5,7 @@ title: Is courtreserve.com Legit? Trust Score 100/100
 description: >-
   courtreserve.com scores 100/100 on our public trust checks. Established domain
   — registered 15 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:05.090Z'
+fetchedAt: '2026-07-27T08:06:13.887Z'
 finalUrl: 'https://courtreserve.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-21'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2011-07-14'
-      ageDays: 5459
+      ageDays: 5491
       ageYears: 15
     detail: Registered 15 years ago (2011-07-14).
   contact:

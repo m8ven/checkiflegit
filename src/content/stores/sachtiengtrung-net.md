@@ -1,90 +1,90 @@
 ---
 domain: sachtiengtrung.net
 slug: sachtiengtrung-net
-title: Is sachtiengtrung.net Legit? Trust Score 82/100
+title: Is sachtiengtrung.net Legit? Trust Score 13/100
 description: >-
-  sachtiengtrung.net scores 82/100 on our public trust checks. Established
-  domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:43:34.758Z'
-finalUrl: 'https://sachtiengtrung.net/'
+  sachtiengtrung.net scores 13/100 on our public trust checks. Standard contact
+  and policy pages were not found.
+fetchedAt: '2026-07-27T08:29:58.440Z'
+finalUrl: 'http://sachtiengtrung.net/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 82
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 13
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Established domain — registered 8.7 years ago.
-    - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-  redFlags: []
+  redFlags:
+    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
+    - HTTPS certificate present but its trust chain is incomplete.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://sachtiengtrung.net/'
+      finalUrl: 'http://sachtiengtrung.net/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: pass
+    status: warn
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+      issuer: Sectigo Limited
+      validTo: '2026-11-05'
+      daysToExpiry: 102
+      authorized: false
+    detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2017-10-30'
-      ageDays: 3159
+      ageDays: 3192
       ageYears: 8.7
     detail: Registered 8.7 years ago (2017-10-30).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sachtiengtrung.net looks like a well-established store. The clearest positives are that its domain has been registered for 8.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for sachtiengtrung.net. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 8.7 years — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sachtiengtrung in the score above.
 

@@ -5,7 +5,7 @@ title: Is eshop.gamesquad.sk Legit? Trust Score 19/100
 description: >-
   eshop.gamesquad.sk scores 19/100 on our public trust checks. Standard contact
   and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:32:46.514Z'
+fetchedAt: '2026-07-27T08:21:08.995Z'
 finalUrl: 'https://eshop.gamesquad.sk/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

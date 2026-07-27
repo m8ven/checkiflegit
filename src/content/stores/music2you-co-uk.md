@@ -4,8 +4,8 @@ slug: music2you-co-uk
 title: Is music2you.co.uk Legit? Trust Score 85/100
 description: >-
   music2you.co.uk scores 85/100 on our public trust checks. Established domain —
-  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:44.710Z'
+  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:08.451Z'
 finalUrl: 'https://music2you.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -39,9 +39,9 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: false
+        hasCartLink: true
         hasCatalog: true
-        hasCartFlow: false
+        hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-04'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-02-03'
-      ageDays: 1967
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-02-03).
+      ageDays: 2000
+      ageYears: 5.5
+    detail: Registered 5.5 years ago (2021-02-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-music2you.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+music2you.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Music2you in the score above.
 

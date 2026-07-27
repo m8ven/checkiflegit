@@ -5,7 +5,7 @@ title: Is fashionphile.com Legit? Trust Score 88/100
 description: >-
   fashionphile.com scores 88/100 on our public trust checks. Established domain
   — registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:02.172Z'
+fetchedAt: '2026-07-27T08:05:31.768Z'
 finalUrl: 'https://www.fashionphile.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-03-28'
-      ageDays: 8123
+      ageDays: 8156
       ageYears: 22.3
     detail: Registered 22.3 years ago (2004-03-28).
   contact:

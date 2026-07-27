@@ -5,7 +5,7 @@ title: Is gardentsuhan.com Legit? Trust Score 37/100
 description: >-
   gardentsuhan.com scores 37/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:28:48.163Z'
+fetchedAt: '2026-07-27T08:17:48.156Z'
 finalUrl: 'https://gardentsuhan.com/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-24'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-30'
-      ageDays: 237
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-10-30).
+      ageDays: 270
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-10-30).
   contact:
     status: fail
     value:

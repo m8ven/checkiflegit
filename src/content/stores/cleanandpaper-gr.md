@@ -5,7 +5,7 @@ title: Is cleanandpaper.gr Legit? Trust Score 74/100
 description: >-
   cleanandpaper.gr scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:22:14.930Z'
+fetchedAt: '2026-07-27T08:12:28.142Z'
 finalUrl: 'https://cleanandpaper.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

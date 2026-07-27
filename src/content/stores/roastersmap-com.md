@@ -5,7 +5,7 @@ title: Is roastersmap.com Legit? Trust Score 76/100
 description: >-
   roastersmap.com scores 76/100 on our public trust checks. Established domain —
   registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:34.595Z'
+fetchedAt: '2026-07-27T08:35:37.535Z'
 finalUrl: 'https://roastersmap.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-09'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-10-29'
-      ageDays: 969
+      ageDays: 1001
       ageYears: 2.7
     detail: Registered 2.7 years ago (2023-10-29).
   contact:

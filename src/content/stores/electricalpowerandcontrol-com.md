@@ -4,9 +4,9 @@ slug: electricalpowerandcontrol-com
 title: Is electricalpowerandcontrol.com Legit? Trust Score 100/100
 description: >-
   electricalpowerandcontrol.com scores 100/100 on our public trust checks.
-  Established domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 10.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:32:01.966Z'
+fetchedAt: '2026-07-27T08:20:28.315Z'
 finalUrl: 'https://electricalpowerandcontrol.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.1 years ago.
+    - Established domain — registered 10.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-06-02'
-      ageDays: 3674
-      ageYears: 10.1
-    detail: Registered 10.1 years ago (2016-06-02).
+      ageDays: 3706
+      ageYears: 10.2
+    detail: Registered 10.2 years ago (2016-06-02).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-electricalpowerandcontrol.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+electricalpowerandcontrol.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Electricalpowerandcontrol in the score above.
 

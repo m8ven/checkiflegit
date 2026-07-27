@@ -1,11 +1,11 @@
 ---
 domain: chambre-hote.com
 slug: chambre-hote-com
-title: Is chambre-hote.com Legit? Trust Score 13/100
+title: Is chambre-hote.com Legit? Trust Score 31/100
 description: >-
-  chambre-hote.com scores 13/100 on our public trust checks. Standard contact
-  and policy pages were not found.
-fetchedAt: '2026-06-25T02:23:15.544Z'
+  chambre-hote.com scores 31/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
+fetchedAt: '2026-07-27T08:13:09.661Z'
 finalUrl: 'http://www.chambre-hote.com/'
 reachable: true
 noindex: false
@@ -16,16 +16,16 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 13
+  score: 31
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.7 years ago.
+    - Established domain — registered 21.8 years ago.
   redFlags:
     - Standard contact and policy pages were not found.
-    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions:
     - HTTPS certificate present but its trust chain is incomplete.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,24 +57,24 @@ signals:
     status: warn
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2004-10-06'
-      ageDays: 7931
-      ageYears: 21.7
-    detail: Registered 21.7 years ago (2004-10-06).
+      ageDays: 7963
+      ageYears: 21.8
+    detail: Registered 21.8 years ago (2004-10-06).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
       phone: false
-      address: false
-    detail: No public contact details detected on the homepage.
+      address: true
+    detail: 'Public contact details found: address.'
   social:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for chambre-hote.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 21.7 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for chambre-hote.com. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 21.8 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Chambre-hote in the score above.
 

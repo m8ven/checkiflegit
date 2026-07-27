@@ -5,7 +5,7 @@ title: Is philmangroup.com Legit? Trust Score 73/100
 description: >-
   philmangroup.com scores 73/100 on our public trust checks. Established domain
   — registered 6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:30.676Z'
+fetchedAt: '2026-07-27T08:14:53.467Z'
 finalUrl: 'https://philmangroup.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-27'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-07-10'
-      ageDays: 2175
+      ageDays: 2208
       ageYears: 6
     detail: Registered 6 years ago (2020-07-10).
   contact:

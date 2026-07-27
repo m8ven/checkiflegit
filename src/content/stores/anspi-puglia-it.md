@@ -4,8 +4,8 @@ slug: anspi-puglia-it
 title: Is anspi-puglia.it Legit? Trust Score 88/100
 description: >-
   anspi-puglia.it scores 88/100 on our public trust checks. Established domain —
-  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:36.287Z'
+  registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:31.540Z'
 finalUrl: 'https://www.anspi-puglia.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.2 years ago.
+    - Established domain — registered 8.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2027-02-03'
-      daysToExpiry: 224
+      daysToExpiry: 191
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2018-04-11'
-      ageDays: 2996
-      ageYears: 8.2
-    detail: Registered 8.2 years ago (2018-04-11).
+      ageDays: 3028
+      ageYears: 8.3
+    detail: Registered 8.3 years ago (2018-04-11).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-anspi-puglia.it looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+anspi-puglia.it looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Anspi-puglia in the score above.
 

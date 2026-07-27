@@ -1,11 +1,11 @@
 ---
 domain: atrapamuebles.com
 slug: atrapamuebles-com
-title: Is atrapamuebles.com Legit? Trust Score 88/100
+title: Is atrapamuebles.com Legit? Trust Score 100/100
 description: >-
-  atrapamuebles.com scores 88/100 on our public trust checks. Established domain
-  — registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:47.982Z'
+  atrapamuebles.com scores 100/100 on our public trust checks. Established
+  domain — registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:16.903Z'
 finalUrl: 'https://www.atrapamuebles.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on PrestaShop, an established e-commerce platform.'
-    - Established domain — registered 13.7 years ago.
+    - Established domain — registered 13.8 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on PrestaShop, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
-      issuer: DigiCert Inc
-      validTo: '2026-09-11'
-      daysToExpiry: 80
+      issuer: Let's Encrypt
+      validTo: '2026-09-16'
+      daysToExpiry: 52
       authorized: true
-    detail: Valid certificate issued by DigiCert Inc.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-10-16'
-      ageDays: 4999
-      ageYears: 13.7
-    detail: Registered 13.7 years ago (2012-10-16).
+      ageDays: 5031
+      ageYears: 13.8
+    detail: Registered 13.8 years ago (2012-10-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-atrapamuebles.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+atrapamuebles.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Atrapamuebles in the score above.
 

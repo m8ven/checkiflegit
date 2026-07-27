@@ -5,7 +5,7 @@ title: Is pinmono.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   pinmono.com scores 55/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:40:57.934Z'
+fetchedAt: '2026-07-27T08:27:42.562Z'
 finalUrl: 'https://pinmono.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.1 years ago.
+    - Established domain — registered 5.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-29'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-05-18'
-      ageDays: 1863
-      ageYears: 5.1
-    detail: Registered 5.1 years ago (2021-05-18).
+      ageDays: 1895
+      ageYears: 5.2
+    detail: Registered 5.2 years ago (2021-05-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pinmono.com sends a mixed set of signals. On the positive side, its domain has been registered for 5.1 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+pinmono.com sends a mixed set of signals. On the positive side, its domain has been registered for 5.2 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pinmono in the score above.
 

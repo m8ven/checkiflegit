@@ -1,11 +1,11 @@
 ---
 domain: alphawebit.com.au
 slug: alphawebit-com-au
-title: Is alphawebit.com.au Legit? Trust Score 91/100
+title: Is alphawebit.com.au Legit? Trust Score 88/100
 description: >-
-  alphawebit.com.au scores 91/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T02:44:28.034Z'
+  alphawebit.com.au scores 88/100 on our public trust checks. Has a contact page
+  and multiple policy pages (privacy/terms/refund).
+fetchedAt: '2026-07-27T08:31:00.697Z'
 finalUrl: 'https://alphawebit.com.au/'
 reachable: true
 noindex: false
@@ -15,10 +15,9 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 91
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
@@ -52,13 +51,9 @@ signals:
       shipping: false
     detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
     status: unknown
     value: null

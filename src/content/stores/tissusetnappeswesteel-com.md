@@ -4,9 +4,9 @@ slug: tissusetnappeswesteel-com
 title: Is tissusetnappeswesteel.com Legit? Trust Score 82/100
 description: >-
   tissusetnappeswesteel.com scores 82/100 on our public trust checks.
-  Established domain — registered 6 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:48:14.317Z'
+fetchedAt: '2026-07-27T08:34:23.460Z'
 finalUrl: 'https://tissusetnappeswesteel.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6 years ago.
+    - Established domain — registered 6.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -50,24 +50,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-06-24'
-      ageDays: 2191
-      ageYears: 6
-    detail: Registered 6 years ago (2020-06-24).
+      ageDays: 2224
+      ageYears: 6.1
+    detail: Registered 6.1 years ago (2020-06-24).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tissusetnappeswesteel.com looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tissusetnappeswesteel.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tissusetnappeswesteel in the score above.
 

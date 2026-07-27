@@ -5,7 +5,7 @@ title: Is adenuez.co Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   adenuez.co scores 57/100 on our public trust checks. No public contact details
   detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:22.003Z'
+fetchedAt: '2026-07-27T08:09:22.664Z'
 finalUrl: 'https://adenuez.co/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

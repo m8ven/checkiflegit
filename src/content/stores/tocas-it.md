@@ -4,8 +4,8 @@ slug: tocas-it
 title: Is tocas.it Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   tocas.it scores 100/100 on our public trust checks. Established domain —
-  registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:15.125Z'
+  registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:24.911Z'
 finalUrl: 'https://tocas.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.1 years ago.
+    - Established domain — registered 17.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-05-14'
-      ageDays: 6250
-      ageYears: 17.1
-    detail: Registered 17.1 years ago (2009-05-14).
+      ageDays: 6282
+      ageYears: 17.2
+    detail: Registered 17.2 years ago (2009-05-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tocas.it looks like a well-established store. The clearest positives are that its domain has been registered for 17.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tocas.it looks like a well-established store. The clearest positives are that its domain has been registered for 17.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tocas in the score above.
 

@@ -1,11 +1,11 @@
 ---
 domain: makeship.com
 slug: makeship-com
-title: Is makeship.com Legit? Trust Score 88/100
+title: Is makeship.com Legit? Trust Score 70/100
 description: >-
-  makeship.com scores 88/100 on our public trust checks. Established domain —
-  registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:30.954Z'
+  makeship.com scores 70/100 on our public trust checks. Established domain —
+  registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:45.553Z'
 finalUrl: 'https://www.makeship.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 14.6 years ago.
+    - Established domain — registered 14.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  redFlags:
+    - No public contact details detected on the homepage.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-22'
-      daysToExpiry: 28
+      validTo: '2026-09-23'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-11-28'
-      ageDays: 5322
-      ageYears: 14.6
-    detail: Registered 14.6 years ago (2011-11-28).
+      ageDays: 5354
+      ageYears: 14.7
+    detail: Registered 14.7 years ago (2011-11-28).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-makeship.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+makeship.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Makeship in the score above.
 

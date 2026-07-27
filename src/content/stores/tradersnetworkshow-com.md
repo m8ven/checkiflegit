@@ -4,8 +4,8 @@ slug: tradersnetworkshow-com
 title: Is tradersnetworkshow.com Legit? Trust Score 100/100
 description: >-
   tradersnetworkshow.com scores 100/100 on our public trust checks. Established
-  domain — registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:36.756Z'
+  domain — registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:41.808Z'
 finalUrl: 'https://tradersnetworkshow.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.6 years ago.
+    - Established domain — registered 11.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-12'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-11-26'
-      ageDays: 4228
-      ageYears: 11.6
-    detail: Registered 11.6 years ago (2014-11-26).
+      ageDays: 4260
+      ageYears: 11.7
+    detail: Registered 11.7 years ago (2014-11-26).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tradersnetworkshow.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tradersnetworkshow.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tradersnetworkshow in the score above.
 

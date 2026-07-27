@@ -5,7 +5,7 @@ title: Is guitarrasjosesalinas.com Legit? Trust Score 58/100
 description: >-
   guitarrasjosesalinas.com scores 58/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:36:11.998Z'
+fetchedAt: '2026-07-27T08:23:51.355Z'
 finalUrl: 'https://guitarrasjosesalinas.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-05'
-      daysToExpiry: 195
+      daysToExpiry: 163
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-29'
-      ageDays: 1639
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2021-12-29).
+      ageDays: 1671
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2021-12-29).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-guitarrasjosesalinas.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+guitarrasjosesalinas.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.6 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Guitarrasjosesalinas in the score above.
 

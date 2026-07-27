@@ -4,8 +4,8 @@ slug: lifeseguridad-com
 title: Is lifeseguridad.com Legit? Trust Score 100/100
 description: >-
   lifeseguridad.com scores 100/100 on our public trust checks. Established
-  domain — registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:48.046Z'
+  domain — registered 14.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:33:16.104Z'
 finalUrl: 'https://lifeseguridad.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.8 years ago.
+    - Established domain — registered 14.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-24'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-09-04'
-      ageDays: 5407
-      ageYears: 14.8
-    detail: Registered 14.8 years ago (2011-09-04).
+      ageDays: 5439
+      ageYears: 14.9
+    detail: Registered 14.9 years ago (2011-09-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lifeseguridad.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lifeseguridad.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lifeseguridad in the score above.
 

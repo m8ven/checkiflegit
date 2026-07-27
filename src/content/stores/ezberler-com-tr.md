@@ -5,7 +5,7 @@ title: Is ezberler.com.tr Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   ezberler.com.tr scores 57/100 on our public trust checks. Standard contact and
   policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:33:04.182Z'
+fetchedAt: '2026-07-27T08:21:24.701Z'
 finalUrl: 'https://ezberler.com.tr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-16'
-      daysToExpiry: 114
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

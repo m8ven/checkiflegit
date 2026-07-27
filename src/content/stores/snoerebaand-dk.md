@@ -4,8 +4,8 @@ slug: snoerebaand-dk
 title: Is snoerebaand.dk Legit? Trust Score 82/100
 description: >-
   snoerebaand.dk scores 82/100 on our public trust checks. Established domain —
-  registered 2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:38.704Z'
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:31:56.754Z'
 finalUrl: 'https://snoerebaand.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 2 years ago.
+    - Established domain — registered 2.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2024-07-04'
-      ageDays: 721
-      ageYears: 2
-    detail: Registered 2 years ago (2024-07-04).
+      ageDays: 753
+      ageYears: 2.1
+    detail: Registered 2.1 years ago (2024-07-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-snoerebaand.dk looks like a well-established store. The clearest positives are that its domain has been registered for 2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+snoerebaand.dk looks like a well-established store. The clearest positives are that its domain has been registered for 2.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Snoerebaand in the score above.
 

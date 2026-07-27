@@ -5,7 +5,7 @@ title: Is mastermines.org Legit? Trust Score 13/100
 description: >-
   mastermines.org scores 13/100 on our public trust checks. No valid SSL
   certificate — connection may not be secure.
-fetchedAt: '2026-06-25T02:29:42.445Z'
+fetchedAt: '2026-07-27T08:18:35.087Z'
 finalUrl: 'http://www.mastermines.org/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 13
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.1 years ago.
+    - Established domain — registered 4.2 years ago.
   redFlags:
     - No valid SSL certificate — connection may not be secure.
     - No public contact details detected on the homepage.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: null
       validTo: '2023-05-25'
-      daysToExpiry: -1126
+      daysToExpiry: -1158
       authorized: false
     detail: Certificate has expired.
   domainAge:
     status: pass
     value:
       createdAt: '2022-05-09'
-      ageDays: 1507
-      ageYears: 4.1
-    detail: Registered 4.1 years ago (2022-05-09).
+      ageDays: 1539
+      ageYears: 4.2
+    detail: Registered 4.2 years ago (2022-05-09).
   contact:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for mastermines.org. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 4.1 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for mastermines.org. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 4.2 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mastermines in the score above.
 

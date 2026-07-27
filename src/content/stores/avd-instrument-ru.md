@@ -4,8 +4,8 @@ slug: avd-instrument-ru
 title: Is avd-instrument.ru Legit? Trust Score 85/100
 description: >-
   avd-instrument.ru scores 85/100 on our public trust checks. Established domain
-  — registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:07.773Z'
+  — registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:19.010Z'
 finalUrl: 'https://avd-instrument.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.3 years ago.
+    - Established domain — registered 11.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-03-19'
-      ageDays: 4115
-      ageYears: 11.3
-    detail: Registered 11.3 years ago (2015-03-19).
+      ageDays: 4147
+      ageYears: 11.4
+    detail: Registered 11.4 years ago (2015-03-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-avd-instrument.ru looks like a well-established store. The clearest positives are that its domain has been registered for 11.3 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+avd-instrument.ru looks like a well-established store. The clearest positives are that its domain has been registered for 11.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Avd-instrument in the score above.
 

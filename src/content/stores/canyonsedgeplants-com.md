@@ -5,7 +5,7 @@ title: Is canyonsedgeplants.com Legit? Trust Score 88/100
 description: >-
   canyonsedgeplants.com scores 88/100 on our public trust checks. Established
   domain — registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:07.826Z'
+fetchedAt: '2026-07-27T08:12:19.596Z'
 finalUrl: 'https://canyonsedgeplants.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-03-26'
-      ageDays: 6664
+      ageDays: 6696
       ageYears: 18.3
     detail: Registered 18.3 years ago (2008-03-26).
   contact:

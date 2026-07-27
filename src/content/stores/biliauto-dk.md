@@ -4,8 +4,8 @@ slug: biliauto-dk
 title: Is biliauto.dk Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   biliauto.dk scores 70/100 on our public trust checks. Established domain —
-  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:34.066Z'
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:38:15.971Z'
 finalUrl: 'https://biliauto.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.6 years ago.
+    - Established domain — registered 2.7 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-11-23'
-      ageDays: 945
-      ageYears: 2.6
-    detail: Registered 2.6 years ago (2023-11-23).
+      ageDays: 977
+      ageYears: 2.7
+    detail: Registered 2.7 years ago (2023-11-23).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-biliauto.dk looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+biliauto.dk looks like a well-established store. The clearest positives are that its domain has been registered for 2.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Biliauto in the score above.
 

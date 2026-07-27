@@ -5,7 +5,7 @@ title: Is klokks.no Legit? Trust Score 64/100 — Mixed Signals
 description: >-
   klokks.no scores 64/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:16:56.589Z'
+fetchedAt: '2026-07-27T08:08:00.650Z'
 finalUrl: 'https://klokks.no/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-01-14'
-      ageDays: 4180
+      ageDays: 4212
       ageYears: 11.5
     detail: Registered 11.5 years ago (2015-01-14).
   contact:

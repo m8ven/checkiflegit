@@ -5,7 +5,7 @@ title: Is giftshop.takeawhiff.co.nz Legit? Trust Score 19/100
 description: >-
   giftshop.takeawhiff.co.nz scores 19/100 on our public trust checks. Standard
   contact and policy pages were not found.
-fetchedAt: '2026-06-25T02:29:05.909Z'
+fetchedAt: '2026-07-27T08:18:02.364Z'
 finalUrl: 'https://giftshop.takeawhiff.co.nz/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

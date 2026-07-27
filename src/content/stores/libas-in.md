@@ -1,29 +1,28 @@
 ---
 domain: libas.in
 slug: libas-in
-title: Is libas.in Legit? Trust Score 100/100 — Trust Checks Pass
+title: Is libas.in Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  libas.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Has a contact page and multiple policy pages
-  (privacy/terms/refund).
-fetchedAt: '2026-06-24T21:44:34.185Z'
+  libas.in scores 57/100 on our public trust checks. No public contact details
+  detected on the homepage. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:16.281Z'
 finalUrl: 'https://www.libas.in/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 100
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 57
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No public contact details detected on the homepage.
   cautions: []
 signals:
   http:
@@ -57,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -65,12 +64,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: pass
     value:
@@ -94,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-libas.in looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+libas.in sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Libas in the score above.
 

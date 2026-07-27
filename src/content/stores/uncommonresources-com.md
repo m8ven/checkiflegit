@@ -5,7 +5,7 @@ title: Is uncommonresources.com Legit? Trust Score 61/100
 description: >-
   uncommonresources.com scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:49:12.306Z'
+fetchedAt: '2026-07-27T08:35:16.092Z'
 finalUrl: 'https://uncommonresources.com/home'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-03-26'
-      ageDays: 3377
+      ageDays: 3409
       ageYears: 9.3
     detail: Registered 9.3 years ago (2017-03-26).
   contact:

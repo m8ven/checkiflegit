@@ -1,35 +1,36 @@
 ---
 domain: oziva.in
 slug: oziva-in
-title: Is oziva.in Legit? Trust Score 57/100 — Mixed Signals
+title: Is oziva.in Legit? Trust Score 40/100 — Proceed With Caution
 description: >-
-  oziva.in scores 57/100 on our public trust checks. No public contact details
-  detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:49.706Z'
-finalUrl: 'https://www.oziva.in/'
+  oziva.in scores 40/100 on our public trust checks. No public contact details
+  detected on the homepage.
+fetchedAt: '2026-07-27T08:07:18.090Z'
+finalUrl: 'https://oziva.myshopify.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 57
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 40
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.oziva.in/'
+      finalUrl: 'https://oziva.myshopify.com/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -43,20 +44,20 @@ signals:
         hasCartFlow: true
     detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
-      contact: true
+      contact: false
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -91,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-oziva.in sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for oziva.in. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on Shopify, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Oziva in the score above.
 

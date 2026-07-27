@@ -4,8 +4,8 @@ slug: pindsultani-com
 title: Is pindsultani.com Legit? Trust Score 70/100
 description: >-
   pindsultani.com scores 70/100 on our public trust checks. Established domain —
-  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:40:55.015Z'
+  registered 15.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:27:42.543Z'
 finalUrl: 'https://pindsultani.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.8 years ago.
+    - Established domain — registered 15.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2010-09-09'
-      ageDays: 5767
-      ageYears: 15.8
-    detail: Registered 15.8 years ago (2010-09-09).
+      ageDays: 5799
+      ageYears: 15.9
+    detail: Registered 15.9 years ago (2010-09-09).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pindsultani.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pindsultani.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pindsultani in the score above.
 

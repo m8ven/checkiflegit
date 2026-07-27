@@ -5,7 +5,7 @@ title: Is gld.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   gld.com scores 88/100 on our public trust checks. Established domain —
   registered 30.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:14.895Z'
+fetchedAt: '2026-07-27T08:06:23.771Z'
 finalUrl: 'https://www.gld.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1995-08-25'
-      ageDays: 11261
+      ageDays: 11294
       ageYears: 30.9
     detail: Registered 30.9 years ago (1995-08-25).
   contact:

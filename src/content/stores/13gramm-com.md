@@ -4,8 +4,8 @@ slug: 13gramm-com
 title: Is 13gramm.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   13gramm.com scores 82/100 on our public trust checks. Established domain —
-  registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:16:43.535Z'
+  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:51.515Z'
 finalUrl: 'https://13gramm.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.3 years ago.
+    - Established domain — registered 16.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-03-24'
-      ageDays: 5936
-      ageYears: 16.3
-    detail: Registered 16.3 years ago (2010-03-24).
+      ageDays: 5968
+      ageYears: 16.4
+    detail: Registered 16.4 years ago (2010-03-24).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-13gramm.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+13gramm.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 13gramm in the score above.
 

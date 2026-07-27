@@ -5,7 +5,7 @@ title: Is ethosevents.eu Legit? Trust Score 100/100
 description: >-
   ethosevents.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:32:53.405Z'
+fetchedAt: '2026-07-27T08:21:15.212Z'
 finalUrl: 'https://ethosevents.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

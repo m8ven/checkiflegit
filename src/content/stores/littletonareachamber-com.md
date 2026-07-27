@@ -6,7 +6,7 @@ description: >-
   littletonareachamber.com scores 100/100 on our public trust checks.
   Established domain — registered 28.9 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:42:19.522Z'
+fetchedAt: '2026-07-27T08:28:47.975Z'
 finalUrl: 'https://littletonareachamber.com/'
 reachable: true
 noindex: false
@@ -58,14 +58,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-08-22'
-      ageDays: 10533
+      ageDays: 10566
       ageYears: 28.9
     detail: Registered 28.9 years ago (1997-08-22).
   contact:

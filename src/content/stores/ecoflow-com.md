@@ -4,8 +4,8 @@ slug: ecoflow-com
 title: Is ecoflow.com Legit? Trust Score 100/100
 description: >-
   ecoflow.com scores 100/100 on our public trust checks. Established domain —
-  registered 28.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:27.369Z'
+  registered 28.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:16.277Z'
 finalUrl: 'https://us.ecoflow.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 28.1 years ago.
+    - Established domain — registered 28.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'DigiCert, Inc.'
       validTo: '2026-12-05'
-      daysToExpiry: 165
+      daysToExpiry: 132
       authorized: true
     detail: 'Valid certificate issued by DigiCert, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '1998-05-15'
-      ageDays: 10267
-      ageYears: 28.1
-    detail: Registered 28.1 years ago (1998-05-15).
+      ageDays: 10300
+      ageYears: 28.2
+    detail: Registered 28.2 years ago (1998-05-15).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ecoflow.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ecoflow.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ecoflow in the score above.
 

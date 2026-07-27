@@ -5,7 +5,7 @@ title: Is greub.ch Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   greub.ch scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:29:26.296Z'
+fetchedAt: '2026-07-27T08:18:26.956Z'
 finalUrl: 'https://greub.ch/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

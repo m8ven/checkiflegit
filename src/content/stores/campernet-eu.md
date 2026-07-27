@@ -5,7 +5,7 @@ title: Is campernet.eu Legit? Trust Score 83/100
 description: >-
   campernet.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:22:03.674Z'
+fetchedAt: '2026-07-27T08:12:19.088Z'
 finalUrl: 'https://campernet.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

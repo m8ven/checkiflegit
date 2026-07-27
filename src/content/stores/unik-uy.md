@@ -5,7 +5,7 @@ title: Is unik.uy Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   unik.uy scores 61/100 on our public trust checks. No links to major social
   platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:42:14.369Z'
+fetchedAt: '2026-07-27T08:28:43.402Z'
 finalUrl: 'https://www.unik.uy/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

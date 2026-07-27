@@ -4,8 +4,8 @@ slug: gacharters-org
 title: Is gacharters.org Legit? Trust Score 100/100
 description: >-
   gacharters.org scores 100/100 on our public trust checks. Established domain —
-  registered 25.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:28:40.401Z'
+  registered 25.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:17:41.304Z'
 finalUrl: 'https://gacharters.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.2 years ago.
+    - Established domain — registered 25.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-04-21'
-      ageDays: 9195
-      ageYears: 25.2
-    detail: Registered 25.2 years ago (2001-04-21).
+      ageDays: 9227
+      ageYears: 25.3
+    detail: Registered 25.3 years ago (2001-04-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gacharters.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gacharters.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gacharters in the score above.
 

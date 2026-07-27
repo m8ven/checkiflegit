@@ -5,7 +5,7 @@ title: Is depha.eu Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   depha.eu scores 91/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T02:24:51.457Z'
+fetchedAt: '2026-07-27T08:14:22.564Z'
 finalUrl: 'https://depha.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

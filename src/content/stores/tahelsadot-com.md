@@ -4,8 +4,8 @@ slug: tahelsadot-com
 title: Is tahelsadot.com Legit? Trust Score 70/100
 description: >-
   tahelsadot.com scores 70/100 on our public trust checks. Established domain —
-  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:58.836Z'
+  registered 10 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:33:23.227Z'
 finalUrl: 'https://tahelsadot.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.9 years ago.
+    - Established domain — registered 10 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-11'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-08-03'
-      ageDays: 3612
-      ageYears: 9.9
-    detail: Registered 9.9 years ago (2016-08-03).
+      ageDays: 3645
+      ageYears: 10
+    detail: Registered 10 years ago (2016-08-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tahelsadot.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.9 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tahelsadot.com looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tahelsadot in the score above.
 

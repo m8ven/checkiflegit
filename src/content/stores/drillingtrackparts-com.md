@@ -4,8 +4,8 @@ slug: drillingtrackparts-com
 title: Is drillingtrackparts.com Legit? Trust Score 100/100
 description: >-
   drillingtrackparts.com scores 100/100 on our public trust checks. Established
-  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:31:25.814Z'
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:20:01.345Z'
 finalUrl: 'https://drillingtrackparts.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.9 years ago.
+    - Established domain — registered 3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 52
+      validTo: '2026-10-14'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-08-02'
-      ageDays: 1057
-      ageYears: 2.9
-    detail: Registered 2.9 years ago (2023-08-02).
+      ageDays: 1090
+      ageYears: 3
+    detail: Registered 3 years ago (2023-08-02).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-drillingtrackparts.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+drillingtrackparts.com looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Drillingtrackparts in the score above.
 

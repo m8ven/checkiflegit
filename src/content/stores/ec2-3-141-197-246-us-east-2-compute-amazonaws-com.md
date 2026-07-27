@@ -5,7 +5,7 @@ title: Is ec2-3-141-197-246.us-east-2.compute.amazonaws.com Legit? Score 66/100
 description: >-
   ec2-3-141-197-246.us-east-2.compute.amazonaws.com scores 66/100 on our public
   trust checks. HTTPS certificate present but its trust chain is incomplete.
-fetchedAt: '2026-06-25T02:31:44.516Z'
+fetchedAt: '2026-07-27T08:20:11.087Z'
 finalUrl: 'http://ec2-3-141-197-246.us-east-2.compute.amazonaws.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: null
       validTo: '2030-02-02'
-      daysToExpiry: 1319
+      daysToExpiry: 1287
       authorized: false
     detail: Certificate present but chain not trusted (DEPTH_ZERO_SELF_SIGNED_CERT).
   domainAge:

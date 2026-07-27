@@ -5,7 +5,7 @@ title: Is appearancecoach.co.nz Legit? Trust Score 82/100
 description: >-
   appearancecoach.co.nz scores 82/100 on our public trust checks. Established
   domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:22.850Z'
+fetchedAt: '2026-07-27T08:38:04.938Z'
 finalUrl: 'https://www.appearancecoach.co.nz/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-03-24'
-      ageDays: 1553
+      ageDays: 1585
       ageYears: 4.3
     detail: Registered 4.3 years ago (2022-03-24).
   contact:

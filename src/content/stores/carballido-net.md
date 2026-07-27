@@ -5,7 +5,7 @@ title: Is carballido.net Legit? Trust Score 85/100
 description: >-
   carballido.net scores 85/100 on our public trust checks. Established domain —
   registered 25.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:09.449Z'
+fetchedAt: '2026-07-27T08:11:36.543Z'
 finalUrl: 'https://carballido.net/'
 reachable: true
 noindex: false
@@ -49,22 +49,22 @@ signals:
       contact: true
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-09-30'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-02-19'
-      ageDays: 9256
+      ageDays: 9288
       ageYears: 25.4
     detail: Registered 25.4 years ago (2001-02-19).
   contact:

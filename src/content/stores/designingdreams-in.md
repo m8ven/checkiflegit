@@ -5,7 +5,7 @@ title: Is designingdreams.in Legit? Trust Score 83/100
 description: >-
   designingdreams.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:24:39.165Z'
+fetchedAt: '2026-07-27T08:14:04.177Z'
 finalUrl: 'https://designingdreams.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

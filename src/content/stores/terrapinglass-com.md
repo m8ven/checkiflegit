@@ -4,8 +4,8 @@ slug: terrapinglass-com
 title: Is terrapinglass.com Legit? Trust Score 85/100
 description: >-
   terrapinglass.com scores 85/100 on our public trust checks. Established domain
-  — registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:25.493Z'
+  — registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:33:54.634Z'
 finalUrl: 'https://terrapinglass.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.7 years ago.
+    - Established domain — registered 15.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-10-07'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-10-17'
-      ageDays: 5730
-      ageYears: 15.7
-    detail: Registered 15.7 years ago (2010-10-17).
+      ageDays: 5762
+      ageYears: 15.8
+    detail: Registered 15.8 years ago (2010-10-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-terrapinglass.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.7 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+terrapinglass.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Terrapinglass in the score above.
 

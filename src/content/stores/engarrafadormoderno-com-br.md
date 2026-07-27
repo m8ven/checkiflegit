@@ -5,7 +5,7 @@ title: Is engarrafadormoderno.com.br Legit? Trust Score 40/100
 description: >-
   engarrafadormoderno.com.br scores 40/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:26:40.188Z'
+fetchedAt: '2026-07-27T08:15:49.107Z'
 finalUrl: 'https://engarrafadormoderno.com.br/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-20'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

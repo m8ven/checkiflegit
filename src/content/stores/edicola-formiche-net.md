@@ -5,7 +5,7 @@ title: Is edicola.formiche.net Legit? Trust Score 66/100
 description: >-
   edicola.formiche.net scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:26:12.717Z'
+fetchedAt: '2026-07-27T08:15:27.190Z'
 finalUrl: 'https://edicola.formiche.net/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is koabackdrops.com Legit? Trust Score 100/100
 description: >-
   koabackdrops.com scores 100/100 on our public trust checks. Established domain
   — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:42:31.875Z'
+fetchedAt: '2026-07-27T08:28:55.618Z'
 finalUrl: 'https://koabackdrops.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-28'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-06-04'
-      ageDays: 2942
+      ageDays: 2974
       ageYears: 8.1
     detail: Registered 8.1 years ago (2018-06-04).
   contact:

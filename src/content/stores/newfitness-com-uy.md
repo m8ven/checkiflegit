@@ -1,29 +1,29 @@
 ---
 domain: newfitness.com.uy
 slug: newfitness-com-uy
-title: Is newfitness.com.uy Legit? Trust Score 61/100
+title: Is newfitness.com.uy Legit? Trust Score 74/100
 description: >-
-  newfitness.com.uy scores 61/100 on our public trust checks. No links to major
-  social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:45:45.583Z'
+  newfitness.com.uy scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-07-27T08:32:05.551Z'
 finalUrl: 'https://newfitness.com.uy/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 74
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
+    - Recognisable storefront features (cart/checkout).
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-  redFlags:
-    - No links to major social platforms found.
+  redFlags: []
   cautions:
     - Only limited contact details were found.
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -34,14 +34,16 @@ signals:
   platform:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: true
         hasCatalog: true
         hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: >-
+      Storefront features detected (product catalog with add-to-cart and
+      shopping cart).
   pages:
     status: pass
     value:
@@ -55,8 +57,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-30'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -71,16 +73,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: fail
+    status: warn
     value:
       facebook: false
-      instagram: false
+      instagram: true
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 1 social platform(s): instagram.'
   reviews:
     status: unknown
     value:
@@ -91,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-newfitness.com.uy sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+newfitness.com.uy looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Newfitness in the score above.
 

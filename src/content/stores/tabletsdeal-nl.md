@@ -5,7 +5,7 @@ title: Is tabletsdeal.nl Legit? Trust Score 43/100
 description: >-
   tabletsdeal.nl scores 43/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:46:56.334Z'
+fetchedAt: '2026-07-27T08:33:21.350Z'
 finalUrl: 'https://tabletsdeal.nl/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.4 years ago.
+    - Established domain — registered 3.5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-22'
-      daysToExpiry: 28
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-01-14'
-      ageDays: 1258
-      ageYears: 3.4
-    detail: Registered 3.4 years ago (2023-01-14).
+      ageDays: 1290
+      ageYears: 3.5
+    detail: Registered 3.5 years ago (2023-01-14).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for tabletsdeal.nl. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 3.4 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for tabletsdeal.nl. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 3.5 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tabletsdeal in the score above.
 

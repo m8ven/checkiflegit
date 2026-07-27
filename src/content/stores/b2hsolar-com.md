@@ -1,30 +1,31 @@
 ---
 domain: b2hsolar.com
 slug: b2hsolar-com
-title: Is b2hsolar.com Legit? Trust Score 70/100
+title: Is b2hsolar.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  b2hsolar.com scores 70/100 on our public trust checks. Established domain —
-  registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:46.863Z'
+  b2hsolar.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
+fetchedAt: '2026-07-27T08:09:55.383Z'
 finalUrl: 'https://b2hsolar.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.5 years ago.
+    - Established domain — registered 3.6 years ago.
     - Valid HTTPS/SSL certificate in place.
-  redFlags: []
+  redFlags:
+    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -57,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-12-25'
-      ageDays: 1277
-      ageYears: 3.5
-    detail: Registered 3.5 years ago (2022-12-25).
+      ageDays: 1309
+      ageYears: 3.6
+    detail: Registered 3.6 years ago (2022-12-25).
   contact:
     status: warn
     value:
@@ -75,16 +76,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-b2hsolar.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+b2hsolar.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against B2hsolar in the score above.
 

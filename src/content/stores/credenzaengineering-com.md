@@ -4,8 +4,8 @@ slug: credenzaengineering-com
 title: Is credenzaengineering.com Legit? Trust Score 82/100
 description: >-
   credenzaengineering.com scores 82/100 on our public trust checks. Established
-  domain — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:54.858Z'
+  domain — registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:47.354Z'
 finalUrl: 'https://credenzaengineering.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -50,23 +50,23 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: true
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: SSL Corporation
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by SSL Corporation.
   domainAge:
     status: pass
     value:
       createdAt: '2016-11-09'
-      ageDays: 3514
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-11-09).
+      ageDays: 3546
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-credenzaengineering.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+credenzaengineering.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Credenzaengineering in the score above.
 

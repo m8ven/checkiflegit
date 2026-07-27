@@ -4,8 +4,8 @@ slug: gastownmedicinal-com
 title: Is gastownmedicinal.com Legit? Trust Score 85/100
 description: >-
   gastownmedicinal.com scores 85/100 on our public trust checks. Established
-  domain — registered 5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:28:51.499Z'
+  domain — registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:17:48.701Z'
 finalUrl: 'https://gastownmedicinal.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5 years ago.
+    - Established domain — registered 5.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-08'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-06-15'
-      ageDays: 1835
-      ageYears: 5
-    detail: Registered 5 years ago (2021-06-15).
+      ageDays: 1868
+      ageYears: 5.1
+    detail: Registered 5.1 years ago (2021-06-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gastownmedicinal.com looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gastownmedicinal.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gastownmedicinal in the score above.
 

@@ -5,7 +5,7 @@ title: Is mathematiques-fantastiques.fr Legit? Trust Score 58/100
 description: >-
   mathematiques-fantastiques.fr scores 58/100 on our public trust checks. No
   public contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:50:56.445Z'
+fetchedAt: '2026-07-27T08:36:37.719Z'
 finalUrl: 'https://mathematiques-fantastiques.fr/fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.7 years ago.
+    - Established domain — registered 9.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-10'
-      daysToExpiry: 169
+      daysToExpiry: 137
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2016-10-13'
-      ageDays: 3541
-      ageYears: 9.7
-    detail: Registered 9.7 years ago (2016-10-13).
+      ageDays: 3573
+      ageYears: 9.8
+    detail: Registered 9.8 years ago (2016-10-13).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mathematiques-fantastiques.fr sends a mixed set of signals. On the positive side, its domain has been registered for 9.7 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+mathematiques-fantastiques.fr sends a mixed set of signals. On the positive side, its domain has been registered for 9.8 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mathematiques-fantastiques in the score above.
 

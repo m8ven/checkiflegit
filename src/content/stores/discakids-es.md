@@ -5,7 +5,7 @@ title: Is discakids.es Legit? Trust Score 83/100
 description: >-
   discakids.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:25:07.433Z'
+fetchedAt: '2026-07-27T08:14:36.012Z'
 finalUrl: 'https://discakids.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-23'
-      daysToExpiry: 152
+      daysToExpiry: 120
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

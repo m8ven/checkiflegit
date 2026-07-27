@@ -5,7 +5,7 @@ title: Is simbartprojects.com Legit? Trust Score 76/100
 description: >-
   simbartprojects.com scores 76/100 on our public trust checks. Established
   domain — registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:51:23.895Z'
+fetchedAt: '2026-07-27T08:37:14.443Z'
 finalUrl: 'https://simbartprojects.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-04'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-01-09'
-      ageDays: 3088
+      ageDays: 3120
       ageYears: 8.5
     detail: Registered 8.5 years ago (2018-01-09).
   contact:

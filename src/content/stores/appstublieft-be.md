@@ -4,8 +4,8 @@ slug: appstublieft-be
 title: Is appstublieft.be Legit? Trust Score 100/100
 description: >-
   appstublieft.be scores 100/100 on our public trust checks. Established domain
-  — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:55.800Z'
+  — registered 13 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:31:20.847Z'
 finalUrl: 'https://appstublieft.be/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.9 years ago.
+    - Established domain — registered 13 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-07-31'
-      ageDays: 4711
-      ageYears: 12.9
-    detail: Registered 12.9 years ago (2013-07-31).
+      ageDays: 4744
+      ageYears: 13
+    detail: Registered 13 years ago (2013-07-31).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-appstublieft.be looks like a well-established store. The clearest positives are that its domain has been registered for 12.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+appstublieft.be looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Appstublieft in the score above.
 

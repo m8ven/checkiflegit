@@ -5,7 +5,7 @@ title: Is minaki.shop Legit? Trust Score 100/100
 description: >-
   minaki.shop scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:36:50.338Z'
+fetchedAt: '2026-07-27T08:24:27.882Z'
 finalUrl: 'https://minaki.shop/en-us'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

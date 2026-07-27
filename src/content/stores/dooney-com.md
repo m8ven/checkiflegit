@@ -4,8 +4,8 @@ slug: dooney-com
 title: Is dooney.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   dooney.com scores 100/100 on our public trust checks. Established domain —
-  registered 30.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:21.033Z'
+  registered 30.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:29.996Z'
 finalUrl: 'https://www.dooney.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 30.5 years ago.
+    - Established domain — registered 30.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-01-06'
-      ageDays: 11127
-      ageYears: 30.5
-    detail: Registered 30.5 years ago (1996-01-06).
+      ageDays: 11160
+      ageYears: 30.6
+    detail: Registered 30.6 years ago (1996-01-06).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dooney.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dooney.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dooney in the score above.
 

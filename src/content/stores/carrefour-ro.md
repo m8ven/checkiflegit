@@ -1,11 +1,11 @@
 ---
 domain: carrefour.ro
 slug: carrefour-ro
-title: Is carrefour.ro Legit? Trust Score 88/100
+title: Is carrefour.ro Legit? Trust Score 83/100
 description: >-
-  carrefour.ro scores 88/100 on our public trust checks. Established domain —
-  registered 25.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:24.779Z'
+  carrefour.ro scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-07-27T08:06:34.170Z'
 finalUrl: 'https://carrefour.ro/'
 reachable: true
 noindex: false
@@ -15,10 +15,9 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 83
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 25.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -48,25 +47,22 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-15'
-      daysToExpiry: 83
+      validTo: '2026-10-18'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2001-01-01'
-      ageDays: 9305
-      ageYears: 25.5
-    detail: Registered 25.5 years ago (2001-01-01).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: warn
     value:
@@ -97,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-carrefour.ro looks like a well-established store. The clearest positives are that its domain has been registered for 25.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+carrefour.ro looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Carrefour in the score above.
 

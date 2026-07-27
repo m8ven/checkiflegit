@@ -1,72 +1,73 @@
 ---
 domain: petramoes.nl
 slug: petramoes-nl
-title: Is petramoes.nl Legit? Trust Score 52/100 — Mixed Signals
+title: Is petramoes.nl Legit? Trust Score 34/100
 description: >-
-  petramoes.nl scores 52/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T02:47:27.217Z'
-finalUrl: 'https://petramoes.nl/'
+  petramoes.nl scores 34/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
+fetchedAt: '2026-07-27T08:33:55.362Z'
+finalUrl: 'https://www.petramoes.nl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 52
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 34
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.4 years ago.
+    - Established domain — registered 22.5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
+    - Standard contact and policy pages were not found.
     - No public contact details detected on the homepage.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://petramoes.nl/'
+      finalUrl: 'https://www.petramoes.nl/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
+        hasCartLink: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
-      privacy: true
+      contact: false
+      privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-01-28'
-      ageDays: 8184
-      ageYears: 22.4
-    detail: Registered 22.4 years ago (2004-01-28).
+      ageDays: 8216
+      ageYears: 22.5
+    detail: Registered 22.5 years ago (2004-01-28).
   contact:
     status: fail
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-petramoes.nl sends a mixed set of signals. On the positive side, its domain has been registered for 22.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for petramoes.nl. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 22.5 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Petramoes in the score above.
 

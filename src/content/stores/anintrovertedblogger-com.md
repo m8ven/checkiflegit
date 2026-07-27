@@ -5,7 +5,7 @@ title: Is anintrovertedblogger.com Legit? Trust Score 58/100
 description: >-
   anintrovertedblogger.com scores 58/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:17:54.304Z'
+fetchedAt: '2026-07-27T08:08:50.893Z'
 finalUrl: 'https://anintrovertedblogger.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      issuer: Google Trust Services
+      validTo: '2026-10-19'
+      daysToExpiry: 84
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-11-13'
-      ageDays: 3510
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-11-13).
+      ageDays: 3542
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-13).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-anintrovertedblogger.com sends a mixed set of signals. On the positive side, its domain has been registered for 9.6 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+anintrovertedblogger.com sends a mixed set of signals. On the positive side, its domain has been registered for 9.7 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Anintrovertedblogger in the score above.
 

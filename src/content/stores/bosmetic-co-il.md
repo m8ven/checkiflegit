@@ -5,7 +5,7 @@ title: Is bosmetic.co.il Legit? Trust Score 91/100
 description: >-
   bosmetic.co.il scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:21:32.852Z'
+fetchedAt: '2026-07-27T08:11:51.257Z'
 finalUrl: 'https://bosmetic.co.il/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

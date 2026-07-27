@@ -5,7 +5,7 @@ title: Is shop.tulipop.com Legit? Trust Score 100/100
 description: >-
   shop.tulipop.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:51:16.737Z'
+fetchedAt: '2026-07-27T08:37:10.575Z'
 finalUrl: 'https://shop.tulipop.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

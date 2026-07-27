@@ -5,7 +5,7 @@ title: Is asait.ir Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   asait.ir scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:18:09.026Z'
+fetchedAt: '2026-07-27T08:09:07.169Z'
 finalUrl: 'https://asait.ir/'
 reachable: true
 noindex: false
@@ -47,16 +47,16 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: true
+      terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-25'
-      daysToExpiry: 62
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

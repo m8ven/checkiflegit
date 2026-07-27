@@ -1,31 +1,30 @@
 ---
 domain: rtl-sdr.com
 slug: rtl-sdr-com
-title: Is rtl-sdr.com Legit? Trust Score 43/100
+title: Is rtl-sdr.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  rtl-sdr.com scores 43/100 on our public trust checks. No public contact
-  details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-24T21:46:46.161Z'
+  rtl-sdr.com scores 70/100 on our public trust checks. Established domain —
+  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:15.600Z'
 finalUrl: 'https://www.rtl-sdr.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 43
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.2 years ago.
+    - Established domain — registered 13.3 years ago.
     - Valid HTTPS/SSL certificate in place.
-  redFlags:
-    - No public contact details detected on the homepage.
-    - No links to major social platforms found.
+  redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -57,35 +56,35 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-04-09'
-      ageDays: 4824
-      ageYears: 13.2
-    detail: Registered 13.2 years ago (2013-04-09).
+      ageDays: 4856
+      ageYears: 13.3
+    detail: Registered 13.3 years ago (2013-04-09).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
-    status: fail
+    status: warn
     value:
       facebook: false
       instagram: false
       twitter: false
       tiktok: false
-      youtube: false
+      youtube: true
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 1 social platform(s): youtube.'
   reviews:
     status: unknown
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for rtl-sdr.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 13.2 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+rtl-sdr.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rtl-sdr in the score above.
 

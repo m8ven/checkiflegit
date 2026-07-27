@@ -4,8 +4,8 @@ slug: videowise-com
 title: Is videowise.com Legit? Trust Score 70/100
 description: >-
   videowise.com scores 70/100 on our public trust checks. Established domain —
-  registered 23.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:56.482Z'
+  registered 23.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:27.499Z'
 finalUrl: 'https://videowise.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 23.8 years ago.
+    - Established domain — registered 23.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-20'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2002-09-25'
-      ageDays: 8673
-      ageYears: 23.8
-    detail: Registered 23.8 years ago (2002-09-25).
+      ageDays: 8706
+      ageYears: 23.9
+    detail: Registered 23.9 years ago (2002-09-25).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-videowise.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+videowise.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Videowise in the score above.
 

@@ -1,32 +1,31 @@
 ---
 domain: govindacafe.ru
 slug: govindacafe-ru
-title: Is govindacafe.ru Legit? Trust Score 31/100
+title: Is govindacafe.ru Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  govindacafe.ru scores 31/100 on our public trust checks. No valid SSL
+  govindacafe.ru scores 55/100 on our public trust checks. No valid SSL
   certificate — connection may not be secure. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T02:16:33.226Z'
+fetchedAt: '2026-07-27T08:07:32.511Z'
 finalUrl: 'http://www.govindacafe.ru/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 31
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.3 years ago.
+    - Established domain — registered 13.4 years ago.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
   redFlags:
     - No valid SSL certificate — connection may not be secure.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -46,36 +45,36 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
       terms: true
       refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: fail
     value:
       issuer: Let's Encrypt
       validTo: '2026-04-28'
-      daysToExpiry: -57
+      daysToExpiry: -90
       authorized: false
     detail: Certificate has expired.
   domainAge:
     status: pass
     value:
       createdAt: '2013-03-11'
-      ageDays: 4853
-      ageYears: 13.3
-    detail: Registered 13.3 years ago (2013-03-11).
+      ageDays: 4885
+      ageYears: 13.4
+    detail: Registered 13.4 years ago (2013-03-11).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: fail
     value:
@@ -97,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for govindacafe.ru. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 13.3 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+govindacafe.ru sends a mixed set of signals. On the positive side, its domain has been registered for 13.4 years and it lists genuine business contact details. Against that, it does not present a valid security certificate and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Govindacafe in the score above.
 

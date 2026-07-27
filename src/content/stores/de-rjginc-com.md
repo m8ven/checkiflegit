@@ -5,7 +5,7 @@ title: Is de.rjginc.com Legit? Trust Score 83/100
 description: >-
   de.rjginc.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:24:41.027Z'
+fetchedAt: '2026-07-27T08:14:09.399Z'
 finalUrl: 'https://de.rjginc.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-12-11'
-      daysToExpiry: 170
+      daysToExpiry: 138
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:

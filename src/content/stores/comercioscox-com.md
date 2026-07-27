@@ -4,8 +4,8 @@ slug: comercioscox-com
 title: Is comercioscox.com Legit? Trust Score 82/100
 description: >-
   comercioscox.com scores 82/100 on our public trust checks. Established domain
-  — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:23:28.095Z'
+  — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:14.030Z'
 finalUrl: 'https://comercioscox.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.3 years ago.
+    - Established domain — registered 3.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-02'
-      daysToExpiry: 131
+      daysToExpiry: 99
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2023-02-27'
-      ageDays: 1213
-      ageYears: 3.3
-    detail: Registered 3.3 years ago (2023-02-27).
+      ageDays: 1246
+      ageYears: 3.4
+    detail: Registered 3.4 years ago (2023-02-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-comercioscox.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+comercioscox.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Comercioscox in the score above.
 

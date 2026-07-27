@@ -5,7 +5,7 @@ title: Is accid.org Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   accid.org scores 100/100 on our public trust checks. Established domain —
   registered 23.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:09.329Z'
+fetchedAt: '2026-07-27T08:22:58.404Z'
 finalUrl: 'https://accid.org/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-01-14'
-      ageDays: 8562
+      ageDays: 8594
       ageYears: 23.5
     detail: Registered 23.5 years ago (2003-01-14).
   contact:

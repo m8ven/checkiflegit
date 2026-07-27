@@ -5,7 +5,7 @@ title: Is aidesign.center Legit? Trust Score 83/100
 description: >-
   aidesign.center scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:23:35.469Z'
+fetchedAt: '2026-07-27T08:13:15.265Z'
 finalUrl: 'https://aidesign.center/'
 reachable: true
 noindex: false
@@ -47,16 +47,16 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-13'
-      daysToExpiry: 81
+      validTo: '2026-09-30'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

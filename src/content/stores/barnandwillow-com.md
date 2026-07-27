@@ -4,8 +4,8 @@ slug: barnandwillow-com
 title: Is barnandwillow.com Legit? Trust Score 76/100
 description: >-
   barnandwillow.com scores 76/100 on our public trust checks. Established domain
-  — registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:57.287Z'
+  — registered 13.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:10:12.334Z'
 finalUrl: 'https://barnandwillow.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 13.3 years ago.
+    - Established domain — registered 13.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-03-11'
-      ageDays: 4853
-      ageYears: 13.3
-    detail: Registered 13.3 years ago (2013-03-11).
+      ageDays: 4886
+      ageYears: 13.4
+    detail: Registered 13.4 years ago (2013-03-11).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-barnandwillow.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+barnandwillow.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Barnandwillow in the score above.
 

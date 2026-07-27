@@ -4,8 +4,8 @@ slug: oexec-co-uk
 title: Is oexec.co.uk Legit? Trust Score 100/100
 description: >-
   oexec.co.uk scores 100/100 on our public trust checks. Established domain —
-  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:23.542Z'
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:32:55.467Z'
 finalUrl: 'https://oexec.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.1 years ago.
+    - Established domain — registered 1.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-05'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-05-12'
-      ageDays: 408
-      ageYears: 1.1
-    detail: Registered 1.1 years ago (2025-05-12).
+      ageDays: 441
+      ageYears: 1.2
+    detail: Registered 1.2 years ago (2025-05-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-oexec.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 1.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+oexec.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Oexec in the score above.
 

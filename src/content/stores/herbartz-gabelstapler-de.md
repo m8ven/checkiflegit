@@ -5,7 +5,7 @@ title: Is herbartz-gabelstapler.de Legit? Trust Score 79/100
 description: >-
   herbartz-gabelstapler.de scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:58.020Z'
+fetchedAt: '2026-07-27T08:18:50.702Z'
 finalUrl: 'https://herbartz-gabelstapler.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-29'
-      daysToExpiry: 97
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

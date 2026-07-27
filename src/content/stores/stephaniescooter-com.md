@@ -5,7 +5,7 @@ title: Is stephaniescooter.com Legit? Trust Score 88/100
 description: >-
   stephaniescooter.com scores 88/100 on our public trust checks. Established
   domain — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:34.409Z'
+fetchedAt: '2026-07-27T08:11:52.338Z'
 finalUrl: 'https://www.stephaniescooter.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-02-15'
-      ageDays: 1225
+      ageDays: 1258
       ageYears: 3.4
     detail: Registered 3.4 years ago (2023-02-15).
   contact:

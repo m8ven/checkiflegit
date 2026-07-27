@@ -4,8 +4,8 @@ slug: allach-ru
 title: Is allach.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   allach.ru scores 73/100 on our public trust checks. Established domain —
-  registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:16:19.808Z'
+  registered 16.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:20.846Z'
 finalUrl: 'https://allach.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.8 years ago.
+    - Established domain — registered 16.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: GlobalSign nv-sa
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by GlobalSign nv-sa.
   domainAge:
     status: pass
     value:
       createdAt: '2009-09-09'
-      ageDays: 6132
-      ageYears: 16.8
-    detail: Registered 16.8 years ago (2009-09-09).
+      ageDays: 6164
+      ageYears: 16.9
+    detail: Registered 16.9 years ago (2009-09-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-allach.ru looks like a well-established store. The clearest positives are that its domain has been registered for 16.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+allach.ru looks like a well-established store. The clearest positives are that its domain has been registered for 16.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Allach in the score above.
 

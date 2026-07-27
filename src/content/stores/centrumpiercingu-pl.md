@@ -1,11 +1,11 @@
 ---
 domain: centrumpiercingu.pl
 slug: centrumpiercingu-pl
-title: Is centrumpiercingu.pl Legit? Trust Score 83/100
+title: Is centrumpiercingu.pl Legit? Trust Score 100/100
 description: >-
-  centrumpiercingu.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:28:37.179Z'
+  centrumpiercingu.pl scores 100/100 on our public trust checks. Established
+  domain — registered 4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:17:36.514Z'
 finalUrl: 'https://centrumpiercingu.pl/'
 reachable: true
 noindex: false
@@ -15,15 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -43,33 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
+      privacy: true
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: home.pl S.A.
       validTo: '2027-01-21'
-      daysToExpiry: 211
+      daysToExpiry: 179
       authorized: true
     detail: Valid certificate issued by home.pl S.A..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2022-08-01'
+      ageDays: 1455
+      ageYears: 4
+    detail: Registered 4 years ago (2022-08-01).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-centrumpiercingu.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+centrumpiercingu.pl looks like a well-established store. The clearest positives are that its domain has been registered for 4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Centrumpiercingu in the score above.
 

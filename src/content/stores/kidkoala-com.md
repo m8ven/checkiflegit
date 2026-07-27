@@ -4,8 +4,8 @@ slug: kidkoala-com
 title: Is kidkoala.com Legit? Trust Score 70/100
 description: >-
   kidkoala.com scores 70/100 on our public trust checks. Established domain —
-  registered 27.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:41:55.116Z'
+  registered 28 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:28:25.664Z'
 finalUrl: 'https://kidkoala.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.9 years ago.
+    - Established domain — registered 28 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-24'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1998-07-26'
-      ageDays: 10195
-      ageYears: 27.9
-    detail: Registered 27.9 years ago (1998-07-26).
+      ageDays: 10228
+      ageYears: 28
+    detail: Registered 28 years ago (1998-07-26).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kidkoala.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kidkoala.com looks like a well-established store. The clearest positives are that its domain has been registered for 28 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kidkoala in the score above.
 

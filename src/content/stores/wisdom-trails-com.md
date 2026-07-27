@@ -5,7 +5,7 @@ title: Is wisdom-trails.com Legit? Trust Score 52/100
 description: >-
   wisdom-trails.com scores 52/100 on our public trust checks. No public contact
   details detected on the homepage. Domain is relatively young.
-fetchedAt: '2026-06-25T02:50:52.010Z'
+fetchedAt: '2026-07-27T08:36:34.260Z'
 finalUrl: 'https://wisdom-trails.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-25'
-      daysToExpiry: 246
+      daysToExpiry: 214
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: warn
     value:
       createdAt: '2026-02-25'
-      ageDays: 119
-      ageYears: 0.3
-    detail: Registered 0.3 years ago (2026-02-25).
+      ageDays: 152
+      ageYears: 0.4
+    detail: Registered 0.4 years ago (2026-02-25).
   contact:
     status: fail
     value:

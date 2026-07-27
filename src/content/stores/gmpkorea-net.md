@@ -4,8 +4,8 @@ slug: gmpkorea-net
 title: Is gmpkorea.net Legit? Trust Score 70/100
 description: >-
   gmpkorea.net scores 70/100 on our public trust checks. Established domain —
-  registered 6.9 years ago. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:17:49.669Z'
+  registered 7 years ago. Public business contact details are listed.
+fetchedAt: '2026-07-27T08:08:47.726Z'
 finalUrl: 'http://gmpkorea.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.9 years ago.
+    - Established domain — registered 7 years ago.
     - Public business contact details are listed.
   redFlags: []
   cautions:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Default Company Ltd
       validTo: '2031-07-27'
-      daysToExpiry: 1859
+      daysToExpiry: 1826
       authorized: false
     detail: Certificate present but chain not trusted (DEPTH_ZERO_SELF_SIGNED_CERT).
   domainAge:
     status: pass
     value:
       createdAt: '2019-08-10'
-      ageDays: 2511
-      ageYears: 6.9
-    detail: Registered 6.9 years ago (2019-08-10).
+      ageDays: 2543
+      ageYears: 7
+    detail: Registered 7 years ago (2019-08-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gmpkorea.net looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gmpkorea.net looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gmpkorea in the score above.
 

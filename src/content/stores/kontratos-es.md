@@ -5,7 +5,7 @@ title: Is kontratos.es Legit? Trust Score 83/100
 description: >-
   kontratos.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:42:45.695Z'
+fetchedAt: '2026-07-27T08:29:06.858Z'
 finalUrl: 'https://kontratos.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

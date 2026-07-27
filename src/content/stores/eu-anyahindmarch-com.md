@@ -5,7 +5,7 @@ title: Is eu.anyahindmarch.com Legit? Trust Score 83/100
 description: >-
   eu.anyahindmarch.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:32:54.242Z'
+fetchedAt: '2026-07-27T08:21:20.201Z'
 finalUrl: 'https://eu.anyahindmarch.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

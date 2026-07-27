@@ -5,7 +5,7 @@ title: Is homecenter.co.il Legit? Trust Score 83/100
 description: >-
   homecenter.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-24T21:46:49.903Z'
+fetchedAt: '2026-07-27T08:07:18.681Z'
 finalUrl: 'https://www.homecenter.co.il/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

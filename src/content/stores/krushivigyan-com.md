@@ -4,8 +4,8 @@ slug: krushivigyan-com
 title: Is krushivigyan.com Legit? Trust Score 100/100
 description: >-
   krushivigyan.com scores 100/100 on our public trust checks. Established domain
-  — registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:41:16.209Z'
+  — registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:27:53.780Z'
 finalUrl: 'https://krushivigyan.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.7 years ago.
+    - Established domain — registered 21.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-10-08'
-      ageDays: 7929
-      ageYears: 21.7
-    detail: Registered 21.7 years ago (2004-10-08).
+      ageDays: 7961
+      ageYears: 21.8
+    detail: Registered 21.8 years ago (2004-10-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-krushivigyan.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+krushivigyan.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Krushivigyan in the score above.
 

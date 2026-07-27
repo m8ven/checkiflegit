@@ -5,7 +5,7 @@ title: Is overcominghate.org Legit? Trust Score 61/100
 description: >-
   overcominghate.org scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:40:08.723Z'
+fetchedAt: '2026-07-27T08:27:00.984Z'
 finalUrl: 'https://overcominghate.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.7 years ago.
+    - Established domain — registered 4.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-10-01'
-      ageDays: 1727
-      ageYears: 4.7
-    detail: Registered 4.7 years ago (2021-10-01).
+      ageDays: 1759
+      ageYears: 4.8
+    detail: Registered 4.8 years ago (2021-10-01).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-overcominghate.org sends a mixed set of signals. On the positive side, its domain has been registered for 4.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+overcominghate.org sends a mixed set of signals. On the positive side, its domain has been registered for 4.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Overcominghate in the score above.
 

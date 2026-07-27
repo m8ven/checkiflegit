@@ -5,7 +5,7 @@ title: Is sensibo.com Legit? Trust Score 100/100
 description: >-
   sensibo.com scores 100/100 on our public trust checks. Established domain —
   registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:33.930Z'
+fetchedAt: '2026-07-27T08:05:16.279Z'
 finalUrl: 'https://sensibo.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-10-31'
-      ageDays: 4619
+      ageDays: 4651
       ageYears: 12.7
     detail: Registered 12.7 years ago (2013-10-31).
   contact:

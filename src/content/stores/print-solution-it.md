@@ -4,8 +4,8 @@ slug: print-solution-it
 title: Is print-solution.it Legit? Trust Score 88/100
 description: >-
   print-solution.it scores 88/100 on our public trust checks. Established domain
-  — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:29.240Z'
+  — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:37.258Z'
 finalUrl: 'https://print-solution.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.1 years ago.
+    - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-05-25'
-      ageDays: 2221
-      ageYears: 6.1
-    detail: Registered 6.1 years ago (2020-05-25).
+      ageDays: 2253
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-05-25).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-print-solution.it looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+print-solution.it looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Print-solution in the score above.
 

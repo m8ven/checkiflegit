@@ -5,7 +5,7 @@ title: Is jus-tice.co.il Legit? Trust Score 79/100
 description: >-
   jus-tice.co.il scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:40:49.448Z'
+fetchedAt: '2026-07-27T08:27:41.086Z'
 finalUrl: 'https://jus-tice.co.il/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-24'
-      daysToExpiry: 61
+      daysToExpiry: 29
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

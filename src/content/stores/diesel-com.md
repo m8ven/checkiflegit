@@ -5,7 +5,7 @@ title: Is diesel.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   diesel.com scores 55/100 on our public trust checks. No public contact details
   detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-24T21:45:23.667Z'
+fetchedAt: '2026-07-27T08:05:46.723Z'
 finalUrl: 'https://diesel.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 29.6 years ago.
+    - Established domain — registered 29.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2027-01-30'
-      daysToExpiry: 220
+      daysToExpiry: 188
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '1996-11-18'
-      ageDays: 10810
-      ageYears: 29.6
-    detail: Registered 29.6 years ago (1996-11-18).
+      ageDays: 10843
+      ageYears: 29.7
+    detail: Registered 29.7 years ago (1996-11-18).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-diesel.com sends a mixed set of signals. On the positive side, its domain has been registered for 29.6 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+diesel.com sends a mixed set of signals. On the positive side, its domain has been registered for 29.7 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Diesel in the score above.
 

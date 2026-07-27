@@ -4,8 +4,8 @@ slug: bestbuycbdoils-com
 title: Is bestbuycbdoils.com Legit? Trust Score 94/100
 description: >-
   bestbuycbdoils.com scores 94/100 on our public trust checks. Established
-  domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:02.745Z'
+  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:37:47.274Z'
 finalUrl: 'https://bestbuycbdoils.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.7 years ago.
+    - Established domain — registered 4.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-24'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-10-13'
-      ageDays: 1715
-      ageYears: 4.7
-    detail: Registered 4.7 years ago (2021-10-13).
+      ageDays: 1747
+      ageYears: 4.8
+    detail: Registered 4.8 years ago (2021-10-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bestbuycbdoils.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bestbuycbdoils.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bestbuycbdoils in the score above.
 

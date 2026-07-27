@@ -5,7 +5,7 @@ title: Is albaelettrica.al Legit? Trust Score 83/100
 description: >-
   albaelettrica.al scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:52:00.423Z'
+fetchedAt: '2026-07-27T08:37:46.824Z'
 finalUrl: 'https://www.albaelettrica.al/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

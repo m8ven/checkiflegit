@@ -4,8 +4,8 @@ slug: tnuck-com
 title: Is tnuck.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   tnuck.com scores 88/100 on our public trust checks. Established domain —
-  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:54.791Z'
+  registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:06.251Z'
 finalUrl: 'https://tnuck.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 14.2 years ago.
+    - Established domain — registered 14.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-20'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-04-27'
-      ageDays: 5171
-      ageYears: 14.2
-    detail: Registered 14.2 years ago (2012-04-27).
+      ageDays: 5203
+      ageYears: 14.3
+    detail: Registered 14.3 years ago (2012-04-27).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tnuck.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tnuck.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tnuck in the score above.
 

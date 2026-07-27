@@ -6,7 +6,7 @@ description: >-
   ceplis.eu scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-25T02:21:35.753Z'
+fetchedAt: '2026-07-27T08:11:54.955Z'
 finalUrl: 'https://ceplis.eu/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

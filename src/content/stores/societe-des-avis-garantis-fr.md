@@ -1,29 +1,30 @@
 ---
 domain: societe-des-avis-garantis.fr
 slug: societe-des-avis-garantis-fr
-title: Is societe-des-avis-garantis.fr Legit? Trust Score 61/100
+title: Is societe-des-avis-garantis.fr Legit? Trust Score 73/100
 description: >-
-  societe-des-avis-garantis.fr scores 61/100 on our public trust checks. No
-  links to major social platforms found.
-fetchedAt: '2026-06-24T21:45:06.380Z'
+  societe-des-avis-garantis.fr scores 73/100 on our public trust checks.
+  Established domain — registered 9.7 years ago. Valid HTTPS/SSL certificate in
+  place.
+fetchedAt: '2026-07-27T08:05:33.595Z'
 finalUrl: 'https://www.societe-des-avis-garantis.fr/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,29 +45,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
       refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-11-21'
-      ageDays: 3502
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-11-21).
+      ageDays: 3534
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-21).
   contact:
     status: warn
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-societe-des-avis-garantis.fr sends a mixed set of signals. On the positive side, its domain has been registered for 9.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+societe-des-avis-garantis.fr looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Societe-des-avis-garantis in the score above.
 

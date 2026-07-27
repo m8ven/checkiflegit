@@ -5,7 +5,7 @@ title: Is trikora.de Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   trikora.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:48:51.365Z'
+fetchedAt: '2026-07-27T08:34:54.071Z'
 finalUrl: 'https://trikora.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-11'
-      daysToExpiry: 47
+      daysToExpiry: 15
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

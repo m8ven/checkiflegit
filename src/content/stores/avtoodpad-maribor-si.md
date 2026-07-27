@@ -6,7 +6,7 @@ description: >-
   avtoodpad-maribor.si scores 55/100 on our public trust checks. Standard
   contact and policy pages were not found. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T02:25:58.428Z'
+fetchedAt: '2026-07-27T08:15:15.122Z'
 finalUrl: 'https://avtoodpad-maribor.si/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-06-24'
-      ageDays: 3653
-      ageYears: 10
-    detail: Registered 10 years ago (2016-06-24).
+      ageDays: 3685
+      ageYears: 10.1
+    detail: Registered 10.1 years ago (2016-06-24).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-avtoodpad-maribor.si sends a mixed set of signals. On the positive side, its domain has been registered for 10 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+avtoodpad-maribor.si sends a mixed set of signals. On the positive side, its domain has been registered for 10.1 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Avtoodpad-maribor in the score above.
 

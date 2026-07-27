@@ -5,7 +5,7 @@ title: Is celeirointegral.pt Legit? Trust Score 100/100
 description: >-
   celeirointegral.pt scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:21:34.188Z'
+fetchedAt: '2026-07-27T08:11:51.583Z'
 finalUrl: 'https://celeirointegral.pt/?v=4863acf3a6f2'
 reachable: true
 noindex: false
@@ -47,16 +47,16 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-30'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

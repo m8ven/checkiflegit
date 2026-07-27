@@ -5,7 +5,7 @@ title: Is metaloodus.ee Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   metaloodus.ee scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:44:13.218Z'
+fetchedAt: '2026-07-27T08:30:40.291Z'
 finalUrl: 'https://metaloodus.ee/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.4 years ago.
+    - Established domain — registered 10.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-01-16'
-      ageDays: 3812
-      ageYears: 10.4
-    detail: Registered 10.4 years ago (2016-01-16).
+      ageDays: 3844
+      ageYears: 10.5
+    detail: Registered 10.5 years ago (2016-01-16).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-metaloodus.ee sends a mixed set of signals. On the positive side, its domain has been registered for 10.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+metaloodus.ee sends a mixed set of signals. On the positive side, its domain has been registered for 10.5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Metaloodus in the score above.
 

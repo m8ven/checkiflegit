@@ -4,9 +4,9 @@ slug: projectivefabrication-com
 title: Is projectivefabrication.com Legit? Trust Score 82/100
 description: >-
   projectivefabrication.com scores 82/100 on our public trust checks.
-  Established domain — registered 7.2 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 7.3 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:41:41.892Z'
+fetchedAt: '2026-07-27T08:28:17.759Z'
 finalUrl: 'https://projectivefabrication.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.2 years ago.
+    - Established domain — registered 7.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-04-01'
-      ageDays: 2641
-      ageYears: 7.2
-    detail: Registered 7.2 years ago (2019-04-01).
+      ageDays: 2673
+      ageYears: 7.3
+    detail: Registered 7.3 years ago (2019-04-01).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-projectivefabrication.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+projectivefabrication.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Projectivefabrication in the score above.
 

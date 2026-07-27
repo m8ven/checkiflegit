@@ -5,7 +5,7 @@ title: Is traveltoday.co.nz Legit? Trust Score 64/100
 description: >-
   traveltoday.co.nz scores 64/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T02:48:40.426Z'
+fetchedAt: '2026-07-27T08:34:45.626Z'
 finalUrl: 'https://traveltoday.co.nz/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.2 years ago.
+    - Established domain — registered 24.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: true
+      refund: false
       shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-15'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-04-08'
-      ageDays: 8843
-      ageYears: 24.2
-    detail: Registered 24.2 years ago (2002-04-08).
+      ageDays: 8875
+      ageYears: 24.3
+    detail: Registered 24.3 years ago (2002-04-08).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-traveltoday.co.nz sends a mixed set of signals. On the positive side, its domain has been registered for 24.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+traveltoday.co.nz sends a mixed set of signals. On the positive side, its domain has been registered for 24.3 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Traveltoday in the score above.
 

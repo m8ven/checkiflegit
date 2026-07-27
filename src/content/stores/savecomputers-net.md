@@ -5,7 +5,7 @@ title: Is savecomputers.net Legit? Trust Score 88/100
 description: >-
   savecomputers.net scores 88/100 on our public trust checks. Established domain
   — registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:03.113Z'
+fetchedAt: '2026-07-27T08:30:33.065Z'
 finalUrl: 'https://savecomputers.net/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-03-25'
-      ageDays: 4109
+      ageDays: 4141
       ageYears: 11.3
     detail: Registered 11.3 years ago (2015-03-25).
   contact:

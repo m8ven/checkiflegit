@@ -5,7 +5,7 @@ title: Is hollar.cz Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   hollar.cz scores 57/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:16:52.508Z'
+fetchedAt: '2026-07-27T08:07:56.282Z'
 finalUrl: 'https://hollar.cz/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

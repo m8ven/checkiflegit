@@ -5,7 +5,7 @@ title: Is discgame.ir Legit? Trust Score 44/100
 description: >-
   discgame.ir scores 44/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:30:50.461Z'
+fetchedAt: '2026-07-27T08:19:34.729Z'
 finalUrl: 'https://discgame.ir/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

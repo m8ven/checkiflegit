@@ -1,11 +1,11 @@
 ---
 domain: diopta.rs
 slug: diopta-rs
-title: Is diopta.rs Legit? Trust Score 88/100 — Trust Checks Pass
+title: Is diopta.rs Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  diopta.rs scores 88/100 on our public trust checks. Established domain —
-  registered 17.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:25.341Z'
+  diopta.rs scores 76/100 on our public trust checks. Established domain —
+  registered 17.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:14:51.192Z'
 finalUrl: 'https://diopta.rs/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.7 years ago.
+    - Established domain — registered 17.8 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-02'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-10-04'
-      ageDays: 6472
-      ageYears: 17.7
-    detail: Registered 17.7 years ago (2008-10-04).
+      ageDays: 6504
+      ageYears: 17.8
+    detail: Registered 17.8 years ago (2008-10-04).
   contact:
-    status: pass
+    status: warn
     value:
       email: true
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: email.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-diopta.rs looks like a well-established store. The clearest positives are that its domain has been registered for 17.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+diopta.rs looks like a well-established store. The clearest positives are that its domain has been registered for 17.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Diopta in the score above.
 

@@ -5,7 +5,7 @@ title: Is international-ceramics.com.au Legit? Trust Score 79/100
 description: >-
   international-ceramics.com.au scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:53.392Z'
+fetchedAt: '2026-07-27T08:19:37.196Z'
 finalUrl: 'https://international-ceramics.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

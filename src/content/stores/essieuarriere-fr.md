@@ -4,8 +4,8 @@ slug: essieuarriere-fr
 title: Is essieuarriere.fr Legit? Trust Score 85/100
 description: >-
   essieuarriere.fr scores 85/100 on our public trust checks. Established domain
-  — registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:50.687Z'
+  — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:17:04.347Z'
 finalUrl: 'https://essieuarriere.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.6 years ago.
+    - Established domain — registered 7.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-11-07'
-      ageDays: 2786
-      ageYears: 7.6
-    detail: Registered 7.6 years ago (2018-11-07).
+      ageDays: 2818
+      ageYears: 7.7
+    detail: Registered 7.7 years ago (2018-11-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-essieuarriere.fr looks like a well-established store. The clearest positives are that its domain has been registered for 7.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+essieuarriere.fr looks like a well-established store. The clearest positives are that its domain has been registered for 7.7 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Essieuarriere in the score above.
 

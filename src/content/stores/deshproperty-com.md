@@ -5,7 +5,7 @@ title: Is deshproperty.com Legit? Trust Score 73/100
 description: >-
   deshproperty.com scores 73/100 on our public trust checks. Established domain
   — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:53.185Z'
+fetchedAt: '2026-07-27T08:14:23.787Z'
 finalUrl: 'https://deshproperty.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 35
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-01-07'
-      ageDays: 533
+      ageDays: 565
       ageYears: 1.5
     detail: Registered 1.5 years ago (2025-01-07).
   contact:

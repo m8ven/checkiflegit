@@ -1,11 +1,11 @@
 ---
 domain: pittarello.com
 slug: pittarello-com
-title: Is pittarello.com Legit? Trust Score 88/100
+title: Is pittarello.com Legit? Trust Score 100/100
 description: >-
-  pittarello.com scores 88/100 on our public trust checks. Established domain —
+  pittarello.com scores 100/100 on our public trust checks. Established domain —
   registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:40.112Z'
+fetchedAt: '2026-07-27T08:07:07.762Z'
 finalUrl: 'https://www.pittarello.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
     - Established domain — registered 28.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Sectigo Limited
-      validTo: '2026-07-07'
-      daysToExpiry: 14
+      validTo: '2027-01-13'
+      daysToExpiry: 171
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '1998-03-30'
-      ageDays: 10313
+      ageDays: 10346
       ageYears: 28.3
     detail: Registered 28.3 years ago (1998-03-30).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pittarello.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pittarello.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pittarello in the score above.
 

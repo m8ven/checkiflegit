@@ -5,7 +5,7 @@ title: Is firma-bernd-pfeiffer.de Legit? Trust Score 79/100
 description: >-
   firma-bernd-pfeiffer.de scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:41.183Z'
+fetchedAt: '2026-07-27T08:16:57.241Z'
 finalUrl: 'https://firma-bernd-pfeiffer.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-26'
-      daysToExpiry: 185
+      daysToExpiry: 153
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

@@ -5,7 +5,7 @@ title: Is layouthub.com Legit? Trust Score 70/100
 description: >-
   layouthub.com scores 70/100 on our public trust checks. Established domain —
   registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:29.543Z'
+fetchedAt: '2026-07-27T08:06:41.424Z'
 finalUrl: 'https://layouthub.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-05-02'
-      ageDays: 5166
+      ageDays: 5198
       ageYears: 14.2
     detail: Registered 14.2 years ago (2012-05-02).
   contact:

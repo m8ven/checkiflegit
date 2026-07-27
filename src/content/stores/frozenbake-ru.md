@@ -4,8 +4,8 @@ slug: frozenbake-ru
 title: Is frozenbake.ru Legit? Trust Score 73/100
 description: >-
   frozenbake.ru scores 73/100 on our public trust checks. Established domain —
-  registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:28:27.472Z'
+  registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:17:31.426Z'
 finalUrl: 'https://frozenbake.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.7 years ago.
+    - Established domain — registered 14.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -50,23 +50,23 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-01'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-10-20'
-      ageDays: 5361
-      ageYears: 14.7
-    detail: Registered 14.7 years ago (2011-10-20).
+      ageDays: 5394
+      ageYears: 14.8
+    detail: Registered 14.8 years ago (2011-10-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-frozenbake.ru looks like a well-established store. The clearest positives are that its domain has been registered for 14.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+frozenbake.ru looks like a well-established store. The clearest positives are that its domain has been registered for 14.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Frozenbake in the score above.
 

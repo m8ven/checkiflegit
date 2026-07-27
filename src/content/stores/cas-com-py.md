@@ -5,7 +5,7 @@ title: Is cas.com.py Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   cas.com.py scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:28:11.971Z'
+fetchedAt: '2026-07-27T08:17:20.219Z'
 finalUrl: 'https://cas.com.py/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-17'
-      daysToExpiry: 54
+      daysToExpiry: 22
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

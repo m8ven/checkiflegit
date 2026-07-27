@@ -1,11 +1,11 @@
 ---
 domain: iteaonline.org
 slug: iteaonline-org
-title: Is iteaonline.org Legit? Trust Score 76/100
+title: Is iteaonline.org Legit? Trust Score 88/100
 description: >-
-  iteaonline.org scores 76/100 on our public trust checks. Established domain —
-  registered 25.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:39.650Z'
+  iteaonline.org scores 88/100 on our public trust checks. Established domain —
+  registered 25.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:41.654Z'
 finalUrl: 'https://iteaonline.org/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.3 years ago.
+    - Established domain — registered 25.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-03-06'
-      ageDays: 9241
-      ageYears: 25.3
-    detail: Registered 25.3 years ago (2001-03-06).
+      ageDays: 9273
+      ageYears: 25.4
+    detail: Registered 25.4 years ago (2001-03-06).
   contact:
-    status: warn
+    status: pass
     value:
       email: true
-      phone: false
-      address: false
-    detail: 'Public contact details found: email.'
+      phone: true
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-iteaonline.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+iteaonline.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Iteaonline in the score above.
 

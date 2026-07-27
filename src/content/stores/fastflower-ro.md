@@ -4,8 +4,8 @@ slug: fastflower-ro
 title: Is fastflower.ro Legit? Trust Score 70/100
 description: >-
   fastflower.ro scores 70/100 on our public trust checks. Established domain —
-  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:23.198Z'
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:37.643Z'
 finalUrl: 'https://fastflower.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.7 years ago.
+    - Established domain — registered 7.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-24'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-09-28'
-      ageDays: 2827
-      ageYears: 7.7
-    detail: Registered 7.7 years ago (2018-09-28).
+      ageDays: 2859
+      ageYears: 7.8
+    detail: Registered 7.8 years ago (2018-09-28).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fastflower.ro looks like a well-established store. The clearest positives are that its domain has been registered for 7.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fastflower.ro looks like a well-established store. The clearest positives are that its domain has been registered for 7.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fastflower in the score above.
 

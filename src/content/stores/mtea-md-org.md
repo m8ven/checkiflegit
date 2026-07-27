@@ -4,8 +4,8 @@ slug: mtea-md-org
 title: Is mtea-md.org Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   mtea-md.org scores 70/100 on our public trust checks. Established domain —
-  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:34.307Z'
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:24:57.206Z'
 finalUrl: 'https://mtea-md.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.9 years ago.
+    - Established domain — registered 6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-15'
-      daysToExpiry: 82
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-08-12'
-      ageDays: 2142
-      ageYears: 5.9
-    detail: Registered 5.9 years ago (2020-08-12).
+      ageDays: 2174
+      ageYears: 6
+    detail: Registered 6 years ago (2020-08-12).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mtea-md.org looks like a well-established store. The clearest positives are that its domain has been registered for 5.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mtea-md.org looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mtea-md in the score above.
 

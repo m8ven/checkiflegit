@@ -1,24 +1,24 @@
 ---
 domain: firstflight.org
 slug: firstflight-org
-title: Is firstflight.org Legit? Trust Score 58/100 — Mixed Signals
+title: Is firstflight.org Legit? Trust Score 40/100
 description: >-
-  firstflight.org scores 58/100 on our public trust checks. No public contact
+  firstflight.org scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:34:01.275Z'
+fetchedAt: '2026-07-27T08:21:54.938Z'
 finalUrl: 'https://firstflight.org/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 58
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 40
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 30.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,14 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '1995-12-29'
-      ageDays: 11135
-      ageYears: 30.5
-    detail: Registered 30.5 years ago (1995-12-29).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: fail
     value:
@@ -95,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-firstflight.org sends a mixed set of signals. On the positive side, its domain has been registered for 30.5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for firstflight.org. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Firstflight in the score above.
 

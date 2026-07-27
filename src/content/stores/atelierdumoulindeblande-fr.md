@@ -6,7 +6,7 @@ description: >-
   atelierdumoulindeblande.fr scores 73/100 on our public trust checks.
   Established domain — registered 14.4 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:18:17.267Z'
+fetchedAt: '2026-07-27T08:09:17.536Z'
 finalUrl: 'https://atelierdumoulindeblande.fr/'
 reachable: true
 noindex: false
@@ -58,14 +58,14 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-03-09'
-      daysToExpiry: 258
+      daysToExpiry: 226
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2012-02-16'
-      ageDays: 5242
+      ageDays: 5274
       ageYears: 14.4
     detail: Registered 14.4 years ago (2012-02-16).
   contact:

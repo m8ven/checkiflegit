@@ -4,8 +4,8 @@ slug: beutico-com
 title: Is beutico.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   beutico.com scores 88/100 on our public trust checks. Established domain —
-  registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:38.305Z'
+  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:15:43.216Z'
 finalUrl: 'https://beutico.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.5 years ago.
+    - Established domain — registered 3.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-12-29'
-      ageDays: 1273
-      ageYears: 3.5
-    detail: Registered 3.5 years ago (2022-12-29).
+      ageDays: 1305
+      ageYears: 3.6
+    detail: Registered 3.6 years ago (2022-12-29).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-beutico.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+beutico.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Beutico in the score above.
 

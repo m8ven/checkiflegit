@@ -1,11 +1,11 @@
 ---
 domain: aitim.infomadera.net
 slug: aitim-infomadera-net
-title: Is aitim.infomadera.net Legit? Trust Score 83/100
+title: Is aitim.infomadera.net Legit? Trust Score 100/100
 description: >-
-  aitim.infomadera.net scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T02:16:37.877Z'
+  aitim.infomadera.net scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:36.676Z'
 finalUrl: 'https://aitim.infomadera.net/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -64,25 +64,25 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
       facebook: true
-      instagram: false
+      instagram: true
       twitter: true
       tiktok: false
       youtube: true
       linkedin: true
       pinterest: true
     detail: >-
-      Links to 5 social platform(s): facebook, twitter, youtube, linkedin,
-      pinterest.
+      Links to 6 social platform(s): facebook, instagram, twitter, youtube,
+      linkedin, pinterest.
   reviews:
     status: unknown
     value:
@@ -93,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aitim.infomadera.net looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aitim.infomadera.net looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aitim in the score above.
 

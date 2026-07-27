@@ -5,7 +5,7 @@ title: Is colorantic.com Legit? Trust Score 100/100
 description: >-
   colorantic.com scores 100/100 on our public trust checks. Established domain —
   registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:23.900Z'
+fetchedAt: '2026-07-27T08:18:22.480Z'
 finalUrl: 'https://colorantic.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-23'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-01-10'
-      ageDays: 3452
+      ageDays: 3485
       ageYears: 9.5
     detail: Registered 9.5 years ago (2017-01-10).
   contact:

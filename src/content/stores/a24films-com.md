@@ -4,8 +4,8 @@ slug: a24films-com
 title: Is a24films.com Legit? Trust Score 76/100
 description: >-
   a24films.com scores 76/100 on our public trust checks. Established domain —
-  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:14.260Z'
+  registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:38.709Z'
 finalUrl: 'https://a24films.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 14.2 years ago.
+    - Established domain — registered 14.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2012-04-03'
-      ageDays: 5195
-      ageYears: 14.2
-    detail: Registered 14.2 years ago (2012-04-03).
+      ageDays: 5227
+      ageYears: 14.3
+    detail: Registered 14.3 years ago (2012-04-03).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-a24films.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+a24films.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against A24films in the score above.
 

@@ -1,11 +1,11 @@
 ---
 domain: nongnghiepavn.com
 slug: nongnghiepavn-com
-title: Is nongnghiepavn.com Legit? Trust Score 82/100
+title: Is nongnghiepavn.com Legit? Trust Score 94/100
 description: >-
-  nongnghiepavn.com scores 82/100 on our public trust checks. Established domain
-  — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:53.694Z'
+  nongnghiepavn.com scores 94/100 on our public trust checks. Established domain
+  — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:57.754Z'
 finalUrl: 'https://nongnghiepavn.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.6 years ago.
+    - Established domain — registered 2.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
       terms: false
       refund: true
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-11-03'
-      ageDays: 965
-      ageYears: 2.6
-    detail: Registered 2.6 years ago (2023-11-03).
+      ageDays: 997
+      ageYears: 2.7
+    detail: Registered 2.7 years ago (2023-11-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nongnghiepavn.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nongnghiepavn.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nongnghiepavn in the score above.
 

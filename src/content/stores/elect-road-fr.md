@@ -4,8 +4,8 @@ slug: elect-road-fr
 title: Is elect-road.fr Legit? Trust Score 100/100
 description: >-
   elect-road.fr scores 100/100 on our public trust checks. Established domain —
-  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:22.864Z'
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:15:34.387Z'
 finalUrl: 'https://elect-road.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.4 years ago.
+    - Established domain — registered 2.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-15'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-02-12'
-      ageDays: 863
-      ageYears: 2.4
-    detail: Registered 2.4 years ago (2024-02-12).
+      ageDays: 895
+      ageYears: 2.5
+    detail: Registered 2.5 years ago (2024-02-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-elect-road.fr looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+elect-road.fr looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Elect-road in the score above.
 

@@ -4,8 +4,8 @@ slug: silencershop-com
 title: Is silencershop.com Legit? Trust Score 100/100
 description: >-
   silencershop.com scores 100/100 on our public trust checks. Established domain
-  — registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:06.952Z'
+  — registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:16.259Z'
 finalUrl: 'https://www.silencershop.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 15.4 years ago.
+    - Established domain — registered 15.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-01-20'
-      ageDays: 5633
-      ageYears: 15.4
-    detail: Registered 15.4 years ago (2011-01-20).
+      ageDays: 5666
+      ageYears: 15.5
+    detail: Registered 15.5 years ago (2011-01-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-silencershop.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+silencershop.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Silencershop in the score above.
 

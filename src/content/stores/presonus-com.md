@@ -4,8 +4,8 @@ slug: presonus-com
 title: Is presonus.com Legit? Trust Score 70/100
 description: >-
   presonus.com scores 70/100 on our public trust checks. Established domain —
-  registered 30.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:31.064Z'
+  registered 30.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:51.239Z'
 finalUrl: 'https://www.presonus.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 30.8 years ago.
+    - Established domain — registered 30.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1995-08-30'
-      ageDays: 11256
-      ageYears: 30.8
-    detail: Registered 30.8 years ago (1995-08-30).
+      ageDays: 11289
+      ageYears: 30.9
+    detail: Registered 30.9 years ago (1995-08-30).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-presonus.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+presonus.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Presonus in the score above.
 

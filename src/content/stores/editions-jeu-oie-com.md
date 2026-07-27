@@ -5,7 +5,7 @@ title: Is editions-jeu-oie.com Legit? Trust Score 88/100
 description: >-
   editions-jeu-oie.com scores 88/100 on our public trust checks. Established
   domain — registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:29.910Z'
+fetchedAt: '2026-07-27T08:15:39.122Z'
 finalUrl: 'https://editions-jeu-oie.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 30
+      validTo: '2026-09-23'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-08-19'
-      ageDays: 5057
+      ageDays: 5089
       ageYears: 13.9
     detail: Registered 13.9 years ago (2012-08-19).
   contact:

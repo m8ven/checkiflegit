@@ -5,7 +5,7 @@ title: Is novaekonomija.rs Legit? Trust Score 83/100
 description: >-
   novaekonomija.rs scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:39:01.796Z'
+fetchedAt: '2026-07-27T08:26:01.222Z'
 finalUrl: 'https://novaekonomija.rs/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      issuer: Google Trust Services
+      validTo: '2026-10-12'
+      daysToExpiry: 78
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null

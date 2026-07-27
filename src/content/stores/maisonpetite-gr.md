@@ -5,7 +5,7 @@ title: Is maisonpetite.gr Legit? Trust Score 83/100
 description: >-
   maisonpetite.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:35:18.318Z'
+fetchedAt: '2026-07-27T08:23:05.689Z'
 finalUrl: 'https://maisonpetite.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-05'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

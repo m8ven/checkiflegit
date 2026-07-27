@@ -5,7 +5,7 @@ title: Is huntervalleypaintball.com.au Legit? Trust Score 74/100
 description: >-
   huntervalleypaintball.com.au scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:35:56.372Z'
+fetchedAt: '2026-07-27T08:23:37.654Z'
 finalUrl: 'https://huntervalleypaintball.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

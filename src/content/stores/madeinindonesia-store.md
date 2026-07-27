@@ -5,7 +5,7 @@ title: Is madeinindonesia.store Legit? Trust Score 52/100
 description: >-
   madeinindonesia.store scores 52/100 on our public trust checks. Domain is
   relatively young. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:42:51.479Z'
+fetchedAt: '2026-07-27T08:29:10.131Z'
 finalUrl: 'https://madeinindonesia.store/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-08-14'
-      ageDays: 314
+      ageDays: 346
       ageYears: 0.9
     detail: Registered 0.9 years ago (2025-08-14).
   contact:

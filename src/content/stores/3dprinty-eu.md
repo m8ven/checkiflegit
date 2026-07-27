@@ -5,7 +5,7 @@ title: Is 3dprinty.eu Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   3dprinty.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:16:52.177Z'
+fetchedAt: '2026-07-27T08:07:54.558Z'
 finalUrl: 'https://3dprinty.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

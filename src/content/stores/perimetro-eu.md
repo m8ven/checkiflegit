@@ -5,7 +5,7 @@ title: Is perimetro.eu Legit? Trust Score 40/100
 description: >-
   perimetro.eu scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:40:33.852Z'
+fetchedAt: '2026-07-27T08:27:19.029Z'
 finalUrl: 'https://perimetro.eu/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

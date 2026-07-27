@@ -5,7 +5,7 @@ title: Is glasshousegirl.co.uk Legit? Trust Score 52/100
 description: >-
   glasshousegirl.co.uk scores 52/100 on our public trust checks. No public
   contact details detected on the homepage. Domain is relatively young.
-fetchedAt: '2026-06-25T02:32:00.508Z'
+fetchedAt: '2026-07-27T08:20:28.121Z'
 finalUrl: 'https://glasshousegirl.co.uk/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-03-11'
-      ageDays: 105
-      ageYears: 0.3
-    detail: Registered 0.3 years ago (2026-03-11).
+      ageDays: 138
+      ageYears: 0.4
+    detail: Registered 0.4 years ago (2026-03-11).
   contact:
     status: fail
     value:

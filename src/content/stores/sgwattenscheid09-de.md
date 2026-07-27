@@ -5,7 +5,7 @@ title: Is sgwattenscheid09.de Legit? Trust Score 91/100
 description: >-
   sgwattenscheid09.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:50:55.984Z'
+fetchedAt: '2026-07-27T08:36:36.353Z'
 finalUrl: 'https://sgwattenscheid09.de/'
 reachable: true
 noindex: false
@@ -47,16 +47,16 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: true
-      refund: true
+      terms: false
+      refund: false
       shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

@@ -4,8 +4,8 @@ slug: hobbyshop-lt
 title: Is hobbyshop.lt Legit? Trust Score 88/100
 description: >-
   hobbyshop.lt scores 88/100 on our public trust checks. Established domain —
-  registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:19.850Z'
+  registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:24:44.934Z'
 finalUrl: 'https://hobbyshop.lt/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.4 years ago.
+    - Established domain — registered 19.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 62
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-02-14'
-      ageDays: 7071
-      ageYears: 19.4
-    detail: Registered 19.4 years ago (2007-02-14).
+      ageDays: 7103
+      ageYears: 19.5
+    detail: Registered 19.5 years ago (2007-02-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hobbyshop.lt looks like a well-established store. The clearest positives are that its domain has been registered for 19.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hobbyshop.lt looks like a well-established store. The clearest positives are that its domain has been registered for 19.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hobbyshop in the score above.
 

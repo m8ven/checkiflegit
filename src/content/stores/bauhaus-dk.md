@@ -1,11 +1,11 @@
 ---
 domain: bauhaus.dk
 slug: bauhaus-dk
-title: Is bauhaus.dk Legit? Trust Score 76/100 — Trust Checks Pass
+title: Is bauhaus.dk Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  bauhaus.dk scores 76/100 on our public trust checks. Established domain —
-  registered 29.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:05.444Z'
+  bauhaus.dk scores 88/100 on our public trust checks. Established domain —
+  registered 29.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:14.584Z'
 finalUrl: 'https://www.bauhaus.dk/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 29.6 years ago.
+    - Established domain — registered 29.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on Magento, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: true
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-23'
-      daysToExpiry: 153
+      daysToExpiry: 120
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '1996-11-19'
-      ageDays: 10809
-      ageYears: 29.6
-    detail: Registered 29.6 years ago (1996-11-19).
+      ageDays: 10842
+      ageYears: 29.7
+    detail: Registered 29.7 years ago (1996-11-19).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bauhaus.dk looks like a well-established store. The clearest positives are that its domain has been registered for 29.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bauhaus.dk looks like a well-established store. The clearest positives are that its domain has been registered for 29.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bauhaus in the score above.
 

@@ -4,8 +4,8 @@ slug: ezop-antikvarijat-hr
 title: Is ezop-antikvarijat.hr Legit? Trust Score 76/100
 description: >-
   ezop-antikvarijat.hr scores 76/100 on our public trust checks. Established
-  domain — registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:33:04.865Z'
+  domain — registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:21:25.824Z'
 finalUrl: 'https://ezop-antikvarijat.hr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.7 years ago.
+    - Established domain — registered 21.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-23'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2004-10-19'
-      ageDays: 7918
-      ageYears: 21.7
-    detail: Registered 21.7 years ago (2004-10-19).
+      ageDays: 7950
+      ageYears: 21.8
+    detail: Registered 21.8 years ago (2004-10-19).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ezop-antikvarijat.hr looks like a well-established store. The clearest positives are that its domain has been registered for 21.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ezop-antikvarijat.hr looks like a well-established store. The clearest positives are that its domain has been registered for 21.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ezop-antikvarijat in the score above.
 

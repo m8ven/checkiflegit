@@ -5,7 +5,7 @@ title: Is chemicalsresearchlab.com Legit? Trust Score 67/100
 description: >-
   chemicalsresearchlab.com scores 67/100 on our public trust checks. No links to
   major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T02:22:43.011Z'
+fetchedAt: '2026-07-27T08:12:43.298Z'
 finalUrl: 'https://chemicalsresearchlab.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-08-01'
-      ageDays: 327
-      ageYears: 0.9
-    detail: Registered 0.9 years ago (2025-08-01).
+      ageDays: 359
+      ageYears: 1
+    detail: Registered 1 years ago (2025-08-01).
   contact:
     status: pass
     value:

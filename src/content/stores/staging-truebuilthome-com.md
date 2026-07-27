@@ -5,7 +5,7 @@ title: Is staging.truebuilthome.com Legit? Trust Score 66/100
 description: >-
   staging.truebuilthome.com scores 66/100 on our public trust checks. Some
   standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:52:13.808Z'
+fetchedAt: '2026-07-27T08:37:57.410Z'
 finalUrl: 'https://staging.truebuilthome.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-02'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

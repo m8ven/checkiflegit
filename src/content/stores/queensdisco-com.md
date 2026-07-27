@@ -5,7 +5,7 @@ title: Is queensdisco.com Legit? Trust Score 43/100
 description: >-
   queensdisco.com scores 43/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:42:11.827Z'
+fetchedAt: '2026-07-27T08:28:43.400Z'
 finalUrl: 'https://queensdisco.com/'
 reachable: true
 noindex: false
@@ -58,14 +58,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-03'
-      ageDays: 1664
+      ageDays: 1697
       ageYears: 4.6
     detail: Registered 4.6 years ago (2021-12-03).
   contact:

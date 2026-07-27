@@ -5,7 +5,7 @@ title: Is drechslerei-meister.at Legit? Trust Score 79/100
 description: >-
   drechslerei-meister.at scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:52.242Z'
+fetchedAt: '2026-07-27T08:15:09.196Z'
 finalUrl: 'https://drechslerei-meister.at/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

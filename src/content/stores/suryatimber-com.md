@@ -1,79 +1,79 @@
 ---
 domain: suryatimber.com
 slug: suryatimber-com
-title: Is suryatimber.com Legit? Trust Score 73/100
+title: Is suryatimber.com Legit? Trust Score 0/100
 description: >-
-  suryatimber.com scores 73/100 on our public trust checks. Established domain —
-  registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:45.735Z'
-finalUrl: 'https://suryatimber.com/'
+  suryatimber.com scores 0/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
+fetchedAt: '2026-07-27T08:33:13.954Z'
+finalUrl: 'http://suryatimber.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 0
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.9 years ago.
-    - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
+    - Established domain — registered 2 years ago.
   redFlags:
+    - No valid SSL certificate — connection may not be secure.
+    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://suryatimber.com/'
+      finalUrl: 'http://suryatimber.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: fail
+    value: null
+    detail: >
+      TLS connection failed: 804C6C8A7E7F0000:error:0A000438:SSL
+      routines:ssl3_read_bytes:tlsv1 alert internal
+      error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1601:SSL alert
+      number 80
   domainAge:
     status: pass
     value:
       createdAt: '2024-07-15'
-      ageDays: 709
-      ageYears: 1.9
-    detail: Registered 1.9 years ago (2024-07-15).
+      ageDays: 741
+      ageYears: 2
+    detail: Registered 2 years ago (2024-07-15).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-suryatimber.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for suryatimber.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 2 years — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Suryatimber in the score above.
 

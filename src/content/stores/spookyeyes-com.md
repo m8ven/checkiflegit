@@ -4,8 +4,8 @@ slug: spookyeyes-com
 title: Is spookyeyes.com Legit? Trust Score 73/100
 description: >-
   spookyeyes.com scores 73/100 on our public trust checks. Established domain —
-  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:59.073Z'
+  registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:32:23.157Z'
 finalUrl: 'https://spookyeyes.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.7 years ago.
+    - Established domain — registered 16.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-10-07'
-      ageDays: 6104
-      ageYears: 16.7
-    detail: Registered 16.7 years ago (2009-10-07).
+      ageDays: 6136
+      ageYears: 16.8
+    detail: Registered 16.8 years ago (2009-10-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-spookyeyes.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+spookyeyes.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Spookyeyes in the score above.
 

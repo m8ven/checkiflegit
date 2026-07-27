@@ -6,7 +6,7 @@ description: >-
   proekt-77.ru scores 7/100 on our public trust checks. Standard contact and
   policy pages were not found. No public contact details detected on the
   homepage.
-fetchedAt: '2026-06-25T02:48:33.404Z'
+fetchedAt: '2026-07-27T08:34:40.043Z'
 finalUrl: 'https://proekt-77.ru/'
 reachable: true
 noindex: false
@@ -59,14 +59,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-21'
-      daysToExpiry: 58
+      daysToExpiry: 26
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-12-05'
-      ageDays: 201
+      ageDays: 233
       ageYears: 0.6
     detail: Registered 0.6 years ago (2025-12-05).
   contact:

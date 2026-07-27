@@ -5,7 +5,7 @@ title: Is foodcolor.in Legit? Trust Score 83/100
 description: >-
   foodcolor.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:34:18.641Z'
+fetchedAt: '2026-07-27T08:22:07.547Z'
 finalUrl: 'https://foodcolor.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-26'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

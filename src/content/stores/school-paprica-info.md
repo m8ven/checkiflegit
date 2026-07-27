@@ -5,7 +5,7 @@ title: Is school.paprica.info Legit? Trust Score 83/100
 description: >-
   school.paprica.info scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:50:22.175Z'
+fetchedAt: '2026-07-27T08:36:15.932Z'
 finalUrl: 'https://school.paprica.info/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

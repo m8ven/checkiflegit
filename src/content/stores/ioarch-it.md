@@ -4,8 +4,8 @@ slug: ioarch-it
 title: Is ioarch.it Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   ioarch.it scores 100/100 on our public trust checks. Established domain —
-  registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:10.988Z'
+  registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:25.210Z'
 finalUrl: 'https://ioarch.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.3 years ago.
+    - Established domain — registered 18.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,31 +49,31 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-19'
-      daysToExpiry: 56
+      daysToExpiry: 24
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-03-20'
-      ageDays: 6670
-      ageYears: 18.3
-    detail: Registered 18.3 years ago (2008-03-20).
+      ageDays: 6702
+      ageYears: 18.4
+    detail: Registered 18.4 years ago (2008-03-20).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ioarch.it looks like a well-established store. The clearest positives are that its domain has been registered for 18.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ioarch.it looks like a well-established store. The clearest positives are that its domain has been registered for 18.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ioarch in the score above.
 

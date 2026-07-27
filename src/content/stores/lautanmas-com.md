@@ -5,7 +5,7 @@ title: Is lautanmas.com Legit? Trust Score 88/100
 description: >-
   lautanmas.com scores 88/100 on our public trust checks. Established domain —
   registered 27.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:54.236Z'
+fetchedAt: '2026-07-27T08:32:15.080Z'
 finalUrl: 'https://lautanmas.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1999-06-11'
-      ageDays: 9875
+      ageDays: 9907
       ageYears: 27.1
     detail: Registered 27.1 years ago (1999-06-11).
   contact:

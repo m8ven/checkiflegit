@@ -4,8 +4,8 @@ slug: laveguca-com
 title: Is laveguca.com Legit? Trust Score 100/100
 description: >-
   laveguca.com scores 100/100 on our public trust checks. Established domain —
-  registered 21.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:33:54.637Z'
+  registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:21:52.234Z'
 finalUrl: 'https://laveguca.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.3 years ago.
+    - Established domain — registered 21.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-03-03'
-      ageDays: 7783
-      ageYears: 21.3
-    detail: Registered 21.3 years ago (2005-03-03).
+      ageDays: 7815
+      ageYears: 21.4
+    detail: Registered 21.4 years ago (2005-03-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-laveguca.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+laveguca.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Laveguca in the score above.
 

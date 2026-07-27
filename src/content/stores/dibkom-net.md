@@ -4,8 +4,8 @@ slug: dibkom-net
 title: Is dibkom.net Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   dibkom.net scores 100/100 on our public trust checks. Established domain —
-  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:40.874Z'
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:19:24.031Z'
 finalUrl: 'https://dibkom.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.2 years ago.
+    - Established domain — registered 11.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      refund: false
+      shipping: false
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-26'
-      daysToExpiry: 185
+      daysToExpiry: 153
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2015-04-14'
-      ageDays: 4089
-      ageYears: 11.2
-    detail: Registered 11.2 years ago (2015-04-14).
+      ageDays: 4121
+      ageYears: 11.3
+    detail: Registered 11.3 years ago (2015-04-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dibkom.net looks like a well-established store. The clearest positives are that its domain has been registered for 11.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dibkom.net looks like a well-established store. The clearest positives are that its domain has been registered for 11.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dibkom in the score above.
 

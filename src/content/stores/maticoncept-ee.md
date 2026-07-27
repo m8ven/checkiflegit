@@ -5,7 +5,7 @@ title: Is maticoncept.ee Legit? Trust Score 82/100
 description: >-
   maticoncept.ee scores 82/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:50:57.121Z'
+fetchedAt: '2026-07-27T08:36:38.400Z'
 finalUrl: 'https://maticoncept.ee/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-08-28'
-      ageDays: 300
-      ageYears: 0.8
-    detail: Registered 0.8 years ago (2025-08-28).
+      ageDays: 332
+      ageYears: 0.9
+    detail: Registered 0.9 years ago (2025-08-28).
   contact:
     status: pass
     value:

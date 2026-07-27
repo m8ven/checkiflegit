@@ -5,7 +5,7 @@ title: Is sendesaal-bremen.de Legit? Trust Score 74/100
 description: >-
   sendesaal-bremen.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:50:41.604Z'
+fetchedAt: '2026-07-27T08:36:25.612Z'
 finalUrl: 'https://sendesaal-bremen.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

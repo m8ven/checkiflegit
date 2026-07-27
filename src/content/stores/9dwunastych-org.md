@@ -5,7 +5,7 @@ title: Is 9dwunastych.org Legit? Trust Score 88/100
 description: >-
   9dwunastych.org scores 88/100 on our public trust checks. Established domain —
   registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:40.690Z'
+fetchedAt: '2026-07-27T08:12:41.399Z'
 finalUrl: 'https://9dwunastych.org/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-22'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-02-16'
-      ageDays: 5972
+      ageDays: 6004
       ageYears: 16.4
     detail: Registered 16.4 years ago (2010-02-16).
   contact:

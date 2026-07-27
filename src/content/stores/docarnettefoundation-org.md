@@ -1,29 +1,29 @@
 ---
 domain: docarnettefoundation.org
 slug: docarnettefoundation-org
-title: Is docarnettefoundation.org Legit? Trust Score 55/100
+title: Is docarnettefoundation.org Legit? Trust Score 70/100
 description: >-
-  docarnettefoundation.org scores 55/100 on our public trust checks. No valid
-  SSL certificate — connection may not be secure.
-fetchedAt: '2026-06-25T02:20:00.699Z'
+  docarnettefoundation.org scores 70/100 on our public trust checks. Established
+  domain — registered 10.1 years ago.
+fetchedAt: '2026-07-27T08:10:54.246Z'
 finalUrl: 'http://www.docarnettefoundation.org/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 55
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.1 years ago.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
+    - Maintains links to multiple social media platforms.
   redFlags:
     - No valid SSL certificate — connection may not be secure.
-    - No links to major social platforms found.
   cautions: []
 signals:
   http:
@@ -57,34 +57,34 @@ signals:
     value:
       issuer: null
       validTo: '2022-07-22'
-      daysToExpiry: -1433
+      daysToExpiry: -1465
       authorized: false
     detail: Certificate has expired.
   domainAge:
     status: pass
     value:
       createdAt: '2016-06-15'
-      ageDays: 3661
-      ageYears: 10
-    detail: Registered 10 years ago (2016-06-15).
+      ageDays: 3693
+      ageYears: 10.1
+    detail: Registered 10.1 years ago (2016-06-15).
   contact:
     status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: true
-    detail: 'Public contact details found: phone, address.'
+    detail: 'Public contact details found: email, phone, address.'
   social:
-    status: fail
+    status: pass
     value:
-      facebook: false
-      instagram: false
-      twitter: false
+      facebook: true
+      instagram: true
+      twitter: true
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-docarnettefoundation.org sends a mixed set of signals. On the positive side, its domain has been registered for 10 years and it lists genuine business contact details. Against that, it does not present a valid security certificate and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+docarnettefoundation.org looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it lists genuine business contact details. The main thing we would flag is that it does not present a valid security certificate, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Docarnettefoundation in the score above.
 

@@ -4,8 +4,8 @@ slug: oxford-aviation-co-uk
 title: Is oxford-aviation.co.uk Legit? Trust Score 85/100
 description: >-
   oxford-aviation.co.uk scores 85/100 on our public trust checks. Established
-  domain — registered 24.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:40:11.358Z'
+  domain — registered 24.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:27:03.100Z'
 finalUrl: 'https://oxford-aviation.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.8 years ago.
+    - Established domain — registered 24.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-09'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-09-19'
-      ageDays: 9044
-      ageYears: 24.8
-    detail: Registered 24.8 years ago (2001-09-19).
+      ageDays: 9077
+      ageYears: 24.9
+    detail: Registered 24.9 years ago (2001-09-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-oxford-aviation.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 24.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+oxford-aviation.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 24.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Oxford-aviation in the score above.
 

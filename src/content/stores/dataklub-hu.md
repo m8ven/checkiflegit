@@ -5,7 +5,7 @@ title: Is dataklub.hu Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   dataklub.hu scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:24:06.837Z'
+fetchedAt: '2026-07-27T08:13:40.371Z'
 finalUrl: 'https://dataklub.hu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

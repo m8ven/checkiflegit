@@ -4,8 +4,8 @@ slug: best4pet-hr
 title: Is best4pet.hr Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   best4pet.hr scores 82/100 on our public trust checks. Established domain —
-  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:51:52.301Z'
+  registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:37:39.038Z'
 finalUrl: 'https://best4pet.hr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.4 years ago.
+    - Established domain — registered 7.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-25'
-      daysToExpiry: 123
+      daysToExpiry: 91
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2019-01-13'
-      ageDays: 2719
-      ageYears: 7.4
-    detail: Registered 7.4 years ago (2019-01-13).
+      ageDays: 2751
+      ageYears: 7.5
+    detail: Registered 7.5 years ago (2019-01-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-best4pet.hr looks like a well-established store. The clearest positives are that its domain has been registered for 7.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+best4pet.hr looks like a well-established store. The clearest positives are that its domain has been registered for 7.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Best4pet in the score above.
 

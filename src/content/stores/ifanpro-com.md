@@ -4,8 +4,8 @@ slug: ifanpro-com
 title: Is ifanpro.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   ifanpro.com scores 88/100 on our public trust checks. Established domain —
-  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:36:31.803Z'
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:24:06.972Z'
 finalUrl: 'https://ifanpro.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.5 years ago.
+    - Established domain — registered 2.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-12-13'
-      ageDays: 924
-      ageYears: 2.5
-    detail: Registered 2.5 years ago (2023-12-13).
+      ageDays: 956
+      ageYears: 2.6
+    detail: Registered 2.6 years ago (2023-12-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ifanpro.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ifanpro.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ifanpro in the score above.
 
