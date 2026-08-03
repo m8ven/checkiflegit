@@ -1,11 +1,11 @@
 ---
 domain: bulongviethan.com
 slug: bulongviethan-com
-title: Is bulongviethan.com Legit? Trust Score 70/100
+title: Is bulongviethan.com Legit? Trust Score 88/100
 description: >-
-  bulongviethan.com scores 70/100 on our public trust checks. Established domain
-  — registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:57:53.534Z'
+  bulongviethan.com scores 88/100 on our public trust checks. Established domain
+  — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:05:06.522Z'
 finalUrl: 'https://bulongviethan.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.8 years ago.
+    - Established domain — registered 3.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: ZeroSSL GmbH
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by ZeroSSL GmbH.
   domainAge:
     status: pass
     value:
       createdAt: '2022-09-09'
-      ageDays: 1384
-      ageYears: 3.8
-    detail: Registered 3.8 years ago (2022-09-09).
+      ageDays: 1424
+      ageYears: 3.9
+    detail: Registered 3.9 years ago (2022-09-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bulongviethan.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.8 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bulongviethan.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bulongviethan in the score above.
 

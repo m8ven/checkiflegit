@@ -5,7 +5,7 @@ title: Is signamedia.de Legit? Trust Score 83/100
 description: >-
   signamedia.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:21:41.687Z'
+fetchedAt: '2026-08-03T08:11:21.907Z'
 finalUrl: 'https://www.signamedia.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-10-29'
-      daysToExpiry: 127
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

@@ -5,7 +5,7 @@ title: Is businessshootingclub.fi Legit? Trust Score 57/100
 description: >-
   businessshootingclub.fi scores 57/100 on our public trust checks. Standard
   contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:55.871Z'
+fetchedAt: '2026-08-03T08:13:44.696Z'
 finalUrl: 'https://businessshootingclub.fi/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-22'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

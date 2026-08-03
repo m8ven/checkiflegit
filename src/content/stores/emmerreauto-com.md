@@ -4,8 +4,8 @@ slug: emmerreauto-com
 title: Is emmerreauto.com Legit? Trust Score 88/100
 description: >-
   emmerreauto.com scores 88/100 on our public trust checks. Established domain —
-  registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:17.509Z'
+  registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:27:35.040Z'
 finalUrl: 'https://emmerreauto.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.4 years ago.
+    - Established domain — registered 14.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -49,24 +49,24 @@ signals:
       contact: false
       privacy: true
       terms: false
-      refund: true
+      refund: false
       shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2012-02-17'
-      ageDays: 5241
-      ageYears: 14.4
-    detail: Registered 14.4 years ago (2012-02-17).
+      ageDays: 5280
+      ageYears: 14.5
+    detail: Registered 14.5 years ago (2012-02-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-emmerreauto.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+emmerreauto.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Emmerreauto in the score above.
 

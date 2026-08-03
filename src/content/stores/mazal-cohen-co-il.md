@@ -5,7 +5,7 @@ title: Is mazal-cohen.co.il Legit? Trust Score 83/100
 description: >-
   mazal-cohen.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:52:55.000Z'
+fetchedAt: '2026-08-03T08:36:26.595Z'
 finalUrl: 'https://mazal-cohen.co.il/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-24'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

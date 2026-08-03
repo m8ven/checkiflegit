@@ -4,8 +4,8 @@ slug: az-almaz-ru
 title: Is az-almaz.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   az-almaz.ru scores 73/100 on our public trust checks. Established domain —
-  registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:25.776Z'
+  registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:02:19.286Z'
 finalUrl: 'https://az-almaz.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.7 years ago.
+    - Established domain — registered 13.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-22'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-10-15'
-      ageDays: 5000
-      ageYears: 13.7
-    detail: Registered 13.7 years ago (2012-10-15).
+      ageDays: 5039
+      ageYears: 13.8
+    detail: Registered 13.8 years ago (2012-10-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-az-almaz.ru looks like a well-established store. The clearest positives are that its domain has been registered for 13.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+az-almaz.ru looks like a well-established store. The clearest positives are that its domain has been registered for 13.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Az-almaz in the score above.
 

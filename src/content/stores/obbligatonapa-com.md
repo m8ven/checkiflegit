@@ -4,8 +4,8 @@ slug: obbligatonapa-com
 title: Is obbligatonapa.com Legit? Trust Score 100/100
 description: >-
   obbligatonapa.com scores 100/100 on our public trust checks. Established
-  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:03:34.923Z'
+  domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:09:07.277Z'
 finalUrl: 'https://obbligatonapa.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 4.4 years ago.
+    - Established domain — registered 4.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-02-09'
-      ageDays: 1596
-      ageYears: 4.4
-    detail: Registered 4.4 years ago (2022-02-09).
+      ageDays: 1635
+      ageYears: 4.5
+    detail: Registered 4.5 years ago (2022-02-09).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-obbligatonapa.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+obbligatonapa.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Obbligatonapa in the score above.
 

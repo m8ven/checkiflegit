@@ -4,8 +4,8 @@ slug: dilectacycles-com
 title: Is dilectacycles.com Legit? Trust Score 70/100
 description: >-
   dilectacycles.com scores 70/100 on our public trust checks. Established domain
-  — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:41:57.542Z'
+  — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:27:23.619Z'
 finalUrl: 'https://dilectacycles.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.3 years ago.
+    - Established domain — registered 6.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-06'
-      daysToExpiry: 74
+      validTo: '2026-10-19'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-03-25'
-      ageDays: 2282
-      ageYears: 6.3
-    detail: Registered 6.3 years ago (2020-03-25).
+      ageDays: 2321
+      ageYears: 6.4
+    detail: Registered 6.4 years ago (2020-03-25).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dilectacycles.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dilectacycles.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dilectacycles in the score above.
 

@@ -4,8 +4,8 @@ slug: heavensound-it
 title: Is heavensound.it Legit? Trust Score 82/100
 description: >-
   heavensound.it scores 82/100 on our public trust checks. Established domain —
-  registered 19.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:59:50.874Z'
+  registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:06:33.229Z'
 finalUrl: 'https://www.heavensound.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.7 years ago.
+    - Established domain — registered 19.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Actalis S.p.A.
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2027-02-15'
+      daysToExpiry: 196
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2006-10-09'
-      ageDays: 7198
-      ageYears: 19.7
-    detail: Registered 19.7 years ago (2006-10-09).
+      ageDays: 7238
+      ageYears: 19.8
+    detail: Registered 19.8 years ago (2006-10-09).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-heavensound.it looks like a well-established store. The clearest positives are that its domain has been registered for 19.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+heavensound.it looks like a well-established store. The clearest positives are that its domain has been registered for 19.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Heavensound in the score above.
 

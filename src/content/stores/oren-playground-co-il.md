@@ -5,7 +5,7 @@ title: Is oren-playground.co.il Legit? Trust Score 83/100
 description: >-
   oren-playground.co.il scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:24:27.035Z'
+fetchedAt: '2026-08-03T08:13:22.665Z'
 finalUrl: 'https://oren-playground.co.il/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-17'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

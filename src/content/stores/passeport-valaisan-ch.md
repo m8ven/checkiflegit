@@ -5,7 +5,7 @@ title: Is passeport-valaisan.ch Legit? Trust Score 100/100
 description: >-
   passeport-valaisan.ch scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:25:35.178Z'
+fetchedAt: '2026-08-03T08:14:11.366Z'
 finalUrl: 'https://www.passeport-valaisan.ch/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-10'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

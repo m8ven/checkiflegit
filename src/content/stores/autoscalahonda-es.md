@@ -5,7 +5,7 @@ title: Is autoscalahonda.es Legit? Trust Score 40/100
 description: >-
   autoscalahonda.es scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:35:24.721Z'
+fetchedAt: '2026-08-03T08:22:07.227Z'
 finalUrl: 'https://autoscalahonda.es/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

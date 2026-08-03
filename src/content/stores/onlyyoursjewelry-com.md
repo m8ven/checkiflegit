@@ -1,30 +1,30 @@
 ---
 domain: onlyyoursjewelry.com
 slug: onlyyoursjewelry-com
-title: Is onlyyoursjewelry.com Legit? Trust Score 88/100
+title: Is onlyyoursjewelry.com Legit? Trust Score 55/100
 description: >-
-  onlyyoursjewelry.com scores 88/100 on our public trust checks. Established
-  domain — registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:22:41.254Z'
+  onlyyoursjewelry.com scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
+fetchedAt: '2026-08-03T08:12:15.490Z'
 finalUrl: 'https://onlyyoursjewelry.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 88
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.9 years ago.
+    - Established domain — registered 11 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,58 +33,58 @@ signals:
       finalUrl: 'https://onlyyoursjewelry.com/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: warn
-    value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-12-24'
-      daysToExpiry: 183
+      daysToExpiry: 144
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2015-08-06'
-      ageDays: 3976
-      ageYears: 10.9
-    detail: Registered 10.9 years ago (2015-08-06).
+      ageDays: 4015
+      ageYears: 11
+    detail: Registered 11 years ago (2015-08-06).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
-      twitter: true
+      facebook: false
+      instagram: false
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: true
-    detail: 'Links to 4 social platform(s): facebook, instagram, twitter, pinterest.'
+      pinterest: false
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-onlyyoursjewelry.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+onlyyoursjewelry.com sends a mixed set of signals. On the positive side, its domain has been registered for 11 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Onlyyoursjewelry in the score above.
 

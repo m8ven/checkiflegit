@@ -5,7 +5,7 @@ title: Is golfworks.com.au Legit? Trust Score 83/100
 description: >-
   golfworks.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:53:41.459Z'
+fetchedAt: '2026-08-03T08:37:02.520Z'
 finalUrl: 'https://golfworks.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-19'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

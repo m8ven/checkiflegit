@@ -5,7 +5,7 @@ title: Is btpandco.fr Legit? Trust Score 13/100
 description: >-
   btpandco.fr scores 13/100 on our public trust checks. No valid SSL certificate
   — connection may not be secure.
-fetchedAt: '2026-06-25T03:28:25.837Z'
+fetchedAt: '2026-08-03T08:16:48.226Z'
 finalUrl: 'http://btpandco.fr/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 13
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.7 years ago.
+    - Established domain — registered 2.8 years ago.
   redFlags:
     - No valid SSL certificate — connection may not be secure.
     - No public contact details detected on the homepage.
@@ -57,17 +57,17 @@ signals:
     status: fail
     value: null
     detail: >
-      TLS connection failed: 801EB1EC01000000:error:0A000438:SSL
+      TLS connection failed: 804C688A897F0000:error:0A000438:SSL
       routines:ssl3_read_bytes:tlsv1 alert internal
-      error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert
+      error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1601:SSL alert
       number 80
   domainAge:
     status: pass
     value:
       createdAt: '2023-09-29'
-      ageDays: 999
-      ageYears: 2.7
-    detail: Registered 2.7 years ago (2023-09-29).
+      ageDays: 1038
+      ageYears: 2.8
+    detail: Registered 2.8 years ago (2023-09-29).
   contact:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for btpandco.fr. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 2.7 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for btpandco.fr. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 2.8 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Btpandco in the score above.
 

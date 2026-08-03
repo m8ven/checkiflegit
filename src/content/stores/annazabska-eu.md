@@ -5,7 +5,7 @@ title: Is annazabska.eu Legit? Trust Score 83/100
 description: >-
   annazabska.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:55:05.585Z'
+fetchedAt: '2026-08-03T08:03:16.082Z'
 finalUrl: 'https://annazabska.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-13'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

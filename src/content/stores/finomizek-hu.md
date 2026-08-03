@@ -5,7 +5,7 @@ title: Is finomizek.hu Legit? Trust Score 31/100
 description: >-
   finomizek.hu scores 31/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:58:31.814Z'
+fetchedAt: '2026-08-03T08:05:29.357Z'
 finalUrl: 'https://www.finomizek.hu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-27'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

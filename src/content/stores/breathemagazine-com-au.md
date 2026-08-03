@@ -5,7 +5,7 @@ title: Is breathemagazine.com.au Legit? Trust Score 83/100
 description: >-
   breathemagazine.com.au scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:42.483Z'
+fetchedAt: '2026-08-03T08:04:21.955Z'
 finalUrl: 'https://breathemagazine.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

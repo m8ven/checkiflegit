@@ -5,7 +5,7 @@ title: Is sicka-werkzeugmaschinen.de Legit? Trust Score 61/100
 description: >-
   sicka-werkzeugmaschinen.de scores 61/100 on our public trust checks. No links
   to major social platforms found.
-fetchedAt: '2026-06-25T03:27:22.501Z'
+fetchedAt: '2026-08-03T08:15:48.899Z'
 finalUrl: 'https://www.sicka-werkzeugmaschinen.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2026-09-29'
-      daysToExpiry: 97
+      daysToExpiry: 57
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:

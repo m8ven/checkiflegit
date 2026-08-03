@@ -6,7 +6,7 @@ description: >-
   cubaspa.com.pe scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:39:34.332Z'
+fetchedAt: '2026-08-03T08:25:03.102Z'
 finalUrl: 'https://cubaspa.com.pe/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-04'
-      daysToExpiry: 71
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

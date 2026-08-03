@@ -4,8 +4,8 @@ slug: candletubes-co-uk
 title: Is candletubes.co.uk Legit? Trust Score 100/100
 description: >-
   candletubes.co.uk scores 100/100 on our public trust checks. Established
-  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:25:32.421Z'
+  domain — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:14:07.310Z'
 finalUrl: 'https://candletubes.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13 years ago.
+    - Established domain — registered 13.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-24'
-      daysToExpiry: 122
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2013-07-14'
-      ageDays: 4728
-      ageYears: 13
-    detail: Registered 13 years ago (2013-07-14).
+      ageDays: 4768
+      ageYears: 13.1
+    detail: Registered 13.1 years ago (2013-07-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-candletubes.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+candletubes.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 13.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Candletubes in the score above.
 

@@ -5,7 +5,7 @@ title: Is ar.trustlee-gb.com Legit? Trust Score 91/100
 description: >-
   ar.trustlee-gb.com scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:56:34.619Z'
+fetchedAt: '2026-08-03T08:04:17.964Z'
 finalUrl: 'https://ar.trustlee-gb.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-15'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

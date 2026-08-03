@@ -5,7 +5,7 @@ title: Is goldengreen.energy Legit? Trust Score 49/100
 description: >-
   goldengreen.energy scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T03:34:56.500Z'
+fetchedAt: '2026-08-03T08:21:50.930Z'
 finalUrl: 'https://goldengreen.energy/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

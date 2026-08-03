@@ -5,7 +5,7 @@ title: Is boulazac-basket-dordogne.com Legit? Trust Score 25/100
 description: >-
   boulazac-basket-dordogne.com scores 25/100 on our public trust checks.
   Standard contact and policy pages were not found.
-fetchedAt: '2026-06-25T02:59:10.648Z'
+fetchedAt: '2026-08-03T08:06:00.058Z'
 finalUrl: 'https://www.boulazac-basket-dordogne.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 25
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.9 years ago.
+    - Established domain — registered 10 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-17'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-07-22'
-      ageDays: 3624
-      ageYears: 9.9
-    detail: Registered 9.9 years ago (2016-07-22).
+      ageDays: 3663
+      ageYears: 10
+    detail: Registered 10 years ago (2016-07-22).
   contact:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for boulazac-basket-dordogne.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 9.9 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for boulazac-basket-dordogne.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 10 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Boulazac-basket-dordogne in the score above.
 

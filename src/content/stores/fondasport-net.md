@@ -4,8 +4,8 @@ slug: fondasport-net
 title: Is fondasport.net Legit? Trust Score 82/100
 description: >-
   fondasport.net scores 82/100 on our public trust checks. Established domain —
-  registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:03:14.859Z'
+  registered 22.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:55.153Z'
 finalUrl: 'https://www.fondasport.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.6 years ago.
+    - Established domain — registered 22.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 84
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-11-14'
-      ageDays: 8258
-      ageYears: 22.6
-    detail: Registered 22.6 years ago (2003-11-14).
+      ageDays: 8297
+      ageYears: 22.7
+    detail: Registered 22.7 years ago (2003-11-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fondasport.net looks like a well-established store. The clearest positives are that its domain has been registered for 22.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fondasport.net looks like a well-established store. The clearest positives are that its domain has been registered for 22.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fondasport in the score above.
 

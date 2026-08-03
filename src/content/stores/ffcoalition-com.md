@@ -4,8 +4,8 @@ slug: ffcoalition-com
 title: Is ffcoalition.com Legit? Trust Score 76/100
 description: >-
   ffcoalition.com scores 76/100 on our public trust checks. Established domain —
-  registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:59.125Z'
+  registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:45.011Z'
 finalUrl: 'https://www.ffcoalition.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.1 years ago.
+    - Established domain — registered 17.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2009-05-13'
-      ageDays: 6251
-      ageYears: 17.1
-    detail: Registered 17.1 years ago (2009-05-13).
+      ageDays: 6290
+      ageYears: 17.2
+    detail: Registered 17.2 years ago (2009-05-13).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ffcoalition.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ffcoalition.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ffcoalition in the score above.
 

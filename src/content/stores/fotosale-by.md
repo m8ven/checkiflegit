@@ -1,31 +1,29 @@
 ---
 domain: fotosale.by
 slug: fotosale-by
-title: Is fotosale.by Legit? Trust Score 43/100
+title: Is fotosale.by Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  fotosale.by scores 43/100 on our public trust checks. Standard contact and
-  policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:49:32.104Z'
+  fotosale.by scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:34:03.967Z'
 finalUrl: 'https://fotosale.by/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 43
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
-    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -34,47 +32,47 @@ signals:
       finalUrl: 'https://fotosale.by/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: fail
-    value:
-      contact: false
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      contact: true
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: GlobalSign nv-sa
       validTo: '2027-03-03'
-      daysToExpiry: 252
+      daysToExpiry: 213
       authorized: true
     detail: Valid certificate issued by GlobalSign nv-sa.
   domainAge:
     status: pass
     value:
       createdAt: '2016-11-25'
-      ageDays: 3499
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-11-25).
+      ageDays: 3538
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-25).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -96,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for fotosale.by. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 9.6 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+fotosale.by sends a mixed set of signals. On the positive side, its domain has been registered for 9.7 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fotosale in the score above.
 

@@ -4,8 +4,8 @@ slug: bettr-food-com
 title: Is bettr-food.com Legit? Trust Score 100/100
 description: >-
   bettr-food.com scores 100/100 on our public trust checks. Established domain —
-  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:30.602Z'
+  registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:23:12.528Z'
 finalUrl: 'https://bettr-food.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 4.2 years ago.
+    - Established domain — registered 4.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-04-30'
-      ageDays: 1516
-      ageYears: 4.2
-    detail: Registered 4.2 years ago (2022-04-30).
+      ageDays: 1555
+      ageYears: 4.3
+    detail: Registered 4.3 years ago (2022-04-30).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bettr-food.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bettr-food.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bettr-food in the score above.
 

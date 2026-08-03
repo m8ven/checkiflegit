@@ -5,7 +5,7 @@ title: Is katjaharders.de Legit? Trust Score 100/100
 description: >-
   katjaharders.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:51:30.000Z'
+fetchedAt: '2026-08-03T08:35:25.359Z'
 finalUrl: 'https://katjaharders.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2027-01-24'
-      daysToExpiry: 214
+      daysToExpiry: 175
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

@@ -5,7 +5,7 @@ title: Is gastec.is Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   gastec.is scores 49/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:59:02.224Z'
+fetchedAt: '2026-08-03T08:05:49.811Z'
 finalUrl: 'https://www.gastec.is/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-19'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

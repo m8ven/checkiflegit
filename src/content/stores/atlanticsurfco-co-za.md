@@ -1,27 +1,28 @@
 ---
 domain: atlanticsurfco.co.za
 slug: atlanticsurfco-co-za
-title: Is atlanticsurfco.co.za Legit? Trust Score 83/100
+title: Is atlanticsurfco.co.za Legit? Trust Score 19/100
 description: >-
-  atlanticsurfco.co.za scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:35:08.930Z'
+  atlanticsurfco.co.za scores 19/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
+fetchedAt: '2026-08-03T08:22:00.145Z'
 finalUrl: 'https://atlanticsurfco.co.za/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 83
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 19
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
 signals:
@@ -32,16 +33,16 @@ signals:
       finalUrl: 'https://atlanticsurfco.co.za/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
@@ -56,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
@@ -64,23 +65,23 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      email: false
+      phone: false
+      address: false
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
-      youtube: true
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -91,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-atlanticsurfco.co.za looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for atlanticsurfco.co.za. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Atlanticsurfco in the score above.
 

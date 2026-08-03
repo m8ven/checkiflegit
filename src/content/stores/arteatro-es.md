@@ -5,7 +5,7 @@ title: Is arteatro.es Legit? Trust Score 36/100
 description: >-
   arteatro.es scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:57:59.025Z'
+fetchedAt: '2026-08-03T08:05:11.698Z'
 finalUrl: 'https://www.arteatro.es/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-21'
-      daysToExpiry: 58
+      daysToExpiry: 19
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is mistressadvisor.it Legit? Trust Score 52/100
 description: >-
   mistressadvisor.it scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:24:32.712Z'
+fetchedAt: '2026-08-03T08:13:25.888Z'
 finalUrl: 'https://www.mistressadvisor.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-26'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2025-01-12'
-      ageDays: 528
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-01-12).
+      ageDays: 567
+      ageYears: 1.6
+    detail: Registered 1.6 years ago (2025-01-12).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mistressadvisor.it sends a mixed set of signals. On the positive side, its domain has been registered for 1.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+mistressadvisor.it sends a mixed set of signals. On the positive side, its domain has been registered for 1.6 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mistressadvisor in the score above.
 

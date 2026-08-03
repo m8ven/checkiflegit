@@ -4,8 +4,8 @@ slug: dildowarehouse-co-uk
 title: Is dildowarehouse.co.uk Legit? Trust Score 85/100
 description: >-
   dildowarehouse.co.uk scores 85/100 on our public trust checks. Established
-  domain — registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:40:45.180Z'
+  domain — registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:26:14.555Z'
 finalUrl: 'https://dildowarehouse.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.8 years ago.
+    - Established domain — registered 13.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-28'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2012-09-24'
-      ageDays: 5021
-      ageYears: 13.8
-    detail: Registered 13.8 years ago (2012-09-24).
+      ageDays: 5061
+      ageYears: 13.9
+    detail: Registered 13.9 years ago (2012-09-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dildowarehouse.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 13.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dildowarehouse.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 13.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dildowarehouse in the score above.
 

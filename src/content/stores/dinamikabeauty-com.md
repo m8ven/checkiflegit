@@ -1,30 +1,29 @@
 ---
 domain: dinamikabeauty.com
 slug: dinamikabeauty-com
-title: Is dinamikabeauty.com Legit? Trust Score 76/100
+title: Is dinamikabeauty.com Legit? Trust Score 55/100
 description: >-
-  dinamikabeauty.com scores 76/100 on our public trust checks. Established
-  domain — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:40.615Z'
+  dinamikabeauty.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:13:30.907Z'
 finalUrl: 'https://dinamikabeauty.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 76
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.3 years ago.
+    - Established domain — registered 8.4 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,58 +32,58 @@ signals:
       finalUrl: 'https://dinamikabeauty.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-02-26'
-      ageDays: 3040
-      ageYears: 8.3
-    detail: Registered 8.3 years ago (2018-02-26).
+      ageDays: 3079
+      ageYears: 8.4
+    detail: Registered 8.4 years ago (2018-02-26).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: true
-    detail: 'Links to 3 social platform(s): facebook, instagram, pinterest.'
+      pinterest: false
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dinamikabeauty.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dinamikabeauty.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.4 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dinamikabeauty in the score above.
 

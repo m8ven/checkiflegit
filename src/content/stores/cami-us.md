@@ -4,8 +4,8 @@ slug: cami-us
 title: Is cami.us Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   cami.us scores 88/100 on our public trust checks. Established domain —
-  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:59:12.150Z'
+  registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:06:00.114Z'
 finalUrl: 'https://cami.us/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 6.8 years ago.
+    - Established domain — registered 6.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-26'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-09-20'
-      ageDays: 2469
-      ageYears: 6.8
-    detail: Registered 6.8 years ago (2019-09-20).
+      ageDays: 2508
+      ageYears: 6.9
+    detail: Registered 6.9 years ago (2019-09-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cami.us looks like a well-established store. The clearest positives are that its domain has been registered for 6.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cami.us looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cami in the score above.
 

@@ -5,7 +5,7 @@ title: Is cascade-ionic.ru Legit? Trust Score 61/100
 description: >-
   cascade-ionic.ru scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T03:25:22.596Z'
+fetchedAt: '2026-08-03T08:13:58.187Z'
 finalUrl: 'https://cascade-ionic.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.5 years ago.
+    - Established domain — registered 6.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-12-11'
-      ageDays: 2387
-      ageYears: 6.5
-    detail: Registered 6.5 years ago (2019-12-11).
+      ageDays: 2427
+      ageYears: 6.6
+    detail: Registered 6.6 years ago (2019-12-11).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cascade-ionic.ru sends a mixed set of signals. On the positive side, its domain has been registered for 6.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+cascade-ionic.ru sends a mixed set of signals. On the positive side, its domain has been registered for 6.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cascade-ionic in the score above.
 

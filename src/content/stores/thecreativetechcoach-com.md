@@ -5,7 +5,7 @@ title: Is thecreativetechcoach.com Legit? Trust Score 52/100
 description: >-
   thecreativetechcoach.com scores 52/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:23:00.441Z'
+fetchedAt: '2026-08-03T08:12:30.588Z'
 finalUrl: 'https://www.thecreativetechcoach.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.9 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-07-27'
-      ageDays: 1793
-      ageYears: 4.9
-    detail: Registered 4.9 years ago (2021-07-27).
+      ageDays: 1832
+      ageYears: 5
+    detail: Registered 5 years ago (2021-07-27).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thecreativetechcoach.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+thecreativetechcoach.com sends a mixed set of signals. On the positive side, its domain has been registered for 5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thecreativetechcoach in the score above.
 

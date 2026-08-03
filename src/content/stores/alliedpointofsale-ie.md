@@ -4,8 +4,8 @@ slug: alliedpointofsale-ie
 title: Is alliedpointofsale.ie Legit? Trust Score 100/100
 description: >-
   alliedpointofsale.ie scores 100/100 on our public trust checks. Established
-  domain — registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:43:47.998Z'
+  domain — registered 21.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:01:31.894Z'
 finalUrl: 'https://alliedpointofsale.ie/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.8 years ago.
+    - Established domain — registered 21.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-31'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-09-01'
-      ageDays: 7966
-      ageYears: 21.8
-    detail: Registered 21.8 years ago (2004-09-01).
+      ageDays: 8005
+      ageYears: 21.9
+    detail: Registered 21.9 years ago (2004-09-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-alliedpointofsale.ie looks like a well-established store. The clearest positives are that its domain has been registered for 21.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+alliedpointofsale.ie looks like a well-established store. The clearest positives are that its domain has been registered for 21.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Alliedpointofsale in the score above.
 

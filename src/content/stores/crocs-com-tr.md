@@ -5,7 +5,7 @@ title: Is crocs.com.tr Legit? Trust Score 83/100
 description: >-
   crocs.com.tr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:20:32.245Z'
+fetchedAt: '2026-08-03T08:10:33.544Z'
 finalUrl: 'https://crocs.com.tr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

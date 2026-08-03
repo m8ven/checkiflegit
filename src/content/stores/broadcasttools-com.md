@@ -4,8 +4,8 @@ slug: broadcasttools-com
 title: Is broadcasttools.com Legit? Trust Score 73/100
 description: >-
   broadcasttools.com scores 73/100 on our public trust checks. Established
-  domain — registered 30.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:57:11.795Z'
+  domain — registered 30.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:35.426Z'
 finalUrl: 'https://broadcasttools.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 30.7 years ago.
+    - Established domain — registered 30.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-28'
-      daysToExpiry: 218
+      daysToExpiry: 179
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '1995-10-05'
-      ageDays: 11220
-      ageYears: 30.7
-    detail: Registered 30.7 years ago (1995-10-05).
+      ageDays: 11260
+      ageYears: 30.8
+    detail: Registered 30.8 years ago (1995-10-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-broadcasttools.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+broadcasttools.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Broadcasttools in the score above.
 

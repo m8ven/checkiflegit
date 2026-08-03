@@ -5,7 +5,7 @@ title: Is fcfamalicao.pt Legit? Trust Score 83/100
 description: >-
   fcfamalicao.pt scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:58:14.995Z'
+fetchedAt: '2026-08-03T08:05:23.748Z'
 finalUrl: 'https://www.fcfamalicao.pt/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-03'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

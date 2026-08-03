@@ -4,8 +4,8 @@ slug: derechoecuador-com
 title: Is derechoecuador.com Legit? Trust Score 100/100
 description: >-
   derechoecuador.com scores 100/100 on our public trust checks. Established
-  domain — registered 25.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:33:48.876Z'
+  domain — registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:21:02.035Z'
 finalUrl: 'https://derechoecuador.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.6 years ago.
+    - Established domain — registered 25.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-11-23'
-      ageDays: 9344
-      ageYears: 25.6
-    detail: Registered 25.6 years ago (2000-11-23).
+      ageDays: 9383
+      ageYears: 25.7
+    detail: Registered 25.7 years ago (2000-11-23).
   contact:
     status: pass
     value:
@@ -81,10 +81,10 @@ signals:
       instagram: false
       twitter: true
       tiktok: false
-      youtube: false
+      youtube: true
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, twitter.'
+    detail: 'Links to 3 social platform(s): facebook, twitter, youtube.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-derechoecuador.com looks like a well-established store. The clearest positives are that its domain has been registered for 25.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+derechoecuador.com looks like a well-established store. The clearest positives are that its domain has been registered for 25.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Derechoecuador in the score above.
 

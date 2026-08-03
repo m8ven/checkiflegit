@@ -1,11 +1,11 @@
 ---
 domain: lediveacademy.it
 slug: lediveacademy-it
-title: Is lediveacademy.it Legit? Trust Score 73/100
+title: Is lediveacademy.it Legit? Trust Score 85/100
 description: >-
-  lediveacademy.it scores 73/100 on our public trust checks. Established domain
-  — registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:23:02.703Z'
+  lediveacademy.it scores 85/100 on our public trust checks. Established domain
+  — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:12:31.970Z'
 finalUrl: 'https://www.lediveacademy.it/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.7 years ago.
+    - Established domain — registered 1.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2026-08-24'
-      daysToExpiry: 60
+      daysToExpiry: 21
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
-      createdAt: '2024-10-22'
-      ageDays: 611
-      ageYears: 1.7
-    detail: Registered 1.7 years ago (2024-10-22).
+      createdAt: '2024-10-21'
+      ageDays: 650
+      ageYears: 1.8
+    detail: Registered 1.8 years ago (2024-10-21).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lediveacademy.it looks like a well-established store. The clearest positives are that its domain has been registered for 1.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lediveacademy.it looks like a well-established store. The clearest positives are that its domain has been registered for 1.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lediveacademy in the score above.
 

@@ -4,8 +4,8 @@ slug: bogjensen-dk
 title: Is bogjensen.dk Legit? Trust Score 73/100
 description: >-
   bogjensen.dk scores 73/100 on our public trust checks. Established domain —
-  registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:55:37.485Z'
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:03:38.159Z'
 finalUrl: 'https://bogjensen.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.1 years ago.
+    - Established domain — registered 11.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -50,30 +50,30 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-12'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-05-05'
-      ageDays: 4069
-      ageYears: 11.1
-    detail: Registered 11.1 years ago (2015-05-05).
+      ageDays: 4108
+      ageYears: 11.3
+    detail: Registered 11.3 years ago (2015-05-05).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bogjensen.dk looks like a well-established store. The clearest positives are that its domain has been registered for 11.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bogjensen.dk looks like a well-established store. The clearest positives are that its domain has been registered for 11.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bogjensen in the score above.
 

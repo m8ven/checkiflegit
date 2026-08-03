@@ -5,7 +5,7 @@ title: Is maclurasurgical.net Legit? Trust Score 55/100
 description: >-
   maclurasurgical.net scores 55/100 on our public trust checks. No links to
   major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T03:51:23.240Z'
+fetchedAt: '2026-08-03T08:35:15.913Z'
 finalUrl: 'https://maclurasurgical.net/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-01'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-06'
-      ageDays: 230
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-06).
+      ageDays: 269
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-06).
   contact:
     status: pass
     value:

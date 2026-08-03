@@ -3,11 +3,11 @@ domain: vape-manufactory.com
 slug: vape-manufactory-com
 title: Is vape-manufactory.com Legit? Trust Score 43/100
 description: >-
-  vape-manufactory.com scores 43/100 on our public trust checks. Standard
-  contact and policy pages were not found. No links to major social platforms
+  vape-manufactory.com scores 43/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T03:29:02.611Z'
-finalUrl: 'https://www.vape-manufactory.com/'
+fetchedAt: '2026-08-03T08:17:07.824Z'
+finalUrl: 'https://vape-manufactory.com/'
 reachable: true
 noindex: false
 verdict:
@@ -19,63 +19,62 @@ verdict:
     buyer-protected payment methods.
   score: 43
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.8 years ago.
+    - Established domain — registered 2.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
-    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions:
-    - Only limited contact details were found.
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.vape-manufactory.com/'
+      finalUrl: 'https://vape-manufactory.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-08-29'
-      ageDays: 1030
-      ageYears: 2.8
-    detail: Registered 2.8 years ago (2023-08-29).
+      ageDays: 1069
+      ageYears: 2.9
+    detail: Registered 2.9 years ago (2023-08-29).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -97,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for vape-manufactory.com. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 2.8 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for vape-manufactory.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 2.9 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vape-manufactory in the score above.
 

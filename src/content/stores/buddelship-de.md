@@ -5,7 +5,7 @@ title: Is buddelship.de Legit? Trust Score 100/100
 description: >-
   buddelship.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:54:09.407Z'
+fetchedAt: '2026-08-03T08:02:41.730Z'
 finalUrl: 'https://www.buddelship.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Gandi SAS
       validTo: '2026-10-31'
-      daysToExpiry: 129
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Gandi SAS.
   domainAge:

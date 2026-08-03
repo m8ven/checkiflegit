@@ -5,7 +5,7 @@ title: Is husumgarden.se Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   husumgarden.se scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:00:13.888Z'
+fetchedAt: '2026-08-03T08:06:47.845Z'
 finalUrl: 'https://www.husumgarden.se/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.8 years ago.
+    - Established domain — registered 18.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 39
+      validTo: '2026-10-02'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-08-27'
-      ageDays: 6877
-      ageYears: 18.8
-    detail: Registered 18.8 years ago (2007-08-27).
+      ageDays: 6916
+      ageYears: 18.9
+    detail: Registered 18.9 years ago (2007-08-27).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-husumgarden.se sends a mixed set of signals. On the positive side, its domain has been registered for 18.8 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+husumgarden.se sends a mixed set of signals. On the positive side, its domain has been registered for 18.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Husumgarden in the score above.
 

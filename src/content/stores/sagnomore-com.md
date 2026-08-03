@@ -4,8 +4,8 @@ slug: sagnomore-com
 title: Is sagnomore.com Legit? Trust Score 88/100
 description: >-
   sagnomore.com scores 88/100 on our public trust checks. Established domain —
-  registered 3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:49:51.791Z'
+  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:34:16.994Z'
 finalUrl: 'https://sagnomore.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 3 years ago.
+    - Established domain — registered 3.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-10'
-      ageDays: 1080
-      ageYears: 3
-    detail: Registered 3 years ago (2023-07-10).
+      ageDays: 1119
+      ageYears: 3.1
+    detail: Registered 3.1 years ago (2023-07-10).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sagnomore.com looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sagnomore.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sagnomore in the score above.
 

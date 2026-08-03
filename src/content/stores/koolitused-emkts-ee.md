@@ -5,7 +5,7 @@ title: Is koolitused.emkts.ee Legit? Trust Score 66/100
 description: >-
   koolitused.emkts.ee scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:46:40.472Z'
+fetchedAt: '2026-08-03T08:31:46.875Z'
 finalUrl: 'https://koolitused.emkts.ee/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 71
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

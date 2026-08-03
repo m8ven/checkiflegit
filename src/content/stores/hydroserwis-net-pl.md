@@ -1,29 +1,30 @@
 ---
 domain: hydroserwis.net.pl
 slug: hydroserwis-net-pl
-title: Is hydroserwis.net.pl Legit? Trust Score 61/100
+title: Is hydroserwis.net.pl Legit? Trust Score 85/100
 description: >-
-  hydroserwis.net.pl scores 61/100 on our public trust checks. No links to major
-  social platforms found.
-fetchedAt: '2026-06-25T03:39:41.424Z'
+  hydroserwis.net.pl scores 85/100 on our public trust checks. Established
+  domain — registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:25:11.623Z'
 finalUrl: 'https://hydroserwis.net.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 19.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -43,26 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-23'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2006-12-28'
+      ageDays: 7157
+      ageYears: 19.6
+    detail: Registered 19.6 years ago (2006-12-28).
   contact:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hydroserwis.net.pl sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+hydroserwis.net.pl looks like a well-established store. The clearest positives are that its domain has been registered for 19.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hydroserwis in the score above.
 

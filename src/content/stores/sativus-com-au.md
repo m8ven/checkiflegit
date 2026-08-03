@@ -5,7 +5,7 @@ title: Is sativus.com.au Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   sativus.com.au scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:21:26.412Z'
+fetchedAt: '2026-08-03T08:11:08.922Z'
 finalUrl: 'https://www.sativus.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-05'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

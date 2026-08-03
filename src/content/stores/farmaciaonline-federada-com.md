@@ -5,7 +5,7 @@ title: Is farmaciaonline.federada.com Legit? Trust Score 66/100
 description: >-
   farmaciaonline.federada.com scores 66/100 on our public trust checks. Some
   standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:46:15.649Z'
+fetchedAt: '2026-08-03T08:31:27.561Z'
 finalUrl: 'https://farmaciaonline.federada.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-04'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

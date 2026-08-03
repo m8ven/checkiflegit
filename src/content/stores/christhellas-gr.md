@@ -5,7 +5,7 @@ title: Is christhellas.gr Legit? Trust Score 100/100
 description: >-
   christhellas.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:39:02.713Z'
+fetchedAt: '2026-08-03T08:24:52.157Z'
 finalUrl: 'https://christhellas.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 46
+      validTo: '2026-10-09'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

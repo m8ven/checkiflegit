@@ -5,7 +5,7 @@ title: Is chiosformacion.es Legit? Trust Score 100/100
 description: >-
   chiosformacion.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:27:49.204Z'
+fetchedAt: '2026-08-03T08:16:25.804Z'
 finalUrl: 'https://chiosformacion.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 67
+      validTo: '2026-10-30'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,19 +68,19 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
       facebook: true
       instagram: true
       twitter: false
-      tiktok: false
+      tiktok: true
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: 'Links to 3 social platform(s): facebook, instagram, tiktok.'
   reviews:
     status: unknown
     value:

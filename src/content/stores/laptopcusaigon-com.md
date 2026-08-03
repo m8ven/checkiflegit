@@ -1,28 +1,29 @@
 ---
 domain: laptopcusaigon.com
 slug: laptopcusaigon-com
-title: Is laptopcusaigon.com Legit? Trust Score 55/100
+title: Is laptopcusaigon.com Legit? Trust Score 82/100
 description: >-
-  laptopcusaigon.com scores 55/100 on our public trust checks. Standard contact
-  and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T03:52:35.457Z'
+  laptopcusaigon.com scores 82/100 on our public trust checks. Established
+  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:11.318Z'
 finalUrl: 'https://laptopcusaigon.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 55
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.8 years ago.
+    - Established domain — registered 13 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -43,25 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
       contact: false
-      privacy: false
+      privacy: true
       terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-09-07'
+      daysToExpiry: 36
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-08-22'
-      ageDays: 4689
-      ageYears: 12.8
-    detail: Registered 12.8 years ago (2013-08-22).
+      ageDays: 4729
+      ageYears: 13
+    detail: Registered 13 years ago (2013-08-22).
   contact:
     status: pass
     value:
@@ -90,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-laptopcusaigon.com sends a mixed set of signals. On the positive side, its domain has been registered for 12.8 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+laptopcusaigon.com looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Laptopcusaigon in the score above.
 

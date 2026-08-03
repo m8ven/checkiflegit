@@ -1,29 +1,29 @@
 ---
 domain: drewnokaminski.pl
 slug: drewnokaminski-pl
-title: Is drewnokaminski.pl Legit? Trust Score 61/100
+title: Is drewnokaminski.pl Legit? Trust Score 73/100
 description: >-
-  drewnokaminski.pl scores 61/100 on our public trust checks. No links to major
-  social platforms found.
-fetchedAt: '2026-06-25T03:41:19.169Z'
+  drewnokaminski.pl scores 73/100 on our public trust checks. Established domain
+  — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:26:51.073Z'
 finalUrl: 'https://drewnokaminski.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.2 years ago.
+    - Established domain — registered 2.3 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-03'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2024-04-09'
-      ageDays: 806
-      ageYears: 2.2
-    detail: Registered 2.2 years ago (2024-04-09).
+      ageDays: 845
+      ageYears: 2.3
+    detail: Registered 2.3 years ago (2024-04-09).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-drewnokaminski.pl sends a mixed set of signals. On the positive side, its domain has been registered for 2.2 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+drewnokaminski.pl looks like a well-established store. The clearest positives are that its domain has been registered for 2.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Drewnokaminski in the score above.
 

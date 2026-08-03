@@ -4,8 +4,8 @@ slug: beamerstyling-nl
 title: Is beamerstyling.nl Legit? Trust Score 82/100
 description: >-
   beamerstyling.nl scores 82/100 on our public trust checks. Established domain
-  — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:34.174Z'
+  — registered 5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:25.501Z'
 finalUrl: 'https://beamerstyling.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 4.9 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-07-24'
-      ageDays: 1797
-      ageYears: 4.9
-    detail: Registered 4.9 years ago (2021-07-24).
+      ageDays: 1836
+      ageYears: 5
+    detail: Registered 5 years ago (2021-07-24).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-beamerstyling.nl looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+beamerstyling.nl looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Beamerstyling in the score above.
 

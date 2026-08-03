@@ -5,7 +5,7 @@ title: Is heysentrail.asn.au Legit? Trust Score 83/100
 description: >-
   heysentrail.asn.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:53:11.011Z'
+fetchedAt: '2026-08-03T08:36:45.322Z'
 finalUrl: 'https://heysentrail.asn.au/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: true
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-03'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

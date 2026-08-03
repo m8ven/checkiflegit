@@ -5,7 +5,7 @@ title: Is wildernessgallery.ca Legit? Trust Score 61/100
 description: >-
   wildernessgallery.ca scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:56:09.216Z'
+fetchedAt: '2026-08-03T08:03:56.872Z'
 finalUrl: 'https://wildernessgallery.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.4 years ago.
+    - Established domain — registered 2.5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Sectigo Limited
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      issuer: Let's Encrypt
+      validTo: '2026-10-20'
+      daysToExpiry: 78
       authorized: true
-    detail: Valid certificate issued by Sectigo Limited.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-01-27'
-      ageDays: 879
-      ageYears: 2.4
-    detail: Registered 2.4 years ago (2024-01-27).
+      ageDays: 918
+      ageYears: 2.5
+    detail: Registered 2.5 years ago (2024-01-27).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-wildernessgallery.ca sends a mixed set of signals. On the positive side, its domain has been registered for 2.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+wildernessgallery.ca sends a mixed set of signals. On the positive side, its domain has been registered for 2.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Wildernessgallery in the score above.
 

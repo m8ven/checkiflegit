@@ -1,11 +1,11 @@
 ---
 domain: diginvest.io
 slug: diginvest-io
-title: Is diginvest.io Legit? Trust Score 82/100
+title: Is diginvest.io Legit? Trust Score 78/100
 description: >-
-  diginvest.io scores 82/100 on our public trust checks. Established domain —
-  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:41:52.350Z'
+  diginvest.io scores 78/100 on our public trust checks. Established domain —
+  registered 6.2 years ago. Public business contact details are listed.
+fetchedAt: '2026-08-03T08:27:17.488Z'
 finalUrl: 'https://diginvest.io/'
 reachable: true
 noindex: false
@@ -15,11 +15,10 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 78
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.1 years ago.
-    - Valid HTTPS/SSL certificate in place.
+    - Established domain — registered 6.2 years ago.
     - Public business contact details are listed.
   redFlags: []
   cautions:
@@ -53,20 +52,16 @@ signals:
       shipping: false
     detail: Found 1 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
     status: pass
     value:
       createdAt: '2020-05-30'
-      ageDays: 2216
-      ageYears: 6.1
-    detail: Registered 6.1 years ago (2020-05-30).
+      ageDays: 2255
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-05-30).
   contact:
     status: pass
     value:
@@ -95,7 +90,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-diginvest.io looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+diginvest.io looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Diginvest in the score above.
 

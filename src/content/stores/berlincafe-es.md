@@ -1,30 +1,29 @@
 ---
 domain: berlincafe.es
 slug: berlincafe-es
-title: Is berlincafe.es Legit? Trust Score 40/100
+title: Is berlincafe.es Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  berlincafe.es scores 40/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T03:36:24.742Z'
+  berlincafe.es scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:23:09.182Z'
 finalUrl: 'https://berlincafe.es/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 40
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 57
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
       terms: false
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-20'
-      daysToExpiry: 57
+      daysToExpiry: 18
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -94,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for berlincafe.es. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+berlincafe.es sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Berlincafe in the score above.
 

@@ -5,7 +5,7 @@ title: Is beagle.estrellest.com Legit? Trust Score 74/100
 description: >-
   beagle.estrellest.com scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:36:01.275Z'
+fetchedAt: '2026-08-03T08:22:48.656Z'
 finalUrl: 'https://beagle.estrellest.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

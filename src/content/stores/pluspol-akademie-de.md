@@ -5,7 +5,7 @@ title: Is pluspol-akademie.de Legit? Trust Score 79/100
 description: >-
   pluspol-akademie.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:32:25.867Z'
+fetchedAt: '2026-08-03T08:20:04.887Z'
 finalUrl: 'https://pluspol-akademie.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

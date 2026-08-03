@@ -4,8 +4,8 @@ slug: farmaverde-ro
 title: Is farmaverde.ro Legit? Trust Score 73/100
 description: >-
   farmaverde.ro scores 73/100 on our public trust checks. Established domain —
-  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:44.428Z'
+  registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:26.951Z'
 finalUrl: 'https://farmaverde.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.4 years ago.
+    - Established domain — registered 16.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-19'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-02-17'
-      ageDays: 5972
-      ageYears: 16.4
-    detail: Registered 16.4 years ago (2010-02-17).
+      ageDays: 6011
+      ageYears: 16.5
+    detail: Registered 16.5 years ago (2010-02-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-farmaverde.ro looks like a well-established store. The clearest positives are that its domain has been registered for 16.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+farmaverde.ro looks like a well-established store. The clearest positives are that its domain has been registered for 16.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Farmaverde in the score above.
 

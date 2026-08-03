@@ -5,7 +5,7 @@ title: Is adgifts.eu Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   adgifts.eu scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:33:00.272Z'
+fetchedAt: '2026-08-03T08:20:32.582Z'
 finalUrl: 'https://adgifts.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

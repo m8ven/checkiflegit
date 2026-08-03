@@ -5,7 +5,7 @@ title: Is boer.witech.nl Legit? Trust Score 19/100
 description: >-
   boer.witech.nl scores 19/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:02:54.942Z'
+fetchedAt: '2026-08-03T08:08:39.391Z'
 finalUrl: 'https://boer.witech.nl/'
 reachable: true
 noindex: false
@@ -48,16 +48,16 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

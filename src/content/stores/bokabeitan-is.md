@@ -5,7 +5,7 @@ title: Is bokabeitan.is Legit? Trust Score 83/100
 description: >-
   bokabeitan.is scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:23:04.478Z'
+fetchedAt: '2026-08-03T08:12:32.279Z'
 finalUrl: 'https://bokabeitan.is/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 65
+      validTo: '2026-10-27'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

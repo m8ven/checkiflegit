@@ -5,7 +5,7 @@ title: Is multidisc.es Legit? Trust Score 83/100
 description: >-
   multidisc.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:24:42.665Z'
+fetchedAt: '2026-08-03T08:13:34.218Z'
 finalUrl: 'https://www.multidisc.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-17'
-      daysToExpiry: 85
+      validTo: '2026-10-31'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

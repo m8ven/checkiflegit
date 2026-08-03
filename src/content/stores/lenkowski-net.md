@@ -5,7 +5,7 @@ title: Is lenkowski.net Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   lenkowski.net scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:50:01.004Z'
+fetchedAt: '2026-08-03T08:34:23.145Z'
 finalUrl: 'https://lenkowski.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.7 years ago.
+    - Established domain — registered 16.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 30
+      validTo: '2026-10-06'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-10-31'
-      ageDays: 6080
-      ageYears: 16.7
-    detail: Registered 16.7 years ago (2009-10-31).
+      ageDays: 6119
+      ageYears: 16.8
+    detail: Registered 16.8 years ago (2009-10-31).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lenkowski.net sends a mixed set of signals. On the positive side, its domain has been registered for 16.7 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+lenkowski.net sends a mixed set of signals. On the positive side, its domain has been registered for 16.8 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lenkowski in the score above.
 

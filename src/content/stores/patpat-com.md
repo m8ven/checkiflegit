@@ -1,11 +1,11 @@
 ---
 domain: patpat.com
 slug: patpat-com
-title: Is patpat.com Legit? Trust Score 88/100 — Trust Checks Pass
+title: Is patpat.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  patpat.com scores 88/100 on our public trust checks. Established domain —
-  registered 27.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:25:40.201Z'
+  patpat.com scores 70/100 on our public trust checks. Established domain —
+  registered 27.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:14:12.277Z'
 finalUrl: 'https://www.patpat.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 27.2 years ago.
+    - Established domain — registered 27.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  redFlags:
+    - No public contact details detected on the homepage.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-05'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-05-05'
-      ageDays: 9912
-      ageYears: 27.2
-    detail: Registered 27.2 years ago (1999-05-05).
+      ageDays: 9952
+      ageYears: 27.3
+    detail: Registered 27.3 years ago (1999-05-05).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-patpat.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+patpat.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Patpat in the score above.
 

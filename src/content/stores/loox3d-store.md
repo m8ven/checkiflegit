@@ -4,8 +4,8 @@ slug: loox3d-store
 title: Is loox3d.store Legit? Trust Score 70/100
 description: >-
   loox3d.store scores 70/100 on our public trust checks. Established domain —
-  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:50:22.960Z'
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:34:34.465Z'
 finalUrl: 'https://loox3d.store/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.7 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-16'
-      daysToExpiry: 237
+      daysToExpiry: 198
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2020-11-15'
-      ageDays: 2047
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-11-15).
+      ageDays: 2086
+      ageYears: 5.7
+    detail: Registered 5.7 years ago (2020-11-15).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-loox3d.store looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+loox3d.store looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Loox3d in the score above.
 

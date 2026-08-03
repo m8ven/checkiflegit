@@ -4,8 +4,8 @@ slug: dreambeanscoffee-ie
 title: Is dreambeanscoffee.ie Legit? Trust Score 88/100
 description: >-
   dreambeanscoffee.ie scores 88/100 on our public trust checks. Established
-  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:34:29.118Z'
+  domain — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:21:25.965Z'
 finalUrl: 'https://dreambeanscoffee.ie/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.6 years ago.
+    - Established domain — registered 6.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-26'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-11-18'
-      ageDays: 2410
-      ageYears: 6.6
-    detail: Registered 6.6 years ago (2019-11-18).
+      ageDays: 2449
+      ageYears: 6.7
+    detail: Registered 6.7 years ago (2019-11-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dreambeanscoffee.ie looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dreambeanscoffee.ie looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dreambeanscoffee in the score above.
 

@@ -6,7 +6,7 @@ description: >-
   anavrin.media scores 44/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T03:33:06.966Z'
+fetchedAt: '2026-08-03T08:20:36.131Z'
 finalUrl: 'https://anavrin.media/'
 reachable: true
 noindex: false
@@ -58,7 +58,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

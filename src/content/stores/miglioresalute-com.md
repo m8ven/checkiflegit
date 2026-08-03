@@ -1,11 +1,11 @@
 ---
 domain: miglioresalute.com
 slug: miglioresalute-com
-title: Is miglioresalute.com Legit? Trust Score 61/100
+title: Is miglioresalute.com Legit? Trust Score 55/100
 description: >-
-  miglioresalute.com scores 61/100 on our public trust checks. No links to major
-  social platforms found.
-fetchedAt: '2026-06-25T02:44:26.756Z'
+  miglioresalute.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:01:32.058Z'
 finalUrl: 'https://miglioresalute.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,15 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 61
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.1 years ago.
+    - Established domain — registered 1.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,47 +32,47 @@ signals:
       finalUrl: 'https://miglioresalute.com/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: warn
-    value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-06-05'
-      ageDays: 384
-      ageYears: 1.1
-    detail: Registered 1.1 years ago (2025-06-05).
+      ageDays: 423
+      ageYears: 1.2
+    detail: Registered 1.2 years ago (2025-06-05).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-miglioresalute.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.1 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+miglioresalute.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Miglioresalute in the score above.
 

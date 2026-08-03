@@ -6,7 +6,7 @@ description: >-
   japancreditpayment.com scores 43/100 on our public trust checks. No public
   contact details detected on the homepage. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T03:43:25.026Z'
+fetchedAt: '2026-08-03T08:28:51.804Z'
 finalUrl: 'https://japancreditpayment.com/'
 reachable: true
 noindex: false
@@ -20,7 +20,7 @@ verdict:
   score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.3 years ago.
+    - Established domain — registered 5.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -59,16 +59,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 73
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-03-08'
-      ageDays: 1934
-      ageYears: 5.3
-    detail: Registered 5.3 years ago (2021-03-08).
+      ageDays: 1974
+      ageYears: 5.4
+    detail: Registered 5.4 years ago (2021-03-08).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for japancreditpayment.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 5.3 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for japancreditpayment.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 5.4 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Japancreditpayment in the score above.
 

@@ -4,8 +4,8 @@ slug: etbricks-co-uk
 title: Is etbricks.co.uk Legit? Trust Score 88/100
 description: >-
   etbricks.co.uk scores 88/100 on our public trust checks. Established domain —
-  registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:06.414Z'
+  registered 24.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:29:33.274Z'
 finalUrl: 'https://etbricks.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.4 years ago.
+    - Established domain — registered 24.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-03-09'
-      daysToExpiry: 258
+      daysToExpiry: 219
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2002-02-14'
-      ageDays: 8896
-      ageYears: 24.4
-    detail: Registered 24.4 years ago (2002-02-14).
+      ageDays: 8936
+      ageYears: 24.5
+    detail: Registered 24.5 years ago (2002-02-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-etbricks.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 24.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+etbricks.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 24.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Etbricks in the score above.
 

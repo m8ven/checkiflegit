@@ -4,8 +4,8 @@ slug: guidancewhiskey-com
 title: Is guidancewhiskey.com Legit? Trust Score 100/100
 description: >-
   guidancewhiskey.com scores 100/100 on our public trust checks. Established
-  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:45:04.421Z'
+  domain — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:48.076Z'
 finalUrl: 'https://guidancewhiskey.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.2 years ago.
+    - Established domain — registered 8.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-05-01'
-      ageDays: 2976
-      ageYears: 8.2
-    detail: Registered 8.2 years ago (2018-05-01).
+      ageDays: 3015
+      ageYears: 8.3
+    detail: Registered 8.3 years ago (2018-05-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-guidancewhiskey.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+guidancewhiskey.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Guidancewhiskey in the score above.
 

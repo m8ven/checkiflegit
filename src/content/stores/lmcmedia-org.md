@@ -1,24 +1,23 @@
 ---
 domain: lmcmedia.org
 slug: lmcmedia-org
-title: Is lmcmedia.org Legit? Trust Score 76/100
+title: Is lmcmedia.org Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  lmcmedia.org scores 76/100 on our public trust checks. Established domain —
-  registered 7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:50:01.004Z'
+  lmcmedia.org scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
+fetchedAt: '2026-08-03T08:34:23.870Z'
 finalUrl: 'https://lmcmedia.org/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 76
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 66
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +55,14 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-10-06'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2019-06-13'
-      ageDays: 2568
-      ageYears: 7
-    detail: Registered 7 years ago (2019-06-13).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: warn
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lmcmedia.org looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lmcmedia.org sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lmcmedia in the score above.
 

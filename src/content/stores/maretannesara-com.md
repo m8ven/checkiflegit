@@ -4,8 +4,8 @@ slug: maretannesara-com
 title: Is maretannesara.com Legit? Trust Score 88/100
 description: >-
   maretannesara.com scores 88/100 on our public trust checks. Established domain
-  — registered 17.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:11.068Z'
+  — registered 17.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:35:55.581Z'
 finalUrl: 'https://maretannesara.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.7 years ago.
+    - Established domain — registered 17.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-24'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-10-30'
-      ageDays: 6446
-      ageYears: 17.7
-    detail: Registered 17.7 years ago (2008-10-30).
+      ageDays: 6485
+      ageYears: 17.8
+    detail: Registered 17.8 years ago (2008-10-30).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-maretannesara.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+maretannesara.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Maretannesara in the score above.
 

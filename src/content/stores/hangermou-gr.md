@@ -5,7 +5,7 @@ title: Is hangermou.gr Legit? Trust Score 100/100
 description: >-
   hangermou.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:47:41.953Z'
+fetchedAt: '2026-08-03T08:32:37.761Z'
 finalUrl: 'https://hangermou.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-29'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: jackrabbitchocolate-nl
 title: Is jackrabbitchocolate.nl Legit? Trust Score 100/100
 description: >-
   jackrabbitchocolate.nl scores 100/100 on our public trust checks. Established
-  domain — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:43:15.496Z'
+  domain — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:28:45.368Z'
 finalUrl: 'https://jackrabbitchocolate.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.7 years ago.
+    - Established domain — registered 3.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-16'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-09-26'
-      ageDays: 1368
-      ageYears: 3.7
-    detail: Registered 3.7 years ago (2022-09-26).
+      ageDays: 1407
+      ageYears: 3.9
+    detail: Registered 3.9 years ago (2022-09-26).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jackrabbitchocolate.nl looks like a well-established store. The clearest positives are that its domain has been registered for 3.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jackrabbitchocolate.nl looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jackrabbitchocolate in the score above.
 

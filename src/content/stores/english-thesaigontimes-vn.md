@@ -1,12 +1,12 @@
 ---
 domain: english.thesaigontimes.vn
 slug: english-thesaigontimes-vn
-title: Is english.thesaigontimes.vn Legit? Trust Score 100/100
+title: Is english.thesaigontimes.vn Legit? Trust Score 74/100
 description: >-
-  english.thesaigontimes.vn scores 100/100 on our public trust checks. Valid
+  english.thesaigontimes.vn scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:38:54.115Z'
-finalUrl: 'https://english.thesaigontimes.vn/'
+fetchedAt: '2026-08-03T08:24:45.497Z'
+finalUrl: 'https://news.tuoitre.vn/saigontimes/index.htm'
 reachable: true
 noindex: false
 verdict:
@@ -15,33 +15,32 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 74
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
+    - Limited social media presence.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://english.thesaigontimes.vn/'
+      finalUrl: 'https://news.tuoitre.vn/saigontimes/index.htm'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -54,35 +53,33 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Sectigo Limited
-      validTo: '2026-09-06'
-      daysToExpiry: 74
+      issuer: Let's Encrypt
+      validTo: '2026-10-18'
+      daysToExpiry: 76
       authorized: true
-    detail: Valid certificate issued by Sectigo Limited.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null
     detail: 'WHOIS lookup failed: TLD for "english.thesaigontimes.vn" not supported'
   contact:
-    status: pass
+    status: warn
     value:
       email: false
       phone: true
-      address: true
-    detail: 'Public contact details found: phone, address.'
+      address: false
+    detail: 'Public contact details found: phone.'
   social:
-    status: pass
+    status: warn
     value:
       facebook: true
-      instagram: true
-      twitter: true
-      tiktok: true
-      youtube: true
+      instagram: false
+      twitter: false
+      tiktok: false
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, tiktok,
-      youtube.
+    detail: 'Links to 1 social platform(s): facebook.'
   reviews:
     status: unknown
     value:
@@ -93,7 +90,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-english.thesaigontimes.vn looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+english.thesaigontimes.vn looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against English in the score above.
 

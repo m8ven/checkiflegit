@@ -5,7 +5,7 @@ title: Is kastenwagenzubehoer.de Legit? Trust Score 100/100
 description: >-
   kastenwagenzubehoer.de scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:48:08.836Z'
+fetchedAt: '2026-08-03T08:33:05.634Z'
 finalUrl: 'https://kastenwagenzubehoer.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-26'
-      daysToExpiry: 185
+      daysToExpiry: 146
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

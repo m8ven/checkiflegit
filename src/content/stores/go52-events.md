@@ -5,7 +5,7 @@ title: Is go52.events Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   go52.events scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:47:04.496Z'
+fetchedAt: '2026-08-03T08:32:02.524Z'
 finalUrl: 'https://go52.events/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -6,7 +6,7 @@ description: >-
   tupoka.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-25T03:28:42.555Z'
+fetchedAt: '2026-08-03T08:16:59.258Z'
 finalUrl: 'https://www.tupoka.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-02'
-      daysToExpiry: 100
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

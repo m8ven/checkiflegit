@@ -4,8 +4,8 @@ slug: koopman-racing-nl
 title: Is koopman-racing.nl Legit? Trust Score 88/100
 description: >-
   koopman-racing.nl scores 88/100 on our public trust checks. Established domain
-  — registered 22.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:22:20.411Z'
+  — registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:11:59.250Z'
 finalUrl: 'https://www.koopman-racing.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 22.5 years ago.
+    - Established domain — registered 22.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-12-18'
-      ageDays: 8225
-      ageYears: 22.5
-    detail: Registered 22.5 years ago (2003-12-18).
+      ageDays: 8264
+      ageYears: 22.6
+    detail: Registered 22.6 years ago (2003-12-18).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-koopman-racing.nl looks like a well-established store. The clearest positives are that its domain has been registered for 22.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+koopman-racing.nl looks like a well-established store. The clearest positives are that its domain has been registered for 22.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Koopman-racing in the score above.
 

@@ -5,7 +5,7 @@ title: Is eventexpo.ba Legit? Trust Score 74/100
 description: >-
   eventexpo.ba scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:44:45.452Z'
+fetchedAt: '2026-08-03T08:30:30.529Z'
 finalUrl: 'https://eventexpo.ba/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

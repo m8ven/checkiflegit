@@ -5,7 +5,7 @@ title: Is pamacentre.org.au Legit? Trust Score 66/100
 description: >-
   pamacentre.org.au scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:19:48.524Z'
+fetchedAt: '2026-08-03T08:09:43.744Z'
 finalUrl: 'https://www.pamacentre.org.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 60
+      validTo: '2026-10-31'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

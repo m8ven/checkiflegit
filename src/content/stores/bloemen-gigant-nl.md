@@ -1,11 +1,11 @@
 ---
 domain: bloemen-gigant.nl
 slug: bloemen-gigant-nl
-title: Is bloemen-gigant.nl Legit? Trust Score 70/100
+title: Is bloemen-gigant.nl Legit? Trust Score 82/100
 description: >-
-  bloemen-gigant.nl scores 70/100 on our public trust checks. Established domain
-  — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:52.696Z'
+  bloemen-gigant.nl scores 82/100 on our public trust checks. Established domain
+  — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:02:30.765Z'
 finalUrl: 'https://bloemen-gigant.nl/'
 reachable: true
 noindex: false
@@ -15,14 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.6 years ago.
+    - Established domain — registered 6.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
     - Limited social media presence.
 signals:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-12-07'
-      ageDays: 2392
-      ageYears: 6.6
-    detail: Registered 6.6 years ago (2019-12-07).
+      ageDays: 2431
+      ageYears: 6.7
+    detail: Registered 6.7 years ago (2019-12-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bloemen-gigant.nl looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bloemen-gigant.nl looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bloemen-gigant in the score above.
 

@@ -5,7 +5,7 @@ title: Is kochleben.de Legit? Trust Score 100/100
 description: >-
   kochleben.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:48:42.954Z'
+fetchedAt: '2026-08-03T08:33:27.896Z'
 finalUrl: 'https://kochleben.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

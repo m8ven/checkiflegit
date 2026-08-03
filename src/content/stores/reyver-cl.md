@@ -5,7 +5,7 @@ title: Is reyver.cl Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   reyver.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:46:28.678Z'
+fetchedAt: '2026-08-03T08:31:34.145Z'
 finalUrl: 'https://reyver.cl/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 68
+      validTo: '2026-10-31'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

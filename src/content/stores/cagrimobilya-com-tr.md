@@ -5,7 +5,7 @@ title: Is cagrimobilya.com.tr Legit? Trust Score 57/100
 description: >-
   cagrimobilya.com.tr scores 57/100 on our public trust checks. Standard contact
   and policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:25:10.576Z'
+fetchedAt: '2026-08-03T08:13:51.439Z'
 finalUrl: 'https://cagrimobilya.com.tr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-16'
-      daysToExpiry: 22
+      validTo: '2026-09-27'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

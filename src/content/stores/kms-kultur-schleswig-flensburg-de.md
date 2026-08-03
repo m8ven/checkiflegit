@@ -6,7 +6,7 @@ description: >-
   kms.kultur-schleswig-flensburg.de scores 83/100 on our public trust checks.
   Valid HTTPS/SSL certificate in place. Public business contact details are
   listed.
-fetchedAt: '2026-06-25T03:51:56.380Z'
+fetchedAt: '2026-08-03T08:35:44.485Z'
 finalUrl: 'https://kms.kultur-schleswig-flensburg.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 71
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -69,8 +69,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

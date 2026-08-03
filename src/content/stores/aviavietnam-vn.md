@@ -1,28 +1,28 @@
 ---
 domain: aviavietnam.vn
 slug: aviavietnam-vn
-title: Is aviavietnam.vn Legit? Trust Score 57/100 — Mixed Signals
+title: Is aviavietnam.vn Legit? Trust Score 100/100
 description: >-
-  aviavietnam.vn scores 57/100 on our public trust checks. Standard contact and
-  policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:35:29.600Z'
+  aviavietnam.vn scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-03T08:22:12.016Z'
 finalUrl: 'https://aviavietnam.vn/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 57
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions: []
 signals:
   http:
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
-      terms: false
+      contact: true
+      privacy: true
+      terms: true
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-30'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aviavietnam.vn sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+aviavietnam.vn looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aviavietnam in the score above.
 

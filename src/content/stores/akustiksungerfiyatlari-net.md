@@ -1,30 +1,28 @@
 ---
 domain: akustiksungerfiyatlari.net
 slug: akustiksungerfiyatlari-net
-title: Is akustiksungerfiyatlari.net Legit? Trust Score 70/100
+title: Is akustiksungerfiyatlari.net Legit? Trust Score 55/100
 description: >-
-  akustiksungerfiyatlari.net scores 70/100 on our public trust checks.
-  Established domain — registered 14.5 years ago. Valid HTTPS/SSL certificate in
-  place.
-fetchedAt: '2026-06-25T03:33:33.592Z'
+  akustiksungerfiyatlari.net scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage.
+fetchedAt: '2026-08-03T08:20:48.970Z'
 finalUrl: 'https://akustiksungerfiyatlari.net/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.5 years ago.
+    - Established domain — registered 14.6 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
-    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions: []
 signals:
   http:
@@ -34,58 +32,58 @@ signals:
       finalUrl: 'https://akustiksungerfiyatlari.net/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      contact: true
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-12'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-01-06'
-      ageDays: 5283
-      ageYears: 14.5
-    detail: Registered 14.5 years ago (2012-01-06).
+      ageDays: 5322
+      ageYears: 14.6
+    detail: Registered 14.6 years ago (2012-01-06).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -96,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-akustiksungerfiyatlari.net looks like a well-established store. The clearest positives are that its domain has been registered for 14.5 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+akustiksungerfiyatlari.net sends a mixed set of signals. On the positive side, its domain has been registered for 14.6 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Akustiksungerfiyatlari in the score above.
 

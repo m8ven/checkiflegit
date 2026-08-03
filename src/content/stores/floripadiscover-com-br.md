@@ -5,7 +5,7 @@ title: Is floripadiscover.com.br Legit? Trust Score 57/100
 description: >-
   floripadiscover.com.br scores 57/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:45:26.485Z'
+fetchedAt: '2026-08-03T08:31:02.274Z'
 finalUrl: 'https://floripadiscover.com.br/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: false
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

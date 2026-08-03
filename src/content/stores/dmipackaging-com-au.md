@@ -5,7 +5,7 @@ title: Is dmipackaging.com.au Legit? Trust Score 61/100
 description: >-
   dmipackaging.com.au scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T03:01:18.465Z'
+fetchedAt: '2026-08-03T08:07:28.105Z'
 finalUrl: 'https://www.dmipackaging.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-01'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: mks-ivanovo-ru
 title: Is mks-ivanovo.ru Legit? Trust Score 85/100
 description: >-
   mks-ivanovo.ru scores 85/100 on our public trust checks. Established domain —
-  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:57.647Z'
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:33.466Z'
 finalUrl: 'https://mks-ivanovo.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.1 years ago.
+    - Established domain — registered 1.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-05-27'
-      ageDays: 393
-      ageYears: 1.1
-    detail: Registered 1.1 years ago (2025-05-27).
+      ageDays: 432
+      ageYears: 1.2
+    detail: Registered 1.2 years ago (2025-05-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mks-ivanovo.ru looks like a well-established store. The clearest positives are that its domain has been registered for 1.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mks-ivanovo.ru looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mks-ivanovo in the score above.
 

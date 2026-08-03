@@ -5,7 +5,7 @@ title: Is emilyandsteve.com.au Legit? Trust Score 100/100
 description: >-
   emilyandsteve.com.au scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:16.325Z'
+fetchedAt: '2026-08-03T08:27:34.900Z'
 finalUrl: 'https://emilyandsteve.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-13'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

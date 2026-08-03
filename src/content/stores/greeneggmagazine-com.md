@@ -4,8 +4,8 @@ slug: greeneggmagazine-com
 title: Is greeneggmagazine.com Legit? Trust Score 82/100
 description: >-
   greeneggmagazine.com scores 82/100 on our public trust checks. Established
-  domain — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:51.908Z'
+  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:35.713Z'
 finalUrl: 'https://greeneggmagazine.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.4 years ago.
+    - Established domain — registered 6.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Sectigo Limited
-      validTo: '2026-07-23'
-      daysToExpiry: 29
+      validTo: '2027-01-22'
+      daysToExpiry: 173
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2020-01-13'
-      ageDays: 2354
-      ageYears: 6.4
-    detail: Registered 6.4 years ago (2020-01-13).
+      ageDays: 2393
+      ageYears: 6.6
+    detail: Registered 6.6 years ago (2020-01-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-greeneggmagazine.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+greeneggmagazine.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Greeneggmagazine in the score above.
 

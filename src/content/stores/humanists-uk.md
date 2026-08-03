@@ -4,8 +4,8 @@ slug: humanists-uk
 title: Is humanists.uk Legit? Trust Score 100/100
 description: >-
   humanists.uk scores 100/100 on our public trust checks. Established domain —
-  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:48:42.364Z'
+  registered 10 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:33:25.830Z'
 finalUrl: 'https://humanists.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.9 years ago.
+    - Established domain — registered 10 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-22'
-      daysToExpiry: 89
+      validTo: '2026-10-01'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-08-10'
-      ageDays: 3605
-      ageYears: 9.9
-    detail: Registered 9.9 years ago (2016-08-10).
+      ageDays: 3645
+      ageYears: 10
+    detail: Registered 10 years ago (2016-08-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-humanists.uk looks like a well-established store. The clearest positives are that its domain has been registered for 9.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+humanists.uk looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Humanists in the score above.
 

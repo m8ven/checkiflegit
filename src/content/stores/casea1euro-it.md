@@ -4,8 +4,8 @@ slug: casea1euro-it
 title: Is casea1euro.it Legit? Trust Score 82/100
 description: >-
   casea1euro.it scores 82/100 on our public trust checks. Established domain —
-  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:19.042Z'
+  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:08.058Z'
 finalUrl: 'https://casea1euro.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.6 years ago.
+    - Established domain — registered 10.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-03'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-11-24'
-      ageDays: 3865
-      ageYears: 10.6
-    detail: Registered 10.6 years ago (2015-11-24).
+      ageDays: 3904
+      ageYears: 10.7
+    detail: Registered 10.7 years ago (2015-11-24).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-casea1euro.it looks like a well-established store. The clearest positives are that its domain has been registered for 10.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+casea1euro.it looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Casea1euro in the score above.
 

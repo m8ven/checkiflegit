@@ -5,7 +5,7 @@ title: Is bloem-o-theek.nl Legit? Trust Score 52/100
 description: >-
   bloem-o-theek.nl scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:36:49.438Z'
+fetchedAt: '2026-08-03T08:23:34.706Z'
 finalUrl: 'https://bloem-o-theek.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.2 years ago.
+    - Established domain — registered 5.3 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-04-04'
-      ageDays: 1908
-      ageYears: 5.2
-    detail: Registered 5.2 years ago (2021-04-04).
+      ageDays: 1947
+      ageYears: 5.3
+    detail: Registered 5.3 years ago (2021-04-04).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bloem-o-theek.nl sends a mixed set of signals. On the positive side, its domain has been registered for 5.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+bloem-o-theek.nl sends a mixed set of signals. On the positive side, its domain has been registered for 5.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bloem-o-theek in the score above.
 

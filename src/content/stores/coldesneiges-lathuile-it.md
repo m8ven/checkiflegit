@@ -4,8 +4,8 @@ slug: coldesneiges-lathuile-it
 title: Is coldesneiges-lathuile.it Legit? Trust Score 73/100
 description: >-
   coldesneiges-lathuile.it scores 73/100 on our public trust checks. Established
-  domain — registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:29:59.757Z'
+  domain — registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:17:57.085Z'
 finalUrl: 'https://coldesneiges-lathuile.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.7 years ago.
+    - Established domain — registered 9.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 30
+      validTo: '2026-09-23'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-10-06'
-      ageDays: 3548
-      ageYears: 9.7
-    detail: Registered 9.7 years ago (2016-10-06).
+      ageDays: 3587
+      ageYears: 9.8
+    detail: Registered 9.8 years ago (2016-10-06).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-coldesneiges-lathuile.it looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+coldesneiges-lathuile.it looks like a well-established store. The clearest positives are that its domain has been registered for 9.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Coldesneiges-lathuile in the score above.
 

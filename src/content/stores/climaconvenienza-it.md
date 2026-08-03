@@ -4,8 +4,8 @@ slug: climaconvenienza-it
 title: Is climaconvenienza.it Legit? Trust Score 100/100
 description: >-
   climaconvenienza.it scores 100/100 on our public trust checks. Established
-  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:00:08.911Z'
+  domain — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:06:44.189Z'
 finalUrl: 'https://www.climaconvenienza.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 8.2 years ago.
+    - Established domain — registered 8.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-04-09'
-      ageDays: 2998
-      ageYears: 8.2
-    detail: Registered 8.2 years ago (2018-04-09).
+      ageDays: 3037
+      ageYears: 8.3
+    detail: Registered 8.3 years ago (2018-04-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-climaconvenienza.it looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+climaconvenienza.it looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Climaconvenienza in the score above.
 

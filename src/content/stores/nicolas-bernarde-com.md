@@ -4,8 +4,8 @@ slug: nicolas-bernarde-com
 title: Is nicolas-bernarde.com Legit? Trust Score 100/100
 description: >-
   nicolas-bernarde.com scores 100/100 on our public trust checks. Established
-  domain — registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:01:20.615Z'
+  domain — registered 20.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:07:31.057Z'
 finalUrl: 'https://nicolas-bernarde.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.5 years ago.
+    - Established domain — registered 20.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-26'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2005-12-22'
-      ageDays: 7489
-      ageYears: 20.5
-    detail: Registered 20.5 years ago (2005-12-22).
+      ageDays: 7528
+      ageYears: 20.6
+    detail: Registered 20.6 years ago (2005-12-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nicolas-bernarde.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nicolas-bernarde.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nicolas-bernarde in the score above.
 

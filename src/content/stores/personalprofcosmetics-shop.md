@@ -1,28 +1,28 @@
 ---
 domain: personalprofcosmetics.shop
 slug: personalprofcosmetics-shop
-title: Is personalprofcosmetics.shop Legit? Trust Score 66/100
+title: Is personalprofcosmetics.shop Legit? Trust Score 83/100
 description: >-
-  personalprofcosmetics.shop scores 66/100 on our public trust checks. Some
-  standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:20:16.256Z'
+  personalprofcosmetics.shop scores 83/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:10:17.251Z'
 finalUrl: 'https://www.personalprofcosmetics.shop/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 66
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 83
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
       terms: false
       refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-personalprofcosmetics.shop sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+personalprofcosmetics.shop looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Personalprofcosmetics in the score above.
 

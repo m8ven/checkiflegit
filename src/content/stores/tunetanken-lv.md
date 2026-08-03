@@ -6,7 +6,7 @@ description: >-
   tunetanken.lv scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T02:54:40.741Z'
+fetchedAt: '2026-08-03T08:03:01.177Z'
 finalUrl: 'https://tunetanken.lv/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
@@ -69,8 +69,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

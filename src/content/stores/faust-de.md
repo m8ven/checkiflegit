@@ -6,7 +6,7 @@ description: >-
   faust.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-25T03:46:37.560Z'
+fetchedAt: '2026-08-03T08:31:46.511Z'
 finalUrl: 'https://faust.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-08'
-      daysToExpiry: 167
+      daysToExpiry: 128
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -69,8 +69,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

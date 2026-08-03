@@ -5,7 +5,7 @@ title: Is goldundco.at Legit? Trust Score 100/100
 description: >-
   goldundco.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:19:25.076Z'
+fetchedAt: '2026-08-03T08:09:27.733Z'
 finalUrl: 'https://www.goldundco.at/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -78,9 +78,9 @@ signals:
       twitter: false
       tiktok: false
       youtube: true
-      linkedin: false
+      linkedin: true
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
+    detail: 'Links to 4 social platform(s): facebook, instagram, youtube, linkedin.'
   reviews:
     status: unknown
     value:

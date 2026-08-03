@@ -5,7 +5,7 @@ title: Is bikeis.life Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   bikeis.life scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:36:34.934Z'
+fetchedAt: '2026-08-03T08:23:15.885Z'
 finalUrl: 'https://bikeis.life/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-19'
-      daysToExpiry: 56
+      daysToExpiry: 17
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

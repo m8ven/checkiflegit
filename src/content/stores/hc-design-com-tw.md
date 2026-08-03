@@ -5,7 +5,7 @@ title: Is hc-design.com.tw Legit? Trust Score 66/100
 description: >-
   hc-design.com.tw scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:59:48.417Z'
+fetchedAt: '2026-08-03T08:06:32.780Z'
 finalUrl: 'https://www.hc-design.com.tw/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

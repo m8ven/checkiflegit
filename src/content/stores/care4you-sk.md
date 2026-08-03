@@ -5,7 +5,7 @@ title: Is care4you.sk Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   care4you.sk scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:38:25.156Z'
+fetchedAt: '2026-08-03T08:24:30.405Z'
 finalUrl: 'https://care4you.sk/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

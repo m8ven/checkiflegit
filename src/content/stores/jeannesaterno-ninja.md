@@ -5,7 +5,7 @@ title: Is jeannesaterno.ninja Legit? Trust Score 74/100
 description: >-
   jeannesaterno.ninja scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:50:34.699Z'
+fetchedAt: '2026-08-03T08:34:56.602Z'
 finalUrl: 'https://jeannesaterno.ninja/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 43
+      validTo: '2026-10-18'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

@@ -5,7 +5,7 @@ title: Is tv-buehl-leichtathletik.de Legit? Trust Score 14/100
 description: >-
   tv-buehl-leichtathletik.de scores 14/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:32:30.712Z'
+fetchedAt: '2026-08-03T08:20:06.805Z'
 finalUrl: 'http://www.tv-buehl-leichtathletik.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-02'
-      daysToExpiry: 131
+      daysToExpiry: 92
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:

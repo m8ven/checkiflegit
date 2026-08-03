@@ -5,7 +5,7 @@ title: Is disgalmaquinaria.es Legit? Trust Score 83/100
 description: >-
   disgalmaquinaria.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:36:41.391Z'
+fetchedAt: '2026-08-03T08:23:24.831Z'
 finalUrl: 'https://disgalmaquinaria.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-31'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

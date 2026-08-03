@@ -5,7 +5,7 @@ title: Is zunar.my Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   zunar.my scores 58/100 on our public trust checks. Standard contact and policy
   pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:30:10.377Z'
+fetchedAt: '2026-08-03T08:18:05.586Z'
 finalUrl: 'https://zunar.my/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.4 years ago.
+    - Established domain — registered 13.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-02-13'
-      ageDays: 4879
-      ageYears: 13.4
-    detail: Registered 13.4 years ago (2013-02-13).
+      ageDays: 4918
+      ageYears: 13.5
+    detail: Registered 13.5 years ago (2013-02-13).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-zunar.my sends a mixed set of signals. On the positive side, its domain has been registered for 13.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+zunar.my sends a mixed set of signals. On the positive side, its domain has been registered for 13.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Zunar in the score above.
 

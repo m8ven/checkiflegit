@@ -4,8 +4,8 @@ slug: complete-water-com
 title: Is complete-water.com Legit? Trust Score 100/100
 description: >-
   complete-water.com scores 100/100 on our public trust checks. Established
-  domain — registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:39:46.501Z'
+  domain — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:25:20.054Z'
 finalUrl: 'https://complete-water.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.8 years ago.
+    - Established domain — registered 12.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -38,10 +38,10 @@ signals:
       platform: WooCommerce
       isStore: true
       markers:
-        hasAddToCart: false
+        hasAddToCart: true
         hasCartLink: true
         hasCatalog: true
-        hasCartFlow: false
+        hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: pass
@@ -55,25 +55,25 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      issuer: Google Trust Services
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-09-11'
-      ageDays: 4669
-      ageYears: 12.8
-    detail: Registered 12.8 years ago (2013-09-11).
+      ageDays: 4708
+      ageYears: 12.9
+    detail: Registered 12.9 years ago (2013-09-11).
   contact:
     status: pass
     value:
-      email: true
+      email: false
       phone: true
       address: true
-    detail: 'Public contact details found: email, phone, address.'
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-complete-water.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+complete-water.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Complete-water in the score above.
 

@@ -4,8 +4,8 @@ slug: golfyouup-com
 title: Is golfyouup.com Legit? Trust Score 100/100
 description: >-
   golfyouup.com scores 100/100 on our public trust checks. Established domain —
-  registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:19:26.434Z'
+  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:09:32.810Z'
 finalUrl: 'https://www.golfyouup.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.3 years ago.
+    - Established domain — registered 16.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-29'
-      daysToExpiry: 158
+      daysToExpiry: 119
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2010-02-26'
-      ageDays: 5962
-      ageYears: 16.3
-    detail: Registered 16.3 years ago (2010-02-26).
+      ageDays: 6001
+      ageYears: 16.4
+    detail: Registered 16.4 years ago (2010-02-26).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-golfyouup.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+golfyouup.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Golfyouup in the score above.
 

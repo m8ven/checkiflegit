@@ -5,7 +5,7 @@ title: Is jeronimo-naturpur.de Legit? Trust Score 79/100
 description: >-
   jeronimo-naturpur.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:50:46.917Z'
+fetchedAt: '2026-08-03T08:34:58.534Z'
 finalUrl: 'https://jeronimo-naturpur.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

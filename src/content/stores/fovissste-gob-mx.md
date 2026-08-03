@@ -4,8 +4,8 @@ slug: fovissste-gob-mx
 title: Is fovissste.gob.mx Legit? Trust Score 100/100
 description: >-
   fovissste.gob.mx scores 100/100 on our public trust checks. Established domain
-  — registered 24 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:49:33.114Z'
+  — registered 24.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:34:04.385Z'
 finalUrl: 'https://fovissste.gob.mx/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24 years ago.
+    - Established domain — registered 24.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-28'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-06-28'
-      ageDays: 8763
-      ageYears: 24
-    detail: Registered 24 years ago (2002-06-28).
+      ageDays: 8802
+      ageYears: 24.1
+    detail: Registered 24.1 years ago (2002-06-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fovissste.gob.mx looks like a well-established store. The clearest positives are that its domain has been registered for 24 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fovissste.gob.mx looks like a well-established store. The clearest positives are that its domain has been registered for 24.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fovissste in the score above.
 

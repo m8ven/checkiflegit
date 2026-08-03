@@ -4,8 +4,8 @@ slug: greenspoon-co-ke
 title: Is greenspoon.co.ke Legit? Trust Score 100/100
 description: >-
   greenspoon.co.ke scores 100/100 on our public trust checks. Established domain
-  — registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:47:20.237Z'
+  — registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:32:18.210Z'
 finalUrl: 'https://greenspoon.co.ke/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.7 years ago.
+    - Established domain — registered 10.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-24'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2015-10-19'
-      ageDays: 3901
-      ageYears: 10.7
-    detail: Registered 10.7 years ago (2015-10-19).
+      ageDays: 3940
+      ageYears: 10.8
+    detail: Registered 10.8 years ago (2015-10-19).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-greenspoon.co.ke looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+greenspoon.co.ke looks like a well-established store. The clearest positives are that its domain has been registered for 10.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Greenspoon in the score above.
 

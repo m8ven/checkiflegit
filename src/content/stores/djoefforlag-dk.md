@@ -4,8 +4,8 @@ slug: djoefforlag-dk
 title: Is djoefforlag.dk Legit? Trust Score 94/100
 description: >-
   djoefforlag.dk scores 94/100 on our public trust checks. Established domain —
-  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:42.629Z'
+  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:20:24.010Z'
 finalUrl: 'https://djoefforlag.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-02-02'
-      ageDays: 1969
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-02-02).
+      ageDays: 2008
+      ageYears: 5.5
+    detail: Registered 5.5 years ago (2021-02-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-djoefforlag.dk looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+djoefforlag.dk looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Djoefforlag in the score above.
 

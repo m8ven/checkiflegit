@@ -4,8 +4,8 @@ slug: laportedelhistoire-fr
 title: Is laportedelhistoire.fr Legit? Trust Score 100/100
 description: >-
   laportedelhistoire.fr scores 100/100 on our public trust checks. Established
-  domain — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:01:50.768Z'
+  domain — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:07:47.539Z'
 finalUrl: 'https://www.laportedelhistoire.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.1 years ago.
+    - Established domain — registered 7.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 69
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-05-16'
-      ageDays: 2596
-      ageYears: 7.1
-    detail: Registered 7.1 years ago (2019-05-16).
+      ageDays: 2635
+      ageYears: 7.2
+    detail: Registered 7.2 years ago (2019-05-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-laportedelhistoire.fr looks like a well-established store. The clearest positives are that its domain has been registered for 7.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+laportedelhistoire.fr looks like a well-established store. The clearest positives are that its domain has been registered for 7.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Laportedelhistoire in the score above.
 

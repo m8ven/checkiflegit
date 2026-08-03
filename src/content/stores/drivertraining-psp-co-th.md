@@ -5,7 +5,7 @@ title: Is drivertraining.psp.co.th Legit? Trust Score 61/100
 description: >-
   drivertraining.psp.co.th scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T03:34:36.859Z'
+fetchedAt: '2026-08-03T08:21:33.510Z'
 finalUrl: 'https://drivertraining.psp.co.th/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 69
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

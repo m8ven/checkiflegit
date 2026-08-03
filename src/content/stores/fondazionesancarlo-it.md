@@ -4,8 +4,8 @@ slug: fondazionesancarlo-it
 title: Is fondazionesancarlo.it Legit? Trust Score 100/100
 description: >-
   fondazionesancarlo.it scores 100/100 on our public trust checks. Established
-  domain — registered 28.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:58:37.951Z'
+  domain — registered 28.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:05:38.793Z'
 finalUrl: 'https://www.fondazionesancarlo.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.7 years ago.
+    - Established domain — registered 28.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-15'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-10-31'
-      ageDays: 10463
-      ageYears: 28.7
-    detail: Registered 28.7 years ago (1997-10-31).
+      ageDays: 10503
+      ageYears: 28.8
+    detail: Registered 28.8 years ago (1997-10-31).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fondazionesancarlo.it looks like a well-established store. The clearest positives are that its domain has been registered for 28.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fondazionesancarlo.it looks like a well-established store. The clearest positives are that its domain has been registered for 28.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fondazionesancarlo in the score above.
 

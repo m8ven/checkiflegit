@@ -6,7 +6,7 @@ description: >-
   cemon.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-25T03:00:28.674Z'
+fetchedAt: '2026-08-03T08:06:59.268Z'
 finalUrl: 'https://cemon.eu/'
 reachable: true
 noindex: false
@@ -49,15 +49,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -69,8 +69,8 @@ signals:
     value:
       email: true
       phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      address: false
+    detail: 'Public contact details found: email, phone.'
   social:
     status: pass
     value:

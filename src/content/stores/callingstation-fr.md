@@ -1,28 +1,27 @@
 ---
 domain: callingstation.fr
 slug: callingstation-fr
-title: Is callingstation.fr Legit? Trust Score 40/100
+title: Is callingstation.fr Legit? Trust Score 70/100
 description: >-
-  callingstation.fr scores 40/100 on our public trust checks. No valid SSL
-  certificate — connection may not be secure. Domain is relatively young.
-fetchedAt: '2026-06-25T02:59:04.607Z'
+  callingstation.fr scores 70/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
+fetchedAt: '2026-08-03T08:05:54.844Z'
 finalUrl: 'https://callingstation.fr/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 40
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No valid SSL certificate — connection may not be secure.
+  redFlags: []
   cautions:
     - Domain is relatively young.
     - Some standard policy or contact pages appear to be missing.
@@ -54,18 +53,20 @@ signals:
       shipping: false
     detail: 'Found 1 policy page(s), no contact page.'
   ssl:
-    status: fail
-    value: null
-    detail: >-
-      TLS connection failed: Client network socket disconnected before secure
-      TLS connection was established
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-09-21'
+      daysToExpiry: 50
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-28'
-      ageDays: 239
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-10-28).
+      ageDays: 278
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-10-28).
   contact:
     status: pass
     value:
@@ -94,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for callingstation.fr. In particular, the domain is still relatively young and some standard contact or policy pages appear to be missing. It does have some positives — it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+callingstation.fr looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that the domain is still relatively young and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Callingstation in the score above.
 

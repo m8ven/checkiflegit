@@ -5,7 +5,7 @@ title: Is bannercity.com.au Legit? Trust Score 61/100
 description: >-
   bannercity.com.au scores 61/100 on our public trust checks. No links to major
   social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:35:48.029Z'
+fetchedAt: '2026-08-03T08:22:30.026Z'
 finalUrl: 'https://bannercity.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-05'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

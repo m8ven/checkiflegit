@@ -1,11 +1,11 @@
 ---
 domain: softennyt.dk
 slug: softennyt-dk
-title: Is softennyt.dk Legit? Trust Score 88/100
+title: Is softennyt.dk Legit? Trust Score 70/100
 description: >-
-  softennyt.dk scores 88/100 on our public trust checks. Established domain —
-  registered 5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:27:34.286Z'
+  softennyt.dk scores 70/100 on our public trust checks. Established domain —
+  registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:16:12.456Z'
 finalUrl: 'https://www.softennyt.dk/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5 years ago.
+    - Established domain — registered 5.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  redFlags:
+    - Standard contact and policy pages were not found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-06-12'
-      ageDays: 1839
-      ageYears: 5
-    detail: Registered 5 years ago (2021-06-12).
+      ageDays: 1878
+      ageYears: 5.1
+    detail: Registered 5.1 years ago (2021-06-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-softennyt.dk looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+softennyt.dk looks like a well-established store. The clearest positives are that its domain has been registered for 5.1 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Softennyt in the score above.
 

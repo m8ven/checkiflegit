@@ -1,11 +1,11 @@
 ---
 domain: eko-textile.ru
 slug: eko-textile-ru
-title: Is eko-textile.ru Legit? Trust Score 88/100
+title: Is eko-textile.ru Legit? Trust Score 100/100
 description: >-
-  eko-textile.ru scores 88/100 on our public trust checks. Established domain —
-  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:41:55.662Z'
+  eko-textile.ru scores 100/100 on our public trust checks. Established domain —
+  registered 10 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:27:22.400Z'
 finalUrl: 'https://eko-textile.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.9 years ago.
+    - Established domain — registered 10 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-30'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-07-18'
-      ageDays: 3628
-      ageYears: 9.9
-    detail: Registered 9.9 years ago (2016-07-18).
+      ageDays: 3667
+      ageYears: 10
+    detail: Registered 10 years ago (2016-07-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eko-textile.ru looks like a well-established store. The clearest positives are that its domain has been registered for 9.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eko-textile.ru looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eko-textile in the score above.
 

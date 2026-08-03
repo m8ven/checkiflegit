@@ -4,8 +4,8 @@ slug: calpe-magazin-com
 title: Is calpe-magazin.com Legit? Trust Score 88/100
 description: >-
   calpe-magazin.com scores 88/100 on our public trust checks. Established domain
-  — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:59:05.885Z'
+  — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:05:55.824Z'
 finalUrl: 'https://calpe-magazin.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.5 years ago.
+    - Established domain — registered 2.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-01-07'
-      ageDays: 899
-      ageYears: 2.5
-    detail: Registered 2.5 years ago (2024-01-07).
+      ageDays: 938
+      ageYears: 2.6
+    detail: Registered 2.6 years ago (2024-01-07).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-calpe-magazin.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+calpe-magazin.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Calpe-magazin in the score above.
 

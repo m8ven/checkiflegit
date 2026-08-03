@@ -5,7 +5,7 @@ title: Is dream-chasers.de Legit? Trust Score 83/100
 description: >-
   dream-chasers.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:27:01.975Z'
+fetchedAt: '2026-08-03T08:15:32.359Z'
 finalUrl: 'https://dream-chasers.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-01'
-      daysToExpiry: 99
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

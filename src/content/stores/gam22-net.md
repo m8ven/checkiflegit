@@ -1,11 +1,11 @@
 ---
 domain: gam22.net
 slug: gam22-net
-title: Is gam22.net Legit? Trust Score 61/100 — Mixed Signals
+title: Is gam22.net Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  gam22.net scores 61/100 on our public trust checks. No links to major social
-  platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:51:14.650Z'
+  gam22.net scores 55/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:35:11.186Z'
 finalUrl: 'https://gam22.net/'
 reachable: true
 noindex: false
@@ -15,16 +15,15 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 61
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.5 years ago.
+    - Established domain — registered 2.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,47 +32,47 @@ signals:
       finalUrl: 'https://gam22.net/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 66
+      validTo: '2026-10-29'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-12-11'
-      ageDays: 926
-      ageYears: 2.5
-    detail: Registered 2.5 years ago (2023-12-11).
+      ageDays: 966
+      ageYears: 2.6
+    detail: Registered 2.6 years ago (2023-12-11).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gam22.net sends a mixed set of signals. On the positive side, its domain has been registered for 2.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+gam22.net sends a mixed set of signals. On the positive side, its domain has been registered for 2.6 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gam22 in the score above.
 

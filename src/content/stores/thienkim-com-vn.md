@@ -5,7 +5,7 @@ title: Is thienkim.com.vn Legit? Trust Score 44/100
 description: >-
   thienkim.com.vn scores 44/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:53:53.475Z'
+fetchedAt: '2026-08-03T08:02:31.479Z'
 finalUrl: 'https://thienkim.com.vn/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

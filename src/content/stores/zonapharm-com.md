@@ -1,30 +1,31 @@
 ---
 domain: zonapharm.com
 slug: zonapharm-com
-title: Is zonapharm.com Legit? Trust Score 88/100
+title: Is zonapharm.com Legit? Trust Score 25/100
 description: >-
-  zonapharm.com scores 88/100 on our public trust checks. Established domain —
-  registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:09.267Z'
+  zonapharm.com scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
+fetchedAt: '2026-08-03T08:14:57.269Z'
 finalUrl: 'https://zonapharm.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 88
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 25
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.7 years ago.
+    - Established domain — registered 12.8 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  redFlags:
+    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,58 +34,58 @@ signals:
       finalUrl: 'https://zonapharm.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: DigiCert Inc
       validTo: '2027-03-12'
-      daysToExpiry: 261
+      daysToExpiry: 222
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2013-10-15'
-      ageDays: 4635
-      ageYears: 12.7
-    detail: Registered 12.7 years ago (2013-10-15).
+      ageDays: 4674
+      ageYears: 12.8
+    detail: Registered 12.8 years ago (2013-10-15).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-zonapharm.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for zonapharm.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 12.8 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Zonapharm in the score above.
 

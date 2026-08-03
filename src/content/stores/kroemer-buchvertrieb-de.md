@@ -5,7 +5,7 @@ title: Is kroemer-buchvertrieb.de Legit? Trust Score 61/100
 description: >-
   kroemer-buchvertrieb.de scores 61/100 on our public trust checks. No links to
   major social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:47:10.610Z'
+fetchedAt: '2026-08-03T08:32:08.238Z'
 finalUrl: 'https://kroemer-buchvertrieb.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-27'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

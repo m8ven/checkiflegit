@@ -1,30 +1,29 @@
 ---
 domain: chinesemedicinecompany.com
 slug: chinesemedicinecompany-com
-title: Is chinesemedicinecompany.com Legit? Trust Score 70/100
+title: Is chinesemedicinecompany.com Legit? Trust Score 55/100
 description: >-
-  chinesemedicinecompany.com scores 70/100 on our public trust checks.
-  Established domain — registered 12.9 years ago. Valid HTTPS/SSL certificate in
-  place.
-fetchedAt: '2026-06-25T03:27:46.229Z'
+  chinesemedicinecompany.com scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage.
+fetchedAt: '2026-08-03T08:16:24.851Z'
 finalUrl: 'https://chinesemedicinecompany.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.9 years ago.
+    - Established domain — registered 13 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions: []
 signals:
   http:
@@ -58,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-07-30'
-      ageDays: 4712
-      ageYears: 12.9
-    detail: Registered 12.9 years ago (2013-07-30).
+      ageDays: 4751
+      ageYears: 13
+    detail: Registered 13 years ago (2013-07-30).
   contact:
     status: fail
     value:
@@ -76,16 +75,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
-      twitter: true
+      facebook: false
+      instagram: false
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-chinesemedicinecompany.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+chinesemedicinecompany.com sends a mixed set of signals. On the positive side, its domain has been registered for 13 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Chinesemedicinecompany in the score above.
 

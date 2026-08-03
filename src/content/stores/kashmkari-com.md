@@ -4,8 +4,8 @@ slug: kashmkari-com
 title: Is kashmkari.com Legit? Trust Score 88/100
 description: >-
   kashmkari.com scores 88/100 on our public trust checks. Established domain —
-  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:49.862Z'
+  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:32.903Z'
 finalUrl: 'https://kashmkari.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 4.1 years ago.
+    - Established domain — registered 4.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-06-02'
-      ageDays: 1483
-      ageYears: 4.1
-    detail: Registered 4.1 years ago (2022-06-02).
+      ageDays: 1522
+      ageYears: 4.2
+    detail: Registered 4.2 years ago (2022-06-02).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kashmkari.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kashmkari.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kashmkari in the score above.
 

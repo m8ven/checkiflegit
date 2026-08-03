@@ -4,8 +4,8 @@ slug: maperi-com
 title: Is maperi.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   maperi.com scores 100/100 on our public trust checks. Established domain —
-  registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:31:00.871Z'
+  registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:19:08.015Z'
 finalUrl: 'https://www.maperi.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.6 years ago.
+    - Established domain — registered 21.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-02'
-      daysToExpiry: 192
+      daysToExpiry: 153
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2004-11-13'
-      ageDays: 7893
-      ageYears: 21.6
-    detail: Registered 21.6 years ago (2004-11-13).
+      ageDays: 7932
+      ageYears: 21.7
+    detail: Registered 21.7 years ago (2004-11-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-maperi.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+maperi.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Maperi in the score above.
 

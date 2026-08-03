@@ -5,7 +5,7 @@ title: Is manteleriaymenaje.es Legit? Trust Score 100/100
 description: >-
   manteleriaymenaje.es scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:03.137Z'
+fetchedAt: '2026-08-03T08:35:48.386Z'
 finalUrl: 'https://manteleriaymenaje.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-03'
-      daysToExpiry: 8
+      validTo: '2026-09-24'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

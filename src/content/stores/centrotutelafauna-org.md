@@ -1,30 +1,30 @@
 ---
 domain: centrotutelafauna.org
 slug: centrotutelafauna-org
-title: Is centrotutelafauna.org Legit? Trust Score 88/100
+title: Is centrotutelafauna.org Legit? Trust Score 36/100
 description: >-
-  centrotutelafauna.org scores 88/100 on our public trust checks. Established
-  domain — registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:59.577Z'
+  centrotutelafauna.org scores 36/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
+fetchedAt: '2026-08-03T08:15:32.281Z'
 finalUrl: 'https://centrotutelafauna.org/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 88
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 36
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.7 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,58 +33,55 @@ signals:
       finalUrl: 'https://centrotutelafauna.org/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 52
+      validTo: '2026-10-15'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2000-10-03'
-      ageDays: 9395
-      ageYears: 25.7
-    detail: Registered 25.7 years ago (2000-10-03).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
-      youtube: true
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-centrotutelafauna.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for centrotutelafauna.org. In particular, there are no clear public contact details and it has little or no social media footprint. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Centrotutelafauna in the score above.
 

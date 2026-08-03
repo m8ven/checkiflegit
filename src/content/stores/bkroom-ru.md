@@ -4,8 +4,8 @@ slug: bkroom-ru
 title: Is bkroom.ru Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   bkroom.ru scores 88/100 on our public trust checks. Established domain —
-  registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:51.673Z'
+  registered 15.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:23:34.762Z'
 finalUrl: 'https://bkroom.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.5 years ago.
+    - Established domain — registered 15.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-12-15'
-      ageDays: 5670
-      ageYears: 15.5
-    detail: Registered 15.5 years ago (2010-12-15).
+      ageDays: 5709
+      ageYears: 15.6
+    detail: Registered 15.6 years ago (2010-12-15).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bkroom.ru looks like a well-established store. The clearest positives are that its domain has been registered for 15.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bkroom.ru looks like a well-established store. The clearest positives are that its domain has been registered for 15.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bkroom in the score above.
 

@@ -1,90 +1,91 @@
 ---
 domain: pohjahoovel.ee
 slug: pohjahoovel-ee
-title: Is pohjahoovel.ee Legit? Trust Score 70/100
+title: Is pohjahoovel.ee Legit? Trust Score 13/100
 description: >-
-  pohjahoovel.ee scores 70/100 on our public trust checks. Established domain —
-  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:48.313Z'
-finalUrl: 'https://pohjahoovel.ee/'
+  pohjahoovel.ee scores 13/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
+fetchedAt: '2026-08-03T08:20:24.488Z'
+finalUrl: 'http://pohjahoovel.ee/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 13
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.4 years ago.
-    - Valid HTTPS/SSL certificate in place.
-  redFlags: []
+    - Established domain — registered 6.5 years ago.
+  redFlags:
+    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
-    - Limited social media presence.
+    - HTTPS certificate present but its trust chain is incomplete.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://pohjahoovel.ee/'
+      finalUrl: 'http://pohjahoovel.ee/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
-      terms: true
+      terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: pass
+    status: warn
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+      issuer: Sectigo Limited
+      validTo: '2027-01-03'
+      daysToExpiry: 154
+      authorized: false
+    detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2020-02-10'
-      ageDays: 2326
-      ageYears: 6.4
-    detail: Registered 6.4 years ago (2020-02-10).
+      ageDays: 2365
+      ageYears: 6.5
+    detail: Registered 6.5 years ago (2020-02-10).
   contact:
-    status: warn
+    status: fail
     value:
-      email: true
+      email: false
       phone: false
       address: false
-    detail: 'Public contact details found: email.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pohjahoovel.ee looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for pohjahoovel.ee. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 6.5 years — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pohjahoovel in the score above.
 

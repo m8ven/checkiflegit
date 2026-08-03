@@ -5,7 +5,7 @@ title: Is italianhome.de Legit? Trust Score 91/100
 description: >-
   italianhome.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:50:16.136Z'
+fetchedAt: '2026-08-03T08:34:29.134Z'
 finalUrl: 'https://italianhome.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-30'
-      daysToExpiry: 189
+      daysToExpiry: 150
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

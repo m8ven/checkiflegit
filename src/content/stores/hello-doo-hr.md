@@ -1,27 +1,27 @@
 ---
 domain: hello-doo.hr
 slug: hello-doo-hr
-title: Is hello-doo.hr Legit? Trust Score 73/100
+title: Is hello-doo.hr Legit? Trust Score 43/100
 description: >-
-  hello-doo.hr scores 73/100 on our public trust checks. Established domain —
-  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:45:41.095Z'
+  hello-doo.hr scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:31:10.308Z'
 finalUrl: 'https://hello-doo.hr/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 43
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.6 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
   redFlags:
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
@@ -33,47 +33,47 @@ signals:
       finalUrl: 'https://hello-doo.hr/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
-      contact: true
+      contact: false
       privacy: true
       terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 70
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-01-13'
-      ageDays: 1988
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-01-13).
+      ageDays: 2027
+      ageYears: 5.6
+    detail: Registered 5.6 years ago (2021-01-13).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hello-doo.hr looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for hello-doo.hr. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 5.6 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hello-doo in the score above.
 

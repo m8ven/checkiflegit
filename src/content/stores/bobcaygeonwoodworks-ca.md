@@ -4,8 +4,8 @@ slug: bobcaygeonwoodworks-ca
 title: Is bobcaygeonwoodworks.ca Legit? Trust Score 100/100
 description: >-
   bobcaygeonwoodworks.ca scores 100/100 on our public trust checks. Established
-  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:52.180Z'
+  domain — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:37.524Z'
 finalUrl: 'https://bobcaygeonwoodworks.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.6 years ago.
+    - Established domain — registered 6.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-14'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2019-11-19'
-      ageDays: 2409
-      ageYears: 6.6
-    detail: Registered 6.6 years ago (2019-11-19).
+      ageDays: 2448
+      ageYears: 6.7
+    detail: Registered 6.7 years ago (2019-11-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bobcaygeonwoodworks.ca looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bobcaygeonwoodworks.ca looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bobcaygeonwoodworks in the score above.
 

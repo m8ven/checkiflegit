@@ -4,8 +4,8 @@ slug: kosneaker-com
 title: Is kosneaker.com Legit? Trust Score 82/100
 description: >-
   kosneaker.com scores 82/100 on our public trust checks. Established domain —
-  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:46:47.898Z'
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:31:53.194Z'
 finalUrl: 'https://kosneaker.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.9 years ago.
+    - Established domain — registered 4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-08-20'
-      daysToExpiry: 57
+      daysToExpiry: 18
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2022-07-25'
-      ageDays: 1430
-      ageYears: 3.9
-    detail: Registered 3.9 years ago (2022-07-25).
+      ageDays: 1470
+      ageYears: 4
+    detail: Registered 4 years ago (2022-07-25).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kosneaker.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kosneaker.com looks like a well-established store. The clearest positives are that its domain has been registered for 4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kosneaker in the score above.
 

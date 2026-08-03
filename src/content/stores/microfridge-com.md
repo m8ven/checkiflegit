@@ -4,8 +4,8 @@ slug: microfridge-com
 title: Is microfridge.com Legit? Trust Score 76/100
 description: >-
   microfridge.com scores 76/100 on our public trust checks. Established domain —
-  registered 27.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:03:02.078Z'
+  registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:46.912Z'
 finalUrl: 'https://www.microfridge.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.2 years ago.
+    - Established domain — registered 27.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-04-02'
-      ageDays: 9945
-      ageYears: 27.2
-    detail: Registered 27.2 years ago (1999-04-02).
+      ageDays: 9985
+      ageYears: 27.4
+    detail: Registered 27.4 years ago (1999-04-02).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-microfridge.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+microfridge.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Microfridge in the score above.
 

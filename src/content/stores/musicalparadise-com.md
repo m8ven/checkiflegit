@@ -1,11 +1,11 @@
 ---
 domain: musicalparadise.com
 slug: musicalparadise-com
-title: Is musicalparadise.com Legit? Trust Score 100/100
+title: Is musicalparadise.com Legit? Trust Score 88/100
 description: >-
-  musicalparadise.com scores 100/100 on our public trust checks. Established
-  domain — registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:57:15.347Z'
+  musicalparadise.com scores 88/100 on our public trust checks. Established
+  domain — registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:42.538Z'
 finalUrl: 'https://musicalparadise.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.1 years ago.
+    - Established domain — registered 26.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -55,25 +55,25 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 30
+      issuer: Google Trust Services
+      validTo: '2026-10-01'
+      daysToExpiry: 60
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2000-05-08'
-      ageDays: 9543
-      ageYears: 26.1
-    detail: Registered 26.1 years ago (2000-05-08).
+      ageDays: 9582
+      ageYears: 26.3
+    detail: Registered 26.3 years ago (2000-05-08).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-musicalparadise.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+musicalparadise.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Musicalparadise in the score above.
 

@@ -5,7 +5,7 @@ title: Is comprarmarihuanamadrid.es Legit? Trust Score 74/100
 description: >-
   comprarmarihuanamadrid.es scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:39:49.136Z'
+fetchedAt: '2026-08-03T08:25:21.631Z'
 finalUrl: 'https://comprarmarihuanamadrid.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 38
+      validTo: '2026-10-02'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

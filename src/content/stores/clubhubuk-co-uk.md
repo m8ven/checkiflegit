@@ -4,8 +4,8 @@ slug: clubhubuk-co-uk
 title: Is clubhubuk.co.uk Legit? Trust Score 88/100
 description: >-
   clubhubuk.co.uk scores 88/100 on our public trust checks. Established domain —
-  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:53.543Z'
+  registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:38.038Z'
 finalUrl: 'https://clubhubuk.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.1 years ago.
+    - Established domain — registered 10.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-28'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-05-31'
-      ageDays: 3676
-      ageYears: 10.1
-    detail: Registered 10.1 years ago (2016-05-31).
+      ageDays: 3716
+      ageYears: 10.2
+    detail: Registered 10.2 years ago (2016-05-31).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-clubhubuk.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+clubhubuk.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 10.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Clubhubuk in the score above.
 

@@ -4,8 +4,8 @@ slug: contra-nu
 title: Is contra.nu Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   contra.nu scores 88/100 on our public trust checks. Established domain —
-  registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:55:45.302Z'
+  registered 27.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:03:46.370Z'
 finalUrl: 'https://www.contra.nu/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.7 years ago.
+    - Established domain — registered 27.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-08'
-      daysToExpiry: 106
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '1998-10-27'
-      ageDays: 10103
-      ageYears: 27.7
-    detail: Registered 27.7 years ago (1998-10-27).
+      ageDays: 10142
+      ageYears: 27.8
+    detail: Registered 27.8 years ago (1998-10-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-contra.nu looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+contra.nu looks like a well-established store. The clearest positives are that its domain has been registered for 27.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Contra in the score above.
 

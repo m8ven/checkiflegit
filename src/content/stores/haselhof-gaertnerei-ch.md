@@ -5,7 +5,7 @@ title: Is haselhof-gaertnerei.ch Legit? Trust Score 79/100
 description: >-
   haselhof-gaertnerei.ch scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:51:48.132Z'
+fetchedAt: '2026-08-03T08:35:35.865Z'
 finalUrl: 'https://haselhof-gaertnerei.ch/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-27'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

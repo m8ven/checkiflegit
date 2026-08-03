@@ -1,29 +1,29 @@
 ---
 domain: autosattlerei-as.de
 slug: autosattlerei-as-de
-title: Is autosattlerei-as.de Legit? Trust Score 61/100
+title: Is autosattlerei-as.de Legit? Trust Score 79/100
 description: >-
-  autosattlerei-as.de scores 61/100 on our public trust checks. No links to
-  major social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:00:18.787Z'
+  autosattlerei-as.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-03T08:06:50.362Z'
 finalUrl: 'https://autosattlerei-as.de/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 79
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-26'
-      daysToExpiry: 155
+      daysToExpiry: 116
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
@@ -64,12 +64,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: fail
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-autosattlerei-as.de sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+autosattlerei-as.de looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Autosattlerei-as in the score above.
 

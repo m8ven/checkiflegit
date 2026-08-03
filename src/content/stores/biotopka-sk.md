@@ -5,7 +5,7 @@ title: Is biotopka.sk Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   biotopka.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:36:43.690Z'
+fetchedAt: '2026-08-03T08:23:26.725Z'
 finalUrl: 'https://biotopka.sk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

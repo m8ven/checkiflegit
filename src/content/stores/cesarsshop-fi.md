@@ -5,7 +5,7 @@ title: Is cesarsshop.fi Legit? Trust Score 79/100
 description: >-
   cesarsshop.fi scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:38:11.265Z'
+fetchedAt: '2026-08-03T08:24:20.383Z'
 finalUrl: 'https://cesarsshop.fi/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-17'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

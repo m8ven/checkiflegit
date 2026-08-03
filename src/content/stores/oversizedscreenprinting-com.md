@@ -4,9 +4,9 @@ slug: oversizedscreenprinting-com
 title: Is oversizedscreenprinting.com Legit? Trust Score 73/100
 description: >-
   oversizedscreenprinting.com scores 73/100 on our public trust checks.
-  Established domain — registered 11.7 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 11.8 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:26:12.086Z'
+fetchedAt: '2026-08-03T08:14:57.698Z'
 finalUrl: 'https://oversizedscreenprinting.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.7 years ago.
+    - Established domain — registered 11.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-09-27'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2014-10-23'
-      ageDays: 4262
-      ageYears: 11.7
-    detail: Registered 11.7 years ago (2014-10-23).
+      ageDays: 4301
+      ageYears: 11.8
+    detail: Registered 11.8 years ago (2014-10-23).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-oversizedscreenprinting.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+oversizedscreenprinting.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Oversizedscreenprinting in the score above.
 

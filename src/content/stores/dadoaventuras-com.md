@@ -4,8 +4,8 @@ slug: dadoaventuras-com
 title: Is dadoaventuras.com Legit? Trust Score 100/100
 description: >-
   dadoaventuras.com scores 100/100 on our public trust checks. Established
-  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:30:47.483Z'
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:19:04.040Z'
 finalUrl: 'https://dadoaventuras.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.3 years ago.
+    - Established domain — registered 1.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-06'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-02-19'
-      ageDays: 490
-      ageYears: 1.3
-    detail: Registered 1.3 years ago (2025-02-19).
+      ageDays: 529
+      ageYears: 1.4
+    detail: Registered 1.4 years ago (2025-02-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dadoaventuras.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dadoaventuras.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dadoaventuras in the score above.
 

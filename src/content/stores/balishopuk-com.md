@@ -1,30 +1,31 @@
 ---
 domain: balishopuk.com
 slug: balishopuk-com
-title: Is balishopuk.com Legit? Trust Score 70/100
+title: Is balishopuk.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  balishopuk.com scores 70/100 on our public trust checks. Established domain —
-  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:35:40.654Z'
+  balishopuk.com scores 61/100 on our public trust checks. No links to major
+  social platforms found. Some standard policy or contact pages appear to be
+  missing.
+fetchedAt: '2026-08-03T08:22:26.167Z'
 finalUrl: 'https://balishopuk.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.1 years ago.
+    - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
-  redFlags: []
+  redFlags:
+    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -56,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-31'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-05-24'
-      ageDays: 2222
-      ageYears: 6.1
-    detail: Registered 6.1 years ago (2020-05-24).
+      ageDays: 2261
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-05-24).
   contact:
     status: warn
     value:
@@ -75,16 +76,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
       instagram: false
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): twitter.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-balishopuk.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+balishopuk.com sends a mixed set of signals. On the positive side, its domain has been registered for 6.2 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Balishopuk in the score above.
 

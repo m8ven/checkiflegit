@@ -5,7 +5,7 @@ title: Is haustechnik-ortenau.de Legit? Trust Score 83/100
 description: >-
   haustechnik-ortenau.de scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:45:36.416Z'
+fetchedAt: '2026-08-03T08:31:09.185Z'
 finalUrl: 'https://haustechnik-ortenau.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-16'
-      daysToExpiry: 175
+      daysToExpiry: 136
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

@@ -4,8 +4,8 @@ slug: edidental-my
 title: Is edidental.my Legit? Trust Score 76/100
 description: >-
   edidental.my scores 76/100 on our public trust checks. Established domain —
-  registered 15.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:39.856Z'
+  registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:23:21.409Z'
 finalUrl: 'https://edidental.my/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.6 years ago.
+    - Established domain — registered 15.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2010-11-22'
-      ageDays: 5693
-      ageYears: 15.6
-    detail: Registered 15.6 years ago (2010-11-22).
+      ageDays: 5732
+      ageYears: 15.7
+    detail: Registered 15.7 years ago (2010-11-22).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-edidental.my looks like a well-established store. The clearest positives are that its domain has been registered for 15.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+edidental.my looks like a well-established store. The clearest positives are that its domain has been registered for 15.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Edidental in the score above.
 

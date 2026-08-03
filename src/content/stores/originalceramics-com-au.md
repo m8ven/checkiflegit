@@ -5,7 +5,7 @@ title: Is originalceramics.com.au Legit? Trust Score 31/100
 description: >-
   originalceramics.com.au scores 31/100 on our public trust checks. No valid SSL
   certificate — connection may not be secure.
-fetchedAt: '2026-06-25T03:25:15.324Z'
+fetchedAt: '2026-08-03T08:13:55.143Z'
 finalUrl: 'https://www.originalceramics.com.au/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2025-11-02'
-      daysToExpiry: -234
+      daysToExpiry: -273
       authorized: false
     detail: Certificate has expired.
   domainAge:

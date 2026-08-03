@@ -1,12 +1,12 @@
 ---
 domain: ofishaliyikama.net
 slug: ofishaliyikama-net
-title: Is ofishaliyikama.net Legit? Trust Score 58/100
+title: Is ofishaliyikama.net Legit? Trust Score 55/100
 description: >-
-  ofishaliyikama.net scores 58/100 on our public trust checks. Standard contact
-  and policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:19:25.317Z'
-finalUrl: 'https://www.ofishaliyikama.net/'
+  ofishaliyikama.net scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:09:29.682Z'
+finalUrl: 'https://ofishaliyikama.net/'
 reachable: true
 noindex: false
 verdict:
@@ -15,76 +15,75 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 58
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.3 years ago.
+    - Established domain — registered 7.4 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
-    - Standard contact and policy pages were not found.
-  cautions:
-    - Only limited contact details were found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.ofishaliyikama.net/'
+      finalUrl: 'https://ofishaliyikama.net/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: fail
-    value:
-      contact: false
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      contact: true
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-02'
-      daysToExpiry: 38
+      validTo: '2026-09-30'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2019-02-21'
-      ageDays: 2680
-      ageYears: 7.3
-    detail: Registered 7.3 years ago (2019-02-21).
+      ageDays: 2719
+      ageYears: 7.4
+    detail: Registered 7.4 years ago (2019-02-21).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
       facebook: false
       instagram: false
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: true
-    detail: 'Links to 2 social platform(s): twitter, pinterest.'
+      pinterest: false
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ofishaliyikama.net sends a mixed set of signals. On the positive side, its domain has been registered for 7.3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+ofishaliyikama.net sends a mixed set of signals. On the positive side, its domain has been registered for 7.4 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ofishaliyikama in the score above.
 

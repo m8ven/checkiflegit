@@ -1,11 +1,11 @@
 ---
 domain: dinochap.com
 slug: dinochap-com
-title: Is dinochap.com Legit? Trust Score 82/100
+title: Is dinochap.com Legit? Trust Score 70/100
 description: >-
-  dinochap.com scores 82/100 on our public trust checks. Established domain —
-  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:28.251Z'
+  dinochap.com scores 70/100 on our public trust checks. Established domain —
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:23:11.353Z'
 finalUrl: 'https://dinochap.com/'
 reachable: true
 noindex: false
@@ -15,14 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.7 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
     - Limited social media presence.
 signals:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
       privacy: true
       terms: false
-      refund: true
+      refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-27'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-12-04'
-      ageDays: 2028
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-12-04).
+      ageDays: 2067
+      ageYears: 5.7
+    detail: Registered 5.7 years ago (2020-12-04).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dinochap.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dinochap.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dinochap in the score above.
 

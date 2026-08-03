@@ -6,7 +6,7 @@ description: >-
   diamondsandmore.rocks scores 19/100 on our public trust checks. No public
   contact details detected on the homepage. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T03:35:14.390Z'
+fetchedAt: '2026-08-03T08:22:04.399Z'
 finalUrl: 'https://diamondsandmore.rocks/'
 reachable: true
 noindex: false
@@ -57,8 +57,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -4,8 +4,8 @@ slug: genuplocal-com
 title: Is genuplocal.com Legit? Trust Score 85/100
 description: >-
   genuplocal.com scores 85/100 on our public trust checks. Established domain —
-  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:15.027Z'
+  registered 4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:35:58.830Z'
 finalUrl: 'https://genuplocal.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.9 years ago.
+    - Established domain — registered 4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-13'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-07-26'
-      ageDays: 1429
-      ageYears: 3.9
-    detail: Registered 3.9 years ago (2022-07-26).
+      ageDays: 1468
+      ageYears: 4
+    detail: Registered 4 years ago (2022-07-26).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-genuplocal.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+genuplocal.com looks like a well-established store. The clearest positives are that its domain has been registered for 4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Genuplocal in the score above.
 

@@ -5,7 +5,7 @@ title: Is de.ulasistanbul.com Legit? Trust Score 79/100
 description: >-
   de.ulasistanbul.com scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:41:14.925Z'
+fetchedAt: '2026-08-03T08:26:43.741Z'
 finalUrl: 'https://de.ulasistanbul.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 44
+      validTo: '2026-10-08'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

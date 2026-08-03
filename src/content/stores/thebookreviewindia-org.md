@@ -4,8 +4,8 @@ slug: thebookreviewindia-org
 title: Is thebookreviewindia.org Legit? Trust Score 100/100
 description: >-
   thebookreviewindia.org scores 100/100 on our public trust checks. Established
-  domain — registered 22.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:22:57.559Z'
+  domain — registered 23 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:12:26.909Z'
 finalUrl: 'https://www.thebookreviewindia.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.9 years ago.
+    - Established domain — registered 23 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-06'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-08-08'
-      ageDays: 8356
-      ageYears: 22.9
-    detail: Registered 22.9 years ago (2003-08-08).
+      ageDays: 8396
+      ageYears: 23
+    detail: Registered 23 years ago (2003-08-08).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thebookreviewindia.org looks like a well-established store. The clearest positives are that its domain has been registered for 22.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thebookreviewindia.org looks like a well-established store. The clearest positives are that its domain has been registered for 23 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thebookreviewindia in the score above.
 

@@ -4,8 +4,8 @@ slug: duralec-com
 title: Is duralec.com Legit? Trust Score 100/100
 description: >-
   duralec.com scores 100/100 on our public trust checks. Established domain —
-  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:39:10.623Z'
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:24:54.674Z'
 finalUrl: 'https://duralec.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.2 years ago.
+    - Established domain — registered 11.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-03'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-04-06'
-      ageDays: 4097
-      ageYears: 11.2
-    detail: Registered 11.2 years ago (2015-04-06).
+      ageDays: 4136
+      ageYears: 11.3
+    detail: Registered 11.3 years ago (2015-04-06).
   contact:
     status: pass
     value:
@@ -80,13 +80,13 @@ signals:
       facebook: true
       instagram: true
       twitter: true
-      tiktok: false
+      tiktok: true
       youtube: true
       linkedin: true
       pinterest: false
     detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, youtube,
-      linkedin.
+      Links to 6 social platform(s): facebook, instagram, twitter, tiktok,
+      youtube, linkedin.
   reviews:
     status: unknown
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-duralec.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+duralec.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Duralec in the score above.
 

@@ -5,7 +5,7 @@ title: Is led2.eu Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   led2.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:48:13.440Z'
+fetchedAt: '2026-08-03T08:33:10.028Z'
 finalUrl: 'https://led2.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-01'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

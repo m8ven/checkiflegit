@@ -5,7 +5,7 @@ title: Is kawa-shima.de Legit? Trust Score 36/100
 description: >-
   kawa-shima.de scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:51:31.050Z'
+fetchedAt: '2026-08-03T08:35:27.483Z'
 finalUrl: 'https://kawa-shima.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2027-01-16'
-      daysToExpiry: 206
+      daysToExpiry: 167
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:

@@ -1,11 +1,11 @@
 ---
 domain: ccsoluciones.com.ec
 slug: ccsoluciones-com-ec
-title: Is ccsoluciones.com.ec Legit? Trust Score 76/100
+title: Is ccsoluciones.com.ec Legit? Trust Score 88/100
 description: >-
-  ccsoluciones.com.ec scores 76/100 on our public trust checks. Established
-  domain — registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:00:16.386Z'
+  ccsoluciones.com.ec scores 88/100 on our public trust checks. Established
+  domain — registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:06:50.299Z'
 finalUrl: 'https://ccsoluciones.com.ec/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.3 years ago.
+    - Established domain — registered 16.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 53
+      validTo: '2026-10-17'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-03-26'
-      ageDays: 5934
-      ageYears: 16.3
-    detail: Registered 16.3 years ago (2010-03-26).
+      ageDays: 5973
+      ageYears: 16.4
+    detail: Registered 16.4 years ago (2010-03-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ccsoluciones.com.ec looks like a well-established store. The clearest positives are that its domain has been registered for 16.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ccsoluciones.com.ec looks like a well-established store. The clearest positives are that its domain has been registered for 16.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ccsoluciones in the score above.
 

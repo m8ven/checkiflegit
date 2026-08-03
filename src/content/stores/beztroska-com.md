@@ -1,11 +1,11 @@
 ---
 domain: beztroska.com
 slug: beztroska-com
-title: Is beztroska.com Legit? Trust Score 76/100
+title: Is beztroska.com Legit? Trust Score 88/100
 description: >-
-  beztroska.com scores 76/100 on our public trust checks. Established domain —
-  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:03:16.176Z'
+  beztroska.com scores 88/100 on our public trust checks. Established domain —
+  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:56.305Z'
 finalUrl: 'https://beztroska.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.1 years ago.
+    - Established domain — registered 12.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
+      privacy: true
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2014-05-08'
-      ageDays: 4430
-      ageYears: 12.1
-    detail: Registered 12.1 years ago (2014-05-08).
+      ageDays: 4469
+      ageYears: 12.2
+    detail: Registered 12.2 years ago (2014-05-08).
   contact:
     status: warn
     value:
@@ -80,11 +80,11 @@ signals:
       facebook: true
       instagram: true
       twitter: false
-      tiktok: true
+      tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, tiktok.'
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-beztroska.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+beztroska.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Beztroska in the score above.
 

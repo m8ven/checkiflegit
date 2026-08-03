@@ -5,7 +5,7 @@ title: Is gylobeauty.de Legit? Trust Score 91/100
 description: >-
   gylobeauty.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:59:39.988Z'
+fetchedAt: '2026-08-03T08:06:16.641Z'
 finalUrl: 'https://www.gylobeauty.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

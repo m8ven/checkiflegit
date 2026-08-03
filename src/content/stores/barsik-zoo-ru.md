@@ -4,8 +4,8 @@ slug: barsik-zoo-ru
 title: Is barsik-zoo.ru Legit? Trust Score 94/100
 description: >-
   barsik-zoo.ru scores 94/100 on our public trust checks. Established domain —
-  registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:55:27.758Z'
+  registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:03:31.931Z'
 finalUrl: 'https://barsik-zoo.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.5 years ago.
+    - Established domain — registered 16.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-12-15'
-      ageDays: 6035
-      ageYears: 16.5
-    detail: Registered 16.5 years ago (2009-12-15).
+      ageDays: 6074
+      ageYears: 16.6
+    detail: Registered 16.6 years ago (2009-12-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-barsik-zoo.ru looks like a well-established store. The clearest positives are that its domain has been registered for 16.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+barsik-zoo.ru looks like a well-established store. The clearest positives are that its domain has been registered for 16.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Barsik-zoo in the score above.
 

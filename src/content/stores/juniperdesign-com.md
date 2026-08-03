@@ -3,9 +3,9 @@ domain: juniperdesign.com
 slug: juniperdesign-com
 title: Is juniperdesign.com Legit? Trust Score 100/100
 description: >-
-  juniperdesign.com scores 100/100 on our public trust checks. Established
-  domain — registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:09.328Z'
+  juniperdesign.com scores 100/100 on our public trust checks. Has a contact
+  page and multiple policy pages (privacy/terms/refund).
+fetchedAt: '2026-08-03T08:29:36.582Z'
 finalUrl: 'https://juniperdesign.com/'
 reachable: true
 noindex: false
@@ -18,8 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.1 years ago.
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -53,20 +51,13 @@ signals:
       shipping: false
     detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Google Trust Services
-      validTo: '2026-07-28'
-      daysToExpiry: 34
-      authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2011-06-08'
-      ageDays: 5495
-      ageYears: 15.1
-    detail: Registered 15.1 years ago (2011-06-08).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -93,11 +84,11 @@ signals:
       trustpilot: unknown
       google: unknown
     detail: >-
-      Trustpilot presence inconclusive (HTTP 403). Google review presence not
-      checked (no free, reliable signal).
+      Trustpilot presence check failed: This operation was aborted Google review
+      presence not checked (no free, reliable signal).
 ---
 
-juniperdesign.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+juniperdesign.com looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Juniperdesign in the score above.
 

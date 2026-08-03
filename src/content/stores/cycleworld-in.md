@@ -5,7 +5,7 @@ title: Is cycleworld.in Legit? Trust Score 100/100
 description: >-
   cycleworld.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:21:10.032Z'
+fetchedAt: '2026-08-03T08:10:58.618Z'
 finalUrl: 'https://cycleworld.in/'
 reachable: true
 noindex: false
@@ -17,7 +17,6 @@ verdict:
     secure payment methods when shopping online.
   score: 100
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -32,16 +31,16 @@ signals:
       finalUrl: 'https://cycleworld.in/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -56,7 +55,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +67,8 @@ signals:
     value:
       email: true
       phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      address: false
+    detail: 'Public contact details found: email, phone.'
   social:
     status: pass
     value:

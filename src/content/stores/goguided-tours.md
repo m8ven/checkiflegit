@@ -1,12 +1,12 @@
 ---
 domain: goguided.tours
 slug: goguided-tours
-title: Is goguided.tours Legit? Trust Score 31/100
+title: Is goguided.tours Legit? Trust Score 36/100
 description: >-
-  goguided.tours scores 31/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T03:48:31.327Z'
-finalUrl: 'https://goguided.tours/he/'
+  goguided.tours scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:33:19.318Z'
+finalUrl: 'https://goguided.tours/'
 reachable: true
 noindex: false
 verdict:
@@ -16,48 +16,47 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 31
+  score: 36
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No public contact details detected on the homepage.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://goguided.tours/he/'
+      finalUrl: 'https://goguided.tours/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-05'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -72,16 +71,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -92,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for goguided.tours. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for goguided.tours. In particular, there are no clear public contact details and it has little or no social media footprint. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Goguided in the score above.
 

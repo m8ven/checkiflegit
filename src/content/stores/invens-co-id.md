@@ -4,8 +4,8 @@ slug: invens-co-id
 title: Is invens.co.id Legit? Trust Score 88/100
 description: >-
   invens.co.id scores 88/100 on our public trust checks. Established domain —
-  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:50:00.323Z'
+  registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:34:19.960Z'
 finalUrl: 'https://invens.co.id/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.2 years ago.
+    - Established domain — registered 4.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-09-25'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-04-12'
-      ageDays: 1534
-      ageYears: 4.2
-    detail: Registered 4.2 years ago (2022-04-12).
+      ageDays: 1573
+      ageYears: 4.3
+    detail: Registered 4.3 years ago (2022-04-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-invens.co.id looks like a well-established store. The clearest positives are that its domain has been registered for 4.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+invens.co.id looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Invens in the score above.
 

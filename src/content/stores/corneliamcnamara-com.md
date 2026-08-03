@@ -4,8 +4,8 @@ slug: corneliamcnamara-com
 title: Is corneliamcnamara.com Legit? Trust Score 70/100
 description: >-
   corneliamcnamara.com scores 70/100 on our public trust checks. Established
-  domain — registered 20.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:30:03.170Z'
+  domain — registered 21 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:17:59.352Z'
 finalUrl: 'https://corneliamcnamara.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.9 years ago.
+    - Established domain — registered 21 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-07-24'
-      ageDays: 7640
-      ageYears: 20.9
-    detail: Registered 20.9 years ago (2005-07-24).
+      ageDays: 7679
+      ageYears: 21
+    detail: Registered 21 years ago (2005-07-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-corneliamcnamara.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.9 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+corneliamcnamara.com looks like a well-established store. The clearest positives are that its domain has been registered for 21 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Corneliamcnamara in the score above.
 

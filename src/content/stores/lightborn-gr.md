@@ -5,7 +5,7 @@ title: Is lightborn.gr Legit? Trust Score 83/100
 description: >-
   lightborn.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:49:23.800Z'
+fetchedAt: '2026-08-03T08:33:52.061Z'
 finalUrl: 'https://lightborn.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-24'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

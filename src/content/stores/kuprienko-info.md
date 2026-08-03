@@ -6,7 +6,7 @@ description: >-
   kuprienko.info scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:47:19.043Z'
+fetchedAt: '2026-08-03T08:32:15.785Z'
 finalUrl: 'https://kuprienko.info/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 68
+      validTo: '2026-10-30'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

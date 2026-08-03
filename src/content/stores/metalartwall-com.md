@@ -1,30 +1,30 @@
 ---
 domain: metalartwall.com
 slug: metalartwall-com
-title: Is metalartwall.com Legit? Trust Score 70/100
+title: Is metalartwall.com Legit? Trust Score 37/100
 description: >-
-  metalartwall.com scores 70/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T03:52:30.939Z'
+  metalartwall.com scores 37/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:36:09.565Z'
 finalUrl: 'https://metalartwall.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 37
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions:
     - Domain is relatively young.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -33,58 +33,58 @@ signals:
       finalUrl: 'https://metalartwall.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-12-12'
-      ageDays: 194
-      ageYears: 0.5
-    detail: Registered 0.5 years ago (2025-12-12).
+      ageDays: 234
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2025-12-12).
   contact:
-    status: warn
+    status: fail
     value:
-      email: true
+      email: false
       phone: false
       address: false
-    detail: 'Public contact details found: email.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
-      tiktok: true
+      tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, tiktok.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-metalartwall.com looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that the domain is still relatively young and only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for metalartwall.com. In particular, the domain is still relatively young and there are no clear public contact details. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Metalartwall in the score above.
 

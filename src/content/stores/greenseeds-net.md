@@ -6,7 +6,7 @@ description: >-
   greenseeds.net scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T03:44:56.848Z'
+fetchedAt: '2026-08-03T08:30:42.383Z'
 finalUrl: 'https://greenseeds.net/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.5 years ago.
+    - Established domain — registered 12.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-13'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-01-13'
-      ageDays: 4545
-      ageYears: 12.5
-    detail: Registered 12.5 years ago (2014-01-13).
+      ageDays: 4585
+      ageYears: 12.6
+    detail: Registered 12.6 years ago (2014-01-13).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-greenseeds.net sends a mixed set of signals. On the positive side, its domain has been registered for 12.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+greenseeds.net sends a mixed set of signals. On the positive side, its domain has been registered for 12.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Greenseeds in the score above.
 

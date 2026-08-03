@@ -4,9 +4,9 @@ slug: bestitchedneedlepointshop-com
 title: Is bestitchedneedlepointshop.com Legit? Trust Score 100/100
 description: >-
   bestitchedneedlepointshop.com scores 100/100 on our public trust checks.
-  Established domain — registered 13.8 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 13.9 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:03:12.980Z'
+fetchedAt: '2026-08-03T08:08:54.746Z'
 finalUrl: 'https://bestitchedneedlepointshop.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 13.8 years ago.
+    - Established domain — registered 13.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-29'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-09-26'
-      ageDays: 5019
-      ageYears: 13.8
-    detail: Registered 13.8 years ago (2012-09-26).
+      ageDays: 5058
+      ageYears: 13.9
+    detail: Registered 13.9 years ago (2012-09-26).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bestitchedneedlepointshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bestitchedneedlepointshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bestitchedneedlepointshop in the score above.
 

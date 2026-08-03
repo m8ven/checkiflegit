@@ -4,8 +4,8 @@ slug: harwoodmuseum-org
 title: Is harwoodmuseum.org Legit? Trust Score 100/100
 description: >-
   harwoodmuseum.org scores 100/100 on our public trust checks. Established
-  domain — registered 25.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:37:10.537Z'
+  domain — registered 25.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:23:40.135Z'
 finalUrl: 'https://harwoodmuseum.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.3 years ago.
+    - Established domain — registered 25.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'InCommon, LLC'
       validTo: '2026-12-19'
-      daysToExpiry: 178
+      daysToExpiry: 139
       authorized: true
     detail: 'Valid certificate issued by InCommon, LLC.'
   domainAge:
     status: pass
     value:
       createdAt: '2001-02-28'
-      ageDays: 9248
-      ageYears: 25.3
-    detail: Registered 25.3 years ago (2001-02-28).
+      ageDays: 9287
+      ageYears: 25.4
+    detail: Registered 25.4 years ago (2001-02-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-harwoodmuseum.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+harwoodmuseum.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Harwoodmuseum in the score above.
 

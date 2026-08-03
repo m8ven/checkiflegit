@@ -5,7 +5,7 @@ title: Is melli.org Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   melli.org scores 58/100 on our public trust checks. Standard contact and
   policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:02:59.776Z'
+fetchedAt: '2026-08-03T08:08:45.132Z'
 finalUrl: 'https://www.melli.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.7 years ago.
+    - Established domain — registered 21.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-10-07'
-      ageDays: 7930
-      ageYears: 21.7
-    detail: Registered 21.7 years ago (2004-10-07).
+      ageDays: 7969
+      ageYears: 21.8
+    detail: Registered 21.8 years ago (2004-10-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-melli.org sends a mixed set of signals. On the positive side, its domain has been registered for 21.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+melli.org sends a mixed set of signals. On the positive side, its domain has been registered for 21.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Melli in the score above.
 

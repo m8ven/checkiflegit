@@ -1,11 +1,11 @@
 ---
 domain: sroispecialist.nl
 slug: sroispecialist-nl
-title: Is sroispecialist.nl Legit? Trust Score 85/100
+title: Is sroispecialist.nl Legit? Trust Score 94/100
 description: >-
-  sroispecialist.nl scores 85/100 on our public trust checks. Established domain
-  — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:22:17.440Z'
+  sroispecialist.nl scores 94/100 on our public trust checks. Established domain
+  — registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:11:56.842Z'
 finalUrl: 'https://www.sroispecialist.nl/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 85
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.6 years ago.
+    - Established domain — registered 6.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
-  redFlags:
-    - No links to major social platforms found.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-11-04'
-      ageDays: 2425
-      ageYears: 6.6
-    detail: Registered 6.6 years ago (2019-11-04).
+      ageDays: 2464
+      ageYears: 6.8
+    detail: Registered 6.8 years ago (2019-11-04).
   contact:
     status: pass
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: 'Public contact details found: email, phone.'
   social:
-    status: fail
+    status: warn
     value:
       facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
-      linkedin: false
+      linkedin: true
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 1 social platform(s): linkedin.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sroispecialist.nl looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sroispecialist.nl looks like a well-established store. The clearest positives are that its domain has been registered for 6.8 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sroispecialist in the score above.
 

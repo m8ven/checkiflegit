@@ -4,8 +4,8 @@ slug: leafwize-com
 title: Is leafwize.com Legit? Trust Score 100/100
 description: >-
   leafwize.com scores 100/100 on our public trust checks. Established domain —
-  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:49:54.072Z'
+  registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:34:18.682Z'
 finalUrl: 'https://leafwize.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.8 years ago.
+    - Established domain — registered 8.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-09-21'
-      ageDays: 3198
-      ageYears: 8.8
-    detail: Registered 8.8 years ago (2017-09-21).
+      ageDays: 3238
+      ageYears: 8.9
+    detail: Registered 8.9 years ago (2017-09-21).
   contact:
     status: pass
     value:
@@ -81,12 +81,10 @@ signals:
       instagram: true
       twitter: true
       tiktok: false
-      youtube: true
-      linkedin: true
+      youtube: false
+      linkedin: false
       pinterest: false
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, youtube,
-      linkedin.
+    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
   reviews:
     status: unknown
     value:
@@ -97,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-leafwize.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+leafwize.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Leafwize in the score above.
 

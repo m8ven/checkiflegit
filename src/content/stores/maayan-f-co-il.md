@@ -6,7 +6,7 @@ description: >-
   maayan-f.co.il scores 57/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:53:53.789Z'
+fetchedAt: '2026-08-03T08:37:07.588Z'
 finalUrl: 'https://maayan-f.co.il/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,11 +1,11 @@
 ---
 domain: auctions.bib.eu
 slug: auctions-bib-eu
-title: Is auctions.bib.eu Legit? Trust Score 19/100
+title: Is auctions.bib.eu Legit? Trust Score 44/100
 description: >-
-  auctions.bib.eu scores 19/100 on our public trust checks. Standard contact and
-  policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:34:55.251Z'
+  auctions.bib.eu scores 44/100 on our public trust checks. No links to major
+  social platforms found.
+fetchedAt: '2026-08-03T08:21:49.749Z'
 finalUrl: 'https://auctions.bib.eu/'
 reachable: true
 noindex: false
@@ -16,14 +16,14 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 19
+  score: 44
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
   redFlags:
-    - Standard contact and policy pages were not found.
     - No links to major social platforms found.
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,20 +44,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
       contact: false
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2026-08-05'
-      daysToExpiry: 42
+      daysToExpiry: 3
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:
@@ -92,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for auctions.bib.eu. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for auctions.bib.eu. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Auctions in the score above.
 

@@ -1,11 +1,11 @@
 ---
 domain: ubesthouse.com
 slug: ubesthouse-com
-title: Is ubesthouse.com Legit? Trust Score 88/100
+title: Is ubesthouse.com Legit? Trust Score 100/100
 description: >-
-  ubesthouse.com scores 88/100 on our public trust checks. Established domain —
-  registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:48.172Z'
+  ubesthouse.com scores 100/100 on our public trust checks. Established domain —
+  registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:03:06.419Z'
 finalUrl: 'https://ubesthouse.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.5 years ago.
+    - Established domain — registered 14.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
-      privacy: false
+      contact: true
+      privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-10-07'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-01-06'
-      ageDays: 5283
-      ageYears: 14.5
-    detail: Registered 14.5 years ago (2012-01-06).
+      ageDays: 5323
+      ageYears: 14.6
+    detail: Registered 14.6 years ago (2012-01-06).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ubesthouse.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ubesthouse.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ubesthouse in the score above.
 

@@ -4,9 +4,9 @@ slug: zonelenviro-com
 title: Is zonelenviro.com Legit? Trust Score 100/100
 description: >-
   zonelenviro.com scores 100/100 on our public trust checks. Established domain
-  — registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:29:30.092Z'
-finalUrl: 'https://www.zonelenviro.com/'
+  — registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:17:35.066Z'
+finalUrl: 'https://zonelenviro.com/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.6 years ago.
+    - Established domain — registered 8.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.zonelenviro.com/'
+      finalUrl: 'https://zonelenviro.com/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-11-23'
-      ageDays: 3135
-      ageYears: 8.6
-    detail: Registered 8.6 years ago (2017-11-23).
+      ageDays: 3174
+      ageYears: 8.7
+    detail: Registered 8.7 years ago (2017-11-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-zonelenviro.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+zonelenviro.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Zonelenviro in the score above.
 

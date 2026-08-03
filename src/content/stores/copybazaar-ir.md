@@ -6,7 +6,7 @@ description: >-
   copybazaar.ir scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T03:30:39.392Z'
+fetchedAt: '2026-08-03T08:18:50.459Z'
 finalUrl: 'https://copybazaar.ir/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-27'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

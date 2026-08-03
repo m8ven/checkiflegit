@@ -6,7 +6,7 @@ description: >-
   checkout.walkerart.org scores 19/100 on our public trust checks. No public
   contact details detected on the homepage. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T03:27:20.897Z'
+fetchedAt: '2026-08-03T08:15:45.720Z'
 finalUrl: 'https://checkout.walkerart.org/'
 reachable: true
 noindex: false
@@ -58,7 +58,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

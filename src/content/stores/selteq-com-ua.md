@@ -1,30 +1,29 @@
 ---
 domain: selteq.com.ua
 slug: selteq-com-ua
-title: Is selteq.com.ua Legit? Trust Score 61/100 — Mixed Signals
+title: Is selteq.com.ua Legit? Trust Score 73/100
 description: >-
-  selteq.com.ua scores 61/100 on our public trust checks. No links to major
-  social platforms found. Some standard policy or contact pages appear to be
-  missing.
-fetchedAt: '2026-06-25T03:53:08.366Z'
+  selteq.com.ua scores 73/100 on our public trust checks. Established domain —
+  registered 20.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:41.368Z'
 finalUrl: 'https://selteq.com.ua/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.5 years ago.
+    - Established domain — registered 20.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -45,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-20'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2005-12-14'
-      ageDays: 7497
-      ageYears: 20.5
-    detail: Registered 20.5 years ago (2005-12-14).
+      ageDays: 7536
+      ageYears: 20.6
+    detail: Registered 20.6 years ago (2005-12-14).
   contact:
     status: warn
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-selteq.com.ua sends a mixed set of signals. On the positive side, its domain has been registered for 20.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+selteq.com.ua looks like a well-established store. The clearest positives are that its domain has been registered for 20.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Selteq in the score above.
 

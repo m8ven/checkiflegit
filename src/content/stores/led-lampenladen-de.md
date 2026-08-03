@@ -5,7 +5,7 @@ title: Is led-lampenladen.de Legit? Trust Score 66/100
 description: >-
   led-lampenladen.de scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:01:57.623Z'
+fetchedAt: '2026-08-03T08:07:53.115Z'
 finalUrl: 'https://www.led-lampenladen.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-09-30'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

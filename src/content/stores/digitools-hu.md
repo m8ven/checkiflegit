@@ -5,7 +5,7 @@ title: Is digitools.hu Legit? Trust Score 83/100
 description: >-
   digitools.hu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:40:43.957Z'
+fetchedAt: '2026-08-03T08:26:13.589Z'
 finalUrl: 'https://digitools.hu/'
 reachable: true
 noindex: false
@@ -46,17 +46,17 @@ signals:
     status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 42
+      validTo: '2026-10-06'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

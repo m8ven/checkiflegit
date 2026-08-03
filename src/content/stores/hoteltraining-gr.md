@@ -1,29 +1,29 @@
 ---
 domain: hoteltraining.gr
 slug: hoteltraining-gr
-title: Is hoteltraining.gr Legit? Trust Score 74/100
+title: Is hoteltraining.gr Legit? Trust Score 36/100
 description: >-
-  hoteltraining.gr scores 74/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:39:03.613Z'
+  hoteltraining.gr scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:24:52.667Z'
 finalUrl: 'https://hoteltraining.gr/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 74
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 36
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -32,31 +32,31 @@ signals:
       finalUrl: 'https://hoteltraining.gr/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-16'
-      daysToExpiry: 175
+      daysToExpiry: 136
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -64,23 +64,23 @@ signals:
     value: null
     detail: 'WHOIS lookup failed: TLD for "hoteltraining.gr" not supported'
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hoteltraining.gr looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for hoteltraining.gr. In particular, there are no clear public contact details and it has little or no social media footprint. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hoteltraining in the score above.
 

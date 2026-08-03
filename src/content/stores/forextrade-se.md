@@ -4,8 +4,8 @@ slug: forextrade-se
 title: Is forextrade.se Legit? Trust Score 100/100
 description: >-
   forextrade.se scores 100/100 on our public trust checks. Established domain —
-  registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:45:38.638Z'
+  registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:31:09.306Z'
 finalUrl: 'https://forextrade.se/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.5 years ago.
+    - Established domain — registered 19.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-01-07'
-      ageDays: 7109
-      ageYears: 19.5
-    detail: Registered 19.5 years ago (2007-01-07).
+      ageDays: 7148
+      ageYears: 19.6
+    detail: Registered 19.6 years ago (2007-01-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-forextrade.se looks like a well-established store. The clearest positives are that its domain has been registered for 19.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+forextrade.se looks like a well-established store. The clearest positives are that its domain has been registered for 19.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Forextrade in the score above.
 

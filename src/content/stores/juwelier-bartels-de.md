@@ -5,7 +5,7 @@ title: Is juwelier-bartels.de Legit? Trust Score 83/100
 description: >-
   juwelier-bartels.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:47:48.280Z'
+fetchedAt: '2026-08-03T08:32:43.643Z'
 finalUrl: 'https://juwelier-bartels.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-17'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

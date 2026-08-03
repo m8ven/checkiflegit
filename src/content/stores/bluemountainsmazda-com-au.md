@@ -5,7 +5,7 @@ title: Is bluemountainsmazda.com.au Legit? Trust Score 83/100
 description: >-
   bluemountainsmazda.com.au scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:59:04.002Z'
+fetchedAt: '2026-08-03T08:05:50.380Z'
 finalUrl: 'https://www.bluemountainsmazda.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-28'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

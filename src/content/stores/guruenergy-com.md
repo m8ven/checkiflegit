@@ -4,8 +4,8 @@ slug: guruenergy-com
 title: Is guruenergy.com Legit? Trust Score 88/100
 description: >-
   guruenergy.com scores 88/100 on our public trust checks. Established domain —
-  registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:50:32.532Z'
+  registered 27.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:34:54.895Z'
 finalUrl: 'https://guruenergy.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 27.4 years ago.
+    - Established domain — registered 27.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-02-04'
-      ageDays: 10002
-      ageYears: 27.4
-    detail: Registered 27.4 years ago (1999-02-04).
+      ageDays: 10042
+      ageYears: 27.5
+    detail: Registered 27.5 years ago (1999-02-04).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-guruenergy.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+guruenergy.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Guruenergy in the score above.
 

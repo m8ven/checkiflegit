@@ -5,7 +5,7 @@ title: Is lascarolinas.es Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   lascarolinas.es scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T03:01:51.251Z'
+fetchedAt: '2026-08-03T08:07:47.561Z'
 finalUrl: 'https://www.lascarolinas.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-24'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

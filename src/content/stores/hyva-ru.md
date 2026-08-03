@@ -5,7 +5,7 @@ title: Is hyva.ru Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   hyva.ru scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:39:48.645Z'
+fetchedAt: '2026-08-03T08:25:21.195Z'
 finalUrl: 'https://hyva.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.8 years ago.
+    - Established domain — registered 21.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-09-05'
-      ageDays: 7962
-      ageYears: 21.8
-    detail: Registered 21.8 years ago (2004-09-05).
+      ageDays: 8001
+      ageYears: 21.9
+    detail: Registered 21.9 years ago (2004-09-05).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hyva.ru sends a mixed set of signals. On the positive side, its domain has been registered for 21.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+hyva.ru sends a mixed set of signals. On the positive side, its domain has been registered for 21.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hyva in the score above.
 

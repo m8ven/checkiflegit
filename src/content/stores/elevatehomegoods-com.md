@@ -5,7 +5,7 @@ title: Is elevatehomegoods.com Legit? Trust Score 55/100
 description: >-
   elevatehomegoods.com scores 55/100 on our public trust checks. No links to
   major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T03:42:06.327Z'
+fetchedAt: '2026-08-03T08:27:25.776Z'
 finalUrl: 'https://elevatehomegoods.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-26'
-      ageDays: 210
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-26).
+      ageDays: 249
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-26).
   contact:
     status: warn
     value:

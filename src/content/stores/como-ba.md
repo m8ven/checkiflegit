@@ -1,29 +1,28 @@
 ---
 domain: como.ba
 slug: como-ba
-title: Is como.ba Legit? Trust Score 83/100 — Trust Checks Pass
+title: Is como.ba Legit? Trust Score 0/100 — Proceed With Caution
 description: >-
-  como.ba scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
-  in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:30:29.610Z'
+  como.ba scores 0/100 on our public trust checks. Standard contact and policy
+  pages were not found. No public contact details detected on the homepage.
+fetchedAt: '2026-08-03T08:18:22.036Z'
 finalUrl: 'https://como.ba/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 83
-  greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 0
+  greenFlags: []
+  redFlags:
+    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -32,55 +31,51 @@ signals:
       finalUrl: 'https://como.ba/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-04'
-      daysToExpiry: 72
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
     status: unknown
     value: null
-    detail: Creation date not present in WHOIS record.
+    detail: 'WHOIS lookup failed: Timeout'
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
-      youtube: true
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -91,7 +86,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-como.ba looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for como.ba. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Como in the score above.
 

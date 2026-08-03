@@ -1,12 +1,11 @@
 ---
 domain: jpaagro.com.br
 slug: jpaagro-com-br
-title: Is jpaagro.com.br Legit? Trust Score 57/100 — Mixed Signals
+title: Is jpaagro.com.br Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  jpaagro.com.br scores 57/100 on our public trust checks. Some standard policy
-  or contact pages appear to be missing. Only limited contact details were
-  found.
-fetchedAt: '2026-06-25T03:44:03.115Z'
+  jpaagro.com.br scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
+fetchedAt: '2026-08-03T08:29:30.619Z'
 finalUrl: 'https://jpaagro.com.br/'
 reachable: true
 noindex: false
@@ -16,15 +15,15 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 57
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-  redFlags: []
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -40,24 +39,24 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-09'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -72,16 +71,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -92,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jpaagro.com.br sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+jpaagro.com.br sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jpaagro in the score above.
 

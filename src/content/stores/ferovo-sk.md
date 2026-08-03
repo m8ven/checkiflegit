@@ -5,7 +5,7 @@ title: Is ferovo.sk Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   ferovo.sk scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:42:55.025Z'
+fetchedAt: '2026-08-03T08:28:25.032Z'
 finalUrl: 'https://ferovo.sk/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

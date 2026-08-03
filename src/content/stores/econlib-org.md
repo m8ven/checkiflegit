@@ -3,9 +3,9 @@ domain: econlib.org
 slug: econlib-org
 title: Is econlib.org Legit? Trust Score 100/100
 description: >-
-  econlib.org scores 100/100 on our public trust checks. Established domain —
-  registered 26.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:01:45.800Z'
+  econlib.org scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-03T08:07:44.263Z'
 finalUrl: 'https://www.econlib.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +55,14 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-17'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '1999-10-25'
-      ageDays: 9739
-      ageYears: 26.7
-    detail: Registered 26.7 years ago (1999-10-25).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-econlib.org looks like a well-established store. The clearest positives are that its domain has been registered for 26.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+econlib.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Econlib in the score above.
 

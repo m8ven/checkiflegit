@@ -1,29 +1,29 @@
 ---
 domain: diemacher.at
 slug: diemacher-at
-title: Is diemacher.at Legit? Trust Score 57/100 — Mixed Signals
+title: Is diemacher.at Legit? Trust Score 83/100
 description: >-
-  diemacher.at scores 57/100 on our public trust checks. No public contact
-  details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:15.484Z'
+  diemacher.at scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-03T08:13:18.926Z'
 finalUrl: 'https://diemacher.at/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 57
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 83
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-10-14'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -64,12 +64,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-diemacher.at sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+diemacher.at looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Diemacher in the score above.
 

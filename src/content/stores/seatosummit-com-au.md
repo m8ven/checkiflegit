@@ -5,7 +5,7 @@ title: Is seatosummit.com.au Legit? Trust Score 83/100
 description: >-
   seatosummit.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:52:43.696Z'
+fetchedAt: '2026-08-03T08:36:16.562Z'
 finalUrl: 'https://seatosummit.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

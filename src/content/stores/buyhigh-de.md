@@ -5,7 +5,7 @@ title: Is buyhigh.de Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   buyhigh.de scores 61/100 on our public trust checks. No links to major social
   platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:59:23.549Z'
+fetchedAt: '2026-08-03T08:06:07.570Z'
 finalUrl: 'https://www.buyhigh.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-26'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

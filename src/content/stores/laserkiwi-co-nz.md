@@ -4,8 +4,8 @@ slug: laserkiwi-co-nz
 title: Is laserkiwi.co.nz Legit? Trust Score 100/100
 description: >-
   laserkiwi.co.nz scores 100/100 on our public trust checks. Established domain
-  — registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:49:38.048Z'
+  — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:34:07.765Z'
 finalUrl: 'https://laserkiwi.co.nz/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.8 years ago.
+    - Established domain — registered 3.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-24'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-09-20'
-      ageDays: 1373
-      ageYears: 3.8
-    detail: Registered 3.8 years ago (2022-09-20).
+      ageDays: 1412
+      ageYears: 3.9
+    detail: Registered 3.9 years ago (2022-09-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-laserkiwi.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 3.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+laserkiwi.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Laserkiwi in the score above.
 

@@ -5,7 +5,7 @@ title: Is avada.studio Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   avada.studio scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:35:27.674Z'
+fetchedAt: '2026-08-03T08:22:09.557Z'
 finalUrl: 'https://avada.studio/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

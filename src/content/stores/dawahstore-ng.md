@@ -1,11 +1,11 @@
 ---
 domain: dawahstore.ng
 slug: dawahstore-ng
-title: Is dawahstore.ng Legit? Trust Score 100/100
+title: Is dawahstore.ng Legit? Trust Score 94/100
 description: >-
-  dawahstore.ng scores 100/100 on our public trust checks. Established domain —
-  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:31:13.989Z'
+  dawahstore.ng scores 94/100 on our public trust checks. Established domain —
+  registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:19:15.687Z'
 finalUrl: 'https://dawahstore.ng/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.8 years ago.
+    - Established domain — registered 6.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: true
+      terms: false
       refund: false
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2027-01-25'
-      daysToExpiry: 215
+      daysToExpiry: 175
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:
     status: pass
     value:
       createdAt: '2019-09-02'
-      ageDays: 2487
-      ageYears: 6.8
-    detail: Registered 6.8 years ago (2019-09-02).
+      ageDays: 2526
+      ageYears: 6.9
+    detail: Registered 6.9 years ago (2019-09-02).
   contact:
     status: pass
     value:
@@ -75,16 +75,16 @@ signals:
       address: true
     detail: 'Public contact details found: email, phone, address.'
   social:
-    status: pass
+    status: warn
     value:
       facebook: true
-      instagram: true
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: 'Links to 1 social platform(s): facebook.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dawahstore.ng looks like a well-established store. The clearest positives are that its domain has been registered for 6.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dawahstore.ng looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dawahstore in the score above.
 

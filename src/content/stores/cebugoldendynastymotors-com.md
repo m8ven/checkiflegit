@@ -4,9 +4,9 @@ slug: cebugoldendynastymotors-com
 title: Is cebugoldendynastymotors.com Legit? Trust Score 88/100
 description: >-
   cebugoldendynastymotors.com scores 88/100 on our public trust checks.
-  Established domain — registered 3.4 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 3.5 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:38:09.309Z'
+fetchedAt: '2026-08-03T08:24:19.357Z'
 finalUrl: 'https://cebugoldendynastymotors.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.4 years ago.
+    - Established domain — registered 3.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-18'
-      daysToExpiry: 147
+      daysToExpiry: 108
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2023-02-02'
-      ageDays: 1238
-      ageYears: 3.4
-    detail: Registered 3.4 years ago (2023-02-02).
+      ageDays: 1278
+      ageYears: 3.5
+    detail: Registered 3.5 years ago (2023-02-02).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cebugoldendynastymotors.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cebugoldendynastymotors.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cebugoldendynastymotors in the score above.
 

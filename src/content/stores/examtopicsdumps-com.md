@@ -5,7 +5,7 @@ title: Is examtopicsdumps.com Legit? Trust Score 82/100
 description: >-
   examtopicsdumps.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:44:54.162Z'
+fetchedAt: '2026-08-03T08:30:41.476Z'
 finalUrl: 'https://examtopicsdumps.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-12-12'
-      ageDays: 194
-      ageYears: 0.5
-    detail: Registered 0.5 years ago (2025-12-12).
+      ageDays: 233
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2025-12-12).
   contact:
     status: pass
     value:

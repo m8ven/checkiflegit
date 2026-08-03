@@ -6,7 +6,7 @@ description: >-
   bie.cciad.sn scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T03:36:37.072Z'
+fetchedAt: '2026-08-03T08:23:17.594Z'
 finalUrl: 'https://bie.cciad.sn/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-08'
-      daysToExpiry: 75
+      validTo: '2026-10-20'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -69,8 +69,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

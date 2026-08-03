@@ -4,8 +4,8 @@ slug: losbanosunshinebar-com
 title: Is losbanosunshinebar.com Legit? Trust Score 100/100
 description: >-
   losbanosunshinebar.com scores 100/100 on our public trust checks. Established
-  domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:53:23.749Z'
+  domain — registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:49.357Z'
 finalUrl: 'https://losbanosunshinebar.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.3 years ago.
+    - Established domain — registered 14.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-27'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-03-13'
-      ageDays: 5216
-      ageYears: 14.3
-    detail: Registered 14.3 years ago (2012-03-13).
+      ageDays: 5255
+      ageYears: 14.4
+    detail: Registered 14.4 years ago (2012-03-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-losbanosunshinebar.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+losbanosunshinebar.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Losbanosunshinebar in the score above.
 

@@ -5,7 +5,7 @@ title: Is ferdowsshafa.ir Legit? Trust Score 44/100
 description: >-
   ferdowsshafa.ir scores 44/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T03:44:51.272Z'
+fetchedAt: '2026-08-03T08:30:35.604Z'
 finalUrl: 'https://ferdowsshafa.ir/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-10-07'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

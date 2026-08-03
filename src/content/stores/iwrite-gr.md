@@ -5,7 +5,7 @@ title: Is iwrite.gr Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   iwrite.gr scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:21:21.421Z'
+fetchedAt: '2026-08-03T08:11:06.652Z'
 finalUrl: 'https://www.iwrite.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-31'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

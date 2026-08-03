@@ -1,24 +1,24 @@
 ---
 domain: zloty-lisc.pl
 slug: zloty-lisc-pl
-title: Is zloty-lisc.pl Legit? Trust Score 61/100 — Mixed Signals
+title: Is zloty-lisc.pl Legit? Trust Score 73/100
 description: >-
-  zloty-lisc.pl scores 61/100 on our public trust checks. No links to major
-  social platforms found. Some standard policy or contact pages appear to be
-  missing.
-fetchedAt: '2026-06-25T03:30:06.359Z'
+  zloty-lisc.pl scores 73/100 on our public trust checks. Established domain —
+  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:18:03.357Z'
 finalUrl: 'https://zloty-lisc.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 2.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,20 +57,23 @@ signals:
     value:
       issuer: cyber_Folks S.A.
       validTo: '2026-11-27'
-      daysToExpiry: 156
+      daysToExpiry: 117
       authorized: true
     detail: Valid certificate issued by cyber_Folks S.A..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2023-11-17'
+      ageDays: 989
+      ageYears: 2.7
+    detail: Registered 2.7 years ago (2023-11-17).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -92,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-zloty-lisc.pl sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+zloty-lisc.pl looks like a well-established store. The clearest positives are that its domain has been registered for 2.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Zloty-lisc in the score above.
 

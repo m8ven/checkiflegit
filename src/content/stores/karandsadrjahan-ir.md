@@ -5,7 +5,7 @@ title: Is karandsadrjahan.ir Legit? Trust Score 36/100
 description: >-
   karandsadrjahan.ir scores 36/100 on our public trust checks. Standard contact
   and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:48:03.298Z'
+fetchedAt: '2026-08-03T08:33:01.553Z'
 finalUrl: 'https://karandsadrjahan.ir/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2026-12-30'
-      daysToExpiry: 189
+      daysToExpiry: 150
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:

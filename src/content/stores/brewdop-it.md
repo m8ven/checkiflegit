@@ -1,11 +1,11 @@
 ---
 domain: brewdop.it
 slug: brewdop-it
-title: Is brewdop.it Legit? Trust Score 76/100 — Trust Checks Pass
+title: Is brewdop.it Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  brewdop.it scores 76/100 on our public trust checks. Established domain —
-  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:59:16.790Z'
+  brewdop.it scores 88/100 on our public trust checks. Established domain —
+  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:06:03.867Z'
 finalUrl: 'https://www.brewdop.it/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2027-03-06'
-      daysToExpiry: 255
+      daysToExpiry: 215
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2021-02-11'
-      ageDays: 1959
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-02-11).
+      ageDays: 1999
+      ageYears: 5.5
+    detail: Registered 5.5 years ago (2021-02-11).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-brewdop.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+brewdop.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Brewdop in the score above.
 

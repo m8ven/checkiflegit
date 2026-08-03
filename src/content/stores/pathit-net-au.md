@@ -6,7 +6,7 @@ description: >-
   pathit.net.au scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T03:25:39.431Z'
+fetchedAt: '2026-08-03T08:14:12.225Z'
 finalUrl: 'https://www.pathit.net.au/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

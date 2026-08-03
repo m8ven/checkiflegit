@@ -4,8 +4,8 @@ slug: theatticexchange-com
 title: Is theatticexchange.com Legit? Trust Score 100/100
 description: >-
   theatticexchange.com scores 100/100 on our public trust checks. Established
-  domain — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:32.477Z'
+  domain — registered 7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:02:22.516Z'
 finalUrl: 'https://theatticexchange.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 6.9 years ago.
+    - Established domain — registered 7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-27'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-08-04'
-      ageDays: 2516
-      ageYears: 6.9
-    detail: Registered 6.9 years ago (2019-08-04).
+      ageDays: 2556
+      ageYears: 7
+    detail: Registered 7 years ago (2019-08-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-theatticexchange.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+theatticexchange.com looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Theatticexchange in the score above.
 

@@ -1,30 +1,30 @@
 ---
 domain: coutellerie-ocean.fr
 slug: coutellerie-ocean-fr
-title: Is coutellerie-ocean.fr Legit? Trust Score 67/100
+title: Is coutellerie-ocean.fr Legit? Trust Score 85/100
 description: >-
-  coutellerie-ocean.fr scores 67/100 on our public trust checks. No links to
-  major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T03:39:13.532Z'
+  coutellerie-ocean.fr scores 85/100 on our public trust checks. Established
+  domain — registered 1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:24:56.213Z'
 finalUrl: 'https://coutellerie-ocean.fr/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 67
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Domain is relatively young.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Sectigo Limited
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2027-02-01'
+      daysToExpiry: 183
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
-    status: warn
+    status: pass
     value:
       createdAt: '2025-07-23'
-      ageDays: 336
-      ageYears: 0.9
-    detail: Registered 0.9 years ago (2025-07-23).
+      ageDays: 375
+      ageYears: 1
+    detail: Registered 1 years ago (2025-07-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-coutellerie-ocean.fr sends a mixed set of signals. On the positive side, it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. Against that, the domain is still relatively young and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+coutellerie-ocean.fr looks like a well-established store. The clearest positives are that its domain has been registered for 1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Coutellerie-ocean in the score above.
 

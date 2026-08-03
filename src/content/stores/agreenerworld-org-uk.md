@@ -4,8 +4,8 @@ slug: agreenerworld-org-uk
 title: Is agreenerworld.org.uk Legit? Trust Score 100/100
 description: >-
   agreenerworld.org.uk scores 100/100 on our public trust checks. Established
-  domain — registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:33:17.030Z'
+  domain — registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:20:40.252Z'
 finalUrl: 'https://agreenerworld.org.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.4 years ago.
+    - Established domain — registered 11.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-02-12'
-      ageDays: 4150
-      ageYears: 11.4
-    detail: Registered 11.4 years ago (2015-02-12).
+      ageDays: 4190
+      ageYears: 11.5
+    detail: Registered 11.5 years ago (2015-02-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-agreenerworld.org.uk looks like a well-established store. The clearest positives are that its domain has been registered for 11.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+agreenerworld.org.uk looks like a well-established store. The clearest positives are that its domain has been registered for 11.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Agreenerworld in the score above.
 

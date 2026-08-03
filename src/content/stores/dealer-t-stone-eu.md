@@ -5,7 +5,7 @@ title: Is dealer.t-stone.eu Legit? Trust Score 61/100
 description: >-
   dealer.t-stone.eu scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T03:40:02.434Z'
+fetchedAt: '2026-08-03T08:25:29.425Z'
 finalUrl: 'https://dealer.t-stone.eu/'
 reachable: true
 noindex: false
@@ -47,16 +47,16 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 37
+      validTo: '2026-10-13'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

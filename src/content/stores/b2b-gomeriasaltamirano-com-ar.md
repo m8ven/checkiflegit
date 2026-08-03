@@ -1,29 +1,29 @@
 ---
 domain: b2b.gomeriasaltamirano.com.ar
 slug: b2b-gomeriasaltamirano-com-ar
-title: Is b2b.gomeriasaltamirano.com.ar Legit? Trust Score 61/100
+title: Is b2b.gomeriasaltamirano.com.ar Legit? Trust Score 36/100
 description: >-
-  b2b.gomeriasaltamirano.com.ar scores 61/100 on our public trust checks. No
-  links to major social platforms found.
-fetchedAt: '2026-06-25T03:35:35.626Z'
+  b2b.gomeriasaltamirano.com.ar scores 36/100 on our public trust checks. No
+  public contact details detected on the homepage.
+fetchedAt: '2026-08-03T08:22:21.439Z'
 finalUrl: 'https://b2b.gomeriasaltamirano.com.ar/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 36
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -32,31 +32,31 @@ signals:
       finalUrl: 'https://b2b.gomeriasaltamirano.com.ar/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-02'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -64,12 +64,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-b2b.gomeriasaltamirano.com.ar sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for b2b.gomeriasaltamirano.com.ar. In particular, there are no clear public contact details and it has little or no social media footprint. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against B2b in the score above.
 

@@ -5,7 +5,7 @@ title: Is collecthors.eu Legit? Trust Score 100/100
 description: >-
   collecthors.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:55:29.658Z'
+fetchedAt: '2026-08-03T08:03:32.507Z'
 finalUrl: 'https://www.collecthors.eu/'
 reachable: true
 noindex: false
@@ -47,16 +47,16 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

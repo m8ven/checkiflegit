@@ -1,11 +1,11 @@
 ---
 domain: snfcp.org
 slug: snfcp-org
-title: Is snfcp.org Legit? Trust Score 70/100 — Trust Checks Pass
+title: Is snfcp.org Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  snfcp.org scores 70/100 on our public trust checks. Established domain —
-  registered 24 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:22:00.342Z'
+  snfcp.org scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-03T08:11:48.956Z'
 finalUrl: 'https://www.snfcp.org/'
 reachable: true
 noindex: false
@@ -15,15 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
+  redFlags: []
   cautions: []
 signals:
   http:
@@ -56,24 +55,21 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-27'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
+  contact:
     status: pass
     value:
-      createdAt: '2002-07-08'
-      ageDays: 8752
-      ageYears: 24
-    detail: Registered 24 years ago (2002-07-08).
-  contact:
-    status: fail
-    value:
       email: false
-      phone: false
-      address: false
-    detail: No public contact details detected on the homepage.
+      phone: true
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-snfcp.org looks like a well-established store. The clearest positives are that its domain has been registered for 24 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+snfcp.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Snfcp in the score above.
 

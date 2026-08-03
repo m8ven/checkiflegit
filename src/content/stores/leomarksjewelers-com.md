@@ -4,8 +4,8 @@ slug: leomarksjewelers-com
 title: Is leomarksjewelers.com Legit? Trust Score 88/100
 description: >-
   leomarksjewelers.com scores 88/100 on our public trust checks. Established
-  domain — registered 20.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:48:31.997Z'
+  domain — registered 20.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:33:19.335Z'
 finalUrl: 'https://leomarksjewelers.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.3 years ago.
+    - Established domain — registered 20.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-01'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-03-14'
-      ageDays: 7407
-      ageYears: 20.3
-    detail: Registered 20.3 years ago (2006-03-14).
+      ageDays: 7446
+      ageYears: 20.4
+    detail: Registered 20.4 years ago (2006-03-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-leomarksjewelers.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+leomarksjewelers.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Leomarksjewelers in the score above.
 

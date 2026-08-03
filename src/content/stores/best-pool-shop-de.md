@@ -5,7 +5,7 @@ title: Is best-pool-shop.de Legit? Trust Score 61/100
 description: >-
   best-pool-shop.de scores 61/100 on our public trust checks. No links to major
   social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:03:02.421Z'
+fetchedAt: '2026-08-03T08:08:47.710Z'
 finalUrl: 'https://best-pool-shop.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

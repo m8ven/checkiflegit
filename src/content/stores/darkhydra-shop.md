@@ -5,7 +5,7 @@ title: Is darkhydra.shop Legit? Trust Score 31/100
 description: >-
   darkhydra.shop scores 31/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:39:51.506Z'
+fetchedAt: '2026-08-03T08:25:21.862Z'
 finalUrl: 'https://darkhydra.shop/'
 reachable: true
 noindex: false
@@ -50,14 +50,14 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-03'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

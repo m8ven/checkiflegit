@@ -5,7 +5,7 @@ title: Is 2stories.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   2stories.com scores 55/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:56:23.527Z'
+fetchedAt: '2026-08-03T08:04:10.404Z'
 finalUrl: 'https://www.2stories.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.2 years ago.
+    - Established domain — registered 23.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-04-22'
-      ageDays: 8465
-      ageYears: 23.2
-    detail: Registered 23.2 years ago (2003-04-22).
+      ageDays: 8504
+      ageYears: 23.3
+    detail: Registered 23.3 years ago (2003-04-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-2stories.com sends a mixed set of signals. On the positive side, its domain has been registered for 23.2 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+2stories.com sends a mixed set of signals. On the positive side, its domain has been registered for 23.3 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 2stories in the score above.
 

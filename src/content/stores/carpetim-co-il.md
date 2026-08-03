@@ -1,12 +1,12 @@
 ---
 domain: carpetim.co.il
 slug: carpetim-co-il
-title: Is carpetim.co.il Legit? Trust Score 40/100
+title: Is carpetim.co.il Legit? Trust Score 36/100
 description: >-
-  carpetim.co.il scores 40/100 on our public trust checks. Standard contact and
-  policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:54:32.579Z'
-finalUrl: 'https://www.carpetim.co.il/'
+  carpetim.co.il scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:02:57.536Z'
+finalUrl: 'https://carpetim.co.il/'
 reachable: true
 noindex: false
 verdict:
@@ -16,48 +16,47 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 40
+  score: 36
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
-    - Standard contact and policy pages were not found.
-  cautions:
-    - Only limited contact details were found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.carpetim.co.il/'
+      finalUrl: 'https://carpetim.co.il/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: fail
-    value:
-      contact: false
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      contact: true
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
@@ -65,23 +64,23 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
-      tiktok: true
-      youtube: true
+      tiktok: false
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, tiktok, youtube.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -92,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for carpetim.co.il. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for carpetim.co.il. In particular, there are no clear public contact details and it has little or no social media footprint. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Carpetim in the score above.
 

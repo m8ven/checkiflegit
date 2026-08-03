@@ -5,7 +5,7 @@ title: Is socialmediajungle.gr Legit? Trust Score 83/100
 description: >-
   socialmediajungle.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:27:29.879Z'
+fetchedAt: '2026-08-03T08:15:58.840Z'
 finalUrl: 'https://socialmediajungle.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

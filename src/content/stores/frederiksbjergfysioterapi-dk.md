@@ -4,9 +4,9 @@ slug: frederiksbjergfysioterapi-dk
 title: Is frederiksbjergfysioterapi.dk Legit? Trust Score 82/100
 description: >-
   frederiksbjergfysioterapi.dk scores 82/100 on our public trust checks.
-  Established domain — registered 22.4 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 22.5 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:45:28.602Z'
+fetchedAt: '2026-08-03T08:31:02.811Z'
 finalUrl: 'https://frederiksbjergfysioterapi.dk/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.4 years ago.
+    - Established domain — registered 22.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 84
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-02-19'
-      ageDays: 8162
-      ageYears: 22.4
-    detail: Registered 22.4 years ago (2004-02-19).
+      ageDays: 8201
+      ageYears: 22.5
+    detail: Registered 22.5 years ago (2004-02-19).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-frederiksbjergfysioterapi.dk looks like a well-established store. The clearest positives are that its domain has been registered for 22.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+frederiksbjergfysioterapi.dk looks like a well-established store. The clearest positives are that its domain has been registered for 22.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Frederiksbjergfysioterapi in the score above.
 

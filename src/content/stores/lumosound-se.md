@@ -5,7 +5,7 @@ title: Is lumosound.se Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   lumosound.se scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:50:49.586Z'
+fetchedAt: '2026-08-03T08:34:59.795Z'
 finalUrl: 'https://lumosound.se/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.3 years ago.
+    - Established domain — registered 2.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-03-20'
-      ageDays: 827
-      ageYears: 2.3
-    detail: Registered 2.3 years ago (2024-03-20).
+      ageDays: 866
+      ageYears: 2.4
+    detail: Registered 2.4 years ago (2024-03-20).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lumosound.se sends a mixed set of signals. On the positive side, its domain has been registered for 2.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+lumosound.se sends a mixed set of signals. On the positive side, its domain has been registered for 2.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lumosound in the score above.
 

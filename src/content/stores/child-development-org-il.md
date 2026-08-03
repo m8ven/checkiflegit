@@ -5,7 +5,7 @@ title: Is child-development.org.il Legit? Trust Score 100/100
 description: >-
   child-development.org.il scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:01:15.019Z'
+fetchedAt: '2026-08-03T08:07:24.737Z'
 finalUrl: 'https://child-development.org.il/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -73,14 +73,14 @@ signals:
   social:
     status: pass
     value:
-      facebook: true
+      facebook: false
       instagram: true
       twitter: true
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
+    detail: 'Links to 2 social platform(s): instagram, twitter.'
   reviews:
     status: unknown
     value:

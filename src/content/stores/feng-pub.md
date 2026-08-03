@@ -1,75 +1,75 @@
 ---
 domain: feng.pub
 slug: feng-pub
-title: Is feng.pub Legit? Trust Score 61/100 — Mixed Signals
+title: Is feng.pub Legit? Trust Score 0/100 — Proceed With Caution
 description: >-
-  feng.pub scores 61/100 on our public trust checks. No links to major social
-  platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:44:50.380Z'
-finalUrl: 'https://feng.pub/'
+  feng.pub scores 0/100 on our public trust checks. Standard contact and policy
+  pages were not found. No public contact details detected on the homepage.
+fetchedAt: '2026-08-03T08:30:33.266Z'
+finalUrl: 'http://feng.pub/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
-  greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 0
+  greenFlags: []
   redFlags:
+    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - HTTPS certificate present but its trust chain is incomplete.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://feng.pub/'
+      finalUrl: 'http://feng.pub/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
-      privacy: true
+      contact: false
+      privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: pass
+    status: warn
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 35
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+      validTo: '2026-10-05'
+      daysToExpiry: 63
+      authorized: false
+    detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: unknown
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-feng.pub sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for feng.pub. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Feng in the score above.
 

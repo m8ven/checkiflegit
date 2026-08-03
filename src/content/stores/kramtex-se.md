@@ -1,30 +1,29 @@
 ---
 domain: kramtex.se
 slug: kramtex-se
-title: Is kramtex.se Legit? Trust Score 76/100 — Trust Checks Pass
+title: Is kramtex.se Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  kramtex.se scores 76/100 on our public trust checks. Established domain —
-  registered 28.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:46:51.609Z'
+  kramtex.se scores 55/100 on our public trust checks. No public contact details
+  detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:31:54.834Z'
 finalUrl: 'https://kramtex.se/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 76
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.7 years ago.
+    - Established domain — registered 28.8 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,58 +32,58 @@ signals:
       finalUrl: 'https://kramtex.se/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-28'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-10-18'
-      ageDays: 10477
-      ageYears: 28.7
-    detail: Registered 28.7 years ago (1997-10-18).
+      ageDays: 10516
+      ageYears: 28.8
+    detail: Registered 28.8 years ago (1997-10-18).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kramtex.se looks like a well-established store. The clearest positives are that its domain has been registered for 28.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kramtex.se sends a mixed set of signals. On the positive side, its domain has been registered for 28.8 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kramtex in the score above.
 

@@ -4,8 +4,8 @@ slug: drliberty-com
 title: Is drliberty.com Legit? Trust Score 82/100
 description: >-
   drliberty.com scores 82/100 on our public trust checks. Established domain —
-  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:38:39.138Z'
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:24:38.619Z'
 finalUrl: 'https://drliberty.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 1.2 years ago.
+    - Established domain — registered 1.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: ZeroSSL GmbH
       validTo: '2026-08-12'
-      daysToExpiry: 49
+      daysToExpiry: 10
       authorized: true
     detail: Valid certificate issued by ZeroSSL GmbH.
   domainAge:
     status: pass
     value:
       createdAt: '2025-04-16'
-      ageDays: 434
-      ageYears: 1.2
-    detail: Registered 1.2 years ago (2025-04-16).
+      ageDays: 473
+      ageYears: 1.3
+    detail: Registered 1.3 years ago (2025-04-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-drliberty.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+drliberty.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Drliberty in the score above.
 

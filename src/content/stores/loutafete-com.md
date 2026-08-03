@@ -1,11 +1,11 @@
 ---
 domain: loutafete.com
 slug: loutafete-com
-title: Is loutafete.com Legit? Trust Score 100/100
+title: Is loutafete.com Legit? Trust Score 88/100
 description: >-
-  loutafete.com scores 100/100 on our public trust checks. Established domain —
-  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:53:24.394Z'
+  loutafete.com scores 88/100 on our public trust checks. Established domain —
+  registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:50.290Z'
 finalUrl: 'https://loutafete.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.4 years ago.
+    - Established domain — registered 16.5 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -33,58 +32,58 @@ signals:
       finalUrl: 'https://loutafete.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: false
         hasCartLink: false
-        hasCatalog: false
+        hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
-      issuer: Sectigo Limited
-      validTo: '2026-07-18'
-      daysToExpiry: 24
+      issuer: Google Trust Services
+      validTo: '2026-10-06'
+      daysToExpiry: 65
       authorized: true
-    detail: Valid certificate issued by Sectigo Limited.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2010-01-28'
-      ageDays: 5991
-      ageYears: 16.4
-    detail: Registered 16.4 years ago (2010-01-28).
+      ageDays: 6030
+      ageYears: 16.5
+    detail: Registered 16.5 years ago (2010-01-28).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
       facebook: true
       instagram: true
       twitter: false
-      tiktok: false
+      tiktok: true
       youtube: false
-      linkedin: false
+      linkedin: true
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: 'Links to 4 social platform(s): facebook, instagram, tiktok, linkedin.'
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-loutafete.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+loutafete.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Loutafete in the score above.
 

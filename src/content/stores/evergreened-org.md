@@ -5,7 +5,7 @@ title: Is evergreened.org Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   evergreened.org scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T03:44:15.695Z'
+fetchedAt: '2026-08-03T08:29:57.332Z'
 finalUrl: 'https://evergreened.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3 years ago.
+    - Established domain — registered 3.1 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-06-26'
-      ageDays: 1094
-      ageYears: 3
-    detail: Registered 3 years ago (2023-06-26).
+      ageDays: 1134
+      ageYears: 3.1
+    detail: Registered 3.1 years ago (2023-06-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-evergreened.org sends a mixed set of signals. On the positive side, its domain has been registered for 3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+evergreened.org sends a mixed set of signals. On the positive side, its domain has been registered for 3.1 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Evergreened in the score above.
 

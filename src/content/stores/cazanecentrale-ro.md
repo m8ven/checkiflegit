@@ -4,8 +4,8 @@ slug: cazanecentrale-ro
 title: Is cazanecentrale.ro Legit? Trust Score 76/100
 description: >-
   cazanecentrale.ro scores 76/100 on our public trust checks. Established domain
-  — registered 11 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:46.814Z'
+  — registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:03:05.961Z'
 finalUrl: 'https://www.cazanecentrale.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11 years ago.
+    - Established domain — registered 11.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2015-07-02'
-      ageDays: 4011
-      ageYears: 11
-    detail: Registered 11 years ago (2015-07-02).
+      ageDays: 4050
+      ageYears: 11.1
+    detail: Registered 11.1 years ago (2015-07-02).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cazanecentrale.ro looks like a well-established store. The clearest positives are that its domain has been registered for 11 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cazanecentrale.ro looks like a well-established store. The clearest positives are that its domain has been registered for 11.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cazanecentrale in the score above.
 

@@ -4,8 +4,8 @@ slug: golfsonservera-com
 title: Is golfsonservera.com Legit? Trust Score 100/100
 description: >-
   golfsonservera.com scores 100/100 on our public trust checks. Established
-  domain — registered 27.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:48.067Z'
+  domain — registered 27.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:30.531Z'
 finalUrl: 'https://golfsonservera.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.8 years ago.
+    - Established domain — registered 27.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      issuer: Sectigo Limited
+      validTo: '2027-01-26'
+      daysToExpiry: 177
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '1998-09-30'
-      ageDays: 10129
-      ageYears: 27.8
-    detail: Registered 27.8 years ago (1998-09-30).
+      ageDays: 10169
+      ageYears: 27.9
+    detail: Registered 27.9 years ago (1998-09-30).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-golfsonservera.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+golfsonservera.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Golfsonservera in the score above.
 

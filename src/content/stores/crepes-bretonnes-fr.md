@@ -4,8 +4,8 @@ slug: crepes-bretonnes-fr
 title: Is crepes-bretonnes.fr Legit? Trust Score 100/100
 description: >-
   crepes-bretonnes.fr scores 100/100 on our public trust checks. Established
-  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:30:22.999Z'
+  domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:18:13.191Z'
 finalUrl: 'https://crepes-bretonnes.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,31 +49,31 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 58
+      validTo: '2026-10-21'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-12-04'
-      ageDays: 2028
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-12-04).
+      ageDays: 2067
+      ageYears: 5.7
+    detail: Registered 5.7 years ago (2020-12-04).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-crepes-bretonnes.fr looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+crepes-bretonnes.fr looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Crepes-bretonnes in the score above.
 

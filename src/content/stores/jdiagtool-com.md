@@ -4,8 +4,8 @@ slug: jdiagtool-com
 title: Is jdiagtool.com Legit? Trust Score 85/100
 description: >-
   jdiagtool.com scores 85/100 on our public trust checks. Established domain —
-  registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:43:36.016Z'
+  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:29:07.013Z'
 finalUrl: 'https://jdiagtool.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.8 years ago.
+    - Established domain — registered 3.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 83
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-09-20'
-      ageDays: 1374
-      ageYears: 3.8
-    detail: Registered 3.8 years ago (2022-09-20).
+      ageDays: 1413
+      ageYears: 3.9
+    detail: Registered 3.9 years ago (2022-09-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jdiagtool.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jdiagtool.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jdiagtool in the score above.
 

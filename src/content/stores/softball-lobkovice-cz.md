@@ -5,7 +5,7 @@ title: Is softball-lobkovice.cz Legit? Trust Score 66/100
 description: >-
   softball-lobkovice.cz scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:22:03.896Z'
+fetchedAt: '2026-08-03T08:11:49.361Z'
 finalUrl: 'https://www.softball-lobkovice.cz/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-10-15'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

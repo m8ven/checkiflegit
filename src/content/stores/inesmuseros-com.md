@@ -4,8 +4,8 @@ slug: inesmuseros-com
 title: Is inesmuseros.com Legit? Trust Score 88/100
 description: >-
   inesmuseros.com scores 88/100 on our public trust checks. Established domain —
-  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:49:30.569Z'
+  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:34:02.266Z'
 finalUrl: 'https://inesmuseros.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.6 years ago.
+    - Established domain — registered 4.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-05'
-      daysToExpiry: 134
+      daysToExpiry: 95
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2021-11-02'
-      ageDays: 1695
-      ageYears: 4.6
-    detail: Registered 4.6 years ago (2021-11-02).
+      ageDays: 1734
+      ageYears: 4.8
+    detail: Registered 4.8 years ago (2021-11-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-inesmuseros.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+inesmuseros.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Inesmuseros in the score above.
 

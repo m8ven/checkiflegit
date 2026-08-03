@@ -1,11 +1,11 @@
 ---
 domain: centerforlearning.org
 slug: centerforlearning-org
-title: Is centerforlearning.org Legit? Trust Score 82/100
+title: Is centerforlearning.org Legit? Trust Score 74/100
 description: >-
-  centerforlearning.org scores 82/100 on our public trust checks. Established
-  domain — registered 30 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:49.917Z'
+  centerforlearning.org scores 74/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
+fetchedAt: '2026-08-03T08:03:06.927Z'
 finalUrl: 'https://www.centerforlearning.org/'
 reachable: true
 noindex: false
@@ -15,10 +15,9 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 74
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 30 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +56,13 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '1996-07-02'
-      ageDays: 10949
-      ageYears: 30
-    detail: Registered 30 years ago (1996-07-02).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-centerforlearning.org looks like a well-established store. The clearest positives are that its domain has been registered for 30 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+centerforlearning.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Centerforlearning in the score above.
 

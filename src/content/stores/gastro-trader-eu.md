@@ -5,7 +5,7 @@ title: Is gastro-trader.eu Legit? Trust Score 100/100
 description: >-
   gastro-trader.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:33:09.381Z'
+fetchedAt: '2026-08-03T08:20:36.475Z'
 finalUrl: 'https://gastro-trader.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

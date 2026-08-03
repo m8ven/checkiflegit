@@ -5,7 +5,7 @@ title: Is julia-kokke-music.de Legit? Trust Score 74/100
 description: >-
   julia-kokke-music.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:01:04.648Z'
+fetchedAt: '2026-08-03T08:07:22.598Z'
 finalUrl: 'https://www.julia-kokke-music.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 70
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

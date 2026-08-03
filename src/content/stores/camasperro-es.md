@@ -5,7 +5,7 @@ title: Is camasperro.es Legit? Trust Score 91/100
 description: >-
   camasperro.es scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:59:07.647Z'
+fetchedAt: '2026-08-03T08:05:56.635Z'
 finalUrl: 'https://camasperro.es/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 53
+      validTo: '2026-10-28'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

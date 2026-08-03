@@ -5,7 +5,7 @@ title: Is traum-fabrik.de Legit? Trust Score 100/100
 description: >-
   traum-fabrik.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:28:38.417Z'
+fetchedAt: '2026-08-03T08:16:52.719Z'
 finalUrl: 'https://www.traum-fabrik.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-23'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

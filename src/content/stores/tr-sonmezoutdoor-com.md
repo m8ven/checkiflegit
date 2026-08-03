@@ -5,7 +5,7 @@ title: Is tr.sonmezoutdoor.com Legit? Trust Score 14/100
 description: >-
   tr.sonmezoutdoor.com scores 14/100 on our public trust checks. Standard
   contact and policy pages were not found.
-fetchedAt: '2026-06-25T02:54:17.185Z'
+fetchedAt: '2026-08-03T08:02:48.660Z'
 finalUrl: 'https://tr.sonmezoutdoor.com/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

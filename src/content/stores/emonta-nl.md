@@ -1,31 +1,30 @@
 ---
 domain: emonta.nl
 slug: emonta-nl
-title: Is emonta.nl Legit? Trust Score 43/100
+title: Is emonta.nl Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  emonta.nl scores 43/100 on our public trust checks. No public contact details
+  emonta.nl scores 55/100 on our public trust checks. No public contact details
   detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:28:47.364Z'
+fetchedAt: '2026-08-03T08:16:59.629Z'
 finalUrl: 'https://emonta.nl/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 43
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.4 years ago.
+    - Established domain — registered 26.5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -45,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-17'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-02-19'
-      ageDays: 9623
-      ageYears: 26.4
-    detail: Registered 26.4 years ago (2000-02-19).
+      ageDays: 9662
+      ageYears: 26.5
+    detail: Registered 26.5 years ago (2000-02-19).
   contact:
     status: fail
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for emonta.nl. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 26.4 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+emonta.nl sends a mixed set of signals. On the positive side, its domain has been registered for 26.5 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Emonta in the score above.
 

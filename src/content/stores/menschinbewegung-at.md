@@ -5,7 +5,7 @@ title: Is menschinbewegung.at Legit? Trust Score 83/100
 description: >-
   menschinbewegung.at scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:24:21.889Z'
+fetchedAt: '2026-08-03T08:13:20.840Z'
 finalUrl: 'https://www.menschinbewegung.at/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

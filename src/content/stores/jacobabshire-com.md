@@ -4,8 +4,8 @@ slug: jacobabshire-com
 title: Is jacobabshire.com Legit? Trust Score 88/100
 description: >-
   jacobabshire.com scores 88/100 on our public trust checks. Established domain
-  — registered 18.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:00:44.028Z'
+  — registered 18.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:07:06.317Z'
 finalUrl: 'https://www.jacobabshire.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.8 years ago.
+    - Established domain — registered 18.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-09-24'
-      ageDays: 6848
-      ageYears: 18.8
-    detail: Registered 18.8 years ago (2007-09-24).
+      ageDays: 6887
+      ageYears: 18.9
+    detail: Registered 18.9 years ago (2007-09-24).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jacobabshire.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jacobabshire.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jacobabshire in the score above.
 

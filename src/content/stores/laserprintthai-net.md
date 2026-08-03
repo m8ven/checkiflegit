@@ -5,7 +5,7 @@ title: Is laserprintthai.net Legit? Trust Score 64/100
 description: >-
   laserprintthai.net scores 64/100 on our public trust checks. Standard contact
   and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T03:52:36.962Z'
+fetchedAt: '2026-08-03T08:36:12.926Z'
 finalUrl: 'https://laserprintthai.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.1 years ago.
+    - Established domain — registered 3.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-05-05'
-      ageDays: 1146
-      ageYears: 3.1
-    detail: Registered 3.1 years ago (2023-05-05).
+      ageDays: 1186
+      ageYears: 3.2
+    detail: Registered 3.2 years ago (2023-05-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-laserprintthai.net sends a mixed set of signals. On the positive side, its domain has been registered for 3.1 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+laserprintthai.net sends a mixed set of signals. On the positive side, its domain has been registered for 3.2 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Laserprintthai in the score above.
 

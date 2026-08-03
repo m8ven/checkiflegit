@@ -5,7 +5,7 @@ title: Is daymart.ir Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   daymart.ir scores 49/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T03:31:14.660Z'
+fetchedAt: '2026-08-03T08:19:16.497Z'
 finalUrl: 'https://daymart.ir/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-26'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

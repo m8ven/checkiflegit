@@ -5,7 +5,7 @@ title: Is tlv-licht.de Legit? Trust Score 100/100
 description: >-
   tlv-licht.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:23:14.913Z'
+fetchedAt: '2026-08-03T08:12:40.740Z'
 finalUrl: 'https://www.tlv-licht.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-03'
-      daysToExpiry: 101
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

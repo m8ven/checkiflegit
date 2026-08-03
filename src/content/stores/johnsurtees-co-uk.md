@@ -1,25 +1,23 @@
 ---
 domain: johnsurtees.co.uk
 slug: johnsurtees-co-uk
-title: Is johnsurtees.co.uk Legit? Trust Score 73/100
+title: Is johnsurtees.co.uk Legit? Trust Score 46/100
 description: >-
-  johnsurtees.co.uk scores 73/100 on our public trust checks. Established domain
-  — registered 26.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:43:49.096Z'
+  johnsurtees.co.uk scores 46/100 on our public trust checks. No links to major
+  social platforms found.
+fetchedAt: '2026-08-03T08:29:20.799Z'
 finalUrl: 'https://johnsurtees.co.uk/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 46
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.5 years ago.
-    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
@@ -53,20 +51,13 @@ signals:
       shipping: false
     detail: Found 1 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2000-01-17'
-      ageDays: 9655
-      ageYears: 26.5
-    detail: Registered 26.5 years ago (2000-01-17).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -95,7 +86,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-johnsurtees.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 26.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+johnsurtees.co.uk sends a mixed set of signals. On the positive side, it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Johnsurtees in the score above.
 

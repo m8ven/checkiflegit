@@ -1,30 +1,31 @@
 ---
 domain: bollywoodbites.co.ke
 slug: bollywoodbites-co-ke
-title: Is bollywoodbites.co.ke Legit? Trust Score 70/100
+title: Is bollywoodbites.co.ke Legit? Trust Score 58/100
 description: >-
-  bollywoodbites.co.ke scores 70/100 on our public trust checks. Established
-  domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:16:30.788Z'
+  bollywoodbites.co.ke scores 58/100 on our public trust checks. Standard
+  contact and policy pages were not found. Only limited contact details were
+  found.
+fetchedAt: '2026-08-03T08:00:54.028Z'
 finalUrl: 'https://bollywoodbites.co.ke/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.3 years ago.
+    - Established domain — registered 5.4 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags:
     - Standard contact and policy pages were not found.
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -55,25 +56,25 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-10'
-      daysToExpiry: 78
+      issuer: Google Trust Services
+      validTo: '2026-10-28'
+      daysToExpiry: 87
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-03-11'
-      ageDays: 1931
-      ageYears: 5.3
-    detail: Registered 5.3 years ago (2021-03-11).
+      ageDays: 1971
+      ageYears: 5.4
+    detail: Registered 5.4 years ago (2021-03-11).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bollywoodbites.co.ke looks like a well-established store. The clearest positives are that its domain has been registered for 5.3 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bollywoodbites.co.ke sends a mixed set of signals. On the positive side, its domain has been registered for 5.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bollywoodbites in the score above.
 

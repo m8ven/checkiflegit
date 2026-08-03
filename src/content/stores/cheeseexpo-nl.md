@@ -4,8 +4,8 @@ slug: cheeseexpo-nl
 title: Is cheeseexpo.nl Legit? Trust Score 100/100
 description: >-
   cheeseexpo.nl scores 100/100 on our public trust checks. Established domain —
-  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:57.574Z'
+  registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:03:13.175Z'
 finalUrl: 'https://www.cheeseexpo.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.1 years ago.
+    - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,30 +50,30 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-05'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-05-27'
-      ageDays: 2220
-      ageYears: 6.1
-    detail: Registered 6.1 years ago (2020-05-27).
+      ageDays: 2259
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-05-27).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cheeseexpo.nl looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cheeseexpo.nl looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cheeseexpo in the score above.
 

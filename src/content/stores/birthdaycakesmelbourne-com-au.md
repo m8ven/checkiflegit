@@ -5,7 +5,7 @@ title: Is birthdaycakesmelbourne.com.au Legit? Trust Score 100/100
 description: >-
   birthdaycakesmelbourne.com.au scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:20:17.591Z'
+fetchedAt: '2026-08-03T08:10:20.594Z'
 finalUrl: 'https://birthdaycakesmelbourne.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

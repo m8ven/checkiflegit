@@ -5,7 +5,7 @@ title: Is webbutik.sksf.se Legit? Trust Score 44/100
 description: >-
   webbutik.sksf.se scores 44/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:55:58.438Z'
+fetchedAt: '2026-08-03T08:03:53.999Z'
 finalUrl: 'https://webbutik.sksf.se/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-28'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

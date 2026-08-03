@@ -5,7 +5,7 @@ title: Is accesshub.at Legit? Trust Score 100/100
 description: >-
   accesshub.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:32:54.939Z'
+fetchedAt: '2026-08-03T08:20:27.289Z'
 finalUrl: 'https://accesshub.at/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is madamehappylight.fr Legit? Trust Score 58/100
 description: >-
   madamehappylight.fr scores 58/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:51:23.765Z'
+fetchedAt: '2026-08-03T08:35:15.932Z'
 finalUrl: 'https://madamehappylight.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.8 years ago.
+    - Established domain — registered 1.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-07'
-      daysToExpiry: 75
+      validTo: '2026-10-07'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-09-20'
-      ageDays: 642
-      ageYears: 1.8
-    detail: Registered 1.8 years ago (2024-09-20).
+      ageDays: 681
+      ageYears: 1.9
+    detail: Registered 1.9 years ago (2024-09-20).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-madamehappylight.fr sends a mixed set of signals. On the positive side, its domain has been registered for 1.8 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+madamehappylight.fr sends a mixed set of signals. On the positive side, its domain has been registered for 1.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Madamehappylight in the score above.
 

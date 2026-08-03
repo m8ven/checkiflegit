@@ -3,9 +3,9 @@ domain: happyimplants.com
 slug: happyimplants-com
 title: Is happyimplants.com Legit? Trust Score 100/100
 description: >-
-  happyimplants.com scores 100/100 on our public trust checks. Established
-  domain — registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:36:38.365Z'
+  happyimplants.com scores 100/100 on our public trust checks. Has a contact
+  page and multiple policy pages (privacy/terms/refund).
+fetchedAt: '2026-08-03T08:01:09.650Z'
 finalUrl: 'https://happyimplants.com/'
 reachable: true
 noindex: false
@@ -18,8 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.5 years ago.
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -49,31 +47,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-21'
-      daysToExpiry: 89
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2006-01-11'
-      ageDays: 7469
-      ageYears: 20.5
-    detail: Registered 20.5 years ago (2006-01-11).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +86,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-happyimplants.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+happyimplants.com looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Happyimplants in the score above.
 

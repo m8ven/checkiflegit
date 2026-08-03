@@ -5,7 +5,7 @@ title: Is fujostore-4j56mdbmg-fujowebdev.vercel.app Legit? Score 74/100
 description: >-
   fujostore-4j56mdbmg-fujowebdev.vercel.app scores 74/100 on our public trust
   checks. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:33.474Z'
+fetchedAt: '2026-08-03T08:20:10.236Z'
 finalUrl: 'https://fujostore-4j56mdbmg-fujowebdev.vercel.app/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-27'
-      daysToExpiry: 32
+      validTo: '2026-09-26'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

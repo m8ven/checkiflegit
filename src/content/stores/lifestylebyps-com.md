@@ -1,30 +1,30 @@
 ---
 domain: lifestylebyps.com
 slug: lifestylebyps-com
-title: Is lifestylebyps.com Legit? Trust Score 70/100
+title: Is lifestylebyps.com Legit? Trust Score 58/100
 description: >-
-  lifestylebyps.com scores 70/100 on our public trust checks. Established domain
-  — registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:59.891Z'
+  lifestylebyps.com scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
+fetchedAt: '2026-08-03T08:36:36.822Z'
 finalUrl: 'https://lifestylebyps.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 58
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 14.5 years ago.
+    - Established domain — registered 14.6 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
-      contact: true
+      contact: false
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-12-15'
-      ageDays: 5305
-      ageYears: 14.5
-    detail: Registered 14.5 years ago (2011-12-15).
+      ageDays: 5345
+      ageYears: 14.6
+    detail: Registered 14.6 years ago (2011-12-15).
   contact:
     status: fail
     value:
@@ -79,12 +79,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
+      pinterest: true
+    detail: 'Links to 3 social platform(s): facebook, instagram, pinterest.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lifestylebyps.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lifestylebyps.com sends a mixed set of signals. On the positive side, its domain has been registered for 14.6 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lifestylebyps in the score above.
 

@@ -5,7 +5,7 @@ title: Is thriftybathrooms.com.au Legit? Trust Score 100/100
 description: >-
   thriftybathrooms.com.au scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:55.210Z'
+fetchedAt: '2026-08-03T08:02:32.593Z'
 finalUrl: 'https://thriftybathrooms.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 64
+      validTo: '2026-10-27'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

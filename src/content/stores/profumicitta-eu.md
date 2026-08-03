@@ -5,7 +5,7 @@ title: Is profumicitta.eu Legit? Trust Score 100/100
 description: >-
   profumicitta.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:38:26.563Z'
+fetchedAt: '2026-08-03T08:24:34.367Z'
 finalUrl: 'https://profumicitta.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

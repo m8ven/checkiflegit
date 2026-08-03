@@ -5,7 +5,7 @@ title: Is nirgendwo-berlin.de Legit? Trust Score 83/100
 description: >-
   nirgendwo-berlin.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:01:34.982Z'
+fetchedAt: '2026-08-03T08:07:36.577Z'
 finalUrl: 'https://nirgendwo-berlin.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-29'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

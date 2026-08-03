@@ -1,29 +1,30 @@
 ---
 domain: pompy-wroclaw.pl
 slug: pompy-wroclaw-pl
-title: Is pompy-wroclaw.pl Legit? Trust Score 61/100
+title: Is pompy-wroclaw.pl Legit? Trust Score 85/100
 description: >-
-  pompy-wroclaw.pl scores 61/100 on our public trust checks. No links to major
-  social platforms found.
-fetchedAt: '2026-06-25T03:33:44.157Z'
+  pompy-wroclaw.pl scores 85/100 on our public trust checks. Established domain
+  — registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:20:59.876Z'
 finalUrl: 'https://pompy-wroclaw.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 15.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -43,33 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-10-10'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2011-03-06'
+      ageDays: 5628
+      ageYears: 15.4
+    detail: Registered 15.4 years ago (2011-03-06).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pompy-wroclaw.pl sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+pompy-wroclaw.pl looks like a well-established store. The clearest positives are that its domain has been registered for 15.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pompy-wroclaw in the score above.
 

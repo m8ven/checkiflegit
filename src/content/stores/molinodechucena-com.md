@@ -4,8 +4,8 @@ slug: molinodechucena-com
 title: Is molinodechucena.com Legit? Trust Score 100/100
 description: >-
   molinodechucena.com scores 100/100 on our public trust checks. Established
-  domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:53:09.839Z'
+  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:41.709Z'
 finalUrl: 'https://molinodechucena.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.7 years ago.
+    - Established domain — registered 4.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-21'
-      daysToExpiry: 26
+      validTo: '2026-09-30'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-10-22'
-      ageDays: 1706
-      ageYears: 4.7
-    detail: Registered 4.7 years ago (2021-10-22).
+      ageDays: 1745
+      ageYears: 4.8
+    detail: Registered 4.8 years ago (2021-10-22).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-molinodechucena.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+molinodechucena.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Molinodechucena in the score above.
 

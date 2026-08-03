@@ -1,11 +1,11 @@
 ---
 domain: bailishaver.com
 slug: bailishaver-com
-title: Is bailishaver.com Legit? Trust Score 70/100
+title: Is bailishaver.com Legit? Trust Score 100/100
 description: >-
-  bailishaver.com scores 70/100 on our public trust checks. Established domain —
-  registered 18.6 years ago.
-fetchedAt: '2026-06-25T02:58:29.993Z'
+  bailishaver.com scores 100/100 on our public trust checks. Established domain
+  — registered 18.7 years ago.
+fetchedAt: '2026-08-03T08:05:26.945Z'
 finalUrl: 'https://www.bailishaver.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.6 years ago.
+    - Established domain — registered 18.7 years ago.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No valid SSL certificate — connection may not be secure.
+  redFlags: []
   cautions: []
 signals:
   http:
@@ -53,16 +52,16 @@ signals:
       shipping: false
     detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: fail
+    status: unknown
     value: null
-    detail: 'TLS connection failed: connect ECONNREFUSED 43.166.132.138:443'
+    detail: TLS connection timed out.
   domainAge:
     status: pass
     value:
       createdAt: '2007-11-30'
-      ageDays: 6782
-      ageYears: 18.6
-    detail: Registered 18.6 years ago (2007-11-30).
+      ageDays: 6821
+      ageYears: 18.7
+    detail: Registered 18.7 years ago (2007-11-30).
   contact:
     status: pass
     value:
@@ -93,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bailishaver.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.6 years and it lists genuine business contact details. The main thing we would flag is that it does not present a valid security certificate, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bailishaver.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bailishaver in the score above.
 

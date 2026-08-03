@@ -5,7 +5,7 @@ title: Is ing-fischer.at Legit? Trust Score 79/100
 description: >-
   ing-fischer.at scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:41:32.534Z'
+fetchedAt: '2026-08-03T08:26:57.957Z'
 finalUrl: 'https://ing-fischer.at/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-05'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

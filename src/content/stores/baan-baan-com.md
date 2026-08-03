@@ -4,8 +4,8 @@ slug: baan-baan-com
 title: Is baan-baan.com Legit? Trust Score 100/100
 description: >-
   baan-baan.com scores 100/100 on our public trust checks. Established domain —
-  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:02.568Z'
+  registered 15.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:02:38.106Z'
 finalUrl: 'https://baan-baan.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.8 years ago.
+    - Established domain — registered 15.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,31 +49,31 @@ signals:
       contact: true
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-09'
-      daysToExpiry: 168
+      daysToExpiry: 129
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2010-09-06'
-      ageDays: 5770
-      ageYears: 15.8
-    detail: Registered 15.8 years ago (2010-09-06).
+      ageDays: 5809
+      ageYears: 15.9
+    detail: Registered 15.9 years ago (2010-09-06).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-baan-baan.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+baan-baan.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Baan-baan in the score above.
 

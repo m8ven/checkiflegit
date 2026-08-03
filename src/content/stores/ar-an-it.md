@@ -4,8 +4,8 @@ slug: ar-an-it
 title: Is ar-an.it Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   ar-an.it scores 100/100 on our public trust checks. Established domain —
-  registered 21.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:57:45.598Z'
+  registered 21.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:05:05.160Z'
 finalUrl: 'https://www.ar-an.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.2 years ago.
+    - Established domain — registered 21.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Actalis S.p.A.
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2027-02-12'
+      daysToExpiry: 193
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2005-04-12'
-      ageDays: 7743
-      ageYears: 21.2
-    detail: Registered 21.2 years ago (2005-04-12).
+      ageDays: 7783
+      ageYears: 21.3
+    detail: Registered 21.3 years ago (2005-04-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ar-an.it looks like a well-established store. The clearest positives are that its domain has been registered for 21.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ar-an.it looks like a well-established store. The clearest positives are that its domain has been registered for 21.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ar-an in the score above.
 

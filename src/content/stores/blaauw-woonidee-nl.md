@@ -4,8 +4,8 @@ slug: blaauw-woonidee-nl
 title: Is blaauw-woonidee.nl Legit? Trust Score 82/100
 description: >-
   blaauw-woonidee.nl scores 82/100 on our public trust checks. Established
-  domain — registered 27.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:20:30.842Z'
+  domain — registered 27.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:10:31.220Z'
 finalUrl: 'https://blaauw-woonidee.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.1 years ago.
+    - Established domain — registered 27.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-06-03'
-      ageDays: 9884
-      ageYears: 27.1
-    detail: Registered 27.1 years ago (1999-06-03).
+      ageDays: 9923
+      ageYears: 27.2
+    detail: Registered 27.2 years ago (1999-06-03).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blaauw-woonidee.nl looks like a well-established store. The clearest positives are that its domain has been registered for 27.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+blaauw-woonidee.nl looks like a well-established store. The clearest positives are that its domain has been registered for 27.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blaauw-woonidee in the score above.
 

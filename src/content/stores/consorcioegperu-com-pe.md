@@ -5,7 +5,7 @@ title: Is consorcioegperu.com.pe Legit? Trust Score 100/100
 description: >-
   consorcioegperu.com.pe scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:39:03.418Z'
+fetchedAt: '2026-08-03T08:24:52.158Z'
 finalUrl: 'https://consorcioegperu.com.pe/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 78
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

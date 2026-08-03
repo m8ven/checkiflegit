@@ -5,7 +5,7 @@ title: Is sask.fi Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   sask.fi scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:21:24.534Z'
+fetchedAt: '2026-08-03T08:11:08.898Z'
 finalUrl: 'https://www.sask.fi/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

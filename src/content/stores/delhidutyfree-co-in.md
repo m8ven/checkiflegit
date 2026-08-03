@@ -5,7 +5,7 @@ title: Is delhidutyfree.co.in Legit? Trust Score 100/100
 description: >-
   delhidutyfree.co.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-24T21:46:39.711Z'
+fetchedAt: '2026-08-03T08:00:54.026Z'
 finalUrl: 'https://delhidutyfree.co.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

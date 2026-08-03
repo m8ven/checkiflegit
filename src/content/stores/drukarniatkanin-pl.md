@@ -1,29 +1,30 @@
 ---
 domain: drukarniatkanin.pl
 slug: drukarniatkanin-pl
-title: Is drukarniatkanin.pl Legit? Trust Score 61/100
+title: Is drukarniatkanin.pl Legit? Trust Score 85/100
 description: >-
-  drukarniatkanin.pl scores 61/100 on our public trust checks. No links to major
-  social platforms found.
-fetchedAt: '2026-06-25T03:34:45.705Z'
+  drukarniatkanin.pl scores 85/100 on our public trust checks. Established
+  domain — registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:21:39.387Z'
 finalUrl: 'https://drukarniatkanin.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -38,38 +39,41 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
+        hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
+      privacy: true
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-07'
-      daysToExpiry: 75
+      validTo: '2026-10-28'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2016-11-18'
+      ageDays: 3544
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-18).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-drukarniatkanin.pl sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+drukarniatkanin.pl looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Drukarniatkanin in the score above.
 

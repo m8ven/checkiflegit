@@ -1,11 +1,11 @@
 ---
 domain: tuinmeubelsale.nl
 slug: tuinmeubelsale-nl
-title: Is tuinmeubelsale.nl Legit? Trust Score 70/100
+title: Is tuinmeubelsale.nl Legit? Trust Score 82/100
 description: >-
-  tuinmeubelsale.nl scores 70/100 on our public trust checks. Established domain
-  — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:40.119Z'
+  tuinmeubelsale.nl scores 82/100 on our public trust checks. Established domain
+  — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:03:00.582Z'
 finalUrl: 'https://tuinmeubelsale.nl/'
 reachable: true
 noindex: false
@@ -15,14 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.3 years ago.
+    - Established domain — registered 8.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
     - Limited social media presence.
 signals:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 82
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-03-08'
-      ageDays: 3031
-      ageYears: 8.3
-    detail: Registered 8.3 years ago (2018-03-08).
+      ageDays: 3070
+      ageYears: 8.4
+    detail: Registered 8.4 years ago (2018-03-08).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tuinmeubelsale.nl looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tuinmeubelsale.nl looks like a well-established store. The clearest positives are that its domain has been registered for 8.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tuinmeubelsale in the score above.
 

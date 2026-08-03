@@ -4,8 +4,8 @@ slug: paclights-com
 title: Is paclights.com Legit? Trust Score 70/100
 description: >-
   paclights.com scores 70/100 on our public trust checks. Established domain —
-  registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:19:44.111Z'
+  registered 13 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:09:42.651Z'
 finalUrl: 'https://www.paclights.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.9 years ago.
+    - Established domain — registered 13 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-12'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-08-03'
-      ageDays: 4708
-      ageYears: 12.9
-    detail: Registered 12.9 years ago (2013-08-03).
+      ageDays: 4747
+      ageYears: 13
+    detail: Registered 13 years ago (2013-08-03).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-paclights.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+paclights.com looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Paclights in the score above.
 

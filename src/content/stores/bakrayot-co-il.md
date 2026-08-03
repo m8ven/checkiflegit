@@ -6,7 +6,7 @@ description: >-
   bakrayot.co.il scores 57/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:01:15.396Z'
+fetchedAt: '2026-08-03T08:07:26.816Z'
 finalUrl: 'https://bakrayot.co.il/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

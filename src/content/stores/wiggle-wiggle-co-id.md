@@ -4,8 +4,8 @@ slug: wiggle-wiggle-co-id
 title: Is wiggle-wiggle.co.id Legit? Trust Score 94/100
 description: >-
   wiggle-wiggle.co.id scores 94/100 on our public trust checks. Established
-  domain — registered 2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:07.625Z'
+  domain — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:03:55.371Z'
 finalUrl: 'https://wiggle-wiggle.co.id/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 2 years ago.
+    - Established domain — registered 2.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-06-11'
-      ageDays: 743
-      ageYears: 2
-    detail: Registered 2 years ago (2024-06-11).
+      ageDays: 782
+      ageYears: 2.1
+    detail: Registered 2.1 years ago (2024-06-11).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-wiggle-wiggle.co.id looks like a well-established store. The clearest positives are that its domain has been registered for 2 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+wiggle-wiggle.co.id looks like a well-established store. The clearest positives are that its domain has been registered for 2.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Wiggle-wiggle in the score above.
 

@@ -4,8 +4,8 @@ slug: colchonko-com
 title: Is colchonko.com Legit? Trust Score 100/100
 description: >-
   colchonko.com scores 100/100 on our public trust checks. Established domain —
-  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:03:17.521Z'
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:56.722Z'
 finalUrl: 'https://colchonko.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.3 years ago.
+    - Established domain — registered 6.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: false
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-03-04'
-      ageDays: 2303
-      ageYears: 6.3
-    detail: Registered 6.3 years ago (2020-03-04).
+      ageDays: 2342
+      ageYears: 6.4
+    detail: Registered 6.4 years ago (2020-03-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-colchonko.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+colchonko.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Colchonko in the score above.
 

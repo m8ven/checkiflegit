@@ -5,8 +5,8 @@ title: Is straighttothepointe.net Legit? Trust Score 58/100
 description: >-
   straighttothepointe.net scores 58/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:31:23.370Z'
-finalUrl: 'http://www.straighttothepointe.net/'
+fetchedAt: '2026-08-03T08:19:25.583Z'
+finalUrl: 'https://www.straighttothepointe.net/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.3 years ago.
+    - Established domain — registered 12.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'http://www.straighttothepointe.net/'
+      finalUrl: 'https://www.straighttothepointe.net/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-03-06'
-      ageDays: 4493
-      ageYears: 12.3
-    detail: Registered 12.3 years ago (2014-03-06).
+      ageDays: 4532
+      ageYears: 12.4
+    detail: Registered 12.4 years ago (2014-03-06).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-straighttothepointe.net sends a mixed set of signals. On the positive side, its domain has been registered for 12.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+straighttothepointe.net sends a mixed set of signals. On the positive side, its domain has been registered for 12.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Straighttothepointe in the score above.
 

@@ -5,7 +5,7 @@ title: Is e.rus-anaboliki9.net Legit? Trust Score 57/100
 description: >-
   e.rus-anaboliki9.net scores 57/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:42:44.154Z'
+fetchedAt: '2026-08-03T08:28:14.759Z'
 finalUrl: 'https://e.rus-anaboliki9.net/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-21'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

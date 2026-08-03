@@ -1,11 +1,11 @@
 ---
 domain: arvem.nl
 slug: arvem-nl
-title: Is arvem.nl Legit? Trust Score 88/100 — Trust Checks Pass
+title: Is arvem.nl Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  arvem.nl scores 88/100 on our public trust checks. Established domain —
-  registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:34:28.445Z'
+  arvem.nl scores 100/100 on our public trust checks. Established domain —
+  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:21:25.537Z'
 finalUrl: 'https://arvem.nl/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.6 years ago.
+    - Established domain — registered 16.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-14'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-11-28'
-      ageDays: 6053
-      ageYears: 16.6
-    detail: Registered 16.6 years ago (2009-11-28).
+      ageDays: 6092
+      ageYears: 16.7
+    detail: Registered 16.7 years ago (2009-11-28).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-arvem.nl looks like a well-established store. The clearest positives are that its domain has been registered for 16.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+arvem.nl looks like a well-established store. The clearest positives are that its domain has been registered for 16.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Arvem in the score above.
 

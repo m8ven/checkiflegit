@@ -5,7 +5,7 @@ title: Is aluvolets.eu Legit? Trust Score 83/100
 description: >-
   aluvolets.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:32:52.201Z'
+fetchedAt: '2026-08-03T08:20:27.194Z'
 finalUrl: 'https://aluvolets.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 74
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

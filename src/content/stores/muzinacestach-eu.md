@@ -5,7 +5,7 @@ title: Is muzinacestach.eu Legit? Trust Score 40/100
 description: >-
   muzinacestach.eu scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:03:29.063Z'
+fetchedAt: '2026-08-03T08:09:04.735Z'
 finalUrl: 'https://www.muzinacestach.eu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-22'
-      daysToExpiry: 90
+      validTo: '2026-10-19'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

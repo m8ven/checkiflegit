@@ -4,8 +4,8 @@ slug: stonesinstyle-com
 title: Is stonesinstyle.com Legit? Trust Score 70/100
 description: >-
   stonesinstyle.com scores 70/100 on our public trust checks. Established domain
-  — registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:27:43.822Z'
+  — registered 22.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:16:21.915Z'
 finalUrl: 'https://www.stonesinstyle.com/en/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.8 years ago.
+    - Established domain — registered 22.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-14'
-      daysToExpiry: 20
+      validTo: '2026-09-25'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-09-08'
-      ageDays: 8325
-      ageYears: 22.8
-    detail: Registered 22.8 years ago (2003-09-08).
+      ageDays: 8364
+      ageYears: 22.9
+    detail: Registered 22.9 years ago (2003-09-08).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-stonesinstyle.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+stonesinstyle.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Stonesinstyle in the score above.
 

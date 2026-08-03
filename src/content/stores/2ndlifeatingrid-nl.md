@@ -4,8 +4,8 @@ slug: 2ndlifeatingrid-nl
 title: Is 2ndlifeatingrid.nl Legit? Trust Score 73/100
 description: >-
   2ndlifeatingrid.nl scores 73/100 on our public trust checks. Established
-  domain — registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:38.146Z'
+  domain — registered 8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:20:14.536Z'
 finalUrl: 'https://2ndlifeatingrid.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.9 years ago.
+    - Established domain — registered 8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -46,27 +46,27 @@ signals:
   pages:
     status: warn
     value:
-      contact: true
+      contact: false
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-07-18'
-      ageDays: 2899
-      ageYears: 7.9
-    detail: Registered 7.9 years ago (2018-07-18).
+      ageDays: 2938
+      ageYears: 8
+    detail: Registered 8 years ago (2018-07-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-2ndlifeatingrid.nl looks like a well-established store. The clearest positives are that its domain has been registered for 7.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+2ndlifeatingrid.nl looks like a well-established store. The clearest positives are that its domain has been registered for 8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 2ndlifeatingrid in the score above.
 

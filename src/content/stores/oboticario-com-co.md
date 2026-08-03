@@ -5,7 +5,7 @@ title: Is oboticario.com.co Legit? Trust Score 66/100
 description: >-
   oboticario.com.co scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:19:21.896Z'
+fetchedAt: '2026-08-03T08:09:25.957Z'
 finalUrl: 'https://www.oboticario.com.co/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: false
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: 'Found 3 policy page(s), no contact page.'
+    detail: 'Found 4 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 76
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

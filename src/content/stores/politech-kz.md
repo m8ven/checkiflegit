@@ -1,30 +1,29 @@
 ---
 domain: politech.kz
 slug: politech-kz
-title: Is politech.kz Legit? Trust Score 36/100
+title: Is politech.kz Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  politech.kz scores 36/100 on our public trust checks. Standard contact and
-  policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:33:34.658Z'
+  politech.kz scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
+fetchedAt: '2026-08-03T08:20:50.161Z'
 finalUrl: 'https://politech.kz/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 36
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
-    - Standard contact and policy pages were not found.
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,20 +43,20 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -92,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for politech.kz. In particular, we could not find the usual contact and policy pages and it has little or no social media footprint. It does have some positives — it lists genuine business contact details and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+politech.kz sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Politech in the score above.
 

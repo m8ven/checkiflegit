@@ -1,12 +1,12 @@
 ---
 domain: globegallery.org
 slug: globegallery-org
-title: Is globegallery.org Legit? Trust Score 88/100
+title: Is globegallery.org Legit? Trust Score 70/100
 description: >-
-  globegallery.org scores 88/100 on our public trust checks. Established domain
-  — registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:41.850Z'
-finalUrl: 'https://globegallery.org/'
+  globegallery.org scores 70/100 on our public trust checks. Established domain
+  — registered 25.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:23.493Z'
+finalUrl: 'https://www.globegallery.org/'
 reachable: true
 noindex: false
 verdict:
@@ -15,22 +15,22 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 25.7 years ago.
+    - Established domain — registered 25.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  redFlags:
+    - Standard contact and policy pages were not found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://globegallery.org/'
+      finalUrl: 'https://www.globegallery.org/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -38,35 +38,35 @@ signals:
       platform: Shopify
       isStore: true
       markers:
-        hasAddToCart: true
-        hasCartLink: true
+        hasAddToCart: false
+        hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
     detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
       contact: false
-      privacy: true
+      privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
-      issuer: Sectigo Limited
-      validTo: '2026-10-28'
-      daysToExpiry: 126
+      issuer: Let's Encrypt
+      validTo: '2026-10-17'
+      daysToExpiry: 76
       authorized: true
-    detail: Valid certificate issued by Sectigo Limited.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-11-01'
-      ageDays: 9366
-      ageYears: 25.7
-    detail: Registered 25.7 years ago (2000-11-01).
+      ageDays: 9405
+      ageYears: 25.8
+    detail: Registered 25.8 years ago (2000-11-01).
   contact:
     status: pass
     value:
@@ -79,12 +79,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-globegallery.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+globegallery.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.8 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Globegallery in the score above.
 

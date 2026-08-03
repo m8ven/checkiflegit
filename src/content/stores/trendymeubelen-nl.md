@@ -4,8 +4,8 @@ slug: trendymeubelen-nl
 title: Is trendymeubelen.nl Legit? Trust Score 94/100
 description: >-
   trendymeubelen.nl scores 94/100 on our public trust checks. Established domain
-  — registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:28.560Z'
+  — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:02:54.739Z'
 finalUrl: 'https://trendymeubelen.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.6 years ago.
+    - Established domain — registered 7.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -48,32 +48,32 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-11-10'
-      ageDays: 2784
-      ageYears: 7.6
-    detail: Registered 7.6 years ago (2018-11-10).
+      ageDays: 2823
+      ageYears: 7.7
+    detail: Registered 7.7 years ago (2018-11-10).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-trendymeubelen.nl looks like a well-established store. The clearest positives are that its domain has been registered for 7.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+trendymeubelen.nl looks like a well-established store. The clearest positives are that its domain has been registered for 7.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Trendymeubelen in the score above.
 

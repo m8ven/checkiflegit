@@ -4,8 +4,8 @@ slug: desertsign-store
 title: Is desertsign.store Legit? Trust Score 88/100
 description: >-
   desertsign.store scores 88/100 on our public trust checks. Established domain
-  — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:40:23.034Z'
+  — registered 7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:25:56.225Z'
 finalUrl: 'https://desertsign.store/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.9 years ago.
+    - Established domain — registered 7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-07-30'
-      ageDays: 2521
-      ageYears: 6.9
-    detail: Registered 6.9 years ago (2019-07-30).
+      ageDays: 2560
+      ageYears: 7
+    detail: Registered 7 years ago (2019-07-30).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-desertsign.store looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+desertsign.store looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Desertsign in the score above.
 

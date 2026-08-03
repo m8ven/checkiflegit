@@ -5,7 +5,7 @@ title: Is primeshine-hamburg.de Legit? Trust Score 83/100
 description: >-
   primeshine-hamburg.de scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:36:57.992Z'
+fetchedAt: '2026-08-03T08:23:37.955Z'
 finalUrl: 'https://primeshine-hamburg.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-02'
-      daysToExpiry: 131
+      daysToExpiry: 92
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

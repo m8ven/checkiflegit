@@ -4,8 +4,8 @@ slug: rascomgreenbuild-ca
 title: Is rascomgreenbuild.ca Legit? Trust Score 88/100
 description: >-
   rascomgreenbuild.ca scores 88/100 on our public trust checks. Established
-  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:20:59.855Z'
+  domain — registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:10:54.368Z'
 finalUrl: 'https://www.rascomgreenbuild.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.4 years ago.
+    - Established domain — registered 8.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-14'
-      daysToExpiry: 143
+      daysToExpiry: 104
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2018-01-22'
-      ageDays: 3075
-      ageYears: 8.4
-    detail: Registered 8.4 years ago (2018-01-22).
+      ageDays: 3114
+      ageYears: 8.5
+    detail: Registered 8.5 years ago (2018-01-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rascomgreenbuild.ca looks like a well-established store. The clearest positives are that its domain has been registered for 8.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+rascomgreenbuild.ca looks like a well-established store. The clearest positives are that its domain has been registered for 8.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rascomgreenbuild in the score above.
 

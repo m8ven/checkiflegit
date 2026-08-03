@@ -4,8 +4,8 @@ slug: ibantoni-com
 title: Is ibantoni.com Legit? Trust Score 100/100
 description: >-
   ibantoni.com scores 100/100 on our public trust checks. Established domain —
-  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:46:26.001Z'
+  registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:31:33.375Z'
 finalUrl: 'https://ibantoni.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.3 years ago.
+    - Established domain — registered 11.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 70
+      validTo: '2026-11-01'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-03-01'
-      ageDays: 4133
-      ageYears: 11.3
-    detail: Registered 11.3 years ago (2015-03-01).
+      ageDays: 4172
+      ageYears: 11.4
+    detail: Registered 11.4 years ago (2015-03-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ibantoni.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ibantoni.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ibantoni in the score above.
 

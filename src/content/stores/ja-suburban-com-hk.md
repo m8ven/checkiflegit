@@ -5,7 +5,7 @@ title: Is ja.suburban.com.hk Legit? Trust Score 100/100
 description: >-
   ja.suburban.com.hk scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:43:07.342Z'
+fetchedAt: '2026-08-03T08:28:38.469Z'
 finalUrl: 'https://ja.suburban.com.hk/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

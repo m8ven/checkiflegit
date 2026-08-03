@@ -5,7 +5,7 @@ title: Is sellzys.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   sellzys.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:53:08.138Z'
+fetchedAt: '2026-08-03T08:36:41.022Z'
 finalUrl: 'https://sellzys.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-01'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-03'
-      ageDays: 233
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-03).
+      ageDays: 272
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-03).
   contact:
     status: pass
     value:

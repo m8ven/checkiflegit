@@ -4,8 +4,8 @@ slug: airbag-car-com
 title: Is airbag-car.com Legit? Trust Score 88/100
 description: >-
   airbag-car.com scores 88/100 on our public trust checks. Established domain —
-  registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:33:23.011Z'
+  registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:20:45.323Z'
 finalUrl: 'https://airbag-car.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.7 years ago.
+    - Established domain — registered 12.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-01'
-      daysToExpiry: 99
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2013-10-27'
-      ageDays: 4623
-      ageYears: 12.7
-    detail: Registered 12.7 years ago (2013-10-27).
+      ageDays: 4662
+      ageYears: 12.8
+    detail: Registered 12.8 years ago (2013-10-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-airbag-car.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+airbag-car.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Airbag-car in the score above.
 

@@ -5,7 +5,7 @@ title: Is rechnungshai.de Legit? Trust Score 36/100
 description: >-
   rechnungshai.de scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:21:04.821Z'
+fetchedAt: '2026-08-03T08:10:55.591Z'
 finalUrl: 'https://www.rechnungshai.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-08'
-      daysToExpiry: 137
+      daysToExpiry: 98
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

@@ -4,8 +4,8 @@ slug: duotts-com
 title: Is duotts.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   duotts.com scores 100/100 on our public trust checks. Established domain —
-  registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:27:21.336Z'
+  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:47.998Z'
 finalUrl: 'https://duotts.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 4.7 years ago.
+    - Established domain — registered 4.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-10-12'
-      ageDays: 1716
-      ageYears: 4.7
-    detail: Registered 4.7 years ago (2021-10-12).
+      ageDays: 1755
+      ageYears: 4.8
+    detail: Registered 4.8 years ago (2021-10-12).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-duotts.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+duotts.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Duotts in the score above.
 

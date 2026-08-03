@@ -5,7 +5,7 @@ title: Is der-tauchshop.de Legit? Trust Score 79/100
 description: >-
   der-tauchshop.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:33:48.449Z'
+fetchedAt: '2026-08-03T08:21:01.776Z'
 finalUrl: 'https://der-tauchshop.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

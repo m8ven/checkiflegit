@@ -6,7 +6,7 @@ description: >-
   breslev.co.il scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:20:07.668Z'
+fetchedAt: '2026-08-03T08:10:08.057Z'
 finalUrl: 'https://breslev.co.il/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 80
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: gladiatorequine-com
 title: Is gladiatorequine.com Legit? Trust Score 70/100
 description: >-
   gladiatorequine.com scores 70/100 on our public trust checks. Established
-  domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:55.105Z'
+  domain — registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:31.636Z'
 finalUrl: 'https://gladiatorequine.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.1 years ago.
+    - Established domain — registered 4.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: 'Starfield Technologies, Inc.'
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      issuer: Starfield Technologies
+      validTo: '2026-09-23'
+      daysToExpiry: 52
       authorized: true
-    detail: 'Valid certificate issued by Starfield Technologies, Inc..'
+    detail: Valid certificate issued by Starfield Technologies.
   domainAge:
     status: pass
     value:
       createdAt: '2022-05-16'
-      ageDays: 1500
-      ageYears: 4.1
-    detail: Registered 4.1 years ago (2022-05-16).
+      ageDays: 1539
+      ageYears: 4.2
+    detail: Registered 4.2 years ago (2022-05-16).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gladiatorequine.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gladiatorequine.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gladiatorequine in the score above.
 

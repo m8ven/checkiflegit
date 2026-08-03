@@ -5,7 +5,7 @@ title: Is baynuts.com.au Legit? Trust Score 100/100
 description: >-
   baynuts.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:02:01.301Z'
+fetchedAt: '2026-08-03T08:08:02.650Z'
 finalUrl: 'https://baynuts.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 42
+      validTo: '2026-10-04'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -66,10 +66,10 @@ signals:
   contact:
     status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: true
-    detail: 'Public contact details found: phone, address.'
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

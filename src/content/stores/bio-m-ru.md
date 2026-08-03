@@ -4,8 +4,8 @@ slug: bio-m-ru
 title: Is bio-m.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   bio-m.ru scores 73/100 on our public trust checks. Established domain —
-  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:39.322Z'
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:23:18.879Z'
 finalUrl: 'https://bio-m.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.9 years ago.
+    - Established domain — registered 3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -47,26 +47,26 @@ signals:
     status: warn
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-24'
-      ageDays: 1066
-      ageYears: 2.9
-    detail: Registered 2.9 years ago (2023-07-24).
+      ageDays: 1105
+      ageYears: 3
+    detail: Registered 3 years ago (2023-07-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bio-m.ru looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bio-m.ru looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bio-m in the score above.
 

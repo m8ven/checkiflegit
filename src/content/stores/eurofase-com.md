@@ -4,8 +4,8 @@ slug: eurofase-com
 title: Is eurofase.com Legit? Trust Score 100/100
 description: >-
   eurofase.com scores 100/100 on our public trust checks. Established domain —
-  registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:51.320Z'
+  registered 26.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:28:18.655Z'
 finalUrl: 'https://eurofase.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.6 years ago.
+    - Established domain — registered 26.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-09'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-11-15'
-      ageDays: 9718
-      ageYears: 26.6
-    detail: Registered 26.6 years ago (1999-11-15).
+      ageDays: 9757
+      ageYears: 26.7
+    detail: Registered 26.7 years ago (1999-11-15).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eurofase.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eurofase.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eurofase in the score above.
 

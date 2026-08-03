@@ -4,8 +4,8 @@ slug: brokepoque-com
 title: Is brokepoque.com Legit? Trust Score 88/100
 description: >-
   brokepoque.com scores 88/100 on our public trust checks. Established domain —
-  registered 7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:37:21.375Z'
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:23:44.966Z'
 finalUrl: 'https://brokepoque.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7 years ago.
+    - Established domain — registered 7.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Sectigo Limited
-      validTo: '2026-07-18'
-      daysToExpiry: 24
+      validTo: '2027-01-15'
+      daysToExpiry: 166
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2019-06-30'
-      ageDays: 2551
-      ageYears: 7
-    detail: Registered 7 years ago (2019-06-30).
+      ageDays: 2590
+      ageYears: 7.1
+    detail: Registered 7.1 years ago (2019-06-30).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-brokepoque.com looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+brokepoque.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Brokepoque in the score above.
 

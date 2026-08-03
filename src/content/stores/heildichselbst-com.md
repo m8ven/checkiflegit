@@ -5,7 +5,7 @@ title: Is heildichselbst.com Legit? Trust Score 70/100
 description: >-
   heildichselbst.com scores 70/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:52:22.692Z'
+fetchedAt: '2026-08-03T08:36:07.416Z'
 finalUrl: 'https://heildichselbst.com/'
 reachable: true
 noindex: false
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-09-28'
-      ageDays: 269
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-09-28).
+      ageDays: 308
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-09-28).
   contact:
     status: warn
     value:

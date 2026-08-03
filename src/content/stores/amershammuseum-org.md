@@ -3,9 +3,9 @@ domain: amershammuseum.org
 slug: amershammuseum-org
 title: Is amershammuseum.org Legit? Trust Score 100/100
 description: >-
-  amershammuseum.org scores 100/100 on our public trust checks. Established
-  domain — registered 20.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:34:06.759Z'
+  amershammuseum.org scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-03T08:21:09.925Z'
 finalUrl: 'https://amershammuseum.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +56,13 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2005-08-12'
-      ageDays: 7621
-      ageYears: 20.9
-    detail: Registered 20.9 years ago (2005-08-12).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-amershammuseum.org looks like a well-established store. The clearest positives are that its domain has been registered for 20.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+amershammuseum.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Amershammuseum in the score above.
 

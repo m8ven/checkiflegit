@@ -1,11 +1,11 @@
 ---
 domain: koko.dn.ua
 slug: koko-dn-ua
-title: Is koko.dn.ua Legit? Trust Score 88/100 — Trust Checks Pass
+title: Is koko.dn.ua Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  koko.dn.ua scores 88/100 on our public trust checks. Established domain —
-  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:46:29.312Z'
+  koko.dn.ua scores 100/100 on our public trust checks. Established domain —
+  registered 13.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:31:36.062Z'
 finalUrl: 'https://koko.dn.ua/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.3 years ago.
+    - Established domain — registered 13.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 87
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-03-20'
-      ageDays: 4844
-      ageYears: 13.3
-    detail: Registered 13.3 years ago (2013-03-20).
+      ageDays: 4883
+      ageYears: 13.4
+    detail: Registered 13.4 years ago (2013-03-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-koko.dn.ua looks like a well-established store. The clearest positives are that its domain has been registered for 13.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+koko.dn.ua looks like a well-established store. The clearest positives are that its domain has been registered for 13.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Koko in the score above.
 

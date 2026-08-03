@@ -5,7 +5,7 @@ title: Is designzoom.dk Legit? Trust Score 37/100
 description: >-
   designzoom.dk scores 37/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:40:26.456Z'
+fetchedAt: '2026-08-03T08:25:58.684Z'
 finalUrl: 'https://designzoom.dk/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-27'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-02'
-      ageDays: 266
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-10-02).
+      ageDays: 305
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-10-02).
   contact:
     status: pass
     value:

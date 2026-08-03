@@ -1,31 +1,30 @@
 ---
 domain: federacioncantabradegolf.com
 slug: federacioncantabradegolf-com
-title: Is federacioncantabradegolf.com Legit? Trust Score 100/100
+title: Is federacioncantabradegolf.com Legit? Trust Score 43/100
 description: >-
-  federacioncantabradegolf.com scores 100/100 on our public trust checks.
-  Established domain — registered 13.3 years ago. Valid HTTPS/SSL certificate in
-  place.
-fetchedAt: '2026-06-25T03:30:52.283Z'
+  federacioncantabradegolf.com scores 43/100 on our public trust checks. No
+  public contact details detected on the homepage.
+fetchedAt: '2026-08-03T08:19:06.028Z'
 finalUrl: 'https://federacioncantabradegolf.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 100
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 43
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.3 years ago.
+    - Established domain — registered 13.4 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions: []
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -34,58 +33,58 @@ signals:
       finalUrl: 'https://federacioncantabradegolf.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
-      terms: true
+      privacy: false
+      terms: false
       refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-03-07'
-      ageDays: 4857
-      ageYears: 13.3
-    detail: Registered 13.3 years ago (2013-03-07).
+      ageDays: 4896
+      ageYears: 13.4
+    detail: Registered 13.4 years ago (2013-03-07).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
-      twitter: true
+      twitter: false
       tiktok: false
-      youtube: true
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, twitter, youtube.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-federacioncantabradegolf.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for federacioncantabradegolf.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 13.4 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Federacioncantabradegolf in the score above.
 

@@ -6,7 +6,7 @@ description: >-
   jka37.com scores 25/100 on our public trust checks. Standard contact and
   policy pages were not found. No public contact details detected on the
   homepage.
-fetchedAt: '2026-06-25T03:47:35.475Z'
+fetchedAt: '2026-08-03T08:32:35.123Z'
 finalUrl: 'https://jka37.com/'
 reachable: true
 noindex: false
@@ -20,7 +20,7 @@ verdict:
   score: 25
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.9 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -58,17 +58,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 30
+      validTo: '2026-10-20'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-08-08'
-      ageDays: 1781
-      ageYears: 4.9
-    detail: Registered 4.9 years ago (2021-08-08).
+      ageDays: 1820
+      ageYears: 5
+    detail: Registered 5 years ago (2021-08-08).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for jka37.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 4.9 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for jka37.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 5 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jka37 in the score above.
 

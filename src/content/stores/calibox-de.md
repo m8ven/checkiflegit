@@ -5,7 +5,7 @@ title: Is calibox.de Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   calibox.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:37:36.226Z'
+fetchedAt: '2026-08-03T08:23:57.838Z'
 finalUrl: 'https://calibox.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

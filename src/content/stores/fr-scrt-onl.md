@@ -5,7 +5,7 @@ title: Is fr.scrt.onl Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   fr.scrt.onl scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:45:47.239Z'
+fetchedAt: '2026-08-03T08:31:13.071Z'
 finalUrl: 'https://fr.scrt.onl/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

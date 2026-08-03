@@ -4,8 +4,8 @@ slug: bentleybrown-co-uk
 title: Is bentleybrown.co.uk Legit? Trust Score 100/100
 description: >-
   bentleybrown.co.uk scores 100/100 on our public trust checks. Established
-  domain — registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:58:41.569Z'
+  domain — registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:05:41.615Z'
 finalUrl: 'https://www.bentleybrown.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.2 years ago.
+    - Established domain — registered 26.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-31'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-04-05'
-      ageDays: 9576
-      ageYears: 26.2
-    detail: Registered 26.2 years ago (2000-04-05).
+      ageDays: 9616
+      ageYears: 26.3
+    detail: Registered 26.3 years ago (2000-04-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bentleybrown.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 26.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bentleybrown.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 26.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bentleybrown in the score above.
 

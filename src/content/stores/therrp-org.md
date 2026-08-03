@@ -3,9 +3,9 @@ domain: therrp.org
 slug: therrp-org
 title: Is therrp.org Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  therrp.org scores 100/100 on our public trust checks. Established domain —
-  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:51.377Z'
+  therrp.org scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-03T08:02:28.474Z'
 finalUrl: 'https://therrp.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +56,13 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2020-06-01'
-      ageDays: 2214
-      ageYears: 6.1
-    detail: Registered 6.1 years ago (2020-06-01).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -97,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-therrp.org looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+therrp.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Therrp in the score above.
 

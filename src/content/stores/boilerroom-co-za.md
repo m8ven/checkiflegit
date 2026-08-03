@@ -5,7 +5,7 @@ title: Is boilerroom.co.za Legit? Trust Score 49/100
 description: >-
   boilerroom.co.za scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T03:02:55.798Z'
+fetchedAt: '2026-08-03T08:08:42.455Z'
 finalUrl: 'https://boilerroom.co.za/'
 reachable: true
 noindex: false
@@ -17,7 +17,6 @@ verdict:
     present, but a few are missing — review the breakdown below before buying.
   score: 49
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -32,16 +31,16 @@ signals:
       finalUrl: 'https://boilerroom.co.za/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -55,8 +54,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 56
+      validTo: '2026-10-20'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

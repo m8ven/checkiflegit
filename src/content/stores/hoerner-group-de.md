@@ -5,7 +5,7 @@ title: Is hoerner-group.de Legit? Trust Score 100/100
 description: >-
   hoerner-group.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:45:58.866Z'
+fetchedAt: '2026-08-03T08:31:19.832Z'
 finalUrl: 'https://hoerner-group.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

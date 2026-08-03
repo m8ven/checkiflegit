@@ -5,7 +5,7 @@ title: Is bridgindrama.sk Legit? Trust Score 83/100
 description: >-
   bridgindrama.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:37:32.426Z'
+fetchedAt: '2026-08-03T08:23:49.795Z'
 finalUrl: 'https://bridgindrama.sk/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

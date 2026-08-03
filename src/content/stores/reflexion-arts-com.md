@@ -4,8 +4,8 @@ slug: reflexion-arts-com
 title: Is reflexion-arts.com Legit? Trust Score 100/100
 description: >-
   reflexion-arts.com scores 100/100 on our public trust checks. Established
-  domain — registered 28.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:40.301Z'
+  domain — registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:20.178Z'
 finalUrl: 'https://www.reflexion-arts.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.2 years ago.
+    - Established domain — registered 28.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1998-04-15'
-      ageDays: 10297
-      ageYears: 28.2
-    detail: Registered 28.2 years ago (1998-04-15).
+      ageDays: 10337
+      ageYears: 28.3
+    detail: Registered 28.3 years ago (1998-04-15).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-reflexion-arts.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+reflexion-arts.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Reflexion-arts in the score above.
 

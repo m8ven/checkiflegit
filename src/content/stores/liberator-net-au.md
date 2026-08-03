@@ -5,7 +5,7 @@ title: Is liberator.net.au Legit? Trust Score 66/100
 description: >-
   liberator.net.au scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:52:55.910Z'
+fetchedAt: '2026-08-03T08:36:33.061Z'
 finalUrl: 'https://liberator.net.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

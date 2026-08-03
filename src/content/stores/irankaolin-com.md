@@ -1,29 +1,29 @@
 ---
 domain: irankaolin.com
 slug: irankaolin-com
-title: Is irankaolin.com Legit? Trust Score 82/100
+title: Is irankaolin.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  irankaolin.com scores 82/100 on our public trust checks. Established domain —
-  registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:22.586Z'
+  irankaolin.com scores 64/100 on our public trust checks. Standard contact and
+  policy pages were not found. Limited social media presence.
+fetchedAt: '2026-08-03T08:27:36.925Z'
 finalUrl: 'https://irankaolin.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 82
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.6 years ago.
+    - Established domain — registered 1.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
-  redFlags: []
+  redFlags:
+    - Standard contact and policy pages were not found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-30'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-11-25'
-      ageDays: 576
-      ageYears: 1.6
-    detail: Registered 1.6 years ago (2024-11-25).
+      ageDays: 615
+      ageYears: 1.7
+    detail: Registered 1.7 years ago (2024-11-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-irankaolin.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+irankaolin.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.7 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Irankaolin in the score above.
 

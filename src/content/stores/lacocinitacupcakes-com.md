@@ -1,48 +1,48 @@
 ---
 domain: lacocinitacupcakes.com
 slug: lacocinitacupcakes-com
-title: Is lacocinitacupcakes.com Legit? Trust Score 88/100
+title: Is lacocinitacupcakes.com Legit? Trust Score 55/100
 description: >-
-  lacocinitacupcakes.com scores 88/100 on our public trust checks. Established
-  domain — registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:01:44.277Z'
-finalUrl: 'https://www.lacocinitacupcakes.com/'
+  lacocinitacupcakes.com scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
+fetchedAt: '2026-08-03T08:07:43.969Z'
+finalUrl: 'https://lacocinitacupcakes.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 88
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.7 years ago.
+    - Established domain — registered 13.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.lacocinitacupcakes.com/'
+      finalUrl: 'https://lacocinitacupcakes.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -50,41 +50,41 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-19'
-      daysToExpiry: 87
+      validTo: '2026-10-06'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-10-03'
-      ageDays: 5012
-      ageYears: 13.7
-    detail: Registered 13.7 years ago (2012-10-03).
+      ageDays: 5051
+      ageYears: 13.8
+    detail: Registered 13.8 years ago (2012-10-03).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
-      twitter: true
+      facebook: false
+      instagram: false
+      twitter: false
       tiktok: false
-      youtube: true
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 4 social platform(s): facebook, instagram, twitter, youtube.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lacocinitacupcakes.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lacocinitacupcakes.com sends a mixed set of signals. On the positive side, its domain has been registered for 13.8 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lacocinitacupcakes in the score above.
 

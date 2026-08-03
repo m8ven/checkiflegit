@@ -4,8 +4,8 @@ slug: 1pars-ru
 title: Is 1pars.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   1pars.ru scores 73/100 on our public trust checks. Established domain —
-  registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:35.944Z'
+  registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:20:12.392Z'
 finalUrl: 'https://1pars.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.6 years ago.
+    - Established domain — registered 1.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-20'
-      daysToExpiry: 56
+      daysToExpiry: 17
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-12-03'
-      ageDays: 568
-      ageYears: 1.6
-    detail: Registered 1.6 years ago (2024-12-03).
+      ageDays: 608
+      ageYears: 1.7
+    detail: Registered 1.7 years ago (2024-12-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-1pars.ru looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+1pars.ru looks like a well-established store. The clearest positives are that its domain has been registered for 1.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 1pars in the score above.
 

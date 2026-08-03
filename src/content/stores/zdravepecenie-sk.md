@@ -5,7 +5,7 @@ title: Is zdravepecenie.sk Legit? Trust Score 57/100
 description: >-
   zdravepecenie.sk scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:25:21.286Z'
+fetchedAt: '2026-08-03T08:13:57.959Z'
 finalUrl: 'https://www.zdravepecenie.sk/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

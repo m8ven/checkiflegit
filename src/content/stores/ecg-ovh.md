@@ -4,8 +4,8 @@ slug: ecg-ovh
 title: Is ecg.ovh Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   ecg.ovh scores 70/100 on our public trust checks. Established domain —
-  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:39:59.065Z'
+  registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:25:28.140Z'
 finalUrl: 'https://espacecaningeispolsheim.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.4 years ago.
+    - Established domain — registered 7.5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-20'
-      daysToExpiry: 87
+      validTo: '2026-10-28'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-01-18'
-      ageDays: 2714
-      ageYears: 7.4
-    detail: Registered 7.4 years ago (2019-01-18).
+      ageDays: 2753
+      ageYears: 7.5
+    detail: Registered 7.5 years ago (2019-01-18).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ecg.ovh looks like a well-established store. The clearest positives are that its domain has been registered for 7.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ecg.ovh looks like a well-established store. The clearest positives are that its domain has been registered for 7.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ecg in the score above.
 

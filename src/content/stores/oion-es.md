@@ -5,7 +5,7 @@ title: Is oion.es Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
   oion.es scores 79/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T03:19:27.293Z'
+fetchedAt: '2026-08-03T08:09:34.208Z'
 finalUrl: 'https://www.oion.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-28'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: candysnackexperts-com
 title: Is candysnackexperts.com Legit? Trust Score 94/100
 description: >-
   candysnackexperts.com scores 94/100 on our public trust checks. Established
-  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:37:42.904Z'
+  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:24:06.778Z'
 finalUrl: 'https://candysnackexperts.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3 years ago.
+    - Established domain — registered 3.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-01'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-05'
-      ageDays: 1085
-      ageYears: 3
-    detail: Registered 3 years ago (2023-07-05).
+      ageDays: 1124
+      ageYears: 3.1
+    detail: Registered 3.1 years ago (2023-07-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-candysnackexperts.com looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+candysnackexperts.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Candysnackexperts in the score above.
 

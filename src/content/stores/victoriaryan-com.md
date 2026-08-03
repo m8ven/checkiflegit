@@ -1,12 +1,12 @@
 ---
 domain: victoriaryan.com
 slug: victoriaryan-com
-title: Is victoriaryan.com Legit? Trust Score 58/100
+title: Is victoriaryan.com Legit? Trust Score 55/100
 description: >-
-  victoriaryan.com scores 58/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T03:29:08.203Z'
-finalUrl: 'https://www.victoriaryan.com/'
+  victoriaryan.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:17:14.562Z'
+finalUrl: 'https://victoriaryan.com/'
 reachable: true
 noindex: false
 verdict:
@@ -15,58 +15,57 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 58
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.4 years ago.
+    - Established domain — registered 26.5 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No public contact details detected on the homepage.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.victoriaryan.com/'
+      finalUrl: 'https://victoriaryan.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-13'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-02-16'
-      ageDays: 9626
-      ageYears: 26.4
-    detail: Registered 26.4 years ago (2000-02-16).
+      ageDays: 9665
+      ageYears: 26.5
+    detail: Registered 26.5 years ago (2000-02-16).
   contact:
     status: fail
     value:
@@ -75,16 +74,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-victoriaryan.com sends a mixed set of signals. On the positive side, its domain has been registered for 26.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+victoriaryan.com sends a mixed set of signals. On the positive side, its domain has been registered for 26.5 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Victoriaryan in the score above.
 

@@ -4,8 +4,8 @@ slug: isotest-kr
 title: Is isotest.kr Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   isotest.kr scores 73/100 on our public trust checks. Established domain —
-  registered 2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:29.340Z'
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:27:55.087Z'
 finalUrl: 'https://isotest.kr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2 years ago.
+    - Established domain — registered 2.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-07-04'
-      ageDays: 720
-      ageYears: 2
-    detail: Registered 2 years ago (2024-07-04).
+      ageDays: 760
+      ageYears: 2.1
+    detail: Registered 2.1 years ago (2024-07-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-isotest.kr looks like a well-established store. The clearest positives are that its domain has been registered for 2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+isotest.kr looks like a well-established store. The clearest positives are that its domain has been registered for 2.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Isotest in the score above.
 

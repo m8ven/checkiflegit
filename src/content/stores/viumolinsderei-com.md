@@ -1,11 +1,11 @@
 ---
 domain: viumolinsderei.com
 slug: viumolinsderei-com
-title: Is viumolinsderei.com Legit? Trust Score 58/100
+title: Is viumolinsderei.com Legit? Trust Score 55/100
 description: >-
-  viumolinsderei.com scores 58/100 on our public trust checks. Standard contact
-  and policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:55:44.290Z'
+  viumolinsderei.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:03:46.021Z'
 finalUrl: 'https://viumolinsderei.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,15 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 58
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.8 years ago.
+    - Established domain — registered 16 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
-    - Standard contact and policy pages were not found.
-  cautions:
-    - Only limited contact details were found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,60 +32,58 @@ signals:
       finalUrl: 'https://viumolinsderei.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      contact: true
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-08-22'
-      ageDays: 5785
-      ageYears: 15.8
-    detail: Registered 15.8 years ago (2010-08-22).
+      ageDays: 5824
+      ageYears: 16
+    detail: Registered 16 years ago (2010-08-22).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
-      twitter: true
-      tiktok: true
-      youtube: true
+      facebook: false
+      instagram: false
+      twitter: false
+      tiktok: false
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, tiktok,
-      youtube.
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -97,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-viumolinsderei.com sends a mixed set of signals. On the positive side, its domain has been registered for 15.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+viumolinsderei.com sends a mixed set of signals. On the positive side, its domain has been registered for 16 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Viumolinsderei in the score above.
 

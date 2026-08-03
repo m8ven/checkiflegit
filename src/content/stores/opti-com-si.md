@@ -1,90 +1,89 @@
 ---
 domain: opti-com.si
 slug: opti-com-si
-title: Is opti-com.si Legit? Trust Score 88/100 — Trust Checks Pass
+title: Is opti-com.si Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  opti-com.si scores 88/100 on our public trust checks. Established domain —
-  registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:25:13.608Z'
-finalUrl: 'https://www.opti-com.si/'
+  opti-com.si scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:13:53.183Z'
+finalUrl: 'https://opti-com.si/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 88
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.2 years ago.
+    - Established domain — registered 23.3 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.opti-com.si/'
+      finalUrl: 'https://opti-com.si/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-28'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-05-07'
-      ageDays: 8450
-      ageYears: 23.2
-    detail: Registered 23.2 years ago (2003-05-07).
+      ageDays: 8489
+      ageYears: 23.3
+    detail: Registered 23.3 years ago (2003-05-07).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
-      linkedin: true
+      linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, linkedin.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-opti-com.si looks like a well-established store. The clearest positives are that its domain has been registered for 23.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+opti-com.si sends a mixed set of signals. On the positive side, its domain has been registered for 23.3 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Opti-com in the score above.
 

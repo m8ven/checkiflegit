@@ -5,7 +5,7 @@ title: Is kapowtoys.co.uk Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   kapowtoys.co.uk scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:21:41.152Z'
+fetchedAt: '2026-08-03T08:11:20.507Z'
 finalUrl: 'https://www.kapowtoys.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.1 years ago.
+    - Established domain — registered 18.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 23
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-05-10'
-      ageDays: 6619
-      ageYears: 18.1
-    detail: Registered 18.1 years ago (2008-05-10).
+      ageDays: 6659
+      ageYears: 18.2
+    detail: Registered 18.2 years ago (2008-05-10).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kapowtoys.co.uk sends a mixed set of signals. On the positive side, its domain has been registered for 18.1 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+kapowtoys.co.uk sends a mixed set of signals. On the positive side, its domain has been registered for 18.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kapowtoys in the score above.
 

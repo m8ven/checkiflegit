@@ -5,7 +5,7 @@ title: Is goehren-ruegen.de Legit? Trust Score 100/100
 description: >-
   goehren-ruegen.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:59:21.545Z'
+fetchedAt: '2026-08-03T08:06:06.714Z'
 finalUrl: 'https://www.goehren-ruegen.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-26'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

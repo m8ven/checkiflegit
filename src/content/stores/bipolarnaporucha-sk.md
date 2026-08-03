@@ -5,7 +5,7 @@ title: Is bipolarnaporucha.sk Legit? Trust Score 31/100
 description: >-
   bipolarnaporucha.sk scores 31/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:20:12.857Z'
+fetchedAt: '2026-08-03T08:10:10.137Z'
 finalUrl: 'https://bipolarnaporucha.sk/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-08'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

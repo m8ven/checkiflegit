@@ -5,7 +5,7 @@ title: Is feboxeo.es Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   feboxeo.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:46:47.469Z'
+fetchedAt: '2026-08-03T08:31:53.166Z'
 finalUrl: 'https://feboxeo.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -75,12 +75,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: true
       linkedin: false
       pinterest: false
-    detail: 'Links to 4 social platform(s): facebook, instagram, twitter, youtube.'
+    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
   reviews:
     status: unknown
     value:

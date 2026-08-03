@@ -4,8 +4,8 @@ slug: living-water-co-uk
 title: Is living-water.co.uk Legit? Trust Score 85/100
 description: >-
   living-water.co.uk scores 85/100 on our public trust checks. Established
-  domain — registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:22.431Z'
+  domain — registered 22.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:21.014Z'
 finalUrl: 'https://www.living-water.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.1 years ago.
+    - Established domain — registered 22.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-05-12'
-      ageDays: 8078
-      ageYears: 22.1
-    detail: Registered 22.1 years ago (2004-05-12).
+      ageDays: 8118
+      ageYears: 22.2
+    detail: Registered 22.2 years ago (2004-05-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-living-water.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 22.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+living-water.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 22.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Living-water in the score above.
 

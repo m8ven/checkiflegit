@@ -4,8 +4,8 @@ slug: dealsonparts-co-nz
 title: Is dealsonparts.co.nz Legit? Trust Score 100/100
 description: >-
   dealsonparts.co.nz scores 100/100 on our public trust checks. Established
-  domain — registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:12.602Z'
+  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:01.050Z'
 finalUrl: 'https://www.dealsonparts.co.nz/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.5 years ago.
+    - Established domain — registered 6.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-01-05'
-      ageDays: 2363
-      ageYears: 6.5
-    detail: Registered 6.5 years ago (2020-01-05).
+      ageDays: 2402
+      ageYears: 6.6
+    detail: Registered 6.6 years ago (2020-01-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dealsonparts.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 6.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dealsonparts.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dealsonparts in the score above.
 

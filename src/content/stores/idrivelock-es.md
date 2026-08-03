@@ -5,7 +5,7 @@ title: Is idrivelock.es Legit? Trust Score 100/100
 description: >-
   idrivelock.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:48:59.445Z'
+fetchedAt: '2026-08-03T08:33:38.410Z'
 finalUrl: 'https://idrivelock.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-28'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

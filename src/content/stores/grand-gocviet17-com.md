@@ -5,7 +5,7 @@ title: Is grand.gocviet17.com Legit? Trust Score 91/100
 description: >-
   grand.gocviet17.com scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:49:26.693Z'
+fetchedAt: '2026-08-03T08:33:55.096Z'
 finalUrl: 'https://grand.gocviet17.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

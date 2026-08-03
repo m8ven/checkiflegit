@@ -4,8 +4,8 @@ slug: banhtrungthugivral-net
 title: Is banhtrungthugivral.net Legit? Trust Score 82/100
 description: >-
   banhtrungthugivral.net scores 82/100 on our public trust checks. Established
-  domain — registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:35:46.018Z'
+  domain — registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:22:29.806Z'
 finalUrl: 'https://banhtrungthugivral.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.3 years ago.
+    - Established domain — registered 10.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-03-25'
-      ageDays: 3743
-      ageYears: 10.3
-    detail: Registered 10.3 years ago (2016-03-25).
+      ageDays: 3783
+      ageYears: 10.4
+    detail: Registered 10.4 years ago (2016-03-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-banhtrungthugivral.net looks like a well-established store. The clearest positives are that its domain has been registered for 10.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+banhtrungthugivral.net looks like a well-established store. The clearest positives are that its domain has been registered for 10.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Banhtrungthugivral in the score above.
 

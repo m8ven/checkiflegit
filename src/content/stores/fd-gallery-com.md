@@ -4,8 +4,8 @@ slug: fd-gallery-com
 title: Is fd-gallery.com Legit? Trust Score 94/100
 description: >-
   fd-gallery.com scores 94/100 on our public trust checks. Established domain —
-  registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:30:50.391Z'
+  registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:19:05.935Z'
 finalUrl: 'https://fd-gallery.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.5 years ago.
+    - Established domain — registered 12.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: 'GoDaddy.com, Inc.'
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      issuer: GoDaddy.com
+      validTo: '2026-10-08'
+      daysToExpiry: 66
       authorized: true
-    detail: 'Valid certificate issued by GoDaddy.com, Inc..'
+    detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2014-01-07'
-      ageDays: 4551
-      ageYears: 12.5
-    detail: Registered 12.5 years ago (2014-01-07).
+      ageDays: 4590
+      ageYears: 12.6
+    detail: Registered 12.6 years ago (2014-01-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fd-gallery.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fd-gallery.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fd-gallery in the score above.
 

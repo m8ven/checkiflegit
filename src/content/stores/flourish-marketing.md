@@ -5,7 +5,7 @@ title: Is flourish.marketing Legit? Trust Score 57/100
 description: >-
   flourish.marketing scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:43:32.550Z'
+fetchedAt: '2026-08-03T08:29:02.390Z'
 finalUrl: 'https://flourish.marketing/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

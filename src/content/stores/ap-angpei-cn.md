@@ -1,11 +1,11 @@
 ---
 domain: ap-angpei.cn
 slug: ap-angpei-cn
-title: Is ap-angpei.cn Legit? Trust Score 85/100
+title: Is ap-angpei.cn Legit? Trust Score 79/100
 description: >-
-  ap-angpei.cn scores 85/100 on our public trust checks. Established domain —
-  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:55:38.677Z'
+  ap-angpei.cn scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-03T08:03:38.565Z'
 finalUrl: 'https://ap-angpei.cn/zh/'
 reachable: true
 noindex: false
@@ -15,10 +15,9 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 85
+  score: 79
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +56,13 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2023-09-19'
-      ageDays: 1009
-      ageYears: 2.8
-    detail: Registered 2.8 years ago (2023-09-19).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ap-angpei.cn looks like a well-established store. The clearest positives are that its domain has been registered for 2.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ap-angpei.cn looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ap-angpei in the score above.
 

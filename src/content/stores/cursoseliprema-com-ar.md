@@ -5,7 +5,7 @@ title: Is cursoseliprema.com.ar Legit? Trust Score 66/100
 description: >-
   cursoseliprema.com.ar scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:40:41.021Z'
+fetchedAt: '2026-08-03T08:26:06.920Z'
 finalUrl: 'https://cursoseliprema.com.ar/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-22'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,11 +1,11 @@
 ---
 domain: eye-of-awareness.nl
 slug: eye-of-awareness-nl
-title: Is eye-of-awareness.nl Legit? Trust Score 73/100
+title: Is eye-of-awareness.nl Legit? Trust Score 88/100
 description: >-
-  eye-of-awareness.nl scores 73/100 on our public trust checks. Established
-  domain — registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:43:11.498Z'
+  eye-of-awareness.nl scores 88/100 on our public trust checks. Established
+  domain — registered 10.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:28:43.892Z'
 finalUrl: 'https://eye-of-awareness.nl/'
 reachable: true
 noindex: false
@@ -15,14 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.2 years ago.
+    - Established domain — registered 10.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-  redFlags:
-    - No links to major social platforms found.
+    - Maintains links to multiple social media platforms.
+  redFlags: []
   cautions:
     - Only limited contact details were found.
 signals:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-04-28'
-      ageDays: 3710
-      ageYears: 10.2
-    detail: Registered 10.2 years ago (2016-04-28).
+      ageDays: 3749
+      ageYears: 10.3
+    detail: Registered 10.3 years ago (2016-04-28).
   contact:
     status: warn
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: fail
+    status: pass
     value:
-      facebook: false
-      instagram: false
+      facebook: true
+      instagram: true
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eye-of-awareness.nl looks like a well-established store. The clearest positives are that its domain has been registered for 10.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eye-of-awareness.nl looks like a well-established store. The clearest positives are that its domain has been registered for 10.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eye-of-awareness in the score above.
 

@@ -5,7 +5,7 @@ title: Is clipandgo.es Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   clipandgo.es scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T03:00:11.563Z'
+fetchedAt: '2026-08-03T08:06:44.761Z'
 finalUrl: 'https://www.clipandgo.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-06'
-      daysToExpiry: 165
+      daysToExpiry: 126
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

@@ -1,11 +1,11 @@
 ---
 domain: cafe-boulet.com
 slug: cafe-boulet-com
-title: Is cafe-boulet.com Legit? Trust Score 70/100
+title: Is cafe-boulet.com Legit? Trust Score 82/100
 description: >-
-  cafe-boulet.com scores 70/100 on our public trust checks. Established domain —
-  registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:17.934Z'
+  cafe-boulet.com scores 82/100 on our public trust checks. Established domain —
+  registered 17.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:02:49.116Z'
 finalUrl: 'https://www.cafe-boulet.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.4 years ago.
+    - Established domain — registered 17.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
     - Limited social media presence.
 signals:
   http:
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-16'
-      daysToExpiry: 84
+      validTo: '2026-10-21'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-01-16'
-      ageDays: 6368
-      ageYears: 17.4
-    detail: Registered 17.4 years ago (2009-01-16).
+      ageDays: 6407
+      ageYears: 17.6
+    detail: Registered 17.6 years ago (2009-01-16).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cafe-boulet.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cafe-boulet.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cafe-boulet in the score above.
 

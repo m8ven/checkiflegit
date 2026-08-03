@@ -1,11 +1,11 @@
 ---
 domain: hieupc.org
 slug: hieupc-org
-title: Is hieupc.org Legit? Trust Score 76/100 — Trust Checks Pass
+title: Is hieupc.org Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  hieupc.org scores 76/100 on our public trust checks. Established domain —
-  registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:45:43.784Z'
+  hieupc.org scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-03T08:31:12.350Z'
 finalUrl: 'https://hieupc.org/'
 reachable: true
 noindex: false
@@ -15,15 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 83
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,29 +43,26 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2022-01-18'
-      ageDays: 1618
-      ageYears: 4.4
-    detail: Registered 4.4 years ago (2022-01-18).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: warn
     value:
@@ -80,11 +76,11 @@ signals:
       facebook: true
       instagram: false
       twitter: false
-      tiktok: true
+      tiktok: false
       youtube: true
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, tiktok, youtube.'
+    detail: 'Links to 2 social platform(s): facebook, youtube.'
   reviews:
     status: unknown
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hieupc.org looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hieupc.org looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hieupc in the score above.
 

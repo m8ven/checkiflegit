@@ -5,7 +5,7 @@ title: Is halfrate.in Legit? Trust Score 100/100
 description: >-
   halfrate.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:47:41.007Z'
+fetchedAt: '2026-08-03T08:32:37.214Z'
 finalUrl: 'https://halfrate.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

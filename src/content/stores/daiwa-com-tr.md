@@ -5,7 +5,7 @@ title: Is daiwa.com.tr Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   daiwa.com.tr scores 57/100 on our public trust checks. Standard contact and
   policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:00:40.178Z'
+fetchedAt: '2026-08-03T08:07:06.121Z'
 finalUrl: 'https://www.daiwa.com.tr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-17'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

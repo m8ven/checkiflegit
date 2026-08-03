@@ -5,7 +5,7 @@ title: Is ikonickitchen.com.au Legit? Trust Score 83/100
 description: >-
   ikonickitchen.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:49:19.042Z'
+fetchedAt: '2026-08-03T08:33:47.777Z'
 finalUrl: 'https://ikonickitchen.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

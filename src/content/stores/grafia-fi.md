@@ -5,7 +5,7 @@ title: Is grafia.fi Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   grafia.fi scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:35:54.001Z'
+fetchedAt: '2026-08-03T08:22:38.176Z'
 finalUrl: 'https://grafia.fi/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 71
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

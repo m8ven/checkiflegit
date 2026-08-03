@@ -1,30 +1,29 @@
 ---
 domain: godwinptso.com
 slug: godwinptso-com
-title: Is godwinptso.com Legit? Trust Score 82/100
+title: Is godwinptso.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  godwinptso.com scores 82/100 on our public trust checks. Established domain —
-  registered 10 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:48:24.467Z'
+  godwinptso.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:33:15.563Z'
 finalUrl: 'https://godwinptso.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 82
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.1 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,58 +32,58 @@ signals:
       finalUrl: 'https://godwinptso.com/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: warn
-    value:
-      contact: false
+      contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-29'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-06-14'
-      ageDays: 3662
-      ageYears: 10
-    detail: Registered 10 years ago (2016-06-14).
+      ageDays: 3701
+      ageYears: 10.1
+    detail: Registered 10.1 years ago (2016-06-14).
   contact:
-    status: pass
+    status: fail
     value:
       email: false
-      phone: true
-      address: true
-    detail: 'Public contact details found: phone, address.'
+      phone: false
+      address: false
+    detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-godwinptso.com looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+godwinptso.com sends a mixed set of signals. On the positive side, its domain has been registered for 10.1 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Godwinptso in the score above.
 

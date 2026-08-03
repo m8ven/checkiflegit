@@ -5,7 +5,7 @@ title: Is business.libertychamber.com Legit? Trust Score 83/100
 description: >-
   business.libertychamber.com scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:24:54.684Z'
+fetchedAt: '2026-08-03T08:13:44.361Z'
 finalUrl: 'https://business.libertychamber.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-24'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

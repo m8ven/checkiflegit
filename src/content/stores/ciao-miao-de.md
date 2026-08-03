@@ -1,11 +1,11 @@
 ---
 domain: ciao-miao.de
 slug: ciao-miao-de
-title: Is ciao-miao.de Legit? Trust Score 100/100
+title: Is ciao-miao.de Legit? Trust Score 83/100
 description: >-
-  ciao-miao.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  ciao-miao.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:28:26.158Z'
+fetchedAt: '2026-08-03T08:16:48.273Z'
 finalUrl: 'https://ciao-miao.de/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 83
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 69
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -64,23 +64,23 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
-      facebook: false
+      facebook: true
       instagram: true
       twitter: false
       tiktok: true
       youtube: false
       linkedin: false
-      pinterest: true
-    detail: 'Links to 3 social platform(s): instagram, tiktok, pinterest.'
+      pinterest: false
+    detail: 'Links to 3 social platform(s): facebook, instagram, tiktok.'
   reviews:
     status: unknown
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ciao-miao.de looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ciao-miao.de looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ciao-miao in the score above.
 

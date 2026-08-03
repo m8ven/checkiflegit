@@ -5,7 +5,7 @@ title: Is diasflooring.es Legit? Trust Score 79/100
 description: >-
   diasflooring.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:41:43.800Z'
+fetchedAt: '2026-08-03T08:27:10.135Z'
 finalUrl: 'https://diasflooring.es/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 60
+      validTo: '2026-10-24'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

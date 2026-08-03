@@ -1,28 +1,28 @@
 ---
 domain: clarysagecollege.com
 slug: clarysagecollege-com
-title: Is clarysagecollege.com Legit? Trust Score 58/100
+title: Is clarysagecollege.com Legit? Trust Score 88/100
 description: >-
-  clarysagecollege.com scores 58/100 on our public trust checks. No valid SSL
-  certificate — connection may not be secure.
-fetchedAt: '2026-06-25T03:38:33.240Z'
+  clarysagecollege.com scores 88/100 on our public trust checks. Established
+  domain — registered 20.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:24:34.789Z'
 finalUrl: 'https://clarysagecollege.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 58
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.7 years ago.
+    - Established domain — registered 20.8 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No valid SSL certificate — connection may not be secure.
+  redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
 signals:
@@ -53,16 +53,20 @@ signals:
       shipping: false
     detail: Found 0 policy page(s) and a contact page.
   ssl:
-    status: fail
-    value: null
-    detail: 'TLS connection failed: connect ECONNREFUSED 18.214.235.68:443'
+    status: pass
+    value:
+      issuer: Google Trust Services
+      validTo: '2026-10-21'
+      daysToExpiry: 80
+      authorized: true
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2005-10-26'
-      ageDays: 7546
-      ageYears: 20.7
-    detail: Registered 20.7 years ago (2005-10-26).
+      ageDays: 7585
+      ageYears: 20.8
+    detail: Registered 20.8 years ago (2005-10-26).
   contact:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-clarysagecollege.com sends a mixed set of signals. On the positive side, its domain has been registered for 20.7 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and it does not present a valid security certificate — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+clarysagecollege.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Clarysagecollege in the score above.
 

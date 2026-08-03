@@ -4,8 +4,8 @@ slug: capitalcanvasprints-com
 title: Is capitalcanvasprints.com Legit? Trust Score 82/100
 description: >-
   capitalcanvasprints.com scores 82/100 on our public trust checks. Established
-  domain — registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:38:21.169Z'
+  domain — registered 10 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:24:27.518Z'
 finalUrl: 'https://capitalcanvasprints.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.9 years ago.
+    - Established domain — registered 10 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-07-19'
-      ageDays: 3627
-      ageYears: 9.9
-    detail: Registered 9.9 years ago (2016-07-19).
+      ageDays: 3666
+      ageYears: 10
+    detail: Registered 10 years ago (2016-07-19).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-capitalcanvasprints.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+capitalcanvasprints.com looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Capitalcanvasprints in the score above.
 

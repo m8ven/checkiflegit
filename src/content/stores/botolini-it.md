@@ -4,8 +4,8 @@ slug: botolini-it
 title: Is botolini.it Legit? Trust Score 100/100
 description: >-
   botolini.it scores 100/100 on our public trust checks. Established domain —
-  registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:12.335Z'
+  registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:01.032Z'
 finalUrl: 'https://botolini.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.8 years ago.
+    - Established domain — registered 26.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 59
+      validTo: '2026-10-22'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-09-06'
-      ageDays: 9788
-      ageYears: 26.8
-    detail: Registered 26.8 years ago (1999-09-06).
+      ageDays: 9828
+      ageYears: 26.9
+    detail: Registered 26.9 years ago (1999-09-06).
   contact:
     status: pass
     value:
@@ -82,11 +82,9 @@ signals:
       twitter: true
       tiktok: false
       youtube: false
-      linkedin: true
+      linkedin: false
       pinterest: true
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, linkedin,
-      pinterest.
+    detail: 'Links to 4 social platform(s): facebook, instagram, twitter, pinterest.'
   reviews:
     status: unknown
     value:
@@ -97,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-botolini.it looks like a well-established store. The clearest positives are that its domain has been registered for 26.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+botolini.it looks like a well-established store. The clearest positives are that its domain has been registered for 26.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Botolini in the score above.
 

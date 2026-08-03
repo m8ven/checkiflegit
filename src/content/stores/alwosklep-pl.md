@@ -1,11 +1,11 @@
 ---
 domain: alwosklep.pl
 slug: alwosklep-pl
-title: Is alwosklep.pl Legit? Trust Score 83/100
+title: Is alwosklep.pl Legit? Trust Score 100/100
 description: >-
-  alwosklep.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:57:27.923Z'
+  alwosklep.pl scores 100/100 on our public trust checks. Established domain —
+  registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:46.287Z'
 finalUrl: 'https://www.alwosklep.pl/'
 reachable: true
 noindex: false
@@ -15,15 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 9.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -43,33 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2017-03-06'
+      ageDays: 3436
+      ageYears: 9.4
+    detail: Registered 9.4 years ago (2017-03-06).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-alwosklep.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+alwosklep.pl looks like a well-established store. The clearest positives are that its domain has been registered for 9.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Alwosklep in the score above.
 

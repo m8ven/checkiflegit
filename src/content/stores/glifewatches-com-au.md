@@ -5,7 +5,7 @@ title: Is glifewatches.com.au Legit? Trust Score 83/100
 description: >-
   glifewatches.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:47:53.297Z'
+fetchedAt: '2026-08-03T08:32:52.632Z'
 finalUrl: 'https://glifewatches.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

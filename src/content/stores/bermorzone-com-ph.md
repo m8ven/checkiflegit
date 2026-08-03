@@ -5,7 +5,7 @@ title: Is bermorzone.com.ph Legit? Trust Score 100/100
 description: >-
   bermorzone.com.ph scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:36:16.150Z'
+fetchedAt: '2026-08-03T08:23:05.967Z'
 finalUrl: 'https://bermorzone.com.ph/'
 reachable: true
 noindex: false
@@ -55,14 +55,14 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-08'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null
-    detail: 'WHOIS lookup failed: TLD for "bermorzone.com.ph" not supported'
+    detail: 'WHOIS lookup failed: '
   contact:
     status: pass
     value:

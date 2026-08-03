@@ -4,8 +4,8 @@ slug: kempuni-bikewear-com
 title: Is kempuni-bikewear.com Legit? Trust Score 100/100
 description: >-
   kempuni-bikewear.com scores 100/100 on our public trust checks. Established
-  domain — registered 13.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:10.556Z'
+  domain — registered 13.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:19:59.673Z'
 finalUrl: 'https://www.kempuni-bikewear.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.5 years ago.
+    - Established domain — registered 13.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-12-25'
-      daysToExpiry: 184
+      daysToExpiry: 145
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2012-12-18'
-      ageDays: 4936
-      ageYears: 13.5
-    detail: Registered 13.5 years ago (2012-12-18).
+      ageDays: 4975
+      ageYears: 13.6
+    detail: Registered 13.6 years ago (2012-12-18).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kempuni-bikewear.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kempuni-bikewear.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kempuni-bikewear in the score above.
 

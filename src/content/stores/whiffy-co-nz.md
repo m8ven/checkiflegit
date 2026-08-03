@@ -4,8 +4,8 @@ slug: whiffy-co-nz
 title: Is whiffy.co.nz Legit? Trust Score 100/100
 description: >-
   whiffy.co.nz scores 100/100 on our public trust checks. Established domain —
-  registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:06.825Z'
+  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:03:54.800Z'
 finalUrl: 'https://whiffy.co.nz/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.1 years ago.
+    - Established domain — registered 8.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-20'
-      daysToExpiry: 57
+      daysToExpiry: 18
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-05-10'
-      ageDays: 2967
-      ageYears: 8.1
-    detail: Registered 8.1 years ago (2018-05-10).
+      ageDays: 3006
+      ageYears: 8.2
+    detail: Registered 8.2 years ago (2018-05-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-whiffy.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 8.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+whiffy.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Whiffy in the score above.
 

@@ -1,27 +1,27 @@
 ---
 domain: grospace.co.za
 slug: grospace-co-za
-title: Is grospace.co.za Legit? Trust Score 79/100
+title: Is grospace.co.za Legit? Trust Score 36/100
 description: >-
-  grospace.co.za scores 79/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T03:45:01.900Z'
+  grospace.co.za scores 36/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:30:45.162Z'
 finalUrl: 'https://grospace.co.za/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 79
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 36
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
   redFlags:
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions: []
 signals:
@@ -32,31 +32,31 @@ signals:
       finalUrl: 'https://grospace.co.za/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-21'
-      daysToExpiry: 27
+      validTo: '2026-09-20'
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -64,12 +64,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
+      email: false
       phone: false
-      address: true
-    detail: 'Public contact details found: email, address.'
+      address: false
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-grospace.co.za looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for grospace.co.za. In particular, there are no clear public contact details and it has little or no social media footprint. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Grospace in the score above.
 

@@ -1,11 +1,11 @@
 ---
 domain: anabotafogomaison.com.br
 slug: anabotafogomaison-com-br
-title: Is anabotafogomaison.com.br Legit? Trust Score 14/100
+title: Is anabotafogomaison.com.br Legit? Trust Score 36/100
 description: >-
-  anabotafogomaison.com.br scores 14/100 on our public trust checks. Standard
-  contact and policy pages were not found.
-fetchedAt: '2026-06-25T03:34:08.948Z'
+  anabotafogomaison.com.br scores 36/100 on our public trust checks. No public
+  contact details detected on the homepage.
+fetchedAt: '2026-08-03T08:21:13.460Z'
 finalUrl: 'https://anabotafogomaison.com.br/'
 reachable: true
 noindex: false
@@ -16,14 +16,13 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 14
+  score: 36
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
-    - Standard contact and policy pages were not found.
     - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions: []
 signals:
   http:
@@ -33,31 +32,31 @@ signals:
       finalUrl: 'https://anabotafogomaison.com.br/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      contact: true
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-06'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
@@ -72,16 +71,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -92,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for anabotafogomaison.com.br. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for anabotafogomaison.com.br. In particular, there are no clear public contact details and it has little or no social media footprint. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Anabotafogomaison in the score above.
 

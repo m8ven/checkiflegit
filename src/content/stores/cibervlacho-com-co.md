@@ -5,7 +5,7 @@ title: Is cibervlacho.com.co Legit? Trust Score 100/100
 description: >-
   cibervlacho.com.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:55:06.589Z'
+fetchedAt: '2026-08-03T08:03:16.090Z'
 finalUrl: 'https://www.cibervlacho.com.co/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

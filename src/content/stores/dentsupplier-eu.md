@@ -5,7 +5,7 @@ title: Is dentsupplier.eu Legit? Trust Score 100/100
 description: >-
   dentsupplier.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:23:14.156Z'
+fetchedAt: '2026-08-03T08:12:40.294Z'
 finalUrl: 'https://dentsupplier.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-27'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

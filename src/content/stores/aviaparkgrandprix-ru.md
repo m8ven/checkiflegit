@@ -1,11 +1,11 @@
 ---
 domain: aviaparkgrandprix.ru
 slug: aviaparkgrandprix-ru
-title: Is aviaparkgrandprix.ru Legit? Trust Score 70/100
+title: Is aviaparkgrandprix.ru Legit? Trust Score 88/100
 description: >-
-  aviaparkgrandprix.ru scores 70/100 on our public trust checks. Established
-  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:35:28.986Z'
+  aviaparkgrandprix.ru scores 88/100 on our public trust checks. Established
+  domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:22:11.311Z'
 finalUrl: 'https://aviaparkgrandprix.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-07'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-04'
-      ageDays: 1754
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-09-04).
+      ageDays: 1793
+      ageYears: 4.9
+    detail: Registered 4.9 years ago (2021-09-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aviaparkgrandprix.ru looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aviaparkgrandprix.ru looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aviaparkgrandprix in the score above.
 

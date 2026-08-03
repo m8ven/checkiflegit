@@ -5,7 +5,7 @@ title: Is lesfeesdesplantes.fr Legit? Trust Score 61/100
 description: >-
   lesfeesdesplantes.fr scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T03:02:07.142Z'
+fetchedAt: '2026-08-03T08:08:07.072Z'
 finalUrl: 'https://www.lesfeesdesplantes.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.6 years ago.
+    - Established domain — registered 8.7 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-11-27'
-      ageDays: 3131
-      ageYears: 8.6
-    detail: Registered 8.6 years ago (2017-11-27).
+      ageDays: 3170
+      ageYears: 8.7
+    detail: Registered 8.7 years ago (2017-11-27).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lesfeesdesplantes.fr sends a mixed set of signals. On the positive side, its domain has been registered for 8.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+lesfeesdesplantes.fr sends a mixed set of signals. On the positive side, its domain has been registered for 8.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lesfeesdesplantes in the score above.
 

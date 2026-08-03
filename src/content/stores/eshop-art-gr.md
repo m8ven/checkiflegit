@@ -5,7 +5,7 @@ title: Is eshop-art.gr Legit? Trust Score 83/100
 description: >-
   eshop-art.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:43:46.459Z'
+fetchedAt: '2026-08-03T08:29:20.458Z'
 finalUrl: 'https://eshop-art.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

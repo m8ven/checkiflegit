@@ -5,7 +5,7 @@ title: Is descargasexpress.com Legit? Trust Score 61/100
 description: >-
   descargasexpress.com scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T03:31:50.747Z'
+fetchedAt: '2026-08-03T08:19:43.952Z'
 finalUrl: 'https://descargasexpress.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.7 years ago.
+    - Established domain — registered 3.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-10-26'
-      ageDays: 1337
-      ageYears: 3.7
-    detail: Registered 3.7 years ago (2022-10-26).
+      ageDays: 1376
+      ageYears: 3.8
+    detail: Registered 3.8 years ago (2022-10-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-descargasexpress.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+descargasexpress.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Descargasexpress in the score above.
 

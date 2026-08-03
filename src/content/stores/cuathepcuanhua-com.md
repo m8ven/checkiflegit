@@ -1,11 +1,11 @@
 ---
 domain: cuathepcuanhua.com
 slug: cuathepcuanhua-com
-title: Is cuathepcuanhua.com Legit? Trust Score 61/100
+title: Is cuathepcuanhua.com Legit? Trust Score 55/100
 description: >-
-  cuathepcuanhua.com scores 61/100 on our public trust checks. No links to major
-  social platforms found.
-fetchedAt: '2026-06-25T03:31:39.377Z'
+  cuathepcuanhua.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:19:35.470Z'
 finalUrl: 'https://cuathepcuanhua.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,15 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 61
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.8 years ago.
+    - Established domain — registered 5.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,47 +32,47 @@ signals:
       finalUrl: 'https://cuathepcuanhua.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-18'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-08-24'
-      ageDays: 2130
-      ageYears: 5.8
-    detail: Registered 5.8 years ago (2020-08-24).
+      ageDays: 2169
+      ageYears: 5.9
+    detail: Registered 5.9 years ago (2020-08-24).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cuathepcuanhua.com sends a mixed set of signals. On the positive side, its domain has been registered for 5.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+cuathepcuanhua.com sends a mixed set of signals. On the positive side, its domain has been registered for 5.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cuathepcuanhua in the score above.
 

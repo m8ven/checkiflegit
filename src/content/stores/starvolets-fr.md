@@ -5,7 +5,7 @@ title: Is starvolets.fr Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   starvolets.fr scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:22:23.109Z'
+fetchedAt: '2026-08-03T08:11:59.966Z'
 finalUrl: 'https://www.starvolets.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.5 years ago.
+    - Established domain — registered 3.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-19'
-      daysToExpiry: 87
+      validTo: '2026-10-01'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-12-16'
-      ageDays: 1286
-      ageYears: 3.5
-    detail: Registered 3.5 years ago (2022-12-16).
+      ageDays: 1325
+      ageYears: 3.6
+    detail: Registered 3.6 years ago (2022-12-16).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-starvolets.fr sends a mixed set of signals. On the positive side, its domain has been registered for 3.5 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+starvolets.fr sends a mixed set of signals. On the positive side, its domain has been registered for 3.6 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Starvolets in the score above.
 

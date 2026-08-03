@@ -1,11 +1,11 @@
 ---
 domain: entreprendrex.org
 slug: entreprendrex-org
-title: Is entreprendrex.org Legit? Trust Score 88/100
+title: Is entreprendrex.org Legit? Trust Score 83/100
 description: >-
-  entreprendrex.org scores 88/100 on our public trust checks. Established domain
-  — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:43:05.479Z'
+  entreprendrex.org scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
+fetchedAt: '2026-08-03T08:28:35.318Z'
 finalUrl: 'https://entreprendrex.org/'
 reachable: true
 noindex: false
@@ -15,10 +15,9 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 83
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,24 +55,21 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-11'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2023-12-04'
-      ageDays: 933
-      ageYears: 2.6
-    detail: Registered 2.6 years ago (2023-12-04).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -97,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-entreprendrex.org looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+entreprendrex.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Entreprendrex in the score above.
 

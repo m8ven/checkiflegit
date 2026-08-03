@@ -5,7 +5,7 @@ title: Is galerino.cz Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   galerino.cz scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:58:53.391Z'
+fetchedAt: '2026-08-03T08:05:47.777Z'
 finalUrl: 'https://www.galerino.cz/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

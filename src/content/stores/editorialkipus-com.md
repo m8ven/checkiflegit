@@ -4,8 +4,8 @@ slug: editorialkipus-com
 title: Is editorialkipus.com Legit? Trust Score 88/100
 description: >-
   editorialkipus.com scores 88/100 on our public trust checks. Established
-  domain — registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:12.794Z'
+  domain — registered 16.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:00:59.868Z'
 finalUrl: 'https://editorialkipus.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.8 years ago.
+    - Established domain — registered 16.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-08-31'
-      ageDays: 6141
-      ageYears: 16.8
-    detail: Registered 16.8 years ago (2009-08-31).
+      ageDays: 6180
+      ageYears: 16.9
+    detail: Registered 16.9 years ago (2009-08-31).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-editorialkipus.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+editorialkipus.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Editorialkipus in the score above.
 

@@ -5,7 +5,7 @@ title: Is latenighttales.de Legit? Trust Score 57/100
 description: >-
   latenighttales.de scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:22:55.293Z'
+fetchedAt: '2026-08-03T08:12:26.408Z'
 finalUrl: 'https://www.latenighttales.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2026-10-31'
-      daysToExpiry: 129
+      daysToExpiry: 90
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:

@@ -5,7 +5,7 @@ title: Is xtreamity.org Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   xtreamity.org scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:25:42.526Z'
+fetchedAt: '2026-08-03T08:14:22.022Z'
 finalUrl: 'https://xtreamity.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4 years ago.
+    - Established domain — registered 4.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-07-11'
-      ageDays: 1444
-      ageYears: 4
-    detail: Registered 4 years ago (2022-07-11).
+      ageDays: 1483
+      ageYears: 4.1
+    detail: Registered 4.1 years ago (2022-07-11).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-xtreamity.org sends a mixed set of signals. On the positive side, its domain has been registered for 4 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+xtreamity.org sends a mixed set of signals. On the positive side, its domain has been registered for 4.1 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Xtreamity in the score above.
 

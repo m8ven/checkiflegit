@@ -1,79 +1,79 @@
 ---
 domain: chilternsports.co.uk
 slug: chilternsports-co-uk
-title: Is chilternsports.co.uk Legit? Trust Score 73/100
+title: Is chilternsports.co.uk Legit? Trust Score 55/100
 description: >-
-  chilternsports.co.uk scores 73/100 on our public trust checks. Established
-  domain — registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:59.240Z'
-finalUrl: 'https://www.chilternsports.co.uk/'
+  chilternsports.co.uk scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
+fetchedAt: '2026-08-03T08:03:14.277Z'
+finalUrl: 'https://chilternsports.co.uk/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.7 years ago.
+    - Established domain — registered 10.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.chilternsports.co.uk/'
+      finalUrl: 'https://chilternsports.co.uk/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
+        hasAddToCart: false
+        hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-29'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-10-11'
-      ageDays: 3909
-      ageYears: 10.7
-    detail: Registered 10.7 years ago (2015-10-11).
+      ageDays: 3949
+      ageYears: 10.8
+    detail: Registered 10.8 years ago (2015-10-11).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-chilternsports.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+chilternsports.co.uk sends a mixed set of signals. On the positive side, its domain has been registered for 10.8 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Chilternsports in the score above.
 

@@ -5,7 +5,7 @@ title: Is en.drivar.de Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   en.drivar.de scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:42:19.737Z'
+fetchedAt: '2026-08-03T08:27:35.092Z'
 finalUrl: 'https://en.drivar.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

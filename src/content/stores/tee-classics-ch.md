@@ -5,7 +5,7 @@ title: Is tee-classics.ch Legit? Trust Score 83/100
 description: >-
   tee-classics.ch scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:22:48.260Z'
+fetchedAt: '2026-08-03T08:12:19.995Z'
 finalUrl: 'https://www.tee-classics.ch/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

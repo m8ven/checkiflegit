@@ -5,7 +5,7 @@ title: Is catalogo.welcomenext.com Legit? Trust Score 91/100
 description: >-
   catalogo.welcomenext.com scores 91/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:00:03.191Z'
+fetchedAt: '2026-08-03T08:06:42.077Z'
 finalUrl: 'https://catalogo.welcomenext.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-10-19'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

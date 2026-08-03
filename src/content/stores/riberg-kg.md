@@ -1,24 +1,23 @@
 ---
 domain: riberg.kg
 slug: riberg-kg
-title: Is riberg.kg Legit? Trust Score 74/100 — Trust Checks Pass
+title: Is riberg.kg Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  riberg.kg scores 74/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:46:40.599Z'
+  riberg.kg scores 64/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Limited social media presence.
+fetchedAt: '2026-08-03T08:31:47.254Z'
 finalUrl: 'https://riberg.kg/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 74
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
   cautions:
@@ -52,13 +51,9 @@ signals:
       shipping: false
     detail: Found 0 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-08'
-      daysToExpiry: 76
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
     status: unknown
     value: null
@@ -91,7 +86,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-riberg.kg looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+riberg.kg sends a mixed set of signals. On the positive side, it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform. Against that, some standard contact or policy pages appear to be missing and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Riberg in the score above.
 

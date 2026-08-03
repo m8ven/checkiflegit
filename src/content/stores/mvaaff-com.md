@@ -4,8 +4,8 @@ slug: mvaaff-com
 title: Is mvaaff.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   mvaaff.com scores 88/100 on our public trust checks. Established domain —
-  registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:44.935Z'
+  registered 22 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:13:36.036Z'
 finalUrl: 'https://www.mvaaff.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.8 years ago.
+    - Established domain — registered 22 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,36 +57,34 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-08-23'
-      ageDays: 7975
-      ageYears: 21.8
-    detail: Registered 21.8 years ago (2004-08-23).
+      ageDays: 8014
+      ageYears: 22
+    detail: Registered 22 years ago (2004-08-23).
   contact:
     status: warn
     value:
       email: false
-      phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      phone: false
+      address: true
+    detail: 'Public contact details found: address.'
   social:
     status: pass
     value:
       facebook: true
       instagram: true
-      twitter: true
-      tiktok: false
+      twitter: false
+      tiktok: true
       youtube: true
       linkedin: false
-      pinterest: true
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, youtube,
-      pinterest.
+      pinterest: false
+    detail: 'Links to 4 social platform(s): facebook, instagram, tiktok, youtube.'
   reviews:
     status: unknown
     value:
@@ -97,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mvaaff.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mvaaff.com looks like a well-established store. The clearest positives are that its domain has been registered for 22 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mvaaff in the score above.
 

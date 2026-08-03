@@ -5,7 +5,7 @@ title: Is gstarcad.shop Legit? Trust Score 83/100
 description: >-
   gstarcad.shop scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:59:36.951Z'
+fetchedAt: '2026-08-03T08:06:16.501Z'
 finalUrl: 'https://www.gstarcad.shop/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: DigiCert Inc
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2027-02-06'
+      daysToExpiry: 188
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

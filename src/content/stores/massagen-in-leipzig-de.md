@@ -5,7 +5,7 @@ title: Is massagen-in-leipzig.de Legit? Trust Score 83/100
 description: >-
   massagen-in-leipzig.de scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:06.529Z'
+fetchedAt: '2026-08-03T08:13:12.790Z'
 finalUrl: 'https://www.massagen-in-leipzig.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

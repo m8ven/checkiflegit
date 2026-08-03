@@ -5,7 +5,7 @@ title: Is slipper.de Legit? Trust Score 44/100
 description: >-
   slipper.de scores 44/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:21:55.407Z'
+fetchedAt: '2026-08-03T08:11:40.532Z'
 finalUrl: 'https://www.slipper.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

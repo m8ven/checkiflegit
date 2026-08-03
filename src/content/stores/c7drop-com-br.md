@@ -1,88 +1,85 @@
 ---
 domain: c7drop.com.br
 slug: c7drop-com-br
-title: Is c7drop.com.br Legit? Trust Score 14/100
+title: Is c7drop.com.br Legit? Trust Score 91/100
 description: >-
-  c7drop.com.br scores 14/100 on our public trust checks. Standard contact and
-  policy pages were not found. No public contact details detected on the
-  homepage.
-fetchedAt: '2026-06-25T03:22:27.350Z'
-finalUrl: 'https://c7drop.com.br/'
+  c7drop.com.br scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-03T08:12:05.001Z'
+finalUrl: 'https://www.c7drop.com.br/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 14
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 91
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
-    - No public contact details detected on the homepage.
-  cautions: []
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
+  redFlags: []
+  cautions:
+    - Limited social media presence.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://c7drop.com.br/'
+      finalUrl: 'https://www.c7drop.com.br/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      contact: true
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      issuer: Let's Encrypt
+      validTo: '2026-10-18'
+      daysToExpiry: 76
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: fail
-    value:
-      email: false
-      phone: false
-      address: false
-    detail: No public contact details detected on the homepage.
-  social:
     status: pass
     value:
-      facebook: true
-      instagram: false
+      email: true
+      phone: true
+      address: false
+    detail: 'Public contact details found: email, phone.'
+  social:
+    status: warn
+    value:
+      facebook: false
+      instagram: true
       twitter: false
-      tiktok: true
+      tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, tiktok.'
+    detail: 'Links to 1 social platform(s): instagram.'
   reviews:
     status: unknown
     value:
@@ -93,7 +90,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for c7drop.com.br. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+c7drop.com.br looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against C7drop in the score above.
 

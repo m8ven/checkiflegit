@@ -5,7 +5,7 @@ title: Is hingtung.hk Legit? Trust Score 36/100
 description: >-
   hingtung.hk scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:53:51.240Z'
+fetchedAt: '2026-08-03T08:37:06.739Z'
 finalUrl: 'https://hingtung.hk/'
 reachable: true
 noindex: false
@@ -18,7 +18,6 @@ verdict:
     buyer-protected payment methods.
   score: 36
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -33,31 +32,31 @@ signals:
       finalUrl: 'https://hingtung.hk/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-29'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

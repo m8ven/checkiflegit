@@ -5,7 +5,7 @@ title: Is dcstaging.dreamhosters.com Legit? Trust Score 66/100
 description: >-
   dcstaging.dreamhosters.com scores 66/100 on our public trust checks. Some
   standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:32:39.013Z'
+fetchedAt: '2026-08-03T08:20:14.815Z'
 finalUrl: 'https://dcstaging.dreamhosters.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-26'
-      daysToExpiry: 124
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
