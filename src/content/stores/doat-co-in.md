@@ -5,7 +5,7 @@ title: Is doat.co.in Legit? Trust Score 19/100
 description: >-
   doat.co.in scores 19/100 on our public trust checks. No public contact details
   detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:40:56.816Z'
+fetchedAt: '2026-08-10T06:02:50.162Z'
 finalUrl: 'https://doat.co.in/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-16'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

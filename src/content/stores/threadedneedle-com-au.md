@@ -5,7 +5,7 @@ title: Is threadedneedle.com.au Legit? Trust Score 91/100
 description: >-
   threadedneedle.com.au scores 91/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:06:30.556Z'
+fetchedAt: '2026-08-10T06:16:14.504Z'
 finalUrl: 'https://threadedneedle.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-12-06'
-      daysToExpiry: 165
+      daysToExpiry: 119
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

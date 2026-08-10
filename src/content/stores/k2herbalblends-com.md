@@ -1,31 +1,30 @@
 ---
 domain: k2herbalblends.com
 slug: k2herbalblends-com
-title: Is k2herbalblends.com Legit? Trust Score 40/100
+title: Is k2herbalblends.com Legit? Trust Score 67/100
 description: >-
-  k2herbalblends.com scores 40/100 on our public trust checks. Domain registered
-  very recently (65 days ago). No links to major social platforms found.
-fetchedAt: '2026-06-25T12:09:04.547Z'
+  k2herbalblends.com scores 67/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
+fetchedAt: '2026-08-10T06:18:36.735Z'
 finalUrl: 'https://k2herbalblends.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 40
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 67
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
-    - Domain registered very recently (65 days ago).
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Domain is relatively young.
 signals:
   http:
     status: pass
@@ -58,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: fail
+    status: warn
     value:
       createdAt: '2026-04-21'
-      ageDays: 65
-      ageYears: 0.2
-    detail: Registered very recently (65 days ago).
+      ageDays: 111
+      ageYears: 0.3
+    detail: Registered 0.3 years ago (2026-04-21).
   contact:
     status: pass
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for k2herbalblends.com. In particular, the domain was only registered very recently and it has little or no social media footprint. It does have some positives — it lists genuine business contact details and it publishes the contact and policy pages shoppers expect — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+k2herbalblends.com sends a mixed set of signals. On the positive side, it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. Against that, the domain is still relatively young and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against K2herbalblends in the score above.
 

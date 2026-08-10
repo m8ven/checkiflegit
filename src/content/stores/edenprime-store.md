@@ -5,7 +5,7 @@ title: Is edenprime.store Legit? Trust Score 67/100 — Mixed Signals
 description: >-
   edenprime.store scores 67/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T03:27:45.834Z'
+fetchedAt: '2026-08-10T06:01:37.014Z'
 finalUrl: 'https://edenprime.store/'
 reachable: true
 noindex: false
@@ -17,7 +17,6 @@ verdict:
     present, but a few are missing — review the breakdown below before buying.
   score: 67
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://edenprime.store/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -56,17 +55,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 73
+      validTo: '2026-11-04'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-02-07'
-      ageDays: 137
-      ageYears: 0.4
-    detail: Registered 0.4 years ago (2026-02-07).
+      ageDays: 183
+      ageYears: 0.5
+    detail: Registered 0.5 years ago (2026-02-07).
   contact:
     status: pass
     value:

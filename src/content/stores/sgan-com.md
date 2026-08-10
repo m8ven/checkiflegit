@@ -4,8 +4,8 @@ slug: sgan-com
 title: Is sgan.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   sgan.com scores 100/100 on our public trust checks. Established domain —
-  registered 24.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:00:36.133Z'
+  registered 24.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:11:28.203Z'
 finalUrl: 'https://sgan.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.6 years ago.
+    - Established domain — registered 24.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 85
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-11-17'
-      ageDays: 8985
-      ageYears: 24.6
-    detail: Registered 24.6 years ago (2001-11-17).
+      ageDays: 9031
+      ageYears: 24.7
+    detail: Registered 24.7 years ago (2001-11-17).
   contact:
     status: pass
     value:
@@ -77,14 +77,14 @@ signals:
   social:
     status: pass
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: true
       youtube: true
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, tiktok, youtube.'
+    detail: 'Links to 2 social platform(s): tiktok, youtube.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sgan.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sgan.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sgan in the score above.
 

@@ -4,8 +4,8 @@ slug: pauseforinspiration-org
 title: Is pauseforinspiration.org Legit? Trust Score 100/100
 description: >-
   pauseforinspiration.org scores 100/100 on our public trust checks. Established
-  domain — registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:01:16.661Z'
+  domain — registered 15.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:12:00.846Z'
 finalUrl: 'https://pauseforinspiration.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.7 years ago.
+    - Established domain — registered 15.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-10'
-      daysToExpiry: 78
+      validTo: '2026-10-06'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2010-09-29'
-      ageDays: 5747
-      ageYears: 15.7
-    detail: Registered 15.7 years ago (2010-09-29).
+      ageDays: 5793
+      ageYears: 15.9
+    detail: Registered 15.9 years ago (2010-09-29).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pauseforinspiration.org looks like a well-established store. The clearest positives are that its domain has been registered for 15.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pauseforinspiration.org looks like a well-established store. The clearest positives are that its domain has been registered for 15.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pauseforinspiration in the score above.
 

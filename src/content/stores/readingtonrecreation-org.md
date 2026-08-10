@@ -4,8 +4,8 @@ slug: readingtonrecreation-org
 title: Is readingtonrecreation.org Legit? Trust Score 94/100
 description: >-
   readingtonrecreation.org scores 94/100 on our public trust checks. Established
-  domain — registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:00:17.983Z'
+  domain — registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:11:15.155Z'
 finalUrl: 'https://readingtonrecreation.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.5 years ago.
+    - Established domain — registered 10.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2015-12-23'
-      ageDays: 3836
-      ageYears: 10.5
-    detail: Registered 10.5 years ago (2015-12-23).
+      ageDays: 3882
+      ageYears: 10.6
+    detail: Registered 10.6 years ago (2015-12-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-readingtonrecreation.org looks like a well-established store. The clearest positives are that its domain has been registered for 10.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+readingtonrecreation.org looks like a well-established store. The clearest positives are that its domain has been registered for 10.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Readingtonrecreation in the score above.
 

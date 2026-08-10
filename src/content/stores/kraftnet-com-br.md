@@ -5,7 +5,7 @@ title: Is kraftnet.com.br Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   kraftnet.com.br scores 66/100 on our public trust checks. HTTPS certificate
   present but its trust chain is incomplete.
-fetchedAt: '2026-06-25T12:25:51.153Z'
+fetchedAt: '2026-08-10T06:32:01.627Z'
 finalUrl: 'https://www.kraftnet.com.br/'
 reachable: true
 noindex: false
@@ -45,18 +45,18 @@ signals:
   pages:
     status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: warn
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 25
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:

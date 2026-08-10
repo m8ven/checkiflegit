@@ -4,8 +4,8 @@ slug: jaggedxoffroad-com
 title: Is jaggedxoffroad.com Legit? Trust Score 88/100
 description: >-
   jaggedxoffroad.com scores 88/100 on our public trust checks. Established
-  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:01.915Z'
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:18.372Z'
 finalUrl: 'https://jaggedxoffroad.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.3 years ago.
+    - Established domain — registered 4.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -50,23 +50,23 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-03-03'
-      ageDays: 1575
-      ageYears: 4.3
-    detail: Registered 4.3 years ago (2022-03-03).
+      ageDays: 1621
+      ageYears: 4.4
+    detail: Registered 4.4 years ago (2022-03-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jaggedxoffroad.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jaggedxoffroad.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jaggedxoffroad in the score above.
 

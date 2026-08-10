@@ -1,30 +1,30 @@
 ---
 domain: trendsgroup.org
 slug: trendsgroup-org
-title: Is trendsgroup.org Legit? Trust Score 55/100 — Mixed Signals
+title: Is trendsgroup.org Legit? Trust Score 82/100
 description: >-
-  trendsgroup.org scores 55/100 on our public trust checks. Domain registered
-  very recently (79 days ago). Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:07:21.975Z'
+  trendsgroup.org scores 82/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-10T06:16:58.946Z'
 finalUrl: 'https://trendsgroup.org/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 55
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Domain registered very recently (79 days ago).
-  cautions: []
+  redFlags: []
+  cautions:
+    - Domain is relatively young.
 signals:
   http:
     status: pass
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-28'
-      daysToExpiry: 157
+      daysToExpiry: 111
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
-    status: fail
+    status: warn
     value:
       createdAt: '2026-04-06'
-      ageDays: 79
-      ageYears: 0.2
-    detail: Registered very recently (79 days ago).
+      ageDays: 125
+      ageYears: 0.3
+    detail: Registered 0.3 years ago (2026-04-06).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-trendsgroup.org sends a mixed set of signals. On the positive side, it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. Against that, the domain was only registered very recently — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+trendsgroup.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that the domain is still relatively young, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Trendsgroup in the score above.
 

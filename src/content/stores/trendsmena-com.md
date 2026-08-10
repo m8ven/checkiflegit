@@ -1,11 +1,11 @@
 ---
 domain: trendsmena.com
 slug: trendsmena-com
-title: Is trendsmena.com Legit? Trust Score 70/100
+title: Is trendsmena.com Legit? Trust Score 88/100
 description: >-
-  trendsmena.com scores 70/100 on our public trust checks. Established domain —
-  registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:13:42.300Z'
+  trendsmena.com scores 88/100 on our public trust checks. Established domain —
+  registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:22:17.391Z'
 finalUrl: 'https://trendsmena.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.1 years ago.
+    - Established domain — registered 13.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-06'
-      daysToExpiry: 74
+      validTo: '2026-11-04'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-05-21'
-      ageDays: 4782
-      ageYears: 13.1
-    detail: Registered 13.1 years ago (2013-05-21).
+      ageDays: 4828
+      ageYears: 13.2
+    detail: Registered 13.2 years ago (2013-05-21).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
       phone: false
-      address: false
-    detail: No public contact details detected on the homepage.
+      address: true
+    detail: 'Public contact details found: address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-trendsmena.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+trendsmena.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Trendsmena in the score above.
 

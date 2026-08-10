@@ -1,11 +1,11 @@
 ---
 domain: santacatrina.com.pl
 slug: santacatrina-com-pl
-title: Is santacatrina.com.pl Legit? Trust Score 88/100
+title: Is santacatrina.com.pl Legit? Trust Score 100/100
 description: >-
-  santacatrina.com.pl scores 88/100 on our public trust checks. Established
-  domain — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:50.786Z'
+  santacatrina.com.pl scores 100/100 on our public trust checks. Established
+  domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:57.907Z'
 finalUrl: 'https://santacatrina.com.pl/pl/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.9 years ago.
+    - Established domain — registered 4.1 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
+      privacy: true
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-07-14'
-      ageDays: 1441
-      ageYears: 3.9
-    detail: Registered 3.9 years ago (2022-07-14).
+      ageDays: 1487
+      ageYears: 4.1
+    detail: Registered 4.1 years ago (2022-07-14).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-santacatrina.com.pl looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+santacatrina.com.pl looks like a well-established store. The clearest positives are that its domain has been registered for 4.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Santacatrina in the score above.
 

@@ -4,8 +4,8 @@ slug: gymstogo-com
 title: Is gymstogo.com Legit? Trust Score 100/100
 description: >-
   gymstogo.com scores 100/100 on our public trust checks. Established domain —
-  registered 24.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:55:22.687Z'
+  registered 24.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:05:30.567Z'
 finalUrl: 'https://gymstogo.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.5 years ago.
+    - Established domain — registered 24.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-25'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-01-10'
-      ageDays: 8931
-      ageYears: 24.5
-    detail: Registered 24.5 years ago (2002-01-10).
+      ageDays: 8977
+      ageYears: 24.6
+    detail: Registered 24.6 years ago (2002-01-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gymstogo.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gymstogo.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gymstogo in the score above.
 

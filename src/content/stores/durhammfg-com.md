@@ -1,11 +1,11 @@
 ---
 domain: durhammfg.com
 slug: durhammfg-com
-title: Is durhammfg.com Legit? Trust Score 78/100
+title: Is durhammfg.com Legit? Trust Score 82/100
 description: >-
-  durhammfg.com scores 78/100 on our public trust checks. Established domain —
-  registered 30.1 years ago. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:20:31.588Z'
+  durhammfg.com scores 82/100 on our public trust checks. Established domain —
+  registered 30.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:27:51.667Z'
 finalUrl: 'https://www.durhammfg.com/'
 reachable: true
 noindex: false
@@ -15,10 +15,11 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 78
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 30.1 years ago.
+    - Established domain — registered 30.3 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
   cautions:
@@ -52,16 +53,20 @@ signals:
       shipping: false
     detail: Found 1 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Starfield Technologies
+      validTo: '2026-10-09'
+      daysToExpiry: 61
+      authorized: true
+    detail: Valid certificate issued by Starfield Technologies.
   domainAge:
     status: pass
     value:
       createdAt: '1996-05-16'
-      ageDays: 10997
-      ageYears: 30.1
-    detail: Registered 30.1 years ago (1996-05-16).
+      ageDays: 11043
+      ageYears: 30.3
+    detail: Registered 30.3 years ago (1996-05-16).
   contact:
     status: pass
     value:
@@ -90,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-durhammfg.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+durhammfg.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Durhammfg in the score above.
 

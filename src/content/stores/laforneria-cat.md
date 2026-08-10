@@ -4,8 +4,8 @@ slug: laforneria-cat
 title: Is laforneria.cat Legit? Trust Score 100/100
 description: >-
   laforneria.cat scores 100/100 on our public trust checks. Established domain —
-  registered 19.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:09:29.840Z'
+  registered 19.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:18:51.928Z'
 finalUrl: 'https://laforneria.cat/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.1 years ago.
+    - Established domain — registered 19.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-04'
-      daysToExpiry: 102
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2007-05-14'
-      ageDays: 6982
-      ageYears: 19.1
-    detail: Registered 19.1 years ago (2007-05-14).
+      ageDays: 7027
+      ageYears: 19.3
+    detail: Registered 19.3 years ago (2007-05-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-laforneria.cat looks like a well-established store. The clearest positives are that its domain has been registered for 19.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+laforneria.cat looks like a well-established store. The clearest positives are that its domain has been registered for 19.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Laforneria in the score above.
 

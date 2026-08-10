@@ -1,11 +1,11 @@
 ---
 domain: maximumdarts.com
 slug: maximumdarts-com
-title: Is maximumdarts.com Legit? Trust Score 64/100
+title: Is maximumdarts.com Legit? Trust Score 55/100
 description: >-
-  maximumdarts.com scores 64/100 on our public trust checks. Standard contact
-  and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T12:16:53.494Z'
+  maximumdarts.com scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
+fetchedAt: '2026-08-10T06:24:59.273Z'
 finalUrl: 'https://maximumdarts.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 64
+  score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.5 years ago.
+    - Established domain — registered 13.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
     - Standard contact and policy pages were not found.
-  cautions:
-    - Limited social media presence.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 59
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-12-10'
-      ageDays: 4945
-      ageYears: 13.5
-    detail: Registered 13.5 years ago (2012-12-10).
+      ageDays: 4991
+      ageYears: 13.7
+    detail: Registered 13.7 years ago (2012-12-10).
   contact:
     status: pass
     value:
@@ -75,16 +75,16 @@ signals:
       address: true
     detail: 'Public contact details found: phone, address.'
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
       instagram: false
       twitter: false
       tiktok: false
-      youtube: true
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): youtube.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-maximumdarts.com sends a mixed set of signals. On the positive side, its domain has been registered for 13.5 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+maximumdarts.com sends a mixed set of signals. On the positive side, its domain has been registered for 13.7 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Maximumdarts in the score above.
 

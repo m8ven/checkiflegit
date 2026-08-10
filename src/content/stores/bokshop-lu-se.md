@@ -6,7 +6,7 @@ description: >-
   bokshop.lu.se scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T12:23:43.740Z'
+fetchedAt: '2026-08-10T06:30:26.301Z'
 finalUrl: 'https://www.bokshop.lu.se/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 63
+      validTo: '2026-10-21'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: wild-bracelets-ro
 title: Is wild-bracelets.ro Legit? Trust Score 100/100
 description: >-
   wild-bracelets.ro scores 100/100 on our public trust checks. Established
-  domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:10:23.786Z'
+  domain — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:19:28.331Z'
 finalUrl: 'https://wild-bracelets.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.3 years ago.
+    - Established domain — registered 5.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 30
+      validTo: '2026-09-23'
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-03-22'
-      ageDays: 1921
-      ageYears: 5.3
-    detail: Registered 5.3 years ago (2021-03-22).
+      ageDays: 1967
+      ageYears: 5.4
+    detail: Registered 5.4 years ago (2021-03-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-wild-bracelets.ro looks like a well-established store. The clearest positives are that its domain has been registered for 5.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+wild-bracelets.ro looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Wild-bracelets in the score above.
 

@@ -4,8 +4,8 @@ slug: ozdoganreklam-net
 title: Is ozdoganreklam.net Legit? Trust Score 70/100
 description: >-
   ozdoganreklam.net scores 70/100 on our public trust checks. Established domain
-  — registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:00:21.658Z'
+  — registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:11:19.501Z'
 finalUrl: 'https://ozdoganreklam.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.6 years ago.
+    - Established domain — registered 12.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 39
+      validTo: '2026-10-03'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-11-28'
-      ageDays: 4592
-      ageYears: 12.6
-    detail: Registered 12.6 years ago (2013-11-28).
+      ageDays: 4637
+      ageYears: 12.7
+    detail: Registered 12.7 years ago (2013-11-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ozdoganreklam.net looks like a well-established store. The clearest positives are that its domain has been registered for 12.6 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ozdoganreklam.net looks like a well-established store. The clearest positives are that its domain has been registered for 12.7 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ozdoganreklam in the score above.
 

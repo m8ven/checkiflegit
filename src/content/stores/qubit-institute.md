@@ -5,7 +5,7 @@ title: Is qubit.institute Legit? Trust Score 79/100
 description: >-
   qubit.institute scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:05:02.526Z'
+fetchedAt: '2026-08-10T06:15:09.908Z'
 finalUrl: 'https://qubit.institute/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 23
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

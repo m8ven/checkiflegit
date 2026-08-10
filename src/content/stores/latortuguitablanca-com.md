@@ -4,8 +4,8 @@ slug: latortuguitablanca-com
 title: Is latortuguitablanca.com Legit? Trust Score 88/100
 description: >-
   latortuguitablanca.com scores 88/100 on our public trust checks. Established
-  domain — registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:18:57.331Z'
+  domain — registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:26:46.773Z'
 finalUrl: 'https://latortuguitablanca.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.1 years ago.
+    - Established domain — registered 12.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -40,7 +40,7 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-03'
-      daysToExpiry: 162
+      daysToExpiry: 116
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2014-06-04'
-      ageDays: 4404
-      ageYears: 12.1
-    detail: Registered 12.1 years ago (2014-06-04).
+      ageDays: 4449
+      ageYears: 12.2
+    detail: Registered 12.2 years ago (2014-06-04).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-latortuguitablanca.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+latortuguitablanca.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Latortuguitablanca in the score above.
 

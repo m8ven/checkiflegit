@@ -5,7 +5,7 @@ title: Is medical-pictures.de Legit? Trust Score 79/100
 description: >-
   medical-pictures.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:54:49.745Z'
+fetchedAt: '2026-08-10T06:04:56.230Z'
 finalUrl: 'https://medical-pictures.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-17'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

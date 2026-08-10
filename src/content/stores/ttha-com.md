@@ -4,8 +4,8 @@ slug: ttha-com
 title: Is ttha.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   ttha.com scores 100/100 on our public trust checks. Established domain —
-  registered 28.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:07:45.070Z'
+  registered 29 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:17:16.333Z'
 finalUrl: 'https://ttha.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.9 years ago.
+    - Established domain — registered 29 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-24'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-08-07'
-      ageDays: 10549
-      ageYears: 28.9
-    detail: Registered 28.9 years ago (1997-08-07).
+      ageDays: 10595
+      ageYears: 29
+    detail: Registered 29 years ago (1997-08-07).
   contact:
     status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: true
-    detail: 'Public contact details found: phone, address.'
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ttha.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ttha.com looks like a well-established store. The clearest positives are that its domain has been registered for 29 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ttha in the score above.
 

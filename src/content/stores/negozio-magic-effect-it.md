@@ -4,8 +4,8 @@ slug: negozio-magic-effect-it
 title: Is negozio-magic-effect.it Legit? Trust Score 100/100
 description: >-
   negozio-magic-effect.it scores 100/100 on our public trust checks. Established
-  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:53.989Z'
+  domain — registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:20.054Z'
 finalUrl: 'https://www.negozio-magic-effect.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-11-07'
-      ageDays: 2055
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-11-07).
+      ageDays: 2101
+      ageYears: 5.8
+    detail: Registered 5.8 years ago (2020-11-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-negozio-magic-effect.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+negozio-magic-effect.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Negozio-magic-effect in the score above.
 

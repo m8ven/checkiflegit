@@ -5,7 +5,7 @@ title: Is tecnomundo.com.gt Legit? Trust Score 66/100
 description: >-
   tecnomundo.com.gt scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:05:43.134Z'
+fetchedAt: '2026-08-10T06:15:28.964Z'
 finalUrl: 'https://tecnomundo.com.gt/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-01'
-      daysToExpiry: 68
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

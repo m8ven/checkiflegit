@@ -1,11 +1,11 @@
 ---
 domain: lak-car.pl
 slug: lak-car-pl
-title: Is lak-car.pl Legit? Trust Score 82/100 — Trust Checks Pass
+title: Is lak-car.pl Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  lak-car.pl scores 82/100 on our public trust checks. Established domain —
-  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:09:49.106Z'
+  lak-car.pl scores 94/100 on our public trust checks. Established domain —
+  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:19:06.164Z'
 finalUrl: 'https://lak-car.pl/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.8 years ago.
+    - Established domain — registered 7.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-10-13'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-09-24'
-      ageDays: 2830
-      ageYears: 7.8
-    detail: Registered 7.8 years ago (2018-09-24).
+      ageDays: 2876
+      ageYears: 7.9
+    detail: Registered 7.9 years ago (2018-09-24).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lak-car.pl looks like a well-established store. The clearest positives are that its domain has been registered for 7.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lak-car.pl looks like a well-established store. The clearest positives are that its domain has been registered for 7.9 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lak-car in the score above.
 

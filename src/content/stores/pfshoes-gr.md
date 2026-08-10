@@ -5,7 +5,7 @@ title: Is pfshoes.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   pfshoes.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:29:11.756Z'
+fetchedAt: '2026-08-10T06:35:06.379Z'
 finalUrl: 'https://pfshoes.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 51
+      validTo: '2026-10-14'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

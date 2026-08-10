@@ -5,7 +5,7 @@ title: Is bio-active.co.th Legit? Trust Score 83/100
 description: >-
   bio-active.co.th scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:13:58.652Z'
+fetchedAt: '2026-08-10T06:22:29.440Z'
 finalUrl: 'https://www.bio-active.co.th/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: true
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-25'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

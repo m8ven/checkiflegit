@@ -5,7 +5,7 @@ title: Is vasterasapotek.com Legit? Trust Score 43/100
 description: >-
   vasterasapotek.com scores 43/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T12:08:11.600Z'
+fetchedAt: '2026-08-10T06:17:42.809Z'
 finalUrl: 'https://vasterasapotek.com/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-03'
-      ageDays: 233
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-03).
+      ageDays: 279
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-11-03).
   contact:
     status: warn
     value:

@@ -6,7 +6,7 @@ description: >-
   dh-com.nl scores 13/100 on our public trust checks. Standard contact and
   policy pages were not found. No public contact details detected on the
   homepage.
-fetchedAt: '2026-06-25T12:28:54.908Z'
+fetchedAt: '2026-08-10T06:34:53.803Z'
 finalUrl: 'http://www.dh-com.nl/'
 reachable: true
 noindex: false
@@ -20,7 +20,7 @@ verdict:
   score: 13
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.4 years ago.
+    - Established domain — registered 21.6 years ago.
   redFlags:
     - Standard contact and policy pages were not found.
     - No public contact details detected on the homepage.
@@ -59,16 +59,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-08'
-      daysToExpiry: 106
+      daysToExpiry: 60
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2005-01-18'
-      ageDays: 7828
-      ageYears: 21.4
-    detail: Registered 21.4 years ago (2005-01-18).
+      ageDays: 7874
+      ageYears: 21.6
+    detail: Registered 21.6 years ago (2005-01-18).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for dh-com.nl. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 21.4 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for dh-com.nl. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 21.6 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dh-com in the score above.
 

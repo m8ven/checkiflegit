@@ -1,24 +1,25 @@
 ---
 domain: obsidianclawblades.com
 slug: obsidianclawblades-com
-title: Is obsidianclawblades.com Legit? Trust Score 16/100
+title: Is obsidianclawblades.com Legit? Trust Score 58/100
 description: >-
-  obsidianclawblades.com scores 16/100 on our public trust checks. No public
+  obsidianclawblades.com scores 58/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:56:18.752Z'
+fetchedAt: '2026-08-10T06:06:16.088Z'
 finalUrl: 'https://obsidianclawblades.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 16
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 1.6 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
@@ -52,13 +53,20 @@ signals:
       shipping: false
     detail: Found 0 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-09-29'
+      daysToExpiry: 50
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2025-01-07'
+      ageDays: 579
+      ageYears: 1.6
+    detail: Registered 1.6 years ago (2025-01-07).
   contact:
     status: fail
     value:
@@ -87,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for obsidianclawblades.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — it runs on WooCommerce, an established e-commerce platform and it maintains active social media profiles — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+obsidianclawblades.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.6 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Obsidianclawblades in the score above.
 

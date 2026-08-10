@@ -5,7 +5,7 @@ title: Is prohart.gr Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   prohart.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:59:24.344Z'
+fetchedAt: '2026-08-10T06:10:36.109Z'
 finalUrl: 'https://prohart.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 76
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

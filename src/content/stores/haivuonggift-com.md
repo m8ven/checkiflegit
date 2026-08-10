@@ -1,11 +1,11 @@
 ---
 domain: haivuonggift.com
 slug: haivuonggift-com
-title: Is haivuonggift.com Legit? Trust Score 73/100
+title: Is haivuonggift.com Legit? Trust Score 85/100
 description: >-
-  haivuonggift.com scores 73/100 on our public trust checks. Established domain
-  — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:55:57.647Z'
+  haivuonggift.com scores 85/100 on our public trust checks. Established domain
+  — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:06:00.119Z'
 finalUrl: 'https://haivuonggift.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.7 years ago.
+    - Established domain — registered 6.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-25'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-10-03'
-      ageDays: 2456
-      ageYears: 6.7
-    detail: Registered 6.7 years ago (2019-10-03).
+      ageDays: 2502
+      ageYears: 6.9
+    detail: Registered 6.9 years ago (2019-10-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-haivuonggift.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+haivuonggift.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Haivuonggift in the score above.
 

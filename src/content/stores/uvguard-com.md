@@ -4,8 +4,8 @@ slug: uvguard-com
 title: Is uvguard.com Legit? Trust Score 100/100
 description: >-
   uvguard.com scores 100/100 on our public trust checks. Established domain —
-  registered 24 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:17:02.509Z'
+  registered 24.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:25:02.610Z'
 finalUrl: 'https://uvguard.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24 years ago.
+    - Established domain — registered 24.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-15'
-      daysToExpiry: 82
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2002-07-03'
-      ageDays: 8758
-      ageYears: 24
-    detail: Registered 24 years ago (2002-07-03).
+      ageDays: 8804
+      ageYears: 24.1
+    detail: Registered 24.1 years ago (2002-07-03).
   contact:
     status: pass
     value:
@@ -81,10 +81,10 @@ signals:
       instagram: false
       twitter: true
       tiktok: false
-      youtube: false
+      youtube: true
       linkedin: true
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, twitter, linkedin.'
+    detail: 'Links to 4 social platform(s): facebook, twitter, youtube, linkedin.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-uvguard.com looks like a well-established store. The clearest positives are that its domain has been registered for 24 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+uvguard.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Uvguard in the score above.
 

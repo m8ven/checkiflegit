@@ -5,7 +5,7 @@ title: Is university.impruver.com Legit? Trust Score 79/100
 description: >-
   university.impruver.com scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:16:27.444Z'
+fetchedAt: '2026-08-10T06:24:31.693Z'
 finalUrl: 'https://university.impruver.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 69
+      validTo: '2026-10-31'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

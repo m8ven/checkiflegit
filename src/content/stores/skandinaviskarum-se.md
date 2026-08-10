@@ -4,8 +4,8 @@ slug: skandinaviskarum-se
 title: Is skandinaviskarum.se Legit? Trust Score 100/100
 description: >-
   skandinaviskarum.se scores 100/100 on our public trust checks. Established
-  domain — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:23.388Z'
+  domain — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:37.900Z'
 finalUrl: 'https://skandinaviskarum.se/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.5 years ago.
+    - Established domain — registered 2.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 38
+      validTo: '2026-09-30'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-01-07'
-      ageDays: 900
-      ageYears: 2.5
-    detail: Registered 2.5 years ago (2024-01-07).
+      ageDays: 946
+      ageYears: 2.6
+    detail: Registered 2.6 years ago (2024-01-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-skandinaviskarum.se looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+skandinaviskarum.se looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Skandinaviskarum in the score above.
 

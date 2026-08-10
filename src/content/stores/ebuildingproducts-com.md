@@ -4,8 +4,8 @@ slug: ebuildingproducts-com
 title: Is ebuildingproducts.com Legit? Trust Score 100/100
 description: >-
   ebuildingproducts.com scores 100/100 on our public trust checks. Established
-  domain — registered 22.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:27:40.001Z'
+  domain — registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:35.546Z'
 finalUrl: 'https://ebuildingproducts.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.2 years ago.
+    - Established domain — registered 22.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: 'GoDaddy.com, Inc.'
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      issuer: GoDaddy.com
+      validTo: '2026-10-26'
+      daysToExpiry: 78
       authorized: true
-    detail: 'Valid certificate issued by GoDaddy.com, Inc..'
+    detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2004-04-06'
-      ageDays: 8114
-      ageYears: 22.2
-    detail: Registered 22.2 years ago (2004-04-06).
+      ageDays: 8160
+      ageYears: 22.4
+    detail: Registered 22.4 years ago (2004-04-06).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ebuildingproducts.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ebuildingproducts.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ebuildingproducts in the score above.
 

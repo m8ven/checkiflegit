@@ -5,7 +5,7 @@ title: Is usitshop.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   usitshop.com scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:55:03.980Z'
+fetchedAt: '2026-08-10T06:00:14.021Z'
 finalUrl: 'https://usitshop.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.2 years ago.
+    - Established domain — registered 6.3 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-22'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-04-25'
-      ageDays: 2251
-      ageYears: 6.2
-    detail: Registered 6.2 years ago (2020-04-25).
+      ageDays: 2298
+      ageYears: 6.3
+    detail: Registered 6.3 years ago (2020-04-25).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-usitshop.com sends a mixed set of signals. On the positive side, its domain has been registered for 6.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+usitshop.com sends a mixed set of signals. On the positive side, its domain has been registered for 6.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Usitshop in the score above.
 

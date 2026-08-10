@@ -5,7 +5,7 @@ title: Is apson.co.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   apson.co.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:33:53.482Z'
+fetchedAt: '2026-08-10T06:02:14.094Z'
 finalUrl: 'https://apson.co.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

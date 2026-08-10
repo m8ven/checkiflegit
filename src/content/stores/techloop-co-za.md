@@ -5,8 +5,8 @@ title: Is techloop.co.za Legit? Trust Score 100/100
 description: >-
   techloop.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:07:26.227Z'
-finalUrl: 'http://techloop.co.za/'
+fetchedAt: '2026-08-10T06:17:04.791Z'
+finalUrl: 'https://techloop.co.za/'
 reachable: true
 noindex: false
 verdict:
@@ -29,7 +29,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'http://techloop.co.za/'
+      finalUrl: 'https://techloop.co.za/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

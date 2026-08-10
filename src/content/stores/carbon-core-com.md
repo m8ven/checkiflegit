@@ -4,8 +4,8 @@ slug: carbon-core-com
 title: Is carbon-core.com Legit? Trust Score 94/100
 description: >-
   carbon-core.com scores 94/100 on our public trust checks. Established domain —
-  registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:17:10.552Z'
+  registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:25:14.102Z'
 finalUrl: 'https://www.carbon-core.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.5 years ago.
+    - Established domain — registered 14.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: GoDaddy.com
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 29
       authorized: true
     detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2012-01-12'
-      ageDays: 5277
-      ageYears: 14.5
-    detail: Registered 14.5 years ago (2012-01-12).
+      ageDays: 5323
+      ageYears: 14.6
+    detail: Registered 14.6 years ago (2012-01-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-carbon-core.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+carbon-core.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Carbon-core in the score above.
 

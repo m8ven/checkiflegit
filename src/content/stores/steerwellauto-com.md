@@ -4,8 +4,8 @@ slug: steerwellauto-com
 title: Is steerwellauto.com Legit? Trust Score 100/100
 description: >-
   steerwellauto.com scores 100/100 on our public trust checks. Established
-  domain — registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:49.772Z'
+  domain — registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:06.171Z'
 finalUrl: 'https://steerwellauto.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.5 years ago.
+    - Established domain — registered 16.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2010-01-11'
-      ageDays: 6008
-      ageYears: 16.5
-    detail: Registered 16.5 years ago (2010-01-11).
+      ageDays: 6054
+      ageYears: 16.6
+    detail: Registered 16.6 years ago (2010-01-11).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-steerwellauto.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+steerwellauto.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Steerwellauto in the score above.
 

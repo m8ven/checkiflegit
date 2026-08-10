@@ -5,7 +5,7 @@ title: Is oxford.co.za Legit? Trust Score 83/100
 description: >-
   oxford.co.za scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:00:19.833Z'
+fetchedAt: '2026-08-10T06:11:17.168Z'
 finalUrl: 'https://oxford.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-15'
-      daysToExpiry: 51
+      validTo: '2026-10-13'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

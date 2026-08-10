@@ -1,11 +1,11 @@
 ---
 domain: nytlaegejob.dk
 slug: nytlaegejob-dk
-title: Is nytlaegejob.dk Legit? Trust Score 76/100
+title: Is nytlaegejob.dk Legit? Trust Score 88/100
 description: >-
-  nytlaegejob.dk scores 76/100 on our public trust checks. Established domain —
-  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:19.801Z'
+  nytlaegejob.dk scores 88/100 on our public trust checks. Established domain —
+  registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:08:02.341Z'
 finalUrl: 'https://nytlaegejob.dk/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.1 years ago.
+    - Established domain — registered 10.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-05-30'
-      ageDays: 3678
-      ageYears: 10.1
-    detail: Registered 10.1 years ago (2016-05-30).
+      ageDays: 3724
+      ageYears: 10.2
+    detail: Registered 10.2 years ago (2016-05-30).
   contact:
-    status: warn
+    status: pass
     value:
       email: true
-      phone: false
-      address: false
-    detail: 'Public contact details found: email.'
+      phone: true
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nytlaegejob.dk looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nytlaegejob.dk looks like a well-established store. The clearest positives are that its domain has been registered for 10.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nytlaegejob in the score above.
 

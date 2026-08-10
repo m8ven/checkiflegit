@@ -1,11 +1,11 @@
 ---
 domain: oblist.com
 slug: oblist-com
-title: Is oblist.com Legit? Trust Score 100/100 — Trust Checks Pass
+title: Is oblist.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  oblist.com scores 100/100 on our public trust checks. Established domain —
-  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:05.335Z'
+  oblist.com scores 88/100 on our public trust checks. Established domain —
+  registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:28.117Z'
 finalUrl: 'https://oblist.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 3.6 years ago.
+    - Established domain — registered 3.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -55,25 +55,25 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      issuer: Let's Encrypt
+      validTo: '2026-10-03'
+      daysToExpiry: 54
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-11-18'
-      ageDays: 1315
-      ageYears: 3.6
-    detail: Registered 3.6 years ago (2022-11-18).
+      ageDays: 1360
+      ageYears: 3.7
+    detail: Registered 3.7 years ago (2022-11-18).
   contact:
-    status: pass
+    status: warn
     value:
       email: false
       phone: true
-      address: true
-    detail: 'Public contact details found: phone, address.'
+      address: false
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-oblist.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+oblist.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Oblist in the score above.
 

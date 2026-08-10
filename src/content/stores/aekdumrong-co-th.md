@@ -5,7 +5,7 @@ title: Is aekdumrong.co.th Legit? Trust Score 57/100
 description: >-
   aekdumrong.co.th scores 57/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:20:58.979Z'
+fetchedAt: '2026-08-10T06:28:07.552Z'
 finalUrl: 'https://www.aekdumrong.co.th/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 51
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

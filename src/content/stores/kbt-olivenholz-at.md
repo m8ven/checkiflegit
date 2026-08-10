@@ -5,7 +5,7 @@ title: Is kbt-olivenholz.at Legit? Trust Score 36/100
 description: >-
   kbt-olivenholz.at scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:21:56.927Z'
+fetchedAt: '2026-08-10T06:29:08.918Z'
 finalUrl: 'https://www.kbt-olivenholz.at/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-06'
-      daysToExpiry: 73
+      validTo: '2026-11-04'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

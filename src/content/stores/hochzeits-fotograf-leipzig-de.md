@@ -5,7 +5,7 @@ title: Is hochzeits-fotograf-leipzig.de Legit? Trust Score 57/100
 description: >-
   hochzeits-fotograf-leipzig.de scores 57/100 on our public trust checks. Some
   standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T11:56:34.595Z'
+fetchedAt: '2026-08-10T06:08:09.951Z'
 finalUrl: 'https://hochzeits-fotograf-leipzig.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

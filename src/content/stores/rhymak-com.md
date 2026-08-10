@@ -5,7 +5,7 @@ title: Is rhymak.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   rhymak.com scores 55/100 on our public trust checks. No public contact details
   detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:00:38.205Z'
+fetchedAt: '2026-08-10T06:11:29.088Z'
 finalUrl: 'https://rhymak.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-12'
-      ageDays: 1747
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-09-12).
+      ageDays: 1792
+      ageYears: 4.9
+    detail: Registered 4.9 years ago (2021-09-12).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rhymak.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.8 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+rhymak.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rhymak in the score above.
 

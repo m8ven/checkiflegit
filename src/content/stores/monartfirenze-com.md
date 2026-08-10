@@ -4,8 +4,8 @@ slug: monartfirenze-com
 title: Is monartfirenze.com Legit? Trust Score 100/100
 description: >-
   monartfirenze.com scores 100/100 on our public trust checks. Established
-  domain — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:24:05.177Z'
+  domain — registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:45.094Z'
 finalUrl: 'https://www.monartfirenze.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.4 years ago.
+    - Established domain — registered 9.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,31 +49,31 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-09'
-      daysToExpiry: 138
+      daysToExpiry: 92
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2017-02-02'
-      ageDays: 3430
-      ageYears: 9.4
-    detail: Registered 9.4 years ago (2017-02-02).
+      ageDays: 3475
+      ageYears: 9.5
+    detail: Registered 9.5 years ago (2017-02-02).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-monartfirenze.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+monartfirenze.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Monartfirenze in the score above.
 

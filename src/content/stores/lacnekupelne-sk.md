@@ -5,7 +5,7 @@ title: Is lacnekupelne.sk Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   lacnekupelne.sk scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T12:25:56.294Z'
+fetchedAt: '2026-08-10T06:32:11.410Z'
 finalUrl: 'https://www.lacnekupelne.sk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 50
+      validTo: '2026-10-13'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

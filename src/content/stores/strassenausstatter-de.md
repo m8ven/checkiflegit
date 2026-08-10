@@ -5,7 +5,7 @@ title: Is strassenausstatter.de Legit? Trust Score 100/100
 description: >-
   strassenausstatter.de scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:30:29.671Z'
+fetchedAt: '2026-08-10T06:36:00.073Z'
 finalUrl: 'https://www.strassenausstatter.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-06'
-      daysToExpiry: 73
+      validTo: '2026-11-04'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

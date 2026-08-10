@@ -5,7 +5,7 @@ title: Is waad.ae Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   waad.ae scores 100/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:18:57.485Z'
+fetchedAt: '2026-08-10T06:26:46.823Z'
 finalUrl: 'https://waad.ae/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 50
+      validTo: '2026-10-14'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

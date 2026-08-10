@@ -4,8 +4,8 @@ slug: roswellbeerfestival-com
 title: Is roswellbeerfestival.com Legit? Trust Score 88/100
 description: >-
   roswellbeerfestival.com scores 88/100 on our public trust checks. Established
-  domain — registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:27:25.038Z'
+  domain — registered 13.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:33:48.022Z'
 finalUrl: 'https://www.roswellbeerfestival.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.3 years ago.
+    - Established domain — registered 13.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-03-22'
-      ageDays: 4842
-      ageYears: 13.3
-    detail: Registered 13.3 years ago (2013-03-22).
+      ageDays: 4888
+      ageYears: 13.4
+    detail: Registered 13.4 years ago (2013-03-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-roswellbeerfestival.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+roswellbeerfestival.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Roswellbeerfestival in the score above.
 

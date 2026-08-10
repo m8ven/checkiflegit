@@ -5,7 +5,7 @@ title: Is onlinepharmacy.co Legit? Trust Score 79/100
 description: >-
   onlinepharmacy.co scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:56:44.162Z'
+fetchedAt: '2026-08-10T06:08:21.034Z'
 finalUrl: 'https://onlinepharmacy.co/'
 reachable: true
 noindex: false
@@ -38,9 +38,9 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
+        hasCartLink: false
         hasCatalog: true
-        hasCartFlow: true
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: pass
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

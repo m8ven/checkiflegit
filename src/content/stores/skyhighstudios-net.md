@@ -4,8 +4,8 @@ slug: skyhighstudios-net
 title: Is skyhighstudios.net Legit? Trust Score 76/100
 description: >-
   skyhighstudios.net scores 76/100 on our public trust checks. Established
-  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:31.785Z'
+  domain — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:47.993Z'
 finalUrl: 'https://skyhighstudios.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13 years ago.
+    - Established domain — registered 13.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-25'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-07-05'
-      ageDays: 4737
-      ageYears: 13
-    detail: Registered 13 years ago (2013-07-05).
+      ageDays: 4783
+      ageYears: 13.1
+    detail: Registered 13.1 years ago (2013-07-05).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-skyhighstudios.net looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+skyhighstudios.net looks like a well-established store. The clearest positives are that its domain has been registered for 13.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Skyhighstudios in the score above.
 

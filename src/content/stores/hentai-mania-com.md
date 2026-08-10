@@ -1,28 +1,27 @@
 ---
 domain: hentai-mania.com
 slug: hentai-mania-com
-title: Is hentai-mania.com Legit? Trust Score 55/100
+title: Is hentai-mania.com Legit? Trust Score 85/100
 description: >-
-  hentai-mania.com scores 55/100 on our public trust checks. No public contact
-  details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:58:00.541Z'
+  hentai-mania.com scores 85/100 on our public trust checks. Established domain
+  — registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:27.054Z'
 finalUrl: 'https://hentai-mania.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 55
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 85
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1 years ago.
+    - Established domain — registered 1.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
   redFlags:
-    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions: []
 signals:
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://hentai-mania.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -50,30 +49,30 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-09'
-      daysToExpiry: 76
+      validTo: '2026-11-07'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2025-06-18'
-      ageDays: 372
-      ageYears: 1
-    detail: Registered 1 years ago (2025-06-18).
+      ageDays: 418
+      ageYears: 1.1
+    detail: Registered 1.1 years ago (2025-06-18).
   contact:
-    status: fail
+    status: pass
     value:
-      email: false
-      phone: false
-      address: false
-    detail: No public contact details detected on the homepage.
+      email: true
+      phone: true
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hentai-mania.com sends a mixed set of signals. On the positive side, its domain has been registered for 1 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+hentai-mania.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hentai-mania in the score above.
 

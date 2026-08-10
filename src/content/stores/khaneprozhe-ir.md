@@ -6,7 +6,7 @@ description: >-
   khaneprozhe.ir scores 44/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T12:06:01.685Z'
+fetchedAt: '2026-08-10T06:15:53.492Z'
 finalUrl: 'https://khaneprozhe.ir/'
 reachable: true
 noindex: false
@@ -58,7 +58,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

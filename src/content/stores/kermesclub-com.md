@@ -4,8 +4,8 @@ slug: kermesclub-com
 title: Is kermesclub.com Legit? Trust Score 100/100
 description: >-
   kermesclub.com scores 100/100 on our public trust checks. Established domain —
-  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:51:34.347Z'
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:04:06.656Z'
 finalUrl: 'https://kermesclub.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.3 years ago.
+    - Established domain — registered 3.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,25 +55,25 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      issuer: Google Trust Services
+      validTo: '2026-10-19'
+      daysToExpiry: 70
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-03-08'
-      ageDays: 1204
-      ageYears: 3.3
-    detail: Registered 3.3 years ago (2023-03-08).
+      ageDays: 1250
+      ageYears: 3.4
+    detail: Registered 3.4 years ago (2023-03-08).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kermesclub.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kermesclub.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kermesclub in the score above.
 

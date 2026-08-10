@@ -4,8 +4,8 @@ slug: kencanaprint-com
 title: Is kencanaprint.com Legit? Trust Score 88/100
 description: >-
   kencanaprint.com scores 88/100 on our public trust checks. Established domain
-  — registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:45:22.646Z'
+  — registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:03:18.203Z'
 finalUrl: 'https://kencanaprint.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.4 years ago.
+    - Established domain — registered 10.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-01-18'
-      ageDays: 3810
-      ageYears: 10.4
-    detail: Registered 10.4 years ago (2016-01-18).
+      ageDays: 3856
+      ageYears: 10.6
+    detail: Registered 10.6 years ago (2016-01-18).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kencanaprint.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kencanaprint.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kencanaprint in the score above.
 

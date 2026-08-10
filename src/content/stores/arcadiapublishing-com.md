@@ -1,11 +1,11 @@
 ---
 domain: arcadiapublishing.com
 slug: arcadiapublishing-com
-title: Is arcadiapublishing.com Legit? Trust Score 100/100
+title: Is arcadiapublishing.com Legit? Trust Score 88/100
 description: >-
-  arcadiapublishing.com scores 100/100 on our public trust checks. Established
-  domain — registered 27.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:13:09.430Z'
+  arcadiapublishing.com scores 88/100 on our public trust checks. Established
+  domain — registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:21:51.087Z'
 finalUrl: 'https://www.arcadiapublishing.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 27.6 years ago.
+    - Established domain — registered 27.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-12-08'
-      ageDays: 10061
-      ageYears: 27.6
-    detail: Registered 27.6 years ago (1998-12-08).
+      ageDays: 10107
+      ageYears: 27.7
+    detail: Registered 27.7 years ago (1998-12-08).
   contact:
-    status: pass
+    status: warn
     value:
       email: true
-      phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      phone: false
+      address: false
+    detail: 'Public contact details found: email.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-arcadiapublishing.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+arcadiapublishing.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Arcadiapublishing in the score above.
 

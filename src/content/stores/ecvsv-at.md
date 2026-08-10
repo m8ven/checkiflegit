@@ -5,7 +5,7 @@ title: Is ecvsv.at Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   ecvsv.at scores 57/100 on our public trust checks. No public contact details
   detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:20:52.315Z'
+fetchedAt: '2026-08-10T06:27:59.948Z'
 finalUrl: 'https://www.ecvsv.at/'
 reachable: true
 noindex: false
@@ -47,16 +47,16 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-31'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -75,14 +75,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: true
-      tiktok: true
+      twitter: false
+      tiktok: false
       youtube: true
       linkedin: false
       pinterest: false
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, tiktok,
-      youtube.
+    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
   reviews:
     status: unknown
     value:

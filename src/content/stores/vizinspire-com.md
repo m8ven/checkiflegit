@@ -4,8 +4,8 @@ slug: vizinspire-com
 title: Is vizinspire.com Legit? Trust Score 76/100
 description: >-
   vizinspire.com scores 76/100 on our public trust checks. Established domain —
-  registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:06.644Z'
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:13.779Z'
 finalUrl: 'https://www.vizinspire.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.9 years ago.
+    - Established domain — registered 7.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-07-15'
-      ageDays: 2536
-      ageYears: 6.9
-    detail: Registered 6.9 years ago (2019-07-15).
+      ageDays: 2582
+      ageYears: 7.1
+    detail: Registered 7.1 years ago (2019-07-15).
   contact:
     status: warn
     value:
@@ -79,12 +79,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-vizinspire.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+vizinspire.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vizinspire in the score above.
 

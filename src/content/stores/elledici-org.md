@@ -4,8 +4,8 @@ slug: elledici-org
 title: Is elledici.org Legit? Trust Score 100/100
 description: >-
   elledici.org scores 100/100 on our public trust checks. Established domain —
-  registered 29.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:29:50.548Z'
+  registered 29.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:35:37.552Z'
 finalUrl: 'https://www.elledici.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.5 years ago.
+    - Established domain — registered 29.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-26'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-12-20'
-      ageDays: 10779
-      ageYears: 29.5
-    detail: Registered 29.5 years ago (1996-12-20).
+      ageDays: 10825
+      ageYears: 29.7
+    detail: Registered 29.7 years ago (1996-12-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-elledici.org looks like a well-established store. The clearest positives are that its domain has been registered for 29.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+elledici.org looks like a well-established store. The clearest positives are that its domain has been registered for 29.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Elledici in the score above.
 

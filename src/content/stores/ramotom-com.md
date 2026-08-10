@@ -1,12 +1,12 @@
 ---
 domain: ramotom.com
 slug: ramotom-com
-title: Is ramotom.com Legit? Trust Score 85/100 — Trust Checks Pass
+title: Is ramotom.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  ramotom.com scores 85/100 on our public trust checks. Established domain —
-  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:33:13.442Z'
-finalUrl: 'https://www.ramotom.com/'
+  ramotom.com scores 73/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:38:17.873Z'
+finalUrl: 'https://ramotom.com/'
 reachable: true
 noindex: false
 verdict:
@@ -15,58 +15,57 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 85
+  score: 73
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.2 years ago.
+    - Established domain — registered 3.3 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.ramotom.com/'
+      finalUrl: 'https://ramotom.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
       privacy: true
       terms: false
-      refund: true
+      refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-04-06'
-      ageDays: 1176
-      ageYears: 3.2
-    detail: Registered 3.2 years ago (2023-04-06).
+      ageDays: 1221
+      ageYears: 3.3
+    detail: Registered 3.3 years ago (2023-04-06).
   contact:
     status: pass
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ramotom.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ramotom.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ramotom in the score above.
 

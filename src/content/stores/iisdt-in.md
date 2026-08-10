@@ -5,7 +5,7 @@ title: Is iisdt.in Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   iisdt.in scores 91/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T11:56:40.272Z'
+fetchedAt: '2026-08-10T06:08:18.627Z'
 finalUrl: 'https://iisdt.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-08-24'
-      daysToExpiry: 60
+      daysToExpiry: 15
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:

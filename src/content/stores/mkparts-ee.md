@@ -4,8 +4,8 @@ slug: mkparts-ee
 title: Is mkparts.ee Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   mkparts.ee scores 100/100 on our public trust checks. Established domain —
-  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:19:02.881Z'
+  registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:26:49.873Z'
 finalUrl: 'https://mkparts.ee/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.5 years ago.
+    - Established domain — registered 9.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 32
+      validTo: '2026-09-25'
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-12-21'
-      ageDays: 3472
-      ageYears: 9.5
-    detail: Registered 9.5 years ago (2016-12-21).
+      ageDays: 3518
+      ageYears: 9.6
+    detail: Registered 9.6 years ago (2016-12-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mkparts.ee looks like a well-established store. The clearest positives are that its domain has been registered for 9.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mkparts.ee looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mkparts in the score above.
 

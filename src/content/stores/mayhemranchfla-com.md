@@ -5,7 +5,7 @@ title: Is mayhemranchfla.com Legit? Trust Score 70/100
 description: >-
   mayhemranchfla.com scores 70/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:28:39.936Z'
+fetchedAt: '2026-08-10T06:34:38.839Z'
 finalUrl: 'https://mayhemranchfla.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 70
+      validTo: '2026-11-02'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-03'
-      ageDays: 264
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-10-03).
+      ageDays: 310
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-10-03).
   contact:
     status: pass
     value:

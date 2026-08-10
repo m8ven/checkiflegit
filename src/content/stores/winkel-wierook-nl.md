@@ -5,7 +5,7 @@ title: Is winkel.wierook.nl Legit? Trust Score 79/100
 description: >-
   winkel.wierook.nl scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:10:34.441Z'
+fetchedAt: '2026-08-10T06:19:34.256Z'
 finalUrl: 'https://winkel.wierook.nl/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-01'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

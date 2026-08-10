@@ -1,11 +1,11 @@
 ---
 domain: piwnyrap.pl
 slug: piwnyrap-pl
-title: Is piwnyrap.pl Legit? Trust Score 61/100 — Mixed Signals
+title: Is piwnyrap.pl Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  piwnyrap.pl scores 61/100 on our public trust checks. No links to major social
-  platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:25:32.925Z'
+  piwnyrap.pl scores 55/100 on our public trust checks. No links to major social
+  platforms found. Domain is relatively young.
+fetchedAt: '2026-08-10T06:31:44.896Z'
 finalUrl: 'https://www.piwnyrap.pl/'
 reachable: true
 noindex: false
@@ -15,7 +15,7 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 61
+  score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
@@ -23,6 +23,7 @@ verdict:
   redFlags:
     - No links to major social platforms found.
   cautions:
+    - Domain is relatively young.
     - Only limited contact details were found.
 signals:
   http:
@@ -55,14 +56,17 @@ signals:
     status: pass
     value:
       issuer: 'TrustAsia Technologies, Inc.'
-      validTo: '2026-08-12'
-      daysToExpiry: 48
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
     detail: 'Valid certificate issued by TrustAsia Technologies, Inc..'
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: warn
+    value:
+      createdAt: '2026-05-02'
+      ageDays: 99
+      ageYears: 0.3
+    detail: Registered 0.3 years ago (2026-05-02).
   contact:
     status: warn
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-piwnyrap.pl sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+piwnyrap.pl sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and only limited contact details are listed — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Piwnyrap in the score above.
 

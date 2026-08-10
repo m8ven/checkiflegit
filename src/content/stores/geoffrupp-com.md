@@ -5,7 +5,7 @@ title: Is geoffrupp.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   geoffrupp.com scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T12:31:51.561Z'
+fetchedAt: '2026-08-10T06:37:13.370Z'
 finalUrl: 'https://www.geoffrupp.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 33
+      validTo: '2026-09-26'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-07-15'
-      ageDays: 3632
-      ageYears: 10
-    detail: Registered 10 years ago (2016-07-15).
+      ageDays: 3678
+      ageYears: 10.1
+    detail: Registered 10.1 years ago (2016-07-15).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-geoffrupp.com sends a mixed set of signals. On the positive side, its domain has been registered for 10 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+geoffrupp.com sends a mixed set of signals. On the positive side, its domain has been registered for 10.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Geoffrupp in the score above.
 

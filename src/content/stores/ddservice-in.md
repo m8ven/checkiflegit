@@ -5,7 +5,7 @@ title: Is ddservice.in Legit? Trust Score 91/100
 description: >-
   ddservice.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:39:59.812Z'
+fetchedAt: '2026-08-10T06:02:41.385Z'
 finalUrl: 'https://ddservice.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

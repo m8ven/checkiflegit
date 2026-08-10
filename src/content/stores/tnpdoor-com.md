@@ -5,7 +5,7 @@ title: Is tnpdoor.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   tnpdoor.com scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T12:15:56.024Z'
+fetchedAt: '2026-08-10T06:24:08.675Z'
 finalUrl: 'https://tnpdoor.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.4 years ago.
+    - Established domain — registered 3.5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-01-27'
-      ageDays: 1245
-      ageYears: 3.4
-    detail: Registered 3.4 years ago (2023-01-27).
+      ageDays: 1290
+      ageYears: 3.5
+    detail: Registered 3.5 years ago (2023-01-27).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tnpdoor.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+tnpdoor.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tnpdoor in the score above.
 

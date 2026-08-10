@@ -6,7 +6,7 @@ description: >-
   library.shoplentor.com scores 19/100 on our public trust checks. No public
   contact details detected on the homepage. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T12:11:32.136Z'
+fetchedAt: '2026-08-10T06:20:12.192Z'
 finalUrl: 'https://library.shoplentor.com/'
 reachable: true
 noindex: false
@@ -58,7 +58,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

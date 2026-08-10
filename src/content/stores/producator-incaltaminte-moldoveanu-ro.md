@@ -4,8 +4,8 @@ slug: producator-incaltaminte-moldoveanu-ro
 title: Is producator-incaltaminte-moldoveanu.ro Legit? Score 88/100
 description: >-
   producator-incaltaminte-moldoveanu.ro scores 88/100 on our public trust
-  checks. Established domain — registered 9 years ago.
-fetchedAt: '2026-06-25T12:31:16.924Z'
+  checks. Established domain — registered 9.2 years ago.
+fetchedAt: '2026-08-10T06:36:39.957Z'
 finalUrl: 'https://producator-incaltaminte-moldoveanu.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9 years ago.
+    - Established domain — registered 9.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-06-15'
-      ageDays: 3297
-      ageYears: 9
-    detail: Registered 9 years ago (2017-06-15).
+      ageDays: 3343
+      ageYears: 9.2
+    detail: Registered 9.2 years ago (2017-06-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-producator-incaltaminte-moldoveanu.ro looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+producator-incaltaminte-moldoveanu.ro looks like a well-established store. The clearest positives are that its domain has been registered for 9.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Producator-incaltaminte-moldoveanu in the score above.
 

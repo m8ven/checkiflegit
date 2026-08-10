@@ -5,7 +5,7 @@ title: Is tmmedia.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   tmmedia.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:28:30.626Z'
+fetchedAt: '2026-08-10T06:01:40.353Z'
 finalUrl: 'https://www.tmmedia.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

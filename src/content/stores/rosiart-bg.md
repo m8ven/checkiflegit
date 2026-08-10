@@ -1,28 +1,28 @@
 ---
 domain: rosiart.bg
 slug: rosiart-bg
-title: Is rosiart.bg Legit? Trust Score 57/100 — Mixed Signals
+title: Is rosiart.bg Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  rosiart.bg scores 57/100 on our public trust checks. Standard contact and
-  policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:01:03.712Z'
+  rosiart.bg scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-10T06:11:42.027Z'
 finalUrl: 'https://rosiart.bg/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 57
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions: []
 signals:
   http:
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rosiart.bg sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+rosiart.bg looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rosiart in the score above.
 

@@ -4,8 +4,8 @@ slug: maryfloristkediri-com
 title: Is maryfloristkediri.com Legit? Trust Score 70/100
 description: >-
   maryfloristkediri.com scores 70/100 on our public trust checks. Established
-  domain — registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:16:37.575Z'
+  domain — registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:24:46.782Z'
 finalUrl: 'https://maryfloristkediri.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.5 years ago.
+    - Established domain — registered 8.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-17'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-01-08'
-      ageDays: 3089
-      ageYears: 8.5
-    detail: Registered 8.5 years ago (2018-01-08).
+      ageDays: 3135
+      ageYears: 8.6
+    detail: Registered 8.6 years ago (2018-01-08).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-maryfloristkediri.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+maryfloristkediri.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Maryfloristkediri in the score above.
 

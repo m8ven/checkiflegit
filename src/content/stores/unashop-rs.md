@@ -1,12 +1,12 @@
 ---
 domain: unashop.rs
 slug: unashop-rs
-title: Is unashop.rs Legit? Trust Score 76/100 — Trust Checks Pass
+title: Is unashop.rs Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  unashop.rs scores 76/100 on our public trust checks. Established domain —
-  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:55.686Z'
-finalUrl: 'https://unashop.rs/'
+  unashop.rs scores 73/100 on our public trust checks. Established domain —
+  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:09.033Z'
+finalUrl: 'https://sp.myhosting.rs/lp/ss/'
 reachable: true
 noindex: false
 verdict:
@@ -15,58 +15,57 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 73
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.5 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://unashop.rs/'
+      finalUrl: 'https://sp.myhosting.rs/lp/ss/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: warn
-    value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-07'
-      daysToExpiry: 75
+      validTo: '2026-11-07'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-02-06'
-      ageDays: 1964
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-02-06).
+      ageDays: 2010
+      ageYears: 5.5
+    detail: Registered 5.5 years ago (2021-02-06).
   contact:
     status: warn
     value:
@@ -75,16 +74,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-unashop.rs looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+unashop.rs looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Unashop in the score above.
 

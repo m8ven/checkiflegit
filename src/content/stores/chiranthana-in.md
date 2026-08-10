@@ -5,7 +5,7 @@ title: Is chiranthana.in Legit? Trust Score 100/100
 description: >-
   chiranthana.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:27:50.451Z'
+fetchedAt: '2026-08-10T06:01:37.230Z'
 finalUrl: 'https://chiranthana.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 57
+      validTo: '2026-10-20'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

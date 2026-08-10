@@ -4,8 +4,8 @@ slug: nanz-com
 title: Is nanz.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   nanz.com scores 88/100 on our public trust checks. Established domain —
-  registered 30 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:29:12.607Z'
+  registered 30.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:35:07.000Z'
 finalUrl: 'https://www.nanz.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 30 years ago.
+    - Established domain — registered 30.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 38
+      validTo: '2026-09-30'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-07-20'
-      ageDays: 10932
-      ageYears: 30
-    detail: Registered 30 years ago (1996-07-20).
+      ageDays: 10978
+      ageYears: 30.1
+    detail: Registered 30.1 years ago (1996-07-20).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nanz.com looks like a well-established store. The clearest positives are that its domain has been registered for 30 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nanz.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nanz in the score above.
 

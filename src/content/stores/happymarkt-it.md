@@ -4,8 +4,8 @@ slug: happymarkt-it
 title: Is happymarkt.it Legit? Trust Score 85/100
 description: >-
   happymarkt.it scores 85/100 on our public trust checks. Established domain —
-  registered 22.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:32:41.989Z'
+  registered 22.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:37:56.235Z'
 finalUrl: 'https://www.happymarkt.it/'
 reachable: true
 noindex: false
@@ -17,8 +17,7 @@ verdict:
     secure payment methods when shopping online.
   score: 85
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.7 years ago.
+    - Established domain — registered 22.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://www.happymarkt.it/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -57,16 +56,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-10-02'
-      ageDays: 8302
-      ageYears: 22.7
-    detail: Registered 22.7 years ago (2003-10-02).
+      ageDays: 8348
+      ageYears: 22.9
+    detail: Registered 22.9 years ago (2003-10-02).
   contact:
     status: pass
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-happymarkt.it looks like a well-established store. The clearest positives are that its domain has been registered for 22.7 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+happymarkt.it looks like a well-established store. The clearest positives are that its domain has been registered for 22.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Happymarkt in the score above.
 

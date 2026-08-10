@@ -5,7 +5,7 @@ title: Is migratorybirds.gr Legit? Trust Score 66/100
 description: >-
   migratorybirds.gr scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:30:38.577Z'
+fetchedAt: '2026-08-10T06:36:06.666Z'
 finalUrl: 'https://migratorybirds.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-03'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

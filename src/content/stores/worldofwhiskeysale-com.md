@@ -5,7 +5,7 @@ title: Is worldofwhiskeysale.com Legit? Trust Score 67/100
 description: >-
   worldofwhiskeysale.com scores 67/100 on our public trust checks. No links to
   major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T12:22:11.161Z'
+fetchedAt: '2026-08-10T06:29:19.488Z'
 finalUrl: 'https://worldofwhiskeysale.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 78
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-16'
-      ageDays: 252
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-10-16).
+      ageDays: 297
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-10-16).
   contact:
     status: pass
     value:

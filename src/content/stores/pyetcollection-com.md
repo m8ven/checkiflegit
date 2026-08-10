@@ -1,11 +1,11 @@
 ---
 domain: pyetcollection.com
 slug: pyetcollection-com
-title: Is pyetcollection.com Legit? Trust Score 82/100
+title: Is pyetcollection.com Legit? Trust Score 100/100
 description: >-
-  pyetcollection.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T03:40:54.331Z'
+  pyetcollection.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:49.469Z'
 finalUrl: 'https://pyetcollection.com/?v=6502139931c4'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 1.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Domain is relatively young.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 42
+      validTo: '2026-10-05'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: warn
+    status: pass
     value:
       createdAt: '2025-07-12'
-      ageDays: 347
-      ageYears: 1
-    detail: Registered 1 years ago (2025-07-12).
+      ageDays: 393
+      ageYears: 1.1
+    detail: Registered 1.1 years ago (2025-07-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pyetcollection.com looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that the domain is still relatively young, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pyetcollection.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pyetcollection in the score above.
 

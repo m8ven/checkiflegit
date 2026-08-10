@@ -1,11 +1,11 @@
 ---
 domain: k7center.se
 slug: k7center-se
-title: Is k7center.se Legit? Trust Score 76/100 — Trust Checks Pass
+title: Is k7center.se Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  k7center.se scores 76/100 on our public trust checks. Established domain —
-  registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:47:49.026Z'
+  k7center.se scores 88/100 on our public trust checks. Established domain —
+  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:03:36.604Z'
 finalUrl: 'https://k7center.se/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.8 years ago.
+    - Established domain — registered 3.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-09-19'
-      ageDays: 1375
-      ageYears: 3.8
-    detail: Registered 3.8 years ago (2022-09-19).
+      ageDays: 1421
+      ageYears: 3.9
+    detail: Registered 3.9 years ago (2022-09-19).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-k7center.se looks like a well-established store. The clearest positives are that its domain has been registered for 3.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+k7center.se looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against K7center in the score above.
 

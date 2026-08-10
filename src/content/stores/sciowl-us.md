@@ -5,7 +5,7 @@ title: Is sciowl.us Legit? Trust Score 43/100
 description: >-
   sciowl.us scores 43/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:00:19.115Z'
+fetchedAt: '2026-08-10T06:11:15.376Z'
 finalUrl: 'https://sciowl.us/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.2 years ago.
+    - Established domain — registered 4.3 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-04-15'
-      ageDays: 1532
-      ageYears: 4.2
-    detail: Registered 4.2 years ago (2022-04-15).
+      ageDays: 1578
+      ageYears: 4.3
+    detail: Registered 4.3 years ago (2022-04-15).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for sciowl.us. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 4.2 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for sciowl.us. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 4.3 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sciowl in the score above.
 

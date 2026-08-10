@@ -1,11 +1,11 @@
 ---
 domain: uswah.my
 slug: uswah-my
-title: Is uswah.my Legit? Trust Score 100/100 — Trust Checks Pass
+title: Is uswah.my Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  uswah.my scores 100/100 on our public trust checks. Established domain —
-  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:08:21.403Z'
+  uswah.my scores 73/100 on our public trust checks. Established domain —
+  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:18:01.460Z'
 finalUrl: 'https://uswah.my/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.2 years ago.
+    - Established domain — registered 8.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions: []
+  redFlags:
+    - No links to major social platforms found.
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -38,10 +38,10 @@ signals:
       platform: WooCommerce
       isStore: true
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: true
         hasCatalog: true
-        hasCartFlow: true
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: pass
@@ -49,42 +49,42 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: true
+      refund: false
       shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 46
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-03-29'
-      ageDays: 3009
-      ageYears: 8.2
-    detail: Registered 8.2 years ago (2018-03-29).
+      ageDays: 3055
+      ageYears: 8.4
+    detail: Registered 8.4 years ago (2018-03-29).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
-      tiktok: true
+      tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, tiktok.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-uswah.my looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+uswah.my looks like a well-established store. The clearest positives are that its domain has been registered for 8.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Uswah in the score above.
 

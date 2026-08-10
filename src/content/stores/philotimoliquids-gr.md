@@ -5,7 +5,7 @@ title: Is philotimoliquids.gr Legit? Trust Score 100/100
 description: >-
   philotimoliquids.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:32:29.531Z'
+fetchedAt: '2026-08-10T06:37:41.116Z'
 finalUrl: 'https://www.philotimoliquids.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-14'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

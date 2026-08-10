@@ -5,7 +5,7 @@ title: Is owensoundfieldnaturalists.ca Legit? Trust Score 58/100
 description: >-
   owensoundfieldnaturalists.ca scores 58/100 on our public trust checks. No
   public contact details detected on the homepage.
-fetchedAt: '2026-06-25T11:57:15.204Z'
+fetchedAt: '2026-08-10T06:08:50.002Z'
 finalUrl: 'https://owensoundfieldnaturalists.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.4 years ago.
+    - Established domain — registered 17.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-10-30'
-      daysToExpiry: 128
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2009-01-22'
-      ageDays: 6362
-      ageYears: 17.4
-    detail: Registered 17.4 years ago (2009-01-22).
+      ageDays: 6408
+      ageYears: 17.6
+    detail: Registered 17.6 years ago (2009-01-22).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-owensoundfieldnaturalists.ca sends a mixed set of signals. On the positive side, its domain has been registered for 17.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+owensoundfieldnaturalists.ca sends a mixed set of signals. On the positive side, its domain has been registered for 17.6 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Owensoundfieldnaturalists in the score above.
 

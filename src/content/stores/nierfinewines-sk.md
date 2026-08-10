@@ -1,28 +1,29 @@
 ---
 domain: nierfinewines.sk
 slug: nierfinewines-sk
-title: Is nierfinewines.sk Legit? Trust Score 61/100
+title: Is nierfinewines.sk Legit? Trust Score 44/100
 description: >-
-  nierfinewines.sk scores 61/100 on our public trust checks. No links to major
-  social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T11:56:57.914Z'
+  nierfinewines.sk scores 44/100 on our public trust checks. No links to major
+  social platforms found.
+fetchedAt: '2026-08-10T06:08:35.545Z'
 finalUrl: 'https://nierfinewines.sk/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 44
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No links to major social platforms found.
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -43,20 +44,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
-      validTo: '2026-07-15'
-      daysToExpiry: 21
+      validTo: '2027-01-12'
+      daysToExpiry: 156
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -91,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nierfinewines.sk sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for nierfinewines.sk. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nierfinewines in the score above.
 

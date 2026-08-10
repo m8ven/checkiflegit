@@ -5,7 +5,7 @@ title: Is jmss.com.tw Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   jmss.com.tw scores 57/100 on our public trust checks. Standard contact and
   policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:25:02.100Z'
+fetchedAt: '2026-08-10T06:31:28.076Z'
 finalUrl: 'https://www.jmss.com.tw/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Sectigo Limited
-      validTo: '2026-12-21'
-      daysToExpiry: 180
+      issuer: Let's Encrypt
+      validTo: '2026-10-30'
+      daysToExpiry: 81
       authorized: true
-    detail: Valid certificate issued by Sectigo Limited.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null

@@ -4,8 +4,8 @@ slug: organicmachinery-net
 title: Is organicmachinery.net Legit? Trust Score 100/100
 description: >-
   organicmachinery.net scores 100/100 on our public trust checks. Established
-  domain — registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:12.218Z'
+  domain — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:06:48.859Z'
 finalUrl: 'https://organicmachinery.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.8 years ago.
+    - Established domain — registered 6.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-15'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-09-22'
-      ageDays: 2467
-      ageYears: 6.8
-    detail: Registered 6.8 years ago (2019-09-22).
+      ageDays: 2513
+      ageYears: 6.9
+    detail: Registered 6.9 years ago (2019-09-22).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-organicmachinery.net looks like a well-established store. The clearest positives are that its domain has been registered for 6.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+organicmachinery.net looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Organicmachinery in the score above.
 

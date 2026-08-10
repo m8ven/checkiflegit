@@ -5,7 +5,7 @@ title: Is stgeorgessquaremeats.com.au Legit? Trust Score 61/100
 description: >-
   stgeorgessquaremeats.com.au scores 61/100 on our public trust checks. No links
   to major social platforms found.
-fetchedAt: '2026-06-25T12:12:45.469Z'
+fetchedAt: '2026-08-10T06:21:21.000Z'
 finalUrl: 'https://stgeorgessquaremeats.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 66
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

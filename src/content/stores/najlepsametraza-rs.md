@@ -5,7 +5,7 @@ title: Is najlepsametraza.rs Legit? Trust Score 83/100
 description: >-
   najlepsametraza.rs scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:54:14.285Z'
+fetchedAt: '2026-08-10T06:04:30.399Z'
 finalUrl: 'https://najlepsametraza.rs/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 70
+      validTo: '2026-11-02'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

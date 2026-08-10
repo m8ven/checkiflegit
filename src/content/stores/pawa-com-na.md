@@ -5,7 +5,7 @@ title: Is pawa.com.na Legit? Trust Score 44/100
 description: >-
   pawa.com.na scores 44/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:57:58.505Z'
+fetchedAt: '2026-08-10T06:07:21.707Z'
 finalUrl: 'https://pawa.com.na/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-09-30'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,9 +4,9 @@ slug: lespartitionsreplica-com
 title: Is lespartitionsreplica.com Legit? Trust Score 100/100
 description: >-
   lespartitionsreplica.com scores 100/100 on our public trust checks.
-  Established domain — registered 16.1 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 16.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:26:25.410Z'
+fetchedAt: '2026-08-10T06:32:51.493Z'
 finalUrl: 'https://www.lespartitionsreplica.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.1 years ago.
+    - Established domain — registered 16.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,24 +50,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 48
+      validTo: '2026-10-12'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-06-03'
-      ageDays: 5865
-      ageYears: 16.1
-    detail: Registered 16.1 years ago (2010-06-03).
+      ageDays: 5911
+      ageYears: 16.2
+    detail: Registered 16.2 years ago (2010-06-03).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lespartitionsreplica.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lespartitionsreplica.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lespartitionsreplica in the score above.
 

@@ -5,7 +5,7 @@ title: Is tgop.com.au Legit? Trust Score 100/100
 description: >-
   tgop.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:08:21.787Z'
+fetchedAt: '2026-08-10T06:18:01.743Z'
 finalUrl: 'https://tgop.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-04'
-      daysToExpiry: 72
+      validTo: '2026-11-04'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

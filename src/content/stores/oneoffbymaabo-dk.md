@@ -4,8 +4,8 @@ slug: oneoffbymaabo-dk
 title: Is oneoffbymaabo.dk Legit? Trust Score 100/100
 description: >-
   oneoffbymaabo.dk scores 100/100 on our public trust checks. Established domain
-  — registered 21.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:06.989Z'
+  — registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:16.838Z'
 finalUrl: 'https://oneoffbymaabo.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.3 years ago.
+    - Established domain — registered 21.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 83
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-02-23'
-      ageDays: 7792
-      ageYears: 21.3
-    detail: Registered 21.3 years ago (2005-02-23).
+      ageDays: 7838
+      ageYears: 21.5
+    detail: Registered 21.5 years ago (2005-02-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-oneoffbymaabo.dk looks like a well-established store. The clearest positives are that its domain has been registered for 21.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+oneoffbymaabo.dk looks like a well-established store. The clearest positives are that its domain has been registered for 21.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Oneoffbymaabo in the score above.
 

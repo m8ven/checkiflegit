@@ -4,8 +4,8 @@ slug: infinitehealing-co-uk
 title: Is infinitehealing.co.uk Legit? Trust Score 100/100
 description: >-
   infinitehealing.co.uk scores 100/100 on our public trust checks. Established
-  domain — registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:05.773Z'
+  domain — registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:32.645Z'
 finalUrl: 'https://infinitehealing.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.4 years ago.
+    - Established domain — registered 14.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 29
+      validTo: '2026-09-23'
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-01-28'
-      ageDays: 5262
-      ageYears: 14.4
-    detail: Registered 14.4 years ago (2012-01-28).
+      ageDays: 5308
+      ageYears: 14.5
+    detail: Registered 14.5 years ago (2012-01-28).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-infinitehealing.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 14.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+infinitehealing.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 14.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Infinitehealing in the score above.
 

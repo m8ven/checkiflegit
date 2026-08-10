@@ -5,7 +5,7 @@ title: Is bop.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   bop.in scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T03:37:11.377Z'
+fetchedAt: '2026-08-10T06:02:31.265Z'
 finalUrl: 'https://bop.in/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-11'
-      daysToExpiry: 17
+      validTo: '2026-10-02'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

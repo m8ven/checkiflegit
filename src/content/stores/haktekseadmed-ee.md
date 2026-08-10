@@ -4,9 +4,9 @@ slug: haktekseadmed-ee
 title: Is haktekseadmed.ee Legit? Trust Score 88/100
 description: >-
   haktekseadmed.ee scores 88/100 on our public trust checks. Established domain
-  — registered 16 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:23:37.997Z'
-finalUrl: 'https://www.haktekseadmed.ee/'
+  — registered 16.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:22.065Z'
+finalUrl: 'https://haktekseadmed.ee/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16 years ago.
+    - Established domain — registered 16.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.haktekseadmed.ee/'
+      finalUrl: 'https://haktekseadmed.ee/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-14'
-      daysToExpiry: 19
+      validTo: '2026-09-29'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-07-04'
-      ageDays: 5835
-      ageYears: 16
-    detail: Registered 16 years ago (2010-07-04).
+      ageDays: 5881
+      ageYears: 16.1
+    detail: Registered 16.1 years ago (2010-07-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-haktekseadmed.ee looks like a well-established store. The clearest positives are that its domain has been registered for 16 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+haktekseadmed.ee looks like a well-established store. The clearest positives are that its domain has been registered for 16.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Haktekseadmed in the score above.
 

@@ -1,11 +1,11 @@
 ---
 domain: neclex.be
 slug: neclex-be
-title: Is neclex.be Legit? Trust Score 82/100 — Trust Checks Pass
+title: Is neclex.be Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  neclex.be scores 82/100 on our public trust checks. Established domain —
-  registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:22:06.964Z'
+  neclex.be scores 94/100 on our public trust checks. Established domain —
+  registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:29:17.639Z'
 finalUrl: 'https://neclex.be/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.3 years ago.
+    - Established domain — registered 16.5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 54
+      validTo: '2026-10-17'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-02-26'
-      ageDays: 5963
-      ageYears: 16.3
-    detail: Registered 16.3 years ago (2010-02-26).
+      ageDays: 6009
+      ageYears: 16.5
+    detail: Registered 16.5 years ago (2010-02-26).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-neclex.be looks like a well-established store. The clearest positives are that its domain has been registered for 16.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+neclex.be looks like a well-established store. The clearest positives are that its domain has been registered for 16.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Neclex in the score above.
 

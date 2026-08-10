@@ -5,7 +5,7 @@ title: Is tavansanat.co Legit? Trust Score 74/100
 description: >-
   tavansanat.co scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:14:27.396Z'
+fetchedAt: '2026-08-10T06:23:07.280Z'
 finalUrl: 'https://tavansanat.co/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 66
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

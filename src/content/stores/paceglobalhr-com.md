@@ -4,8 +4,8 @@ slug: paceglobalhr-com
 title: Is paceglobalhr.com Legit? Trust Score 73/100
 description: >-
   paceglobalhr.com scores 73/100 on our public trust checks. Established domain
-  — registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:00:26.803Z'
+  — registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:11:23.659Z'
 finalUrl: 'https://paceglobalhr.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.2 years ago.
+    - Established domain — registered 17.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2009-04-07'
-      ageDays: 6288
-      ageYears: 17.2
-    detail: Registered 17.2 years ago (2009-04-07).
+      ageDays: 6334
+      ageYears: 17.4
+    detail: Registered 17.4 years ago (2009-04-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-paceglobalhr.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+paceglobalhr.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Paceglobalhr in the score above.
 

@@ -4,9 +4,9 @@ slug: stevensondentalsolutions-com
 title: Is stevensondentalsolutions.com Legit? Trust Score 100/100
 description: >-
   stevensondentalsolutions.com scores 100/100 on our public trust checks.
-  Established domain — registered 11.6 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 11.7 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:12:45.017Z'
+fetchedAt: '2026-08-10T06:21:19.956Z'
 finalUrl: 'https://stevensondentalsolutions.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.6 years ago.
+    - Established domain — registered 11.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2014-12-04'
-      ageDays: 4220
-      ageYears: 11.6
-    detail: Registered 11.6 years ago (2014-12-04).
+      ageDays: 4266
+      ageYears: 11.7
+    detail: Registered 11.7 years ago (2014-12-04).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-stevensondentalsolutions.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+stevensondentalsolutions.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Stevensondentalsolutions in the score above.
 

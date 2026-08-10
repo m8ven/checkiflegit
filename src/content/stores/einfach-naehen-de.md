@@ -5,7 +5,7 @@ title: Is einfach-naehen.de Legit? Trust Score 57/100
 description: >-
   einfach-naehen.de scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:29:41.189Z'
+fetchedAt: '2026-08-10T06:35:32.353Z'
 finalUrl: 'https://www.einfach-naehen.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-25'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

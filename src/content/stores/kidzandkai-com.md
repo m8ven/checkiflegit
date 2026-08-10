@@ -1,12 +1,12 @@
 ---
 domain: kidzandkai.com
 slug: kidzandkai-com
-title: Is kidzandkai.com Legit? Trust Score 100/100
+title: Is kidzandkai.com Legit? Trust Score 88/100
 description: >-
-  kidzandkai.com scores 100/100 on our public trust checks. Established domain —
-  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:22:00.467Z'
-finalUrl: 'https://www.kidzandkai.com/'
+  kidzandkai.com scores 88/100 on our public trust checks. Established domain —
+  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:06.947Z'
+finalUrl: 'https://kidzandkai.com/'
 reachable: true
 noindex: false
 verdict:
@@ -15,76 +15,76 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.6 years ago.
+    - 'Built on Shopify, an established e-commerce platform.'
+    - Established domain — registered 10.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.kidzandkai.com/'
+      finalUrl: 'https://kidzandkai.com/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
     value:
-      platform: WooCommerce
+      platform: Shopify
       isStore: true
       markers:
         hasAddToCart: true
         hasCartLink: true
         hasCatalog: true
         hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
     status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
-      issuer: Sectigo Limited
-      validTo: '2026-07-14'
-      daysToExpiry: 20
+      issuer: Let's Encrypt
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
-    detail: Valid certificate issued by Sectigo Limited.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-11-25'
-      ageDays: 3864
-      ageYears: 10.6
-    detail: Registered 10.6 years ago (2015-11-25).
+      ageDays: 3910
+      ageYears: 10.7
+    detail: Registered 10.7 years ago (2015-11-25).
   contact:
-    status: pass
+    status: warn
     value:
       email: false
       phone: true
-      address: true
-    detail: 'Public contact details found: phone, address.'
+      address: false
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
-      facebook: false
-      instagram: false
-      twitter: true
+      facebook: true
+      instagram: true
+      twitter: false
       tiktok: true
       youtube: false
       linkedin: false
-      pinterest: true
-    detail: 'Links to 3 social platform(s): twitter, tiktok, pinterest.'
+      pinterest: false
+    detail: 'Links to 3 social platform(s): facebook, instagram, tiktok.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kidzandkai.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kidzandkai.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kidzandkai in the score above.
 

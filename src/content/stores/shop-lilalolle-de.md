@@ -5,7 +5,7 @@ title: Is shop.lilalolle.de Legit? Trust Score 83/100
 description: >-
   shop.lilalolle.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:10:27.122Z'
+fetchedAt: '2026-08-10T06:19:33.409Z'
 finalUrl: 'https://shop.lilalolle.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

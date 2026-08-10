@@ -5,7 +5,7 @@ title: Is train.poweredgepro.com Legit? Trust Score 83/100
 description: >-
   train.poweredgepro.com scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:13:02.355Z'
+fetchedAt: '2026-08-10T06:21:43.183Z'
 finalUrl: 'https://train.poweredgepro.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

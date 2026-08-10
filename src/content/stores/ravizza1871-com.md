@@ -4,8 +4,8 @@ slug: ravizza1871-com
 title: Is ravizza1871.com Legit? Trust Score 76/100
 description: >-
   ravizza1871.com scores 76/100 on our public trust checks. Established domain —
-  registered 27 years ago. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:26:36.050Z'
+  registered 27.1 years ago. Public business contact details are listed.
+fetchedAt: '2026-08-10T06:32:53.409Z'
 finalUrl: 'https://www.ravizza1871.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27 years ago.
+    - Established domain — registered 27.1 years ago.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -48,25 +48,25 @@ signals:
     value:
       contact: false
       privacy: true
-      terms: true
+      terms: false
       refund: false
       shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: warn
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-17'
+      daysToExpiry: 69
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '1999-07-13'
-      ageDays: 9843
-      ageYears: 27
-    detail: Registered 27 years ago (1999-07-13).
+      ageDays: 9889
+      ageYears: 27.1
+    detail: Registered 27.1 years ago (1999-07-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ravizza1871.com looks like a well-established store. The clearest positives are that its domain has been registered for 27 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ravizza1871.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ravizza1871 in the score above.
 

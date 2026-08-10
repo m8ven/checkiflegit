@@ -6,7 +6,7 @@ description: >-
   mail.ton-merckx-wielershirts.nl scores 61/100 on our public trust checks. No
   links to major social platforms found. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T12:15:32.341Z'
+fetchedAt: '2026-08-10T06:23:41.501Z'
 finalUrl: 'https://mail.ton-merckx-wielershirts.nl/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

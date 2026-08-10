@@ -5,7 +5,7 @@ title: Is lozth.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   lozth.com scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:24:39.830Z'
+fetchedAt: '2026-08-10T06:31:11.309Z'
 finalUrl: 'https://lozth.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.6 years ago.
+    - Established domain — registered 3.7 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-27'
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-11-15'
-      ageDays: 1317
-      ageYears: 3.6
-    detail: Registered 3.6 years ago (2022-11-15).
+      ageDays: 1363
+      ageYears: 3.7
+    detail: Registered 3.7 years ago (2022-11-15).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lozth.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+lozth.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lozth in the score above.
 

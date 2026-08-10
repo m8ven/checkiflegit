@@ -5,7 +5,7 @@ title: Is rocketboxproducts.com Legit? Trust Score 61/100
 description: >-
   rocketboxproducts.com scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T12:06:51.210Z'
+fetchedAt: '2026-08-10T06:16:33.561Z'
 finalUrl: 'https://rocketboxproducts.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.7 years ago.
+    - Established domain — registered 11.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-03'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2014-10-14'
-      ageDays: 4272
-      ageYears: 11.7
-    detail: Registered 11.7 years ago (2014-10-14).
+      ageDays: 4318
+      ageYears: 11.8
+    detail: Registered 11.8 years ago (2014-10-14).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rocketboxproducts.com sends a mixed set of signals. On the positive side, its domain has been registered for 11.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+rocketboxproducts.com sends a mixed set of signals. On the positive side, its domain has been registered for 11.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rocketboxproducts in the score above.
 

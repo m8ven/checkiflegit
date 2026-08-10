@@ -5,7 +5,7 @@ title: Is typodimiourgies.gr Legit? Trust Score 66/100
 description: >-
   typodimiourgies.gr scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:07:23.757Z'
+fetchedAt: '2026-08-10T06:16:59.977Z'
 finalUrl: 'https://typodimiourgies.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

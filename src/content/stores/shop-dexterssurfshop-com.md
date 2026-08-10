@@ -5,7 +5,7 @@ title: Is shop.dexterssurfshop.com Legit? Trust Score 61/100
 description: >-
   shop.dexterssurfshop.com scores 61/100 on our public trust checks. No links to
   major social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:00:55.372Z'
+fetchedAt: '2026-08-10T06:11:40.280Z'
 finalUrl: 'https://shop.dexterssurfshop.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-05'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

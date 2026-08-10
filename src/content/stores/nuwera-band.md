@@ -5,7 +5,7 @@ title: Is nuwera.band Legit? Trust Score 40/100
 description: >-
   nuwera.band scores 40/100 on our public trust checks. Standard contact and
   policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:23:59.931Z'
+fetchedAt: '2026-08-10T06:30:39.390Z'
 finalUrl: 'https://nuwera.band/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 80
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

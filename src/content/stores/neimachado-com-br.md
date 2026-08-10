@@ -5,7 +5,7 @@ title: Is neimachado.com.br Legit? Trust Score 61/100
 description: >-
   neimachado.com.br scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T11:56:11.034Z'
+fetchedAt: '2026-08-10T06:07:51.834Z'
 finalUrl: 'https://neimachado.com.br/'
 reachable: true
 noindex: false
@@ -45,18 +45,18 @@ signals:
   pages:
     status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

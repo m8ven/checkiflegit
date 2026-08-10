@@ -6,7 +6,7 @@ description: >-
   markamonitor.hu scores 57/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T12:27:45.775Z'
+fetchedAt: '2026-08-10T06:34:01.392Z'
 finalUrl: 'https://markamonitor.hu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 72
+      validTo: '2026-11-05'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

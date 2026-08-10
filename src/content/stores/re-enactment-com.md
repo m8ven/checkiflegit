@@ -1,11 +1,11 @@
 ---
 domain: re-enactment.com
 slug: re-enactment-com
-title: Is re-enactment.com Legit? Trust Score 94/100
+title: Is re-enactment.com Legit? Trust Score 100/100
 description: >-
-  re-enactment.com scores 94/100 on our public trust checks. Established domain
-  — registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:05:39.002Z'
+  re-enactment.com scores 100/100 on our public trust checks. Established domain
+  — registered 22.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:15:24.553Z'
 finalUrl: 'https://re-enactment.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 94
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.6 years ago.
+    - Established domain — registered 22.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
+    - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Limited social media presence.
+  cautions: []
 signals:
   http:
     status: pass
@@ -57,25 +57,25 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2003-12-05'
-      ageDays: 8237
-      ageYears: 22.6
-    detail: Registered 22.6 years ago (2003-12-05).
+      ageDays: 8283
+      ageYears: 22.7
+    detail: Registered 22.7 years ago (2003-12-05).
   contact:
     status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: true
-    detail: 'Public contact details found: phone, address.'
+    detail: 'Public contact details found: email, phone, address.'
   social:
-    status: warn
+    status: pass
     value:
       facebook: true
       instagram: false
@@ -83,8 +83,8 @@ signals:
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+      pinterest: true
+    detail: 'Links to 2 social platform(s): facebook, pinterest.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-re-enactment.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+re-enactment.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Re-enactment in the score above.
 

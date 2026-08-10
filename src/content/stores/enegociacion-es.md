@@ -5,7 +5,7 @@ title: Is enegociacion.es Legit? Trust Score 79/100
 description: >-
   enegociacion.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:29:56.249Z'
+fetchedAt: '2026-08-10T06:35:39.733Z'
 finalUrl: 'https://www.enegociacion.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

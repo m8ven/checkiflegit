@@ -5,7 +5,7 @@ title: Is shop.sneeza.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   shop.sneeza.com scores 61/100 on our public trust checks. No links to major
   social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:01:10.746Z'
+fetchedAt: '2026-08-10T06:11:53.810Z'
 finalUrl: 'https://shop.sneeza.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-09-17'
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

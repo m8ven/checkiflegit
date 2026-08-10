@@ -5,7 +5,7 @@ title: Is shop.brille.ch Legit? Trust Score 100/100
 description: >-
   shop.brille.ch scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:55:33.881Z'
+fetchedAt: '2026-08-10T06:05:36.759Z'
 finalUrl: 'https://shop.brille.ch/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-29'
-      daysToExpiry: 219
+      daysToExpiry: 173
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

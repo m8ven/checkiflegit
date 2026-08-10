@@ -4,8 +4,8 @@ slug: saharkhizuniversity-org
 title: Is saharkhizuniversity.org Legit? Trust Score 82/100
 description: >-
   saharkhizuniversity.org scores 82/100 on our public trust checks. Established
-  domain — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:36.643Z'
+  domain — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:48.313Z'
 finalUrl: 'https://saharkhizuniversity.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.5 years ago.
+    - Established domain — registered 3.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -46,27 +46,27 @@ signals:
   pages:
     status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: true
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-12-14'
-      ageDays: 1289
-      ageYears: 3.5
-    detail: Registered 3.5 years ago (2022-12-14).
+      ageDays: 1334
+      ageYears: 3.7
+    detail: Registered 3.7 years ago (2022-12-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-saharkhizuniversity.org looks like a well-established store. The clearest positives are that its domain has been registered for 3.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+saharkhizuniversity.org looks like a well-established store. The clearest positives are that its domain has been registered for 3.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Saharkhizuniversity in the score above.
 

@@ -5,7 +5,7 @@ title: Is mlcd.com.au Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   mlcd.com.au scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:28:31.545Z'
+fetchedAt: '2026-08-10T06:34:36.134Z'
 finalUrl: 'https://www.mlcd.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 61
+      validTo: '2026-11-01'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

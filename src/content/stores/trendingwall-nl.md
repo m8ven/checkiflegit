@@ -1,11 +1,11 @@
 ---
 domain: trendingwall.nl
 slug: trendingwall-nl
-title: Is trendingwall.nl Legit? Trust Score 73/100
+title: Is trendingwall.nl Legit? Trust Score 85/100
 description: >-
-  trendingwall.nl scores 73/100 on our public trust checks. Established domain —
-  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:06:48.163Z'
+  trendingwall.nl scores 85/100 on our public trust checks. Established domain —
+  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:16:28.930Z'
 finalUrl: 'https://trendingwall.nl/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.5 years ago.
+    - Established domain — registered 5.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 50
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-01-11'
-      ageDays: 1991
-      ageYears: 5.5
-    detail: Registered 5.5 years ago (2021-01-11).
+      ageDays: 2037
+      ageYears: 5.6
+    detail: Registered 5.6 years ago (2021-01-11).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-trendingwall.nl looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+trendingwall.nl looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Trendingwall in the score above.
 

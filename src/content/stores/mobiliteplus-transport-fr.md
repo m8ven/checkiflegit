@@ -4,9 +4,9 @@ slug: mobiliteplus-transport-fr
 title: Is mobiliteplus-transport.fr Legit? Trust Score 88/100
 description: >-
   mobiliteplus-transport.fr scores 88/100 on our public trust checks.
-  Established domain — registered 14.2 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:28:38.167Z'
+fetchedAt: '2026-08-10T06:34:38.787Z'
 finalUrl: 'https://www.mobiliteplus-transport.fr/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.2 years ago.
+    - Established domain — registered 14.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-02'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-05-03'
-      ageDays: 5165
-      ageYears: 14.2
-    detail: Registered 14.2 years ago (2012-05-03).
+      ageDays: 5211
+      ageYears: 14.3
+    detail: Registered 14.3 years ago (2012-05-03).
   contact:
     status: warn
     value:
@@ -98,7 +98,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mobiliteplus-transport.fr looks like a well-established store. The clearest positives are that its domain has been registered for 14.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mobiliteplus-transport.fr looks like a well-established store. The clearest positives are that its domain has been registered for 14.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mobiliteplus-transport in the score above.
 

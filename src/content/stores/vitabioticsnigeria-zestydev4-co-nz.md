@@ -5,7 +5,7 @@ title: Is vitabioticsnigeria.zestydev4.co.nz Legit? Score 83/100
 description: >-
   vitabioticsnigeria.zestydev4.co.nz scores 83/100 on our public trust checks.
   Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:18:54.819Z'
+fetchedAt: '2026-08-10T06:26:44.918Z'
 finalUrl: 'https://vitabioticsnigeria.zestydev4.co.nz/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 43
+      validTo: '2026-10-07'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

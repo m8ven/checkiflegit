@@ -5,7 +5,7 @@ title: Is shop.brainproducts.com Legit? Trust Score 100/100
 description: >-
   shop.brainproducts.com scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:53.632Z'
+fetchedAt: '2026-08-10T06:13:10.374Z'
 finalUrl: 'https://shop.brainproducts.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2026-10-14'
-      daysToExpiry: 111
+      daysToExpiry: 65
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

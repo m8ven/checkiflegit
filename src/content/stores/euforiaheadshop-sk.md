@@ -5,7 +5,7 @@ title: Is euforiaheadshop.sk Legit? Trust Score 83/100
 description: >-
   euforiaheadshop.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:21:37.810Z'
+fetchedAt: '2026-08-10T06:28:49.699Z'
 finalUrl: 'https://www.euforiaheadshop.sk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 68
+      validTo: '2026-10-30'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

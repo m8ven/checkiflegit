@@ -4,8 +4,8 @@ slug: radguitars-co-uk
 title: Is radguitars.co.uk Legit? Trust Score 88/100
 description: >-
   radguitars.co.uk scores 88/100 on our public trust checks. Established domain
-  — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:32:17.352Z'
+  — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:37:36.673Z'
 finalUrl: 'https://radguitars.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.1 years ago.
+    - Established domain — registered 7.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2019-05-27'
-      ageDays: 2586
-      ageYears: 7.1
-    detail: Registered 7.1 years ago (2019-05-27).
+      ageDays: 2632
+      ageYears: 7.2
+    detail: Registered 7.2 years ago (2019-05-27).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-radguitars.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 7.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+radguitars.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 7.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Radguitars in the score above.
 

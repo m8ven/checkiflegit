@@ -6,7 +6,7 @@ description: >-
   keypc.com.br scores 44/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T12:12:00.851Z'
+fetchedAt: '2026-08-10T06:20:42.076Z'
 finalUrl: 'https://keypc.com.br/'
 reachable: true
 noindex: false
@@ -51,14 +51,14 @@ signals:
       privacy: true
       terms: false
       refund: true
-      shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+      shipping: true
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
       validTo: '2026-09-17'
-      daysToExpiry: 84
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

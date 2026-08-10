@@ -5,7 +5,7 @@ title: Is taylorwells.com.au Legit? Trust Score 83/100
 description: >-
   taylorwells.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:06:47.523Z'
+fetchedAt: '2026-08-10T06:16:28.923Z'
 finalUrl: 'https://taylorwells.com.au/'
 reachable: true
 noindex: false
@@ -17,7 +17,6 @@ verdict:
     secure payment methods when shopping online.
   score: 83
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -32,16 +31,16 @@ signals:
       finalUrl: 'https://taylorwells.com.au/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
@@ -55,8 +54,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-09'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

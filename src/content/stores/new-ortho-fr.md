@@ -1,11 +1,11 @@
 ---
 domain: new-ortho.fr
 slug: new-ortho-fr
-title: Is new-ortho.fr Legit? Trust Score 73/100
+title: Is new-ortho.fr Legit? Trust Score 88/100
 description: >-
-  new-ortho.fr scores 73/100 on our public trust checks. Established domain —
-  registered 25.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:51.439Z'
+  new-ortho.fr scores 88/100 on our public trust checks. Established domain —
+  registered 25.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:13.993Z'
 finalUrl: 'https://new-ortho.fr/'
 reachable: true
 noindex: false
@@ -15,14 +15,13 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 88
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.6 years ago.
+    - Established domain — registered 25.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-  redFlags:
-    - No links to major social platforms found.
+    - Maintains links to multiple social media platforms.
+  redFlags: []
   cautions:
     - Only limited contact details were found.
 signals:
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://new-ortho.fr/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -55,18 +54,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-09-20'
-      daysToExpiry: 88
+      issuer: Let's Encrypt
+      validTo: '2026-10-22'
+      daysToExpiry: 73
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-11-14'
-      ageDays: 9353
-      ageYears: 25.6
-    detail: Registered 25.6 years ago (2000-11-14).
+      ageDays: 9399
+      ageYears: 25.8
+    detail: Registered 25.8 years ago (2000-11-14).
   contact:
     status: warn
     value:
@@ -75,16 +74,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: fail
+    status: pass
     value:
       facebook: false
-      instagram: false
+      instagram: true
       twitter: false
       tiktok: false
       youtube: false
-      linkedin: false
+      linkedin: true
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 2 social platform(s): instagram, linkedin.'
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-new-ortho.fr looks like a well-established store. The clearest positives are that its domain has been registered for 25.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+new-ortho.fr looks like a well-established store. The clearest positives are that its domain has been registered for 25.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against New-ortho in the score above.
 

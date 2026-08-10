@@ -4,8 +4,8 @@ slug: tiendacentro-com
 title: Is tiendacentro.com Legit? Trust Score 76/100
 description: >-
   tiendacentro.com scores 76/100 on our public trust checks. Established domain
-  — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:11:05.713Z'
+  — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:19:59.609Z'
 finalUrl: 'https://tiendacentro.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.6 years ago.
+    - Established domain — registered 6.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -49,24 +49,24 @@ signals:
       contact: false
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2019-11-16'
-      ageDays: 2412
-      ageYears: 6.6
-    detail: Registered 6.6 years ago (2019-11-16).
+      ageDays: 2458
+      ageYears: 6.7
+    detail: Registered 6.7 years ago (2019-11-16).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tiendacentro.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tiendacentro.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tiendacentro in the score above.
 

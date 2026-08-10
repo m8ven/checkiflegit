@@ -5,7 +5,7 @@ title: Is psychologynow.gr Legit? Trust Score 83/100
 description: >-
   psychologynow.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:26:09.837Z'
+fetchedAt: '2026-08-10T06:32:25.858Z'
 finalUrl: 'https://www.psychologynow.gr/'
 reachable: true
 noindex: false
@@ -45,18 +45,18 @@ signals:
   pages:
     status: warn
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

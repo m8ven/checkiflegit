@@ -4,8 +4,8 @@ slug: bettateam-com
 title: Is bettateam.com Legit? Trust Score 88/100
 description: >-
   bettateam.com scores 88/100 on our public trust checks. Established domain —
-  registered 7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:28.985Z'
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:26.711Z'
 finalUrl: 'https://bettateam.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7 years ago.
+    - Established domain — registered 7.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-06-18'
-      ageDays: 2563
-      ageYears: 7
-    detail: Registered 7 years ago (2019-06-18).
+      ageDays: 2609
+      ageYears: 7.1
+    detail: Registered 7.1 years ago (2019-06-18).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bettateam.com looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bettateam.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bettateam in the score above.
 

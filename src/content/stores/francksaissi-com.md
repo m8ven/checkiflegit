@@ -1,11 +1,11 @@
 ---
 domain: francksaissi.com
 slug: francksaissi-com
-title: Is francksaissi.com Legit? Trust Score 58/100
+title: Is francksaissi.com Legit? Trust Score 52/100
 description: >-
-  francksaissi.com scores 58/100 on our public trust checks. No public contact
+  francksaissi.com scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T12:19:11.793Z'
+fetchedAt: '2026-08-10T06:26:55.725Z'
 finalUrl: 'https://www.francksaissi.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 58
+  score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.5 years ago.
+    - Established domain — registered 17.6 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 56
+      validTo: '2026-10-31'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-01-13'
-      ageDays: 6371
-      ageYears: 17.5
-    detail: Registered 17.5 years ago (2009-01-13).
+      ageDays: 6417
+      ageYears: 17.6
+    detail: Registered 17.6 years ago (2009-01-13).
   contact:
     status: fail
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: warn
     value:
-      facebook: true
+      facebook: false
       instagram: true
       twitter: false
       tiktok: false
-      youtube: true
-      linkedin: true
+      youtube: false
+      linkedin: false
       pinterest: false
-    detail: 'Links to 4 social platform(s): facebook, instagram, youtube, linkedin.'
+    detail: 'Links to 1 social platform(s): instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-francksaissi.com sends a mixed set of signals. On the positive side, its domain has been registered for 17.5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+francksaissi.com sends a mixed set of signals. On the positive side, its domain has been registered for 17.6 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Francksaissi in the score above.
 

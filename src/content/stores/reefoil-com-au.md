@@ -5,7 +5,7 @@ title: Is reefoil.com.au Legit? Trust Score 83/100
 description: >-
   reefoil.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:00:23.349Z'
+fetchedAt: '2026-08-10T06:11:20.401Z'
 finalUrl: 'https://reefoil.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-14'
-      daysToExpiry: 81
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

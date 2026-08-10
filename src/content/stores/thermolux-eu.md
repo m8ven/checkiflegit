@@ -5,7 +5,7 @@ title: Is thermolux.eu Legit? Trust Score 100/100
 description: >-
   thermolux.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:10:18.761Z'
+fetchedAt: '2026-08-10T06:19:25.454Z'
 finalUrl: 'https://thermolux.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-21'
-      daysToExpiry: 180
+      daysToExpiry: 134
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

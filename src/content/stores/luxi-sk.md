@@ -5,7 +5,7 @@ title: Is luxi.sk Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   luxi.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:24:59.344Z'
+fetchedAt: '2026-08-10T06:31:24.412Z'
 finalUrl: 'https://luxi.sk/'
 reachable: true
 noindex: false
@@ -17,7 +17,6 @@ verdict:
     secure payment methods when shopping online.
   score: 83
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -32,16 +31,16 @@ signals:
       finalUrl: 'https://luxi.sk/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
@@ -55,8 +54,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 68
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

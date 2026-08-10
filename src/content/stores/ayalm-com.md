@@ -1,11 +1,12 @@
 ---
 domain: ayalm.com
 slug: ayalm-com
-title: Is ayalm.com Legit? Trust Score 10/100
+title: Is ayalm.com Legit? Trust Score 25/100
 description: >-
-  ayalm.com scores 10/100 on our public trust checks. Standard contact and
-  policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:13:59.453Z'
+  ayalm.com scores 25/100 on our public trust checks. No valid SSL certificate —
+  connection may not be secure. Standard contact and policy pages were not
+  found.
+fetchedAt: '2026-08-10T06:22:31.607Z'
 finalUrl: 'https://www.ayalm.com/'
 reachable: true
 noindex: false
@@ -16,11 +17,13 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 10
+  score: 25
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 9 years ago.
     - Public business contact details are listed.
   redFlags:
+    - No valid SSL certificate — connection may not be secure.
     - Standard contact and policy pages were not found.
     - No links to major social platforms found.
   cautions: []
@@ -52,13 +55,16 @@ signals:
       shipping: false
     detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: unknown
+    status: fail
     value: null
-    detail: TLS connection timed out.
+    detail: 'TLS connection failed: connect ECONNREFUSED 140.207.177.207:443'
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2017-08-29'
+      ageDays: 3268
+      ageYears: 9
+    detail: Registered 9 years ago (2017-08-29).
   contact:
     status: pass
     value:
@@ -87,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for ayalm.com. In particular, we could not find the usual contact and policy pages and it has little or no social media footprint. It does have some positives — it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for ayalm.com. In particular, we could not find the usual contact and policy pages and it does not present a valid security certificate. It does have some positives — its domain has been registered for 9 years and it lists genuine business contact details — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ayalm in the score above.
 

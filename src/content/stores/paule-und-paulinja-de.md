@@ -5,7 +5,7 @@ title: Is paule-und-paulinja.de Legit? Trust Score 83/100
 description: >-
   paule-und-paulinja.de scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:57:47.381Z'
+fetchedAt: '2026-08-10T06:09:15.992Z'
 finalUrl: 'https://paule-und-paulinja.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

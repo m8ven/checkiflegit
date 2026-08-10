@@ -4,8 +4,8 @@ slug: noavarpub-com
 title: Is noavarpub.com Legit? Trust Score 82/100
 description: >-
   noavarpub.com scores 82/100 on our public trust checks. Established domain —
-  registered 20 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:55:29.541Z'
+  registered 20.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:05:33.841Z'
 finalUrl: 'https://noavarpub.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20 years ago.
+    - Established domain — registered 20.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2026-12-23'
-      daysToExpiry: 182
+      daysToExpiry: 136
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:
     status: pass
     value:
       createdAt: '2006-06-20'
-      ageDays: 7309
-      ageYears: 20
-    detail: Registered 20 years ago (2006-06-20).
+      ageDays: 7355
+      ageYears: 20.2
+    detail: Registered 20.2 years ago (2006-06-20).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-noavarpub.com looks like a well-established store. The clearest positives are that its domain has been registered for 20 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+noavarpub.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Noavarpub in the score above.
 

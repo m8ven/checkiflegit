@@ -5,7 +5,7 @@ title: Is cobranded.com.au Legit? Trust Score 44/100
 description: >-
   cobranded.com.au scores 44/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T03:29:41.586Z'
+fetchedAt: '2026-08-10T06:01:48.501Z'
 finalUrl: 'https://cobranded.com.au/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

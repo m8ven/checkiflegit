@@ -1,12 +1,12 @@
 ---
 domain: producent.org.pl
 slug: producent-org-pl
-title: Is producent.org.pl Legit? Trust Score 73/100
+title: Is producent.org.pl Legit? Trust Score 85/100
 description: >-
-  producent.org.pl scores 73/100 on our public trust checks. Established domain
-  — registered 6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:59.384Z'
-finalUrl: 'https://producent.org.pl/'
+  producent.org.pl scores 85/100 on our public trust checks. Established domain
+  — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:08:35.775Z'
+finalUrl: 'https://stal-mech.pl/'
 reachable: true
 noindex: false
 verdict:
@@ -15,22 +15,22 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6 years ago.
+    - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://producent.org.pl/'
+      finalUrl: 'https://stal-mech.pl/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
-      issuer: nazwa.pl Sp. z o.o.
-      validTo: '2026-08-03'
-      daysToExpiry: 39
+      issuer: Let's Encrypt
+      validTo: '2026-11-05'
+      daysToExpiry: 88
       authorized: true
-    detail: Valid certificate issued by nazwa.pl Sp. z o.o..
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-06-08'
-      ageDays: 2207
-      ageYears: 6
-    detail: Registered 6 years ago (2020-06-08).
+      ageDays: 2253
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-06-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-producent.org.pl looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+producent.org.pl looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Producent in the score above.
 

@@ -5,7 +5,7 @@ title: Is shop.pastificiofiorillo.com Legit? Trust Score 100/100
 description: >-
   shop.pastificiofiorillo.com scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:56:48.006Z'
+fetchedAt: '2026-08-10T06:06:24.775Z'
 finalUrl: 'https://shop.pastificiofiorillo.com/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-20'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

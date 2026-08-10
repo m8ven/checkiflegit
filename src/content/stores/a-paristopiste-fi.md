@@ -5,7 +5,7 @@ title: Is a-paristopiste.fi Legit? Trust Score 31/100
 description: >-
   a-paristopiste.fi scores 31/100 on our public trust checks. Standard contact
   and policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:11:08.167Z'
+fetchedAt: '2026-08-10T06:20:00.069Z'
 finalUrl: 'https://www.a-paristopiste.fi/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-27'
-      daysToExpiry: 186
+      daysToExpiry: 140
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

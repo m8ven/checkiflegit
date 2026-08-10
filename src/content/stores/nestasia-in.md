@@ -1,29 +1,29 @@
 ---
 domain: nestasia.in
 slug: nestasia-in
-title: Is nestasia.in Legit? Trust Score 79/100 — Trust Checks Pass
+title: Is nestasia.in Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  nestasia.in scores 79/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T12:22:16.864Z'
+  nestasia.in scores 61/100 on our public trust checks. No links to major social
+  platforms found. Only limited contact details were found.
+fetchedAt: '2026-08-10T06:29:26.178Z'
 finalUrl: 'https://nestasia.in/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 79
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-28'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -64,12 +64,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: fail
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nestasia.in looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nestasia.in sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nestasia in the score above.
 

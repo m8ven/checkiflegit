@@ -5,7 +5,7 @@ title: Is shop.reco-support.co.jp Legit? Trust Score 100/100
 description: >-
   shop.reco-support.co.jp scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:01:07.224Z'
+fetchedAt: '2026-08-10T06:11:43.970Z'
 finalUrl: 'https://shop.reco-support.co.jp/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 68
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

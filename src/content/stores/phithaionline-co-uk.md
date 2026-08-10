@@ -5,7 +5,7 @@ title: Is phithaionline.co.uk Legit? Trust Score 7/100
 description: >-
   phithaionline.co.uk scores 7/100 on our public trust checks. Standard contact
   and policy pages were not found.
-fetchedAt: '2026-06-25T03:30:47.656Z'
+fetchedAt: '2026-08-10T06:01:57.463Z'
 finalUrl: 'https://phithaionline.co.uk/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-03-04'
-      ageDays: 112
-      ageYears: 0.3
-    detail: Registered 0.3 years ago (2026-03-04).
+      ageDays: 159
+      ageYears: 0.4
+    detail: Registered 0.4 years ago (2026-03-04).
   contact:
     status: fail
     value:

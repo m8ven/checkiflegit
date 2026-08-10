@@ -1,11 +1,11 @@
 ---
 domain: podlaskiedzielo.pl
 slug: podlaskiedzielo-pl
-title: Is podlaskiedzielo.pl Legit? Trust Score 76/100
+title: Is podlaskiedzielo.pl Legit? Trust Score 88/100
 description: >-
-  podlaskiedzielo.pl scores 76/100 on our public trust checks. Established
-  domain — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:28.071Z'
+  podlaskiedzielo.pl scores 88/100 on our public trust checks. Established
+  domain — registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:52.923Z'
 finalUrl: 'https://podlaskiedzielo.pl/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.3 years ago.
+    - Established domain — registered 3.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 38
+      validTo: '2026-10-14'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-03-19'
-      ageDays: 1193
-      ageYears: 3.3
-    detail: Registered 3.3 years ago (2023-03-19).
+      ageDays: 1239
+      ageYears: 3.4
+    detail: Registered 3.4 years ago (2023-03-19).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-podlaskiedzielo.pl looks like a well-established store. The clearest positives are that its domain has been registered for 3.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+podlaskiedzielo.pl looks like a well-established store. The clearest positives are that its domain has been registered for 3.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Podlaskiedzielo in the score above.
 

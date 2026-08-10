@@ -4,8 +4,8 @@ slug: mccchains-com
 title: Is mccchains.com Legit? Trust Score 70/100
 description: >-
   mccchains.com scores 70/100 on our public trust checks. Established domain —
-  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:45.573Z'
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:46.976Z'
 finalUrl: 'https://mccchains.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.3 years ago.
+    - Established domain — registered 6.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-16'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-03-03'
-      ageDays: 2305
-      ageYears: 6.3
-    detail: Registered 6.3 years ago (2020-03-03).
+      ageDays: 2351
+      ageYears: 6.4
+    detail: Registered 6.4 years ago (2020-03-03).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mccchains.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mccchains.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mccchains in the score above.
 

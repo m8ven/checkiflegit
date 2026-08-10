@@ -5,7 +5,7 @@ title: Is metabearings.de Legit? Trust Score 79/100
 description: >-
   metabearings.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:54:00.165Z'
+fetchedAt: '2026-08-10T06:04:21.843Z'
 finalUrl: 'https://metabearings.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

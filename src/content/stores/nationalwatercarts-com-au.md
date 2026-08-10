@@ -5,7 +5,7 @@ title: Is nationalwatercarts.com.au Legit? Trust Score 100/100
 description: >-
   nationalwatercarts.com.au scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:55:45.846Z'
+fetchedAt: '2026-08-10T06:07:32.624Z'
 finalUrl: 'https://nationalwatercarts.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 77
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: obiecte-cult-ro
 title: Is obiecte-cult.ro Legit? Trust Score 82/100
 description: >-
   obiecte-cult.ro scores 82/100 on our public trust checks. Established domain —
-  registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:04.355Z'
+  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:28.054Z'
 finalUrl: 'https://obiecte-cult.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.4 years ago.
+    - Established domain — registered 9.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-02-10'
-      ageDays: 3422
-      ageYears: 9.4
-    detail: Registered 9.4 years ago (2017-02-10).
+      ageDays: 3468
+      ageYears: 9.5
+    detail: Registered 9.5 years ago (2017-02-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-obiecte-cult.ro looks like a well-established store. The clearest positives are that its domain has been registered for 9.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+obiecte-cult.ro looks like a well-established store. The clearest positives are that its domain has been registered for 9.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Obiecte-cult in the score above.
 

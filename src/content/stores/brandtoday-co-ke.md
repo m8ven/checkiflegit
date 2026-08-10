@@ -4,8 +4,8 @@ slug: brandtoday-co-ke
 title: Is brandtoday.co.ke Legit? Trust Score 85/100
 description: >-
   brandtoday.co.ke scores 85/100 on our public trust checks. Established domain
-  — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:37:14.391Z'
+  — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:31.856Z'
 finalUrl: 'https://brandtoday.co.ke/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.5 years ago.
+    - Established domain — registered 2.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -39,9 +39,9 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
+        hasCartLink: false
         hasCatalog: true
-        hasCartFlow: true
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: pass
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-12-07'
-      ageDays: 930
-      ageYears: 2.5
-    detail: Registered 2.5 years ago (2023-12-07).
+      ageDays: 976
+      ageYears: 2.7
+    detail: Registered 2.7 years ago (2023-12-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-brandtoday.co.ke looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+brandtoday.co.ke looks like a well-established store. The clearest positives are that its domain has been registered for 2.7 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Brandtoday in the score above.
 

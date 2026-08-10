@@ -4,8 +4,8 @@ slug: rhododendron-jord-dk
 title: Is rhododendron-jord.dk Legit? Trust Score 70/100
 description: >-
   rhododendron-jord.dk scores 70/100 on our public trust checks. Established
-  domain — registered 2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:06:36.204Z'
+  domain — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:16:20.629Z'
 finalUrl: 'https://rhododendron-jord.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 2 years ago.
+    - Established domain — registered 2.1 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -50,23 +50,23 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2024-07-04'
-      ageDays: 721
-      ageYears: 2
-    detail: Registered 2 years ago (2024-07-04).
+      ageDays: 767
+      ageYears: 2.1
+    detail: Registered 2.1 years ago (2024-07-04).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rhododendron-jord.dk looks like a well-established store. The clearest positives are that its domain has been registered for 2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+rhododendron-jord.dk looks like a well-established store. The clearest positives are that its domain has been registered for 2.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rhododendron-jord in the score above.
 

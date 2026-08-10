@@ -5,7 +5,7 @@ title: Is toolspot.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   toolspot.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:06:12.779Z'
+fetchedAt: '2026-08-10T06:15:58.665Z'
 finalUrl: 'https://toolspot.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

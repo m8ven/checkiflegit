@@ -5,7 +5,7 @@ title: Is wickelwelt.de Legit? Trust Score 91/100
 description: >-
   wickelwelt.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:10:16.733Z'
+fetchedAt: '2026-08-10T06:19:21.287Z'
 finalUrl: 'https://wickelwelt.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-12'
-      daysToExpiry: 233
+      daysToExpiry: 187
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

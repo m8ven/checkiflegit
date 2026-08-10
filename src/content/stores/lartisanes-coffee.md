@@ -5,7 +5,7 @@ title: Is lartisanes.coffee Legit? Trust Score 83/100
 description: >-
   lartisanes.coffee scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:18:44.265Z'
+fetchedAt: '2026-08-10T06:26:33.427Z'
 finalUrl: 'https://lartisanes.coffee/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-07'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

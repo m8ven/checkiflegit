@@ -5,7 +5,7 @@ title: Is maxluxe.ae Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
   maxluxe.ae scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:54:37.434Z'
+fetchedAt: '2026-08-10T06:04:46.347Z'
 finalUrl: 'https://maxluxe.ae/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-09-30'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

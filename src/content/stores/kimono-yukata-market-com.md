@@ -4,9 +4,9 @@ slug: kimono-yukata-market-com
 title: Is kimono-yukata-market.com Legit? Trust Score 100/100
 description: >-
   kimono-yukata-market.com scores 100/100 on our public trust checks.
-  Established domain — registered 18.2 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 18.4 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:25:34.514Z'
+fetchedAt: '2026-08-10T06:31:47.273Z'
 finalUrl: 'https://www.kimono-yukata-market.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 18.2 years ago.
+    - Established domain — registered 18.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-26'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-04-08'
-      ageDays: 6652
-      ageYears: 18.2
-    detail: Registered 18.2 years ago (2008-04-08).
+      ageDays: 6698
+      ageYears: 18.4
+    detail: Registered 18.4 years ago (2008-04-08).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kimono-yukata-market.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kimono-yukata-market.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kimono-yukata-market in the score above.
 

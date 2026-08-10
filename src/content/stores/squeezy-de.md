@@ -5,7 +5,7 @@ title: Is squeezy.de Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   squeezy.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:30:17.528Z'
+fetchedAt: '2026-08-10T06:35:53.962Z'
 finalUrl: 'https://www.squeezy.de/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 60
+      issuer: Google Trust Services
+      validTo: '2026-11-03'
+      daysToExpiry: 86
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null
@@ -66,10 +66,10 @@ signals:
   contact:
     status: pass
     value:
-      email: true
+      email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: warn
     value:

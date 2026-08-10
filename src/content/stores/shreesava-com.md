@@ -1,29 +1,29 @@
 ---
 domain: shreesava.com
 slug: shreesava-com
-title: Is shreesava.com Legit? Trust Score 55/100 — Mixed Signals
+title: Is shreesava.com Legit? Trust Score 70/100
 description: >-
-  shreesava.com scores 55/100 on our public trust checks. No public contact
-  details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:10:40.586Z'
+  shreesava.com scores 70/100 on our public trust checks. Established domain —
+  registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:19:39.417Z'
 finalUrl: 'https://shreesava.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 55
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 16.4 years ago.
+    - Established domain — registered 16.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
-    - No links to major social platforms found.
   cautions: []
 signals:
   http:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-02-08'
-      ageDays: 5981
-      ageYears: 16.4
-    detail: Registered 16.4 years ago (2010-02-08).
+      ageDays: 6026
+      ageYears: 16.5
+    detail: Registered 16.5 years ago (2010-02-08).
   contact:
     status: fail
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: fail
+    status: pass
     value:
-      facebook: false
-      instagram: false
+      facebook: true
+      instagram: true
       twitter: false
       tiktok: false
-      youtube: false
+      youtube: true
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-shreesava.com sends a mixed set of signals. On the positive side, its domain has been registered for 16.4 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+shreesava.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Shreesava in the score above.
 

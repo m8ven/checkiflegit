@@ -1,12 +1,11 @@
 ---
 domain: modenacalcio.com
 slug: modenacalcio-com
-title: Is modenacalcio.com Legit? Trust Score 76/100
+title: Is modenacalcio.com Legit? Trust Score 88/100
 description: >-
-  modenacalcio.com scores 76/100 on our public trust checks. Public business
-  contact details are listed. Maintains links to multiple social media
-  platforms.
-fetchedAt: '2026-06-25T03:56:14.720Z'
+  modenacalcio.com scores 88/100 on our public trust checks. Established domain
+  — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:06:13.060Z'
 finalUrl: 'https://modenacalcio.com/'
 reachable: true
 noindex: false
@@ -16,9 +15,11 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 8.1 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -52,13 +53,20 @@ signals:
       shipping: false
     detail: Found 1 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: DigiCert Inc
+      validTo: '2027-01-20'
+      daysToExpiry: 164
+      authorized: true
+    detail: Valid certificate issued by DigiCert Inc.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2018-06-19'
+      ageDays: 2973
+      ageYears: 8.1
+    detail: Registered 8.1 years ago (2018-06-19).
   contact:
     status: pass
     value:
@@ -89,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-modenacalcio.com looks like a well-established store. The clearest positives are that it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+modenacalcio.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Modenacalcio in the score above.
 

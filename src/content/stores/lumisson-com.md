@@ -4,8 +4,8 @@ slug: lumisson-com
 title: Is lumisson.com Legit? Trust Score 88/100
 description: >-
   lumisson.com scores 88/100 on our public trust checks. Established domain —
-  registered 11 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:23:08.361Z'
+  registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:29:58.674Z'
 finalUrl: 'https://www.lumisson.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11 years ago.
+    - Established domain — registered 11.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-11'
-      daysToExpiry: 170
+      daysToExpiry: 124
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2015-06-30'
-      ageDays: 4013
-      ageYears: 11
-    detail: Registered 11 years ago (2015-06-30).
+      ageDays: 4058
+      ageYears: 11.1
+    detail: Registered 11.1 years ago (2015-06-30).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lumisson.com looks like a well-established store. The clearest positives are that its domain has been registered for 11 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lumisson.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lumisson in the score above.
 

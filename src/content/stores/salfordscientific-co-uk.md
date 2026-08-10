@@ -4,8 +4,8 @@ slug: salfordscientific-co-uk
 title: Is salfordscientific.co.uk Legit? Trust Score 88/100
 description: >-
   salfordscientific.co.uk scores 88/100 on our public trust checks. Established
-  domain — registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:07:57.079Z'
+  domain — registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:17:28.205Z'
 finalUrl: 'https://salfordscientific.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.6 years ago.
+    - Established domain — registered 10.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 43
+      validTo: '2026-10-05'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-11-20'
-      ageDays: 3870
-      ageYears: 10.6
-    detail: Registered 10.6 years ago (2015-11-20).
+      ageDays: 3916
+      ageYears: 10.7
+    detail: Registered 10.7 years ago (2015-11-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-salfordscientific.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 10.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+salfordscientific.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Salfordscientific in the score above.
 

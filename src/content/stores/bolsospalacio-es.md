@@ -1,29 +1,29 @@
 ---
 domain: bolsospalacio.es
 slug: bolsospalacio-es
-title: Is bolsospalacio.es Legit? Trust Score 57/100
+title: Is bolsospalacio.es Legit? Trust Score 83/100
 description: >-
-  bolsospalacio.es scores 57/100 on our public trust checks. No public contact
-  details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:14:15.264Z'
+  bolsospalacio.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-10T06:23:01.832Z'
 finalUrl: 'https://www.bolsospalacio.es/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 57
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 83
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-05'
-      daysToExpiry: 164
+      daysToExpiry: 118
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -64,12 +64,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: fail
+    status: warn
     value:
-      email: false
+      email: true
       phone: false
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: email.'
   social:
     status: pass
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bolsospalacio.es sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+bolsospalacio.es looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bolsospalacio in the score above.
 

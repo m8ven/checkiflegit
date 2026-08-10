@@ -1,28 +1,28 @@
 ---
 domain: egant.no
 slug: egant-no
-title: Is egant.no Legit? Trust Score 58/100 — Mixed Signals
+title: Is egant.no Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  egant.no scores 58/100 on our public trust checks. Domain is relatively young.
-  Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:36:56.548Z'
+  egant.no scores 76/100 on our public trust checks. Established domain —
+  registered 1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:29.481Z'
 finalUrl: 'https://egant.no/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 58
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Domain is relatively young.
     - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: warn
+    status: pass
     value:
       createdAt: '2025-07-24'
-      ageDays: 336
-      ageYears: 0.9
-    detail: Registered 0.9 years ago (2025-07-24).
+      ageDays: 382
+      ageYears: 1
+    detail: Registered 1 years ago (2025-07-24).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-egant.no sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, the domain is still relatively young and only limited contact details are listed — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+egant.no looks like a well-established store. The clearest positives are that its domain has been registered for 1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Egant in the score above.
 

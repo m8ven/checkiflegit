@@ -5,7 +5,7 @@ title: Is k-store.sk Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   k-store.sk scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:25:09.937Z'
+fetchedAt: '2026-08-10T06:31:31.397Z'
 finalUrl: 'https://www.k-store.sk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-20'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

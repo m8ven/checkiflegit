@@ -4,8 +4,8 @@ slug: ana-it
 title: Is ana.it Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   ana.it scores 76/100 on our public trust checks. Established domain —
-  registered 28.4 years ago. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:12:44.479Z'
+  registered 28.5 years ago. Public business contact details are listed.
+fetchedAt: '2026-08-10T06:21:19.519Z'
 finalUrl: 'https://www.ana.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.4 years ago.
+    - Established domain — registered 28.5 years ago.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,24 +56,24 @@ signals:
     status: warn
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-27'
+      daysToExpiry: 78
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '1998-02-02'
-      ageDays: 10370
-      ageYears: 28.4
-    detail: Registered 28.4 years ago (1998-02-02).
+      ageDays: 10416
+      ageYears: 28.5
+    detail: Registered 28.5 years ago (1998-02-02).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ana.it looks like a well-established store. The clearest positives are that its domain has been registered for 28.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ana.it looks like a well-established store. The clearest positives are that its domain has been registered for 28.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ana in the score above.
 

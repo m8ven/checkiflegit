@@ -5,7 +5,7 @@ title: Is ps-reinigung.de Legit? Trust Score 74/100
 description: >-
   ps-reinigung.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T11:57:14.441Z'
+fetchedAt: '2026-08-10T06:08:45.839Z'
 finalUrl: 'https://ps-reinigung.de/'
 reachable: true
 noindex: false
@@ -39,7 +39,7 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-17'
-      daysToExpiry: 146
+      daysToExpiry: 100
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

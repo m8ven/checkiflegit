@@ -4,8 +4,8 @@ slug: aryucare-com
 title: Is aryucare.com Legit? Trust Score 100/100
 description: >-
   aryucare.com scores 100/100 on our public trust checks. Established domain —
-  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:08.755Z'
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:15.659Z'
 finalUrl: 'https://www.aryucare.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.3 years ago.
+    - Established domain — registered 6.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-25'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-03-12'
-      ageDays: 2295
-      ageYears: 6.3
-    detail: Registered 6.3 years ago (2020-03-12).
+      ageDays: 2341
+      ageYears: 6.4
+    detail: Registered 6.4 years ago (2020-03-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aryucare.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aryucare.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aryucare in the score above.
 

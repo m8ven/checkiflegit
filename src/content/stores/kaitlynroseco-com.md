@@ -4,8 +4,8 @@ slug: kaitlynroseco-com
 title: Is kaitlynroseco.com Legit? Trust Score 85/100
 description: >-
   kaitlynroseco.com scores 85/100 on our public trust checks. Established domain
-  — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:09:24.560Z'
+  — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:18:48.443Z'
 finalUrl: 'https://kaitlynroseco.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 2.6 years ago.
+    - Established domain — registered 2.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-25'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-11-08'
-      ageDays: 960
-      ageYears: 2.6
-    detail: Registered 2.6 years ago (2023-11-08).
+      ageDays: 1006
+      ageYears: 2.8
+    detail: Registered 2.8 years ago (2023-11-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kaitlynroseco.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kaitlynroseco.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kaitlynroseco in the score above.
 

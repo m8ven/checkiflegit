@@ -5,7 +5,7 @@ title: Is megszerelde.hu Legit? Trust Score 36/100
 description: >-
   megszerelde.hu scores 36/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:54:54.921Z'
+fetchedAt: '2026-08-10T06:05:00.803Z'
 finalUrl: 'https://megszerelde.hu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-03'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

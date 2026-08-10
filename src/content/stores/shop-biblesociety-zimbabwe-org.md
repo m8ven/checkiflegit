@@ -5,7 +5,7 @@ title: Is shop.biblesociety-zimbabwe.org Legit? Trust Score 83/100
 description: >-
   shop.biblesociety-zimbabwe.org scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:02:51.231Z'
+fetchedAt: '2026-08-10T06:13:10.290Z'
 finalUrl: 'https://shop.biblesociety-zimbabwe.org/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-29'
-      daysToExpiry: 97
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

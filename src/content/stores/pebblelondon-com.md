@@ -4,8 +4,8 @@ slug: pebblelondon-com
 title: Is pebblelondon.com Legit? Trust Score 70/100
 description: >-
   pebblelondon.com scores 70/100 on our public trust checks. Established domain
-  — registered 19.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:55:45.843Z'
+  — registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:30.320Z'
 finalUrl: 'https://pebblelondon.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.3 years ago.
+    - Established domain — registered 19.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2007-03-15'
-      ageDays: 7042
-      ageYears: 19.3
-    detail: Registered 19.3 years ago (2007-03-15).
+      ageDays: 7087
+      ageYears: 19.4
+    detail: Registered 19.4 years ago (2007-03-15).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pebblelondon.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pebblelondon.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pebblelondon in the score above.
 

@@ -1,31 +1,30 @@
 ---
 domain: institut-vernes.fr
 slug: institut-vernes-fr
-title: Is institut-vernes.fr Legit? Trust Score 43/100
+title: Is institut-vernes.fr Legit? Trust Score 61/100
 description: >-
-  institut-vernes.fr scores 43/100 on our public trust checks. No public contact
-  details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:24:41.529Z'
+  institut-vernes.fr scores 61/100 on our public trust checks. No links to major
+  social platforms found.
+fetchedAt: '2026-08-10T06:31:12.667Z'
 finalUrl: 'https://www.institut-vernes.fr/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 43
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.5 years ago.
+    - Established domain — registered 27.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
-    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 51
+      validTo: '2026-10-26'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-01-04'
-      ageDays: 10033
-      ageYears: 27.5
-    detail: Registered 27.5 years ago (1999-01-04).
+      ageDays: 10079
+      ageYears: 27.6
+    detail: Registered 27.6 years ago (1999-01-04).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
       phone: false
-      address: false
-    detail: No public contact details detected on the homepage.
+      address: true
+    detail: 'Public contact details found: address.'
   social:
     status: fail
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for institut-vernes.fr. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 27.5 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+institut-vernes.fr sends a mixed set of signals. On the positive side, its domain has been registered for 27.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Institut-vernes in the score above.
 

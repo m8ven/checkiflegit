@@ -5,7 +5,7 @@ title: Is terameat.info Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   terameat.info scores 61/100 on our public trust checks. No links to major
   social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:08:03.402Z'
+fetchedAt: '2026-08-10T06:17:34.428Z'
 finalUrl: 'https://terameat.info/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 49
+      validTo: '2026-10-12'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

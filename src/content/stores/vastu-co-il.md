@@ -5,7 +5,7 @@ title: Is vastu.co.il Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   vastu.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:32:57.734Z'
+fetchedAt: '2026-08-10T06:38:03.385Z'
 finalUrl: 'https://www.vastu.co.il/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

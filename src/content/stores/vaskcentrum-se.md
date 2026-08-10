@@ -1,12 +1,12 @@
 ---
 domain: vaskcentrum.se
 slug: vaskcentrum-se
-title: Is vaskcentrum.se Legit? Trust Score 88/100
+title: Is vaskcentrum.se Legit? Trust Score 73/100
 description: >-
-  vaskcentrum.se scores 88/100 on our public trust checks. Established domain —
-  registered 9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:17:35.755Z'
-finalUrl: 'https://vaskcentrum.se/'
+  vaskcentrum.se scores 73/100 on our public trust checks. Established domain —
+  registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:25:29.008Z'
+finalUrl: 'https://vaskcentrum.se/cgi-sys/suspendedpage.cgi'
 reachable: true
 noindex: false
 verdict:
@@ -15,76 +15,75 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 73
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9 years ago.
+    - Established domain — registered 9.1 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://vaskcentrum.se/'
+      finalUrl: 'https://vaskcentrum.se/cgi-sys/suspendedpage.cgi'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: warn
-    value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 69
+      validTo: '2026-10-01'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-06-19'
-      ageDays: 3293
-      ageYears: 9
-    detail: Registered 9 years ago (2017-06-19).
+      ageDays: 3339
+      ageYears: 9.1
+    detail: Registered 9.1 years ago (2017-06-19).
   contact:
-    status: pass
+    status: warn
     value:
       email: true
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: email.'
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-vaskcentrum.se looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+vaskcentrum.se looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vaskcentrum in the score above.
 

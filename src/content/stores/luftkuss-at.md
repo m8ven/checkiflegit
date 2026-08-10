@@ -5,7 +5,7 @@ title: Is luftkuss.at Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   luftkuss.at scores 61/100 on our public trust checks. No links to major social
   platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:24:43.898Z'
+fetchedAt: '2026-08-10T06:31:13.629Z'
 finalUrl: 'https://luftkuss.at/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 39
+      validTo: '2026-10-02'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

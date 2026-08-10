@@ -1,24 +1,25 @@
 ---
 domain: televizyonparcalari.com
 slug: televizyonparcalari-com
-title: Is televizyonparcalari.com Legit? Trust Score 22/100
+title: Is televizyonparcalari.com Legit? Trust Score 61/100
 description: >-
-  televizyonparcalari.com scores 22/100 on our public trust checks. No links to
+  televizyonparcalari.com scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T12:14:39.803Z'
+fetchedAt: '2026-08-10T06:23:15.180Z'
 finalUrl: 'https://televizyonparcalari.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 22
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 11.7 years ago.
+    - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
   cautions:
@@ -52,13 +53,20 @@ signals:
       shipping: true
     detail: 'Found 1 policy page(s), no contact page.'
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Google Trust Services
+      validTo: '2026-09-10'
+      daysToExpiry: 32
+      authorized: true
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2014-12-09'
+      ageDays: 4261
+      ageYears: 11.7
+    detail: Registered 11.7 years ago (2014-12-09).
   contact:
     status: warn
     value:
@@ -87,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for televizyonparcalari.com. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+televizyonparcalari.com sends a mixed set of signals. On the positive side, its domain has been registered for 11.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Televizyonparcalari in the score above.
 

@@ -4,8 +4,8 @@ slug: solveforce-com
 title: Is solveforce.com Legit? Trust Score 100/100
 description: >-
   solveforce.com scores 100/100 on our public trust checks. Established domain —
-  registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:31.086Z'
+  registered 21.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:12:59.006Z'
 finalUrl: 'https://solveforce.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.7 years ago.
+    - Established domain — registered 21.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -39,9 +39,9 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: false
+        hasCartLink: true
         hasCatalog: true
-        hasCartFlow: false
+        hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-21'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2004-10-06'
-      ageDays: 7932
-      ageYears: 21.7
-    detail: Registered 21.7 years ago (2004-10-06).
+      ageDays: 7978
+      ageYears: 21.9
+    detail: Registered 21.9 years ago (2004-10-06).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-solveforce.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+solveforce.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Solveforce in the score above.
 

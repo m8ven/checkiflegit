@@ -5,7 +5,7 @@ title: Is spxc.logofeel.net Legit? Trust Score 31/100
 description: >-
   spxc.logofeel.net scores 31/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T12:01:25.409Z'
+fetchedAt: '2026-08-10T06:12:05.152Z'
 finalUrl: 'https://spxc.logofeel.net/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

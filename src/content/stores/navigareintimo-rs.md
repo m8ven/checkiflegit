@@ -5,7 +5,7 @@ title: Is navigareintimo.rs Legit? Trust Score 83/100
 description: >-
   navigareintimo.rs scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T11:56:01.821Z'
+fetchedAt: '2026-08-10T06:07:42.931Z'
 finalUrl: 'https://navigareintimo.rs/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-26'
-      daysToExpiry: 216
+      daysToExpiry: 170
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

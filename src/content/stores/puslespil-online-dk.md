@@ -4,8 +4,8 @@ slug: puslespil-online-dk
 title: Is puslespil-online.dk Legit? Trust Score 82/100
 description: >-
   puslespil-online.dk scores 82/100 on our public trust checks. Established
-  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:31:52.037Z'
+  domain — registered 2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:37:15.219Z'
 finalUrl: 'https://puslespil-online.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 1.9 years ago.
+    - Established domain — registered 2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-07'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2024-07-31'
-      ageDays: 694
-      ageYears: 1.9
-    detail: Registered 1.9 years ago (2024-07-31).
+      ageDays: 740
+      ageYears: 2
+    detail: Registered 2 years ago (2024-07-31).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-puslespil-online.dk looks like a well-established store. The clearest positives are that its domain has been registered for 1.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+puslespil-online.dk looks like a well-established store. The clearest positives are that its domain has been registered for 2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Puslespil-online in the score above.
 

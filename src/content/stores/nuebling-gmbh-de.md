@@ -1,30 +1,29 @@
 ---
 domain: nuebling-gmbh.de
 slug: nuebling-gmbh-de
-title: Is nuebling-gmbh.de Legit? Trust Score 44/100
+title: Is nuebling-gmbh.de Legit? Trust Score 61/100
 description: >-
-  nuebling-gmbh.de scores 44/100 on our public trust checks. No links to major
+  nuebling-gmbh.de scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T11:56:19.081Z'
+fetchedAt: '2026-08-10T06:08:00.223Z'
 finalUrl: 'https://nuebling-gmbh.de/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 44
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 83
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -65,12 +64,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: fail
     value:
@@ -92,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for nuebling-gmbh.de. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+nuebling-gmbh.de sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nuebling-gmbh in the score above.
 

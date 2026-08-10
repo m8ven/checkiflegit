@@ -4,8 +4,8 @@ slug: dspe-nl
 title: Is dspe.nl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   dspe.nl scores 88/100 on our public trust checks. Established domain —
-  registered 18.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:17:32.555Z'
+  registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:25:26.206Z'
 finalUrl: 'https://www.dspe.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.1 years ago.
+    - Established domain — registered 18.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-06-05'
-      ageDays: 6594
-      ageYears: 18.1
-    detail: Registered 18.1 years ago (2008-06-05).
+      ageDays: 6640
+      ageYears: 18.2
+    detail: Registered 18.2 years ago (2008-06-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dspe.nl looks like a well-established store. The clearest positives are that its domain has been registered for 18.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dspe.nl looks like a well-established store. The clearest positives are that its domain has been registered for 18.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dspe in the score above.
 

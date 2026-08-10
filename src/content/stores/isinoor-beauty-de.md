@@ -5,7 +5,7 @@ title: Is isinoor-beauty.de Legit? Trust Score 100/100
 description: >-
   isinoor-beauty.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:02:58.990Z'
+fetchedAt: '2026-08-10T06:13:16.215Z'
 finalUrl: 'https://isinoor-beauty.de/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-06'
-      daysToExpiry: 165
+      daysToExpiry: 119
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

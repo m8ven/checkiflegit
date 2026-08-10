@@ -4,8 +4,8 @@ slug: redeital-org
 title: Is redeital.org Legit? Trust Score 94/100
 description: >-
   redeital.org scores 94/100 on our public trust checks. Established domain —
-  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:05:47.058Z'
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:15:31.786Z'
 finalUrl: 'https://redeital.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 5.9 years ago.
+    - Established domain — registered 6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-07-28'
-      ageDays: 2157
-      ageYears: 5.9
-    detail: Registered 5.9 years ago (2020-07-28).
+      ageDays: 2203
+      ageYears: 6
+    detail: Registered 6 years ago (2020-07-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-redeital.org looks like a well-established store. The clearest positives are that its domain has been registered for 5.9 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+redeital.org looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Redeital in the score above.
 

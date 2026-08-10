@@ -5,7 +5,7 @@ title: Is jodhpurtrends.in Legit? Trust Score 91/100
 description: >-
   jodhpurtrends.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:47:40.524Z'
+fetchedAt: '2026-08-10T06:03:35.029Z'
 finalUrl: 'https://jodhpurtrends.in/'
 reachable: true
 noindex: false
@@ -39,8 +39,8 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: true
-        hasCatalog: false
-        hasCartFlow: false
+        hasCatalog: true
+        hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: pass
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      issuer: Google Trust Services
+      validTo: '2026-09-23'
+      daysToExpiry: 45
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null

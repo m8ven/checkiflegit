@@ -5,7 +5,7 @@ title: Is ausliebezualtemholz.de Legit? Trust Score 49/100
 description: >-
   ausliebezualtemholz.de scores 49/100 on our public trust checks. No public
   contact details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T12:12:59.470Z'
+fetchedAt: '2026-08-10T06:21:40.672Z'
 finalUrl: 'https://www.ausliebezualtemholz.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,11 +1,11 @@
 ---
 domain: korner.pl
 slug: korner-pl
-title: Is korner.pl Legit? Trust Score 83/100 — Trust Checks Pass
+title: Is korner.pl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  korner.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:22:20.240Z'
+  korner.pl scores 88/100 on our public trust checks. Established domain —
+  registered 25.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:29:26.971Z'
 finalUrl: 'https://www.korner.pl/'
 reachable: true
 noindex: false
@@ -15,9 +15,10 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 25.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -46,23 +47,26 @@ signals:
     status: warn
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2026-10-17'
-      daysToExpiry: 114
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2001-02-06'
+      ageDays: 9315
+      ageYears: 25.5
+    detail: Registered 25.5 years ago (2001-02-06).
   contact:
     status: pass
     value:
@@ -93,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-korner.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+korner.pl looks like a well-established store. The clearest positives are that its domain has been registered for 25.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Korner in the score above.
 

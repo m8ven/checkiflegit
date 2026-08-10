@@ -5,7 +5,7 @@ title: Is wellneuss-online.de Legit? Trust Score 100/100
 description: >-
   wellneuss-online.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:20:39.667Z'
+fetchedAt: '2026-08-10T06:27:54.615Z'
 finalUrl: 'https://wellneuss-online.de/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: DigiCert Inc
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      issuer: ZeroSSL GmbH
+      validTo: '2026-11-05'
+      daysToExpiry: 88
       authorized: true
-    detail: Valid certificate issued by DigiCert Inc.
+    detail: Valid certificate issued by ZeroSSL GmbH.
   domainAge:
     status: unknown
     value: null

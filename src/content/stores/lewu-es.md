@@ -5,7 +5,7 @@ title: Is lewu.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   lewu.es scores 100/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:11:24.017Z'
+fetchedAt: '2026-08-10T06:20:10.090Z'
 finalUrl: 'https://lewu.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 54
+      validTo: '2026-10-18'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

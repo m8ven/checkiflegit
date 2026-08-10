@@ -5,7 +5,7 @@ title: Is simfoniya.az Legit? Trust Score 83/100
 description: >-
   simfoniya.az scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:57:51.540Z'
+fetchedAt: '2026-08-10T06:07:14.778Z'
 finalUrl: 'https://simfoniya.az/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      issuer: Google Trust Services
+      validTo: '2026-10-13'
+      daysToExpiry: 65
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null

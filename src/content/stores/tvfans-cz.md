@@ -5,7 +5,7 @@ title: Is tvfans.cz Legit? Trust Score 19/100
 description: >-
   tvfans.cz scores 19/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:07:10.306Z'
+fetchedAt: '2026-08-10T06:16:48.297Z'
 finalUrl: 'https://tvfans.cz/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-21'
-      daysToExpiry: 27
+      validTo: '2026-10-08'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is dyros.de Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
   dyros.de scores 79/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:17:37.731Z'
+fetchedAt: '2026-08-10T06:25:33.639Z'
 finalUrl: 'https://www.dyros.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-23'
-      daysToExpiry: 121
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

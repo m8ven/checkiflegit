@@ -5,7 +5,7 @@ title: Is vipcloset.sk Legit? Trust Score 83/100
 description: >-
   vipcloset.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:18:39.538Z'
+fetchedAt: '2026-08-10T06:26:30.385Z'
 finalUrl: 'https://vipcloset.sk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-10'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

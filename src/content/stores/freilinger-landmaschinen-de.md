@@ -5,7 +5,7 @@ title: Is freilinger-landmaschinen.de Legit? Trust Score 61/100
 description: >-
   freilinger-landmaschinen.de scores 61/100 on our public trust checks. No links
   to major social platforms found.
-fetchedAt: '2026-06-25T12:31:25.128Z'
+fetchedAt: '2026-08-10T06:36:52.253Z'
 finalUrl: 'https://www.freilinger-landmaschinen.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

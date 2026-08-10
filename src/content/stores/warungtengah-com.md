@@ -1,11 +1,11 @@
 ---
 domain: warungtengah.com
 slug: warungtengah-com
-title: Is warungtengah.com Legit? Trust Score 82/100
+title: Is warungtengah.com Legit? Trust Score 94/100
 description: >-
-  warungtengah.com scores 82/100 on our public trust checks. Established domain
-  — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:09:43.444Z'
+  warungtengah.com scores 94/100 on our public trust checks. Established domain
+  — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:18:59.020Z'
 finalUrl: 'https://warungtengah.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
       terms: false
       refund: true
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 70
+      validTo: '2026-11-01'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-01-14'
-      ageDays: 1988
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-01-14).
+      ageDays: 2034
+      ageYears: 5.6
+    detail: Registered 5.6 years ago (2021-01-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-warungtengah.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+warungtengah.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Warungtengah in the score above.
 

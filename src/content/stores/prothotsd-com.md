@@ -5,7 +5,7 @@ title: Is prothotsd.com Legit? Trust Score 82/100
 description: >-
   prothotsd.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:59:31.175Z'
+fetchedAt: '2026-08-10T06:10:44.782Z'
 finalUrl: 'https://prothotsd.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 67
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-12-02'
-      ageDays: 204
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-12-02).
+      ageDays: 250
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-12-02).
   contact:
     status: pass
     value:

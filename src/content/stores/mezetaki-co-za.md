@@ -5,7 +5,7 @@ title: Is mezetaki.co.za Legit? Trust Score 100/100
 description: >-
   mezetaki.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:55:09.088Z'
+fetchedAt: '2026-08-10T06:05:24.322Z'
 finalUrl: 'https://mezetaki.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-10-07'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

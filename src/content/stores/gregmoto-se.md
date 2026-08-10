@@ -4,8 +4,8 @@ slug: gregmoto-se
 title: Is gregmoto.se Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
   gregmoto.se scores 85/100 on our public trust checks. Established domain —
-  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:54:38.430Z'
+  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:04:46.510Z'
 finalUrl: 'https://gregmoto.se/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 5.7 years ago.
+    - Established domain — registered 5.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-09-28'
-      ageDays: 2096
-      ageYears: 5.7
-    detail: Registered 5.7 years ago (2020-09-28).
+      ageDays: 2142
+      ageYears: 5.9
+    detail: Registered 5.9 years ago (2020-09-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gregmoto.se looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gregmoto.se looks like a well-established store. The clearest positives are that its domain has been registered for 5.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gregmoto in the score above.
 

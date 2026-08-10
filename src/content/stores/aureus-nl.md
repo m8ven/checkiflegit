@@ -1,11 +1,11 @@
 ---
 domain: aureus.nl
 slug: aureus-nl
-title: Is aureus.nl Legit? Trust Score 76/100 — Trust Checks Pass
+title: Is aureus.nl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  aureus.nl scores 76/100 on our public trust checks. Established domain —
-  registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:13:47.742Z'
+  aureus.nl scores 88/100 on our public trust checks. Established domain —
+  registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:22:22.622Z'
 finalUrl: 'https://www.aureus.nl/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.3 years ago.
+    - Established domain — registered 28.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1998-03-19'
-      ageDays: 10325
-      ageYears: 28.3
-    detail: Registered 28.3 years ago (1998-03-19).
+      ageDays: 10371
+      ageYears: 28.4
+    detail: Registered 28.4 years ago (1998-03-19).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aureus.nl looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aureus.nl looks like a well-established store. The clearest positives are that its domain has been registered for 28.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aureus in the score above.
 

@@ -5,7 +5,7 @@ title: Is mar1.biz Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   mar1.biz scores 58/100 on our public trust checks. Standard contact and policy
   pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:54:14.394Z'
+fetchedAt: '2026-08-10T06:04:30.561Z'
 finalUrl: 'https://mar1.biz/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.8 years ago.
+    - Established domain — registered 15.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-09-19'
-      ageDays: 5757
-      ageYears: 15.8
-    detail: Registered 15.8 years ago (2010-09-19).
+      ageDays: 5803
+      ageYears: 15.9
+    detail: Registered 15.9 years ago (2010-09-19).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mar1.biz sends a mixed set of signals. On the positive side, its domain has been registered for 15.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+mar1.biz sends a mixed set of signals. On the positive side, its domain has been registered for 15.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mar1 in the score above.
 

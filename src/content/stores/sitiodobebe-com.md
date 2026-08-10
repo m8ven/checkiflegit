@@ -4,8 +4,8 @@ slug: sitiodobebe-com
 title: Is sitiodobebe.com Legit? Trust Score 100/100
 description: >-
   sitiodobebe.com scores 100/100 on our public trust checks. Established domain
-  — registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:00.552Z'
+  — registered 14.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:42.561Z'
 finalUrl: 'https://sitiodobebe.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.8 years ago.
+    - Established domain — registered 14.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -40,7 +40,7 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: false
+        hasCatalog: true
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-01'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-09-06'
-      ageDays: 5405
-      ageYears: 14.8
-    detail: Registered 14.8 years ago (2011-09-06).
+      ageDays: 5451
+      ageYears: 14.9
+    detail: Registered 14.9 years ago (2011-09-06).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sitiodobebe.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sitiodobebe.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sitiodobebe in the score above.
 

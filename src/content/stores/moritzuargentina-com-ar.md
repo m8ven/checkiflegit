@@ -5,7 +5,7 @@ title: Is moritzuargentina.com.ar Legit? Trust Score 100/100
 description: >-
   moritzuargentina.com.ar scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:33:09.019Z'
+fetchedAt: '2026-08-10T06:38:15.532Z'
 finalUrl: 'https://moritzuargentina.com.ar/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

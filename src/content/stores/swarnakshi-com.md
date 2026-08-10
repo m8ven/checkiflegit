@@ -4,8 +4,8 @@ slug: swarnakshi-com
 title: Is swarnakshi.com Legit? Trust Score 100/100
 description: >-
   swarnakshi.com scores 100/100 on our public trust checks. Established domain —
-  registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:05:36.998Z'
+  registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:15:23.665Z'
 finalUrl: 'https://swarnakshi.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.5 years ago.
+    - Established domain — registered 12.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-12-10'
-      ageDays: 4580
-      ageYears: 12.5
-    detail: Registered 12.5 years ago (2013-12-10).
+      ageDays: 4625
+      ageYears: 12.7
+    detail: Registered 12.7 years ago (2013-12-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-swarnakshi.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+swarnakshi.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Swarnakshi in the score above.
 

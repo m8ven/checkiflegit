@@ -5,7 +5,7 @@ title: Is projectorlampreplacements.com.au Legit? Score 79/100
 description: >-
   projectorlampreplacements.com.au scores 79/100 on our public trust checks.
   Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:25.478Z'
+fetchedAt: '2026-08-10T06:10:38.428Z'
 finalUrl: 'https://projectorlampreplacements.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,11 +1,11 @@
 ---
 domain: ibwise.com
 slug: ibwise-com
-title: Is ibwise.com Legit? Trust Score 100/100 — Trust Checks Pass
+title: Is ibwise.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  ibwise.com scores 100/100 on our public trust checks. Established domain —
-  registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:24:24.420Z'
+  ibwise.com scores 88/100 on our public trust checks. Established domain —
+  registered 19.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:59.103Z'
 finalUrl: 'https://www.ibwise.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.8 years ago.
+    - Established domain — registered 19.9 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 29
+      validTo: '2026-10-17'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-09-14'
-      ageDays: 7223
-      ageYears: 19.8
-    detail: Registered 19.8 years ago (2006-09-14).
+      ageDays: 7269
+      ageYears: 19.9
+    detail: Registered 19.9 years ago (2006-09-14).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ibwise.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ibwise.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ibwise in the score above.
 

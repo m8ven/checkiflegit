@@ -5,7 +5,7 @@ title: Is dastafurniture.com Legit? Trust Score 67/100
 description: >-
   dastafurniture.com scores 67/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T03:41:09.873Z'
+fetchedAt: '2026-08-10T06:02:51.275Z'
 finalUrl: 'https://dastafurniture.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-24'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-01-05'
-      ageDays: 170
-      ageYears: 0.5
-    detail: Registered 0.5 years ago (2026-01-05).
+      ageDays: 216
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2026-01-05).
   contact:
     status: pass
     value:

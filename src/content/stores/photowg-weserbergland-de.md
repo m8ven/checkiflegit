@@ -5,7 +5,7 @@ title: Is photowg-weserbergland.de Legit? Trust Score 61/100
 description: >-
   photowg-weserbergland.de scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T11:58:05.347Z'
+fetchedAt: '2026-08-10T06:09:30.325Z'
 finalUrl: 'https://photowg-weserbergland.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

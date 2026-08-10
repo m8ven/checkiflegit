@@ -4,8 +4,8 @@ slug: myuti-com
 title: Is myuti.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   myuti.com scores 88/100 on our public trust checks. Established domain —
-  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:18.506Z'
+  registered 9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:06:53.851Z'
 finalUrl: 'https://myuti.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 8.8 years ago.
+    - Established domain — registered 9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-08-26'
-      ageDays: 3224
-      ageYears: 8.8
-    detail: Registered 8.8 years ago (2017-08-26).
+      ageDays: 3270
+      ageYears: 9
+    detail: Registered 9 years ago (2017-08-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-myuti.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+myuti.com looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Myuti in the score above.
 

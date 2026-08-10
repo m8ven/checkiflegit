@@ -1,11 +1,11 @@
 ---
 domain: techlab-handicap.org
 slug: techlab-handicap-org
-title: Is techlab-handicap.org Legit? Trust Score 88/100
+title: Is techlab-handicap.org Legit? Trust Score 100/100
 description: >-
-  techlab-handicap.org scores 88/100 on our public trust checks. Established
-  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:14:33.528Z'
+  techlab-handicap.org scores 100/100 on our public trust checks. Established
+  domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:23:10.227Z'
 finalUrl: 'https://techlab-handicap.org/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 81
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-11-25'
-      ageDays: 2038
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-11-25).
+      ageDays: 2083
+      ageYears: 5.7
+    detail: Registered 5.7 years ago (2020-11-25).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-techlab-handicap.org looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+techlab-handicap.org looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Techlab-handicap in the score above.
 

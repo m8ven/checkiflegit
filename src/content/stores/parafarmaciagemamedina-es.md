@@ -5,7 +5,7 @@ title: Is parafarmaciagemamedina.es Legit? Trust Score 83/100
 description: >-
   parafarmaciagemamedina.es scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:57:50.224Z'
+fetchedAt: '2026-08-10T06:07:12.937Z'
 finalUrl: 'https://parafarmaciagemamedina.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-27'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

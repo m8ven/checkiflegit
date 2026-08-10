@@ -5,7 +5,7 @@ title: Is optimate1.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   optimate1.com scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T11:56:56.645Z'
+fetchedAt: '2026-08-10T06:08:34.497Z'
 finalUrl: 'https://optimate1.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.8 years ago.
+    - Established domain — registered 18.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2007-09-13'
-      ageDays: 6859
-      ageYears: 18.8
-    detail: Registered 18.8 years ago (2007-09-13).
+      ageDays: 6905
+      ageYears: 18.9
+    detail: Registered 18.9 years ago (2007-09-13).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-optimate1.com sends a mixed set of signals. On the positive side, its domain has been registered for 18.8 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+optimate1.com sends a mixed set of signals. On the positive side, its domain has been registered for 18.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Optimate1 in the score above.
 

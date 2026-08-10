@@ -1,11 +1,11 @@
 ---
 domain: drogisterijboerhaave.nl
 slug: drogisterijboerhaave-nl
-title: Is drogisterijboerhaave.nl Legit? Trust Score 82/100
+title: Is drogisterijboerhaave.nl Legit? Trust Score 94/100
 description: >-
-  drogisterijboerhaave.nl scores 82/100 on our public trust checks. Established
-  domain — registered 26.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:20:26.853Z'
+  drogisterijboerhaave.nl scores 94/100 on our public trust checks. Established
+  domain — registered 26.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:27:47.748Z'
 finalUrl: 'https://www.drogisterijboerhaave.nl/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.5 years ago.
+    - Established domain — registered 26.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-12-21'
-      ageDays: 9683
-      ageYears: 26.5
-    detail: Registered 26.5 years ago (1999-12-21).
+      ageDays: 9729
+      ageYears: 26.7
+    detail: Registered 26.7 years ago (1999-12-21).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-drogisterijboerhaave.nl looks like a well-established store. The clearest positives are that its domain has been registered for 26.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+drogisterijboerhaave.nl looks like a well-established store. The clearest positives are that its domain has been registered for 26.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Drogisterijboerhaave in the score above.
 

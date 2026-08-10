@@ -4,8 +4,8 @@ slug: tonyselimi-com
 title: Is tonyselimi.com Legit? Trust Score 100/100
 description: >-
   tonyselimi.com scores 100/100 on our public trust checks. Established domain —
-  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:12:03.197Z'
+  registered 13.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:20:43.095Z'
 finalUrl: 'https://tonyselimi.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.3 years ago.
+    - Established domain — registered 13.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2027-03-07'
-      daysToExpiry: 255
+      daysToExpiry: 210
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2013-03-24'
-      ageDays: 4840
-      ageYears: 13.3
-    detail: Registered 13.3 years ago (2013-03-24).
+      ageDays: 4886
+      ageYears: 13.4
+    detail: Registered 13.4 years ago (2013-03-24).
   contact:
     status: pass
     value:
@@ -80,13 +80,13 @@ signals:
       facebook: true
       instagram: true
       twitter: true
-      tiktok: false
+      tiktok: true
       youtube: true
       linkedin: true
       pinterest: true
     detail: >-
-      Links to 6 social platform(s): facebook, instagram, twitter, youtube,
-      linkedin, pinterest.
+      Links to 7 social platform(s): facebook, instagram, twitter, tiktok,
+      youtube, linkedin, pinterest.
   reviews:
     status: unknown
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tonyselimi.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tonyselimi.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tonyselimi in the score above.
 

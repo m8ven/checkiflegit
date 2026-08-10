@@ -5,7 +5,7 @@ title: Is cobrabikecenter.com.ar Legit? Trust Score 100/100
 description: >-
   cobrabikecenter.com.ar scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:29:36.823Z'
+fetchedAt: '2026-08-10T06:01:47.035Z'
 finalUrl: 'https://cobrabikecenter.com.ar/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-01'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

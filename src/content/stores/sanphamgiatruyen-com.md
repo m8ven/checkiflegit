@@ -1,28 +1,28 @@
 ---
 domain: sanphamgiatruyen.com
 slug: sanphamgiatruyen-com
-title: Is sanphamgiatruyen.com Legit? Trust Score 64/100
+title: Is sanphamgiatruyen.com Legit? Trust Score 94/100
 description: >-
-  sanphamgiatruyen.com scores 64/100 on our public trust checks. Standard
-  contact and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T12:01:38.008Z'
+  sanphamgiatruyen.com scores 94/100 on our public trust checks. Established
+  domain — registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:12:17.386Z'
 finalUrl: 'https://sanphamgiatruyen.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 64
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.9 years ago.
+    - Established domain — registered 11.1 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
     - Limited social media presence.
 signals:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
+      contact: true
+      privacy: true
       terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 31
+      validTo: '2026-09-25'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-07-23'
-      ageDays: 3989
-      ageYears: 10.9
-    detail: Registered 10.9 years ago (2015-07-23).
+      ageDays: 4035
+      ageYears: 11.1
+    detail: Registered 11.1 years ago (2015-07-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sanphamgiatruyen.com sends a mixed set of signals. On the positive side, its domain has been registered for 10.9 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+sanphamgiatruyen.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sanphamgiatruyen in the score above.
 

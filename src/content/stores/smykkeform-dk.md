@@ -5,7 +5,7 @@ title: Is smykkeform.dk Legit? Trust Score 25/100
 description: >-
   smykkeform.dk scores 25/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:11:33.070Z'
+fetchedAt: '2026-08-10T06:20:14.042Z'
 finalUrl: 'https://smykkeform.dk/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 67
+      validTo: '2026-10-30'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-12-05'
-      ageDays: 202
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-12-05).
+      ageDays: 248
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-12-05).
   contact:
     status: warn
     value:

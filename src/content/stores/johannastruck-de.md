@@ -5,7 +5,7 @@ title: Is johannastruck.de Legit? Trust Score 100/100
 description: >-
   johannastruck.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:25:02.523Z'
+fetchedAt: '2026-08-10T06:31:28.992Z'
 finalUrl: 'https://www.johannastruck.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-27'
-      daysToExpiry: 95
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

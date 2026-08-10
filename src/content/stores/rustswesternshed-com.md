@@ -4,8 +4,8 @@ slug: rustswesternshed-com
 title: Is rustswesternshed.com Legit? Trust Score 70/100
 description: >-
   rustswesternshed.com scores 70/100 on our public trust checks. Established
-  domain — registered 21 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:29.681Z'
+  domain — registered 21.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:39.619Z'
 finalUrl: 'https://rustswesternshed.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21 years ago.
+    - Established domain — registered 21.1 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2005-06-21'
-      ageDays: 7673
-      ageYears: 21
-    detail: Registered 21 years ago (2005-06-21).
+      ageDays: 7719
+      ageYears: 21.1
+    detail: Registered 21.1 years ago (2005-06-21).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rustswesternshed.com looks like a well-established store. The clearest positives are that its domain has been registered for 21 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+rustswesternshed.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rustswesternshed in the score above.
 

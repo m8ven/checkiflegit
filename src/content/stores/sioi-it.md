@@ -4,8 +4,8 @@ slug: sioi-it
 title: Is sioi.it Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   sioi.it scores 70/100 on our public trust checks. Established domain —
-  registered 24.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:25.152Z'
+  registered 24.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:30.254Z'
 finalUrl: 'https://www.sioi.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.6 years ago.
+    - Established domain — registered 24.7 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-12-12'
-      ageDays: 8961
-      ageYears: 24.6
-    detail: Registered 24.6 years ago (2001-12-12).
+      ageDays: 9007
+      ageYears: 24.7
+    detail: Registered 24.7 years ago (2001-12-12).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sioi.it looks like a well-established store. The clearest positives are that its domain has been registered for 24.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sioi.it looks like a well-established store. The clearest positives are that its domain has been registered for 24.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sioi in the score above.
 

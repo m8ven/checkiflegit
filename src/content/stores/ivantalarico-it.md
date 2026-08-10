@@ -5,7 +5,7 @@ title: Is ivantalarico.it Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   ivantalarico.it scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T12:24:49.999Z'
+fetchedAt: '2026-08-10T06:31:20.182Z'
 finalUrl: 'https://www.ivantalarico.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.1 years ago.
+    - Established domain — registered 9.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2026-11-02'
-      daysToExpiry: 130
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
-      createdAt: '2017-05-30'
-      ageDays: 3313
-      ageYears: 9.1
-    detail: Registered 9.1 years ago (2017-05-30).
+      createdAt: '2017-05-29'
+      ageDays: 3359
+      ageYears: 9.2
+    detail: Registered 9.2 years ago (2017-05-29).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ivantalarico.it sends a mixed set of signals. On the positive side, its domain has been registered for 9.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+ivantalarico.it sends a mixed set of signals. On the positive side, its domain has been registered for 9.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ivantalarico in the score above.
 

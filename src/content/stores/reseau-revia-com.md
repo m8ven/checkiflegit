@@ -1,29 +1,28 @@
 ---
 domain: reseau-revia.com
 slug: reseau-revia-com
-title: Is reseau-revia.com Legit? Trust Score 100/100
+title: Is reseau-revia.com Legit? Trust Score 55/100
 description: >-
-  reseau-revia.com scores 100/100 on our public trust checks. Established domain
-  — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:21.969Z'
+  reseau-revia.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-10T06:09:47.534Z'
 finalUrl: 'https://reseau-revia.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 100
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.6 years ago.
+    - Established domain — registered 1.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions: []
 signals:
   http:
@@ -33,58 +32,58 @@ signals:
       finalUrl: 'https://reseau-revia.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 48
+      validTo: '2026-10-04'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-11-20'
-      ageDays: 581
-      ageYears: 1.6
-    detail: Registered 1.6 years ago (2024-11-20).
+      ageDays: 627
+      ageYears: 1.7
+    detail: Registered 1.7 years ago (2024-11-20).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
-      linkedin: true
+      linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, linkedin.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-reseau-revia.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+reseau-revia.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.7 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Reseau-revia in the score above.
 

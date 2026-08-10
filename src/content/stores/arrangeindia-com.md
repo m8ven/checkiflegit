@@ -4,8 +4,8 @@ slug: arrangeindia-com
 title: Is arrangeindia.com Legit? Trust Score 73/100
 description: >-
   arrangeindia.com scores 73/100 on our public trust checks. Established domain
-  — registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:34:23.515Z'
+  — registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:15.317Z'
 finalUrl: 'https://arrangeindia.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.8 years ago.
+    - Established domain — registered 13.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-28'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-09-12'
-      ageDays: 5033
-      ageYears: 13.8
-    detail: Registered 13.8 years ago (2012-09-12).
+      ageDays: 5079
+      ageYears: 13.9
+    detail: Registered 13.9 years ago (2012-09-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-arrangeindia.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+arrangeindia.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Arrangeindia in the score above.
 

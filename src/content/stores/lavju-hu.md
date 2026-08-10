@@ -1,11 +1,11 @@
 ---
 domain: lavju.hu
 slug: lavju-hu
-title: Is lavju.hu Legit? Trust Score 91/100 — Trust Checks Pass
+title: Is lavju.hu Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  lavju.hu scores 91/100 on our public trust checks. Valid HTTPS/SSL certificate
-  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:19:19.484Z'
+  lavju.hu scores 74/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
+fetchedAt: '2026-08-10T06:26:56.313Z'
 finalUrl: 'https://lavju.hu/'
 reachable: true
 noindex: false
@@ -15,14 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 91
+  score: 74
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-24'
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lavju.hu looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lavju.hu looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lavju in the score above.
 

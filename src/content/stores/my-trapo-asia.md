@@ -5,7 +5,7 @@ title: Is my.trapo.asia Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   my.trapo.asia scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:11.732Z'
+fetchedAt: '2026-08-10T06:06:48.395Z'
 finalUrl: 'https://my.trapo.asia/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-26'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

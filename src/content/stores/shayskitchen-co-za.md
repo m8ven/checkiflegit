@@ -3,9 +3,9 @@ domain: shayskitchen.co.za
 slug: shayskitchen-co-za
 title: Is shayskitchen.co.za Legit? Trust Score 100/100
 description: >-
-  shayskitchen.co.za scores 100/100 on our public trust checks. Has a contact
-  page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:00:42.762Z'
+  shayskitchen.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-10T06:11:32.678Z'
 finalUrl: 'https://shayskitchen.co.za/'
 reachable: true
 noindex: false
@@ -18,6 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -51,9 +52,13 @@ signals:
       shipping: false
     detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-09-29'
+      daysToExpiry: 51
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null

@@ -5,7 +5,7 @@ title: Is pldistribucion.com.ar Legit? Trust Score 100/100
 description: >-
   pldistribucion.com.ar scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:29:46.097Z'
+fetchedAt: '2026-08-10T06:35:35.005Z'
 finalUrl: 'https://pldistribucion.com.ar/web/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-06'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

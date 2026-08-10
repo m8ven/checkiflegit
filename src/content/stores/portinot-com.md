@@ -4,8 +4,8 @@ slug: portinot-com
 title: Is portinot.com Legit? Trust Score 100/100
 description: >-
   portinot.com scores 100/100 on our public trust checks. Established domain —
-  registered 5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:26.485Z'
+  registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:38.919Z'
 finalUrl: 'https://portinot.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5 years ago.
+    - Established domain — registered 5.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      issuer: Let's Encrypt
+      validTo: '2026-10-16'
+      daysToExpiry: 68
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-07-10'
-      ageDays: 1810
-      ageYears: 5
-    detail: Registered 5 years ago (2021-07-10).
+      ageDays: 1856
+      ageYears: 5.1
+    detail: Registered 5.1 years ago (2021-07-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-portinot.com looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+portinot.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Portinot in the score above.
 

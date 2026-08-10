@@ -5,7 +5,7 @@ title: Is ofistabelasi.gen.tr Legit? Trust Score 19/100
 description: >-
   ofistabelasi.gen.tr scores 19/100 on our public trust checks. Standard contact
   and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:24:49.154Z'
+fetchedAt: '2026-08-10T06:31:18.327Z'
 finalUrl: 'https://www.ofistabelasi.gen.tr/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-21'
-      daysToExpiry: 88
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

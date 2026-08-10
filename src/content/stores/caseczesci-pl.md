@@ -1,11 +1,11 @@
 ---
 domain: caseczesci.pl
 slug: caseczesci-pl
-title: Is caseczesci.pl Legit? Trust Score 70/100
+title: Is caseczesci.pl Legit? Trust Score 82/100
 description: >-
-  caseczesci.pl scores 70/100 on our public trust checks. Established domain —
-  registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:15:13.931Z'
+  caseczesci.pl scores 82/100 on our public trust checks. Established domain —
+  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:23:28.965Z'
 finalUrl: 'https://www.caseczesci.pl/'
 reachable: true
 noindex: false
@@ -15,14 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.6 years ago.
+    - Established domain — registered 16.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
     - Limited social media presence.
 signals:
@@ -36,7 +36,7 @@ signals:
     status: pass
     value:
       platform: WooCommerce
-      isStore: true
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: true
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: false
       refund: true
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: nazwa.pl Sp. z o.o.
       validTo: '2026-10-27'
-      daysToExpiry: 124
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by nazwa.pl Sp. z o.o..
   domainAge:
     status: pass
     value:
       createdAt: '2009-11-17'
-      ageDays: 6063
-      ageYears: 16.6
-    detail: Registered 16.6 years ago (2009-11-17).
+      ageDays: 6109
+      ageYears: 16.7
+    detail: Registered 16.7 years ago (2009-11-17).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-caseczesci.pl looks like a well-established store. The clearest positives are that its domain has been registered for 16.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+caseczesci.pl looks like a well-established store. The clearest positives are that its domain has been registered for 16.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Caseczesci in the score above.
 

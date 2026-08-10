@@ -1,30 +1,31 @@
 ---
 domain: immanuelbookstore.co.id
 slug: immanuelbookstore-co-id
-title: Is immanuelbookstore.co.id Legit? Trust Score 52/100
+title: Is immanuelbookstore.co.id Legit? Trust Score 43/100
 description: >-
-  immanuelbookstore.co.id scores 52/100 on our public trust checks. No public
+  immanuelbookstore.co.id scores 43/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T12:00:02.622Z'
+fetchedAt: '2026-08-10T06:11:08.819Z'
 finalUrl: 'https://immanuelbookstore.co.id/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 52
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.9 years ago.
+    - Established domain — registered 15 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -38,7 +39,7 @@ signals:
       platform: WooCommerce
       isStore: true
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
@@ -56,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 29
+      validTo: '2026-10-03'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-07-26'
-      ageDays: 5447
-      ageYears: 14.9
-    detail: Registered 14.9 years ago (2011-07-26).
+      ageDays: 5493
+      ageYears: 15
+    detail: Registered 15 years ago (2011-07-26).
   contact:
     status: fail
     value:
@@ -75,16 +76,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
       instagram: false
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): twitter.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-immanuelbookstore.co.id sends a mixed set of signals. On the positive side, its domain has been registered for 14.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for immanuelbookstore.co.id. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 15 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Immanuelbookstore in the score above.
 

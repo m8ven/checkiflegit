@@ -1,30 +1,30 @@
 ---
 domain: stripfan.nl
 slug: stripfan-nl
-title: Is stripfan.nl Legit? Trust Score 61/100 — Mixed Signals
+title: Is stripfan.nl Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  stripfan.nl scores 61/100 on our public trust checks. No links to major social
-  platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:30:31.817Z'
+  stripfan.nl scores 85/100 on our public trust checks. Established domain —
+  registered 23.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:36:03.307Z'
 finalUrl: 'https://www.stripfan.nl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.7 years ago.
+    - Established domain — registered 23.8 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-23'
-      daysToExpiry: 28
+      validTo: '2026-10-04'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-10-11'
-      ageDays: 8658
-      ageYears: 23.7
-    detail: Registered 23.7 years ago (2002-10-11).
+      ageDays: 8704
+      ageYears: 23.8
+    detail: Registered 23.8 years ago (2002-10-11).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-stripfan.nl sends a mixed set of signals. On the positive side, its domain has been registered for 23.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+stripfan.nl looks like a well-established store. The clearest positives are that its domain has been registered for 23.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Stripfan in the score above.
 

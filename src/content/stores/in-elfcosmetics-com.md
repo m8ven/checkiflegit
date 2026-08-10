@@ -6,7 +6,7 @@ description: >-
   in.elfcosmetics.com scores 57/100 on our public trust checks. No public
   contact details detected on the homepage. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:00:19.557Z'
+fetchedAt: '2026-08-10T06:11:16.998Z'
 finalUrl: 'https://in.elfcosmetics.com/'
 reachable: true
 noindex: false
@@ -49,15 +49,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: true
+      refund: false
       shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 68
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: zinxmarket-com
 title: Is zinxmarket.com Legit? Trust Score 100/100
 description: >-
   zinxmarket.com scores 100/100 on our public trust checks. Established domain —
-  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:06.044Z'
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:28.609Z'
 finalUrl: 'https://zinxmarket.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.2 years ago.
+    - Established domain — registered 2.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      issuer: Google Trust Services
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2024-03-25'
-      ageDays: 821
-      ageYears: 2.2
-    detail: Registered 2.2 years ago (2024-03-25).
+      ageDays: 867
+      ageYears: 2.4
+    detail: Registered 2.4 years ago (2024-03-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-zinxmarket.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+zinxmarket.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Zinxmarket in the score above.
 

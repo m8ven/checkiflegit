@@ -5,7 +5,7 @@ title: Is menaibaptist.org.au Legit? Trust Score 83/100
 description: >-
   menaibaptist.org.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:54:56.031Z'
+fetchedAt: '2026-08-10T06:05:02.619Z'
 finalUrl: 'https://menaibaptist.org.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
@@ -66,10 +66,10 @@ signals:
   contact:
     status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: true
-    detail: 'Public contact details found: phone, address.'
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

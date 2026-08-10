@@ -5,7 +5,7 @@ title: Is pestyard.in Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   pestyard.in scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T11:58:00.416Z'
+fetchedAt: '2026-08-10T06:09:25.368Z'
 finalUrl: 'https://pestyard.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

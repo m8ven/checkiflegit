@@ -5,7 +5,7 @@ title: Is wowtea.eu Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   wowtea.eu scores 57/100 on our public trust checks. No public contact details
   detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:19:57.128Z'
+fetchedAt: '2026-08-10T06:27:22.103Z'
 finalUrl: 'https://wowtea.eu/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-31'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -4,8 +4,8 @@ slug: baagbageecha-com
 title: Is baagbageecha.com Legit? Trust Score 100/100
 description: >-
   baagbageecha.com scores 100/100 on our public trust checks. Established domain
-  — registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:35:29.667Z'
+  — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:19.910Z'
 finalUrl: 'https://baagbageecha.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.6 years ago.
+    - Established domain — registered 3.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-12-01'
-      ageDays: 1301
-      ageYears: 3.6
-    detail: Registered 3.6 years ago (2022-12-01).
+      ageDays: 1348
+      ageYears: 3.7
+    detail: Registered 3.7 years ago (2022-12-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-baagbageecha.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+baagbageecha.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Baagbageecha in the score above.
 

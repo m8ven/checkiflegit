@@ -1,11 +1,11 @@
 ---
 domain: melhoradesivo.com.br
 slug: melhoradesivo-com-br
-title: Is melhoradesivo.com.br Legit? Trust Score 74/100
+title: Is melhoradesivo.com.br Legit? Trust Score 91/100
 description: >-
-  melhoradesivo.com.br scores 74/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:28:08.477Z'
+  melhoradesivo.com.br scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-10T06:34:15.303Z'
 finalUrl: 'https://www.melhoradesivo.com.br/'
 reachable: true
 noindex: false
@@ -15,14 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 74
+  score: 91
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 45
+      validTo: '2026-10-31'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-melhoradesivo.com.br looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+melhoradesivo.com.br looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Melhoradesivo in the score above.
 

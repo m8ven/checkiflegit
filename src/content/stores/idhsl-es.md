@@ -5,7 +5,7 @@ title: Is idhsl.es Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
   idhsl.es scores 79/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T03:48:59.291Z'
+fetchedAt: '2026-08-10T06:03:45.441Z'
 finalUrl: 'https://idhsl.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 35
+      validTo: '2026-09-28'
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

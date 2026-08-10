@@ -4,9 +4,9 @@ slug: learnenglishwithcamille-com
 title: Is learnenglishwithcamille.com Legit? Trust Score 88/100
 description: >-
   learnenglishwithcamille.com scores 88/100 on our public trust checks.
-  Established domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:10:39.149Z'
+fetchedAt: '2026-08-10T06:19:37.333Z'
 finalUrl: 'https://learnenglishwithcamille.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.1 years ago.
+    - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-09'
-      daysToExpiry: 76
+      validTo: '2026-11-07'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-05-28'
-      ageDays: 2218
-      ageYears: 6.1
-    detail: Registered 6.1 years ago (2020-05-28).
+      ageDays: 2264
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-05-28).
   contact:
     status: warn
     value:
@@ -98,7 +98,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-learnenglishwithcamille.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+learnenglishwithcamille.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Learnenglishwithcamille in the score above.
 

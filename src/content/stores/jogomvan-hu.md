@@ -5,7 +5,7 @@ title: Is jogomvan.hu Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   jogomvan.hu scores 57/100 on our public trust checks. Standard contact and
   policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:21:29.988Z'
+fetchedAt: '2026-08-10T06:28:45.526Z'
 finalUrl: 'https://www.jogomvan.hu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-03'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

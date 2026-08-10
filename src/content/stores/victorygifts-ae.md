@@ -5,7 +5,7 @@ title: Is victorygifts.ae Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   victorygifts.ae scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T12:08:45.951Z'
+fetchedAt: '2026-08-10T06:18:23.127Z'
 finalUrl: 'https://victorygifts.ae/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-17'
-      daysToExpiry: 84
+      validTo: '2026-10-02'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

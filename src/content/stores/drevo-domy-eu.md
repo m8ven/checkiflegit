@@ -5,7 +5,7 @@ title: Is drevo-domy.eu Legit? Trust Score 83/100
 description: >-
   drevo-domy.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:20:22.630Z'
+fetchedAt: '2026-08-10T06:27:42.424Z'
 finalUrl: 'https://www.drevo-domy.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

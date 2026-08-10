@@ -4,8 +4,8 @@ slug: neuralsystemsindia-com
 title: Is neuralsystemsindia.com Legit? Trust Score 94/100
 description: >-
   neuralsystemsindia.com scores 94/100 on our public trust checks. Established
-  domain — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:54:45.093Z'
+  domain — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:04:54.329Z'
 finalUrl: 'https://neuralsystemsindia.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.7 years ago.
+    - Established domain — registered 6.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2027-01-19'
-      daysToExpiry: 209
+      daysToExpiry: 163
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2019-10-02'
-      ageDays: 2457
-      ageYears: 6.7
-    detail: Registered 6.7 years ago (2019-10-02).
+      ageDays: 2503
+      ageYears: 6.9
+    detail: Registered 6.9 years ago (2019-10-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-neuralsystemsindia.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+neuralsystemsindia.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Neuralsystemsindia in the score above.
 

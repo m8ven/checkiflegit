@@ -4,8 +4,8 @@ slug: catranslation-org
 title: Is catranslation.org Legit? Trust Score 76/100
 description: >-
   catranslation.org scores 76/100 on our public trust checks. Established domain
-  — registered 25.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:26:18.238Z'
+  — registered 26 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:32:34.755Z'
 finalUrl: 'https://www.catranslation.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.9 years ago.
+    - Established domain — registered 26 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-07-29'
-      ageDays: 9462
-      ageYears: 25.9
-    detail: Registered 25.9 years ago (2000-07-29).
+      ageDays: 9508
+      ageYears: 26
+    detail: Registered 26 years ago (2000-07-29).
   contact:
     status: warn
     value:
@@ -79,12 +79,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-catranslation.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+catranslation.org looks like a well-established store. The clearest positives are that its domain has been registered for 26 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Catranslation in the score above.
 

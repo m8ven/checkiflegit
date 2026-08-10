@@ -4,8 +4,8 @@ slug: smartsavingshaven-com
 title: Is smartsavingshaven.com Legit? Trust Score 70/100
 description: >-
   smartsavingshaven.com scores 70/100 on our public trust checks. Established
-  domain — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:57:25.656Z'
+  domain — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:08:55.743Z'
 finalUrl: 'https://smartsavingshaven.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.1 years ago.
+    - Established domain — registered 2.2 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-05-11'
-      ageDays: 775
-      ageYears: 2.1
-    detail: Registered 2.1 years ago (2024-05-11).
+      ageDays: 820
+      ageYears: 2.2
+    detail: Registered 2.2 years ago (2024-05-11).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-smartsavingshaven.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+smartsavingshaven.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Smartsavingshaven in the score above.
 

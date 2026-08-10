@@ -5,7 +5,7 @@ title: Is quotidianodifoggia.it Legit? Trust Score 64/100
 description: >-
   quotidianodifoggia.it scores 64/100 on our public trust checks. No public
   contact details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T11:57:47.643Z'
+fetchedAt: '2026-08-10T06:09:16.004Z'
 finalUrl: 'https://quotidianodifoggia.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.4 years ago.
+    - Established domain — registered 24.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: false
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-03'
-      daysToExpiry: 70
+      validTo: '2026-11-02'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-01-28'
-      ageDays: 8914
-      ageYears: 24.4
-    detail: Registered 24.4 years ago (2002-01-28).
+      ageDays: 8960
+      ageYears: 24.5
+    detail: Registered 24.5 years ago (2002-01-28).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-quotidianodifoggia.it sends a mixed set of signals. On the positive side, its domain has been registered for 24.4 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+quotidianodifoggia.it sends a mixed set of signals. On the positive side, its domain has been registered for 24.5 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Quotidianodifoggia in the score above.
 

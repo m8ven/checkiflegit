@@ -4,8 +4,8 @@ slug: altebby-com
 title: Is altebby.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   altebby.com scores 76/100 on our public trust checks. Established domain —
-  registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:21:18.841Z'
+  registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:28:26.454Z'
 finalUrl: 'https://www.altebby.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.1 years ago.
+    - Established domain — registered 13.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-05-24'
-      ageDays: 4780
-      ageYears: 13.1
-    detail: Registered 13.1 years ago (2013-05-24).
+      ageDays: 4825
+      ageYears: 13.2
+    detail: Registered 13.2 years ago (2013-05-24).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-altebby.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+altebby.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Altebby in the score above.
 

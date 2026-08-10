@@ -5,7 +5,7 @@ title: Is jctorresfesta.com.br Legit? Trust Score 74/100
 description: >-
   jctorresfesta.com.br scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:47:31.724Z'
+fetchedAt: '2026-08-10T06:03:33.367Z'
 finalUrl: 'https://jctorresfesta.com.br/'
 reachable: true
 noindex: false
@@ -45,18 +45,18 @@ signals:
   pages:
     status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 73
+      validTo: '2026-11-04'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

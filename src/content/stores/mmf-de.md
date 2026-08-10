@@ -5,7 +5,7 @@ title: Is mmf.de Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   mmf.de scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:55:06.090Z'
+fetchedAt: '2026-08-10T06:05:22.448Z'
 finalUrl: 'https://mmf.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-26'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

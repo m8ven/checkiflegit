@@ -5,7 +5,7 @@ title: Is ticketprice.in Legit? Trust Score 74/100
 description: >-
   ticketprice.in scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:05:51.734Z'
+fetchedAt: '2026-08-10T06:15:35.083Z'
 finalUrl: 'https://ticketprice.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-26'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

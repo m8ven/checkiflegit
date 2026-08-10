@@ -5,7 +5,7 @@ title: Is revor.cl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   revor.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T03:46:24.284Z'
+fetchedAt: '2026-08-10T06:03:26.912Z'
 finalUrl: 'https://revor.cl/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-09-29'
-      daysToExpiry: 97
+      daysToExpiry: 51
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:

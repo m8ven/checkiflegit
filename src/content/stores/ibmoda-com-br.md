@@ -5,7 +5,7 @@ title: Is ibmoda.com.br Legit? Trust Score 40/100
 description: >-
   ibmoda.com.br scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T11:58:25.786Z'
+fetchedAt: '2026-08-10T06:09:51.726Z'
 finalUrl: 'https://ibmoda.com.br/'
 reachable: true
 noindex: false
@@ -49,15 +49,15 @@ signals:
       contact: false
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 31
+      validTo: '2026-09-24'
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

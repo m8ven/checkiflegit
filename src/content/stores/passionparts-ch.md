@@ -5,7 +5,7 @@ title: Is passionparts.ch Legit? Trust Score 79/100
 description: >-
   passionparts.ch scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:25:11.097Z'
+fetchedAt: '2026-08-10T06:31:31.610Z'
 finalUrl: 'https://www.passionparts.ch/'
 reachable: true
 noindex: false
@@ -46,17 +46,17 @@ signals:
     status: pass
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: true
       refund: false
-      shipping: false
+      shipping: true
     detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-23'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,30 +1,30 @@
 ---
 domain: sportnews-romania.ro
 slug: sportnews-romania-ro
-title: Is sportnews-romania.ro Legit? Trust Score 52/100
+title: Is sportnews-romania.ro Legit? Trust Score 88/100
 description: >-
-  sportnews-romania.ro scores 52/100 on our public trust checks. No public
-  contact details detected on the homepage. Domain is relatively young.
-fetchedAt: '2026-06-25T12:02:51.184Z'
+  sportnews-romania.ro scores 88/100 on our public trust checks. Established
+  domain — registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:10.037Z'
 finalUrl: 'https://sportnews-romania.ro/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 52
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 1.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
+  redFlags: []
   cautions:
-    - Domain is relatively young.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-21'
-      daysToExpiry: 27
+      validTo: '2026-10-02'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: warn
+    status: pass
     value:
       createdAt: '2025-07-04'
-      ageDays: 356
-      ageYears: 1
-    detail: Registered 1 years ago (2025-07-04).
+      ageDays: 402
+      ageYears: 1.1
+    detail: Registered 1.1 years ago (2025-07-04).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sportnews-romania.ro sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and there are no clear public contact details — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+sportnews-romania.ro looks like a well-established store. The clearest positives are that its domain has been registered for 1.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sportnews-romania in the score above.
 

@@ -5,7 +5,7 @@ title: Is pneuvea.sk Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   pneuvea.sk scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:32:28.536Z'
+fetchedAt: '2026-08-10T06:02:02.335Z'
 finalUrl: 'https://pneuvea.sk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-25'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

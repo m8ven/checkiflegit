@@ -5,7 +5,7 @@ title: Is surfoutlook.store Legit? Trust Score 70/100
 description: >-
   surfoutlook.store scores 70/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:04:57.372Z'
+fetchedAt: '2026-08-10T06:15:08.187Z'
 finalUrl: 'https://surfoutlook.store/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-01-12'
-      ageDays: 164
-      ageYears: 0.4
-    detail: Registered 0.4 years ago (2026-01-12).
+      ageDays: 209
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2026-01-12).
   contact:
     status: warn
     value:

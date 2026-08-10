@@ -5,7 +5,7 @@ title: Is studyoneo.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   studyoneo.com scores 55/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:13:06.031Z'
+fetchedAt: '2026-08-10T06:21:47.496Z'
 finalUrl: 'https://studyoneo.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.7 years ago.
+    - Established domain — registered 12.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-10-03'
-      ageDays: 4648
-      ageYears: 12.7
-    detail: Registered 12.7 years ago (2013-10-03).
+      ageDays: 4693
+      ageYears: 12.9
+    detail: Registered 12.9 years ago (2013-10-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-studyoneo.com sends a mixed set of signals. On the positive side, its domain has been registered for 12.7 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+studyoneo.com sends a mixed set of signals. On the positive side, its domain has been registered for 12.9 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Studyoneo in the score above.
 

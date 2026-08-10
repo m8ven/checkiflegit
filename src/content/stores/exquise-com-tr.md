@@ -6,7 +6,7 @@ description: >-
   exquise.com.tr scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:30:33.987Z'
+fetchedAt: '2026-08-10T06:01:55.888Z'
 finalUrl: 'https://exquise.com.tr/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-14'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

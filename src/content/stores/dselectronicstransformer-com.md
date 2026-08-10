@@ -1,12 +1,12 @@
 ---
 domain: dselectronicstransformer.com
 slug: dselectronicstransformer-com
-title: Is dselectronicstransformer.com Legit? Trust Score 73/100
+title: Is dselectronicstransformer.com Legit? Trust Score 85/100
 description: >-
-  dselectronicstransformer.com scores 73/100 on our public trust checks.
-  Established domain — registered 5.1 years ago. Valid HTTPS/SSL certificate in
+  dselectronicstransformer.com scores 85/100 on our public trust checks.
+  Established domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:42:32.266Z'
+fetchedAt: '2026-08-10T06:02:57.955Z'
 finalUrl: 'https://dselectronicstransformer.com/'
 reachable: true
 noindex: false
@@ -16,16 +16,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.1 years ago.
+    - Established domain — registered 5.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -45,29 +45,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-03'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-05-27'
-      ageDays: 1854
-      ageYears: 5.1
-    detail: Registered 5.1 years ago (2021-05-27).
+      ageDays: 1901
+      ageYears: 5.2
+    detail: Registered 5.2 years ago (2021-05-27).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dselectronicstransformer.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dselectronicstransformer.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dselectronicstransformer in the score above.
 

@@ -4,8 +4,8 @@ slug: projectmachinery-co-uk
 title: Is projectmachinery.co.uk Legit? Trust Score 73/100
 description: >-
   projectmachinery.co.uk scores 73/100 on our public trust checks. Established
-  domain — registered 23.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:33:00.775Z'
+  domain — registered 23.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:38:07.495Z'
 finalUrl: 'https://www.projectmachinery.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.7 years ago.
+    - Established domain — registered 23.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2002-10-11'
-      ageDays: 8658
-      ageYears: 23.7
-    detail: Registered 23.7 years ago (2002-10-11).
+      ageDays: 8704
+      ageYears: 23.8
+    detail: Registered 23.8 years ago (2002-10-11).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-projectmachinery.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 23.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+projectmachinery.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 23.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Projectmachinery in the score above.
 

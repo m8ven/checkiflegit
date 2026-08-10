@@ -1,30 +1,29 @@
 ---
 domain: volleyball100.de
 slug: volleyball100-de
-title: Is volleyball100.de Legit? Trust Score 40/100
+title: Is volleyball100.de Legit? Trust Score 66/100
 description: >-
-  volleyball100.de scores 40/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T12:19:19.920Z'
+  volleyball100.de scores 66/100 on our public trust checks. Some standard
+  policy or contact pages appear to be missing.
+fetchedAt: '2026-08-10T06:26:57.995Z'
 finalUrl: 'https://unitedvolleys.de/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 40
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 66
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
+  redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
@@ -65,12 +64,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: fail
+    status: warn
     value:
       email: false
       phone: false
-      address: false
-    detail: No public contact details detected on the homepage.
+      address: true
+    detail: 'Public contact details found: address.'
   social:
     status: pass
     value:
@@ -92,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for volleyball100.de. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+volleyball100.de sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Volleyball100 in the score above.
 

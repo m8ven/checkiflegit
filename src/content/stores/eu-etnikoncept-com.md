@@ -5,7 +5,7 @@ title: Is eu.etnikoncept.com Legit? Trust Score 49/100
 description: >-
   eu.etnikoncept.com scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T03:42:43.326Z'
+fetchedAt: '2026-08-10T06:02:57.979Z'
 finalUrl: 'https://eu.etnikoncept.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

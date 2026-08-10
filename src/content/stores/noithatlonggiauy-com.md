@@ -1,29 +1,28 @@
 ---
 domain: noithatlonggiauy.com
 slug: noithatlonggiauy-com
-title: Is noithatlonggiauy.com Legit? Trust Score 55/100
+title: Is noithatlonggiauy.com Legit? Trust Score 85/100
 description: >-
-  noithatlonggiauy.com scores 55/100 on our public trust checks. Standard
-  contact and policy pages were not found. No links to major social platforms
-  found.
-fetchedAt: '2026-06-25T03:01:57.945Z'
+  noithatlonggiauy.com scores 85/100 on our public trust checks. Established
+  domain — registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:39.743Z'
 finalUrl: 'https://noithatlonggiauy.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 55
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.3 years ago.
+    - Established domain — registered 8.5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
-    - Standard contact and policy pages were not found.
     - No links to major social platforms found.
   cautions: []
 signals:
@@ -45,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
+      contact: true
+      privacy: true
       terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-02-23'
-      ageDays: 3043
-      ageYears: 8.3
-    detail: Registered 8.3 years ago (2018-02-23).
+      ageDays: 3089
+      ageYears: 8.5
+    detail: Registered 8.5 years ago (2018-02-23).
   contact:
     status: pass
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-noithatlonggiauy.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.3 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+noithatlonggiauy.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.5 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Noithatlonggiauy in the score above.
 

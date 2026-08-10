@@ -5,7 +5,7 @@ title: Is gymusastore.com Legit? Trust Score 82/100
 description: >-
   gymusastore.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:50:46.076Z'
+fetchedAt: '2026-08-10T06:04:00.724Z'
 finalUrl: 'https://gymusastore.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-08-25'
-      ageDays: 303
-      ageYears: 0.8
-    detail: Registered 0.8 years ago (2025-08-25).
+      ageDays: 349
+      ageYears: 1
+    detail: Registered 1 years ago (2025-08-25).
   contact:
     status: pass
     value:

@@ -4,8 +4,8 @@ slug: brijya-com
 title: Is brijya.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   brijya.com scores 100/100 on our public trust checks. Established domain —
-  registered 6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:37:35.471Z'
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:33.396Z'
 finalUrl: 'https://brijya.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6 years ago.
+    - Established domain — registered 6.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-31'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-06-23'
-      ageDays: 2192
-      ageYears: 6
-    detail: Registered 6 years ago (2020-06-23).
+      ageDays: 2238
+      ageYears: 6.1
+    detail: Registered 6.1 years ago (2020-06-23).
   contact:
     status: pass
     value:
@@ -77,14 +77,14 @@ signals:
   social:
     status: pass
     value:
-      facebook: false
+      facebook: true
       instagram: true
       twitter: true
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: true
-    detail: 'Links to 3 social platform(s): instagram, twitter, pinterest.'
+    detail: 'Links to 4 social platform(s): facebook, instagram, twitter, pinterest.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-brijya.com looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+brijya.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Brijya in the score above.
 

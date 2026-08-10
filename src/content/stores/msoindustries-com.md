@@ -1,24 +1,25 @@
 ---
 domain: msoindustries.com
 slug: msoindustries-com
-title: Is msoindustries.com Legit? Trust Score 66/100
+title: Is msoindustries.com Legit? Trust Score 73/100
 description: >-
-  msoindustries.com scores 66/100 on our public trust checks. No links to major
-  social platforms found.
-fetchedAt: '2026-06-25T02:56:31.220Z'
+  msoindustries.com scores 73/100 on our public trust checks. Established domain
+  — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:20.457Z'
 finalUrl: 'https://msoindustries.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 66
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.3 years ago.
+    - Established domain — registered 9.4 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
@@ -52,16 +53,20 @@ signals:
       shipping: false
     detail: Found 0 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: GoDaddy.com
+      validTo: '2026-10-09'
+      daysToExpiry: 60
+      authorized: true
+    detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2017-03-10'
-      ageDays: 3393
-      ageYears: 9.3
-    detail: Registered 9.3 years ago (2017-03-10).
+      ageDays: 3439
+      ageYears: 9.4
+    detail: Registered 9.4 years ago (2017-03-10).
   contact:
     status: pass
     value:
@@ -90,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-msoindustries.com sends a mixed set of signals. On the positive side, its domain has been registered for 9.3 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+msoindustries.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Msoindustries in the score above.
 

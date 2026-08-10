@@ -6,7 +6,7 @@ description: >-
   peridotsa.co.za scores 57/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T11:55:49.354Z'
+fetchedAt: '2026-08-10T06:07:39.855Z'
 finalUrl: 'https://peridotsa.co.za/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-01'
-      daysToExpiry: 68
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

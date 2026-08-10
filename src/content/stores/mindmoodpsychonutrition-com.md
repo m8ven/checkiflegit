@@ -4,9 +4,9 @@ slug: mindmoodpsychonutrition-com
 title: Is mindmoodpsychonutrition.com Legit? Trust Score 100/100
 description: >-
   mindmoodpsychonutrition.com scores 100/100 on our public trust checks.
-  Established domain — registered 6 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:30:50.654Z'
+fetchedAt: '2026-08-10T06:36:19.081Z'
 finalUrl: 'https://mindmoodpsychonutrition.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6 years ago.
+    - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-09-29'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-06-10'
-      ageDays: 2205
-      ageYears: 6
-    detail: Registered 6 years ago (2020-06-10).
+      ageDays: 2251
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-06-10).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mindmoodpsychonutrition.com looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mindmoodpsychonutrition.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mindmoodpsychonutrition in the score above.
 

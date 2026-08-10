@@ -5,7 +5,7 @@ title: Is moottori.fi Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   moottori.fi scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:56:08.535Z'
+fetchedAt: '2026-08-10T06:06:10.873Z'
 finalUrl: 'https://moottori.fi/'
 reachable: true
 noindex: false
@@ -47,16 +47,16 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: true
+      terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

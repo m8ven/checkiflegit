@@ -1,11 +1,11 @@
 ---
 domain: marsettirecycling.it
 slug: marsettirecycling-it
-title: Is marsettirecycling.it Legit? Trust Score 88/100
+title: Is marsettirecycling.it Legit? Trust Score 100/100
 description: >-
-  marsettirecycling.it scores 88/100 on our public trust checks. Established
-  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:16:31.407Z'
+  marsettirecycling.it scores 100/100 on our public trust checks. Established
+  domain — registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:24:41.043Z'
 finalUrl: 'https://marsettirecycling.it/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-13'
-      daysToExpiry: 18
+      validTo: '2026-10-08'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
-      createdAt: '2020-11-04'
-      ageDays: 2059
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-11-04).
+      createdAt: '2020-11-03'
+      ageDays: 2105
+      ageYears: 5.8
+    detail: Registered 5.8 years ago (2020-11-03).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-marsettirecycling.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+marsettirecycling.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Marsettirecycling in the score above.
 

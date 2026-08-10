@@ -5,7 +5,7 @@ title: Is surrealerotik.de Legit? Trust Score 36/100
 description: >-
   surrealerotik.de scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:13:36.491Z'
+fetchedAt: '2026-08-10T06:22:11.598Z'
 finalUrl: 'https://surrealerotik.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-26'
-      daysToExpiry: 185
+      daysToExpiry: 139
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

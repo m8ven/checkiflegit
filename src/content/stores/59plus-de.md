@@ -6,7 +6,7 @@ description: >-
   59plus.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:11:22.203Z'
+fetchedAt: '2026-08-10T06:20:08.667Z'
 finalUrl: 'https://www.59plus.de/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,168 +1,168 @@
 {
-  "generatedAt": "2026-08-03T08:37:32.131Z",
+  "generatedAt": "2026-08-10T06:38:54.539Z",
   "counts": {
     "filesOnDisk": 10960,
-    "indexable": 10515,
-    "noindexExcluded": 445
+    "indexable": 10502,
+    "noindexExcluded": 458
   },
   "contactPage": {
-    "measured": 10515,
+    "measured": 10502,
     "unmeasured": 0,
-    "missing": 1411,
-    "present": 9104,
-    "pctMissingOfAll": 13.42,
-    "pctMissingOfMeasured": 13.42
+    "missing": 1353,
+    "present": 9149,
+    "pctMissingOfAll": 12.88,
+    "pctMissingOfMeasured": 12.88
   },
   "policyPages": {
-    "measured": 10515,
+    "measured": 10502,
     "perType": {
       "privacy": {
-        "measured": 10515,
-        "missing": 3772,
-        "pctMissing": 35.87
+        "measured": 10502,
+        "missing": 3671,
+        "pctMissing": 34.96
       },
       "terms": {
-        "measured": 10515,
-        "missing": 4447,
-        "pctMissing": 42.29
+        "measured": 10502,
+        "missing": 4300,
+        "pctMissing": 40.94
       },
       "refund": {
-        "measured": 10515,
-        "missing": 6925,
-        "pctMissing": 65.86
+        "measured": 10502,
+        "missing": 6736,
+        "pctMissing": 64.14
       },
       "shipping": {
-        "measured": 10515,
-        "missing": 7168,
-        "pctMissing": 68.17
+        "measured": 10502,
+        "missing": 6987,
+        "pctMissing": 66.53
       }
     },
     "missingAllFour": {
-      "n": 2395,
-      "pct": 22.78
+      "n": 2259,
+      "pct": 21.51
     },
     "missingAnyOfFour": {
-      "n": 8396,
-      "pct": 79.85
+      "n": 8284,
+      "pct": 78.88
     },
     "missingAllCoreThree": {
-      "n": 2567,
-      "pct": 24.41
+      "n": 2437,
+      "pct": 23.21
     },
     "missingAnyCoreThree": {
-      "n": 7654,
-      "pct": 72.79
+      "n": 7519,
+      "pct": 71.6
     },
     "countHeldDistribution": {
-      "0": 2395,
-      "1": 2190,
-      "2": 2351,
-      "3": 1460,
-      "4": 2119
+      "0": 2259,
+      "1": 2131,
+      "2": 2371,
+      "3": 1523,
+      "4": 2218
     }
   },
   "reviews": {
     "trustpilotValueTally": {
-      "trustpilot=unknown": 10515
+      "trustpilot=unknown": 10502
     },
     "signalStatusTally": {
-      "unknown": 10515
+      "unknown": 10502
     }
   },
   "domainAge": {
-    "measured": 7560,
-    "unknown": 2955,
-    "pctUnknown": 28.1,
+    "measured": 7576,
+    "unknown": 2926,
+    "pctUnknown": 27.86,
     "under6mo": {
-      "n": 62,
-      "pctOfMeasured": 0.82,
-      "pctOfAll": 0.59
+      "n": 55,
+      "pctOfMeasured": 0.73,
+      "pctOfAll": 0.52
     },
     "under1yr": {
-      "n": 213,
-      "pctOfMeasured": 2.82,
-      "pctOfAll": 2.03
+      "n": 203,
+      "pctOfMeasured": 2.68,
+      "pctOfAll": 1.93
     },
     "under2yr": {
-      "n": 659,
-      "pctOfMeasured": 8.72,
-      "pctOfAll": 6.27
+      "n": 645,
+      "pctOfMeasured": 8.51,
+      "pctOfAll": 6.14
     },
     "medianAgeYears": 8.9
   },
   "social": {
-    "measured": 10515,
-    "noneFound": 2882,
-    "pctNone": 27.41,
+    "measured": 10502,
+    "noneFound": 2907,
+    "pctNone": 27.68,
     "perPlatformPresent": {
       "facebook": {
-        "present": 6608,
-        "pct": 62.84
+        "present": 6578,
+        "pct": 62.64
       },
       "instagram": {
-        "present": 5563,
-        "pct": 52.91
+        "present": 5536,
+        "pct": 52.71
       },
       "twitter": {
-        "present": 2388,
-        "pct": 22.71
+        "present": 2375,
+        "pct": 22.61
       },
       "tiktok": {
-        "present": 1186,
-        "pct": 11.28
+        "present": 1179,
+        "pct": 11.23
       },
       "youtube": {
-        "present": 2583,
-        "pct": 24.56
+        "present": 2574,
+        "pct": 24.51
       },
       "linkedin": {
-        "present": 1592,
-        "pct": 15.14
+        "present": 1581,
+        "pct": 15.05
       },
       "pinterest": {
-        "present": 1379,
-        "pct": 13.11
+        "present": 1382,
+        "pct": 13.16
       }
     }
   },
   "verdict": {
     "tiers": {
       "strong": {
-        "n": 7660,
-        "pct": 72.85
+        "n": 7706,
+        "pct": 73.38
       },
       "moderate": {
-        "n": 1942,
-        "pct": 18.47
+        "n": 1897,
+        "pct": 18.06
       },
       "limited": {
-        "n": 913,
-        "pct": 8.68
+        "n": 899,
+        "pct": 8.56
       }
     },
-    "meanScore": 76.8,
-    "medianScore": 82
+    "meanScore": 77.1,
+    "medianScore": 83
   },
   "platform": {
     "WooCommerce": {
-      "n": 9056,
-      "pct": 86.12
+      "n": 8972,
+      "pct": 85.43
     },
     "Shopify": {
-      "n": 779,
-      "pct": 7.41
+      "n": 782,
+      "pct": 7.45
     },
     "Undetected": {
-      "n": 518,
-      "pct": 4.93
+      "n": 586,
+      "pct": 5.58
     },
     "Salesforce Commerce": {
-      "n": 85,
-      "pct": 0.81
+      "n": 84,
+      "pct": 0.8
     },
     "Magento": {
-      "n": 56,
-      "pct": 0.53
+      "n": 57,
+      "pct": 0.54
     },
     "PrestaShop": {
       "n": 10,
@@ -182,28 +182,28 @@
     "top15": [
       {
         "tld": ".com",
-        "n": 4727,
-        "pct": 44.95
+        "n": 4723,
+        "pct": 44.97
       },
       {
         "tld": ".de",
         "n": 365,
-        "pct": 3.47
+        "pct": 3.48
       },
       {
         "tld": ".ru",
         "n": 319,
-        "pct": 3.03
+        "pct": 3.04
       },
       {
         "tld": ".org",
         "n": 281,
-        "pct": 2.67
+        "pct": 2.68
       },
       {
         "tld": ".co.uk",
         "n": 260,
-        "pct": 2.47
+        "pct": 2.48
       },
       {
         "tld": ".nl",
@@ -217,8 +217,8 @@
       },
       {
         "tld": ".fr",
-        "n": 231,
-        "pct": 2.2
+        "n": 229,
+        "pct": 2.18
       },
       {
         "tld": ".pl",
@@ -228,11 +228,11 @@
       {
         "tld": ".net",
         "n": 215,
-        "pct": 2.04
+        "pct": 2.05
       },
       {
         "tld": ".es",
-        "n": 156,
+        "n": 155,
         "pct": 1.48
       },
       {
@@ -247,8 +247,8 @@
       },
       {
         "tld": ".eu",
-        "n": 107,
-        "pct": 1.02
+        "n": 106,
+        "pct": 1.01
       },
       {
         "tld": ".vn",
@@ -260,237 +260,237 @@
   "missingSignals": [
     {
       "signal": "Physical address",
-      "missing": 8787,
-      "measured": 10515,
-      "pctMissing": 83.57
+      "missing": 8597,
+      "measured": 10502,
+      "pctMissing": 81.86
     },
     {
       "signal": "Shipping policy",
-      "missing": 7168,
-      "measured": 10515,
-      "pctMissing": 68.17
+      "missing": 6987,
+      "measured": 10502,
+      "pctMissing": 66.53
     },
     {
       "signal": "Returns/refund policy",
-      "missing": 6925,
-      "measured": 10515,
-      "pctMissing": 65.86
+      "missing": 6736,
+      "measured": 10502,
+      "pctMissing": 64.14
     },
     {
       "signal": "Public email address",
-      "missing": 4690,
-      "measured": 10515,
-      "pctMissing": 44.6
+      "missing": 4694,
+      "measured": 10502,
+      "pctMissing": 44.7
     },
     {
       "signal": "Terms of service",
-      "missing": 4447,
-      "measured": 10515,
-      "pctMissing": 42.29
+      "missing": 4300,
+      "measured": 10502,
+      "pctMissing": 40.94
     },
     {
       "signal": "Privacy policy",
-      "missing": 3772,
-      "measured": 10515,
-      "pctMissing": 35.87
+      "missing": 3671,
+      "measured": 10502,
+      "pctMissing": 34.96
     },
     {
       "signal": "Any social media",
-      "missing": 2882,
-      "measured": 10515,
-      "pctMissing": 27.41
+      "missing": 2907,
+      "measured": 10502,
+      "pctMissing": 27.68
     },
     {
       "signal": "Public phone number",
-      "missing": 2287,
-      "measured": 10515,
-      "pctMissing": 21.75
+      "missing": 2309,
+      "measured": 10502,
+      "pctMissing": 21.99
     },
     {
       "signal": "Contact page",
-      "missing": 1411,
-      "measured": 10515,
-      "pctMissing": 13.42
+      "missing": 1353,
+      "measured": 10502,
+      "pctMissing": 12.88
     },
     {
       "signal": "Valid SSL",
-      "missing": 52,
-      "measured": 10387,
-      "pctMissing": 0.5
+      "missing": 60,
+      "measured": 10413,
+      "pctMissing": 0.58
     }
   ],
   "platformDetail": [
     {
       "platform": "WooCommerce",
-      "n": 9056,
-      "pctPrivacy": 59.83,
-      "pctTerms": 52.4,
-      "pctRefund": 25.81,
-      "pctShipping": 24.99,
-      "pctContactPage": 85.47,
-      "pctNoSocial": 25.31,
-      "medianAgeYears": 8.5,
-      "pctSslValid": 99.16,
-      "pctEmail": 59.04,
-      "pctPhone": 83.12,
-      "meanScore": 77.5
+      "n": 8972,
+      "pctPrivacy": 60.83,
+      "pctTerms": 53.92,
+      "pctRefund": 27.71,
+      "pctShipping": 26.73,
+      "pctContactPage": 86.16,
+      "pctNoSocial": 25.26,
+      "medianAgeYears": 8.6,
+      "pctSslValid": 99.1,
+      "pctEmail": 59.16,
+      "pctPhone": 83.19,
+      "meanScore": 78.1
     },
     {
       "platform": "Shopify",
-      "n": 779,
-      "pctPrivacy": 92.68,
-      "pctTerms": 92.55,
-      "pctRefund": 87.68,
-      "pctShipping": 66.11,
-      "pctContactPage": 93.97,
-      "pctNoSocial": 11.81,
-      "medianAgeYears": 11.2,
+      "n": 782,
+      "pctPrivacy": 92.71,
+      "pctTerms": 92.58,
+      "pctRefund": 87.72,
+      "pctShipping": 66.75,
+      "pctContactPage": 93.99,
+      "pctNoSocial": 11.76,
+      "medianAgeYears": 11.1,
       "pctSslValid": 99.36,
-      "pctEmail": 52.25,
-      "pctPhone": 70.47,
+      "pctEmail": 52.17,
+      "pctPhone": 70.08,
       "meanScore": 85.4
     },
     {
       "platform": "Undetected",
-      "n": 518,
-      "pctPrivacy": 89,
-      "pctTerms": 88.03,
-      "pctRefund": 85.14,
-      "pctShipping": 85.33,
-      "pctContactPage": 91.7,
-      "pctNoSocial": 94.4,
-      "medianAgeYears": 8,
-      "pctSslValid": 96.11,
-      "pctEmail": 3.28,
-      "pctPhone": 5.02,
-      "meanScore": 48.5
+      "n": 586,
+      "pctPrivacy": 86.35,
+      "pctTerms": 84.3,
+      "pctRefund": 79.35,
+      "pctShipping": 80.03,
+      "pctContactPage": 89.93,
+      "pctNoSocial": 92.15,
+      "medianAgeYears": 7.6,
+      "pctSslValid": 95.7,
+      "pctEmail": 6.48,
+      "pctPhone": 9.39,
+      "meanScore": 49.3
     },
     {
       "platform": "Salesforce Commerce",
-      "n": 85,
-      "pctPrivacy": 90.59,
-      "pctTerms": 90.59,
-      "pctRefund": 88.24,
-      "pctShipping": 84.71,
-      "pctContactPage": 95.29,
-      "pctNoSocial": 5.88,
+      "n": 84,
+      "pctPrivacy": 90.48,
+      "pctTerms": 90.48,
+      "pctRefund": 88.1,
+      "pctShipping": 84.52,
+      "pctContactPage": 95.24,
+      "pctNoSocial": 5.95,
       "medianAgeYears": 28.6,
-      "pctSslValid": 90.36,
-      "pctEmail": 23.53,
-      "pctPhone": 75.29,
+      "pctSslValid": 90.24,
+      "pctEmail": 23.81,
+      "pctPhone": 75,
       "meanScore": 82.9
     },
     {
       "platform": "Magento",
-      "n": 56,
-      "pctPrivacy": 83.93,
-      "pctTerms": 89.29,
-      "pctRefund": 75,
-      "pctShipping": 75,
-      "pctContactPage": 98.21,
-      "pctNoSocial": 5.36,
-      "medianAgeYears": 23.7,
+      "n": 57,
+      "pctPrivacy": 84.21,
+      "pctTerms": 89.47,
+      "pctRefund": 75.44,
+      "pctShipping": 73.68,
+      "pctContactPage": 98.25,
+      "pctNoSocial": 5.26,
+      "medianAgeYears": 23.6,
       "pctSslValid": 100,
-      "pctEmail": 39.29,
-      "pctPhone": 75,
+      "pctEmail": 38.6,
+      "pctPhone": 75.44,
       "meanScore": 86.5
     }
   ],
   "correlationAgeVsTrust": [
     {
       "bucket": "<6 months",
-      "n": 62,
-      "pctNoCorePolicy": 29,
-      "pctNoContactPage": 19.4,
-      "pctNoSocial": 53.2,
-      "avgPolicyPagesOf4": 1.92,
-      "meanScore": 47.9
+      "n": 55,
+      "pctNoCorePolicy": 29.1,
+      "pctNoContactPage": 18.2,
+      "pctNoSocial": 52.7,
+      "avgPolicyPagesOf4": 1.95,
+      "meanScore": 49.5
     },
     {
       "bucket": "6–12 months",
-      "n": 151,
-      "pctNoCorePolicy": 22.5,
-      "pctNoContactPage": 10.6,
-      "pctNoSocial": 45.7,
-      "avgPolicyPagesOf4": 1.91,
-      "meanScore": 59.8
+      "n": 148,
+      "pctNoCorePolicy": 22.3,
+      "pctNoContactPage": 10.8,
+      "pctNoSocial": 50.7,
+      "avgPolicyPagesOf4": 2.01,
+      "meanScore": 59.3
     },
     {
       "bucket": "1–2 years",
-      "n": 446,
-      "pctNoCorePolicy": 29.8,
-      "pctNoContactPage": 14.3,
-      "pctNoSocial": 42.8,
-      "avgPolicyPagesOf4": 1.76,
+      "n": 442,
+      "pctNoCorePolicy": 28.7,
+      "pctNoContactPage": 14.7,
+      "pctNoSocial": 43.2,
+      "avgPolicyPagesOf4": 1.83,
       "meanScore": 76.5
     },
     {
       "bucket": "2–5 years",
-      "n": 1493,
-      "pctNoCorePolicy": 26.3,
-      "pctNoContactPage": 14.1,
-      "pctNoSocial": 33.7,
-      "avgPolicyPagesOf4": 1.84,
-      "meanScore": 78.5
+      "n": 1489,
+      "pctNoCorePolicy": 25.1,
+      "pctNoContactPage": 13.4,
+      "pctNoSocial": 34.5,
+      "avgPolicyPagesOf4": 1.9,
+      "meanScore": 78.6
     },
     {
       "bucket": "5–10 years",
-      "n": 2020,
-      "pctNoCorePolicy": 25.9,
-      "pctNoContactPage": 13.1,
-      "pctNoSocial": 27.8,
-      "avgPolicyPagesOf4": 1.85,
-      "meanScore": 79.3
+      "n": 2038,
+      "pctNoCorePolicy": 24.3,
+      "pctNoContactPage": 12.9,
+      "pctNoSocial": 27.7,
+      "avgPolicyPagesOf4": 1.91,
+      "meanScore": 79.6
     },
     {
       "bucket": "10+ years",
-      "n": 3388,
-      "pctNoCorePolicy": 20.2,
+      "n": 3404,
+      "pctNoCorePolicy": 19.4,
       "pctNoContactPage": 8.6,
-      "pctNoSocial": 22.2,
-      "avgPolicyPagesOf4": 1.98,
-      "meanScore": 81.4
+      "pctNoSocial": 22.3,
+      "avgPolicyPagesOf4": 2.02,
+      "meanScore": 81.6
     }
   ],
   "correlationPlatformVsTrust": [
     {
       "platform": "WooCommerce",
-      "n": 9056,
-      "avgPolicyPagesOf4": 1.63,
-      "pctNoContactPage": 14.5,
-      "meanScore": 77.5
+      "n": 8972,
+      "avgPolicyPagesOf4": 1.69,
+      "pctNoContactPage": 13.8,
+      "meanScore": 78.1
     },
     {
       "platform": "Shopify",
-      "n": 779,
-      "avgPolicyPagesOf4": 3.39,
+      "n": 782,
+      "avgPolicyPagesOf4": 3.4,
       "pctNoContactPage": 6,
       "meanScore": 85.4
     },
     {
       "platform": "Undetected",
-      "n": 518,
-      "avgPolicyPagesOf4": 3.47,
-      "pctNoContactPage": 8.3,
-      "meanScore": 48.5
+      "n": 586,
+      "avgPolicyPagesOf4": 3.3,
+      "pctNoContactPage": 10.1,
+      "meanScore": 49.3
     },
     {
       "platform": "Salesforce Commerce",
-      "n": 85,
+      "n": 84,
       "avgPolicyPagesOf4": 3.54,
-      "pctNoContactPage": 4.7,
+      "pctNoContactPage": 4.8,
       "meanScore": 82.9
     },
     {
       "platform": "Magento",
-      "n": 56,
+      "n": 57,
       "avgPolicyPagesOf4": 3.23,
       "pctNoContactPage": 1.8,
       "meanScore": 86.5
     }
   ],
   "correlationAgeScorePearson": {
-    "n": 7560,
-    "r": 0.146
+    "n": 7576,
+    "r": 0.144
   }
 }

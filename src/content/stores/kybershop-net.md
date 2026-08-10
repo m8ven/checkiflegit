@@ -4,8 +4,8 @@ slug: kybershop-net
 title: Is kybershop.net Legit? Trust Score 100/100
 description: >-
   kybershop.net scores 100/100 on our public trust checks. Established domain —
-  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:17:13.622Z'
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:25:15.551Z'
 finalUrl: 'https://kybershop.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-17'
-      daysToExpiry: 84
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-11-20'
-      ageDays: 2043
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-11-20).
+      ageDays: 2089
+      ageYears: 5.7
+    detail: Registered 5.7 years ago (2020-11-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kybershop.net looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kybershop.net looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kybershop in the score above.
 

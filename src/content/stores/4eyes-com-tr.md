@@ -5,7 +5,7 @@ title: Is 4eyes.com.tr Legit? Trust Score 83/100
 description: >-
   4eyes.com.tr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:22:42.379Z'
+fetchedAt: '2026-08-10T06:29:43.375Z'
 finalUrl: 'https://www.4eyes.com.tr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 61
+      validTo: '2026-10-25'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

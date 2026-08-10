@@ -5,7 +5,7 @@ title: Is tienda.microlider.com.py Legit? Trust Score 83/100
 description: >-
   tienda.microlider.com.py scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:15:42.500Z'
+fetchedAt: '2026-08-10T06:23:51.193Z'
 finalUrl: 'https://tienda.microlider.com.py/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-19'
-      daysToExpiry: 56
+      daysToExpiry: 10
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

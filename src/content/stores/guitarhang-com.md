@@ -6,7 +6,7 @@ description: >-
   guitarhang.com scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T12:32:23.421Z'
+fetchedAt: '2026-08-10T06:37:41.005Z'
 finalUrl: 'https://www.guitarhang.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.4 years ago.
+    - Established domain — registered 11.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-12-23'
-      daysToExpiry: 182
+      daysToExpiry: 136
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2015-01-15'
-      ageDays: 4178
-      ageYears: 11.4
-    detail: Registered 11.4 years ago (2015-01-15).
+      ageDays: 4224
+      ageYears: 11.6
+    detail: Registered 11.6 years ago (2015-01-15).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-guitarhang.com sends a mixed set of signals. On the positive side, its domain has been registered for 11.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+guitarhang.com sends a mixed set of signals. On the positive side, its domain has been registered for 11.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Guitarhang in the score above.
 

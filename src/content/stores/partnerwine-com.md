@@ -4,8 +4,8 @@ slug: partnerwine-com
 title: Is partnerwine.com Legit? Trust Score 100/100
 description: >-
   partnerwine.com scores 100/100 on our public trust checks. Established domain
-  — registered 9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:25:09.194Z'
+  — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:31:31.278Z'
 finalUrl: 'https://www.partnerwine.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9 years ago.
+    - Established domain — registered 9.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-01'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-06-29'
-      ageDays: 3283
-      ageYears: 9
-    detail: Registered 9 years ago (2017-06-29).
+      ageDays: 3328
+      ageYears: 9.1
+    detail: Registered 9.1 years ago (2017-06-29).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-partnerwine.com looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+partnerwine.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Partnerwine in the score above.
 

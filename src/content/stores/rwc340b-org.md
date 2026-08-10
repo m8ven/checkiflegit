@@ -5,7 +5,7 @@ title: Is rwc340b.org Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   rwc340b.org scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T12:01:21.111Z'
+fetchedAt: '2026-08-10T06:12:03.751Z'
 finalUrl: 'https://rwc340b.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.7 years ago.
+    - Established domain — registered 12.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-20'
-      daysToExpiry: 87
+      issuer: Google Trust Services
+      validTo: '2026-11-05'
+      daysToExpiry: 88
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-10-21'
-      ageDays: 4629
-      ageYears: 12.7
-    detail: Registered 12.7 years ago (2013-10-21).
+      ageDays: 4675
+      ageYears: 12.8
+    detail: Registered 12.8 years ago (2013-10-21).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rwc340b.org sends a mixed set of signals. On the positive side, its domain has been registered for 12.7 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+rwc340b.org sends a mixed set of signals. On the positive side, its domain has been registered for 12.8 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rwc340b in the score above.
 

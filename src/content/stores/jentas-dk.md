@@ -5,7 +5,7 @@ title: Is jentas.dk Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   jentas.dk scores 55/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:25:00.694Z'
+fetchedAt: '2026-08-10T06:31:26.094Z'
 finalUrl: 'https://www.jentas.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.6 years ago.
+    - Established domain — registered 20.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 33
+      validTo: '2026-09-26'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-11-09'
-      ageDays: 7533
-      ageYears: 20.6
-    detail: Registered 20.6 years ago (2005-11-09).
+      ageDays: 7579
+      ageYears: 20.8
+    detail: Registered 20.8 years ago (2005-11-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jentas.dk sends a mixed set of signals. On the positive side, its domain has been registered for 20.6 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+jentas.dk sends a mixed set of signals. On the positive side, its domain has been registered for 20.8 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jentas in the score above.
 

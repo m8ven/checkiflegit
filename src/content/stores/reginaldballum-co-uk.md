@@ -4,8 +4,8 @@ slug: reginaldballum-co-uk
 title: Is reginaldballum.co.uk Legit? Trust Score 100/100
 description: >-
   reginaldballum.co.uk scores 100/100 on our public trust checks. Established
-  domain — registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:05:54.634Z'
+  domain — registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:15:37.530Z'
 finalUrl: 'https://reginaldballum.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.4 years ago.
+    - Established domain — registered 12.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 57
+      validTo: '2026-10-21'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-01-25'
-      ageDays: 4534
-      ageYears: 12.4
-    detail: Registered 12.4 years ago (2014-01-25).
+      ageDays: 4580
+      ageYears: 12.5
+    detail: Registered 12.5 years ago (2014-01-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-reginaldballum.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+reginaldballum.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 12.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Reginaldballum in the score above.
 

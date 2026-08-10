@@ -5,7 +5,7 @@ title: Is kalgo.co.il Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   kalgo.co.il scores 49/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T12:21:42.884Z'
+fetchedAt: '2026-08-10T06:28:58.201Z'
 finalUrl: 'https://www.kalgo.co.il/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-26'
-      daysToExpiry: 62
+      validTo: '2026-10-24'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

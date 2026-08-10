@@ -4,8 +4,8 @@ slug: surplusgroup-com
 title: Is surplusgroup.com Legit? Trust Score 100/100
 description: >-
   surplusgroup.com scores 100/100 on our public trust checks. Established domain
-  — registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:13:36.335Z'
+  — registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:22:08.264Z'
 finalUrl: 'https://surplusgroup.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.4 years ago.
+    - Established domain — registered 21.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-02-13'
-      ageDays: 7801
-      ageYears: 21.4
-    detail: Registered 21.4 years ago (2005-02-13).
+      ageDays: 7847
+      ageYears: 21.5
+    detail: Registered 21.5 years ago (2005-02-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-surplusgroup.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+surplusgroup.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Surplusgroup in the score above.
 

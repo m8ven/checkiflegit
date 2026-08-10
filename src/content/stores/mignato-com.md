@@ -4,8 +4,8 @@ slug: mignato-com
 title: Is mignato.com Legit? Trust Score 100/100
 description: >-
   mignato.com scores 100/100 on our public trust checks. Established domain —
-  registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:54:33.650Z'
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:04:45.083Z'
 finalUrl: 'https://mignato.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.7 years ago.
+    - Established domain — registered 9.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-04'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-10-04'
-      ageDays: 3550
-      ageYears: 9.7
-    detail: Registered 9.7 years ago (2016-10-04).
+      ageDays: 3596
+      ageYears: 9.9
+    detail: Registered 9.9 years ago (2016-10-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mignato.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mignato.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mignato in the score above.
 

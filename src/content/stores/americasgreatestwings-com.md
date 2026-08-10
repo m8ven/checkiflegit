@@ -5,7 +5,7 @@ title: Is americasgreatestwings.com Legit? Trust Score 70/100
 description: >-
   americasgreatestwings.com scores 70/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:33:00.132Z'
+fetchedAt: '2026-08-10T06:02:07.198Z'
 finalUrl: 'https://americasgreatestwings.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-08-14'
-      ageDays: 314
-      ageYears: 0.9
-    detail: Registered 0.9 years ago (2025-08-14).
+      ageDays: 360
+      ageYears: 1
+    detail: Registered 1 years ago (2025-08-14).
   contact:
     status: warn
     value:

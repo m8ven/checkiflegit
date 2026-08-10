@@ -1,11 +1,11 @@
 ---
 domain: nepalibazar.pl
 slug: nepalibazar-pl
-title: Is nepalibazar.pl Legit? Trust Score 82/100
+title: Is nepalibazar.pl Legit? Trust Score 88/100
 description: >-
-  nepalibazar.pl scores 82/100 on our public trust checks. Established domain —
-  registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:13.214Z'
+  nepalibazar.pl scores 88/100 on our public trust checks. Established domain —
+  registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:54.511Z'
 finalUrl: 'https://nepalibazar.pl/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.7 years ago.
+    - Established domain — registered 1.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Only limited contact details were found.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
-      createdAt: '2024-10-09'
-      ageDays: 624
-      ageYears: 1.7
-    detail: Registered 1.7 years ago (2024-10-09).
+      createdAt: '2024-10-08'
+      ageDays: 670
+      ageYears: 1.8
+    detail: Registered 1.8 years ago (2024-10-08).
   contact:
     status: warn
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: warn
+    status: pass
     value:
       facebook: true
       instagram: false
-      twitter: false
+      twitter: true
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+      pinterest: true
+    detail: 'Links to 3 social platform(s): facebook, twitter, pinterest.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nepalibazar.pl looks like a well-established store. The clearest positives are that its domain has been registered for 1.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nepalibazar.pl looks like a well-established store. The clearest positives are that its domain has been registered for 1.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nepalibazar in the score above.
 

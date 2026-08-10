@@ -5,7 +5,7 @@ title: Is la-comunitaria.net Legit? Trust Score 55/100
 description: >-
   la-comunitaria.net scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:17:17.370Z'
+fetchedAt: '2026-08-10T06:25:18.287Z'
 finalUrl: 'https://la-comunitaria.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.1 years ago.
+    - Established domain — registered 4.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-08-29'
-      daysToExpiry: 65
+      issuer: Let's Encrypt
+      validTo: '2026-09-29'
+      daysToExpiry: 51
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-05-31'
-      ageDays: 1486
-      ageYears: 4.1
-    detail: Registered 4.1 years ago (2022-05-31).
+      ageDays: 1532
+      ageYears: 4.2
+    detail: Registered 4.2 years ago (2022-05-31).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-la-comunitaria.net sends a mixed set of signals. On the positive side, its domain has been registered for 4.1 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+la-comunitaria.net sends a mixed set of signals. On the positive side, its domain has been registered for 4.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against La-comunitaria in the score above.
 

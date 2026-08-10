@@ -1,11 +1,11 @@
 ---
 domain: speckshoponline.com
 slug: speckshoponline-com
-title: Is speckshoponline.com Legit? Trust Score 88/100
+title: Is speckshoponline.com Legit? Trust Score 100/100
 description: >-
-  speckshoponline.com scores 88/100 on our public trust checks. Established
-  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:12:01.625Z'
+  speckshoponline.com scores 100/100 on our public trust checks. Established
+  domain — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:20:42.264Z'
 finalUrl: 'https://speckshoponline.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 6.3 years ago.
+    - Established domain — registered 6.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-03-03'
-      ageDays: 2304
-      ageYears: 6.3
-    detail: Registered 6.3 years ago (2020-03-03).
+      ageDays: 2350
+      ageYears: 6.4
+    detail: Registered 6.4 years ago (2020-03-03).
   contact:
-    status: warn
+    status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: 'Public contact details found: email, phone.'
   social:
     status: pass
     value:
@@ -81,10 +81,10 @@ signals:
       instagram: true
       twitter: false
       tiktok: true
-      youtube: true
+      youtube: false
       linkedin: false
-      pinterest: false
-    detail: 'Links to 4 social platform(s): facebook, instagram, tiktok, youtube.'
+      pinterest: true
+    detail: 'Links to 4 social platform(s): facebook, instagram, tiktok, pinterest.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-speckshoponline.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+speckshoponline.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Speckshoponline in the score above.
 

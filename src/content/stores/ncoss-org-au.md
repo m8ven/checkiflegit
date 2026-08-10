@@ -5,7 +5,7 @@ title: Is ncoss.org.au Legit? Trust Score 100/100
 description: >-
   ncoss.org.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:56:08.239Z'
+fetchedAt: '2026-08-10T06:07:48.811Z'
 finalUrl: 'https://ncoss.org.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-13'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
@@ -75,14 +75,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: true
       linkedin: true
       pinterest: false
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, youtube,
-      linkedin.
+    detail: 'Links to 4 social platform(s): facebook, instagram, youtube, linkedin.'
   reviews:
     status: unknown
     value:

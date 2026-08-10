@@ -5,7 +5,7 @@ title: Is integramesijocuri.ro Legit? Trust Score 61/100
 description: >-
   integramesijocuri.ro scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T12:00:58.942Z'
+fetchedAt: '2026-08-10T06:11:41.747Z'
 finalUrl: 'https://integramesijocuri.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.5 years ago.
+    - Established domain — registered 5.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-25'
-      daysToExpiry: 154
+      daysToExpiry: 108
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2020-12-22'
-      ageDays: 2011
-      ageYears: 5.5
-    detail: Registered 5.5 years ago (2020-12-22).
+      ageDays: 2057
+      ageYears: 5.6
+    detail: Registered 5.6 years ago (2020-12-22).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-integramesijocuri.ro sends a mixed set of signals. On the positive side, its domain has been registered for 5.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+integramesijocuri.ro sends a mixed set of signals. On the positive side, its domain has been registered for 5.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Integramesijocuri in the score above.
 

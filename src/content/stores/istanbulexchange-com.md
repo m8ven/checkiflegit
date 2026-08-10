@@ -6,7 +6,7 @@ description: >-
   istanbulexchange.com scores 43/100 on our public trust checks. Standard
   contact and policy pages were not found. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T03:42:29.469Z'
+fetchedAt: '2026-08-10T06:02:57.779Z'
 finalUrl: 'https://istanbulexchange.com/'
 reachable: true
 noindex: false
@@ -20,7 +20,7 @@ verdict:
   score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.2 years ago.
+    - Established domain — registered 2.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -58,17 +58,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-19'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-03-31'
-      ageDays: 815
-      ageYears: 2.2
-    detail: Registered 2.2 years ago (2024-03-31).
+      ageDays: 861
+      ageYears: 2.4
+    detail: Registered 2.4 years ago (2024-03-31).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for istanbulexchange.com. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 2.2 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for istanbulexchange.com. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 2.4 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Istanbulexchange in the score above.
 

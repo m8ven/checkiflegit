@@ -1,30 +1,30 @@
 ---
 domain: sibang-art.co.kr
 slug: sibang-art-co-kr
-title: Is sibang-art.co.kr Legit? Trust Score 73/100
+title: Is sibang-art.co.kr Legit? Trust Score 55/100
 description: >-
-  sibang-art.co.kr scores 73/100 on our public trust checks. Established domain
-  — registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:10.657Z'
+  sibang-art.co.kr scores 55/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
+fetchedAt: '2026-08-10T06:13:21.636Z'
 finalUrl: 'https://sibang-art.co.kr/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.2 years ago.
+    - Established domain — registered 2.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
+    - Standard contact and policy pages were not found.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-04-15'
-      ageDays: 801
-      ageYears: 2.2
-    detail: Registered 2.2 years ago (2024-04-15).
+      ageDays: 847
+      ageYears: 2.3
+    detail: Registered 2.3 years ago (2024-04-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sibang-art.co.kr looks like a well-established store. The clearest positives are that its domain has been registered for 2.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sibang-art.co.kr sends a mixed set of signals. On the positive side, its domain has been registered for 2.3 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sibang-art in the score above.
 

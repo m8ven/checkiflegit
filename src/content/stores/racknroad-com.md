@@ -4,8 +4,8 @@ slug: racknroad-com
 title: Is racknroad.com Legit? Trust Score 100/100
 description: >-
   racknroad.com scores 100/100 on our public trust checks. Established domain —
-  registered 22.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:04.048Z'
+  registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:56.443Z'
 finalUrl: 'https://racknroad.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.2 years ago.
+    - Established domain — registered 22.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-03'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2004-04-16'
-      ageDays: 8104
-      ageYears: 22.2
-    detail: Registered 22.2 years ago (2004-04-16).
+      ageDays: 8151
+      ageYears: 22.3
+    detail: Registered 22.3 years ago (2004-04-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-racknroad.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+racknroad.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Racknroad in the score above.
 

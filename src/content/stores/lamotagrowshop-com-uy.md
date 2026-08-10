@@ -5,7 +5,7 @@ title: Is lamotagrowshop.com.uy Legit? Trust Score 83/100
 description: >-
   lamotagrowshop.com.uy scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:24.513Z'
+fetchedAt: '2026-08-10T06:04:12.847Z'
 finalUrl: 'https://lamotagrowshop.com.uy/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-31'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

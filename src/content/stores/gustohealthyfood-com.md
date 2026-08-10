@@ -4,8 +4,8 @@ slug: gustohealthyfood-com
 title: Is gustohealthyfood.com Legit? Trust Score 94/100
 description: >-
   gustohealthyfood.com scores 94/100 on our public trust checks. Established
-  domain — registered 2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:55:10.824Z'
+  domain — registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:05:25.107Z'
 finalUrl: 'https://gustohealthyfood.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2 years ago.
+    - Established domain — registered 2.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Soluciones Corporativas IP SL
       validTo: '2026-11-24'
-      daysToExpiry: 153
+      daysToExpiry: 107
       authorized: true
     detail: Valid certificate issued by Soluciones Corporativas IP SL.
   domainAge:
     status: pass
     value:
       createdAt: '2024-07-02'
-      ageDays: 722
-      ageYears: 2
-    detail: Registered 2 years ago (2024-07-02).
+      ageDays: 768
+      ageYears: 2.1
+    detail: Registered 2.1 years ago (2024-07-02).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gustohealthyfood.com looks like a well-established store. The clearest positives are that its domain has been registered for 2 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gustohealthyfood.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gustohealthyfood in the score above.
 

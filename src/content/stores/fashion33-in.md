@@ -5,7 +5,7 @@ title: Is fashion33.in Legit? Trust Score 83/100
 description: >-
   fashion33.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:30:43.961Z'
+fetchedAt: '2026-08-10T06:01:56.337Z'
 finalUrl: 'https://fashion33.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 35
+      validTo: '2026-09-28'
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

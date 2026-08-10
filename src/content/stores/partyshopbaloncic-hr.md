@@ -4,8 +4,8 @@ slug: partyshopbaloncic-hr
 title: Is partyshopbaloncic.hr Legit? Trust Score 82/100
 description: >-
   partyshopbaloncic.hr scores 82/100 on our public trust checks. Established
-  domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:56.194Z'
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:19.161Z'
 finalUrl: 'https://partyshopbaloncic.hr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.2 years ago.
+    - Established domain — registered 6.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: false
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 58
+      validTo: '2026-10-21'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-04-15'
-      ageDays: 2261
-      ageYears: 6.2
-    detail: Registered 6.2 years ago (2020-04-15).
+      ageDays: 2307
+      ageYears: 6.3
+    detail: Registered 6.3 years ago (2020-04-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-partyshopbaloncic.hr looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+partyshopbaloncic.hr looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Partyshopbaloncic in the score above.
 

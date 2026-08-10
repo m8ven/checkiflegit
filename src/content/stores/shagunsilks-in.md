@@ -5,7 +5,7 @@ title: Is shagunsilks.in Legit? Trust Score 91/100
 description: >-
   shagunsilks.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:02:49.677Z'
+fetchedAt: '2026-08-10T06:13:05.390Z'
 finalUrl: 'https://shagunsilks.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-27'
-      daysToExpiry: 32
+      validTo: '2026-09-24'
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

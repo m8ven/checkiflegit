@@ -4,8 +4,8 @@ slug: 3cube-co-uk
 title: Is 3cube.co.uk Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   3cube.co.uk scores 76/100 on our public trust checks. Established domain —
-  registered 18.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:22:38.491Z'
+  registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:29:40.681Z'
 finalUrl: 'https://www.3cube.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.1 years ago.
+    - Established domain — registered 18.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2008-06-07'
-      ageDays: 6592
-      ageYears: 18.1
-    detail: Registered 18.1 years ago (2008-06-07).
+      ageDays: 6638
+      ageYears: 18.2
+    detail: Registered 18.2 years ago (2008-06-07).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-3cube.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 18.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+3cube.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 18.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 3cube in the score above.
 

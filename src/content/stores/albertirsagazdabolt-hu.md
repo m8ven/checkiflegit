@@ -5,7 +5,7 @@ title: Is albertirsagazdabolt.hu Legit? Trust Score 61/100
 description: >-
   albertirsagazdabolt.hu scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T12:12:20.041Z'
+fetchedAt: '2026-08-10T06:21:00.384Z'
 finalUrl: 'https://www.albertirsagazdabolt.hu/'
 reachable: true
 noindex: false
@@ -45,18 +45,18 @@ signals:
   pages:
     status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 63
+      validTo: '2026-09-29'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

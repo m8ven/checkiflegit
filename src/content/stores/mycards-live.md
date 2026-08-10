@@ -5,7 +5,7 @@ title: Is mycards.live Legit? Trust Score 74/100
 description: >-
   mycards.live scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:57:33.730Z'
+fetchedAt: '2026-08-10T06:07:05.569Z'
 finalUrl: 'https://mycards.live/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

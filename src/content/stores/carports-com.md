@@ -4,8 +4,8 @@ slug: carports-com
 title: Is carports.com Legit? Trust Score 70/100
 description: >-
   carports.com scores 70/100 on our public trust checks. Established domain —
-  registered 29.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:17:16.340Z'
+  registered 29.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:25:17.863Z'
 finalUrl: 'https://www.carports.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.4 years ago.
+    - Established domain — registered 29.5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-02-18'
-      ageDays: 10719
-      ageYears: 29.4
-    detail: Registered 29.4 years ago (1997-02-18).
+      ageDays: 10765
+      ageYears: 29.5
+    detail: Registered 29.5 years ago (1997-02-18).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-carports.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+carports.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Carports in the score above.
 

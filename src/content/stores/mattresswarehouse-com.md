@@ -4,8 +4,8 @@ slug: mattresswarehouse-com
 title: Is mattresswarehouse.com Legit? Trust Score 88/100
 description: >-
   mattresswarehouse.com scores 88/100 on our public trust checks. Established
-  domain — registered 29.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:28.161Z'
+  domain — registered 29.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:33.000Z'
 finalUrl: 'https://mattresswarehouse.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 29.3 years ago.
+    - Established domain — registered 29.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 35
+      validTo: '2026-09-28'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-03-10'
-      ageDays: 10699
-      ageYears: 29.3
-    detail: Registered 29.3 years ago (1997-03-10).
+      ageDays: 10745
+      ageYears: 29.4
+    detail: Registered 29.4 years ago (1997-03-10).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mattresswarehouse.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mattresswarehouse.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mattresswarehouse in the score above.
 

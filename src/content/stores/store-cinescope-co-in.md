@@ -5,7 +5,7 @@ title: Is store.cinescope.co.in Legit? Trust Score 100/100
 description: >-
   store.cinescope.co.in scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:27.165Z'
+fetchedAt: '2026-08-10T06:13:40.768Z'
 finalUrl: 'https://store.cinescope.co.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-06'
-      daysToExpiry: 73
+      validTo: '2026-11-06'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

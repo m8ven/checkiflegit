@@ -5,7 +5,7 @@ title: Is autopneu.sk Legit? Trust Score 44/100
 description: >-
   autopneu.sk scores 44/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:35:23.321Z'
+fetchedAt: '2026-08-10T06:02:19.716Z'
 finalUrl: 'https://autopneu.sk/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

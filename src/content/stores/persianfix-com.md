@@ -4,8 +4,8 @@ slug: persianfix-com
 title: Is persianfix.com Legit? Trust Score 82/100
 description: >-
   persianfix.com scores 82/100 on our public trust checks. Established domain —
-  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:58.090Z'
+  registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:58.862Z'
 finalUrl: 'https://persianfix.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.5 years ago.
+    - Established domain — registered 2.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 67
+      validTo: '2026-10-08'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-01-03'
-      ageDays: 903
-      ageYears: 2.5
-    detail: Registered 2.5 years ago (2024-01-03).
+      ageDays: 949
+      ageYears: 2.6
+    detail: Registered 2.6 years ago (2024-01-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-persianfix.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+persianfix.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Persianfix in the score above.
 

@@ -5,7 +5,7 @@ title: Is blumigo.de Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   blumigo.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:23:37.643Z'
+fetchedAt: '2026-08-10T06:30:21.681Z'
 finalUrl: 'https://www.blumigo.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      address: false
+    detail: 'Public contact details found: email, phone.'
   social:
     status: pass
     value:

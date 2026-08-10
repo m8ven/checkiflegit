@@ -5,7 +5,7 @@ title: Is events.vegan-friendly.com Legit? Trust Score 49/100
 description: >-
   events.vegan-friendly.com scores 49/100 on our public trust checks. Standard
   contact and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T03:44:14.654Z'
+fetchedAt: '2026-08-10T06:03:09.671Z'
 finalUrl: 'https://events.vegan-friendly.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-09-30'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

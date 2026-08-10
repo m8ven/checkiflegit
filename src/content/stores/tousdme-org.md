@@ -1,11 +1,11 @@
 ---
 domain: tousdme.org
 slug: tousdme-org
-title: Is tousdme.org Legit? Trust Score 25/100
+title: Is tousdme.org Legit? Trust Score 43/100
 description: >-
-  tousdme.org scores 25/100 on our public trust checks. No public contact
-  details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:07:01.533Z'
+  tousdme.org scores 43/100 on our public trust checks. No links to major social
+  platforms found. Domain is relatively young.
+fetchedAt: '2026-08-10T06:16:40.551Z'
 finalUrl: 'https://tousdme.org/'
 reachable: true
 noindex: false
@@ -16,16 +16,16 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 25
+  score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
   redFlags:
-    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions:
     - Domain is relatively young.
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -58,23 +58,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-02-06'
-      ageDays: 138
-      ageYears: 0.4
-    detail: Registered 0.4 years ago (2026-02-06).
+      ageDays: 184
+      ageYears: 0.5
+    detail: Registered 0.5 years ago (2026-02-06).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for tousdme.org. In particular, the domain is still relatively young and there are no clear public contact details. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for tousdme.org. In particular, the domain is still relatively young and only limited contact details are listed. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tousdme in the score above.
 

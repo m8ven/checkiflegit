@@ -5,7 +5,7 @@ title: Is tuli.ro Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   tuli.ro scores 76/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:14:29.362Z'
+fetchedAt: '2026-08-10T06:23:07.875Z'
 finalUrl: 'https://tuli.ro/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 48
+      validTo: '2026-10-12'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-11'
-      ageDays: 226
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-11).
+      ageDays: 272
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-11).
   contact:
     status: pass
     value:

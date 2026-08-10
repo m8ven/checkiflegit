@@ -4,8 +4,8 @@ slug: thejazzpage-com
 title: Is thejazzpage.com Legit? Trust Score 76/100
 description: >-
   thejazzpage.com scores 76/100 on our public trust checks. Established domain —
-  registered 25.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:43.716Z'
+  registered 25.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T05:59:55.583Z'
 finalUrl: 'https://thejazzpage.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.3 years ago.
+    - Established domain — registered 25.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-02-26'
-      ageDays: 9249
-      ageYears: 25.3
-    detail: Registered 25.3 years ago (2001-02-26).
+      ageDays: 9295
+      ageYears: 25.5
+    detail: Registered 25.5 years ago (2001-02-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thejazzpage.com looks like a well-established store. The clearest positives are that its domain has been registered for 25.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thejazzpage.com looks like a well-established store. The clearest positives are that its domain has been registered for 25.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thejazzpage in the score above.
 

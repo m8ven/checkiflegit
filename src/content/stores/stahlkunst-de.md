@@ -5,7 +5,7 @@ title: Is stahlkunst.de Legit? Trust Score 91/100
 description: >-
   stahlkunst.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:12:21.340Z'
+fetchedAt: '2026-08-10T06:21:04.836Z'
 finalUrl: 'https://stahlkunst.de/?v=e0d405313252'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-23'
-      daysToExpiry: 90
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

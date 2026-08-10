@@ -5,7 +5,7 @@ title: Is nikoparfum.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
   nikoparfum.com scores 64/100 on our public trust checks. Domain is relatively
   young. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:23:22.644Z'
+fetchedAt: '2026-08-10T06:30:07.847Z'
 finalUrl: 'https://nikoparfum.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-03-12'
-      ageDays: 104
-      ageYears: 0.3
-    detail: Registered 0.3 years ago (2026-03-12).
+      ageDays: 150
+      ageYears: 0.4
+    detail: Registered 0.4 years ago (2026-03-12).
   contact:
     status: pass
     value:

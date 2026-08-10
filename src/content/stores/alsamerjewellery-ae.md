@@ -5,7 +5,7 @@ title: Is alsamerjewellery.ae Legit? Trust Score 100/100
 description: >-
   alsamerjewellery.ae scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:33:53.907Z'
+fetchedAt: '2026-08-10T06:02:14.493Z'
 finalUrl: 'https://alsamerjewellery.ae/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

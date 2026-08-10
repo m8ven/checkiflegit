@@ -4,8 +4,8 @@ slug: orffinstrumenter-no
 title: Is orffinstrumenter.no Legit? Trust Score 88/100
 description: >-
   orffinstrumenter.no scores 88/100 on our public trust checks. Established
-  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:57:01.424Z'
+  domain — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:08:37.385Z'
 finalUrl: 'https://orffinstrumenter.no/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.6 years ago.
+    - Established domain — registered 6.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-08'
-      daysToExpiry: 75
+      validTo: '2026-11-08'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-12-02'
-      ageDays: 2397
-      ageYears: 6.6
-    detail: Registered 6.6 years ago (2019-12-02).
+      ageDays: 2443
+      ageYears: 6.7
+    detail: Registered 6.7 years ago (2019-12-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-orffinstrumenter.no looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+orffinstrumenter.no looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Orffinstrumenter in the score above.
 

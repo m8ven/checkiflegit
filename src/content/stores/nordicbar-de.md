@@ -5,7 +5,7 @@ title: Is nordicbar.de Legit? Trust Score 100/100
 description: >-
   nordicbar.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:23:36.672Z'
+fetchedAt: '2026-08-10T06:30:20.205Z'
 finalUrl: 'https://nordicbar.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 60
+      validTo: '2026-10-23'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

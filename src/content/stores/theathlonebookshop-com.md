@@ -4,8 +4,8 @@ slug: theathlonebookshop-com
 title: Is theathlonebookshop.com Legit? Trust Score 76/100
 description: >-
   theathlonebookshop.com scores 76/100 on our public trust checks. Established
-  domain — registered 5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:15:03.885Z'
+  domain — registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:23:21.291Z'
 finalUrl: 'https://theathlonebookshop.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5 years ago.
+    - Established domain — registered 5.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-06-21'
-      ageDays: 1830
-      ageYears: 5
-    detail: Registered 5 years ago (2021-06-21).
+      ageDays: 1875
+      ageYears: 5.1
+    detail: Registered 5.1 years ago (2021-06-21).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-theathlonebookshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+theathlonebookshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Theathlonebookshop in the score above.
 

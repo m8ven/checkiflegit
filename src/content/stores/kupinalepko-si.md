@@ -4,8 +4,8 @@ slug: kupinalepko-si
 title: Is kupinalepko.si Legit? Trust Score 76/100
 description: >-
   kupinalepko.si scores 76/100 on our public trust checks. Established domain —
-  registered 6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:16:52.146Z'
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:24:56.660Z'
 finalUrl: 'https://kupinalepko.si/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6 years ago.
+    - Established domain — registered 6.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-06-25'
-      ageDays: 2191
-      ageYears: 6
-    detail: Registered 6 years ago (2020-06-25).
+      ageDays: 2237
+      ageYears: 6.1
+    detail: Registered 6.1 years ago (2020-06-25).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kupinalepko.si looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kupinalepko.si looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kupinalepko in the score above.
 

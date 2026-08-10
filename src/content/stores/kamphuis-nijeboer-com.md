@@ -1,32 +1,30 @@
 ---
 domain: kamphuis-nijeboer.com
 slug: kamphuis-nijeboer-com
-title: Is kamphuis-nijeboer.com Legit? Trust Score 43/100
+title: Is kamphuis-nijeboer.com Legit? Trust Score 61/100
 description: >-
-  kamphuis-nijeboer.com scores 43/100 on our public trust checks. No public
-  contact details detected on the homepage. No links to major social platforms
-  found.
-fetchedAt: '2026-06-25T12:04:53.532Z'
+  kamphuis-nijeboer.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
+fetchedAt: '2026-08-10T06:15:03.177Z'
 finalUrl: 'https://kamphuis-nijeboer.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 43
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.7 years ago.
+    - Established domain — registered 8.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
-    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -59,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 23
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-10-19'
-      ageDays: 3171
-      ageYears: 8.7
-    detail: Registered 8.7 years ago (2017-10-19).
+      ageDays: 3216
+      ageYears: 8.8
+    detail: Registered 8.8 years ago (2017-10-19).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
       phone: false
-      address: false
-    detail: No public contact details detected on the homepage.
+      address: true
+    detail: 'Public contact details found: address.'
   social:
     status: fail
     value:
@@ -97,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for kamphuis-nijeboer.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 8.7 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+kamphuis-nijeboer.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kamphuis-nijeboer in the score above.
 

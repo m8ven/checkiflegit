@@ -4,8 +4,8 @@ slug: nonsolocarta-me
 title: Is nonsolocarta.me Legit? Trust Score 100/100
 description: >-
   nonsolocarta.me scores 100/100 on our public trust checks. Established domain
-  — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:23:36.672Z'
+  — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:19.870Z'
 finalUrl: 'https://nonsolocarta.me/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.2 years ago.
+    - Established domain — registered 6.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Sectigo Limited
-      validTo: '2026-07-12'
-      daysToExpiry: 18
+      validTo: '2027-01-09'
+      daysToExpiry: 153
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2020-04-23'
-      ageDays: 2253
-      ageYears: 6.2
-    detail: Registered 6.2 years ago (2020-04-23).
+      ageDays: 2299
+      ageYears: 6.3
+    detail: Registered 6.3 years ago (2020-04-23).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nonsolocarta.me looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nonsolocarta.me looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nonsolocarta in the score above.
 

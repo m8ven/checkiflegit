@@ -5,7 +5,7 @@ title: Is chai-erawan.co.th Legit? Trust Score 83/100
 description: >-
   chai-erawan.co.th scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:26:39.625Z'
+fetchedAt: '2026-08-10T06:32:53.887Z'
 finalUrl: 'https://www.chai-erawan.co.th/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 25
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

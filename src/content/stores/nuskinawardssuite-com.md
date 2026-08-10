@@ -4,8 +4,8 @@ slug: nuskinawardssuite-com
 title: Is nuskinawardssuite.com Legit? Trust Score 73/100
 description: >-
   nuskinawardssuite.com scores 73/100 on our public trust checks. Established
-  domain — registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:23:57.806Z'
+  domain — registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:36.615Z'
 finalUrl: 'https://nuskinawardssuite.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.5 years ago.
+    - Established domain — registered 8.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-12-22'
-      ageDays: 3106
-      ageYears: 8.5
-    detail: Registered 8.5 years ago (2017-12-22).
+      ageDays: 3152
+      ageYears: 8.6
+    detail: Registered 8.6 years ago (2017-12-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nuskinawardssuite.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nuskinawardssuite.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nuskinawardssuite in the score above.
 

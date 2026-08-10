@@ -5,7 +5,7 @@ title: Is capetocairo.com.au Legit? Trust Score 91/100
 description: >-
   capetocairo.com.au scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:15:09.512Z'
+fetchedAt: '2026-08-10T06:23:25.894Z'
 finalUrl: 'https://www.capetocairo.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-22'
-      daysToExpiry: 151
+      daysToExpiry: 105
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

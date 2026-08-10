@@ -5,7 +5,7 @@ title: Is westscandinavianpharmacy.com Legit? Trust Score 67/100
 description: >-
   westscandinavianpharmacy.com scores 67/100 on our public trust checks. No
   links to major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T12:20:44.823Z'
+fetchedAt: '2026-08-10T06:27:57.703Z'
 finalUrl: 'https://westscandinavianpharmacy.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-08-29'
-      ageDays: 299
-      ageYears: 0.8
-    detail: Registered 0.8 years ago (2025-08-29).
+      ageDays: 345
+      ageYears: 0.9
+    detail: Registered 0.9 years ago (2025-08-29).
   contact:
     status: pass
     value:

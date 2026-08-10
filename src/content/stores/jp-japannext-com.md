@@ -5,7 +5,7 @@ title: Is jp.japannext.com Legit? Trust Score 83/100
 description: >-
   jp.japannext.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:07:57.464Z'
+fetchedAt: '2026-08-10T06:17:28.990Z'
 finalUrl: 'https://jp.japannext.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

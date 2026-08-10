@@ -1,11 +1,11 @@
 ---
 domain: pneusmoto.org
 slug: pneusmoto-org
-title: Is pneusmoto.org Legit? Trust Score 82/100
+title: Is pneusmoto.org Legit? Trust Score 94/100
 description: >-
-  pneusmoto.org scores 82/100 on our public trust checks. Established domain —
-  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:54.455Z'
+  pneusmoto.org scores 94/100 on our public trust checks. Established domain —
+  registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:12.416Z'
 finalUrl: 'https://pneusmoto.org/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.4 years ago.
+    - Established domain — registered 12.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 60
+      validTo: '2026-10-22'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-01-14'
-      ageDays: 4544
-      ageYears: 12.4
-    detail: Registered 12.4 years ago (2014-01-14).
+      ageDays: 4590
+      ageYears: 12.6
+    detail: Registered 12.6 years ago (2014-01-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pneusmoto.org looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pneusmoto.org looks like a well-established store. The clearest positives are that its domain has been registered for 12.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pneusmoto in the score above.
 

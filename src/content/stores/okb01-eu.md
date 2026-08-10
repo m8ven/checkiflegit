@@ -5,7 +5,7 @@ title: Is okb01.eu Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   okb01.eu scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T11:56:35.391Z'
+fetchedAt: '2026-08-10T06:08:12.865Z'
 finalUrl: 'https://okb01.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 43
+      validTo: '2026-10-06'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

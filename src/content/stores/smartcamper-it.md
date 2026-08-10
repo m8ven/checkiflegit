@@ -4,8 +4,8 @@ slug: smartcamper-it
 title: Is smartcamper.it Legit? Trust Score 100/100
 description: >-
   smartcamper.it scores 100/100 on our public trust checks. Established domain —
-  registered 5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:57:08.701Z'
+  registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:08:42.841Z'
 finalUrl: 'https://smartcamper.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5 years ago.
+    - Established domain — registered 5.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-06-07'
-      ageDays: 1843
-      ageYears: 5
-    detail: Registered 5 years ago (2021-06-07).
+      ageDays: 1889
+      ageYears: 5.2
+    detail: Registered 5.2 years ago (2021-06-07).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-smartcamper.it looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+smartcamper.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Smartcamper in the score above.
 

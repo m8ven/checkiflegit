@@ -4,8 +4,8 @@ slug: martingoode-com
 title: Is martingoode.com Legit? Trust Score 82/100
 description: >-
   martingoode.com scores 82/100 on our public trust checks. Established domain —
-  registered 23.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:16:32.785Z'
+  registered 23.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:24:44.186Z'
 finalUrl: 'https://martingoode.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.8 years ago.
+    - Established domain — registered 23.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 73
+      validTo: '2026-11-05'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-09-30'
-      ageDays: 8669
-      ageYears: 23.8
-    detail: Registered 23.8 years ago (2002-09-30).
+      ageDays: 8714
+      ageYears: 23.9
+    detail: Registered 23.9 years ago (2002-09-30).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-martingoode.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+martingoode.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Martingoode in the score above.
 

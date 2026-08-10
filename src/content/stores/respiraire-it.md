@@ -4,8 +4,8 @@ slug: respiraire-it
 title: Is respiraire.it Legit? Trust Score 100/100
 description: >-
   respiraire.it scores 100/100 on our public trust checks. Established domain —
-  registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:23.969Z'
+  registered 16.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:50.366Z'
 finalUrl: 'https://respiraire.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.8 years ago.
+    - Established domain — registered 16.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -40,7 +40,7 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: true
+      terms: false
       refund: false
-      shipping: false
+      shipping: true
     detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 38
+      validTo: '2026-10-01'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-09-07'
-      ageDays: 6134
-      ageYears: 16.8
-    detail: Registered 16.8 years ago (2009-09-07).
+      ageDays: 6180
+      ageYears: 16.9
+    detail: Registered 16.9 years ago (2009-09-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-respiraire.it looks like a well-established store. The clearest positives are that its domain has been registered for 16.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+respiraire.it looks like a well-established store. The clearest positives are that its domain has been registered for 16.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Respiraire in the score above.
 

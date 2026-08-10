@@ -5,7 +5,7 @@ title: Is ansellktr.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   ansellktr.com scores 52/100 on our public trust checks. Standard contact and
   policy pages were not found. Domain is relatively young.
-fetchedAt: '2026-06-25T02:55:06.881Z'
+fetchedAt: '2026-08-10T06:00:14.488Z'
 finalUrl: 'https://ansellktr.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-06'
-      daysToExpiry: 12
+      validTo: '2026-09-29'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-01-06'
-      ageDays: 169
-      ageYears: 0.5
-    detail: Registered 0.5 years ago (2026-01-06).
+      ageDays: 215
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2026-01-06).
   contact:
     status: pass
     value:

@@ -5,7 +5,7 @@ title: Is mmacosmetics.shop Legit? Trust Score 83/100
 description: >-
   mmacosmetics.shop scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:55:04.152Z'
+fetchedAt: '2026-08-10T06:05:22.373Z'
 finalUrl: 'https://mmacosmetics.shop/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -5,7 +5,7 @@ title: Is omydog.cl Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   omydog.cl scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:56:51.798Z'
+fetchedAt: '2026-08-10T06:06:27.836Z'
 finalUrl: 'https://omydog.cl/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 73
+      validTo: '2026-11-05'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

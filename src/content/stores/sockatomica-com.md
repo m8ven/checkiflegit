@@ -4,8 +4,8 @@ slug: sockatomica-com
 title: Is sockatomica.com Legit? Trust Score 88/100
 description: >-
   sockatomica.com scores 88/100 on our public trust checks. Established domain —
-  registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:08.074Z'
+  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:33.784Z'
 finalUrl: 'https://sockatomica.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 7.6 years ago.
+    - Established domain — registered 7.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-07'
-      daysToExpiry: 75
+      validTo: '2026-11-06'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-12-06'
-      ageDays: 2757
-      ageYears: 7.6
-    detail: Registered 7.6 years ago (2018-12-06).
+      ageDays: 2803
+      ageYears: 7.7
+    detail: Registered 7.7 years ago (2018-12-06).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sockatomica.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sockatomica.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sockatomica in the score above.
 

@@ -5,7 +5,7 @@ title: Is nett.pro Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   nett.pro scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:22:20.440Z'
+fetchedAt: '2026-08-10T06:29:27.676Z'
 finalUrl: 'https://nett.pro/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 81
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

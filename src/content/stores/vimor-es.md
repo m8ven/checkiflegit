@@ -5,7 +5,7 @@ title: Is vimor.es Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   vimor.es scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:09:00.621Z'
+fetchedAt: '2026-08-10T06:18:34.447Z'
 finalUrl: 'https://vimor.es/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: false
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-07'
-      daysToExpiry: 136
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

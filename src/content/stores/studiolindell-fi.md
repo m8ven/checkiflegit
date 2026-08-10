@@ -5,7 +5,7 @@ title: Is studiolindell.fi Legit? Trust Score 83/100
 description: >-
   studiolindell.fi scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:30:39.361Z'
+fetchedAt: '2026-08-10T06:36:06.727Z'
 finalUrl: 'https://www.studiolindell.fi/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 40
+      validTo: '2026-10-03'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: notemote-am
 title: Is notemote.am Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   notemote.am scores 73/100 on our public trust checks. Established domain —
-  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:29:33.267Z'
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:35:20.065Z'
 finalUrl: 'https://www.notemote.am/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.9 years ago.
+    - Established domain — registered 6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-08-08'
-      ageDays: 2147
-      ageYears: 5.9
-    detail: Registered 5.9 years ago (2020-08-08).
+      ageDays: 2193
+      ageYears: 6
+    detail: Registered 6 years ago (2020-08-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-notemote.am looks like a well-established store. The clearest positives are that its domain has been registered for 5.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+notemote.am looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Notemote in the score above.
 

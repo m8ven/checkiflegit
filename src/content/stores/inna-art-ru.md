@@ -5,7 +5,7 @@ title: Is inna-art.ru Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   inna-art.ru scores 55/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:38:25.626Z'
+fetchedAt: '2026-08-10T05:59:42.619Z'
 finalUrl: 'https://inna-art.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 38
+      validTo: '2026-10-01'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-07-02'
-      ageDays: 3644
-      ageYears: 10
-    detail: Registered 10 years ago (2016-07-02).
+      ageDays: 3690
+      ageYears: 10.1
+    detail: Registered 10.1 years ago (2016-07-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-inna-art.ru sends a mixed set of signals. On the positive side, its domain has been registered for 10 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+inna-art.ru sends a mixed set of signals. On the positive side, its domain has been registered for 10.1 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Inna-art in the score above.
 

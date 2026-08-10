@@ -1,29 +1,30 @@
 ---
 domain: bellevueseattle.com
 slug: bellevueseattle-com
-title: Is bellevueseattle.com Legit? Trust Score 61/100
+title: Is bellevueseattle.com Legit? Trust Score 43/100
 description: >-
-  bellevueseattle.com scores 61/100 on our public trust checks. No links to
-  major social platforms found.
-fetchedAt: '2026-06-25T03:36:10.103Z'
+  bellevueseattle.com scores 43/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
+fetchedAt: '2026-08-10T06:02:25.264Z'
 finalUrl: 'https://bellevueseattle.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.6 years ago.
+    - Established domain — registered 1.7 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
+    - Standard contact and policy pages were not found.
     - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,29 +45,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-16'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-11-25'
-      ageDays: 576
-      ageYears: 1.6
-    detail: Registered 1.6 years ago (2024-11-25).
+      ageDays: 622
+      ageYears: 1.7
+    detail: Registered 1.7 years ago (2024-11-25).
   contact:
     status: warn
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bellevueseattle.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for bellevueseattle.com. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 1.7 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bellevueseattle in the score above.
 

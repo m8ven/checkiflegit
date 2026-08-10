@@ -5,7 +5,7 @@ title: Is vrl.com.tr Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   vrl.com.tr scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:09:09.462Z'
+fetchedAt: '2026-08-10T06:18:41.598Z'
 finalUrl: 'https://vrl.com.tr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-25'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

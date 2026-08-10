@@ -5,7 +5,7 @@ title: Is wearorastore.com Legit? Trust Score 55/100
 description: >-
   wearorastore.com scores 55/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T12:09:49.576Z'
+fetchedAt: '2026-08-10T06:19:06.911Z'
 finalUrl: 'https://wearorastore.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-03-03'
-      ageDays: 114
-      ageYears: 0.3
-    detail: Registered 0.3 years ago (2026-03-03).
+      ageDays: 159
+      ageYears: 0.4
+    detail: Registered 0.4 years ago (2026-03-03).
   contact:
     status: warn
     value:

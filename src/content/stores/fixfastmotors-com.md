@@ -1,30 +1,29 @@
 ---
 domain: fixfastmotors.com
 slug: fixfastmotors-com
-title: Is fixfastmotors.com Legit? Trust Score 28/100
+title: Is fixfastmotors.com Legit? Trust Score 55/100
 description: >-
-  fixfastmotors.com scores 28/100 on our public trust checks. Domain registered
-  very recently (62 days ago). No links to major social platforms found.
-fetchedAt: '2026-06-25T03:45:14.879Z'
+  fixfastmotors.com scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
+fetchedAt: '2026-08-10T06:03:16.221Z'
 finalUrl: 'https://fixfastmotors.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 28
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
-    - Domain registered very recently (62 days ago).
     - No links to major social platforms found.
   cautions:
+    - Domain is relatively young.
     - Some standard policy or contact pages appear to be missing.
 signals:
   http:
@@ -58,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
-    status: fail
+    status: warn
     value:
       createdAt: '2026-04-23'
-      ageDays: 62
-      ageYears: 0.2
-    detail: Registered very recently (62 days ago).
+      ageDays: 108
+      ageYears: 0.3
+    detail: Registered 0.3 years ago (2026-04-23).
   contact:
     status: pass
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for fixfastmotors.com. In particular, the domain was only registered very recently and some standard contact or policy pages appear to be missing. It does have some positives — it lists genuine business contact details and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+fixfastmotors.com sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fixfastmotors in the score above.
 

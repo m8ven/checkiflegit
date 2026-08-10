@@ -5,7 +5,7 @@ title: Is petroatletico.co.ao Legit? Trust Score 100/100
 description: >-
   petroatletico.co.ao scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:58:02.667Z'
+fetchedAt: '2026-08-10T06:09:25.553Z'
 finalUrl: 'https://petroatletico.co.ao/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 69
+      validTo: '2026-11-01'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

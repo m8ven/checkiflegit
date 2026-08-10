@@ -5,7 +5,7 @@ title: Is marienhof-sankelmark.de Legit? Trust Score 91/100
 description: >-
   marienhof-sankelmark.de scores 91/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:54:17.940Z'
+fetchedAt: '2026-08-10T06:04:32.692Z'
 finalUrl: 'https://marienhof-sankelmark.de/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Sectigo Limited
-      validTo: '2026-12-05'
-      daysToExpiry: 164
+      issuer: Let's Encrypt
+      validTo: '2026-10-28'
+      daysToExpiry: 80
       authorized: true
-    detail: Valid certificate issued by Sectigo Limited.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null

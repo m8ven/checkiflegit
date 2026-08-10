@@ -5,7 +5,7 @@ title: Is store.csslabs.de Legit? Trust Score 83/100
 description: >-
   store.csslabs.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:04:45.107Z'
+fetchedAt: '2026-08-10T06:14:53.353Z'
 finalUrl: 'https://store.csslabs.de/wp20/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 53
+      validTo: '2026-10-16'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

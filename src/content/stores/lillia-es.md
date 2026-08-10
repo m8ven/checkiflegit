@@ -5,7 +5,7 @@ title: Is lillia.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   lillia.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:50:19.083Z'
+fetchedAt: '2026-08-10T06:03:57.481Z'
 finalUrl: 'https://lillia.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-03'
-      daysToExpiry: 70
+      validTo: '2026-11-02'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

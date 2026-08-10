@@ -5,7 +5,7 @@ title: Is trade.shopnewage.com Legit? Trust Score 100/100
 description: >-
   trade.shopnewage.com scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:16:28.231Z'
+fetchedAt: '2026-08-10T06:24:33.597Z'
 finalUrl: 'https://trade.shopnewage.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

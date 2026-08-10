@@ -5,7 +5,7 @@ title: Is schooluniformsdirect.com.au Legit? Trust Score 61/100
 description: >-
   schooluniformsdirect.com.au scores 61/100 on our public trust checks. No links
   to major social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:02:09.443Z'
+fetchedAt: '2026-08-10T06:12:37.165Z'
 finalUrl: 'https://schooluniformsdirect.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-23'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

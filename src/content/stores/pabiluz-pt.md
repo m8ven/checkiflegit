@@ -5,7 +5,7 @@ title: Is pabiluz.pt Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   pabiluz.pt scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:00:22.298Z'
+fetchedAt: '2026-08-10T06:11:19.805Z'
 finalUrl: 'https://pabiluz.pt/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 45
+      validTo: '2026-10-09'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: badeloft-com
 title: Is badeloft.com Legit? Trust Score 88/100
 description: >-
   badeloft.com scores 88/100 on our public trust checks. Established domain —
-  registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:29:18.763Z'
+  registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:35:11.432Z'
 finalUrl: 'https://www.badeloft.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.1 years ago.
+    - Established domain — registered 15.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 43
+      validTo: '2026-10-10'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-05-25'
-      ageDays: 5509
-      ageYears: 15.1
-    detail: Registered 15.1 years ago (2011-05-25).
+      ageDays: 5555
+      ageYears: 15.2
+    detail: Registered 15.2 years ago (2011-05-25).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-badeloft.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+badeloft.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Badeloft in the score above.
 

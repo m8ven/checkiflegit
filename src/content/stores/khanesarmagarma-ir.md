@@ -5,7 +5,7 @@ title: Is khanesarmagarma.ir Legit? Trust Score 44/100
 description: >-
   khanesarmagarma.ir scores 44/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T12:06:06.475Z'
+fetchedAt: '2026-08-10T06:15:56.561Z'
 finalUrl: 'https://khanesarmagarma.ir/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 68
+      validTo: '2026-10-31'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is flordesedabrindes.com.br Legit? Trust Score 40/100
 description: >-
   flordesedabrindes.com.br scores 40/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:03:13.438Z'
+fetchedAt: '2026-08-10T06:00:48.214Z'
 finalUrl: 'https://www.flordesedabrindes.com.br/'
 reachable: true
 noindex: false
@@ -46,18 +46,18 @@ signals:
   pages:
     status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

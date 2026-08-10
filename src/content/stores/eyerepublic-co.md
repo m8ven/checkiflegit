@@ -6,7 +6,7 @@ description: >-
   eyerepublic.co scores 19/100 on our public trust checks. No valid SSL
   certificate — connection may not be secure. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T03:02:51.533Z'
+fetchedAt: '2026-08-10T06:00:45.241Z'
 finalUrl: 'https://www.eyerepublic.co/'
 reachable: true
 noindex: false
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      address: false
+    detail: 'Public contact details found: email, phone.'
   social:
     status: fail
     value:

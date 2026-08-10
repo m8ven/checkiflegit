@@ -5,7 +5,7 @@ title: Is woodstore.gr Legit? Trust Score 100/100
 description: >-
   woodstore.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:22:06.018Z'
+fetchedAt: '2026-08-10T06:29:14.616Z'
 finalUrl: 'https://woodstore.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

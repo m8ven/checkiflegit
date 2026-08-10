@@ -5,7 +5,7 @@ title: Is mgcarshop.hu Legit? Trust Score 83/100
 description: >-
   mgcarshop.hu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:18:19.774Z'
+fetchedAt: '2026-08-10T06:26:12.506Z'
 finalUrl: 'https://mgcarshop.hu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 81
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

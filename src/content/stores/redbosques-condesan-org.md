@@ -6,7 +6,7 @@ description: >-
   redbosques.condesan.org scores 36/100 on our public trust checks. Standard
   contact and policy pages were not found. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T12:05:46.860Z'
+fetchedAt: '2026-08-10T06:15:30.998Z'
 finalUrl: 'https://redbosques.condesan.org/'
 reachable: true
 noindex: false
@@ -57,8 +57,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-08'
-      daysToExpiry: 75
+      validTo: '2026-11-07'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

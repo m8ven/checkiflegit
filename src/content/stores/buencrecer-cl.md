@@ -5,7 +5,7 @@ title: Is buencrecer.cl Legit? Trust Score 100/100
 description: >-
   buencrecer.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:24:06.316Z'
+fetchedAt: '2026-08-10T06:30:45.501Z'
 finalUrl: 'https://www.buencrecer.cl/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-25'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

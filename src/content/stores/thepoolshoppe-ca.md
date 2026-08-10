@@ -4,8 +4,8 @@ slug: thepoolshoppe-ca
 title: Is thepoolshoppe.ca Legit? Trust Score 100/100
 description: >-
   thepoolshoppe.ca scores 100/100 on our public trust checks. Established domain
-  — registered 24.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:06:25.044Z'
+  — registered 24.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:16:01.677Z'
 finalUrl: 'https://thepoolshoppe.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.7 years ago.
+    - Established domain — registered 24.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: GoGetSSL
       validTo: '2026-10-13'
-      daysToExpiry: 111
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by GoGetSSL.
   domainAge:
     status: pass
     value:
       createdAt: '2001-11-02'
-      ageDays: 9001
-      ageYears: 24.7
-    detail: Registered 24.7 years ago (2001-11-02).
+      ageDays: 9047
+      ageYears: 24.8
+    detail: Registered 24.8 years ago (2001-11-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thepoolshoppe.ca looks like a well-established store. The clearest positives are that its domain has been registered for 24.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thepoolshoppe.ca looks like a well-established store. The clearest positives are that its domain has been registered for 24.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thepoolshoppe in the score above.
 

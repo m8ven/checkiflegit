@@ -5,7 +5,7 @@ title: Is rstech.cl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   rstech.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:07:12.083Z'
+fetchedAt: '2026-08-10T06:16:51.669Z'
 finalUrl: 'https://rstech.cl/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-20'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

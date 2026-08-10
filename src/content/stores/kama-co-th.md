@@ -5,7 +5,7 @@ title: Is kama.co.th Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   kama.co.th scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:04:52.540Z'
+fetchedAt: '2026-08-10T06:14:59.695Z'
 finalUrl: 'https://kama.co.th/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 31
+      validTo: '2026-09-24'
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

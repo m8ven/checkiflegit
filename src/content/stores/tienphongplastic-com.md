@@ -1,11 +1,11 @@
 ---
 domain: tienphongplastic.com
 slug: tienphongplastic-com
-title: Is tienphongplastic.com Legit? Trust Score 88/100
+title: Is tienphongplastic.com Legit? Trust Score 100/100
 description: >-
-  tienphongplastic.com scores 88/100 on our public trust checks. Established
-  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:11:10.283Z'
+  tienphongplastic.com scores 100/100 on our public trust checks. Established
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:20:00.089Z'
 finalUrl: 'https://tienphongplastic.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.9 years ago.
+    - Established domain — registered 3 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
-      privacy: false
-      terms: false
+      contact: true
+      privacy: true
+      terms: true
       refund: true
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: ZeroSSL GmbH
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-16'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by ZeroSSL GmbH.
   domainAge:
     status: pass
     value:
       createdAt: '2023-08-04'
-      ageDays: 1056
-      ageYears: 2.9
-    detail: Registered 2.9 years ago (2023-08-04).
+      ageDays: 1102
+      ageYears: 3
+    detail: Registered 3 years ago (2023-08-04).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tienphongplastic.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tienphongplastic.com looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tienphongplastic in the score above.
 

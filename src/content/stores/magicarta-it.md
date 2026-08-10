@@ -4,8 +4,8 @@ slug: magicarta-it
 title: Is magicarta.it Legit? Trust Score 100/100
 description: >-
   magicarta.it scores 100/100 on our public trust checks. Established domain —
-  registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:38.520Z'
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:44.262Z'
 finalUrl: 'https://www.magicarta.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.3 years ago.
+    - Established domain — registered 2.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-03-06'
-      ageDays: 840
-      ageYears: 2.3
-    detail: Registered 2.3 years ago (2024-03-06).
+      ageDays: 886
+      ageYears: 2.4
+    detail: Registered 2.4 years ago (2024-03-06).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-magicarta.it looks like a well-established store. The clearest positives are that its domain has been registered for 2.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+magicarta.it looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Magicarta in the score above.
 

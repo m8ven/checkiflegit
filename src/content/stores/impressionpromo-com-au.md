@@ -5,7 +5,7 @@ title: Is impressionpromo.com.au Legit? Trust Score 83/100
 description: >-
   impressionpromo.com.au scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:00:09.258Z'
+fetchedAt: '2026-08-10T06:11:13.041Z'
 finalUrl: 'https://impressionpromo.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 29
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,11 +1,11 @@
 ---
 domain: repart.dk
 slug: repart-dk
-title: Is repart.dk Legit? Trust Score 82/100 — Trust Checks Pass
+title: Is repart.dk Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
-  repart.dk scores 82/100 on our public trust checks. Established domain —
-  registered 25.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:20.352Z'
+  repart.dk scores 94/100 on our public trust checks. Established domain —
+  registered 25.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:43.833Z'
 finalUrl: 'https://repart.dk/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.8 years ago.
+    - Established domain — registered 25.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
       terms: false
       refund: true
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-09-27'
-      ageDays: 9402
-      ageYears: 25.8
-    detail: Registered 25.8 years ago (2000-09-27).
+      ageDays: 9448
+      ageYears: 25.9
+    detail: Registered 25.9 years ago (2000-09-27).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-repart.dk looks like a well-established store. The clearest positives are that its domain has been registered for 25.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+repart.dk looks like a well-established store. The clearest positives are that its domain has been registered for 25.9 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Repart in the score above.
 

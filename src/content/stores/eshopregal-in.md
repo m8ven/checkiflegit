@@ -5,7 +5,7 @@ title: Is eshopregal.in Legit? Trust Score 91/100
 description: >-
   eshopregal.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:30:12.748Z'
+fetchedAt: '2026-08-10T06:35:51.004Z'
 finalUrl: 'https://www.eshopregal.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

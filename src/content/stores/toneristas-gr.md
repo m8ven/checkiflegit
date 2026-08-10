@@ -5,7 +5,7 @@ title: Is toneristas.gr Legit? Trust Score 100/100
 description: >-
   toneristas.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:06:06.093Z'
+fetchedAt: '2026-08-10T06:15:54.434Z'
 finalUrl: 'https://toneristas.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-04'
-      daysToExpiry: 71
+      validTo: '2026-11-03'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: weedposters-io
 title: Is weedposters.io Legit? Trust Score 94/100
 description: >-
   weedposters.io scores 94/100 on our public trust checks. Established domain —
-  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:10:01.146Z'
+  registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:19:17.986Z'
 finalUrl: 'https://weedposters.io/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.2 years ago.
+    - Established domain — registered 4.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-04-10'
-      ageDays: 1536
-      ageYears: 4.2
-    detail: Registered 4.2 years ago (2022-04-10).
+      ageDays: 1582
+      ageYears: 4.3
+    detail: Registered 4.3 years ago (2022-04-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-weedposters.io looks like a well-established store. The clearest positives are that its domain has been registered for 4.2 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+weedposters.io looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Weedposters in the score above.
 

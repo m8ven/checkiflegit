@@ -4,8 +4,8 @@ slug: shedsunlimited-net
 title: Is shedsunlimited.net Legit? Trust Score 100/100
 description: >-
   shedsunlimited.net scores 100/100 on our public trust checks. Established
-  domain — registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:50.425Z'
+  domain — registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:07.040Z'
 finalUrl: 'https://shedsunlimited.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.3 years ago.
+    - Established domain — registered 22.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-31'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2004-03-10'
-      ageDays: 8141
-      ageYears: 22.3
-    detail: Registered 22.3 years ago (2004-03-10).
+      ageDays: 8187
+      ageYears: 22.4
+    detail: Registered 22.4 years ago (2004-03-10).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-shedsunlimited.net looks like a well-established store. The clearest positives are that its domain has been registered for 22.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+shedsunlimited.net looks like a well-established store. The clearest positives are that its domain has been registered for 22.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Shedsunlimited in the score above.
 

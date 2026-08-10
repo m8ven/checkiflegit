@@ -6,7 +6,7 @@ description: >-
   persoenlichkeitsfotographie.ch scores 61/100 on our public trust checks. No
   links to major social platforms found. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T12:25:25.203Z'
+fetchedAt: '2026-08-10T06:31:38.339Z'
 finalUrl: 'https://www.persoenlichkeitsfotographie.ch/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-19'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

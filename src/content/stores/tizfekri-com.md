@@ -4,8 +4,8 @@ slug: tizfekri-com
 title: Is tizfekri.com Legit? Trust Score 88/100
 description: >-
   tizfekri.com scores 88/100 on our public trust checks. Established domain —
-  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:05:58.642Z'
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:15:50.356Z'
 finalUrl: 'https://tizfekri.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.9 years ago.
+    - Established domain — registered 6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-16'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-08-03'
-      ageDays: 2151
-      ageYears: 5.9
-    detail: Registered 5.9 years ago (2020-08-03).
+      ageDays: 2197
+      ageYears: 6
+    detail: Registered 6 years ago (2020-08-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tizfekri.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tizfekri.com looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tizfekri in the score above.
 

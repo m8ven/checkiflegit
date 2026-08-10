@@ -4,8 +4,8 @@ slug: numpaint-com
 title: Is numpaint.com Legit? Trust Score 73/100
 description: >-
   numpaint.com scores 73/100 on our public trust checks. Established domain —
-  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:57:53.582Z'
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:20.738Z'
 finalUrl: 'https://numpaint.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.7 years ago.
+    - Established domain — registered 5.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-10-20'
-      ageDays: 2074
-      ageYears: 5.7
-    detail: Registered 5.7 years ago (2020-10-20).
+      ageDays: 2120
+      ageYears: 5.8
+    detail: Registered 5.8 years ago (2020-10-20).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-numpaint.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+numpaint.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Numpaint in the score above.
 

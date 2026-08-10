@@ -4,8 +4,8 @@ slug: thestylerack-com-mx
 title: Is thestylerack.com.mx Legit? Trust Score 100/100
 description: >-
   thestylerack.com.mx scores 100/100 on our public trust checks. Established
-  domain — registered 6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:15:26.282Z'
+  domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:23:39.352Z'
 finalUrl: 'https://thestylerack.com.mx/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 6 years ago.
+    - Established domain — registered 6.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 66
+      issuer: Google Trust Services
+      validTo: '2026-10-28'
+      daysToExpiry: 80
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-07-10'
-      ageDays: 2176
-      ageYears: 6
-    detail: Registered 6 years ago (2020-07-10).
+      ageDays: 2222
+      ageYears: 6.1
+    detail: Registered 6.1 years ago (2020-07-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thestylerack.com.mx looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thestylerack.com.mx looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thestylerack in the score above.
 

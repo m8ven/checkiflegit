@@ -4,8 +4,8 @@ slug: sut-org
 title: Is sut.org Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
   sut.org scores 85/100 on our public trust checks. Established domain —
-  registered 29.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:05:10.082Z'
+  registered 29.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:15:15.243Z'
 finalUrl: 'https://sut.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.6 years ago.
+    - Established domain — registered 29.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1996-12-09'
-      ageDays: 10790
-      ageYears: 29.6
-    detail: Registered 29.6 years ago (1996-12-09).
+      ageDays: 10836
+      ageYears: 29.7
+    detail: Registered 29.7 years ago (1996-12-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sut.org looks like a well-established store. The clearest positives are that its domain has been registered for 29.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sut.org looks like a well-established store. The clearest positives are that its domain has been registered for 29.7 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sut in the score above.
 

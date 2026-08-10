@@ -4,8 +4,8 @@ slug: bgasc-com
 title: Is bgasc.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   bgasc.com scores 88/100 on our public trust checks. Established domain —
-  registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:23:28.022Z'
+  registered 15.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:13.788Z'
 finalUrl: 'https://www.bgasc.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.4 years ago.
+    - Established domain — registered 15.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-10-10'
-      daysToExpiry: 108
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2011-01-21'
-      ageDays: 5633
-      ageYears: 15.4
-    detail: Registered 15.4 years ago (2011-01-21).
+      ageDays: 5679
+      ageYears: 15.6
+    detail: Registered 15.6 years ago (2011-01-21).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bgasc.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bgasc.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bgasc in the score above.
 

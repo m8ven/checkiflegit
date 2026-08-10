@@ -4,8 +4,8 @@ slug: oleificioguccione-it
 title: Is oleificioguccione.it Legit? Trust Score 88/100
 description: >-
   oleificioguccione.it scores 88/100 on our public trust checks. Established
-  domain — registered 13.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:38.502Z'
+  domain — registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:56.262Z'
 finalUrl: 'https://oleificioguccione.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 13.6 years ago.
+    - Established domain — registered 13.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-12-07'
-      ageDays: 4947
-      ageYears: 13.6
-    detail: Registered 13.6 years ago (2012-12-07).
+      ageDays: 4993
+      ageYears: 13.7
+    detail: Registered 13.7 years ago (2012-12-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-oleificioguccione.it looks like a well-established store. The clearest positives are that its domain has been registered for 13.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+oleificioguccione.it looks like a well-established store. The clearest positives are that its domain has been registered for 13.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Oleificioguccione in the score above.
 

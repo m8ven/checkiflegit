@@ -4,8 +4,8 @@ slug: pixelmandan-com
 title: Is pixelmandan.com Legit? Trust Score 88/100
 description: >-
   pixelmandan.com scores 88/100 on our public trust checks. Established domain —
-  registered 10 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:29:36.245Z'
+  registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:35:21.818Z'
 finalUrl: 'https://pixelmandan.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 80
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-06-09'
-      ageDays: 3667
-      ageYears: 10
-    detail: Registered 10 years ago (2016-06-09).
+      ageDays: 3713
+      ageYears: 10.2
+    detail: Registered 10.2 years ago (2016-06-09).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pixelmandan.com looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pixelmandan.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pixelmandan in the score above.
 

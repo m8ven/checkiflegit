@@ -4,8 +4,8 @@ slug: clermontcommerce-fr
 title: Is clermontcommerce.fr Legit? Trust Score 100/100
 description: >-
   clermontcommerce.fr scores 100/100 on our public trust checks. Established
-  domain — registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:15:44.650Z'
+  domain — registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:23:56.829Z'
 finalUrl: 'https://www.clermontcommerce.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.4 years ago.
+    - Established domain — registered 16.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 68
+      validTo: '2026-10-31'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-02-05'
-      ageDays: 5983
-      ageYears: 16.4
-    detail: Registered 16.4 years ago (2010-02-05).
+      ageDays: 6029
+      ageYears: 16.5
+    detail: Registered 16.5 years ago (2010-02-05).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-clermontcommerce.fr looks like a well-established store. The clearest positives are that its domain has been registered for 16.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+clermontcommerce.fr looks like a well-established store. The clearest positives are that its domain has been registered for 16.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Clermontcommerce in the score above.
 

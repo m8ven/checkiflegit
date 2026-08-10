@@ -1,24 +1,23 @@
 ---
 domain: scarborough.africa
 slug: scarborough-africa
-title: Is scarborough.africa Legit? Trust Score 73/100
+title: Is scarborough.africa Legit? Trust Score 61/100
 description: >-
-  scarborough.africa scores 73/100 on our public trust checks. Established
-  domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:01:55.623Z'
-finalUrl: 'http://scarborough.africa/'
+  scarborough.africa scores 61/100 on our public trust checks. No links to major
+  social platforms found.
+fetchedAt: '2026-08-10T06:12:26.699Z'
+finalUrl: 'https://scarborough.africa/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -30,7 +29,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'http://scarborough.africa/'
+      finalUrl: 'https://scarborough.africa/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -56,17 +55,14 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 46
+      validTo: '2026-10-10'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2024-12-19'
-      ageDays: 552
-      ageYears: 1.5
-    detail: Registered 1.5 years ago (2024-12-19).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-scarborough.africa looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+scarborough.africa sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Scarborough in the score above.
 

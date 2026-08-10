@@ -5,7 +5,7 @@ title: Is astroticino.ch Legit? Trust Score 83/100
 description: >-
   astroticino.ch scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:22:12.698Z'
+fetchedAt: '2026-08-10T06:29:21.313Z'
 finalUrl: 'https://www.astroticino.ch/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-20'
-      daysToExpiry: 26
+      validTo: '2026-09-29'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

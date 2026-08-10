@@ -5,7 +5,7 @@ title: Is katalog.rovnovazka.eu Legit? Trust Score 49/100
 description: >-
   katalog.rovnovazka.eu scores 49/100 on our public trust checks. Standard
   contact and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T12:10:45.557Z'
+fetchedAt: '2026-08-10T06:19:43.019Z'
 finalUrl: 'https://katalog.rovnovazka.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2026-10-29'
-      daysToExpiry: 126
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:

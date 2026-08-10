@@ -5,7 +5,7 @@ title: Is oldcobbler.shop Legit? Trust Score 91/100
 description: >-
   oldcobbler.shop scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:56:36.571Z'
+fetchedAt: '2026-08-10T06:06:23.233Z'
 finalUrl: 'https://oldcobbler.shop/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-06'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

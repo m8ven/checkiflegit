@@ -5,7 +5,7 @@ title: Is koisadeadulto.com.br Legit? Trust Score 49/100
 description: >-
   koisadeadulto.com.br scores 49/100 on our public trust checks. Standard
   contact and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T12:07:43.808Z'
+fetchedAt: '2026-08-10T06:17:14.137Z'
 finalUrl: 'https://koisadeadulto.com.br/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

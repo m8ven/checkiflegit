@@ -5,7 +5,7 @@ title: Is bratva.in Legit? Trust Score 44/100
 description: >-
   bratva.in scores 44/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:19:51.648Z'
+fetchedAt: '2026-08-10T06:00:52.377Z'
 finalUrl: 'https://bratva.in/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

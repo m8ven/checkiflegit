@@ -5,7 +5,7 @@ title: Is newline.com.mt Legit? Trust Score 83/100
 description: >-
   newline.com.mt scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:22:33.888Z'
+fetchedAt: '2026-08-10T06:29:34.852Z'
 finalUrl: 'https://newline.com.mt/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-01'
-      daysToExpiry: 68
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

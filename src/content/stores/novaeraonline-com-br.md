@@ -5,7 +5,7 @@ title: Is novaeraonline.com.br Legit? Trust Score 40/100
 description: >-
   novaeraonline.com.br scores 40/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:55:39.749Z'
+fetchedAt: '2026-08-10T06:05:44.488Z'
 finalUrl: 'https://novaeraonline.com.br/'
 reachable: true
 noindex: false
@@ -46,18 +46,18 @@ signals:
   pages:
     status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-13'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

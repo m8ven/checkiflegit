@@ -4,8 +4,8 @@ slug: essen-nutrition-com
 title: Is essen-nutrition.com Legit? Trust Score 73/100
 description: >-
   essen-nutrition.com scores 73/100 on our public trust checks. Established
-  domain — registered 29.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:18:19.049Z'
+  domain — registered 29.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:26:10.936Z'
 finalUrl: 'https://www.essen-nutrition.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.4 years ago.
+    - Established domain — registered 29.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 67
+      validTo: '2026-10-31'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-02-03'
-      ageDays: 10734
-      ageYears: 29.4
-    detail: Registered 29.4 years ago (1997-02-03).
+      ageDays: 10780
+      ageYears: 29.5
+    detail: Registered 29.5 years ago (1997-02-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-essen-nutrition.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+essen-nutrition.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Essen-nutrition in the score above.
 

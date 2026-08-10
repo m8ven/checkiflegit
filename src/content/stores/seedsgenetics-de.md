@@ -5,7 +5,7 @@ title: Is seedsgenetics.de Legit? Trust Score 100/100
 description: >-
   seedsgenetics.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:00:30.725Z'
+fetchedAt: '2026-08-10T06:11:26.107Z'
 finalUrl: 'https://seedsgenetics.de/'
 reachable: true
 noindex: false
@@ -35,7 +35,7 @@ signals:
     status: pass
     value:
       platform: WooCommerce
-      isStore: true
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

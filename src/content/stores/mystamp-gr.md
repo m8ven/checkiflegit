@@ -5,7 +5,7 @@ title: Is mystamp.gr Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   mystamp.gr scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:57:50.164Z'
+fetchedAt: '2026-08-10T06:07:11.431Z'
 finalUrl: 'https://mystamp.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-01'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

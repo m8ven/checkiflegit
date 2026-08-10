@@ -5,7 +5,7 @@ title: Is michigandigitalnews.com Legit? Trust Score 37/100
 description: >-
   michigandigitalnews.com scores 37/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:52:38.771Z'
+fetchedAt: '2026-08-10T06:04:15.234Z'
 finalUrl: 'https://michigandigitalnews.com/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-01'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-01-05'
-      ageDays: 171
-      ageYears: 0.5
-    detail: Registered 0.5 years ago (2026-01-05).
+      ageDays: 217
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2026-01-05).
   contact:
     status: fail
     value:

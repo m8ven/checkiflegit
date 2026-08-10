@@ -5,7 +5,7 @@ title: Is historische-rosen-schuett.de Legit? Trust Score 74/100
 description: >-
   historische-rosen-schuett.de scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:21.176Z'
+fetchedAt: '2026-08-10T06:08:03.768Z'
 finalUrl: 'https://historische-rosen-schuett.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

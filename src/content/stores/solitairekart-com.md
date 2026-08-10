@@ -4,8 +4,8 @@ slug: solitairekart-com
 title: Is solitairekart.com Legit? Trust Score 100/100
 description: >-
   solitairekart.com scores 100/100 on our public trust checks. Established
-  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:38.769Z'
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:04.615Z'
 finalUrl: 'https://solitairekart.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.3 years ago.
+    - Established domain — registered 4.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-03-03'
-      ageDays: 1574
-      ageYears: 4.3
-    detail: Registered 4.3 years ago (2022-03-03).
+      ageDays: 1620
+      ageYears: 4.4
+    detail: Registered 4.4 years ago (2022-03-03).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-solitairekart.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+solitairekart.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Solitairekart in the score above.
 

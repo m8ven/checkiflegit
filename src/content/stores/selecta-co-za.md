@@ -5,7 +5,7 @@ title: Is selecta.co.za Legit? Trust Score 83/100
 description: >-
   selecta.co.za scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:08:50.108Z'
+fetchedAt: '2026-08-10T06:18:25.739Z'
 finalUrl: 'https://selecta.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

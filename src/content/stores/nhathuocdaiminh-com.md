@@ -1,11 +1,11 @@
 ---
 domain: nhathuocdaiminh.com
 slug: nhathuocdaiminh-com
-title: Is nhathuocdaiminh.com Legit? Trust Score 70/100
+title: Is nhathuocdaiminh.com Legit? Trust Score 88/100
 description: >-
-  nhathuocdaiminh.com scores 70/100 on our public trust checks. Established
-  domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:55:45.846Z'
+  nhathuocdaiminh.com scores 88/100 on our public trust checks. Established
+  domain — registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:32.708Z'
 finalUrl: 'https://nhathuocdaiminh.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.7 years ago.
+    - Established domain — registered 5.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
       contact: false
-      privacy: false
+      privacy: true
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 70
+      validTo: '2026-11-02'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-10-08'
-      ageDays: 2086
-      ageYears: 5.7
-    detail: Registered 5.7 years ago (2020-10-08).
+      ageDays: 2132
+      ageYears: 5.8
+    detail: Registered 5.8 years ago (2020-10-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nhathuocdaiminh.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nhathuocdaiminh.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nhathuocdaiminh in the score above.
 

@@ -5,7 +5,7 @@ title: Is intexsa.co.za Legit? Trust Score 100/100
 description: >-
   intexsa.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:01:15.766Z'
+fetchedAt: '2026-08-10T06:12:00.245Z'
 finalUrl: 'https://intexsa.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

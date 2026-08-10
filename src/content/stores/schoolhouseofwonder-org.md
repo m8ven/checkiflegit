@@ -4,8 +4,8 @@ slug: schoolhouseofwonder-org
 title: Is schoolhouseofwonder.org Legit? Trust Score 100/100
 description: >-
   schoolhouseofwonder.org scores 100/100 on our public trust checks. Established
-  domain — registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:00:07.154Z'
+  domain — registered 24.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:11:11.626Z'
 finalUrl: 'https://schoolhouseofwonder.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.4 years ago.
+    - Established domain — registered 24.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 45
+      validTo: '2026-09-24'
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-01-25'
-      ageDays: 8916
-      ageYears: 24.4
-    detail: Registered 24.4 years ago (2002-01-25).
+      ageDays: 8962
+      ageYears: 24.6
+    detail: Registered 24.6 years ago (2002-01-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-schoolhouseofwonder.org looks like a well-established store. The clearest positives are that its domain has been registered for 24.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+schoolhouseofwonder.org looks like a well-established store. The clearest positives are that its domain has been registered for 24.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Schoolhouseofwonder in the score above.
 

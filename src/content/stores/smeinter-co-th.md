@@ -5,8 +5,8 @@ title: Is smeinter.co.th Legit? Trust Score 83/100
 description: >-
   smeinter.co.th scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:03:40.497Z'
-finalUrl: 'https://smeinter.co.th/'
+fetchedAt: '2026-08-10T06:13:53.332Z'
+finalUrl: 'https://www.smeinter.co.th/'
 reachable: true
 noindex: false
 verdict:
@@ -29,7 +29,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://smeinter.co.th/'
+      finalUrl: 'https://www.smeinter.co.th/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -37,7 +37,7 @@ signals:
       platform: WooCommerce
       isStore: true
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-29'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

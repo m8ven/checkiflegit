@@ -4,8 +4,8 @@ slug: prosistemika-ru
 title: Is prosistemika.ru Legit? Trust Score 85/100
 description: >-
   prosistemika.ru scores 85/100 on our public trust checks. Established domain —
-  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:57:09.081Z'
+  registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:08:44.205Z'
 finalUrl: 'https://prosistemika.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.1 years ago.
+    - Established domain — registered 4.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-05-11'
-      ageDays: 1506
-      ageYears: 4.1
-    detail: Registered 4.1 years ago (2022-05-11).
+      ageDays: 1552
+      ageYears: 4.3
+    detail: Registered 4.3 years ago (2022-05-11).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-prosistemika.ru looks like a well-established store. The clearest positives are that its domain has been registered for 4.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+prosistemika.ru looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Prosistemika in the score above.
 

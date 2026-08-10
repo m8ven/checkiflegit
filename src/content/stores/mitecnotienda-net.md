@@ -4,8 +4,8 @@ slug: mitecnotienda-net
 title: Is mitecnotienda.net Legit? Trust Score 70/100
 description: >-
   mitecnotienda.net scores 70/100 on our public trust checks. Established domain
-  — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:55:53.330Z'
+  — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:05:53.434Z'
 finalUrl: 'https://mitecnotienda.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.2 years ago.
+    - Established domain — registered 8.3 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -49,24 +49,24 @@ signals:
       contact: false
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-19'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-04-14'
-      ageDays: 2993
-      ageYears: 8.2
-    detail: Registered 8.2 years ago (2018-04-14).
+      ageDays: 3039
+      ageYears: 8.3
+    detail: Registered 8.3 years ago (2018-04-14).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mitecnotienda.net looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mitecnotienda.net looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mitecnotienda in the score above.
 

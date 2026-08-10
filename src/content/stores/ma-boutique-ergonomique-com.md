@@ -4,9 +4,9 @@ slug: ma-boutique-ergonomique-com
 title: Is ma-boutique-ergonomique.com Legit? Trust Score 94/100
 description: >-
   ma-boutique-ergonomique.com scores 94/100 on our public trust checks.
-  Established domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 4.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:27:13.839Z'
+fetchedAt: '2026-08-10T06:33:41.527Z'
 finalUrl: 'https://www.ma-boutique-ergonomique.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.1 years ago.
+    - Established domain — registered 4.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-14'
-      daysToExpiry: 81
+      validTo: '2026-11-02'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-05-16'
-      ageDays: 1501
-      ageYears: 4.1
-    detail: Registered 4.1 years ago (2022-05-16).
+      ageDays: 1546
+      ageYears: 4.2
+    detail: Registered 4.2 years ago (2022-05-16).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ma-boutique-ergonomique.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ma-boutique-ergonomique.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.2 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ma-boutique-ergonomique in the score above.
 

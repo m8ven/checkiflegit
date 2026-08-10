@@ -5,7 +5,7 @@ title: Is produtosmakemais.com.br Legit? Trust Score 66/100
 description: >-
   produtosmakemais.com.br scores 66/100 on our public trust checks. Some
   standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T11:59:16.647Z'
+fetchedAt: '2026-08-10T06:10:25.803Z'
 finalUrl: 'https://produtosmakemais.com.br/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 57
+      validTo: '2026-10-20'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

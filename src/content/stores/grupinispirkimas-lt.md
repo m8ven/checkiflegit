@@ -5,7 +5,7 @@ title: Is grupinispirkimas.lt Legit? Trust Score 70/100
 description: >-
   grupinispirkimas.lt scores 70/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:47:22.587Z'
+fetchedAt: '2026-08-10T06:03:31.783Z'
 finalUrl: 'https://grupinispirkimas.lt/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-05'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-25'
-      ageDays: 243
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-10-25).
+      ageDays: 289
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-10-25).
   contact:
     status: pass
     value:

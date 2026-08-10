@@ -4,8 +4,8 @@ slug: bestmobilephone-co-nz
 title: Is bestmobilephone.co.nz Legit? Trust Score 85/100
 description: >-
   bestmobilephone.co.nz scores 85/100 on our public trust checks. Established
-  domain — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:22.132Z'
+  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:25.660Z'
 finalUrl: 'https://bestmobilephone.co.nz/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-01-18'
-      ageDays: 1983
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-01-18).
+      ageDays: 2029
+      ageYears: 5.6
+    detail: Registered 5.6 years ago (2021-01-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bestmobilephone.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bestmobilephone.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bestmobilephone in the score above.
 

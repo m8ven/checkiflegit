@@ -5,7 +5,7 @@ title: Is shopbabunkers.es Legit? Trust Score 83/100
 description: >-
   shopbabunkers.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:57:09.688Z'
+fetchedAt: '2026-08-10T06:06:42.546Z'
 finalUrl: 'https://shopbabunkers.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

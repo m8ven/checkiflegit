@@ -5,7 +5,7 @@ title: Is mobilcentar.ba Legit? Trust Score 83/100
 description: >-
   mobilcentar.ba scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:31:57.289Z'
+fetchedAt: '2026-08-10T06:37:18.040Z'
 finalUrl: 'https://mobilcentar.ba/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 78
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

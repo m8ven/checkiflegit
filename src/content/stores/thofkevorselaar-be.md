@@ -1,11 +1,11 @@
 ---
 domain: thofkevorselaar.be
 slug: thofkevorselaar-be
-title: Is thofkevorselaar.be Legit? Trust Score 88/100
+title: Is thofkevorselaar.be Legit? Trust Score 100/100
 description: >-
-  thofkevorselaar.be scores 88/100 on our public trust checks. Established
-  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:06:29.860Z'
+  thofkevorselaar.be scores 100/100 on our public trust checks. Established
+  domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:16:12.305Z'
 finalUrl: 'https://thofkevorselaar.be/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.4 years ago.
+    - Established domain — registered 4.5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-02-07'
-      ageDays: 1599
-      ageYears: 4.4
-    detail: Registered 4.4 years ago (2022-02-07).
+      ageDays: 1645
+      ageYears: 4.5
+    detail: Registered 4.5 years ago (2022-02-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thofkevorselaar.be looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thofkevorselaar.be looks like a well-established store. The clearest positives are that its domain has been registered for 4.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thofkevorselaar in the score above.
 

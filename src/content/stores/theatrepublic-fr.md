@@ -5,7 +5,7 @@ title: Is theatrepublic.fr Legit? Trust Score 58/100
 description: >-
   theatrepublic.fr scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T12:15:07.903Z'
+fetchedAt: '2026-08-10T06:23:23.514Z'
 finalUrl: 'https://theatrepublic.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.9 years ago.
+    - Established domain — registered 19 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-19'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-08-22'
-      ageDays: 6882
-      ageYears: 18.9
-    detail: Registered 18.9 years ago (2007-08-22).
+      ageDays: 6927
+      ageYears: 19
+    detail: Registered 19 years ago (2007-08-22).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-theatrepublic.fr sends a mixed set of signals. On the positive side, its domain has been registered for 18.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+theatrepublic.fr sends a mixed set of signals. On the positive side, its domain has been registered for 19 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Theatrepublic in the score above.
 

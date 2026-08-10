@@ -5,7 +5,7 @@ title: Is tripmeegypt.com Legit? Trust Score 67/100 — Mixed Signals
 description: >-
   tripmeegypt.com scores 67/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T12:07:25.713Z'
+fetchedAt: '2026-08-10T06:17:01.937Z'
 finalUrl: 'https://tripmeegypt.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-04'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-09-23'
-      ageDays: 274
-      ageYears: 0.8
-    detail: Registered 0.8 years ago (2025-09-23).
+      ageDays: 320
+      ageYears: 0.9
+    detail: Registered 0.9 years ago (2025-09-23).
   contact:
     status: pass
     value:

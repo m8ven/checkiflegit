@@ -3,9 +3,9 @@ domain: pearllynnbanks.com
 slug: pearllynnbanks-com
 title: Is pearllynnbanks.com Legit? Trust Score 43/100
 description: >-
-  pearllynnbanks.com scores 43/100 on our public trust checks. No public contact
-  details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:01:26.884Z'
+  pearllynnbanks.com scores 43/100 on our public trust checks. Standard contact
+  and policy pages were not found. No links to major social platforms found.
+fetchedAt: '2026-08-10T06:12:07.245Z'
 finalUrl: 'https://pearllynnbanks.com/'
 reachable: true
 noindex: false
@@ -18,14 +18,13 @@ verdict:
     buyer-protected payment methods.
   score: 43
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
-    - No public contact details detected on the homepage.
+    - Standard contact and policy pages were not found.
     - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -34,47 +33,47 @@ signals:
       finalUrl: 'https://pearllynnbanks.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 29
+      validTo: '2026-09-23'
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-01-23'
-      ageDays: 517
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-01-23).
+      ageDays: 563
+      ageYears: 1.5
+    detail: Registered 1.5 years ago (2025-01-23).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
     status: fail
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for pearllynnbanks.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 1.4 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for pearllynnbanks.com. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 1.5 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pearllynnbanks in the score above.
 

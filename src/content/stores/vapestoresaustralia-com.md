@@ -5,7 +5,7 @@ title: Is vapestoresaustralia.com Legit? Trust Score 55/100
 description: >-
   vapestoresaustralia.com scores 55/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:55:11.809Z'
+fetchedAt: '2026-08-10T06:00:18.054Z'
 finalUrl: 'https://vapestoresaustralia.com/'
 reachable: true
 noindex: false
@@ -17,8 +17,7 @@ verdict:
     present, but a few are missing — review the breakdown below before buying.
   score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.9 years ago.
+    - Established domain — registered 2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -33,40 +32,40 @@ signals:
       finalUrl: 'https://vapestoresaustralia.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-07-31'
-      ageDays: 693
-      ageYears: 1.9
-    detail: Registered 1.9 years ago (2024-07-31).
+      ageDays: 739
+      ageYears: 2
+    detail: Registered 2 years ago (2024-07-31).
   contact:
     status: fail
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-vapestoresaustralia.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+vapestoresaustralia.com sends a mixed set of signals. On the positive side, its domain has been registered for 2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vapestoresaustralia in the score above.
 

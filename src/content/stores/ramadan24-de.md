@@ -5,7 +5,7 @@ title: Is ramadan24.de Legit? Trust Score 100/100
 description: >-
   ramadan24.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:32:40.472Z'
+fetchedAt: '2026-08-10T06:37:53.074Z'
 finalUrl: 'https://ramadan24.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-29'
-      daysToExpiry: 97
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

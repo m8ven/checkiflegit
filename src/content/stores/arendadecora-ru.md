@@ -1,11 +1,11 @@
 ---
 domain: arendadecora.ru
 slug: arendadecora-ru
-title: Is arendadecora.ru Legit? Trust Score 88/100
+title: Is arendadecora.ru Legit? Trust Score 100/100
 description: >-
-  arendadecora.ru scores 88/100 on our public trust checks. Established domain —
-  registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:12:29.412Z'
+  arendadecora.ru scores 100/100 on our public trust checks. Established domain
+  — registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:21:08.589Z'
 finalUrl: 'https://www.arendadecora.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.4 years ago.
+    - Established domain — registered 11.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 76
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-01-20'
-      ageDays: 4173
-      ageYears: 11.4
-    detail: Registered 11.4 years ago (2015-01-20).
+      ageDays: 4219
+      ageYears: 11.6
+    detail: Registered 11.6 years ago (2015-01-20).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-arendadecora.ru looks like a well-established store. The clearest positives are that its domain has been registered for 11.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+arendadecora.ru looks like a well-established store. The clearest positives are that its domain has been registered for 11.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Arendadecora in the score above.
 

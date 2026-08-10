@@ -1,11 +1,11 @@
 ---
 domain: hilearning.pt
 slug: hilearning-pt
-title: Is hilearning.pt Legit? Trust Score 85/100
+title: Is hilearning.pt Legit? Trust Score 79/100
 description: >-
-  hilearning.pt scores 85/100 on our public trust checks. Established domain —
-  registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:06.211Z'
+  hilearning.pt scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-10T06:07:48.756Z'
 finalUrl: 'https://hilearning.pt/'
 reachable: true
 noindex: false
@@ -15,10 +15,9 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 85
+  score: 79
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +55,14 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-04'
-      daysToExpiry: 71
+      validTo: '2026-11-04'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2014-05-08'
-      ageDays: 4430
-      ageYears: 12.1
-    detail: Registered 12.1 years ago (2014-05-08).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hilearning.pt looks like a well-established store. The clearest positives are that its domain has been registered for 12.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hilearning.pt looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hilearning in the score above.
 

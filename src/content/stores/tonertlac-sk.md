@@ -5,7 +5,7 @@ title: Is tonertlac.sk Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   tonertlac.sk scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:31:56.144Z'
+fetchedAt: '2026-08-10T06:37:15.506Z'
 finalUrl: 'https://www.tonertlac.sk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-04'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

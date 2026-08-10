@@ -4,8 +4,8 @@ slug: pavonedoors-com
 title: Is pavonedoors.com Legit? Trust Score 73/100
 description: >-
   pavonedoors.com scores 73/100 on our public trust checks. Established domain —
-  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:32.871Z'
+  registered 5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:38.461Z'
 finalUrl: 'https://pavonedoors.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: 'GoDaddy.com, Inc.'
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      issuer: GoDaddy.com
+      validTo: '2026-11-05'
+      daysToExpiry: 88
       authorized: true
-    detail: 'Valid certificate issued by GoDaddy.com, Inc..'
+    detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2021-08-20'
-      ageDays: 1769
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-08-20).
+      ageDays: 1815
+      ageYears: 5
+    detail: Registered 5 years ago (2021-08-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pavonedoors.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pavonedoors.com looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pavonedoors in the score above.
 

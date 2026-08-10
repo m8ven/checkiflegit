@@ -4,8 +4,8 @@ slug: rocciaeresina-it
 title: Is rocciaeresina.it Legit? Trust Score 73/100
 description: >-
   rocciaeresina.it scores 73/100 on our public trust checks. Established domain
-  — registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:26:57.766Z'
+  — registered 24.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:33:21.617Z'
 finalUrl: 'https://www.rocciaeresina.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.4 years ago.
+    - Established domain — registered 24.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2026-10-26'
-      daysToExpiry: 123
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2002-02-04'
-      ageDays: 8907
-      ageYears: 24.4
-    detail: Registered 24.4 years ago (2002-02-04).
+      ageDays: 8953
+      ageYears: 24.5
+    detail: Registered 24.5 years ago (2002-02-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rocciaeresina.it looks like a well-established store. The clearest positives are that its domain has been registered for 24.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+rocciaeresina.it looks like a well-established store. The clearest positives are that its domain has been registered for 24.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rocciaeresina in the score above.
 

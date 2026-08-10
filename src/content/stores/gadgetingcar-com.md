@@ -4,8 +4,8 @@ slug: gadgetingcar-com
 title: Is gadgetingcar.com Legit? Trust Score 100/100
 description: >-
   gadgetingcar.com scores 100/100 on our public trust checks. Established domain
-  — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:46:19.208Z'
+  — registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:03:25.319Z'
 finalUrl: 'https://gadgetingcar.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.6 years ago.
+    - Established domain — registered 1.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-11-29'
-      ageDays: 572
-      ageYears: 1.6
-    detail: Registered 1.6 years ago (2024-11-29).
+      ageDays: 618
+      ageYears: 1.7
+    detail: Registered 1.7 years ago (2024-11-29).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gadgetingcar.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gadgetingcar.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gadgetingcar in the score above.
 

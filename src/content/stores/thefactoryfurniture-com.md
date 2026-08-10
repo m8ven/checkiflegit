@@ -4,8 +4,8 @@ slug: thefactoryfurniture-com
 title: Is thefactoryfurniture.com Legit? Trust Score 100/100
 description: >-
   thefactoryfurniture.com scores 100/100 on our public trust checks. Established
-  domain — registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:05:16.212Z'
+  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:15:18.720Z'
 finalUrl: 'https://thefactoryfurniture.com/ar/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.8 years ago.
+    - Established domain — registered 13 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-26'
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-08-21'
-      ageDays: 4690
-      ageYears: 12.8
-    detail: Registered 12.8 years ago (2013-08-21).
+      ageDays: 4736
+      ageYears: 13
+    detail: Registered 13 years ago (2013-08-21).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thefactoryfurniture.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thefactoryfurniture.com looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thefactoryfurniture in the score above.
 

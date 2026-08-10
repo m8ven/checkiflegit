@@ -4,8 +4,8 @@ slug: cartonnages-gourio-fr
 title: Is cartonnages-gourio.fr Legit? Trust Score 88/100
 description: >-
   cartonnages-gourio.fr scores 88/100 on our public trust checks. Established
-  domain — registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:15:11.697Z'
+  domain — registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:23:27.760Z'
 finalUrl: 'https://www.cartonnages-gourio.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.3 years ago.
+    - Established domain — registered 22.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-17'
-      daysToExpiry: 84
+      validTo: '2026-11-04'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-03-09'
-      ageDays: 8142
-      ageYears: 22.3
-    detail: Registered 22.3 years ago (2004-03-09).
+      ageDays: 8188
+      ageYears: 22.4
+    detail: Registered 22.4 years ago (2004-03-09).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cartonnages-gourio.fr looks like a well-established store. The clearest positives are that its domain has been registered for 22.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cartonnages-gourio.fr looks like a well-established store. The clearest positives are that its domain has been registered for 22.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cartonnages-gourio in the score above.
 

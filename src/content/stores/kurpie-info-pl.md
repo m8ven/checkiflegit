@@ -1,11 +1,11 @@
 ---
 domain: kurpie.info.pl
 slug: kurpie-info-pl
-title: Is kurpie.info.pl Legit? Trust Score 19/100
+title: Is kurpie.info.pl Legit? Trust Score 43/100
 description: >-
-  kurpie.info.pl scores 19/100 on our public trust checks. Standard contact and
+  kurpie.info.pl scores 43/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:16:55.169Z'
+fetchedAt: '2026-08-10T06:24:59.570Z'
 finalUrl: 'https://kurpie.info.pl/'
 reachable: true
 noindex: false
@@ -16,9 +16,10 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 19
+  score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 4.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -57,13 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2022-03-31'
+      ageDays: 1592
+      ageYears: 4.4
+    detail: Registered 4.4 years ago (2022-03-31).
   contact:
     status: warn
     value:
@@ -92,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for kurpie.info.pl. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for kurpie.info.pl. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 4.4 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kurpie in the score above.
 

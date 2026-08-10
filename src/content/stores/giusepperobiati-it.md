@@ -4,8 +4,8 @@ slug: giusepperobiati-it
 title: Is giusepperobiati.it Legit? Trust Score 88/100
 description: >-
   giusepperobiati.it scores 88/100 on our public trust checks. Established
-  domain — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:31:57.892Z'
+  domain — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:37:20.337Z'
 finalUrl: 'https://www.giusepperobiati.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.8 years ago.
+    - Established domain — registered 1.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Actalis S.p.A.
-      validTo: '2026-07-25'
-      daysToExpiry: 30
+      validTo: '2027-02-20'
+      daysToExpiry: 195
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
-      createdAt: '2024-09-22'
-      ageDays: 641
-      ageYears: 1.8
-    detail: Registered 1.8 years ago (2024-09-22).
+      createdAt: '2024-09-21'
+      ageDays: 687
+      ageYears: 1.9
+    detail: Registered 1.9 years ago (2024-09-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-giusepperobiati.it looks like a well-established store. The clearest positives are that its domain has been registered for 1.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+giusepperobiati.it looks like a well-established store. The clearest positives are that its domain has been registered for 1.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Giusepperobiati in the score above.
 

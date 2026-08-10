@@ -4,8 +4,8 @@ slug: smartthink2llc-com
 title: Is smartthink2llc.com Legit? Trust Score 100/100
 description: >-
   smartthink2llc.com scores 100/100 on our public trust checks. Established
-  domain — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:57:31.917Z'
+  domain — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:01.004Z'
 finalUrl: 'https://smartthink2llc.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-29'
-      daysToExpiry: 219
+      daysToExpiry: 173
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2021-01-24'
-      ageDays: 1977
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-01-24).
+      ageDays: 2023
+      ageYears: 5.5
+    detail: Registered 5.5 years ago (2021-01-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-smartthink2llc.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+smartthink2llc.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Smartthink2llc in the score above.
 

@@ -5,7 +5,7 @@ title: Is espacejeux.fr Legit? Trust Score 43/100
 description: >-
   espacejeux.fr scores 43/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:18:16.615Z'
+fetchedAt: '2026-08-10T06:26:08.582Z'
 finalUrl: 'https://www.espacejeux.fr/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.9 years ago.
+    - Established domain — registered 8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -50,24 +50,24 @@ signals:
       contact: true
       privacy: false
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-15'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2018-07-25'
-      ageDays: 2892
-      ageYears: 7.9
-    detail: Registered 7.9 years ago (2018-07-25).
+      ageDays: 2938
+      ageYears: 8
+    detail: Registered 8 years ago (2018-07-25).
   contact:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for espacejeux.fr. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 7.9 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for espacejeux.fr. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 8 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Espacejeux in the score above.
 

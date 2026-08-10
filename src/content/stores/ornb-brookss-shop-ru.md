@@ -5,7 +5,7 @@ title: Is ornb.brookss-shop.ru Legit? Trust Score 61/100
 description: >-
   ornb.brookss-shop.ru scores 61/100 on our public trust checks. No links to
   major social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:27:06.545Z'
+fetchedAt: '2026-08-10T06:33:24.444Z'
 finalUrl: 'https://ornb.brookss-shop.ru/'
 reachable: true
 noindex: false
@@ -47,16 +47,16 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 75
+      daysToExpiry: 29
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is russian-models.in Legit? Trust Score 44/100
 description: >-
   russian-models.in scores 44/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T12:01:17.821Z'
+fetchedAt: '2026-08-10T06:12:01.481Z'
 finalUrl: 'https://russian-models.in/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

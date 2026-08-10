@@ -5,7 +5,7 @@ title: Is lawrenciacycles.com.au Legit? Trust Score 61/100
 description: >-
   lawrenciacycles.com.au scores 61/100 on our public trust checks. No links to
   major social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:26:12.043Z'
+fetchedAt: '2026-08-10T06:32:26.566Z'
 finalUrl: 'https://www.lawrenciacycles.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 38
+      validTo: '2026-09-30'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

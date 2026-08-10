@@ -5,7 +5,7 @@ title: Is originconstruction.in Legit? Trust Score 61/100
 description: >-
   originconstruction.in scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T03:24:28.848Z'
+fetchedAt: '2026-08-10T06:01:15.461Z'
 finalUrl: 'https://originconstruction.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

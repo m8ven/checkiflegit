@@ -4,9 +4,9 @@ slug: eliteinjectionsystems-com
 title: Is eliteinjectionsystems.com Legit? Trust Score 73/100
 description: >-
   eliteinjectionsystems.com scores 73/100 on our public trust checks.
-  Established domain — registered 6.4 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 6.5 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:29:47.595Z'
+fetchedAt: '2026-08-10T06:35:36.787Z'
 finalUrl: 'https://www.eliteinjectionsystems.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.4 years ago.
+    - Established domain — registered 6.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-02-04'
-      ageDays: 2332
-      ageYears: 6.4
-    detail: Registered 6.4 years ago (2020-02-04).
+      ageDays: 2378
+      ageYears: 6.5
+    detail: Registered 6.5 years ago (2020-02-04).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eliteinjectionsystems.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eliteinjectionsystems.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eliteinjectionsystems in the score above.
 

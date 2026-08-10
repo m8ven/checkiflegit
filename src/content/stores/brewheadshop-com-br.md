@@ -5,7 +5,7 @@ title: Is brewheadshop.com.br Legit? Trust Score 57/100
 description: >-
   brewheadshop.com.br scores 57/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:23:53.024Z'
+fetchedAt: '2026-08-10T06:30:35.569Z'
 finalUrl: 'https://www.brewheadshop.com.br/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-07'
-      daysToExpiry: 74
+      validTo: '2026-11-05'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

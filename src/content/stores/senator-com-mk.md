@@ -5,7 +5,7 @@ title: Is senator.com.mk Legit? Trust Score 40/100
 description: >-
   senator.com.mk scores 40/100 on our public trust checks. Standard contact and
   policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:53:15.629Z'
+fetchedAt: '2026-08-10T06:04:17.354Z'
 finalUrl: 'https://senator.com.mk/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 40
+      validTo: '2026-10-03'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

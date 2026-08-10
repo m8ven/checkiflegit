@@ -5,7 +5,7 @@ title: Is schwab-polstermoebel.de Legit? Trust Score 79/100
 description: >-
   schwab-polstermoebel.de scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:08:26.010Z'
+fetchedAt: '2026-08-10T06:18:06.338Z'
 finalUrl: 'https://schwab-polstermoebel.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-08'
-      daysToExpiry: 75
+      validTo: '2026-11-07'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

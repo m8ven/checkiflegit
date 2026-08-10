@@ -6,7 +6,7 @@ description: >-
   vi.tramhuongnguyen.com scores 36/100 on our public trust checks. Standard
   contact and policy pages were not found. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T12:18:16.069Z'
+fetchedAt: '2026-08-10T06:26:07.841Z'
 finalUrl: 'https://vi.tramhuongnguyen.com/'
 reachable: true
 noindex: false
@@ -58,7 +58,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: ruskrio-ru
 title: Is ruskrio.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   ruskrio.ru scores 73/100 on our public trust checks. Established domain —
-  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:25.555Z'
+  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:39.358Z'
 finalUrl: 'https://ruskrio.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 66
+      validTo: '2026-10-30'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-01-29'
-      ageDays: 512
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-01-29).
+      ageDays: 557
+      ageYears: 1.5
+    detail: Registered 1.5 years ago (2025-01-29).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ruskrio.ru looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ruskrio.ru looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ruskrio in the score above.
 

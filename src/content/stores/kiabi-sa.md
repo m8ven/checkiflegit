@@ -6,7 +6,7 @@ description: >-
   kiabi.sa scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:12:36.532Z'
+fetchedAt: '2026-08-10T06:21:14.851Z'
 finalUrl: 'https://kiabi.sa/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 77
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

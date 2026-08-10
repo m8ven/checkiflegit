@@ -5,7 +5,7 @@ title: Is skycotech.co.za Legit? Trust Score 83/100
 description: >-
   skycotech.co.za scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:01:45.669Z'
+fetchedAt: '2026-08-10T06:12:22.102Z'
 finalUrl: 'https://skycotech.co.za/'
 reachable: true
 noindex: false
@@ -39,7 +39,7 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 52
+      validTo: '2026-10-16'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

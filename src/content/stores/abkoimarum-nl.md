@@ -4,8 +4,8 @@ slug: abkoimarum-nl
 title: Is abkoimarum.nl Legit? Trust Score 88/100
 description: >-
   abkoimarum.nl scores 88/100 on our public trust checks. Established domain —
-  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:23:09.688Z'
+  registered 11.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:29:58.879Z'
 finalUrl: 'https://www.abkoimarum.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.3 years ago.
+    - Established domain — registered 11.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-02-27'
-      ageDays: 4136
-      ageYears: 11.3
-    detail: Registered 11.3 years ago (2015-02-27).
+      ageDays: 4182
+      ageYears: 11.5
+    detail: Registered 11.5 years ago (2015-02-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-abkoimarum.nl looks like a well-established store. The clearest positives are that its domain has been registered for 11.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+abkoimarum.nl looks like a well-established store. The clearest positives are that its domain has been registered for 11.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Abkoimarum in the score above.
 

@@ -5,7 +5,7 @@ title: Is mgwax.pt Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   mgwax.pt scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:30:19.051Z'
+fetchedAt: '2026-08-10T06:35:56.093Z'
 finalUrl: 'https://mgwax.pt/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-23'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

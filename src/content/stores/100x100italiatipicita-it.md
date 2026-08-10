@@ -5,7 +5,7 @@ title: Is 100x100italiatipicita.it Legit? Trust Score 43/100
 description: >-
   100x100italiatipicita.it scores 43/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T12:10:55.468Z'
+fetchedAt: '2026-08-10T06:19:52.051Z'
 finalUrl: 'https://www.100x100italiatipicita.it/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.7 years ago.
+    - Established domain — registered 3.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2027-03-06'
-      daysToExpiry: 254
+      daysToExpiry: 208
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2022-10-25'
-      ageDays: 1338
-      ageYears: 3.7
-    detail: Registered 3.7 years ago (2022-10-25).
+      ageDays: 1384
+      ageYears: 3.8
+    detail: Registered 3.8 years ago (2022-10-25).
   contact:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for 100x100italiatipicita.it. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 3.7 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for 100x100italiatipicita.it. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 3.8 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 100x100italiatipicita in the score above.
 

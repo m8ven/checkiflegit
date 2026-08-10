@@ -6,7 +6,7 @@ description: >-
   pomconnect.com scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T12:25:39.236Z'
+fetchedAt: '2026-08-10T06:31:51.771Z'
 finalUrl: 'https://www.pomconnect.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.7 years ago.
+    - Established domain — registered 3.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-23'
-      daysToExpiry: 90
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-10-11'
-      ageDays: 1353
-      ageYears: 3.7
-    detail: Registered 3.7 years ago (2022-10-11).
+      ageDays: 1398
+      ageYears: 3.8
+    detail: Registered 3.8 years ago (2022-10-11).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pomconnect.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+pomconnect.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pomconnect in the score above.
 

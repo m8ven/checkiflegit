@@ -5,7 +5,7 @@ title: Is tallfinds.de Legit? Trust Score 83/100
 description: >-
   tallfinds.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:06:29.038Z'
+fetchedAt: '2026-08-10T06:16:08.170Z'
 finalUrl: 'https://tallfinds.de/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

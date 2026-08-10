@@ -5,7 +5,7 @@ title: Is arkthinker.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   arkthinker.com scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:21:55.938Z'
+fetchedAt: '2026-08-10T06:29:08.193Z'
 finalUrl: 'https://www.arkthinker.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-09'
-      ageDays: 1750
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-09-09).
+      ageDays: 1795
+      ageYears: 4.9
+    detail: Registered 4.9 years ago (2021-09-09).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-arkthinker.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.8 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+arkthinker.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Arkthinker in the score above.
 

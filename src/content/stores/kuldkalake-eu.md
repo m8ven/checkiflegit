@@ -6,7 +6,7 @@ description: >-
   kuldkalake.eu scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T12:16:35.346Z'
+fetchedAt: '2026-08-10T06:24:46.501Z'
 finalUrl: 'https://kuldkalake.eu/et/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-28'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

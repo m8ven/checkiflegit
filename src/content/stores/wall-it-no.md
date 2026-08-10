@@ -5,7 +5,7 @@ title: Is wall-it.no Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   wall-it.no scores 58/100 on our public trust checks. No public contact details
   detected on the homepage.
-fetchedAt: '2026-06-25T12:09:33.570Z'
+fetchedAt: '2026-08-10T06:18:51.956Z'
 finalUrl: 'https://wall-it.no/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11 years ago.
+    - Established domain — registered 11.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-19'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-06-13'
-      ageDays: 4030
-      ageYears: 11
-    detail: Registered 11 years ago (2015-06-13).
+      ageDays: 4076
+      ageYears: 11.2
+    detail: Registered 11.2 years ago (2015-06-13).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-wall-it.no sends a mixed set of signals. On the positive side, its domain has been registered for 11 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+wall-it.no sends a mixed set of signals. On the positive side, its domain has been registered for 11.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Wall-it in the score above.
 

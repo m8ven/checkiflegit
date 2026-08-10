@@ -4,8 +4,8 @@ slug: mysportsdubai-com
 title: Is mysportsdubai.com Legit? Trust Score 88/100
 description: >-
   mysportsdubai.com scores 88/100 on our public trust checks. Established domain
-  — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:44.414Z'
+  — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:10.738Z'
 finalUrl: 'https://mysportsdubai.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 65
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-01-29'
-      ageDays: 511
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-01-29).
+      ageDays: 557
+      ageYears: 1.5
+    detail: Registered 1.5 years ago (2025-01-29).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mysportsdubai.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mysportsdubai.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mysportsdubai in the score above.
 

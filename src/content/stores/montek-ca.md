@@ -4,8 +4,8 @@ slug: montek-ca
 title: Is montek.ca Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   montek.ca scores 73/100 on our public trust checks. Established domain —
-  registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:56:36.180Z'
+  registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:06:22.227Z'
 finalUrl: 'https://montek.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-17'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-11-23'
-      ageDays: 3500
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-11-23).
+      ageDays: 3546
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-23).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-montek.ca looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+montek.ca looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Montek in the score above.
 

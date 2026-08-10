@@ -4,8 +4,8 @@ slug: internetgeography-net
 title: Is internetgeography.net Legit? Trust Score 100/100
 description: >-
   internetgeography.net scores 100/100 on our public trust checks. Established
-  domain — registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:24:42.622Z'
+  domain — registered 17.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:31:13.288Z'
 finalUrl: 'https://www.internetgeography.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.2 years ago.
+    - Established domain — registered 17.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-01'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2009-04-10'
-      ageDays: 6285
-      ageYears: 17.2
-    detail: Registered 17.2 years ago (2009-04-10).
+      ageDays: 6331
+      ageYears: 17.3
+    detail: Registered 17.3 years ago (2009-04-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-internetgeography.net looks like a well-established store. The clearest positives are that its domain has been registered for 17.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+internetgeography.net looks like a well-established store. The clearest positives are that its domain has been registered for 17.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Internetgeography in the score above.
 

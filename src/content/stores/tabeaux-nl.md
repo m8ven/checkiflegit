@@ -4,8 +4,8 @@ slug: tabeaux-nl
 title: Is tabeaux.nl Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   tabeaux.nl scores 70/100 on our public trust checks. Established domain —
-  registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:04:11.958Z'
+  registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:14:34.700Z'
 finalUrl: 'https://tabeaux.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.7 years ago.
+    - Established domain — registered 9.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -49,24 +49,24 @@ signals:
       contact: false
       privacy: true
       terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 32
+      validTo: '2026-09-24'
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-10-06'
-      ageDays: 3549
-      ageYears: 9.7
-    detail: Registered 9.7 years ago (2016-10-06).
+      ageDays: 3595
+      ageYears: 9.8
+    detail: Registered 9.8 years ago (2016-10-06).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tabeaux.nl looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tabeaux.nl looks like a well-established store. The clearest positives are that its domain has been registered for 9.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tabeaux in the score above.
 

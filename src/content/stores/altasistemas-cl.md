@@ -5,7 +5,7 @@ title: Is altasistemas.cl Legit? Trust Score 100/100
 description: >-
   altasistemas.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:33:56.318Z'
+fetchedAt: '2026-08-10T06:02:14.603Z'
 finalUrl: 'https://altasistemas.cl/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,11 +1,11 @@
 ---
 domain: stomildystrybucja.pl
 slug: stomildystrybucja-pl
-title: Is stomildystrybucja.pl Legit? Trust Score 82/100
+title: Is stomildystrybucja.pl Legit? Trust Score 100/100
 description: >-
-  stomildystrybucja.pl scores 82/100 on our public trust checks. Established
-  domain — registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:26.484Z'
+  stomildystrybucja.pl scores 100/100 on our public trust checks. Established
+  domain — registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:38.165Z'
 finalUrl: 'https://stomildystrybucja.pl/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.4 years ago.
+    - Established domain — registered 14.5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
+    - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,47 +44,47 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: true
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-04'
-      daysToExpiry: 71
+      validTo: '2026-11-03'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-02-14'
-      ageDays: 5244
-      ageYears: 14.4
-    detail: Registered 14.4 years ago (2012-02-14).
+      ageDays: 5290
+      ageYears: 14.5
+    detail: Registered 14.5 years ago (2012-02-14).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
-    status: warn
+    status: pass
     value:
       facebook: true
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
-      linkedin: false
+      linkedin: true
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: 'Links to 2 social platform(s): facebook, linkedin.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-stomildystrybucja.pl looks like a well-established store. The clearest positives are that its domain has been registered for 14.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+stomildystrybucja.pl looks like a well-established store. The clearest positives are that its domain has been registered for 14.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Stomildystrybucja in the score above.
 

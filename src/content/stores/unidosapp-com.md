@@ -4,8 +4,8 @@ slug: unidosapp-com
 title: Is unidosapp.com Legit? Trust Score 40/100
 description: >-
   unidosapp.com scores 40/100 on our public trust checks. Domain registered very
-  recently (33 days ago). No links to major social platforms found.
-fetchedAt: '2026-06-25T12:08:10.818Z'
+  recently (79 days ago). No links to major social platforms found.
+fetchedAt: '2026-08-10T06:17:40.042Z'
 finalUrl: 'https://unidosapp.com/'
 reachable: true
 noindex: false
@@ -23,7 +23,7 @@ verdict:
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
-    - Domain registered very recently (33 days ago).
+    - Domain registered very recently (79 days ago).
     - No links to major social platforms found.
   cautions: []
 signals:
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-19'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: fail
     value:
       createdAt: '2026-05-22'
-      ageDays: 33
-      ageYears: 0.1
-    detail: Registered very recently (33 days ago).
+      ageDays: 79
+      ageYears: 0.2
+    detail: Registered very recently (79 days ago).
   contact:
     status: pass
     value:

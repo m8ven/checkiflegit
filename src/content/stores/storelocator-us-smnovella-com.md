@@ -5,7 +5,7 @@ title: Is storelocator-us.smnovella.com Legit? Trust Score 100/100
 description: >-
   storelocator-us.smnovella.com scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:04:46.991Z'
+fetchedAt: '2026-08-10T06:14:55.464Z'
 finalUrl: 'https://storelocator-us.smnovella.com/en'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-10-22'
-      daysToExpiry: 120
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:

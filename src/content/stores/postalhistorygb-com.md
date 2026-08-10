@@ -4,8 +4,8 @@ slug: postalhistorygb-com
 title: Is postalhistorygb.com Legit? Trust Score 85/100
 description: >-
   postalhistorygb.com scores 85/100 on our public trust checks. Established
-  domain — registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:28.972Z'
+  domain — registered 17.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:41.277Z'
 finalUrl: 'https://postalhistorygb.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.2 years ago.
+    - Established domain — registered 17.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-28'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-04-17'
-      ageDays: 6277
-      ageYears: 17.2
-    detail: Registered 17.2 years ago (2009-04-17).
+      ageDays: 6323
+      ageYears: 17.3
+    detail: Registered 17.3 years ago (2009-04-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-postalhistorygb.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+postalhistorygb.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.3 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Postalhistorygb in the score above.
 

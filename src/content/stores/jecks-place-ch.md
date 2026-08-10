@@ -5,7 +5,7 @@ title: Is jecks-place.ch Legit? Trust Score 91/100
 description: >-
   jecks-place.ch scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:21:20.766Z'
+fetchedAt: '2026-08-10T06:28:31.645Z'
 finalUrl: 'https://www.jecks-place.ch/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

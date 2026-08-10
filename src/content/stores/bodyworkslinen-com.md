@@ -4,8 +4,8 @@ slug: bodyworkslinen-com
 title: Is bodyworkslinen.com Legit? Trust Score 100/100
 description: >-
   bodyworkslinen.com scores 100/100 on our public trust checks. Established
-  domain — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:55:35.442Z'
+  domain — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:18.227Z'
 finalUrl: 'https://bodyworkslinen.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.5 years ago.
+    - Established domain — registered 7.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-28'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-12-12'
-      ageDays: 2751
-      ageYears: 7.5
-    detail: Registered 7.5 years ago (2018-12-12).
+      ageDays: 2798
+      ageYears: 7.7
+    detail: Registered 7.7 years ago (2018-12-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bodyworkslinen.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bodyworkslinen.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bodyworkslinen in the score above.
 
