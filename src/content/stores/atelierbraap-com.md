@@ -4,8 +4,8 @@ slug: atelierbraap-com
 title: Is atelierbraap.com Legit? Trust Score 100/100
 description: >-
   atelierbraap.com scores 100/100 on our public trust checks. Established domain
-  — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:17.223Z'
+  — registered 7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:09:17.101Z'
 finalUrl: 'https://atelierbraap.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.9 years ago.
+    - Established domain — registered 7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-17'
-      daysToExpiry: 115
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2019-08-15'
-      ageDays: 2505
-      ageYears: 6.9
-    detail: Registered 6.9 years ago (2019-08-15).
+      ageDays: 2537
+      ageYears: 7
+    detail: Registered 7 years ago (2019-08-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-atelierbraap.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+atelierbraap.com looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Atelierbraap in the score above.
 

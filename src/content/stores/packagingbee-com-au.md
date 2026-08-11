@@ -5,7 +5,7 @@ title: Is packagingbee.com.au Legit? Trust Score 100/100
 description: >-
   packagingbee.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:00:30.754Z'
+fetchedAt: '2026-08-10T06:11:26.183Z'
 finalUrl: 'https://packagingbee.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-31'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

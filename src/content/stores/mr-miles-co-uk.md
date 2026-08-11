@@ -4,8 +4,8 @@ slug: mr-miles-co-uk
 title: Is mr-miles.co.uk Legit? Trust Score 100/100
 description: >-
   mr-miles.co.uk scores 100/100 on our public trust checks. Established domain —
-  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:51.635Z'
+  registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:49.888Z'
 finalUrl: 'https://www.mr-miles.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.4 years ago.
+    - Established domain — registered 16.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 69
+      validTo: '2026-11-06'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-02-08'
-      ageDays: 5981
-      ageYears: 16.4
-    detail: Registered 16.4 years ago (2010-02-08).
+      ageDays: 6027
+      ageYears: 16.5
+    detail: Registered 16.5 years ago (2010-02-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mr-miles.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 16.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mr-miles.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 16.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mr-miles in the score above.
 

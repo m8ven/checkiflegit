@@ -4,8 +4,8 @@ slug: brilliant-tech
 title: Is brilliant.tech Legit? Trust Score 88/100
 description: >-
   brilliant.tech scores 88/100 on our public trust checks. Established domain —
-  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:52.432Z'
+  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:23.055Z'
 finalUrl: 'https://www.brilliant.tech/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 10.6 years ago.
+    - Established domain — registered 10.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-11-24'
-      ageDays: 3864
-      ageYears: 10.6
-    detail: Registered 10.6 years ago (2015-11-24).
+      ageDays: 3897
+      ageYears: 10.7
+    detail: Registered 10.7 years ago (2015-11-24).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-brilliant.tech looks like a well-established store. The clearest positives are that its domain has been registered for 10.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+brilliant.tech looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Brilliant in the score above.
 

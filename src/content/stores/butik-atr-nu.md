@@ -1,30 +1,30 @@
 ---
 domain: butik.atr.nu
 slug: butik-atr-nu
-title: Is butik.atr.nu Legit? Trust Score 61/100 — Mixed Signals
+title: Is butik.atr.nu Legit? Trust Score 36/100
 description: >-
-  butik.atr.nu scores 61/100 on our public trust checks. No links to major
-  social platforms found. Some standard policy or contact pages appear to be
-  missing.
-fetchedAt: '2026-06-25T02:58:36.438Z'
+  butik.atr.nu scores 36/100 on our public trust checks. Standard contact and
+  policy pages were not found. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:05:35.474Z'
 finalUrl: 'https://butik.atr.nu/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 36
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
+    - Standard contact and policy pages were not found.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,20 +44,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-01'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -69,8 +69,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -92,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-butik.atr.nu sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for butik.atr.nu. In particular, we could not find the usual contact and policy pages and it has little or no social media footprint. It does have some positives — it lists genuine business contact details and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Butik in the score above.
 

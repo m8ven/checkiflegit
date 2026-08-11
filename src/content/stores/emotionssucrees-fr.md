@@ -5,7 +5,7 @@ title: Is emotionssucrees.fr Legit? Trust Score 58/100
 description: >-
   emotionssucrees.fr scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:57:33.894Z'
+fetchedAt: '2026-08-03T08:04:51.544Z'
 finalUrl: 'https://www.emotionssucrees.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 48
+      validTo: '2026-10-30'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-06-19'
-      ageDays: 3657
-      ageYears: 10
-    detail: Registered 10 years ago (2016-06-19).
+      ageDays: 3696
+      ageYears: 10.1
+    detail: Registered 10.1 years ago (2016-06-19).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-emotionssucrees.fr sends a mixed set of signals. On the positive side, its domain has been registered for 10 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+emotionssucrees.fr sends a mixed set of signals. On the positive side, its domain has been registered for 10.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Emotionssucrees in the score above.
 

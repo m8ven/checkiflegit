@@ -1,11 +1,11 @@
 ---
 domain: phutungducanh.com
 slug: phutungducanh-com
-title: Is phutungducanh.com Legit? Trust Score 70/100
+title: Is phutungducanh.com Legit? Trust Score 100/100
 description: >-
-  phutungducanh.com scores 70/100 on our public trust checks. Established domain
-  — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:05.733Z'
+  phutungducanh.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:30.507Z'
 finalUrl: 'https://phutungducanh.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.6 years ago.
+    - Established domain — registered 1.8 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions: []
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
+      contact: true
+      privacy: true
       terms: false
       refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-08'
-      daysToExpiry: 76
+      validTo: '2026-11-07'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-11-01'
-      ageDays: 601
-      ageYears: 1.6
-    detail: Registered 1.6 years ago (2024-11-01).
+      ageDays: 647
+      ageYears: 1.8
+    detail: Registered 1.8 years ago (2024-11-01).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-phutungducanh.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+phutungducanh.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Phutungducanh in the score above.
 

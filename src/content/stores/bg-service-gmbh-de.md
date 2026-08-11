@@ -5,7 +5,7 @@ title: Is bg-service-gmbh.de Legit? Trust Score 61/100
 description: >-
   bg-service-gmbh.de scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:58:40.523Z'
+fetchedAt: '2026-08-03T08:05:41.556Z'
 finalUrl: 'https://bg-service-gmbh.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

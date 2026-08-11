@@ -4,8 +4,8 @@ slug: sithoniatransfer-com
 title: Is sithoniatransfer.com Legit? Trust Score 85/100
 description: >-
   sithoniatransfer.com scores 85/100 on our public trust checks. Established
-  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:51:27.213Z'
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:37:16.484Z'
 finalUrl: 'https://sithoniatransfer.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.3 years ago.
+    - Established domain — registered 1.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-02-19'
-      ageDays: 490
-      ageYears: 1.3
-    detail: Registered 1.3 years ago (2025-02-19).
+      ageDays: 522
+      ageYears: 1.4
+    detail: Registered 1.4 years ago (2025-02-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sithoniatransfer.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sithoniatransfer.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sithoniatransfer in the score above.
 

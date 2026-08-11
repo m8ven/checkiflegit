@@ -5,7 +5,7 @@ title: Is jdmreelhub.com Legit? Trust Score 100/100
 description: >-
   jdmreelhub.com scores 100/100 on our public trust checks. Established domain —
   registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:27.284Z'
+fetchedAt: '2026-07-27T08:26:24.575Z'
 finalUrl: 'https://jdmreelhub.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-05-01'
-      ageDays: 785
+      ageDays: 817
       ageYears: 2.2
     detail: Registered 2.2 years ago (2024-05-01).
   contact:

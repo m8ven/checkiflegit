@@ -5,7 +5,7 @@ title: Is awiiinto.com Legit? Trust Score 88/100
 description: >-
   awiiinto.com scores 88/100 on our public trust checks. Established domain —
   registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:41.640Z'
+fetchedAt: '2026-07-27T08:09:54.530Z'
 finalUrl: 'https://awiiinto.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-01'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-10-28'
-      ageDays: 604
+      ageDays: 637
       ageYears: 1.7
     detail: Registered 1.7 years ago (2024-10-28).
   contact:

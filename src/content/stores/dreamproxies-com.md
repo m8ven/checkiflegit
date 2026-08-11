@@ -4,8 +4,8 @@ slug: dreamproxies-com
 title: Is dreamproxies.com Legit? Trust Score 82/100
 description: >-
   dreamproxies.com scores 82/100 on our public trust checks. Established domain
-  — registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:23.378Z'
+  — registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:31.713Z'
 finalUrl: 'https://dreamproxies.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.7 years ago.
+    - Established domain — registered 10.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-09-30'
-      ageDays: 3920
-      ageYears: 10.7
-    detail: Registered 10.7 years ago (2015-09-30).
+      ageDays: 3952
+      ageYears: 10.8
+    detail: Registered 10.8 years ago (2015-09-30).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dreamproxies.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dreamproxies.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dreamproxies in the score above.
 

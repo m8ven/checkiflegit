@@ -1,28 +1,29 @@
 ---
 domain: izloskutov.ru
 slug: izloskutov-ru
-title: Is izloskutov.ru Legit? Trust Score 58/100 — Mixed Signals
+title: Is izloskutov.ru Legit? Trust Score 43/100
 description: >-
-  izloskutov.ru scores 58/100 on our public trust checks. No valid SSL
-  certificate — connection may not be secure.
-fetchedAt: '2026-06-25T02:17:43.366Z'
-finalUrl: 'http://izloskutov.ru/'
+  izloskutov.ru scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-07-27T08:08:44.148Z'
+finalUrl: 'https://izloskutov.ru/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 58
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14 years ago.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
+    - Established domain — registered 14.1 years ago.
+    - Valid HTTPS/SSL certificate in place.
   redFlags:
-    - No valid SSL certificate — connection may not be secure.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
 signals:
@@ -30,7 +31,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'http://izloskutov.ru/'
+      finalUrl: 'https://izloskutov.ru/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -39,7 +40,7 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
+        hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
@@ -48,43 +49,43 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
-    status: fail
-    value: null
-    detail: >
-      TLS connection failed: 801EB1EC01000000:error:0A000438:SSL
-      routines:ssl3_read_bytes:tlsv1 alert internal
-      error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert
-      number 80
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-10-21'
+      daysToExpiry: 87
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-06-16'
-      ageDays: 5121
-      ageYears: 14
-    detail: Registered 14 years ago (2012-06-16).
+      ageDays: 5153
+      ageYears: 14.1
+    detail: Registered 14.1 years ago (2012-06-16).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
-      youtube: true
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-izloskutov.ru sends a mixed set of signals. On the positive side, its domain has been registered for 14 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and it does not present a valid security certificate — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for izloskutov.ru. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 14.1 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Izloskutov in the score above.
 

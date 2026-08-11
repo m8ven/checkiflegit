@@ -4,8 +4,8 @@ slug: parcopan-org
 title: Is parcopan.org Legit? Trust Score 88/100
 description: >-
   parcopan.org scores 88/100 on our public trust checks. Established domain —
-  registered 28.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:57:38.433Z'
+  registered 29 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:04.405Z'
 finalUrl: 'https://parcopan.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.8 years ago.
+    - Established domain — registered 29 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-08'
-      daysToExpiry: 75
+      validTo: '2026-11-07'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-09-03'
-      ageDays: 10522
-      ageYears: 28.8
-    detail: Registered 28.8 years ago (1997-09-03).
+      ageDays: 10568
+      ageYears: 29
+    detail: Registered 29 years ago (1997-09-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-parcopan.org looks like a well-established store. The clearest positives are that its domain has been registered for 28.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+parcopan.org looks like a well-established store. The clearest positives are that its domain has been registered for 29 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Parcopan in the score above.
 

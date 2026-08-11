@@ -1,11 +1,11 @@
 ---
 domain: blechtrans.de
 slug: blechtrans-de
-title: Is blechtrans.de Legit? Trust Score 91/100
+title: Is blechtrans.de Legit? Trust Score 100/100
 description: >-
-  blechtrans.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
+  blechtrans.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:15:39.381Z'
+fetchedAt: '2026-08-10T06:23:47.813Z'
 finalUrl: 'https://www.blechtrans.de/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 91
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
+    - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Limited social media presence.
+  cautions: []
 signals:
   http:
     status: pass
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-29'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -71,16 +71,16 @@ signals:
       address: false
     detail: 'Public contact details found: email, phone.'
   social:
-    status: warn
+    status: pass
     value:
       facebook: true
       instagram: false
       twitter: false
       tiktok: false
-      youtube: false
+      youtube: true
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: 'Links to 2 social platform(s): facebook, youtube.'
   reviews:
     status: unknown
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blechtrans.de looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+blechtrans.de looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blechtrans in the score above.
 

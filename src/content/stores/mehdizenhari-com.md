@@ -1,28 +1,28 @@
 ---
 domain: mehdizenhari.com
 slug: mehdizenhari-com
-title: Is mehdizenhari.com Legit? Trust Score 55/100
+title: Is mehdizenhari.com Legit? Trust Score 25/100
 description: >-
-  mehdizenhari.com scores 55/100 on our public trust checks. Standard contact
-  and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:53:31.862Z'
+  mehdizenhari.com scores 25/100 on our public trust checks. Standard contact
+  and policy pages were not found.
+fetchedAt: '2026-08-03T08:36:52.156Z'
 finalUrl: 'https://mehdizenhari.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 55
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 25
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.5 years ago.
+    - Established domain — registered 14.6 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
   redFlags:
     - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions: []
 signals:
@@ -33,16 +33,16 @@ signals:
       finalUrl: 'https://mehdizenhari.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: fail
     value:
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-11-01'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-01-11'
-      ageDays: 5278
-      ageYears: 14.5
-    detail: Registered 14.5 years ago (2012-01-11).
+      ageDays: 5317
+      ageYears: 14.6
+    detail: Registered 14.6 years ago (2012-01-11).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mehdizenhari.com sends a mixed set of signals. On the positive side, its domain has been registered for 14.5 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for mehdizenhari.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 14.6 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mehdizenhari in the score above.
 

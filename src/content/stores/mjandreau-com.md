@@ -1,90 +1,89 @@
 ---
 domain: mjandreau.com
 slug: mjandreau-com
-title: Is mjandreau.com Legit? Trust Score 100/100
+title: Is mjandreau.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  mjandreau.com scores 100/100 on our public trust checks. Established domain —
-  registered 16.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:33.779Z'
-finalUrl: 'https://www.mjandreau.com/'
+  mjandreau.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:13:26.620Z'
+finalUrl: 'https://mjandreau.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 100
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.2 years ago.
+    - Established domain — registered 16.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.mjandreau.com/'
+      finalUrl: 'https://mjandreau.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-05'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-04-12'
-      ageDays: 5917
-      ageYears: 16.2
-    detail: Registered 16.2 years ago (2010-04-12).
+      ageDays: 5956
+      ageYears: 16.3
+    detail: Registered 16.3 years ago (2010-04-12).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      email: false
+      phone: false
+      address: false
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
-      linkedin: true
+      linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, linkedin.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mjandreau.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mjandreau.com sends a mixed set of signals. On the positive side, its domain has been registered for 16.3 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mjandreau in the score above.
 

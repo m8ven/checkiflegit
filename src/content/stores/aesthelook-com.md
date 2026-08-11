@@ -4,8 +4,8 @@ slug: aesthelook-com
 title: Is aesthelook.com Legit? Trust Score 100/100
 description: >-
   aesthelook.com scores 100/100 on our public trust checks. Established domain —
-  registered 6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:30.389Z'
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:09:30.215Z'
 finalUrl: 'https://aesthelook.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6 years ago.
+    - Established domain — registered 6.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      issuer: Google Trust Services
+      validTo: '2026-10-18'
+      daysToExpiry: 84
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-06-17'
-      ageDays: 2198
-      ageYears: 6
-    detail: Registered 6 years ago (2020-06-17).
+      ageDays: 2230
+      ageYears: 6.1
+    detail: Registered 6.1 years ago (2020-06-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aesthelook.com looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aesthelook.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aesthelook in the score above.
 

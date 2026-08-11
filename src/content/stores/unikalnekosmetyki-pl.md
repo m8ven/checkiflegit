@@ -4,8 +4,8 @@ slug: unikalnekosmetyki-pl
 title: Is unikalnekosmetyki.pl Legit? Trust Score 88/100
 description: >-
   unikalnekosmetyki.pl scores 88/100 on our public trust checks. Established
-  domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:07:49.428Z'
+  domain — registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:17:22.994Z'
 finalUrl: 'https://unikalnekosmetyki.pl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.1 years ago.
+    - Established domain — registered 10.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 69
+      validTo: '2026-11-02'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-05-30'
-      ageDays: 3677
-      ageYears: 10.1
-    detail: Registered 10.1 years ago (2016-05-30).
+      ageDays: 3723
+      ageYears: 10.2
+    detail: Registered 10.2 years ago (2016-05-30).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-unikalnekosmetyki.pl looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+unikalnekosmetyki.pl looks like a well-established store. The clearest positives are that its domain has been registered for 10.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Unikalnekosmetyki in the score above.
 

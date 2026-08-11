@@ -5,7 +5,7 @@ title: Is bchovaux.fr Legit? Trust Score 37/100
 description: >-
   bchovaux.fr scores 37/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:13:33.143Z'
+fetchedAt: '2026-08-10T06:22:03.116Z'
 finalUrl: 'https://www.bchovaux.fr/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 73
+      validTo: '2026-11-05'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-05'
-      ageDays: 232
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-05).
+      ageDays: 277
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-11-05).
   contact:
     status: fail
     value:

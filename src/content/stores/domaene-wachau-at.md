@@ -5,7 +5,7 @@ title: Is domaene-wachau.at Legit? Trust Score 83/100
 description: >-
   domaene-wachau.at scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:01:23.484Z'
+fetchedAt: '2026-08-03T08:07:31.136Z'
 finalUrl: 'https://www.domaene-wachau.at/de/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: true
+      refund: false
       shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 88
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

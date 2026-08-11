@@ -5,7 +5,7 @@ title: Is hotairballoondubai.co Legit? Trust Score 83/100
 description: >-
   hotairballoondubai.co scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:27.134Z'
+fetchedAt: '2026-07-27T08:23:14.121Z'
 finalUrl: 'https://hotairballoondubai.co/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

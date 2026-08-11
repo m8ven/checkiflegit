@@ -5,7 +5,7 @@ title: Is rsi.aaa.biz Legit? Trust Score 19/100
 description: >-
   rsi.aaa.biz scores 19/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:43:24.184Z'
+fetchedAt: '2026-07-27T08:29:40.766Z'
 finalUrl: 'https://rsi.aaa.biz/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

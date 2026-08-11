@@ -5,7 +5,7 @@ title: Is ktc.com.qa Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   ktc.com.qa scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:49:10.174Z'
+fetchedAt: '2026-08-10T06:03:48.276Z'
 finalUrl: 'https://ktc.com.qa/'
 reachable: true
 noindex: false
@@ -35,7 +35,7 @@ signals:
     status: pass
     value:
       platform: WooCommerce
-      isStore: true
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-07'
-      daysToExpiry: 75
+      validTo: '2026-11-06'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

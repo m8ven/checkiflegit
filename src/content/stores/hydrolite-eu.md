@@ -5,7 +5,7 @@ title: Is hydrolite.eu Legit? Trust Score 40/100
 description: >-
   hydrolite.eu scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:57:27.090Z'
+fetchedAt: '2026-08-10T06:07:00.390Z'
 finalUrl: 'https://hydrolite.eu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 72
+      validTo: '2026-11-04'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: vgenz-com
 title: Is vgenz.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   vgenz.com scores 76/100 on our public trust checks. Established domain —
-  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:36.223Z'
+  registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:43.015Z'
 finalUrl: 'https://vgenz.com/th/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.1 years ago.
+    - Established domain — registered 10.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-05-19'
-      ageDays: 3688
-      ageYears: 10.1
-    detail: Registered 10.1 years ago (2016-05-19).
+      ageDays: 3720
+      ageYears: 10.2
+    detail: Registered 10.2 years ago (2016-05-19).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-vgenz.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+vgenz.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vgenz in the score above.
 

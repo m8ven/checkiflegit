@@ -5,7 +5,7 @@ title: Is saudebemestar.com.pt Legit? Trust Score 100/100
 description: >-
   saudebemestar.com.pt scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:59.237Z'
+fetchedAt: '2026-08-10T06:11:02.463Z'
 finalUrl: 'https://saudebemestar.com.pt/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

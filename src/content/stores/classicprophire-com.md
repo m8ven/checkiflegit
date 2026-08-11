@@ -4,8 +4,8 @@ slug: classicprophire-com
 title: Is classicprophire.com Legit? Trust Score 100/100
 description: >-
   classicprophire.com scores 100/100 on our public trust checks. Established
-  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:06.926Z'
+  domain — registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:07.791Z'
 finalUrl: 'https://classicprophire.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.4 years ago.
+    - Established domain — registered 8.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 40
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2018-01-25'
-      ageDays: 3072
-      ageYears: 8.4
-    detail: Registered 8.4 years ago (2018-01-25).
+      ageDays: 3104
+      ageYears: 8.5
+    detail: Registered 8.5 years ago (2018-01-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-classicprophire.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+classicprophire.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Classicprophire in the score above.
 

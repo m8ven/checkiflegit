@@ -4,8 +4,8 @@ slug: delicent-com
 title: Is delicent.com Legit? Trust Score 70/100
 description: >-
   delicent.com scores 70/100 on our public trust checks. Established domain —
-  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:31:39.107Z'
+  registered 8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:19:34.618Z'
 finalUrl: 'https://delicent.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.9 years ago.
+    - Established domain — registered 8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-06-28'
-      daysToExpiry: 4
+      validTo: '2026-09-30'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-07-24'
-      ageDays: 2892
-      ageYears: 7.9
-    detail: Registered 7.9 years ago (2018-07-24).
+      ageDays: 2931
+      ageYears: 8
+    detail: Registered 8 years ago (2018-07-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-delicent.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.9 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+delicent.com looks like a well-established store. The clearest positives are that its domain has been registered for 8 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Delicent in the score above.
 

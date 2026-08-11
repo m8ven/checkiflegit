@@ -5,7 +5,7 @@ title: Is bazzaz.net Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   bazzaz.net scores 58/100 on our public trust checks. No public contact details
   detected on the homepage.
-fetchedAt: '2026-06-25T02:20:30.715Z'
+fetchedAt: '2026-07-27T08:11:14.125Z'
 finalUrl: 'https://bazzaz.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.4 years ago.
+    - Established domain — registered 16.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: true
+      terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-01-19'
-      ageDays: 6000
-      ageYears: 16.4
-    detail: Registered 16.4 years ago (2010-01-19).
+      ageDays: 6032
+      ageYears: 16.5
+    detail: Registered 16.5 years ago (2010-01-19).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bazzaz.net sends a mixed set of signals. On the positive side, its domain has been registered for 16.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+bazzaz.net sends a mixed set of signals. On the positive side, its domain has been registered for 16.5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bazzaz in the score above.
 

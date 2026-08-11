@@ -4,8 +4,8 @@ slug: schallplatten-me
 title: Is schallplatten.me Legit? Trust Score 88/100
 description: >-
   schallplatten.me scores 88/100 on our public trust checks. Established domain
-  — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:50:21.100Z'
+  — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:36:15.738Z'
 finalUrl: 'https://schallplatten.me/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.3 years ago.
+    - Established domain — registered 2.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-17'
-      daysToExpiry: 115
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2024-03-13'
-      ageDays: 833
-      ageYears: 2.3
-    detail: Registered 2.3 years ago (2024-03-13).
+      ageDays: 865
+      ageYears: 2.4
+    detail: Registered 2.4 years ago (2024-03-13).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-schallplatten.me looks like a well-established store. The clearest positives are that its domain has been registered for 2.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+schallplatten.me looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Schallplatten in the score above.
 

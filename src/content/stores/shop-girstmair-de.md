@@ -5,7 +5,7 @@ title: Is shop.girstmair.de Legit? Trust Score 36/100
 description: >-
   shop.girstmair.de scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:10:22.131Z'
+fetchedAt: '2026-08-10T06:19:26.763Z'
 finalUrl: 'https://shop.girstmair.de/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 33
+      validTo: '2026-09-25'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

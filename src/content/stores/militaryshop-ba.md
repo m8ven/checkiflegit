@@ -6,7 +6,7 @@ description: >-
   militaryshop.ba scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T12:18:49.756Z'
+fetchedAt: '2026-08-10T06:26:42.383Z'
 finalUrl: 'https://militaryshop.ba/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-24'
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

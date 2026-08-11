@@ -5,7 +5,7 @@ title: Is sander-einrichtungen.de Legit? Trust Score 100/100
 description: >-
   sander-einrichtungen.de scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:43:47.012Z'
+fetchedAt: '2026-07-27T08:30:06.584Z'
 finalUrl: 'https://sander-einrichtungen.de/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Starfield Technologies
       validTo: '2027-01-05'
-      daysToExpiry: 195
+      daysToExpiry: 163
       authorized: true
     detail: Valid certificate issued by Starfield Technologies.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

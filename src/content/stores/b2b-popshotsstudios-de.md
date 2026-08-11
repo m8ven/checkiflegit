@@ -6,7 +6,7 @@ description: >-
   b2b-popshotsstudios.de scores 57/100 on our public trust checks. No public
   contact details detected on the homepage. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:20:11.719Z'
+fetchedAt: '2026-07-27T08:11:03.801Z'
 finalUrl: 'https://b2b-popshotsstudios.de/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-13'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

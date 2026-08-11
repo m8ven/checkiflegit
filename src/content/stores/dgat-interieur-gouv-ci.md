@@ -5,7 +5,7 @@ title: Is dgat.interieur.gouv.ci Legit? Trust Score 61/100
 description: >-
   dgat.interieur.gouv.ci scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:24:48.656Z'
+fetchedAt: '2026-07-27T08:14:16.328Z'
 finalUrl: 'https://dgat.interieur.gouv.ci/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 36
+      validTo: '2026-09-29'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

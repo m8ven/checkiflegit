@@ -1,11 +1,11 @@
 ---
 domain: suutamtien.com
 slug: suutamtien-com
-title: Is suutamtien.com Legit? Trust Score 88/100
+title: Is suutamtien.com Legit? Trust Score 100/100
 description: >-
-  suutamtien.com scores 88/100 on our public trust checks. Established domain —
-  registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:48.989Z'
+  suutamtien.com scores 100/100 on our public trust checks. Established domain —
+  registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:33:16.476Z'
 finalUrl: 'https://suutamtien.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.3 years ago.
+    - Established domain — registered 15.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-03-17'
-      ageDays: 5578
-      ageYears: 15.3
-    detail: Registered 15.3 years ago (2011-03-17).
+      ageDays: 5610
+      ageYears: 15.4
+    detail: Registered 15.4 years ago (2011-03-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-suutamtien.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+suutamtien.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Suutamtien in the score above.
 

@@ -5,7 +5,7 @@ title: Is rfreurobodalla.com.au Legit? Trust Score 61/100
 description: >-
   rfreurobodalla.com.au scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T12:06:35.342Z'
+fetchedAt: '2026-08-10T06:16:18.893Z'
 finalUrl: 'https://rfreurobodalla.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 84
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

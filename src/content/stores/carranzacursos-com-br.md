@@ -5,7 +5,7 @@ title: Is carranzacursos.com.br Legit? Trust Score 83/100
 description: >-
   carranzacursos.com.br scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:25:09.984Z'
+fetchedAt: '2026-08-10T06:01:22.487Z'
 finalUrl: 'https://carranzacursos.com.br/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

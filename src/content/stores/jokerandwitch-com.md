@@ -4,8 +4,8 @@ slug: jokerandwitch-com
 title: Is jokerandwitch.com Legit? Trust Score 88/100
 description: >-
   jokerandwitch.com scores 88/100 on our public trust checks. Established domain
-  — registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:22.813Z'
+  — registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:46.009Z'
 finalUrl: 'https://jokerandwitch.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 11.6 years ago.
+    - Established domain — registered 11.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-24'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-11-27'
-      ageDays: 4227
-      ageYears: 11.6
-    detail: Registered 11.6 years ago (2014-11-27).
+      ageDays: 4259
+      ageYears: 11.7
+    detail: Registered 11.7 years ago (2014-11-27).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jokerandwitch.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jokerandwitch.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jokerandwitch in the score above.
 

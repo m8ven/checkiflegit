@@ -4,8 +4,8 @@ slug: centroricercheroma-it
 title: Is centroricercheroma.it Legit? Trust Score 76/100
 description: >-
   centroricercheroma.it scores 76/100 on our public trust checks. Established
-  domain — registered 7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:26:32.497Z'
+  domain — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:32:53.176Z'
 finalUrl: 'https://www.centroricercheroma.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7 years ago.
+    - Established domain — registered 7.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2026-10-09'
-      daysToExpiry: 106
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2019-06-13'
-      ageDays: 2568
-      ageYears: 7
-    detail: Registered 7 years ago (2019-06-13).
+      ageDays: 2614
+      ageYears: 7.2
+    detail: Registered 7.2 years ago (2019-06-13).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-centroricercheroma.it looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+centroricercheroma.it looks like a well-established store. The clearest positives are that its domain has been registered for 7.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Centroricercheroma in the score above.
 

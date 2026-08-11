@@ -5,7 +5,7 @@ title: Is publiestar.co Legit? Trust Score 83/100
 description: >-
   publiestar.co scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:40:20.689Z'
+fetchedAt: '2026-08-10T06:02:45.341Z'
 finalUrl: 'https://publiestar.co/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

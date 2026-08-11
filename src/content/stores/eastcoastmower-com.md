@@ -4,8 +4,8 @@ slug: eastcoastmower-com
 title: Is eastcoastmower.com Legit? Trust Score 100/100
 description: >-
   eastcoastmower.com scores 100/100 on our public trust checks. Established
-  domain — registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:27:35.579Z'
+  domain — registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:16:18.467Z'
 finalUrl: 'https://eastcoastmower.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.2 years ago.
+    - Established domain — registered 13.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-05-01'
-      ageDays: 4802
-      ageYears: 13.2
-    detail: Registered 13.2 years ago (2013-05-01).
+      ageDays: 4841
+      ageYears: 13.3
+    detail: Registered 13.3 years ago (2013-05-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eastcoastmower.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eastcoastmower.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eastcoastmower in the score above.
 

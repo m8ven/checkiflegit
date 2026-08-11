@@ -4,8 +4,8 @@ slug: durexindia-com
 title: Is durexindia.com Legit? Trust Score 100/100
 description: >-
   durexindia.com scores 100/100 on our public trust checks. Established domain —
-  registered 18 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:46.741Z'
+  registered 18.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:15.775Z'
 finalUrl: 'https://www.durexindia.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 18 years ago.
+    - Established domain — registered 18.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-06-11'
-      ageDays: 6587
-      ageYears: 18
-    detail: Registered 18 years ago (2008-06-11).
+      ageDays: 6619
+      ageYears: 18.1
+    detail: Registered 18.1 years ago (2008-06-11).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-durexindia.com looks like a well-established store. The clearest positives are that its domain has been registered for 18 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+durexindia.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Durexindia in the score above.
 

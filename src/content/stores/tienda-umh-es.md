@@ -5,7 +5,7 @@ title: Is tienda.umh.es Legit? Trust Score 83/100
 description: >-
   tienda.umh.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:53:57.565Z'
+fetchedAt: '2026-08-03T08:02:35.243Z'
 finalUrl: 'https://tienda.umh.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-11-26'
-      daysToExpiry: 155
+      daysToExpiry: 116
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:

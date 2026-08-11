@@ -1,11 +1,11 @@
 ---
 domain: lampen24.de
 slug: lampen24-de
-title: Is lampen24.de Legit? Trust Score 19/100
+title: Is lampen24.de Legit? Trust Score 44/100
 description: >-
-  lampen24.de scores 19/100 on our public trust checks. No public contact
-  details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:22:48.565Z'
+  lampen24.de scores 44/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
+fetchedAt: '2026-08-03T08:12:20.693Z'
 finalUrl: 'https://www.lampen24.de/'
 reachable: true
 noindex: false
@@ -16,15 +16,15 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 19
+  score: 44
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
   redFlags:
-    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -65,12 +65,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
     status: fail
     value:
@@ -92,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for lampen24.de. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for lampen24.de. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lampen24 in the score above.
 

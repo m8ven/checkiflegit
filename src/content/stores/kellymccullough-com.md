@@ -4,8 +4,8 @@ slug: kellymccullough-com
 title: Is kellymccullough.com Legit? Trust Score 76/100
 description: >-
   kellymccullough.com scores 76/100 on our public trust checks. Established
-  domain — registered 24.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:48:12.224Z'
+  domain — registered 24.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:33:09.405Z'
 finalUrl: 'https://kellymccullough.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.2 years ago.
+    - Established domain — registered 24.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-11'
-      daysToExpiry: 78
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2002-04-09'
-      ageDays: 8842
-      ageYears: 24.2
-    detail: Registered 24.2 years ago (2002-04-09).
+      ageDays: 8881
+      ageYears: 24.3
+    detail: Registered 24.3 years ago (2002-04-09).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kellymccullough.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kellymccullough.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kellymccullough in the score above.
 

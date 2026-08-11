@@ -5,7 +5,7 @@ title: Is akoutsoukou.gr Legit? Trust Score 83/100
 description: >-
   akoutsoukou.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:42:36.212Z'
+fetchedAt: '2026-07-27T08:28:59.477Z'
 finalUrl: 'https://akoutsoukou.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-20'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

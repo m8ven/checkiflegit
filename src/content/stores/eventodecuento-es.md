@@ -5,7 +5,7 @@ title: Is eventodecuento.es Legit? Trust Score 83/100
 description: >-
   eventodecuento.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:28:07.580Z'
+fetchedAt: '2026-07-27T08:17:14.076Z'
 finalUrl: 'https://eventodecuento.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

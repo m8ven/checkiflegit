@@ -5,7 +5,7 @@ title: Is vrcentrum.cz Legit? Trust Score 74/100
 description: >-
   vrcentrum.cz scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:49:58.850Z'
+fetchedAt: '2026-07-27T08:36:03.233Z'
 finalUrl: 'https://vrcentrum.cz/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: dessinemoiunfairepart-fr
 title: Is dessinemoiunfairepart.fr Legit? Trust Score 76/100
 description: >-
   dessinemoiunfairepart.fr scores 76/100 on our public trust checks. Established
-  domain — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:54.169Z'
+  domain — registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:14:24.587Z'
 finalUrl: 'https://dessinemoiunfairepart.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.1 years ago.
+    - Established domain — registered 13.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-05-20'
-      ageDays: 4783
-      ageYears: 13.1
-    detail: Registered 13.1 years ago (2013-05-20).
+      ageDays: 4815
+      ageYears: 13.2
+    detail: Registered 13.2 years ago (2013-05-20).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dessinemoiunfairepart.fr looks like a well-established store. The clearest positives are that its domain has been registered for 13.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dessinemoiunfairepart.fr looks like a well-established store. The clearest positives are that its domain has been registered for 13.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dessinemoiunfairepart in the score above.
 

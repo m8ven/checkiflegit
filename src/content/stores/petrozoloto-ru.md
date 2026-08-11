@@ -1,11 +1,11 @@
 ---
 domain: petrozoloto.ru
 slug: petrozoloto-ru
-title: Is petrozoloto.ru Legit? Trust Score 73/100
+title: Is petrozoloto.ru Legit? Trust Score 85/100
 description: >-
-  petrozoloto.ru scores 73/100 on our public trust checks. Established domain —
-  registered 23.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:30:30.372Z'
+  petrozoloto.ru scores 85/100 on our public trust checks. Established domain —
+  registered 23.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:18:23.355Z'
 finalUrl: 'https://petrozoloto.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.3 years ago.
+    - Established domain — registered 23.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-03-19'
-      ageDays: 8498
-      ageYears: 23.3
-    detail: Registered 23.3 years ago (2003-03-19).
+      ageDays: 8537
+      ageYears: 23.4
+    detail: Registered 23.4 years ago (2003-03-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-petrozoloto.ru looks like a well-established store. The clearest positives are that its domain has been registered for 23.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+petrozoloto.ru looks like a well-established store. The clearest positives are that its domain has been registered for 23.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Petrozoloto in the score above.
 

@@ -1,11 +1,11 @@
 ---
 domain: dasringshop.nl
 slug: dasringshop-nl
-title: Is dasringshop.nl Legit? Trust Score 82/100
+title: Is dasringshop.nl Legit? Trust Score 73/100
 description: >-
-  dasringshop.nl scores 82/100 on our public trust checks. Established domain —
-  registered 10 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:28.875Z'
+  dasringshop.nl scores 73/100 on our public trust checks. Established domain —
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:33.543Z'
 finalUrl: 'https://www.dasringshop.nl/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-  redFlags: []
+  redFlags:
+    - No links to major social platforms found.
   cautions:
     - Only limited contact details were found.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 42
+      issuer: Google Trust Services
+      validTo: '2026-11-02'
+      daysToExpiry: 85
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-06-25'
-      ageDays: 3652
-      ageYears: 10
-    detail: Registered 10 years ago (2016-06-25).
+      ageDays: 3698
+      ageYears: 10.1
+    detail: Registered 10.1 years ago (2016-06-25).
   contact:
     status: warn
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dasringshop.nl looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dasringshop.nl looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dasringshop in the score above.
 

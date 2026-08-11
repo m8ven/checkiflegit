@@ -5,7 +5,7 @@ title: Is egriborvidek.hu Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   egriborvidek.hu scores 57/100 on our public trust checks. Standard contact and
   policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:29:38.093Z'
+fetchedAt: '2026-08-10T06:35:27.523Z'
 finalUrl: 'https://www.egriborvidek.hu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-30'
-      daysToExpiry: 98
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

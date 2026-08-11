@@ -5,7 +5,7 @@ title: Is avista-llc.com Legit? Trust Score 82/100
 description: >-
   avista-llc.com scores 82/100 on our public trust checks. Established domain —
   registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:55.577Z'
+fetchedAt: '2026-07-27T08:15:12.218Z'
 finalUrl: 'https://avista-llc.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-24'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-12-04'
-      ageDays: 933
+      ageDays: 966
       ageYears: 2.6
     detail: Registered 2.6 years ago (2023-12-04).
   contact:

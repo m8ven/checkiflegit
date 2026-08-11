@@ -5,7 +5,7 @@ title: Is offthewallcreations.com Legit? Trust Score 61/100
 description: >-
   offthewallcreations.com scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:46:24.141Z'
+fetchedAt: '2026-07-27T08:32:56.014Z'
 finalUrl: 'https://offthewallcreations.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.8 years ago.
+    - Established domain — registered 26.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-08-29'
-      ageDays: 9796
-      ageYears: 26.8
-    detail: Registered 26.8 years ago (1999-08-29).
+      ageDays: 9828
+      ageYears: 26.9
+    detail: Registered 26.9 years ago (1999-08-29).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-offthewallcreations.com sends a mixed set of signals. On the positive side, its domain has been registered for 26.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+offthewallcreations.com sends a mixed set of signals. On the positive side, its domain has been registered for 26.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Offthewallcreations in the score above.
 

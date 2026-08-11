@@ -4,8 +4,8 @@ slug: maarahvapood-ee
 title: Is maarahvapood.ee Legit? Trust Score 82/100
 description: >-
   maarahvapood.ee scores 82/100 on our public trust checks. Established domain —
-  registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:51:17.201Z'
+  registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:35:15.042Z'
 finalUrl: 'https://maarahvapood.ee/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.6 years ago.
+    - Established domain — registered 8.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 76
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-11-30'
-      ageDays: 3128
-      ageYears: 8.6
-    detail: Registered 8.6 years ago (2017-11-30).
+      ageDays: 3167
+      ageYears: 8.7
+    detail: Registered 8.7 years ago (2017-11-30).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-maarahvapood.ee looks like a well-established store. The clearest positives are that its domain has been registered for 8.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+maarahvapood.ee looks like a well-established store. The clearest positives are that its domain has been registered for 8.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Maarahvapood in the score above.
 

@@ -4,8 +4,8 @@ slug: geenitestid-ee
 title: Is geenitestid.ee Legit? Trust Score 100/100
 description: >-
   geenitestid.ee scores 100/100 on our public trust checks. Established domain —
-  registered 13 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:03.878Z'
+  registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:35:48.544Z'
 finalUrl: 'https://geenitestid.ee/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13 years ago.
+    - Established domain — registered 13.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-14'
-      daysToExpiry: 19
+      validTo: '2026-09-29'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-06-10'
-      ageDays: 4762
-      ageYears: 13
-    detail: Registered 13 years ago (2013-06-10).
+      ageDays: 4802
+      ageYears: 13.2
+    detail: Registered 13.2 years ago (2013-06-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-geenitestid.ee looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+geenitestid.ee looks like a well-established store. The clearest positives are that its domain has been registered for 13.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Geenitestid in the score above.
 

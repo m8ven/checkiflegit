@@ -5,7 +5,7 @@ title: Is lavishshop.bg Legit? Trust Score 83/100
 description: >-
   lavishshop.bg scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:41:38.001Z'
+fetchedAt: '2026-07-27T08:28:10.680Z'
 finalUrl: 'https://lavishshop.bg/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,24 +1,25 @@
 ---
 domain: hamiltone.co.uk
 slug: hamiltone-co-uk
-title: Is hamiltone.co.uk Legit? Trust Score 66/100 — Mixed Signals
+title: Is hamiltone.co.uk Legit? Trust Score 73/100
 description: >-
-  hamiltone.co.uk scores 66/100 on our public trust checks. No links to major
-  social platforms found.
-fetchedAt: '2026-06-25T02:36:28.044Z'
+  hamiltone.co.uk scores 73/100 on our public trust checks. Established domain —
+  registered 30 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:24:00.798Z'
 finalUrl: 'https://hamiltone.co.uk/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 66
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.9 years ago.
+    - Established domain — registered 30 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
@@ -52,16 +53,20 @@ signals:
       shipping: false
     detail: Found 0 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-08-18'
+      daysToExpiry: 22
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-08-01'
-      ageDays: 10919
-      ageYears: 29.9
-    detail: Registered 29.9 years ago (1996-08-01).
+      ageDays: 10952
+      ageYears: 30
+    detail: Registered 30 years ago (1996-08-01).
   contact:
     status: pass
     value:
@@ -90,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hamiltone.co.uk sends a mixed set of signals. On the positive side, its domain has been registered for 29.9 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+hamiltone.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 30 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hamiltone in the score above.
 

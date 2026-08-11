@@ -4,8 +4,8 @@ slug: 8togo-lt
 title: Is 8togo.lt Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   8togo.lt scores 100/100 on our public trust checks. Established domain —
-  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:20.789Z'
+  registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:29.924Z'
 finalUrl: 'https://8togo.lt/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.4 years ago.
+    - Established domain — registered 12.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-02-05'
-      ageDays: 4523
-      ageYears: 12.4
-    detail: Registered 12.4 years ago (2014-02-05).
+      ageDays: 4555
+      ageYears: 12.5
+    detail: Registered 12.5 years ago (2014-02-05).
   contact:
     status: pass
     value:
@@ -81,10 +81,10 @@ signals:
       instagram: true
       twitter: false
       tiktok: false
-      youtube: false
+      youtube: true
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-8togo.lt looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+8togo.lt looks like a well-established store. The clearest positives are that its domain has been registered for 12.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 8togo in the score above.
 

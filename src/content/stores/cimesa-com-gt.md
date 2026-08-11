@@ -1,11 +1,11 @@
 ---
 domain: cimesa.com.gt
 slug: cimesa-com-gt
-title: Is cimesa.com.gt Legit? Trust Score 79/100
+title: Is cimesa.com.gt Legit? Trust Score 100/100
 description: >-
-  cimesa.com.gt scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  cimesa.com.gt scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:28:54.553Z'
+fetchedAt: '2026-07-27T08:17:53.903Z'
 finalUrl: 'https://cimesa.com.gt/'
 reachable: true
 noindex: false
@@ -15,14 +15,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 79
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
-  redFlags:
-    - No links to major social platforms found.
+    - Maintains links to multiple social media platforms.
+  redFlags: []
   cautions: []
 signals:
   http:
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,19 +68,19 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
-    status: fail
+    status: pass
     value:
-      facebook: false
-      instagram: false
+      facebook: true
+      instagram: true
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cimesa.com.gt looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cimesa.com.gt looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cimesa in the score above.
 

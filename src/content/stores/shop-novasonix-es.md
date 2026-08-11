@@ -5,7 +5,7 @@ title: Is shop.novasonix.es Legit? Trust Score 83/100
 description: >-
   shop.novasonix.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:02:58.448Z'
+fetchedAt: '2026-08-10T06:13:15.939Z'
 finalUrl: 'https://shop.novasonix.es/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: false
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is xtreme-events.de Legit? Trust Score 100/100
 description: >-
   xtreme-events.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:25:10.731Z'
+fetchedAt: '2026-08-03T08:13:51.476Z'
 finalUrl: 'https://www.xtreme-events.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

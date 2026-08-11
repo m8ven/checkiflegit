@@ -1,30 +1,29 @@
 ---
 domain: laptop360.vn
 slug: laptop360-vn
-title: Is laptop360.vn Legit? Trust Score 61/100 — Mixed Signals
+title: Is laptop360.vn Legit? Trust Score 79/100
 description: >-
-  laptop360.vn scores 61/100 on our public trust checks. No links to major
-  social platforms found. Some standard policy or contact pages appear to be
-  missing.
-fetchedAt: '2026-06-25T02:45:39.565Z'
+  laptop360.vn scores 79/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-07-27T08:31:59.587Z'
 finalUrl: 'https://laptop360.vn/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 79
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
       terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-23'
-      daysToExpiry: 244
+      daysToExpiry: 212
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -92,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-laptop360.vn sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+laptop360.vn looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Laptop360 in the score above.
 

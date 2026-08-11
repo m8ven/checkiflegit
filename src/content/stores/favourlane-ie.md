@@ -4,8 +4,8 @@ slug: favourlane-ie
 title: Is favourlane.ie Legit? Trust Score 88/100
 description: >-
   favourlane.ie scores 88/100 on our public trust checks. Established domain —
-  registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:43:21.710Z'
+  registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:28:48.648Z'
 finalUrl: 'https://favourlane.ie/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.8 years ago.
+    - Established domain — registered 12.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-29'
-      daysToExpiry: 188
+      daysToExpiry: 149
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2013-09-22'
-      ageDays: 4658
-      ageYears: 12.8
-    detail: Registered 12.8 years ago (2013-09-22).
+      ageDays: 4697
+      ageYears: 12.9
+    detail: Registered 12.9 years ago (2013-09-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-favourlane.ie looks like a well-established store. The clearest positives are that its domain has been registered for 12.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+favourlane.ie looks like a well-established store. The clearest positives are that its domain has been registered for 12.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Favourlane in the score above.
 

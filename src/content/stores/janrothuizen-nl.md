@@ -5,7 +5,7 @@ title: Is janrothuizen.nl Legit? Trust Score 76/100
 description: >-
   janrothuizen.nl scores 76/100 on our public trust checks. Established domain —
   registered 20.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:16.582Z'
+fetchedAt: '2026-07-27T08:26:16.303Z'
 finalUrl: 'https://janrothuizen.nl/'
 reachable: true
 noindex: false
@@ -48,23 +48,23 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-14'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-12-07'
-      ageDays: 7505
+      ageDays: 7537
       ageYears: 20.6
     detail: Registered 20.6 years ago (2005-12-07).
   contact:

@@ -6,7 +6,7 @@ description: >-
   idental.co.il scores 57/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T02:30:29.069Z'
+fetchedAt: '2026-07-27T08:19:15.371Z'
 finalUrl: 'https://idental.co.il/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

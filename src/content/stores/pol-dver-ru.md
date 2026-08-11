@@ -1,11 +1,11 @@
 ---
 domain: pol-dver.ru
 slug: pol-dver-ru
-title: Is pol-dver.ru Legit? Trust Score 73/100 — Trust Checks Pass
+title: Is pol-dver.ru Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  pol-dver.ru scores 73/100 on our public trust checks. Established domain —
-  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:35.240Z'
+  pol-dver.ru scores 85/100 on our public trust checks. Established domain —
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:08:11.566Z'
 finalUrl: 'https://pol-dver.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.9 years ago.
+    - Established domain — registered 6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
       terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 53
+      validTo: '2026-10-17'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-08-07'
-      ageDays: 2147
-      ageYears: 5.9
-    detail: Registered 5.9 years ago (2020-08-07).
+      ageDays: 2193
+      ageYears: 6
+    detail: Registered 6 years ago (2020-08-07).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pol-dver.ru looks like a well-established store. The clearest positives are that its domain has been registered for 5.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pol-dver.ru looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pol-dver in the score above.
 

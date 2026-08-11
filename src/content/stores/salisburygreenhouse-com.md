@@ -3,9 +3,9 @@ domain: salisburygreenhouse.com
 slug: salisburygreenhouse-com
 title: Is salisburygreenhouse.com Legit? Trust Score 100/100
 description: >-
-  salisburygreenhouse.com scores 100/100 on our public trust checks. Has a
-  contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:01:33.850Z'
+  salisburygreenhouse.com scores 100/100 on our public trust checks. Established
+  domain — registered 27.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:12:14.993Z'
 finalUrl: 'https://salisburygreenhouse.com/'
 reachable: true
 noindex: false
@@ -18,6 +18,8 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 27.3 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -51,13 +53,20 @@ signals:
       shipping: false
     detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-10-18'
+      daysToExpiry: 70
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '1999-04-30'
+      ageDays: 9963
+      ageYears: 27.3
+    detail: Registered 27.3 years ago (1999-04-30).
   contact:
     status: pass
     value:
@@ -82,11 +91,11 @@ signals:
       trustpilot: unknown
       google: unknown
     detail: >-
-      Trustpilot presence check failed: This operation was aborted Google review
-      presence not checked (no free, reliable signal).
+      Trustpilot presence inconclusive (HTTP 403). Google review presence not
+      checked (no free, reliable signal).
 ---
 
-salisburygreenhouse.com looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+salisburygreenhouse.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Salisburygreenhouse in the score above.
 

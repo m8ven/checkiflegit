@@ -5,7 +5,7 @@ title: Is egematbaa.com.tr Legit? Trust Score 83/100
 description: >-
   egematbaa.com.tr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:57:13.403Z'
+fetchedAt: '2026-08-03T08:04:39.629Z'
 finalUrl: 'https://www.egematbaa.com.tr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 45
+      validTo: '2026-10-21'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: bymarie-com
 title: Is bymarie.com Legit? Trust Score 100/100
 description: >-
   bymarie.com scores 100/100 on our public trust checks. Established domain —
-  registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:37:57.208Z'
+  registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:24:14.604Z'
 finalUrl: 'https://bymarie.com/en-intl'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 15.1 years ago.
+    - Established domain — registered 15.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-05-30'
-      ageDays: 5504
-      ageYears: 15.1
-    detail: Registered 15.1 years ago (2011-05-30).
+      ageDays: 5543
+      ageYears: 15.2
+    detail: Registered 15.2 years ago (2011-05-30).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bymarie.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bymarie.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bymarie in the score above.
 

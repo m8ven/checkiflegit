@@ -5,7 +5,7 @@ title: Is suncomet.fi Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   suncomet.fi scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-24T21:45:12.207Z'
+fetchedAt: '2026-07-27T08:05:37.459Z'
 finalUrl: 'https://suncomet.fi/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-14'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

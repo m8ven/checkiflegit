@@ -4,8 +4,8 @@ slug: homeo-shop-com
 title: Is homeo-shop.com Legit? Trust Score 100/100
 description: >-
   homeo-shop.com scores 100/100 on our public trust checks. Established domain —
-  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:47.583Z'
+  registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:08:23.500Z'
 finalUrl: 'https://homeo-shop.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 63
+      validTo: '2026-10-27'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-01-24'
-      ageDays: 516
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-01-24).
+      ageDays: 562
+      ageYears: 1.5
+    detail: Registered 1.5 years ago (2025-01-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-homeo-shop.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+homeo-shop.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Homeo-shop in the score above.
 

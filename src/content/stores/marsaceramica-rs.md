@@ -5,7 +5,7 @@ title: Is marsaceramica.rs Legit? Trust Score 83/100
 description: >-
   marsaceramica.rs scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:43:25.127Z'
+fetchedAt: '2026-07-27T08:29:41.386Z'
 finalUrl: 'https://marsaceramica.rs/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

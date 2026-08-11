@@ -5,7 +5,7 @@ title: Is homebuilding.com.au Legit? Trust Score 100/100
 description: >-
   homebuilding.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:20:30.027Z'
+fetchedAt: '2026-08-10T06:27:49.441Z'
 finalUrl: 'https://www.homebuilding.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 65
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

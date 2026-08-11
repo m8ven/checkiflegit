@@ -4,8 +4,8 @@ slug: babylist-com
 title: Is babylist.com Legit? Trust Score 88/100
 description: >-
   babylist.com scores 88/100 on our public trust checks. Established domain —
-  registered 28.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:48.070Z'
+  registered 28.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:20.005Z'
 finalUrl: 'https://www.babylist.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 28.7 years ago.
+    - Established domain — registered 28.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-11-12'
-      daysToExpiry: 142
+      daysToExpiry: 109
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
     status: pass
     value:
       createdAt: '1997-10-24'
-      ageDays: 10470
-      ageYears: 28.7
-    detail: Registered 28.7 years ago (1997-10-24).
+      ageDays: 10503
+      ageYears: 28.8
+    detail: Registered 28.8 years ago (1997-10-24).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-babylist.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+babylist.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Babylist in the score above.
 

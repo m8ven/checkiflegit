@@ -5,7 +5,7 @@ title: Is kauppa.ural.fi Legit? Trust Score 19/100
 description: >-
   kauppa.ural.fi scores 19/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:51:30.964Z'
+fetchedAt: '2026-08-03T08:35:27.233Z'
 finalUrl: 'https://kauppa.ural.fi/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

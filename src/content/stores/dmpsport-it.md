@@ -4,8 +4,8 @@ slug: dmpsport-it
 title: Is dmpsport.it Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   dmpsport.it scores 88/100 on our public trust checks. Established domain —
-  registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:24.032Z'
+  registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:10.886Z'
 finalUrl: 'https://www.dmpsport.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2027-03-06'
-      daysToExpiry: 255
+      daysToExpiry: 215
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2021-02-17'
-      ageDays: 1953
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-02-17).
+      ageDays: 1992
+      ageYears: 5.5
+    detail: Registered 5.5 years ago (2021-02-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dmpsport.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dmpsport.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dmpsport in the score above.
 

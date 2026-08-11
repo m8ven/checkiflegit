@@ -5,7 +5,7 @@ title: Is spssafetywear.co.za Legit? Trust Score 100/100
 description: >-
   spssafetywear.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:46:07.336Z'
+fetchedAt: '2026-07-27T08:32:33.336Z'
 finalUrl: 'https://spssafetywear.co.za/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

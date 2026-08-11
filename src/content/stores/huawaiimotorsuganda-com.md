@@ -5,7 +5,7 @@ title: Is huawaiimotorsuganda.com Legit? Trust Score 73/100
 description: >-
   huawaiimotorsuganda.com scores 73/100 on our public trust checks. Established
   domain — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:38.694Z'
+fetchedAt: '2026-07-27T08:25:00.712Z'
 finalUrl: 'https://huawaiimotorsuganda.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-23'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-10-30'
-      ageDays: 1333
+      ageDays: 1366
       ageYears: 3.7
     detail: Registered 3.7 years ago (2022-10-30).
   contact:

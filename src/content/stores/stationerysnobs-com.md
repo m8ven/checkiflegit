@@ -4,8 +4,8 @@ slug: stationerysnobs-com
 title: Is stationerysnobs.com Legit? Trust Score 100/100
 description: >-
   stationerysnobs.com scores 100/100 on our public trust checks. Established
-  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:12:38.983Z'
+  domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:21:18.235Z'
 finalUrl: 'https://stationerysnobs.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-15'
-      ageDays: 1743
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-09-15).
+      ageDays: 1789
+      ageYears: 4.9
+    detail: Registered 4.9 years ago (2021-09-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-stationerysnobs.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+stationerysnobs.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Stationerysnobs in the score above.
 

@@ -4,9 +4,9 @@ slug: expert-kiev-ua
 title: Is expert.kiev.ua Legit? Trust Score 82/100
 description: >-
   expert.kiev.ua scores 82/100 on our public trust checks. Established domain —
-  registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:18:38.940Z'
-finalUrl: 'https://www.expert.kiev.ua/?doing_wp_cron=1782389921.4181730747222900390625'
+  registered 28.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:26:29.398Z'
+finalUrl: 'https://www.expert.kiev.ua/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.4 years ago.
+    - Established domain — registered 28.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -30,8 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: >-
-        https://www.expert.kiev.ua/?doing_wp_cron=1782389921.4181730747222900390625
+      finalUrl: 'https://www.expert.kiev.ua/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -57,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-17'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-01-18'
-      ageDays: 10384
-      ageYears: 28.4
-    detail: Registered 28.4 years ago (1998-01-18).
+      ageDays: 10430
+      ageYears: 28.6
+    detail: Registered 28.6 years ago (1998-01-18).
   contact:
     status: pass
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-expert.kiev.ua looks like a well-established store. The clearest positives are that its domain has been registered for 28.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+expert.kiev.ua looks like a well-established store. The clearest positives are that its domain has been registered for 28.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Expert in the score above.
 

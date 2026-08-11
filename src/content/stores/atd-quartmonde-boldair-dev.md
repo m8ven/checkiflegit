@@ -1,28 +1,28 @@
 ---
 domain: atd-quartmonde.boldair.dev
 slug: atd-quartmonde-boldair-dev
-title: Is atd-quartmonde.boldair.dev Legit? Trust Score 83/100
+title: Is atd-quartmonde.boldair.dev Legit? Trust Score 66/100
 description: >-
-  atd-quartmonde.boldair.dev scores 83/100 on our public trust checks. Valid
-  HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:12.665Z'
+  atd-quartmonde.boldair.dev scores 66/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
+fetchedAt: '2026-07-27T08:33:40.989Z'
 finalUrl: 'https://atd-quartmonde.boldair.dev/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 83
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 66
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
-      contact: true
+      contact: false
       privacy: true
       terms: true
-      refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      refund: false
+      shipping: false
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-atd-quartmonde.boldair.dev looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+atd-quartmonde.boldair.dev sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Atd-quartmonde in the score above.
 

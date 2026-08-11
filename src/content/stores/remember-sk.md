@@ -5,7 +5,7 @@ title: Is remember.sk Legit? Trust Score 44/100
 description: >-
   remember.sk scores 44/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:05:57.582Z'
+fetchedAt: '2026-08-10T06:15:42.975Z'
 finalUrl: 'https://remember.sk/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

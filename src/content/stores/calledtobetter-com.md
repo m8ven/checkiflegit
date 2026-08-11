@@ -1,31 +1,29 @@
 ---
 domain: calledtobetter.com
 slug: calledtobetter-com
-title: Is calledtobetter.com Legit? Trust Score 43/100
+title: Is calledtobetter.com Legit? Trust Score 73/100
 description: >-
-  calledtobetter.com scores 43/100 on our public trust checks. No public contact
-  details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:25:14.340Z'
+  calledtobetter.com scores 73/100 on our public trust checks. Established
+  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:24.042Z'
 finalUrl: 'https://calledtobetter.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 43
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 73
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.1 years ago.
+    - Established domain — registered 1.3 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
-    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -34,47 +32,47 @@ signals:
       finalUrl: 'https://calledtobetter.com/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: warn
-    value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-05-06'
-      ageDays: 414
-      ageYears: 1.1
-    detail: Registered 1.1 years ago (2025-05-06).
+      ageDays: 460
+      ageYears: 1.3
+    detail: Registered 1.3 years ago (2025-05-06).
   contact:
-    status: fail
+    status: warn
     value:
-      email: false
+      email: true
       phone: false
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: email.'
   social:
     status: fail
     value:
@@ -96,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for calledtobetter.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 1.1 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+calledtobetter.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Calledtobetter in the score above.
 

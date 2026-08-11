@@ -5,7 +5,7 @@ title: Is boissonsdeterroirs.maisonpernet.com Legit? Score 36/100
 description: >-
   boissonsdeterroirs.maisonpernet.com scores 36/100 on our public trust checks.
   No public contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:19:55.264Z'
+fetchedAt: '2026-07-27T08:10:50.534Z'
 finalUrl: 'https://boissonsdeterroirs.maisonpernet.com/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-10-10'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

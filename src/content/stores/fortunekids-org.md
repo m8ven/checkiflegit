@@ -1,11 +1,11 @@
 ---
 domain: fortunekids.org
 slug: fortunekids-org
-title: Is fortunekids.org Legit? Trust Score 73/100
+title: Is fortunekids.org Legit? Trust Score 83/100
 description: >-
-  fortunekids.org scores 73/100 on our public trust checks. Established domain —
-  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:31.222Z'
+  fortunekids.org scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
+fetchedAt: '2026-07-27T08:22:18.990Z'
 finalUrl: 'https://fortunekids.org/'
 reachable: true
 noindex: false
@@ -15,14 +15,13 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 83
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
-  redFlags:
-    - No links to major social platforms found.
+    - Maintains links to multiple social media platforms.
+  redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
 signals:
@@ -57,16 +56,13 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2023-12-28'
-      ageDays: 909
-      ageYears: 2.5
-    detail: Registered 2.5 years ago (2023-12-28).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -75,16 +71,16 @@ signals:
       address: false
     detail: 'Public contact details found: email, phone.'
   social:
-    status: fail
+    status: pass
     value:
-      facebook: false
-      instagram: false
+      facebook: true
+      instagram: true
       twitter: false
-      tiktok: false
+      tiktok: true
       youtube: false
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 3 social platform(s): facebook, instagram, tiktok.'
   reviews:
     status: unknown
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fortunekids.org looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fortunekids.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fortunekids in the score above.
 

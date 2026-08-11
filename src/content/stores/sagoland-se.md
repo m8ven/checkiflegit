@@ -4,8 +4,8 @@ slug: sagoland-se
 title: Is sagoland.se Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   sagoland.se scores 88/100 on our public trust checks. Established domain —
-  registered 22.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:36.480Z'
+  registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:45.832Z'
 finalUrl: 'https://sagoland.se/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.5 years ago.
+    - Established domain — registered 22.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-16'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-01-13'
-      ageDays: 8199
-      ageYears: 22.5
-    detail: Registered 22.5 years ago (2004-01-13).
+      ageDays: 8245
+      ageYears: 22.6
+    detail: Registered 22.6 years ago (2004-01-13).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sagoland.se looks like a well-established store. The clearest positives are that its domain has been registered for 22.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sagoland.se looks like a well-established store. The clearest positives are that its domain has been registered for 22.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sagoland in the score above.
 

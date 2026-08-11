@@ -5,7 +5,7 @@ title: Is healthcare21.eu Legit? Trust Score 100/100
 description: >-
   healthcare21.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:52:13.745Z'
+fetchedAt: '2026-08-03T08:35:58.200Z'
 finalUrl: 'https://healthcare21.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-26'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

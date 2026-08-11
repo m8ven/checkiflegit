@@ -4,8 +4,8 @@ slug: globalexpo-ca
 title: Is globalexpo.ca Legit? Trust Score 100/100
 description: >-
   globalexpo.ca scores 100/100 on our public trust checks. Established domain —
-  registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:47:58.654Z'
+  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:03:39.009Z'
 finalUrl: 'https://globalexpo.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.8 years ago.
+    - Established domain — registered 3.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 51
+      validTo: '2026-10-05'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-09-16'
-      ageDays: 1377
-      ageYears: 3.8
-    detail: Registered 3.8 years ago (2022-09-16).
+      ageDays: 1423
+      ageYears: 3.9
+    detail: Registered 3.9 years ago (2022-09-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-globalexpo.ca looks like a well-established store. The clearest positives are that its domain has been registered for 3.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+globalexpo.ca looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Globalexpo in the score above.
 

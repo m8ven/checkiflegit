@@ -5,7 +5,7 @@ title: Is 1708conseil.fr Legit? Trust Score 37/100
 description: >-
   1708conseil.fr scores 37/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:56:21.626Z'
+fetchedAt: '2026-08-03T08:04:08.836Z'
 finalUrl: 'https://www.1708conseil.fr/'
 reachable: true
 noindex: false
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-05'
-      ageDays: 231
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-05).
+      ageDays: 271
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-05).
   contact:
     status: fail
     value:

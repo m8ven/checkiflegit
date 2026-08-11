@@ -5,7 +5,7 @@ title: Is weinonaut.de Legit? Trust Score 19/100
 description: >-
   weinonaut.de scores 19/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:50:29.781Z'
+fetchedAt: '2026-08-03T08:01:41.816Z'
 finalUrl: 'https://weinonaut.de/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-09'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

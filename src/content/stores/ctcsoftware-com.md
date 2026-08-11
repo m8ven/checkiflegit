@@ -4,8 +4,8 @@ slug: ctcsoftware-com
 title: Is ctcsoftware.com Legit? Trust Score 100/100
 description: >-
   ctcsoftware.com scores 100/100 on our public trust checks. Established domain
-  — registered 27 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:23:36.832Z'
+  — registered 27.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:16.762Z'
 finalUrl: 'https://ctcsoftware.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27 years ago.
+    - Established domain — registered 27.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-12-10'
-      daysToExpiry: 169
+      daysToExpiry: 137
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '1999-06-18'
-      ageDays: 9868
-      ageYears: 27
-    detail: Registered 27 years ago (1999-06-18).
+      ageDays: 9900
+      ageYears: 27.1
+    detail: Registered 27.1 years ago (1999-06-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ctcsoftware.com looks like a well-established store. The clearest positives are that its domain has been registered for 27 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ctcsoftware.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ctcsoftware in the score above.
 

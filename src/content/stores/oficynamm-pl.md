@@ -1,11 +1,11 @@
 ---
 domain: oficynamm.pl
 slug: oficynamm-pl
-title: Is oficynamm.pl Legit? Trust Score 74/100
+title: Is oficynamm.pl Legit? Trust Score 94/100
 description: >-
-  oficynamm.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:46:24.345Z'
+  oficynamm.pl scores 94/100 on our public trust checks. Established domain —
+  registered 23.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:32:56.435Z'
 finalUrl: 'https://oficynamm.pl/'
 reachable: true
 noindex: false
@@ -15,14 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 74
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 23.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -43,33 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: home.pl S.A.
       validTo: '2027-01-16'
-      daysToExpiry: 205
+      daysToExpiry: 173
       authorized: true
     detail: Valid certificate issued by home.pl S.A..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2002-08-23'
+      ageDays: 8738
+      ageYears: 23.9
+    detail: Registered 23.9 years ago (2002-08-23).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-oficynamm.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+oficynamm.pl looks like a well-established store. The clearest positives are that its domain has been registered for 23.9 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Oficynamm in the score above.
 

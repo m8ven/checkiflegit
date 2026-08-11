@@ -4,8 +4,8 @@ slug: blacklawrencepress-com
 title: Is blacklawrencepress.com Legit? Trust Score 76/100
 description: >-
   blacklawrencepress.com scores 76/100 on our public trust checks. Established
-  domain — registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:47.930Z'
+  domain — registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:23:32.694Z'
 finalUrl: 'https://blacklawrencepress.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.1 years ago.
+    - Established domain — registered 23.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2003-05-28'
-      ageDays: 8428
-      ageYears: 23.1
-    detail: Registered 23.1 years ago (2003-05-28).
+      ageDays: 8467
+      ageYears: 23.2
+    detail: Registered 23.2 years ago (2003-05-28).
   contact:
     status: warn
     value:
@@ -79,12 +79,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blacklawrencepress.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+blacklawrencepress.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blacklawrencepress in the score above.
 

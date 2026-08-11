@@ -5,7 +5,7 @@ title: Is henmar.eu Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   henmar.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:34:35.216Z'
+fetchedAt: '2026-07-27T08:22:24.671Z'
 finalUrl: 'https://henmar.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: cyber_Folks S.A.
       validTo: '2026-12-03'
-      daysToExpiry: 162
+      daysToExpiry: 130
       authorized: true
     detail: Valid certificate issued by cyber_Folks S.A..
   domainAge:

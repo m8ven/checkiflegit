@@ -5,7 +5,7 @@ title: Is engels-mode-schmuck.de Legit? Trust Score 61/100
 description: >-
   engels-mode-schmuck.de scores 61/100 on our public trust checks. No links to
   major social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:30:00.535Z'
+fetchedAt: '2026-08-10T06:35:40.139Z'
 finalUrl: 'https://www.engels-mode-schmuck.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 33
+      validTo: '2026-09-27'
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

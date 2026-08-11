@@ -4,8 +4,8 @@ slug: cubcadet-com
 title: Is cubcadet.com Legit? Trust Score 100/100
 description: >-
   cubcadet.com scores 100/100 on our public trust checks. Established domain —
-  registered 30.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:19.448Z'
+  registered 30.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:27.727Z'
 finalUrl: 'https://www.cubcadet.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 30.5 years ago.
+    - Established domain — registered 30.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-16'
-      daysToExpiry: 22
+      validTo: '2026-10-11'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-01-05'
-      ageDays: 11128
-      ageYears: 30.5
-    detail: Registered 30.5 years ago (1996-01-05).
+      ageDays: 11161
+      ageYears: 30.6
+    detail: Registered 30.6 years ago (1996-01-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cubcadet.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cubcadet.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cubcadet in the score above.
 

@@ -4,8 +4,8 @@ slug: berangere-creations-fr
 title: Is berangere-creations.fr Legit? Trust Score 100/100
 description: >-
   berangere-creations.fr scores 100/100 on our public trust checks. Established
-  domain — registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:57:37.775Z'
+  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:53.008Z'
 finalUrl: 'https://berangere-creations.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.2 years ago.
+    - Established domain — registered 4.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 68
+      validTo: '2026-10-28'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-04-15'
-      ageDays: 1531
-      ageYears: 4.2
-    detail: Registered 4.2 years ago (2022-04-15).
+      ageDays: 1570
+      ageYears: 4.3
+    detail: Registered 4.3 years ago (2022-04-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-berangere-creations.fr looks like a well-established store. The clearest positives are that its domain has been registered for 4.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+berangere-creations.fr looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Berangere-creations in the score above.
 

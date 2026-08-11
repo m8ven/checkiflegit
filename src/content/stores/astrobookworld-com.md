@@ -4,8 +4,8 @@ slug: astrobookworld-com
 title: Is astrobookworld.com Legit? Trust Score 100/100
 description: >-
   astrobookworld.com scores 100/100 on our public trust checks. Established
-  domain — registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:50:42.530Z'
+  domain — registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:36:28.637Z'
 finalUrl: 'https://astrobookworld.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.1 years ago.
+    - Established domain — registered 1.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-17'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-05-11'
-      ageDays: 409
-      ageYears: 1.1
-    detail: Registered 1.1 years ago (2025-05-11).
+      ageDays: 441
+      ageYears: 1.2
+    detail: Registered 1.2 years ago (2025-05-11).
   contact:
     status: pass
     value:
@@ -83,8 +83,8 @@ signals:
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: true
-    detail: 'Links to 3 social platform(s): facebook, instagram, pinterest.'
+      pinterest: false
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-astrobookworld.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+astrobookworld.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Astrobookworld in the score above.
 

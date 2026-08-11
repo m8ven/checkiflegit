@@ -5,7 +5,7 @@ title: Is buscadordempleos.com Legit? Trust Score 58/100
 description: >-
   buscadordempleos.com scores 58/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:37:28.193Z'
+fetchedAt: '2026-08-03T08:23:48.661Z'
 finalUrl: 'https://buscadordempleos.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.9 years ago.
+    - Established domain — registered 13 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-30'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-08-07'
-      ageDays: 4704
-      ageYears: 12.9
-    detail: Registered 12.9 years ago (2013-08-07).
+      ageDays: 4743
+      ageYears: 13
+    detail: Registered 13 years ago (2013-08-07).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-buscadordempleos.com sends a mixed set of signals. On the positive side, its domain has been registered for 12.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+buscadordempleos.com sends a mixed set of signals. On the positive side, its domain has been registered for 13 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Buscadordempleos in the score above.
 

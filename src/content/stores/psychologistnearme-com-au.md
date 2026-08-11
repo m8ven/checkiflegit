@@ -5,7 +5,7 @@ title: Is psychologistnearme.com.au Legit? Trust Score 36/100
 description: >-
   psychologistnearme.com.au scores 36/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T12:33:05.509Z'
+fetchedAt: '2026-08-10T06:38:09.224Z'
 finalUrl: 'https://www.psychologistnearme.com.au/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 76
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

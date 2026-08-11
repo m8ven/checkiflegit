@@ -4,8 +4,8 @@ slug: dumbblindluck-com
 title: Is dumbblindluck.com Legit? Trust Score 88/100
 description: >-
   dumbblindluck.com scores 88/100 on our public trust checks. Established domain
-  — registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:27:20.667Z'
+  — registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:45.549Z'
 finalUrl: 'https://dumbblindluck.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.6 years ago.
+    - Established domain — registered 21.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-11-13'
-      ageDays: 7893
-      ageYears: 21.6
-    detail: Registered 21.6 years ago (2004-11-13).
+      ageDays: 7932
+      ageYears: 21.7
+    detail: Registered 21.7 years ago (2004-11-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dumbblindluck.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dumbblindluck.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dumbblindluck in the score above.
 

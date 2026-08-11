@@ -5,7 +5,7 @@ title: Is freefeet.eu Legit? Trust Score 40/100
 description: >-
   freefeet.eu scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:45:29.349Z'
+fetchedAt: '2026-08-03T08:31:03.611Z'
 finalUrl: 'https://freefeet.eu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 32
+      validTo: '2026-09-25'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

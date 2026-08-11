@@ -5,7 +5,7 @@ title: Is electroknight.de Legit? Trust Score 49/100
 description: >-
   electroknight.de scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T02:32:04.177Z'
+fetchedAt: '2026-07-27T08:20:30.126Z'
 finalUrl: 'https://electroknight.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-12'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

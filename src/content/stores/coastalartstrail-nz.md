@@ -1,11 +1,11 @@
 ---
 domain: coastalartstrail.nz
 slug: coastalartstrail-nz
-title: Is coastalartstrail.nz Legit? Trust Score 100/100
+title: Is coastalartstrail.nz Legit? Trust Score 70/100
 description: >-
-  coastalartstrail.nz scores 100/100 on our public trust checks. Established
-  domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:03:04.911Z'
+  coastalartstrail.nz scores 70/100 on our public trust checks. Established
+  domain — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:48.011Z'
 finalUrl: 'https://coastalartstrail.nz/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.3 years ago.
+    - Established domain — registered 5.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No public contact details detected on the homepage.
   cautions: []
 signals:
   http:
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-02-18'
-      ageDays: 1952
-      ageYears: 5.3
-    detail: Registered 5.3 years ago (2021-02-18).
+      ageDays: 1992
+      ageYears: 5.5
+    detail: Registered 5.5 years ago (2021-02-18).
   contact:
-    status: pass
+    status: fail
     value:
       email: false
-      phone: true
-      address: true
-    detail: 'Public contact details found: phone, address.'
+      phone: false
+      address: false
+    detail: No public contact details detected on the homepage.
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-coastalartstrail.nz looks like a well-established store. The clearest positives are that its domain has been registered for 5.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+coastalartstrail.nz looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Coastalartstrail in the score above.
 

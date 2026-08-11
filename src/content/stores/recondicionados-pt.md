@@ -1,11 +1,11 @@
 ---
 domain: recondicionados.pt
 slug: recondicionados-pt
-title: Is recondicionados.pt Legit? Trust Score 88/100
+title: Is recondicionados.pt Legit? Trust Score 83/100
 description: >-
-  recondicionados.pt scores 88/100 on our public trust checks. Established
-  domain — registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:16.867Z'
+  recondicionados.pt scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-07-27T08:35:21.940Z'
 finalUrl: 'https://recondicionados.pt/'
 reachable: true
 noindex: false
@@ -15,10 +15,9 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 83
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +56,13 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2014-02-04'
-      ageDays: 4524
-      ageYears: 12.4
-    detail: Registered 12.4 years ago (2014-02-04).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: warn
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-recondicionados.pt looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+recondicionados.pt looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Recondicionados in the score above.
 

@@ -5,7 +5,7 @@ title: Is g-home.hu Legit? Trust Score 19/100
 description: >-
   g-home.hu scores 19/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:46:18.926Z'
+fetchedAt: '2026-08-03T08:31:29.979Z'
 finalUrl: 'https://g-home.hu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-20'
-      daysToExpiry: 26
+      validTo: '2026-09-27'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

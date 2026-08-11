@@ -1,29 +1,29 @@
 ---
 domain: radhex.es
 slug: radhex-es
-title: Is radhex.es Legit? Trust Score 57/100 — Mixed Signals
+title: Is radhex.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  radhex.es scores 57/100 on our public trust checks. Some standard policy or
-  contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:49:03.592Z'
+  radhex.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-07-27T08:35:07.247Z'
 finalUrl: 'https://radhex.es/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 57
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
+    - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
-    - Limited social media presence.
+  cautions: []
 signals:
   http:
     status: pass
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -64,23 +64,25 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: warn
+    status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: 'Public contact details found: email, phone.'
   social:
-    status: warn
+    status: pass
     value:
       facebook: true
-      instagram: false
+      instagram: true
       twitter: false
-      tiktok: false
-      youtube: false
-      linkedin: false
+      tiktok: true
+      youtube: true
+      linkedin: true
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: >-
+      Links to 5 social platform(s): facebook, instagram, tiktok, youtube,
+      linkedin.
   reviews:
     status: unknown
     value:
@@ -91,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-radhex.es sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+radhex.es looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Radhex in the score above.
 

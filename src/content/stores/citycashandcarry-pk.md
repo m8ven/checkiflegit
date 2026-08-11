@@ -4,8 +4,8 @@ slug: citycashandcarry-pk
 title: Is citycashandcarry.pk Legit? Trust Score 70/100
 description: >-
   citycashandcarry.pk scores 70/100 on our public trust checks. Established
-  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:23:06.411Z'
+  domain — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:58.303Z'
 finalUrl: 'https://citycashandcarry.pk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.1 years ago.
+    - Established domain — registered 3.2 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-05-20'
-      ageDays: 1132
-      ageYears: 3.1
-    detail: Registered 3.1 years ago (2023-05-20).
+      ageDays: 1164
+      ageYears: 3.2
+    detail: Registered 3.2 years ago (2023-05-20).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-citycashandcarry.pk looks like a well-established store. The clearest positives are that its domain has been registered for 3.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+citycashandcarry.pk looks like a well-established store. The clearest positives are that its domain has been registered for 3.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Citycashandcarry in the score above.
 

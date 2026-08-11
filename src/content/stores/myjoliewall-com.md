@@ -4,8 +4,8 @@ slug: myjoliewall-com
 title: Is myjoliewall.com Legit? Trust Score 85/100
 description: >-
   myjoliewall.com scores 85/100 on our public trust checks. Established domain —
-  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:12.319Z'
+  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:06:49.294Z'
 finalUrl: 'https://myjoliewall.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 73
+      validTo: '2026-11-04'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-01-07'
-      ageDays: 1629
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2022-01-07).
+      ageDays: 1675
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2022-01-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-myjoliewall.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.5 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+myjoliewall.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Myjoliewall in the score above.
 

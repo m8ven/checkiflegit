@@ -4,8 +4,8 @@ slug: simplydesserts-us
 title: Is simplydesserts.us Legit? Trust Score 88/100
 description: >-
   simplydesserts.us scores 88/100 on our public trust checks. Established domain
-  — registered 3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:16.690Z'
+  — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:30.274Z'
 finalUrl: 'https://simplydesserts.us/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3 years ago.
+    - Established domain — registered 3.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-13'
-      daysToExpiry: 81
+      validTo: '2026-10-25'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-06-26'
-      ageDays: 1094
-      ageYears: 3
-    detail: Registered 3 years ago (2023-06-26).
+      ageDays: 1140
+      ageYears: 3.1
+    detail: Registered 3.1 years ago (2023-06-26).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-simplydesserts.us looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+simplydesserts.us looks like a well-established store. The clearest positives are that its domain has been registered for 3.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Simplydesserts in the score above.
 

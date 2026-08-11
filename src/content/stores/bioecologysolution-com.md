@@ -4,8 +4,8 @@ slug: bioecologysolution-com
 title: Is bioecologysolution.com Legit? Trust Score 73/100
 description: >-
   bioecologysolution.com scores 73/100 on our public trust checks. Established
-  domain — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:16:19.806Z'
+  domain — registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:19.846Z'
 finalUrl: 'https://bioecologysolution.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.5 years ago.
+    - Established domain — registered 3.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-01'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-12-15'
-      ageDays: 1287
-      ageYears: 3.5
-    detail: Registered 3.5 years ago (2022-12-15).
+      ageDays: 1319
+      ageYears: 3.6
+    detail: Registered 3.6 years ago (2022-12-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bioecologysolution.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bioecologysolution.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bioecologysolution in the score above.
 

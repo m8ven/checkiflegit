@@ -5,7 +5,7 @@ title: Is in.mtap.io Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   in.mtap.io scores 57/100 on our public trust checks. No public contact details
   detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:05.587Z'
+fetchedAt: '2026-07-27T08:24:36.975Z'
 finalUrl: 'https://in.mtap.io/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-24'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: tonal-com
 title: Is tonal.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   tonal.com scores 88/100 on our public trust checks. Established domain —
-  registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:54.340Z'
+  registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:05.950Z'
 finalUrl: 'https://tonal.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 28.3 years ago.
+    - Established domain — registered 28.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-02-26'
-      ageDays: 10345
-      ageYears: 28.3
-    detail: Registered 28.3 years ago (1998-02-26).
+      ageDays: 10378
+      ageYears: 28.4
+    detail: Registered 28.4 years ago (1998-02-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tonal.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tonal.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tonal in the score above.
 

@@ -4,8 +4,8 @@ slug: jardinopia-com
 title: Is jardinopia.com Legit? Trust Score 94/100
 description: >-
   jardinopia.com scores 94/100 on our public trust checks. Established domain —
-  registered 10 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:00:48.038Z'
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:07:11.623Z'
 finalUrl: 'https://www.jardinopia.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-10'
-      daysToExpiry: 16
+      validTo: '2026-09-24'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-07-13'
-      ageDays: 3633
-      ageYears: 10
-    detail: Registered 10 years ago (2016-07-13).
+      ageDays: 3672
+      ageYears: 10.1
+    detail: Registered 10.1 years ago (2016-07-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jardinopia.com looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jardinopia.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jardinopia in the score above.
 

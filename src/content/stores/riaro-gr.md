@@ -5,7 +5,7 @@ title: Is riaro.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   riaro.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:00:39.474Z'
+fetchedAt: '2026-08-10T06:11:29.907Z'
 finalUrl: 'https://riaro.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-23'
-      daysToExpiry: 90
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

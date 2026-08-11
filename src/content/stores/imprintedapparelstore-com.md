@@ -4,9 +4,9 @@ slug: imprintedapparelstore-com
 title: Is imprintedapparelstore.com Legit? Trust Score 100/100
 description: >-
   imprintedapparelstore.com scores 100/100 on our public trust checks.
-  Established domain — registered 25.9 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 26 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T11:57:22.744Z'
+fetchedAt: '2026-08-10T06:08:53.498Z'
 finalUrl: 'https://imprintedapparelstore.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.9 years ago.
+    - Established domain — registered 26 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-23'
-      daysToExpiry: 90
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-08-14'
-      ageDays: 9446
-      ageYears: 25.9
-    detail: Registered 25.9 years ago (2000-08-14).
+      ageDays: 9492
+      ageYears: 26
+    detail: Registered 26 years ago (2000-08-14).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-imprintedapparelstore.com looks like a well-established store. The clearest positives are that its domain has been registered for 25.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+imprintedapparelstore.com looks like a well-established store. The clearest positives are that its domain has been registered for 26 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Imprintedapparelstore in the score above.
 

@@ -5,8 +5,8 @@ title: Is stylo.pk Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   stylo.pk scores 100/100 on our public trust checks. Established domain —
   registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:57.904Z'
-finalUrl: 'https://int.stylo.pk/?shpxid=605a4089-5b23-4a9f-9bda-7d626a7e13f9'
+fetchedAt: '2026-07-27T08:05:27.747Z'
+finalUrl: 'https://int.stylo.pk/?shpxid=dbb5c92f-5d7c-4311-b03e-8618342b6d19'
 reachable: true
 noindex: false
 verdict:
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://int.stylo.pk/?shpxid=605a4089-5b23-4a9f-9bda-7d626a7e13f9'
+      finalUrl: 'https://int.stylo.pk/?shpxid=dbb5c92f-5d7c-4311-b03e-8618342b6d19'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-08-17'
-      ageDays: 3598
+      ageDays: 3631
       ageYears: 9.9
     detail: Registered 9.9 years ago (2016-08-17).
   contact:

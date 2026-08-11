@@ -4,8 +4,8 @@ slug: verdens-kort-dk
 title: Is verdens-kort.dk Legit? Trust Score 82/100
 description: >-
   verdens-kort.dk scores 82/100 on our public trust checks. Established domain —
-  registered 2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:08:40.819Z'
+  registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:18:16.630Z'
 finalUrl: 'https://verdens-kort.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 2 years ago.
+    - Established domain — registered 2.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -50,23 +50,23 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-25'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2024-06-20'
-      ageDays: 735
-      ageYears: 2
-    detail: Registered 2 years ago (2024-06-20).
+      ageDays: 781
+      ageYears: 2.1
+    detail: Registered 2.1 years ago (2024-06-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-verdens-kort.dk looks like a well-established store. The clearest positives are that its domain has been registered for 2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+verdens-kort.dk looks like a well-established store. The clearest positives are that its domain has been registered for 2.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Verdens-kort in the score above.
 

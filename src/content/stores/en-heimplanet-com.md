@@ -5,7 +5,7 @@ title: Is en.heimplanet.com Legit? Trust Score 83/100
 description: >-
   en.heimplanet.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:26:38.443Z'
+fetchedAt: '2026-07-27T08:15:45.804Z'
 finalUrl: 'https://en.heimplanet.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-12'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

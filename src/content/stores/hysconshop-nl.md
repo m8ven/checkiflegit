@@ -4,8 +4,8 @@ slug: hysconshop-nl
 title: Is hysconshop.nl Legit? Trust Score 85/100
 description: >-
   hysconshop.nl scores 85/100 on our public trust checks. Established domain —
-  registered 17 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:48:53.437Z'
+  registered 17.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:33:31.663Z'
 finalUrl: 'https://hysconshop.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17 years ago.
+    - Established domain — registered 17.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-13'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-07-02'
-      ageDays: 6202
-      ageYears: 17
-    detail: Registered 17 years ago (2009-07-02).
+      ageDays: 6241
+      ageYears: 17.1
+    detail: Registered 17.1 years ago (2009-07-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hysconshop.nl looks like a well-established store. The clearest positives are that its domain has been registered for 17 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hysconshop.nl looks like a well-established store. The clearest positives are that its domain has been registered for 17.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hysconshop in the score above.
 

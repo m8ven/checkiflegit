@@ -5,7 +5,7 @@ title: Is benarit.com Legit? Trust Score 94/100 — Trust Checks Pass
 description: >-
   benarit.com scores 94/100 on our public trust checks. Established domain —
   registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:51:31.315Z'
+fetchedAt: '2026-07-27T08:37:17.874Z'
 finalUrl: 'https://benarit.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-13'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-08-22'
-      ageDays: 9803
+      ageDays: 9835
       ageYears: 26.9
     detail: Registered 26.9 years ago (1999-08-22).
   contact:

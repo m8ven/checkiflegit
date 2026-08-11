@@ -5,7 +5,7 @@ title: Is abercrombiejewelry.com Legit? Trust Score 100/100
 description: >-
   abercrombiejewelry.com scores 100/100 on our public trust checks. Established
   domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:45.582Z'
+fetchedAt: '2026-07-27T08:12:46.538Z'
 finalUrl: 'https://abercrombiejewelry.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-09-30'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-08-17'
-      ageDays: 1772
+      ageDays: 1804
       ageYears: 4.9
     detail: Registered 4.9 years ago (2021-08-17).
   contact:

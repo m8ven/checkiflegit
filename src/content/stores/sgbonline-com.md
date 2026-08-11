@@ -4,8 +4,8 @@ slug: sgbonline-com
 title: Is sgbonline.com Legit? Trust Score 70/100
 description: >-
   sgbonline.com scores 70/100 on our public trust checks. Established domain —
-  registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:45.490Z'
+  registered 19.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:04.513Z'
 finalUrl: 'https://sgbonline.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.8 years ago.
+    - Established domain — registered 19.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
-      issuer: 'GoDaddy.com, Inc.'
-      validTo: '2026-07-25'
-      daysToExpiry: 30
+      issuer: GoDaddy.com
+      validTo: '2026-09-23'
+      daysToExpiry: 45
       authorized: true
-    detail: 'Valid certificate issued by GoDaddy.com, Inc..'
+    detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2006-09-15'
-      ageDays: 7223
-      ageYears: 19.8
-    detail: Registered 19.8 years ago (2006-09-15).
+      ageDays: 7269
+      ageYears: 19.9
+    detail: Registered 19.9 years ago (2006-09-15).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sgbonline.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sgbonline.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sgbonline in the score above.
 

@@ -5,7 +5,7 @@ title: Is hydrafor.ru Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   hydrafor.ru scores 55/100 on our public trust checks. No links to major social
   platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T03:57:22.694Z'
+fetchedAt: '2026-08-10T06:06:56.248Z'
 finalUrl: 'https://hydrafor.ru/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: GlobalSign nv-sa
       validTo: '2026-11-09'
-      daysToExpiry: 138
+      daysToExpiry: 92
       authorized: true
     detail: Valid certificate issued by GlobalSign nv-sa.
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-01'
-      ageDays: 266
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-10-01).
+      ageDays: 312
+      ageYears: 0.9
+    detail: Registered 0.9 years ago (2025-10-01).
   contact:
     status: pass
     value:

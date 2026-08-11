@@ -5,7 +5,7 @@ title: Is medrazgl.si Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   medrazgl.si scores 88/100 on our public trust checks. Established domain —
   registered 20.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:36:10.728Z'
+fetchedAt: '2026-07-27T08:23:49.412Z'
 finalUrl: 'https://medrazgl.si/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-09-28'
-      ageDays: 7575
+      ageDays: 7607
       ageYears: 20.8
     detail: Registered 20.8 years ago (2005-09-28).
   contact:

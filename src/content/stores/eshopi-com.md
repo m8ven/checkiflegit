@@ -4,8 +4,8 @@ slug: eshopi-com
 title: Is eshopi.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   eshopi.com scores 100/100 on our public trust checks. Established domain —
-  registered 15.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:47.049Z'
+  registered 16 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:58.204Z'
 finalUrl: 'https://eshopi.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.9 years ago.
+    - Established domain — registered 16 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-25'
-      daysToExpiry: 154
+      daysToExpiry: 122
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2010-08-03'
-      ageDays: 5804
-      ageYears: 15.9
-    detail: Registered 15.9 years ago (2010-08-03).
+      ageDays: 5836
+      ageYears: 16
+    detail: Registered 16 years ago (2010-08-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eshopi.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eshopi.com looks like a well-established store. The clearest positives are that its domain has been registered for 16 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eshopi in the score above.
 

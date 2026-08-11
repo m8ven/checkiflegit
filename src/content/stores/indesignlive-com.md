@@ -1,72 +1,71 @@
 ---
 domain: indesignlive.com
 slug: indesignlive-com
-title: Is indesignlive.com Legit? Trust Score 88/100
+title: Is indesignlive.com Legit? Trust Score 61/100
 description: >-
-  indesignlive.com scores 88/100 on our public trust checks. Established domain
-  — registered 18.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:20:57.640Z'
-finalUrl: 'https://www.indesignlive.com/'
+  indesignlive.com scores 61/100 on our public trust checks. No links to major
+  social platforms found.
+fetchedAt: '2026-08-03T08:10:53.380Z'
+finalUrl: 'https://www.indesignlive.com/amp/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 88
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.8 years ago.
+    - Established domain — registered 18.9 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No links to major social platforms found.
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.indesignlive.com/'
+      finalUrl: 'https://www.indesignlive.com/amp/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: false
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: false
-      refund: true
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: false
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 32
+      validTo: '2026-09-24'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-08-30'
-      ageDays: 6873
-      ageYears: 18.8
-    detail: Registered 18.8 years ago (2007-08-30).
+      ageDays: 6913
+      ageYears: 18.9
+    detail: Registered 18.9 years ago (2007-08-30).
   contact:
     status: warn
     value:
@@ -75,18 +74,16 @@ signals:
       address: false
     detail: 'Public contact details found: email.'
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
-      twitter: true
+      facebook: false
+      instagram: false
+      twitter: false
       tiktok: false
       youtube: false
-      linkedin: true
-      pinterest: true
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, linkedin,
-      pinterest.
+      linkedin: false
+      pinterest: false
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -97,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-indesignlive.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+indesignlive.com sends a mixed set of signals. On the positive side, its domain has been registered for 18.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Indesignlive in the score above.
 

@@ -6,7 +6,7 @@ description: >-
   domterryinternational.com scores 82/100 on our public trust checks.
   Established domain — registered 11.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:25:36.015Z'
+fetchedAt: '2026-07-27T08:14:56.433Z'
 finalUrl: 'https://domterryinternational.com/'
 reachable: true
 noindex: false
@@ -58,14 +58,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-04-30'
-      ageDays: 4073
+      ageDays: 4105
       ageYears: 11.2
     detail: Registered 11.2 years ago (2015-04-30).
   contact:

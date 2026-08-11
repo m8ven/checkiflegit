@@ -5,7 +5,7 @@ title: Is seoprimesolution.com Legit? Trust Score 55/100
 description: >-
   seoprimesolution.com scores 55/100 on our public trust checks. No links to
   major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T02:44:35.739Z'
+fetchedAt: '2026-07-27T08:31:02.149Z'
 finalUrl: 'https://seoprimesolution.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-01'
-      ageDays: 266
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-10-01).
+      ageDays: 298
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-10-01).
   contact:
     status: pass
     value:

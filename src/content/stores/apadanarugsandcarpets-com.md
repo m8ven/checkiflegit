@@ -4,9 +4,9 @@ slug: apadanarugsandcarpets-com
 title: Is apadanarugsandcarpets.com Legit? Trust Score 100/100
 description: >-
   apadanarugsandcarpets.com scores 100/100 on our public trust checks.
-  Established domain — registered 4.6 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:55:40.061Z'
+fetchedAt: '2026-08-03T08:03:42.260Z'
 finalUrl: 'https://apadanarugsandcarpets.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 4.6 years ago.
+    - Established domain — registered 4.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-11-14'
-      ageDays: 1683
-      ageYears: 4.6
-    detail: Registered 4.6 years ago (2021-11-14).
+      ageDays: 1722
+      ageYears: 4.7
+    detail: Registered 4.7 years ago (2021-11-14).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-apadanarugsandcarpets.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+apadanarugsandcarpets.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Apadanarugsandcarpets in the score above.
 

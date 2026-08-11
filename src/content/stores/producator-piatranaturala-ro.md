@@ -4,9 +4,9 @@ slug: producator-piatranaturala-ro
 title: Is producator-piatranaturala.ro Legit? Trust Score 73/100
 description: >-
   producator-piatranaturala.ro scores 73/100 on our public trust checks.
-  Established domain — registered 12.3 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 12.4 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T11:59:11.340Z'
+fetchedAt: '2026-08-10T06:10:19.200Z'
 finalUrl: 'https://producator-piatranaturala.ro/?v=3736f5a66ba7'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.3 years ago.
+    - Established domain — registered 12.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 54
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-03-17'
-      ageDays: 4483
-      ageYears: 12.3
-    detail: Registered 12.3 years ago (2014-03-17).
+      ageDays: 4529
+      ageYears: 12.4
+    detail: Registered 12.4 years ago (2014-03-17).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-producator-piatranaturala.ro looks like a well-established store. The clearest positives are that its domain has been registered for 12.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+producator-piatranaturala.ro looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Producator-piatranaturala in the score above.
 

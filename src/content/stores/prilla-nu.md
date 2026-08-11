@@ -1,30 +1,30 @@
 ---
 domain: prilla.nu
 slug: prilla-nu
-title: Is prilla.nu Legit? Trust Score 73/100 — Trust Checks Pass
+title: Is prilla.nu Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  prilla.nu scores 73/100 on our public trust checks. Established domain —
-  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:06.988Z'
+  prilla.nu scores 61/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
+fetchedAt: '2026-08-10T06:10:15.565Z'
 finalUrl: 'https://prilla.nu/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.5 years ago.
+    - Established domain — registered 9.6 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 59
+      validTo: '2026-10-22'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-12-19'
-      ageDays: 3475
-      ageYears: 9.5
-    detail: Registered 9.5 years ago (2016-12-19).
+      ageDays: 3521
+      ageYears: 9.6
+    detail: Registered 9.6 years ago (2016-12-19).
   contact:
-    status: pass
+    status: warn
     value:
       email: false
       phone: true
-      address: true
-    detail: 'Public contact details found: phone, address.'
+      address: false
+    detail: 'Public contact details found: phone.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-prilla.nu looks like a well-established store. The clearest positives are that its domain has been registered for 9.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+prilla.nu sends a mixed set of signals. On the positive side, its domain has been registered for 9.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Prilla in the score above.
 

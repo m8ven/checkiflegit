@@ -5,7 +5,7 @@ title: Is capemerchants.com.au Legit? Trust Score 100/100
 description: >-
   capemerchants.com.au scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:28:03.627Z'
+fetchedAt: '2026-07-27T08:17:10.378Z'
 finalUrl: 'https://capemerchants.com.au/'
 reachable: true
 noindex: false
@@ -46,17 +46,17 @@ signals:
     status: pass
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: true
       refund: false
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-31'
-      daysToExpiry: 190
+      daysToExpiry: 158
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

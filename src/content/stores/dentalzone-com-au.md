@@ -5,7 +5,7 @@ title: Is dentalzone.com.au Legit? Trust Score 79/100
 description: >-
   dentalzone.com.au scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:33:38.265Z'
+fetchedAt: '2026-08-10T06:02:09.719Z'
 finalUrl: 'https://dentalzone.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

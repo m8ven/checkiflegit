@@ -4,8 +4,8 @@ slug: profitoolsbg-com
 title: Is profitoolsbg.com Legit? Trust Score 82/100
 description: >-
   profitoolsbg.com scores 82/100 on our public trust checks. Established domain
-  — registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:21.702Z'
+  — registered 14 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:29.818Z'
 finalUrl: 'https://profitoolsbg.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.9 years ago.
+    - Established domain — registered 14 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -50,23 +50,23 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: GoGetSSL
       validTo: '2026-08-16'
-      daysToExpiry: 53
+      daysToExpiry: 7
       authorized: true
     detail: Valid certificate issued by GoGetSSL.
   domainAge:
     status: pass
     value:
       createdAt: '2012-08-03'
-      ageDays: 5074
-      ageYears: 13.9
-    detail: Registered 13.9 years ago (2012-08-03).
+      ageDays: 5119
+      ageYears: 14
+    detail: Registered 14 years ago (2012-08-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-profitoolsbg.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+profitoolsbg.com looks like a well-established store. The clearest positives are that its domain has been registered for 14 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Profitoolsbg in the score above.
 

@@ -5,7 +5,7 @@ title: Is shop.craneparts.at Legit? Trust Score 100/100
 description: >-
   shop.craneparts.at scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:51:07.847Z'
+fetchedAt: '2026-07-27T08:36:55.567Z'
 finalUrl: 'https://shop.craneparts.at/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

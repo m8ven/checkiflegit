@@ -5,7 +5,7 @@ title: Is letunnel.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   letunnel.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:11:22.989Z'
+fetchedAt: '2026-08-10T06:20:09.454Z'
 finalUrl: 'https://letunnel.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,11 +1,11 @@
 ---
 domain: asortie.ro
 slug: asortie-ro
-title: Is asortie.ro Legit? Trust Score 82/100 — Trust Checks Pass
+title: Is asortie.ro Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
-  asortie.ro scores 82/100 on our public trust checks. Established domain —
-  registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:51.243Z'
+  asortie.ro scores 76/100 on our public trust checks. Established domain —
+  registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:33:17.495Z'
 finalUrl: 'https://asortie.ro/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.6 years ago.
+    - Established domain — registered 14.7 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
+    - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -55,36 +55,36 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      issuer: Google Trust Services
+      validTo: '2026-10-21'
+      daysToExpiry: 86
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2011-11-29'
-      ageDays: 5322
-      ageYears: 14.6
-    detail: Registered 14.6 years ago (2011-11-29).
+      ageDays: 5354
+      ageYears: 14.7
+    detail: Registered 14.7 years ago (2011-11-29).
   contact:
-    status: pass
-    value:
-      email: true
-      phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
-  social:
     status: warn
     value:
+      email: false
+      phone: true
+      address: false
+    detail: 'Public contact details found: phone.'
+  social:
+    status: pass
+    value:
       facebook: true
-      instagram: false
+      instagram: true
       twitter: false
-      tiktok: false
+      tiktok: true
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: 'Links to 3 social platform(s): facebook, instagram, tiktok.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-asortie.ro looks like a well-established store. The clearest positives are that its domain has been registered for 14.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+asortie.ro looks like a well-established store. The clearest positives are that its domain has been registered for 14.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Asortie in the score above.
 

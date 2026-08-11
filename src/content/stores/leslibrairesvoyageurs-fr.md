@@ -1,11 +1,11 @@
 ---
 domain: leslibrairesvoyageurs.fr
 slug: leslibrairesvoyageurs-fr
-title: Is leslibrairesvoyageurs.fr Legit? Trust Score 76/100
+title: Is leslibrairesvoyageurs.fr Legit? Trust Score 88/100
 description: >-
-  leslibrairesvoyageurs.fr scores 76/100 on our public trust checks. Established
-  domain — registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:07.271Z'
+  leslibrairesvoyageurs.fr scores 88/100 on our public trust checks. Established
+  domain — registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:07.465Z'
 finalUrl: 'https://www.leslibrairesvoyageurs.fr/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.8 years ago.
+    - Established domain — registered 5.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -49,31 +49,31 @@ signals:
       contact: false
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-31'
-      daysToExpiry: 68
+      validTo: '2026-10-29'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-08-24'
-      ageDays: 2130
-      ageYears: 5.8
-    detail: Registered 5.8 years ago (2020-08-24).
+      ageDays: 2169
+      ageYears: 5.9
+    detail: Registered 5.9 years ago (2020-08-24).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-leslibrairesvoyageurs.fr looks like a well-established store. The clearest positives are that its domain has been registered for 5.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+leslibrairesvoyageurs.fr looks like a well-established store. The clearest positives are that its domain has been registered for 5.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Leslibrairesvoyageurs in the score above.
 

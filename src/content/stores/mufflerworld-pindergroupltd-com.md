@@ -5,7 +5,7 @@ title: Is mufflerworld.pindergroupltd.com Legit? Trust Score 19/100
 description: >-
   mufflerworld.pindergroupltd.com scores 19/100 on our public trust checks. No
   public contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:57:07.557Z'
+fetchedAt: '2026-08-10T06:06:38.433Z'
 finalUrl: 'https://mufflerworld.pindergroupltd.com/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-07'
-      daysToExpiry: 197
+      daysToExpiry: 151
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

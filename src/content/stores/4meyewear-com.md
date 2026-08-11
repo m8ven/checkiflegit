@@ -1,11 +1,11 @@
 ---
 domain: 4meyewear.com
 slug: 4meyewear-com
-title: Is 4meyewear.com Legit? Trust Score 100/100
+title: Is 4meyewear.com Legit? Trust Score 88/100
 description: >-
-  4meyewear.com scores 100/100 on our public trust checks. Established domain —
-  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:22:45.285Z'
+  4meyewear.com scores 88/100 on our public trust checks. Established domain —
+  registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:29:43.568Z'
 finalUrl: 'https://www.4meyewear.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.2 years ago.
+    - Established domain — registered 4.3 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 51
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-04-20'
-      ageDays: 1527
-      ageYears: 4.2
-    detail: Registered 4.2 years ago (2022-04-20).
+      ageDays: 1572
+      ageYears: 4.3
+    detail: Registered 4.3 years ago (2022-04-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-4meyewear.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+4meyewear.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 4meyewear in the score above.
 

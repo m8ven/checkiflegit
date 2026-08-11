@@ -5,7 +5,7 @@ title: Is bautruc.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   bautruc.com scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:58:36.924Z'
+fetchedAt: '2026-08-03T08:05:38.404Z'
 finalUrl: 'https://www.bautruc.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.6 years ago.
+    - Established domain — registered 16.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-04'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-11-29'
-      ageDays: 6051
-      ageYears: 16.6
-    detail: Registered 16.6 years ago (2009-11-29).
+      ageDays: 6090
+      ageYears: 16.7
+    detail: Registered 16.7 years ago (2009-11-29).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bautruc.com sends a mixed set of signals. On the positive side, its domain has been registered for 16.6 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+bautruc.com sends a mixed set of signals. On the positive side, its domain has been registered for 16.7 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bautruc in the score above.
 

@@ -5,7 +5,7 @@ title: Is newzealandworkwear.co.nz Legit? Trust Score 55/100
 description: >-
   newzealandworkwear.co.nz scores 55/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T12:24:41.462Z'
+fetchedAt: '2026-08-10T06:31:11.662Z'
 finalUrl: 'https://www.newzealandworkwear.co.nz/'
 reachable: true
 noindex: false
@@ -17,8 +17,7 @@ verdict:
     present, but a few are missing — review the breakdown below before buying.
   score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.3 years ago.
+    - Established domain — registered 5.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://www.newzealandworkwear.co.nz/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: false
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -56,17 +55,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 49
+      validTo: '2026-10-13'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-03-02'
-      ageDays: 1940
-      ageYears: 5.3
-    detail: Registered 5.3 years ago (2021-03-02).
+      ageDays: 1986
+      ageYears: 5.4
+    detail: Registered 5.4 years ago (2021-03-02).
   contact:
     status: fail
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-newzealandworkwear.co.nz sends a mixed set of signals. On the positive side, its domain has been registered for 5.3 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+newzealandworkwear.co.nz sends a mixed set of signals. On the positive side, its domain has been registered for 5.4 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Newzealandworkwear in the score above.
 

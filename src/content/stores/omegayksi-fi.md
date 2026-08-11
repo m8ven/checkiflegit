@@ -5,7 +5,7 @@ title: Is omegayksi.fi Legit? Trust Score 91/100
 description: >-
   omegayksi.fi scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:29:54.334Z'
+fetchedAt: '2026-08-10T06:35:39.371Z'
 finalUrl: 'https://www.omegayksi.fi/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: GoDaddy.com
       validTo: '2027-01-01'
-      daysToExpiry: 191
+      daysToExpiry: 145
       authorized: true
     detail: Valid certificate issued by GoDaddy.com.
   domainAge:

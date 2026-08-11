@@ -5,7 +5,7 @@ title: Is allparts.expert Legit? Trust Score 83/100
 description: >-
   allparts.expert scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:33:45.362Z'
+fetchedAt: '2026-08-10T06:02:10.496Z'
 finalUrl: 'https://allparts.expert/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

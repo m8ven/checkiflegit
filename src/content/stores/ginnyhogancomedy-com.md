@@ -5,7 +5,7 @@ title: Is ginnyhogancomedy.com Legit? Trust Score 67/100
 description: >-
   ginnyhogancomedy.com scores 67/100 on our public trust checks. No links to
   major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T12:31:57.313Z'
+fetchedAt: '2026-08-10T06:37:19.005Z'
 finalUrl: 'https://www.ginnyhogancomedy.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-17'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-08-29'
-      ageDays: 300
-      ageYears: 0.8
-    detail: Registered 0.8 years ago (2025-08-29).
+      ageDays: 345
+      ageYears: 0.9
+    detail: Registered 0.9 years ago (2025-08-29).
   contact:
     status: pass
     value:

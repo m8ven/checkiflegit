@@ -1,30 +1,30 @@
 ---
 domain: rotametry.pl
 slug: rotametry-pl
-title: Is rotametry.pl Legit? Trust Score 61/100 — Mixed Signals
+title: Is rotametry.pl Legit? Trust Score 85/100
 description: >-
-  rotametry.pl scores 61/100 on our public trust checks. No links to major
-  social platforms found. Some standard policy or contact pages appear to be
-  missing.
-fetchedAt: '2026-06-25T02:49:43.100Z'
+  rotametry.pl scores 85/100 on our public trust checks. Established domain —
+  registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:48.600Z'
 finalUrl: 'https://rotametry.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 21.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,33 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: cyber_Folks S.A.
       validTo: '2026-10-03'
-      daysToExpiry: 101
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by cyber_Folks S.A..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2004-11-29'
+      ageDays: 7909
+      ageYears: 21.7
+    detail: Registered 21.7 years ago (2004-11-29).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -92,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rotametry.pl sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+rotametry.pl looks like a well-established store. The clearest positives are that its domain has been registered for 21.7 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rotametry in the score above.
 

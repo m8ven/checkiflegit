@@ -1,29 +1,29 @@
 ---
 domain: prettypennyclothing.com
 slug: prettypennyclothing-com
-title: Is prettypennyclothing.com Legit? Trust Score 82/100
+title: Is prettypennyclothing.com Legit? Trust Score 64/100
 description: >-
-  prettypennyclothing.com scores 82/100 on our public trust checks. Established
-  domain — registered 18.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:36.322Z'
+  prettypennyclothing.com scores 64/100 on our public trust checks. No public
+  contact details detected on the homepage. Limited social media presence.
+fetchedAt: '2026-07-27T08:06:59.336Z'
 finalUrl: 'https://prettypennyclothing.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 82
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 64
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 18.8 years ago.
+    - Established domain — registered 18.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-  redFlags: []
+  redFlags:
+    - No public contact details detected on the homepage.
   cautions:
-    - Only limited contact details were found.
     - Limited social media presence.
 signals:
   http:
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-24'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-09-16'
-      ageDays: 6856
-      ageYears: 18.8
-    detail: Registered 18.8 years ago (2007-09-16).
+      ageDays: 6889
+      ageYears: 18.9
+    detail: Registered 18.9 years ago (2007-09-16).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-prettypennyclothing.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+prettypennyclothing.com sends a mixed set of signals. On the positive side, its domain has been registered for 18.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Prettypennyclothing in the score above.
 

@@ -4,8 +4,8 @@ slug: nooie-com
 title: Is nooie.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   nooie.com scores 100/100 on our public trust checks. Established domain —
-  registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:04.151Z'
+  registered 16.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:11.743Z'
 finalUrl: 'https://nooie.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 16.4 years ago.
+    - Established domain — registered 16.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-01-18'
-      ageDays: 6001
-      ageYears: 16.4
-    detail: Registered 16.4 years ago (2010-01-18).
+      ageDays: 6033
+      ageYears: 16.5
+    detail: Registered 16.5 years ago (2010-01-18).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nooie.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nooie.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nooie in the score above.
 

@@ -4,8 +4,8 @@ slug: proideu-ru
 title: Is proideu.ru Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   proideu.ru scores 82/100 on our public trust checks. Established domain —
-  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:41:41.165Z'
+  registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:28:16.759Z'
 finalUrl: 'https://proideu.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.6 years ago.
+    - Established domain — registered 4.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -47,26 +47,26 @@ signals:
     status: warn
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: GlobalSign nv-sa
       validTo: '2027-01-31'
-      daysToExpiry: 221
+      daysToExpiry: 188
       authorized: true
     detail: Valid certificate issued by GlobalSign nv-sa.
   domainAge:
     status: pass
     value:
       createdAt: '2021-11-21'
-      ageDays: 1676
-      ageYears: 4.6
-    detail: Registered 4.6 years ago (2021-11-21).
+      ageDays: 1708
+      ageYears: 4.7
+    detail: Registered 4.7 years ago (2021-11-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-proideu.ru looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+proideu.ru looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Proideu in the score above.
 

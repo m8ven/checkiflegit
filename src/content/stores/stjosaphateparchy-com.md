@@ -4,8 +4,8 @@ slug: stjosaphateparchy-com
 title: Is stjosaphateparchy.com Legit? Trust Score 88/100
 description: >-
   stjosaphateparchy.com scores 88/100 on our public trust checks. Established
-  domain — registered 14 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:21.147Z'
+  domain — registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:32:53.935Z'
 finalUrl: 'https://stjosaphateparchy.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14 years ago.
+    - Established domain — registered 14.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-09'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2012-07-10'
-      ageDays: 5097
-      ageYears: 14
-    detail: Registered 14 years ago (2012-07-10).
+      ageDays: 5129
+      ageYears: 14.1
+    detail: Registered 14.1 years ago (2012-07-10).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-stjosaphateparchy.com looks like a well-established store. The clearest positives are that its domain has been registered for 14 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+stjosaphateparchy.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Stjosaphateparchy in the score above.
 

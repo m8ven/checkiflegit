@@ -5,7 +5,7 @@ title: Is shorashim.hesedtikva32.ru Legit? Trust Score 44/100
 description: >-
   shorashim.hesedtikva32.ru scores 44/100 on our public trust checks. No links
   to major social platforms found.
-fetchedAt: '2026-06-25T12:01:17.696Z'
+fetchedAt: '2026-08-10T06:12:01.272Z'
 finalUrl: 'https://shorashim.hesedtikva32.ru/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 54
+      validTo: '2026-10-18'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,11 +1,11 @@
 ---
 domain: carisma-gifts.com
 slug: carisma-gifts-com
-title: Is carisma-gifts.com Legit? Trust Score 76/100
+title: Is carisma-gifts.com Legit? Trust Score 88/100
 description: >-
-  carisma-gifts.com scores 76/100 on our public trust checks. Established domain
-  — registered 17.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:13.057Z'
+  carisma-gifts.com scores 88/100 on our public trust checks. Established domain
+  — registered 17.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:26.715Z'
 finalUrl: 'https://carisma-gifts.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.8 years ago.
+    - Established domain — registered 17.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-16'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2008-09-02'
-      ageDays: 6504
-      ageYears: 17.8
-    detail: Registered 17.8 years ago (2008-09-02).
+      ageDays: 6536
+      ageYears: 17.9
+    detail: Registered 17.9 years ago (2008-09-02).
   contact:
-    status: warn
+    status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: 'Public contact details found: email, phone.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-carisma-gifts.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+carisma-gifts.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Carisma-gifts in the score above.
 

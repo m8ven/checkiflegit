@@ -5,7 +5,7 @@ title: Is eupsa.info Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   eupsa.info scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:21:41.128Z'
+fetchedAt: '2026-08-10T06:28:55.214Z'
 finalUrl: 'https://www.eupsa.info/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2026-09-01'
-      daysToExpiry: 68
+      daysToExpiry: 22
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:

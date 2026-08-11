@@ -5,7 +5,7 @@ title: Is hiphip.co.il Legit? Trust Score 83/100
 description: >-
   hiphip.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:30:01.289Z'
+fetchedAt: '2026-07-27T08:18:52.720Z'
 finalUrl: 'https://hiphip.co.il/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-11'
-      daysToExpiry: 48
+      daysToExpiry: 15
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

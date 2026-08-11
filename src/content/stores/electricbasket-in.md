@@ -5,7 +5,7 @@ title: Is electricbasket.in Legit? Trust Score 83/100
 description: >-
   electricbasket.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:32:03.129Z'
+fetchedAt: '2026-07-27T08:20:29.993Z'
 finalUrl: 'https://electricbasket.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

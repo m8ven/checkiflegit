@@ -5,7 +5,7 @@ title: Is fjord.com.ua Legit? Trust Score 43/100
 description: >-
   fjord.com.ua scores 43/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:29:24.432Z'
+fetchedAt: '2026-07-27T08:18:25.109Z'
 finalUrl: 'https://fjord.com.ua/'
 reachable: true
 noindex: false
@@ -58,14 +58,14 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-21'
-      ageDays: 1737
+      ageDays: 1769
       ageYears: 4.8
     detail: Registered 4.8 years ago (2021-09-21).
   contact:

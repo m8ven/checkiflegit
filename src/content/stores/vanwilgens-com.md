@@ -4,8 +4,8 @@ slug: vanwilgens-com
 title: Is vanwilgens.com Legit? Trust Score 100/100
 description: >-
   vanwilgens.com scores 100/100 on our public trust checks. Established domain —
-  registered 27.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:32:55.865Z'
+  registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:38:02.869Z'
 finalUrl: 'https://www.vanwilgens.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.6 years ago.
+    - Established domain — registered 27.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-11-24'
-      ageDays: 10075
-      ageYears: 27.6
-    detail: Registered 27.6 years ago (1998-11-24).
+      ageDays: 10121
+      ageYears: 27.7
+    detail: Registered 27.7 years ago (1998-11-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-vanwilgens.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+vanwilgens.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vanwilgens in the score above.
 

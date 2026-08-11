@@ -1,11 +1,11 @@
 ---
 domain: koach-hatodaa.co.il
 slug: koach-hatodaa-co-il
-title: Is koach-hatodaa.co.il Legit? Trust Score 40/100
+title: Is koach-hatodaa.co.il Legit? Trust Score 31/100
 description: >-
-  koach-hatodaa.co.il scores 40/100 on our public trust checks. No public
-  contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:46:28.104Z'
+  koach-hatodaa.co.il scores 31/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
+fetchedAt: '2026-08-10T06:03:27.239Z'
 finalUrl: 'https://koach-hatodaa.co.il/'
 reachable: true
 noindex: false
@@ -16,15 +16,15 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 40
+  score: 31
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
   redFlags:
-    - No public contact details detected on the homepage.
+    - Standard contact and policy pages were not found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -44,20 +44,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
       contact: false
       privacy: false
-      terms: true
+      terms: false
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 73
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -65,23 +65,23 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: fail
+    status: warn
     value:
-      email: false
+      email: true
       phone: false
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: email.'
   social:
-    status: pass
+    status: warn
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
-      tiktok: true
+      tiktok: false
       youtube: true
       linkedin: false
       pinterest: false
-    detail: 'Links to 4 social platform(s): facebook, instagram, tiktok, youtube.'
+    detail: 'Links to 1 social platform(s): youtube.'
   reviews:
     status: unknown
     value:
@@ -92,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for koach-hatodaa.co.il. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for koach-hatodaa.co.il. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Koach-hatodaa in the score above.
 

@@ -5,7 +5,7 @@ title: Is dirtworx.co.za Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   dirtworx.co.za scores 61/100 on our public trust checks. No links to major
   social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:25:27.063Z'
+fetchedAt: '2026-07-27T08:14:51.325Z'
 finalUrl: 'https://dirtworx.co.za/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

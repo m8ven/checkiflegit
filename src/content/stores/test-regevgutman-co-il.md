@@ -5,7 +5,7 @@ title: Is test.regevgutman.co.il Legit? Trust Score 49/100
 description: >-
   test.regevgutman.co.il scores 49/100 on our public trust checks. Standard
   contact and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:47:30.262Z'
+fetchedAt: '2026-07-27T08:33:57.679Z'
 finalUrl: 'https://test.regevgutman.co.il/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

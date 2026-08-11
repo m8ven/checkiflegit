@@ -1,28 +1,28 @@
 ---
 domain: mucinhungbinh.com
 slug: mucinhungbinh-com
-title: Is mucinhungbinh.com Legit? Trust Score 55/100
+title: Is mucinhungbinh.com Legit? Trust Score 85/100
 description: >-
-  mucinhungbinh.com scores 55/100 on our public trust checks. Standard contact
-  and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:56:45.595Z'
+  mucinhungbinh.com scores 85/100 on our public trust checks. Established domain
+  — registered 16.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:22.508Z'
 finalUrl: 'https://mucinhungbinh.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 55
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.8 years ago.
+    - Established domain — registered 16.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
-    - Standard contact and policy pages were not found.
     - No links to major social platforms found.
   cautions: []
 signals:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-09-10'
-      ageDays: 6132
-      ageYears: 16.8
-    detail: Registered 16.8 years ago (2009-09-10).
+      ageDays: 6171
+      ageYears: 16.9
+    detail: Registered 16.9 years ago (2009-09-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mucinhungbinh.com sends a mixed set of signals. On the positive side, its domain has been registered for 16.8 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+mucinhungbinh.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mucinhungbinh in the score above.
 

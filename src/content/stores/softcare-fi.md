@@ -5,7 +5,7 @@ title: Is softcare.fi Legit? Trust Score 100/100
 description: >-
   softcare.fi scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:22:04.543Z'
+fetchedAt: '2026-08-03T08:11:51.557Z'
 finalUrl: 'https://www.softcare.fi/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 64
+      validTo: '2026-10-26'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is news.nissyoku.co.jp Legit? Trust Score 83/100
 description: >-
   news.nissyoku.co.jp scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:54:54.293Z'
+fetchedAt: '2026-08-10T06:05:00.708Z'
 finalUrl: 'https://news.nissyoku.co.jp/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-10-19'
-      daysToExpiry: 117
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:

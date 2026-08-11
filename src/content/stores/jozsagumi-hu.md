@@ -6,7 +6,7 @@ description: >-
   jozsagumi.hu scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T03:47:44.618Z'
+fetchedAt: '2026-08-03T08:32:40.328Z'
 finalUrl: 'https://jozsagumi.hu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 42
+      validTo: '2026-10-04'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

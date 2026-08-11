@@ -4,8 +4,8 @@ slug: secret-shades-com
 title: Is secret-shades.com Legit? Trust Score 73/100
 description: >-
   secret-shades.com scores 73/100 on our public trust checks. Established domain
-  — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:20.167Z'
+  — registered 2.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:12:48.408Z'
 finalUrl: 'https://secret-shades.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.5 years ago.
+    - Established domain — registered 2.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-13'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-12-27'
-      ageDays: 910
-      ageYears: 2.5
-    detail: Registered 2.5 years ago (2023-12-27).
+      ageDays: 956
+      ageYears: 2.6
+    detail: Registered 2.6 years ago (2023-12-27).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-secret-shades.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+secret-shades.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Secret-shades in the score above.
 

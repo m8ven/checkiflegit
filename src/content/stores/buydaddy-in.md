@@ -5,7 +5,7 @@ title: Is buydaddy.in Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   buydaddy.in scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:24:18.113Z'
+fetchedAt: '2026-08-10T06:30:53.760Z'
 finalUrl: 'https://www.buydaddy.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 55
+      validTo: '2026-10-19'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

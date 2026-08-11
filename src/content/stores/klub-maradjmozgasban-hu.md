@@ -5,7 +5,7 @@ title: Is klub.maradjmozgasban.hu Legit? Trust Score 40/100
 description: >-
   klub.maradjmozgasban.hu scores 40/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:40:48.052Z'
+fetchedAt: '2026-07-27T08:27:40.680Z'
 finalUrl: 'https://klub.maradjmozgasban.hu/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

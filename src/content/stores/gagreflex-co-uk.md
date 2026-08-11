@@ -4,8 +4,8 @@ slug: gagreflex-co-uk
 title: Is gagreflex.co.uk Legit? Trust Score 88/100
 description: >-
   gagreflex.co.uk scores 88/100 on our public trust checks. Established domain —
-  registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:28:42.537Z'
+  registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:17:41.950Z'
 finalUrl: 'https://gagreflex.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.7 years ago.
+    - Established domain — registered 21.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-10-14'
-      ageDays: 7923
-      ageYears: 21.7
-    detail: Registered 21.7 years ago (2004-10-14).
+      ageDays: 7956
+      ageYears: 21.8
+    detail: Registered 21.8 years ago (2004-10-14).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gagreflex.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 21.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gagreflex.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 21.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gagreflex in the score above.
 

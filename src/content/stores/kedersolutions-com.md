@@ -4,8 +4,8 @@ slug: kedersolutions-com
 title: Is kedersolutions.com Legit? Trust Score 100/100
 description: >-
   kedersolutions.com scores 100/100 on our public trust checks. Established
-  domain — registered 17.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:45:15.934Z'
+  domain — registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:58.350Z'
 finalUrl: 'https://kedersolutions.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.3 years ago.
+    - Established domain — registered 17.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -38,10 +38,10 @@ signals:
       platform: WooCommerce
       isStore: true
       markers:
-        hasAddToCart: false
+        hasAddToCart: true
         hasCartLink: true
         hasCatalog: true
-        hasCartFlow: false
+        hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-25'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-03-20'
-      ageDays: 6305
-      ageYears: 17.3
-    detail: Registered 17.3 years ago (2009-03-20).
+      ageDays: 6344
+      ageYears: 17.4
+    detail: Registered 17.4 years ago (2009-03-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kedersolutions.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kedersolutions.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kedersolutions in the score above.
 

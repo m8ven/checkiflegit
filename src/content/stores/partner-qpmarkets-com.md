@@ -6,8 +6,8 @@ description: >-
   partner.qpmarkets.com scores 57/100 on our public trust checks. No public
   contact details detected on the homepage. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:28:40.173Z'
-finalUrl: 'https://partner.qpmarkets.com/?doing_wp_cron=1782358120.6335279941558837890625'
+fetchedAt: '2026-08-03T08:16:55.191Z'
+finalUrl: 'https://partner.qpmarkets.com/?doing_wp_cron=1785745015.7954130172729492187500'
 reachable: true
 noindex: false
 verdict:
@@ -31,7 +31,7 @@ signals:
     value:
       httpStatus: 200
       finalUrl: >-
-        https://partner.qpmarkets.com/?doing_wp_cron=1782358120.6335279941558837890625
+        https://partner.qpmarkets.com/?doing_wp_cron=1785745015.7954130172729492187500
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -57,8 +57,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-20'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -4,8 +4,8 @@ slug: lifewaynutrition-com
 title: Is lifewaynutrition.com Legit? Trust Score 94/100
 description: >-
   lifewaynutrition.com scores 94/100 on our public trust checks. Established
-  domain — registered 18.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:11.632Z'
+  domain — registered 18.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:17.427Z'
 finalUrl: 'https://www.lifewaynutrition.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.5 years ago.
+    - Established domain — registered 18.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-15'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-12-31'
-      ageDays: 6750
-      ageYears: 18.5
-    detail: Registered 18.5 years ago (2007-12-31).
+      ageDays: 6790
+      ageYears: 18.6
+    detail: Registered 18.6 years ago (2007-12-31).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lifewaynutrition.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lifewaynutrition.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lifewaynutrition in the score above.
 

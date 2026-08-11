@@ -5,7 +5,7 @@ title: Is martat.fi Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   martat.fi scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:27:46.545Z'
+fetchedAt: '2026-08-10T06:34:01.743Z'
 finalUrl: 'https://www.martat.fi/'
 reachable: true
 noindex: false
@@ -45,18 +45,18 @@ signals:
   pages:
     status: warn
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

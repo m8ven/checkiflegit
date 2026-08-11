@@ -5,7 +5,7 @@ title: Is rebeccaschocolates.gg Legit? Trust Score 61/100
 description: >-
   rebeccaschocolates.gg scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T12:33:06.493Z'
+fetchedAt: '2026-08-10T06:38:13.842Z'
 finalUrl: 'https://rebeccaschocolates.gg/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

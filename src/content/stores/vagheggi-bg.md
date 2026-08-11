@@ -5,7 +5,7 @@ title: Is vagheggi.bg Legit? Trust Score 100/100
 description: >-
   vagheggi.bg scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:17:53.766Z'
+fetchedAt: '2026-08-10T06:25:45.556Z'
 finalUrl: 'https://vagheggi.bg/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

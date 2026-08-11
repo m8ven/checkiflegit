@@ -1,30 +1,30 @@
 ---
 domain: paberkott.ee
 slug: paberkott-ee
-title: Is paberkott.ee Legit? Trust Score 70/100
+title: Is paberkott.ee Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  paberkott.ee scores 70/100 on our public trust checks. Established domain —
-  registered 16 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:27:53.977Z'
+  paberkott.ee scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
+fetchedAt: '2026-08-10T06:34:06.492Z'
 finalUrl: 'https://paberkott.ee/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16 years ago.
+    - Established domain — registered 16.1 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
-      terms: false
+      privacy: false
+      terms: true
       refund: false
-      shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-07-06'
-      ageDays: 5832
-      ageYears: 16
-    detail: Registered 16 years ago (2010-07-06).
+      ageDays: 5878
+      ageYears: 16.1
+    detail: Registered 16.1 years ago (2010-07-06).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-paberkott.ee looks like a well-established store. The clearest positives are that its domain has been registered for 16 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+paberkott.ee sends a mixed set of signals. On the positive side, its domain has been registered for 16.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Paberkott in the score above.
 

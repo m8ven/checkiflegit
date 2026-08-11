@@ -5,7 +5,7 @@ title: Is quicklab.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   quicklab.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:57:46.652Z'
+fetchedAt: '2026-08-10T06:09:15.972Z'
 finalUrl: 'https://quicklab.in/'
 reachable: true
 noindex: false
@@ -17,7 +17,7 @@ verdict:
     secure payment methods when shopping online.
   score: 83
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
+    - Recognisable storefront features (cart/checkout).
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -34,14 +34,16 @@ signals:
   platform:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: true
         hasCatalog: true
         hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: >-
+      Storefront features detected (product catalog with add-to-cart and
+      shopping cart).
   pages:
     status: pass
     value:
@@ -56,7 +58,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

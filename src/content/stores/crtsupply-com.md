@@ -4,8 +4,8 @@ slug: crtsupply-com
 title: Is crtsupply.com Legit? Trust Score 85/100
 description: >-
   crtsupply.com scores 85/100 on our public trust checks. Established domain —
-  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:08.466Z'
+  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:43.646Z'
 finalUrl: 'https://crtsupply.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.2 years ago.
+    - Established domain — registered 12.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: 'GoDaddy.com, Inc.'
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      issuer: GoDaddy.com
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
-    detail: 'Valid certificate issued by GoDaddy.com, Inc..'
+    detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2014-04-25'
-      ageDays: 4443
-      ageYears: 12.2
-    detail: Registered 12.2 years ago (2014-04-25).
+      ageDays: 4475
+      ageYears: 12.3
+    detail: Registered 12.3 years ago (2014-04-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-crtsupply.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+crtsupply.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.3 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Crtsupply in the score above.
 

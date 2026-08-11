@@ -5,7 +5,7 @@ title: Is store.thaihousebh.com Legit? Trust Score 83/100
 description: >-
   store.thaihousebh.com scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:30.664Z'
+fetchedAt: '2026-08-10T06:13:47.975Z'
 finalUrl: 'https://store.thaihousebh.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-04'
-      daysToExpiry: 163
+      daysToExpiry: 117
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

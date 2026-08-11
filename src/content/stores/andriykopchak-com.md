@@ -4,8 +4,8 @@ slug: andriykopchak-com
 title: Is andriykopchak.com Legit? Trust Score 88/100
 description: >-
   andriykopchak.com scores 88/100 on our public trust checks. Established domain
-  — registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:15.433Z'
+  — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:48.798Z'
 finalUrl: 'https://andriykopchak.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.8 years ago.
+    - Established domain — registered 6.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-09-03'
-      ageDays: 2486
-      ageYears: 6.8
-    detail: Registered 6.8 years ago (2019-09-03).
+      ageDays: 2518
+      ageYears: 6.9
+    detail: Registered 6.9 years ago (2019-09-03).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-andriykopchak.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+andriykopchak.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Andriykopchak in the score above.
 

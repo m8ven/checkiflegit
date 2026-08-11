@@ -5,7 +5,7 @@ title: Is jato.ae Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
   jato.ae scores 79/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:03:20.570Z'
+fetchedAt: '2026-08-10T06:13:35.774Z'
 finalUrl: 'https://jato.ae/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 60
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

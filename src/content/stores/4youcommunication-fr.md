@@ -4,8 +4,8 @@ slug: 4youcommunication-fr
 title: Is 4youcommunication.fr Legit? Trust Score 88/100
 description: >-
   4youcommunication.fr scores 88/100 on our public trust checks. Established
-  domain — registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:09.771Z'
+  domain — registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:00.550Z'
 finalUrl: 'https://4youcommunication.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.7 years ago.
+    - Established domain — registered 11.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 64
+      daysToExpiry: 18
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-10-01'
-      ageDays: 4284
-      ageYears: 11.7
-    detail: Registered 11.7 years ago (2014-10-01).
+      ageDays: 4330
+      ageYears: 11.9
+    detail: Registered 11.9 years ago (2014-10-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-4youcommunication.fr looks like a well-established store. The clearest positives are that its domain has been registered for 11.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+4youcommunication.fr looks like a well-established store. The clearest positives are that its domain has been registered for 11.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 4youcommunication in the score above.
 

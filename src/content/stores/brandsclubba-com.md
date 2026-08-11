@@ -1,11 +1,11 @@
 ---
 domain: brandsclubba.com
 slug: brandsclubba-com
-title: Is brandsclubba.com Legit? Trust Score 28/100
+title: Is brandsclubba.com Legit? Trust Score 0/100
 description: >-
-  brandsclubba.com scores 28/100 on our public trust checks. No valid SSL
+  brandsclubba.com scores 0/100 on our public trust checks. No valid SSL
   certificate — connection may not be secure.
-fetchedAt: '2026-06-25T03:28:22.501Z'
+fetchedAt: '2026-08-03T08:16:46.127Z'
 finalUrl: 'http://brandsclubba.com/'
 reachable: true
 noindex: false
@@ -16,16 +16,15 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 28
+  score: 0
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3 years ago.
-    - Maintains links to multiple social media platforms.
+    - Established domain — registered 3.2 years ago.
   redFlags:
     - No valid SSL certificate — connection may not be secure.
     - Standard contact and policy pages were not found.
-  cautions:
-    - Only limited contact details were found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -34,16 +33,16 @@ signals:
       finalUrl: 'http://brandsclubba.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: fail
     value:
@@ -58,34 +57,34 @@ signals:
     value:
       issuer: null
       validTo: '2024-06-08'
-      daysToExpiry: -746
+      daysToExpiry: -785
       authorized: false
     detail: Certificate has expired.
   domainAge:
     status: pass
     value:
       createdAt: '2023-06-09'
-      ageDays: 1111
-      ageYears: 3
-    detail: Registered 3 years ago (2023-06-09).
+      ageDays: 1150
+      ageYears: 3.2
+    detail: Registered 3.2 years ago (2023-06-09).
   contact:
-    status: warn
+    status: fail
     value:
-      email: true
+      email: false
       phone: false
       address: false
-    detail: 'Public contact details found: email.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for brandsclubba.com. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 3 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for brandsclubba.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 3.2 years — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Brandsclubba in the score above.
 

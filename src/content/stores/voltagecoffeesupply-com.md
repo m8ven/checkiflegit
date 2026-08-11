@@ -4,8 +4,8 @@ slug: voltagecoffeesupply-com
 title: Is voltagecoffeesupply.com Legit? Trust Score 100/100
 description: >-
   voltagecoffeesupply.com scores 100/100 on our public trust checks. Established
-  domain — registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:33:14.451Z'
+  domain — registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:38:20.077Z'
 finalUrl: 'https://www.voltagecoffeesupply.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 7.4 years ago.
+    - Established domain — registered 7.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 68
+      validTo: '2026-10-30'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-01-15'
-      ageDays: 2717
-      ageYears: 7.4
-    detail: Registered 7.4 years ago (2019-01-15).
+      ageDays: 2763
+      ageYears: 7.6
+    detail: Registered 7.6 years ago (2019-01-15).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-voltagecoffeesupply.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+voltagecoffeesupply.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Voltagecoffeesupply in the score above.
 

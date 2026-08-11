@@ -4,8 +4,8 @@ slug: beautyparkkozmetikalanya-com
 title: Is beautyparkkozmetikalanya.com Legit? Trust Score 13/100
 description: >-
   beautyparkkozmetikalanya.com scores 13/100 on our public trust checks. Domain
-  registered very recently (56 days ago).
-fetchedAt: '2026-06-25T02:26:23.914Z'
+  registered very recently (88 days ago).
+fetchedAt: '2026-07-27T08:15:35.681Z'
 finalUrl: 'https://beautyparkkozmetikalanya.com/'
 reachable: true
 noindex: false
@@ -22,7 +22,7 @@ verdict:
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
-    - Domain registered very recently (56 days ago).
+    - Domain registered very recently (88 days ago).
     - Standard contact and policy pages were not found.
   cautions:
     - Only limited contact details were found.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-12'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: fail
     value:
       createdAt: '2026-04-29'
-      ageDays: 56
+      ageDays: 88
       ageYears: 0.2
-    detail: Registered very recently (56 days ago).
+    detail: Registered very recently (88 days ago).
   contact:
     status: warn
     value:

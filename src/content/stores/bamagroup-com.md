@@ -4,8 +4,8 @@ slug: bamagroup-com
 title: Is bamagroup.com Legit? Trust Score 88/100
 description: >-
   bamagroup.com scores 88/100 on our public trust checks. Established domain —
-  registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:10.857Z'
+  registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:01:46.006Z'
 finalUrl: 'https://www.bamagroup.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.3 years ago.
+    - Established domain — registered 26.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-03-16'
-      ageDays: 9596
-      ageYears: 26.3
-    detail: Registered 26.3 years ago (2000-03-16).
+      ageDays: 9635
+      ageYears: 26.4
+    detail: Registered 26.4 years ago (2000-03-16).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bamagroup.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bamagroup.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bamagroup in the score above.
 

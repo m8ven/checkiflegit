@@ -5,7 +5,7 @@ title: Is macsan.co.il Legit? Trust Score 40/100
 description: >-
   macsan.co.il scores 40/100 on our public trust checks. Standard contact and
   policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:49:11.181Z'
+fetchedAt: '2026-07-27T08:35:14.060Z'
 finalUrl: 'https://macsan.co.il/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-09'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

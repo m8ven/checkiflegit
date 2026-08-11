@@ -4,8 +4,8 @@ slug: surtico-com-mx
 title: Is surtico.com.mx Legit? Trust Score 73/100
 description: >-
   surtico.com.mx scores 73/100 on our public trust checks. Established domain —
-  registered 17.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:27:54.478Z'
+  registered 17.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:16:29.262Z'
 finalUrl: 'https://www.surtico.com.mx/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.6 years ago.
+    - Established domain — registered 17.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-26'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-11-11'
-      ageDays: 6435
-      ageYears: 17.6
-    detail: Registered 17.6 years ago (2008-11-11).
+      ageDays: 6474
+      ageYears: 17.7
+    detail: Registered 17.7 years ago (2008-11-11).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-surtico.com.mx looks like a well-established store. The clearest positives are that its domain has been registered for 17.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+surtico.com.mx looks like a well-established store. The clearest positives are that its domain has been registered for 17.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Surtico in the score above.
 

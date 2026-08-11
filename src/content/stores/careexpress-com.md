@@ -4,8 +4,8 @@ slug: careexpress-com
 title: Is careexpress.com Legit? Trust Score 73/100
 description: >-
   careexpress.com scores 73/100 on our public trust checks. Established domain —
-  registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:11.109Z'
+  registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:11:39.335Z'
 finalUrl: 'https://careexpress.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.3 years ago.
+    - Established domain — registered 28.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-03-25'
-      ageDays: 10318
-      ageYears: 28.3
-    detail: Registered 28.3 years ago (1998-03-25).
+      ageDays: 10351
+      ageYears: 28.4
+    detail: Registered 28.4 years ago (1998-03-25).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-careexpress.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+careexpress.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Careexpress in the score above.
 

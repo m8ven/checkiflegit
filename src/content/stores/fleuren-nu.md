@@ -4,8 +4,8 @@ slug: fleuren-nu
 title: Is fleuren.nu Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   fleuren.nu scores 100/100 on our public trust checks. Established domain —
-  registered 17.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:07.599Z'
+  registered 17.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:21:59.732Z'
 finalUrl: 'https://fleuren.nu/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 17.6 years ago.
+    - Established domain — registered 17.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-11-23'
-      ageDays: 6423
-      ageYears: 17.6
-    detail: Registered 17.6 years ago (2008-11-23).
+      ageDays: 6455
+      ageYears: 17.7
+    detail: Registered 17.7 years ago (2008-11-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fleuren.nu looks like a well-established store. The clearest positives are that its domain has been registered for 17.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fleuren.nu looks like a well-established store. The clearest positives are that its domain has been registered for 17.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fleuren in the score above.
 

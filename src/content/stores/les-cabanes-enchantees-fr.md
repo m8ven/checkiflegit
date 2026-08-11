@@ -4,9 +4,9 @@ slug: les-cabanes-enchantees-fr
 title: Is les-cabanes-enchantees.fr Legit? Trust Score 88/100
 description: >-
   les-cabanes-enchantees.fr scores 88/100 on our public trust checks.
-  Established domain — registered 7.8 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 7.9 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:41:54.293Z'
+fetchedAt: '2026-07-27T08:28:25.471Z'
 finalUrl: 'https://les-cabanes-enchantees.fr/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.8 years ago.
+    - Established domain — registered 7.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -49,32 +49,32 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-03'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-08-30'
-      ageDays: 2855
-      ageYears: 7.8
-    detail: Registered 7.8 years ago (2018-08-30).
+      ageDays: 2888
+      ageYears: 7.9
+    detail: Registered 7.9 years ago (2018-08-30).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-les-cabanes-enchantees.fr looks like a well-established store. The clearest positives are that its domain has been registered for 7.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+les-cabanes-enchantees.fr looks like a well-established store. The clearest positives are that its domain has been registered for 7.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Les-cabanes-enchantees in the score above.
 

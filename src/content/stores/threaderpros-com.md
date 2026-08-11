@@ -1,27 +1,28 @@
 ---
 domain: threaderpros.com
 slug: threaderpros-com
-title: Is threaderpros.com Legit? Trust Score 73/100
+title: Is threaderpros.com Legit? Trust Score 43/100
 description: >-
-  threaderpros.com scores 73/100 on our public trust checks. Established domain
-  — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:06:32.690Z'
+  threaderpros.com scores 43/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-10T06:16:14.505Z'
 finalUrl: 'https://threaderpros.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.2 years ago.
+    - Established domain — registered 3.3 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
   redFlags:
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
@@ -36,7 +37,7 @@ signals:
     status: pass
     value:
       platform: WooCommerce
-      isStore: true
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: true
@@ -55,25 +56,25 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 50
+      issuer: Google Trust Services
+      validTo: '2026-10-13'
+      daysToExpiry: 65
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-04-27'
-      ageDays: 1154
-      ageYears: 3.2
-    detail: Registered 3.2 years ago (2023-04-27).
+      ageDays: 1200
+      ageYears: 3.3
+    detail: Registered 3.3 years ago (2023-04-27).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-threaderpros.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for threaderpros.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 3.3 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Threaderpros in the score above.
 

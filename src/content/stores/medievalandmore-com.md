@@ -4,8 +4,8 @@ slug: medievalandmore-com
 title: Is medievalandmore.com Legit? Trust Score 100/100
 description: >-
   medievalandmore.com scores 100/100 on our public trust checks. Established
-  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:18.752Z'
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:13:19.127Z'
 finalUrl: 'https://www.medievalandmore.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 1.3 years ago.
+    - Established domain — registered 1.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 35
+      validTo: '2026-09-28'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-03-21'
-      ageDays: 460
-      ageYears: 1.3
-    detail: Registered 1.3 years ago (2025-03-21).
+      ageDays: 499
+      ageYears: 1.4
+    detail: Registered 1.4 years ago (2025-03-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-medievalandmore.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+medievalandmore.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Medievalandmore in the score above.
 

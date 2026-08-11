@@ -5,7 +5,7 @@ title: Is nothing.tech Legit? Trust Score 70/100
 description: >-
   nothing.tech scores 70/100 on our public trust checks. Established domain —
   registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:21.795Z'
+fetchedAt: '2026-07-27T08:05:46.008Z'
 finalUrl: 'https://nothing.tech/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-09-24'
-      ageDays: 2099
+      ageDays: 2131
       ageYears: 5.8
     detail: Registered 5.8 years ago (2020-09-24).
   contact:

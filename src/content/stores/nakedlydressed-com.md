@@ -4,8 +4,8 @@ slug: nakedlydressed-com
 title: Is nakedlydressed.com Legit? Trust Score 70/100
 description: >-
   nakedlydressed.com scores 70/100 on our public trust checks. Established
-  domain — registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:16:38.722Z'
+  domain — registered 11 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:39.343Z'
 finalUrl: 'https://www.nakedlydressed.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.9 years ago.
+    - Established domain — registered 11 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-09-30'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-07-27'
-      ageDays: 3985
-      ageYears: 10.9
-    detail: Registered 10.9 years ago (2015-07-27).
+      ageDays: 4017
+      ageYears: 11
+    detail: Registered 11 years ago (2015-07-27).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nakedlydressed.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nakedlydressed.com looks like a well-established store. The clearest positives are that its domain has been registered for 11 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nakedlydressed in the score above.
 

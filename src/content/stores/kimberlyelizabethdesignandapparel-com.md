@@ -4,8 +4,8 @@ slug: kimberlyelizabethdesignandapparel-com
 title: Is kimberlyelizabethdesignandapparel.com Legit? Score 73/100
 description: >-
   kimberlyelizabethdesignandapparel.com scores 73/100 on our public trust
-  checks. Established domain — registered 4.8 years ago.
-fetchedAt: '2026-06-25T02:42:09.923Z'
+  checks. Established domain — registered 4.9 years ago.
+fetchedAt: '2026-07-27T08:28:33.097Z'
 finalUrl: 'https://kimberlyelizabethdesignandapparel.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-13'
-      ageDays: 1745
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-09-13).
+      ageDays: 1777
+      ageYears: 4.9
+    detail: Registered 4.9 years ago (2021-09-13).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kimberlyelizabethdesignandapparel.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kimberlyelizabethdesignandapparel.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kimberlyelizabethdesignandapparel in the score above.
 

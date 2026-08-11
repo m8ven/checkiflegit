@@ -5,7 +5,7 @@ title: Is kuralforklift.com Legit? Trust Score 58/100
 description: >-
   kuralforklift.com scores 58/100 on our public trust checks. Standard contact
   and policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:16:52.246Z'
+fetchedAt: '2026-08-10T06:24:57.514Z'
 finalUrl: 'https://kuralforklift.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.4 years ago.
+    - Established domain — registered 4.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-09'
-      daysToExpiry: 76
+      validTo: '2026-11-06'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-02-07'
-      ageDays: 1599
-      ageYears: 4.4
-    detail: Registered 4.4 years ago (2022-02-07).
+      ageDays: 1644
+      ageYears: 4.5
+    detail: Registered 4.5 years ago (2022-02-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kuralforklift.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+kuralforklift.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kuralforklift in the score above.
 

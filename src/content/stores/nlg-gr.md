@@ -5,7 +5,7 @@ title: Is nlg.gr Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   nlg.gr scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-24T21:46:32.980Z'
+fetchedAt: '2026-07-27T08:06:46.611Z'
 finalUrl: 'https://www.nlg.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 40
+      validTo: '2026-10-10'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

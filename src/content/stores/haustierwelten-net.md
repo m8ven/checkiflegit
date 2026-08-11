@@ -5,7 +5,7 @@ title: Is haustierwelten.net Legit? Trust Score 58/100
 description: >-
   haustierwelten.net scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:29:50.472Z'
+fetchedAt: '2026-07-27T08:18:43.843Z'
 finalUrl: 'https://haustierwelten.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-03'
-      ageDays: 1755
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-09-03).
+      ageDays: 1787
+      ageYears: 4.9
+    detail: Registered 4.9 years ago (2021-09-03).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-haustierwelten.net sends a mixed set of signals. On the positive side, its domain has been registered for 4.8 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+haustierwelten.net sends a mixed set of signals. On the positive side, its domain has been registered for 4.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Haustierwelten in the score above.
 

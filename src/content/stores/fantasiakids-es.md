@@ -1,29 +1,27 @@
 ---
 domain: fantasiakids.es
 slug: fantasiakids-es
-title: Is fantasiakids.es Legit? Trust Score 36/100
+title: Is fantasiakids.es Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  fantasiakids.es scores 36/100 on our public trust checks. No public contact
-  details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:30:38.963Z'
+  fantasiakids.es scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:18:45.099Z'
 finalUrl: 'https://fantasiakids.es/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 36
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 57
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
-    - No links to major social platforms found.
   cautions: []
 signals:
   http:
@@ -33,31 +31,31 @@ signals:
       finalUrl: 'https://fantasiakids.es/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -72,16 +70,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: fail
+    status: pass
     value:
-      facebook: false
-      instagram: false
+      facebook: true
+      instagram: true
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -92,7 +90,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for fantasiakids.es. In particular, there are no clear public contact details and it has little or no social media footprint. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+fantasiakids.es sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fantasiakids in the score above.
 

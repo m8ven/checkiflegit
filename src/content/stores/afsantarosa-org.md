@@ -4,8 +4,8 @@ slug: afsantarosa-org
 title: Is afsantarosa.org Legit? Trust Score 100/100
 description: >-
   afsantarosa.org scores 100/100 on our public trust checks. Established domain
-  — registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:32.765Z'
+  — registered 25.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:09:30.560Z'
 finalUrl: 'https://afsantarosa.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.7 years ago.
+    - Established domain — registered 25.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-07'
-      daysToExpiry: 136
+      daysToExpiry: 104
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2000-10-10'
-      ageDays: 9388
-      ageYears: 25.7
-    detail: Registered 25.7 years ago (2000-10-10).
+      ageDays: 9420
+      ageYears: 25.8
+    detail: Registered 25.8 years ago (2000-10-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-afsantarosa.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+afsantarosa.org looks like a well-established store. The clearest positives are that its domain has been registered for 25.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Afsantarosa in the score above.
 

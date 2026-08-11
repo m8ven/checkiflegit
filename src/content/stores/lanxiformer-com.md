@@ -5,7 +5,7 @@ title: Is lanxiformer.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   lanxiformer.com scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T12:18:10.816Z'
+fetchedAt: '2026-08-10T06:26:03.240Z'
 finalUrl: 'https://lanxiformer.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.2 years ago.
+    - Established domain — registered 4.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-03'
-      daysToExpiry: 70
+      validTo: '2026-11-02'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-03-31'
-      ageDays: 1546
-      ageYears: 4.2
-    detail: Registered 4.2 years ago (2022-03-31).
+      ageDays: 1592
+      ageYears: 4.4
+    detail: Registered 4.4 years ago (2022-03-31).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lanxiformer.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+lanxiformer.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lanxiformer in the score above.
 

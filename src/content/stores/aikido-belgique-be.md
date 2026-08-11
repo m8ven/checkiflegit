@@ -1,11 +1,11 @@
 ---
 domain: aikido-belgique.be
 slug: aikido-belgique-be
-title: Is aikido-belgique.be Legit? Trust Score 82/100
+title: Is aikido-belgique.be Legit? Trust Score 73/100
 description: >-
-  aikido-belgique.be scores 82/100 on our public trust checks. Established
-  domain — registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:12:08.437Z'
+  aikido-belgique.be scores 73/100 on our public trust checks. Established
+  domain — registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:20:46.855Z'
 finalUrl: 'https://www.aikido-belgique.be/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.4 years ago.
+    - Established domain — registered 19.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
-  redFlags: []
+  redFlags:
+    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 53
+      validTo: '2026-10-28'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-02-20'
-      ageDays: 7065
-      ageYears: 19.4
-    detail: Registered 19.4 years ago (2007-02-20).
+      ageDays: 7111
+      ageYears: 19.5
+    detail: Registered 19.5 years ago (2007-02-20).
   contact:
     status: pass
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: 'Public contact details found: email, phone.'
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
       instagram: false
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): twitter.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aikido-belgique.be looks like a well-established store. The clearest positives are that its domain has been registered for 19.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aikido-belgique.be looks like a well-established store. The clearest positives are that its domain has been registered for 19.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aikido-belgique in the score above.
 

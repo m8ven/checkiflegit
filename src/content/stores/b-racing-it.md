@@ -1,11 +1,11 @@
 ---
 domain: b-racing.it
 slug: b-racing-it
-title: Is b-racing.it Legit? Trust Score 88/100 — Trust Checks Pass
+title: Is b-racing.it Legit? Trust Score 100/100
 description: >-
-  b-racing.it scores 88/100 on our public trust checks. Established domain —
+  b-racing.it scores 100/100 on our public trust checks. Established domain —
   registered 20.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:20:11.271Z'
+fetchedAt: '2026-07-27T08:11:03.344Z'
 finalUrl: 'https://b-racing.it/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Established domain — registered 20.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,27 +44,27 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
       terms: false
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-05-04'
-      ageDays: 7356
+      ageDays: 7389
       ageYears: 20.2
     detail: Registered 20.2 years ago (2006-05-04).
   contact:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-b-racing.it looks like a well-established store. The clearest positives are that its domain has been registered for 20.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+b-racing.it looks like a well-established store. The clearest positives are that its domain has been registered for 20.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against B-racing in the score above.
 

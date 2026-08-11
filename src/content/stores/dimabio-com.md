@@ -4,8 +4,8 @@ slug: dimabio-com
 title: Is dimabio.com Legit? Trust Score 100/100
 description: >-
   dimabio.com scores 100/100 on our public trust checks. Established domain —
-  registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:19.887Z'
+  registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:07.017Z'
 finalUrl: 'https://www.dimabio.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.6 years ago.
+    - Established domain — registered 6.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 28
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-12-05'
-      ageDays: 2393
-      ageYears: 6.6
-    detail: Registered 6.6 years ago (2019-12-05).
+      ageDays: 2432
+      ageYears: 6.7
+    detail: Registered 6.7 years ago (2019-12-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dimabio.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dimabio.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dimabio in the score above.
 

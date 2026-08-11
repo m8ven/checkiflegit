@@ -5,7 +5,7 @@ title: Is concejohospederia.com Legit? Trust Score 58/100
 description: >-
   concejohospederia.com scores 58/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:23:44.169Z'
+fetchedAt: '2026-07-27T08:13:23.232Z'
 finalUrl: 'https://concejohospederia.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17 years ago.
+    - Established domain — registered 17.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-06-18'
-      ageDays: 6215
-      ageYears: 17
-    detail: Registered 17 years ago (2009-06-18).
+      ageDays: 6247
+      ageYears: 17.1
+    detail: Registered 17.1 years ago (2009-06-18).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-concejohospederia.com sends a mixed set of signals. On the positive side, its domain has been registered for 17 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+concejohospederia.com sends a mixed set of signals. On the positive side, its domain has been registered for 17.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Concejohospederia in the score above.
 

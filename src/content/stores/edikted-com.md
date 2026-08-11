@@ -5,7 +5,7 @@ title: Is edikted.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   edikted.com scores 70/100 on our public trust checks. Established domain —
   registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:24.405Z'
+fetchedAt: '2026-07-27T08:06:33.447Z'
 finalUrl: 'https://edikted.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-08-17'
-      ageDays: 2137
+      ageDays: 2169
       ageYears: 5.9
     detail: Registered 5.9 years ago (2020-08-17).
   contact:

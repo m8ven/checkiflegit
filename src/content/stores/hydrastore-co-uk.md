@@ -4,8 +4,8 @@ slug: hydrastore-co-uk
 title: Is hydrastore.co.uk Legit? Trust Score 94/100
 description: >-
   hydrastore.co.uk scores 94/100 on our public trust checks. Established domain
-  — registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:46:22.736Z'
+  — registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:31:31.703Z'
 finalUrl: 'https://hydrastore.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.3 years ago.
+    - Established domain — registered 28.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-06'
-      daysToExpiry: 135
+      daysToExpiry: 96
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1998-03-03'
-      ageDays: 10340
-      ageYears: 28.3
-    detail: Registered 28.3 years ago (1998-03-03).
+      ageDays: 10380
+      ageYears: 28.4
+    detail: Registered 28.4 years ago (1998-03-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hydrastore.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hydrastore.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 28.4 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hydrastore in the score above.
 

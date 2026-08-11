@@ -4,8 +4,8 @@ slug: floralps-ens-com
 title: Is floralps-ens.com Legit? Trust Score 70/100
 description: >-
   floralps-ens.com scores 70/100 on our public trust checks. Established domain
-  — registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:31:06.490Z'
+  — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:36:30.350Z'
 finalUrl: 'https://www.floralps-ens.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.3 years ago.
+    - Established domain — registered 9.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-03-22'
-      ageDays: 3382
-      ageYears: 9.3
-    detail: Registered 9.3 years ago (2017-03-22).
+      ageDays: 3427
+      ageYears: 9.4
+    detail: Registered 9.4 years ago (2017-03-22).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-floralps-ens.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+floralps-ens.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Floralps-ens in the score above.
 

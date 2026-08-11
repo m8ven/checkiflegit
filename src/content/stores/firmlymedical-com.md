@@ -4,8 +4,8 @@ slug: firmlymedical-com
 title: Is firmlymedical.com Legit? Trust Score 73/100
 description: >-
   firmlymedical.com scores 73/100 on our public trust checks. Established domain
-  — registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:42.562Z'
+  — registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:57.524Z'
 finalUrl: 'https://firmlymedical.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.3 years ago.
+    - Established domain — registered 12.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: GoDaddy.com
       validTo: '2026-08-09'
-      daysToExpiry: 46
+      daysToExpiry: 14
       authorized: true
     detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2014-03-12'
-      ageDays: 4487
-      ageYears: 12.3
-    detail: Registered 12.3 years ago (2014-03-12).
+      ageDays: 4519
+      ageYears: 12.4
+    detail: Registered 12.4 years ago (2014-03-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-firmlymedical.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+firmlymedical.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Firmlymedical in the score above.
 

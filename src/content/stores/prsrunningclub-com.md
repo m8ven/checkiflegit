@@ -4,8 +4,8 @@ slug: prsrunningclub-com
 title: Is prsrunningclub.com Legit? Trust Score 88/100
 description: >-
   prsrunningclub.com scores 88/100 on our public trust checks. Established
-  domain — registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:41:50.473Z'
+  domain — registered 14 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:28:22.356Z'
 finalUrl: 'https://prsrunningclub.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.9 years ago.
+    - Established domain — registered 14 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2027-01-18'
-      daysToExpiry: 208
+      daysToExpiry: 176
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2012-08-09'
-      ageDays: 5067
-      ageYears: 13.9
-    detail: Registered 13.9 years ago (2012-08-09).
+      ageDays: 5099
+      ageYears: 14
+    detail: Registered 14 years ago (2012-08-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-prsrunningclub.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+prsrunningclub.com looks like a well-established store. The clearest positives are that its domain has been registered for 14 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Prsrunningclub in the score above.
 

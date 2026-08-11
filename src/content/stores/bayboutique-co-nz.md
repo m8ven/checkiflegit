@@ -4,8 +4,8 @@ slug: bayboutique-co-nz
 title: Is bayboutique.co.nz Legit? Trust Score 85/100
 description: >-
   bayboutique.co.nz scores 85/100 on our public trust checks. Established domain
-  — registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:55:58.076Z'
+  — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:03:53.947Z'
 finalUrl: 'https://bayboutique.co.nz/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.5 years ago.
+    - Established domain — registered 6.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-03-01'
-      daysToExpiry: 250
+      daysToExpiry: 211
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2020-01-03'
-      ageDays: 2364
-      ageYears: 6.5
-    detail: Registered 6.5 years ago (2020-01-03).
+      ageDays: 2403
+      ageYears: 6.6
+    detail: Registered 6.6 years ago (2020-01-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bayboutique.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 6.5 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bayboutique.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bayboutique in the score above.
 

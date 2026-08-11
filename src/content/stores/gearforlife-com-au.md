@@ -5,7 +5,7 @@ title: Is gearforlife.com.au Legit? Trust Score 61/100
 description: >-
   gearforlife.com.au scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T12:19:36.252Z'
+fetchedAt: '2026-08-10T06:27:05.311Z'
 finalUrl: 'https://www.gearforlife.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-14'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

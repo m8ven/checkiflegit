@@ -5,7 +5,7 @@ title: Is pood.raamaturinglus.ee Legit? Trust Score 91/100
 description: >-
   pood.raamaturinglus.ee scores 91/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:04.248Z'
+fetchedAt: '2026-07-27T08:34:16.072Z'
 finalUrl: 'https://pood.raamaturinglus.ee/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-25'
-      daysToExpiry: 61
+      daysToExpiry: 29
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

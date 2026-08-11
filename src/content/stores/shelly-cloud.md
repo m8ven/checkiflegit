@@ -4,8 +4,8 @@ slug: shelly-cloud
 title: Is shelly.cloud Legit? Trust Score 88/100
 description: >-
   shelly.cloud scores 88/100 on our public trust checks. Established domain —
-  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:37.755Z'
+  registered 10 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:17.312Z'
 finalUrl: 'https://www.shelly.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 9.9 years ago.
+    - Established domain — registered 10 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-06'
-      daysToExpiry: 197
+      daysToExpiry: 164
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2016-07-22'
-      ageDays: 3624
-      ageYears: 9.9
-    detail: Registered 9.9 years ago (2016-07-22).
+      ageDays: 3656
+      ageYears: 10
+    detail: Registered 10 years ago (2016-07-22).
   contact:
     status: warn
     value:
@@ -83,10 +83,10 @@ signals:
       tiktok: true
       youtube: true
       linkedin: true
-      pinterest: false
+      pinterest: true
     detail: >-
-      Links to 6 social platform(s): facebook, instagram, twitter, tiktok,
-      youtube, linkedin.
+      Links to 7 social platform(s): facebook, instagram, twitter, tiktok,
+      youtube, linkedin, pinterest.
   reviews:
     status: unknown
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-shelly.cloud looks like a well-established store. The clearest positives are that its domain has been registered for 9.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+shelly.cloud looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Shelly in the score above.
 

@@ -5,7 +5,7 @@ title: Is rezbook.co Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   rezbook.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:42:50.697Z'
+fetchedAt: '2026-07-27T08:29:09.653Z'
 finalUrl: 'https://rezbook.co/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-08-17'
-      daysToExpiry: 54
+      daysToExpiry: 22
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:

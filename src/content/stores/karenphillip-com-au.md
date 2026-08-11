@@ -5,7 +5,7 @@ title: Is karenphillip.com.au Legit? Trust Score 83/100
 description: >-
   karenphillip.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:48:04.215Z'
+fetchedAt: '2026-08-03T08:33:02.615Z'
 finalUrl: 'https://karenphillip.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

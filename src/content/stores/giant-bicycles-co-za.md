@@ -5,7 +5,7 @@ title: Is giant-bicycles.co.za Legit? Trust Score 100/100
 description: >-
   giant-bicycles.co.za scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:22.334Z'
+fetchedAt: '2026-07-27T08:23:08.365Z'
 finalUrl: 'https://giant-bicycles.co.za/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-25'
-      daysToExpiry: 62
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

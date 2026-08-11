@@ -4,8 +4,8 @@ slug: built-in1-com
 title: Is built-in1.com Legit? Trust Score 88/100
 description: >-
   built-in1.com scores 88/100 on our public trust checks. Established domain —
-  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:21:18.600Z'
+  registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:01.345Z'
 finalUrl: 'https://built-in1.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.2 years ago.
+    - Established domain — registered 2.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -48,25 +48,25 @@ signals:
     value:
       contact: false
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-13'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-04-15'
-      ageDays: 800
-      ageYears: 2.2
-    detail: Registered 2.2 years ago (2024-04-15).
+      ageDays: 846
+      ageYears: 2.3
+    detail: Registered 2.3 years ago (2024-04-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-built-in1.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+built-in1.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Built-in1 in the score above.
 

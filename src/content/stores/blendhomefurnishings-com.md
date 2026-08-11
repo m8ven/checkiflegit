@@ -5,7 +5,7 @@ title: Is blendhomefurnishings.com Legit? Trust Score 88/100
 description: >-
   blendhomefurnishings.com scores 88/100 on our public trust checks. Established
   domain — registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:54.632Z'
+fetchedAt: '2026-07-27T08:16:03.864Z'
 finalUrl: 'https://blendhomefurnishings.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-09-30'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-05-03'
-      ageDays: 4435
+      ageDays: 4467
       ageYears: 12.2
     detail: Registered 12.2 years ago (2014-05-03).
   contact:

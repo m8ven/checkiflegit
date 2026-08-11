@@ -4,9 +4,9 @@ slug: artesupremadeltrigono-com
 title: Is artesupremadeltrigono.com Legit? Trust Score 100/100
 description: >-
   artesupremadeltrigono.com scores 100/100 on our public trust checks.
-  Established domain — registered 15.8 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 15.9 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:34:24.928Z'
+fetchedAt: '2026-08-03T08:21:25.287Z'
 finalUrl: 'https://artesupremadeltrigono.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 15.8 years ago.
+    - Established domain — registered 15.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,23 +58,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-09-13'
-      ageDays: 5763
-      ageYears: 15.8
-    detail: Registered 15.8 years ago (2010-09-13).
+      ageDays: 5802
+      ageYears: 15.9
+    detail: Registered 15.9 years ago (2010-09-13).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-artesupremadeltrigono.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+artesupremadeltrigono.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Artesupremadeltrigono in the score above.
 

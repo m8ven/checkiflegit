@@ -4,8 +4,8 @@ slug: padangos-ratlankiai-lt
 title: Is padangos-ratlankiai.lt Legit? Trust Score 73/100
 description: >-
   padangos-ratlankiai.lt scores 73/100 on our public trust checks. Established
-  domain — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:25:25.280Z'
+  domain — registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:26.035Z'
 finalUrl: 'https://www.padangos-ratlankiai.lt/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.6 years ago.
+    - Established domain — registered 1.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-04'
-      daysToExpiry: 72
+      validTo: '2026-11-03'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-11-17'
-      ageDays: 585
-      ageYears: 1.6
-    detail: Registered 1.6 years ago (2024-11-17).
+      ageDays: 631
+      ageYears: 1.7
+    detail: Registered 1.7 years ago (2024-11-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-padangos-ratlankiai.lt looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+padangos-ratlankiai.lt looks like a well-established store. The clearest positives are that its domain has been registered for 1.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Padangos-ratlankiai in the score above.
 

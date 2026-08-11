@@ -5,7 +5,7 @@ title: Is holdfastaust.com.au Legit? Trust Score 100/100
 description: >-
   holdfastaust.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:30:05.885Z'
+fetchedAt: '2026-07-27T08:18:56.433Z'
 finalUrl: 'https://holdfastaust.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

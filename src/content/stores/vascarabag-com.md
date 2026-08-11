@@ -4,8 +4,8 @@ slug: vascarabag-com
 title: Is vascarabag.com Legit? Trust Score 100/100
 description: >-
   vascarabag.com scores 100/100 on our public trust checks. Established domain —
-  registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:17:59.913Z'
+  registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:25:57.697Z'
 finalUrl: 'https://vascarabag.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.6 years ago.
+    - Established domain — registered 6.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-11-23'
-      ageDays: 2405
-      ageYears: 6.6
-    detail: Registered 6.6 years ago (2019-11-23).
+      ageDays: 2451
+      ageYears: 6.7
+    detail: Registered 6.7 years ago (2019-11-23).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-vascarabag.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+vascarabag.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vascarabag in the score above.
 

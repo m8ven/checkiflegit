@@ -1,47 +1,47 @@
 ---
 domain: anvietco.vn
 slug: anvietco-vn
-title: Is anvietco.vn Legit? Trust Score 49/100 — Mixed Signals
+title: Is anvietco.vn Legit? Trust Score 0/100
 description: >-
-  anvietco.vn scores 49/100 on our public trust checks. Standard contact and
-  policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T03:33:31.587Z'
-finalUrl: 'https://anvietco.vn/'
+  anvietco.vn scores 0/100 on our public trust checks. No valid SSL certificate
+  — connection may not be secure.
+fetchedAt: '2026-08-03T08:20:48.219Z'
+finalUrl: 'http://anvietco.vn/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 49
-  greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 0
+  greenFlags: []
   redFlags:
+    - No valid SSL certificate — connection may not be secure.
     - Standard contact and policy pages were not found.
-  cautions:
-    - Limited social media presence.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://anvietco.vn/'
+      finalUrl: 'http://anvietco.vn/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
+        hasAddToCart: false
+        hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: fail
     value:
@@ -52,35 +52,35 @@ signals:
       shipping: false
     detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: pass
+    status: fail
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 30
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+      issuer: null
+      validTo: '2022-08-05'
+      daysToExpiry: -1458
+      authorized: false
+    detail: Certificate has expired.
   domainAge:
     status: unknown
     value: null
     detail: 'WHOIS lookup failed: TLD for "anvietco.vn" not supported'
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-anvietco.vn sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for anvietco.vn. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Anvietco in the score above.
 

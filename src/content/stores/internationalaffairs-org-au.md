@@ -5,7 +5,7 @@ title: Is internationalaffairs.org.au Legit? Trust Score 83/100
 description: >-
   internationalaffairs.org.au scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:21:09.760Z'
+fetchedAt: '2026-08-03T08:10:58.578Z'
 finalUrl: 'https://www.internationalaffairs.org.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is campingtajorodillo.es Legit? Trust Score 61/100
 description: >-
   campingtajorodillo.es scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T03:37:38.641Z'
+fetchedAt: '2026-08-03T08:23:58.498Z'
 finalUrl: 'https://campingtajorodillo.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-23'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

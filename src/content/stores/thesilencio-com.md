@@ -1,11 +1,11 @@
 ---
 domain: thesilencio.com
 slug: thesilencio-com
-title: Is thesilencio.com Legit? Trust Score 88/100
+title: Is thesilencio.com Legit? Trust Score 100/100
 description: >-
-  thesilencio.com scores 88/100 on our public trust checks. Established domain —
-  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:15:23.415Z'
+  thesilencio.com scores 100/100 on our public trust checks. Established domain
+  — registered 8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:23:39.324Z'
 finalUrl: 'https://thesilencio.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.9 years ago.
+    - Established domain — registered 8 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-20'
-      daysToExpiry: 25
+      validTo: '2026-10-01'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-07-26'
-      ageDays: 2891
-      ageYears: 7.9
-    detail: Registered 7.9 years ago (2018-07-26).
+      ageDays: 2936
+      ageYears: 8
+    detail: Registered 8 years ago (2018-07-26).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thesilencio.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thesilencio.com looks like a well-established store. The clearest positives are that its domain has been registered for 8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thesilencio in the score above.
 

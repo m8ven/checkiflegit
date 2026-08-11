@@ -5,7 +5,7 @@ title: Is powder.nexira.com Legit? Trust Score 57/100
 description: >-
   powder.nexira.com scores 57/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:48:17.841Z'
+fetchedAt: '2026-07-27T08:34:27.625Z'
 finalUrl: 'https://powder.nexira.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-20'
-      daysToExpiry: 149
+      daysToExpiry: 117
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

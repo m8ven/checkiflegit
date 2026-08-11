@@ -3,9 +3,9 @@ domain: minhtuongtech.com
 slug: minhtuongtech-com
 title: Is minhtuongtech.com Legit? Trust Score 55/100
 description: >-
-  minhtuongtech.com scores 55/100 on our public trust checks. Standard contact
-  and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:29:49.967Z'
+  minhtuongtech.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:17:50.236Z'
 finalUrl: 'https://minhtuongtech.com/'
 reachable: true
 noindex: false
@@ -17,12 +17,11 @@ verdict:
     present, but a few are missing — review the breakdown below before buying.
   score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.3 years ago.
+    - Established domain — registered 3.4 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
-    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
   cautions: []
 signals:
@@ -33,47 +32,47 @@ signals:
       finalUrl: 'https://minhtuongtech.com/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: fail
-    value:
-      contact: false
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      contact: true
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-21'
-      daysToExpiry: 89
+      validTo: '2026-10-01'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-03-04'
-      ageDays: 1208
-      ageYears: 3.3
-    detail: Registered 3.3 years ago (2023-03-04).
+      ageDays: 1247
+      ageYears: 3.4
+    detail: Registered 3.4 years ago (2023-03-04).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-minhtuongtech.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.3 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+minhtuongtech.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.4 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Minhtuongtech in the score above.
 

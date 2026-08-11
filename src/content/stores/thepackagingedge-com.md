@@ -1,11 +1,11 @@
 ---
 domain: thepackagingedge.com
 slug: thepackagingedge-com
-title: Is thepackagingedge.com Legit? Trust Score 73/100
+title: Is thepackagingedge.com Legit? Trust Score 82/100
 description: >-
-  thepackagingedge.com scores 73/100 on our public trust checks. Established
-  domain — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:49.810Z'
+  thepackagingedge.com scores 82/100 on our public trust checks. Established
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:09.226Z'
 finalUrl: 'https://thepackagingedge.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.3 years ago.
+    - Established domain — registered 1.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-  redFlags:
-    - No links to major social platforms found.
+  redFlags: []
   cautions:
     - Only limited contact details were found.
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -40,8 +40,8 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
+        hasCatalog: false
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-03-07'
-      ageDays: 474
-      ageYears: 1.3
-    detail: Registered 1.3 years ago (2025-03-07).
+      ageDays: 506
+      ageYears: 1.4
+    detail: Registered 1.4 years ago (2025-03-07).
   contact:
     status: warn
     value:
@@ -75,7 +75,7 @@ signals:
       address: false
     detail: 'Public contact details found: email.'
   social:
-    status: fail
+    status: warn
     value:
       facebook: false
       instagram: false
@@ -83,8 +83,8 @@ signals:
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: false
-    detail: No links to major social platforms found.
+      pinterest: true
+    detail: 'Links to 1 social platform(s): pinterest.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thepackagingedge.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thepackagingedge.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thepackagingedge in the score above.
 

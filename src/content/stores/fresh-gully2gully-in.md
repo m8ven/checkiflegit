@@ -5,7 +5,7 @@ title: Is fresh.gully2gully.in Legit? Trust Score 91/100
 description: >-
   fresh.gully2gully.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:43:55.532Z'
+fetchedAt: '2026-08-10T06:03:04.180Z'
 finalUrl: 'https://fresh.gully2gully.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

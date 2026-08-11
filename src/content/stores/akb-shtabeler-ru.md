@@ -4,8 +4,8 @@ slug: akb-shtabeler-ru
 title: Is akb-shtabeler.ru Legit? Trust Score 73/100
 description: >-
   akb-shtabeler.ru scores 73/100 on our public trust checks. Established domain
-  — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:23:39.618Z'
+  — registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:22.601Z'
 finalUrl: 'https://akb-shtabeler.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-11-02'
-      ageDays: 3521
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-11-02).
+      ageDays: 3553
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-akb-shtabeler.ru looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+akb-shtabeler.ru looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Akb-shtabeler in the score above.
 

@@ -5,7 +5,7 @@ title: Is lavica.sk Legit? Trust Score 19/100
 description: >-
   lavica.sk scores 19/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:26:11.137Z'
+fetchedAt: '2026-08-10T06:32:26.532Z'
 finalUrl: 'https://www.lavica.sk/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-24'
-      daysToExpiry: 61
+      daysToExpiry: 15
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: faspack-ru
 title: Is faspack.ru Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   faspack.ru scores 82/100 on our public trust checks. Established domain —
-  registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:26.444Z'
+  registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:27:37.576Z'
 finalUrl: 'https://faspack.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.6 years ago.
+    - Established domain — registered 14.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 83
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-12-06'
-      ageDays: 5314
-      ageYears: 14.6
-    detail: Registered 14.6 years ago (2011-12-06).
+      ageDays: 5353
+      ageYears: 14.7
+    detail: Registered 14.7 years ago (2011-12-06).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-faspack.ru looks like a well-established store. The clearest positives are that its domain has been registered for 14.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+faspack.ru looks like a well-established store. The clearest positives are that its domain has been registered for 14.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Faspack in the score above.
 

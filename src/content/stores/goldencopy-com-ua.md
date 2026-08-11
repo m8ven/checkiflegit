@@ -4,8 +4,8 @@ slug: goldencopy-com-ua
 title: Is goldencopy.com.ua Legit? Trust Score 73/100
 description: >-
   goldencopy.com.ua scores 73/100 on our public trust checks. Established domain
-  — registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:34:53.901Z'
+  — registered 7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:21:48.844Z'
 finalUrl: 'https://goldencopy.com.ua/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.9 years ago.
+    - Established domain — registered 7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -50,23 +50,23 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-31'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-08-07'
-      ageDays: 2513
-      ageYears: 6.9
-    detail: Registered 6.9 years ago (2019-08-07).
+      ageDays: 2553
+      ageYears: 7
+    detail: Registered 7 years ago (2019-08-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-goldencopy.com.ua looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+goldencopy.com.ua looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Goldencopy in the score above.
 

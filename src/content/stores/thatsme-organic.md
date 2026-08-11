@@ -5,7 +5,7 @@ title: Is thatsme.organic Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   thatsme.organic scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:05:12.148Z'
+fetchedAt: '2026-08-10T06:15:16.402Z'
 finalUrl: 'https://thatsme.organic/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

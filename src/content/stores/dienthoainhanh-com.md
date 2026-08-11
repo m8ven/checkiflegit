@@ -1,11 +1,11 @@
 ---
 domain: dienthoainhanh.com
 slug: dienthoainhanh-com
-title: Is dienthoainhanh.com Legit? Trust Score 70/100
+title: Is dienthoainhanh.com Legit? Trust Score 100/100
 description: >-
-  dienthoainhanh.com scores 70/100 on our public trust checks. Established
-  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:51.953Z'
+  dienthoainhanh.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:14:23.473Z'
 finalUrl: 'https://dienthoainhanh.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions: []
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
+      contact: true
+      privacy: true
       terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      issuer: Let's Encrypt
+      validTo: '2026-10-01'
+      daysToExpiry: 66
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-02-03'
-      ageDays: 506
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-02-03).
+      ageDays: 539
+      ageYears: 1.5
+    detail: Registered 1.5 years ago (2025-02-03).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dienthoainhanh.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dienthoainhanh.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dienthoainhanh in the score above.
 

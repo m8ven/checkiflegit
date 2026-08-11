@@ -5,7 +5,7 @@ title: Is livecricket.live Legit? Trust Score 83/100
 description: >-
   livecricket.live scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:47:18.905Z'
+fetchedAt: '2026-07-27T08:33:47.962Z'
 finalUrl: 'https://livecricket.live/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-27'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

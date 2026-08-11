@@ -5,7 +5,7 @@ title: Is theonewatches.shop Legit? Trust Score 91/100
 description: >-
   theonewatches.shop scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:10:02.858Z'
+fetchedAt: '2026-08-10T06:19:18.922Z'
 finalUrl: 'https://theonewatches.shop/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-13'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

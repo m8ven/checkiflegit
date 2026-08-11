@@ -4,8 +4,8 @@ slug: art-for-future-com
 title: Is art-for-future.com Legit? Trust Score 88/100
 description: >-
   art-for-future.com scores 88/100 on our public trust checks. Established
-  domain — registered 25.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:13.059Z'
+  domain — registered 25.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:32:36.896Z'
 finalUrl: 'https://art-for-future.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.6 years ago.
+    - Established domain — registered 25.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-12-06'
-      ageDays: 9331
-      ageYears: 25.6
-    detail: Registered 25.6 years ago (2000-12-06).
+      ageDays: 9363
+      ageYears: 25.7
+    detail: Registered 25.7 years ago (2000-12-06).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-art-for-future.com looks like a well-established store. The clearest positives are that its domain has been registered for 25.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+art-for-future.com looks like a well-established store. The clearest positives are that its domain has been registered for 25.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Art-for-future in the score above.
 

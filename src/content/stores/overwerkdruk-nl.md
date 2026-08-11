@@ -5,7 +5,7 @@ title: Is overwerkdruk.nl Legit? Trust Score 37/100
 description: >-
   overwerkdruk.nl scores 37/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:19:42.917Z'
+fetchedAt: '2026-08-03T08:09:38.842Z'
 finalUrl: 'https://www.overwerkdruk.nl/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: 'TrustAsia Technologies, Inc.'
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-24'
+      daysToExpiry: 83
       authorized: true
     detail: 'Valid certificate issued by TrustAsia Technologies, Inc..'
   domainAge:
     status: warn
     value:
       createdAt: '2025-12-22'
-      ageDays: 185
-      ageYears: 0.5
-    detail: Registered 0.5 years ago (2025-12-22).
+      ageDays: 224
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2025-12-22).
   contact:
     status: fail
     value:

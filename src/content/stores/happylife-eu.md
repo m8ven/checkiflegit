@@ -5,7 +5,7 @@ title: Is happylife.eu Legit? Trust Score 83/100
 description: >-
   happylife.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:36:38.393Z'
+fetchedAt: '2026-07-27T08:24:14.654Z'
 finalUrl: 'https://happylife.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is bryte.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   bryte.com scores 88/100 on our public trust checks. Established domain —
   registered 30.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:28.880Z'
+fetchedAt: '2026-07-27T08:06:39.947Z'
 finalUrl: 'https://www.bryte.com/'
 reachable: true
 noindex: false
@@ -49,22 +49,22 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-03'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1995-08-24'
-      ageDays: 11262
+      ageDays: 11295
       ageYears: 30.9
     detail: Registered 30.9 years ago (1995-08-24).
   contact:

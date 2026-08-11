@@ -5,7 +5,7 @@ title: Is merrispeacock.com Legit? Trust Score 82/100
 description: >-
   merrispeacock.com scores 82/100 on our public trust checks. Established domain
   — registered 13 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:09.769Z'
+fetchedAt: '2026-07-27T08:30:35.032Z'
 finalUrl: 'https://merrispeacock.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-07-13'
-      ageDays: 4729
+      ageDays: 4761
       ageYears: 13
     detail: Registered 13 years ago (2013-07-13).
   contact:

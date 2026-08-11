@@ -5,7 +5,7 @@ title: Is hangar77.cl Legit? Trust Score 100/100
 description: >-
   hangar77.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:36:31.386Z'
+fetchedAt: '2026-08-10T05:59:41.027Z'
 finalUrl: 'https://hangar77.cl/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

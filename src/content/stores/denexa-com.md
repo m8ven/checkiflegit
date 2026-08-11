@@ -5,7 +5,7 @@ title: Is denexa.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   denexa.com scores 58/100 on our public trust checks. No public contact details
   detected on the homepage.
-fetchedAt: '2026-06-25T12:28:46.381Z'
+fetchedAt: '2026-08-10T06:34:47.396Z'
 finalUrl: 'https://www.denexa.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.3 years ago.
+    - Established domain — registered 20.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-18'
-      daysToExpiry: 24
+      validTo: '2026-09-17'
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-03-29'
-      ageDays: 7392
-      ageYears: 20.3
-    detail: Registered 20.3 years ago (2006-03-29).
+      ageDays: 7438
+      ageYears: 20.4
+    detail: Registered 20.4 years ago (2006-03-29).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-denexa.com sends a mixed set of signals. On the positive side, its domain has been registered for 20.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+denexa.com sends a mixed set of signals. On the positive side, its domain has been registered for 20.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Denexa in the score above.
 

@@ -5,7 +5,7 @@ title: Is mamas-b2b.com Legit? Trust Score 76/100
 description: >-
   mamas-b2b.com scores 76/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:49:41.037Z'
+fetchedAt: '2026-07-27T08:35:46.357Z'
 finalUrl: 'https://mamas-b2b.com/'
 reachable: true
 noindex: false
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-29'
-      ageDays: 207
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-29).
+      ageDays: 239
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-29).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

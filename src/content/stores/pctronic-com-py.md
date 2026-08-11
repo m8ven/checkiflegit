@@ -5,7 +5,7 @@ title: Is pctronic.com.py Legit? Trust Score 83/100
 description: >-
   pctronic.com.py scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:40:29.739Z'
+fetchedAt: '2026-07-27T08:27:15.657Z'
 finalUrl: 'https://pctronic.com.py/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      issuer: Let's Encrypt
+      validTo: '2026-09-24'
+      daysToExpiry: 59
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null

@@ -5,7 +5,7 @@ title: Is elitejumps.co Legit? Trust Score 100/100
 description: >-
   elitejumps.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:26:56.579Z'
+fetchedAt: '2026-07-27T08:16:05.445Z'
 finalUrl: 'https://elitejumps.co/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

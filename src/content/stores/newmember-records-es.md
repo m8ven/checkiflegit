@@ -5,7 +5,7 @@ title: Is newmember-records.es Legit? Trust Score 83/100
 description: >-
   newmember-records.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:57:55.881Z'
+fetchedAt: '2026-08-10T06:07:17.505Z'
 finalUrl: 'https://newmember-records.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 20
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

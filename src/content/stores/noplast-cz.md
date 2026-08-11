@@ -5,7 +5,7 @@ title: Is noplast.cz Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   noplast.cz scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:55:29.804Z'
+fetchedAt: '2026-08-10T06:05:34.407Z'
 finalUrl: 'https://noplast.cz/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-08'
-      daysToExpiry: 75
+      validTo: '2026-11-06'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

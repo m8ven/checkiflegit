@@ -5,7 +5,7 @@ title: Is anugrahcomputer.sch.id Legit? Trust Score 73/100
 description: >-
   anugrahcomputer.sch.id scores 73/100 on our public trust checks. Established
   domain — registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:44.505Z'
+fetchedAt: '2026-07-27T08:33:13.209Z'
 finalUrl: 'https://anugrahcomputer.sch.id/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-08-17'
-      ageDays: 2868
+      ageDays: 2900
       ageYears: 7.9
     detail: Registered 7.9 years ago (2018-08-17).
   contact:

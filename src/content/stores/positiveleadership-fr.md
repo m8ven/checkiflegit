@@ -4,8 +4,8 @@ slug: positiveleadership-fr
 title: Is positiveleadership.fr Legit? Trust Score 76/100
 description: >-
   positiveleadership.fr scores 76/100 on our public trust checks. Established
-  domain — registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:14.473Z'
+  domain — registered 12.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:24.232Z'
 finalUrl: 'https://positiveleadership.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.6 years ago.
+    - Established domain — registered 12.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-11-07'
-      ageDays: 4612
-      ageYears: 12.6
-    detail: Registered 12.6 years ago (2013-11-07).
+      ageDays: 4644
+      ageYears: 12.7
+    detail: Registered 12.7 years ago (2013-11-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-positiveleadership.fr looks like a well-established store. The clearest positives are that its domain has been registered for 12.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+positiveleadership.fr looks like a well-established store. The clearest positives are that its domain has been registered for 12.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Positiveleadership in the score above.
 

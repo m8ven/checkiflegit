@@ -5,7 +5,7 @@ title: Is blissme.ch Legit? Trust Score 44/100
 description: >-
   blissme.ch scores 44/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:14:04.767Z'
+fetchedAt: '2026-08-10T06:22:33.303Z'
 finalUrl: 'https://www.blissme.ch/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 70
+      validTo: '2026-11-02'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

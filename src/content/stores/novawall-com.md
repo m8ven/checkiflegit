@@ -5,7 +5,7 @@ title: Is novawall.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   novawall.com scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:39:04.849Z'
+fetchedAt: '2026-07-27T08:26:06.546Z'
 finalUrl: 'https://novawall.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.9 years ago.
+    - Established domain — registered 30 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-07-31'
-      ageDays: 10920
-      ageYears: 29.9
-    detail: Registered 29.9 years ago (1996-07-31).
+      ageDays: 10953
+      ageYears: 30
+    detail: Registered 30 years ago (1996-07-31).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-novawall.com sends a mixed set of signals. On the positive side, its domain has been registered for 29.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+novawall.com sends a mixed set of signals. On the positive side, its domain has been registered for 30 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Novawall in the score above.
 

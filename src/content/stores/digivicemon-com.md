@@ -1,11 +1,11 @@
 ---
 domain: digivicemon.com
 slug: digivicemon-com
-title: Is digivicemon.com Legit? Trust Score 64/100 — Mixed Signals
+title: Is digivicemon.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  digivicemon.com scores 64/100 on our public trust checks. No public contact
-  details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T03:40:44.324Z'
+  digivicemon.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:26:13.940Z'
 finalUrl: 'https://digivicemon.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,15 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 64
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.6 years ago.
+    - Established domain — registered 8.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No public contact details detected on the homepage.
-  cautions:
-    - Limited social media presence.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://digivicemon.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -56,17 +55,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-07'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-11-08'
-      ageDays: 3150
-      ageYears: 8.6
-    detail: Registered 8.6 years ago (2017-11-08).
+      ageDays: 3190
+      ageYears: 8.7
+    detail: Registered 8.7 years ago (2017-11-08).
   contact:
     status: fail
     value:
@@ -75,7 +74,7 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
       instagram: false
@@ -83,8 +82,8 @@ signals:
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: true
-    detail: 'Links to 1 social platform(s): pinterest.'
+      pinterest: false
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-digivicemon.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.6 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+digivicemon.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.7 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Digivicemon in the score above.
 

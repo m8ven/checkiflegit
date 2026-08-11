@@ -5,7 +5,7 @@ title: Is upload-magazin.de Legit? Trust Score 83/100
 description: >-
   upload-magazin.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:08:16.329Z'
+fetchedAt: '2026-08-10T06:17:47.877Z'
 finalUrl: 'https://upload-magazin.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2026-11-28'
-      daysToExpiry: 157
+      daysToExpiry: 111
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:

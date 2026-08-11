@@ -5,7 +5,7 @@ title: Is mediitrustpharmacy.com Legit? Trust Score 55/100
 description: >-
   mediitrustpharmacy.com scores 55/100 on our public trust checks. No links to
   major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T03:52:12.354Z'
+fetchedAt: '2026-08-10T06:04:11.807Z'
 finalUrl: 'https://mediitrustpharmacy.com/'
 reachable: true
 noindex: false
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      issuer: Google Trust Services
+      validTo: '2026-10-01'
+      daysToExpiry: 52
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: warn
     value:
       createdAt: '2026-03-05'
-      ageDays: 111
-      ageYears: 0.3
-    detail: Registered 0.3 years ago (2026-03-05).
+      ageDays: 157
+      ageYears: 0.4
+    detail: Registered 0.4 years ago (2026-03-05).
   contact:
     status: pass
     value:

@@ -4,8 +4,8 @@ slug: granatindustries-com
 title: Is granatindustries.com Legit? Trust Score 100/100
 description: >-
   granatindustries.com scores 100/100 on our public trust checks. Established
-  domain — registered 25 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:23:30.956Z'
+  domain — registered 25.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:16.167Z'
 finalUrl: 'https://www.granatindustries.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25 years ago.
+    - Established domain — registered 25.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-10-05'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-06-25'
-      ageDays: 9130
-      ageYears: 25
-    detail: Registered 25 years ago (2001-06-25).
+      ageDays: 9176
+      ageYears: 25.1
+    detail: Registered 25.1 years ago (2001-06-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-granatindustries.com looks like a well-established store. The clearest positives are that its domain has been registered for 25 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+granatindustries.com looks like a well-established store. The clearest positives are that its domain has been registered for 25.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Granatindustries in the score above.
 

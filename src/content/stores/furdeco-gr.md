@@ -5,7 +5,7 @@ title: Is furdeco.gr Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   furdeco.gr scores 61/100 on our public trust checks. No links to major social
   platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:43:58.984Z'
+fetchedAt: '2026-08-03T08:29:28.480Z'
 finalUrl: 'https://furdeco.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-09-30'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

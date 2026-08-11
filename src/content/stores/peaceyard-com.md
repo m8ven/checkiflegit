@@ -4,8 +4,8 @@ slug: peaceyard-com
 title: Is peaceyard.com Legit? Trust Score 100/100
 description: >-
   peaceyard.com scores 100/100 on our public trust checks. Established domain —
-  registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:18.871Z'
+  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:33:46.121Z'
 finalUrl: 'https://peaceyard.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.7 years ago.
+    - Established domain — registered 6.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-20'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2019-10-13'
-      ageDays: 2446
-      ageYears: 6.7
-    detail: Registered 6.7 years ago (2019-10-13).
+      ageDays: 2478
+      ageYears: 6.8
+    detail: Registered 6.8 years ago (2019-10-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-peaceyard.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+peaceyard.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Peaceyard in the score above.
 

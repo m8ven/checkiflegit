@@ -4,8 +4,8 @@ slug: deltaparchi-it
 title: Is deltaparchi.it Legit? Trust Score 73/100
 description: >-
   deltaparchi.it scores 73/100 on our public trust checks. Established domain —
-  registered 23 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:19:52.400Z'
+  registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:27:18.358Z'
 finalUrl: 'https://www.deltaparchi.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23 years ago.
+    - Established domain — registered 23.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2027-02-21'
-      daysToExpiry: 241
+      daysToExpiry: 195
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2003-07-15'
-      ageDays: 8381
-      ageYears: 23
-    detail: Registered 23 years ago (2003-07-15).
+      ageDays: 8427
+      ageYears: 23.1
+    detail: Registered 23.1 years ago (2003-07-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-deltaparchi.it looks like a well-established store. The clearest positives are that its domain has been registered for 23 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+deltaparchi.it looks like a well-established store. The clearest positives are that its domain has been registered for 23.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Deltaparchi in the score above.
 

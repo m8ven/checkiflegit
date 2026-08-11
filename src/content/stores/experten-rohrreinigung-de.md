@@ -5,7 +5,7 @@ title: Is experten-rohrreinigung.de Legit? Trust Score 83/100
 description: >-
   experten-rohrreinigung.de scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:27:10.191Z'
+fetchedAt: '2026-07-27T08:16:27.060Z'
 finalUrl: 'https://experten-rohrreinigung.de/'
 reachable: true
 noindex: false
@@ -35,7 +35,7 @@ signals:
     status: pass
     value:
       platform: WooCommerce
-      isStore: true
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-25'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

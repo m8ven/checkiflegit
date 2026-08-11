@@ -4,8 +4,8 @@ slug: nomada-biz
 title: Is nomada.biz Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   nomada.biz scores 100/100 on our public trust checks. Established domain —
-  registered 24 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:57.296Z'
+  registered 24.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:13:46.426Z'
 finalUrl: 'https://www.nomada.biz/en/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24 years ago.
+    - Established domain — registered 24.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-07-18'
-      ageDays: 8742
-      ageYears: 24
-    detail: Registered 24 years ago (2002-07-18).
+      ageDays: 8781
+      ageYears: 24.1
+    detail: Registered 24.1 years ago (2002-07-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nomada.biz looks like a well-established store. The clearest positives are that its domain has been registered for 24 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nomada.biz looks like a well-established store. The clearest positives are that its domain has been registered for 24.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nomada in the score above.
 

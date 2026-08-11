@@ -5,7 +5,7 @@ title: Is arublev-center.ru Legit? Trust Score 73/100
 description: >-
   arublev-center.ru scores 73/100 on our public trust checks. Established domain
   — registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:30.377Z'
+fetchedAt: '2026-07-27T08:35:30.080Z'
 finalUrl: 'https://arublev-center.ru/'
 reachable: true
 noindex: false
@@ -46,25 +46,25 @@ signals:
   pages:
     status: warn
     value:
-      contact: false
-      privacy: true
+      contact: true
+      privacy: false
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-03-21'
-      ageDays: 460
+      ageDays: 492
       ageYears: 1.3
     detail: Registered 1.3 years ago (2025-03-21).
   contact:

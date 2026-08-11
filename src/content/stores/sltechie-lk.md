@@ -5,7 +5,7 @@ title: Is sltechie.lk Legit? Trust Score 100/100
 description: >-
   sltechie.lk scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:56:52.451Z'
+fetchedAt: '2026-08-10T06:08:27.721Z'
 finalUrl: 'https://sltechie.lk/'
 reachable: true
 noindex: false
@@ -17,7 +17,6 @@ verdict:
     secure payment methods when shopping online.
   score: 100
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -32,16 +31,16 @@ signals:
       finalUrl: 'https://sltechie.lk/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -55,8 +54,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

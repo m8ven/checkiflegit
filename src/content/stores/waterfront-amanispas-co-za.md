@@ -5,7 +5,7 @@ title: Is waterfront.amanispas.co.za Legit? Trust Score 83/100
 description: >-
   waterfront.amanispas.co.za scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:09:47.272Z'
+fetchedAt: '2026-08-10T06:19:02.513Z'
 finalUrl: 'https://waterfront.amanispas.co.za/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 78
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

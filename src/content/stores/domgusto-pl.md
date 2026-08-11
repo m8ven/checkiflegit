@@ -1,11 +1,11 @@
 ---
 domain: domgusto.pl
 slug: domgusto-pl
-title: Is domgusto.pl Legit? Trust Score 83/100 — Trust Checks Pass
+title: Is domgusto.pl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  domgusto.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:26:29.050Z'
+  domgusto.pl scores 88/100 on our public trust checks. Established domain —
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:16.323Z'
 finalUrl: 'https://domgusto.pl/'
 reachable: true
 noindex: false
@@ -15,9 +15,10 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 2.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -55,14 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-21'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2024-02-22'
+      ageDays: 892
+      ageYears: 2.4
+    detail: Registered 2.4 years ago (2024-02-22).
   contact:
     status: pass
     value:
@@ -93,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-domgusto.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+domgusto.pl looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Domgusto in the score above.
 

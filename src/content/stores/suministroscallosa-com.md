@@ -4,8 +4,8 @@ slug: suministroscallosa-com
 title: Is suministroscallosa.com Legit? Trust Score 100/100
 description: >-
   suministroscallosa.com scores 100/100 on our public trust checks. Established
-  domain — registered 19.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:42.082Z'
+  domain — registered 19.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:38:22.271Z'
 finalUrl: 'https://suministroscallosa.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.1 years ago.
+    - Established domain — registered 19.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Soluciones Corporativas IP SL
       validTo: '2026-12-16'
-      daysToExpiry: 175
+      daysToExpiry: 143
       authorized: true
     detail: Valid certificate issued by Soluciones Corporativas IP SL.
   domainAge:
     status: pass
     value:
       createdAt: '2007-05-28'
-      ageDays: 6967
-      ageYears: 19.1
-    detail: Registered 19.1 years ago (2007-05-28).
+      ageDays: 7000
+      ageYears: 19.2
+    detail: Registered 19.2 years ago (2007-05-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-suministroscallosa.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+suministroscallosa.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Suministroscallosa in the score above.
 

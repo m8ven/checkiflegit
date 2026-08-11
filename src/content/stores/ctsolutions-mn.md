@@ -4,8 +4,8 @@ slug: ctsolutions-mn
 title: Is ctsolutions.mn Legit? Trust Score 82/100
 description: >-
   ctsolutions.mn scores 82/100 on our public trust checks. Established domain —
-  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:30:33.138Z'
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:55.684Z'
 finalUrl: 'https://ctsolutions.mn/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.2 years ago.
+    - Established domain — registered 12.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-04-03'
-      ageDays: 4465
-      ageYears: 12.2
-    detail: Registered 12.2 years ago (2014-04-03).
+      ageDays: 4511
+      ageYears: 12.4
+    detail: Registered 12.4 years ago (2014-04-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ctsolutions.mn looks like a well-established store. The clearest positives are that its domain has been registered for 12.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ctsolutions.mn looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ctsolutions in the score above.
 

@@ -5,7 +5,7 @@ title: Is marveuniformesonline.com.ar Legit? Trust Score 83/100
 description: >-
   marveuniformesonline.com.ar scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:16:33.669Z'
+fetchedAt: '2026-08-10T06:24:44.584Z'
 finalUrl: 'https://marveuniformesonline.com.ar/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-02'
-      daysToExpiry: 161
+      daysToExpiry: 115
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

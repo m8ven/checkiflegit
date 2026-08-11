@@ -4,8 +4,8 @@ slug: 24nst-ru
 title: Is 24nst.ru Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   24nst.ru scores 100/100 on our public trust checks. Established domain —
-  registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:04.548Z'
+  registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:09:02.778Z'
 finalUrl: 'https://24nst.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.8 years ago.
+    - Established domain — registered 13.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -48,32 +48,32 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-08-31'
-      ageDays: 5045
-      ageYears: 13.8
-    detail: Registered 13.8 years ago (2012-08-31).
+      ageDays: 5077
+      ageYears: 13.9
+    detail: Registered 13.9 years ago (2012-08-31).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-24nst.ru looks like a well-established store. The clearest positives are that its domain has been registered for 13.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+24nst.ru looks like a well-established store. The clearest positives are that its domain has been registered for 13.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 24nst in the score above.
 

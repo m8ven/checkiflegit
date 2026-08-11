@@ -4,8 +4,8 @@ slug: jasonscottpharmacy-com
 title: Is jasonscottpharmacy.com Legit? Trust Score 73/100
 description: >-
   jasonscottpharmacy.com scores 73/100 on our public trust checks. Established
-  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:04.071Z'
+  domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:26:01.383Z'
 finalUrl: 'https://jasonscottpharmacy.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-02-05'
-      ageDays: 504
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-02-05).
+      ageDays: 536
+      ageYears: 1.5
+    detail: Registered 1.5 years ago (2025-02-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jasonscottpharmacy.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jasonscottpharmacy.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jasonscottpharmacy in the score above.
 

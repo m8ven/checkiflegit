@@ -4,8 +4,8 @@ slug: midwestradio-ie
 title: Is midwestradio.ie Legit? Trust Score 88/100
 description: >-
   midwestradio.ie scores 88/100 on our public trust checks. Established domain —
-  registered 20.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:35.353Z'
+  registered 20.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:53.797Z'
 finalUrl: 'https://www.midwestradio.ie/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.2 years ago.
+    - Established domain — registered 20.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-04-24'
-      ageDays: 7365
-      ageYears: 20.2
-    detail: Registered 20.2 years ago (2006-04-24).
+      ageDays: 7398
+      ageYears: 20.3
+    detail: Registered 20.3 years ago (2006-04-24).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-midwestradio.ie looks like a well-established store. The clearest positives are that its domain has been registered for 20.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+midwestradio.ie looks like a well-established store. The clearest positives are that its domain has been registered for 20.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Midwestradio in the score above.
 

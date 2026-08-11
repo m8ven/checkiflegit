@@ -1,11 +1,11 @@
 ---
 domain: physitek.fr
 slug: physitek-fr
-title: Is physitek.fr Legit? Trust Score 76/100 — Trust Checks Pass
+title: Is physitek.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  physitek.fr scores 76/100 on our public trust checks. Established domain —
-  registered 9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:20:17.112Z'
+  physitek.fr scores 88/100 on our public trust checks. Established domain —
+  registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:10:17.436Z'
 finalUrl: 'https://www.physitek.fr/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9 years ago.
+    - Established domain — registered 9.1 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-24'
-      daysToExpiry: 61
+      daysToExpiry: 22
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-06-29'
-      ageDays: 3282
-      ageYears: 9
-    detail: Registered 9 years ago (2017-06-29).
+      ageDays: 3321
+      ageYears: 9.1
+    detail: Registered 9.1 years ago (2017-06-29).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-physitek.fr looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+physitek.fr looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Physitek in the score above.
 

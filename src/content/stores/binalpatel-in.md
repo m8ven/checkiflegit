@@ -5,7 +5,7 @@ title: Is binalpatel.in Legit? Trust Score 83/100
 description: >-
   binalpatel.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:36:45.412Z'
+fetchedAt: '2026-08-03T08:23:29.398Z'
 finalUrl: 'https://binalpatel.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

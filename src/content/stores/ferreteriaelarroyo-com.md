@@ -4,8 +4,8 @@ slug: ferreteriaelarroyo-com
 title: Is ferreteriaelarroyo.com Legit? Trust Score 94/100
 description: >-
   ferreteriaelarroyo.com scores 94/100 on our public trust checks. Established
-  domain — registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:55.803Z'
+  domain — registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:28:25.291Z'
 finalUrl: 'https://ferreteriaelarroyo.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.3 years ago.
+    - Established domain — registered 18.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-03-04'
-      ageDays: 6686
-      ageYears: 18.3
-    detail: Registered 18.3 years ago (2008-03-04).
+      ageDays: 6725
+      ageYears: 18.4
+    detail: Registered 18.4 years ago (2008-03-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ferreteriaelarroyo.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.3 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ferreteriaelarroyo.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.4 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ferreteriaelarroyo in the score above.
 

@@ -4,8 +4,8 @@ slug: kuradashi-jp
 title: Is kuradashi.jp Legit? Trust Score 100/100
 description: >-
   kuradashi.jp scores 100/100 on our public trust checks. Established domain —
-  registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:31.652Z'
+  registered 12 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:46.367Z'
 finalUrl: 'https://kuradashi.jp/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 11.9 years ago.
+    - Established domain — registered 12 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-08-05'
-      ageDays: 4341
-      ageYears: 11.9
-    detail: Registered 11.9 years ago (2014-08-05).
+      ageDays: 4374
+      ageYears: 12
+    detail: Registered 12 years ago (2014-08-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kuradashi.jp looks like a well-established store. The clearest positives are that its domain has been registered for 11.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kuradashi.jp looks like a well-established store. The clearest positives are that its domain has been registered for 12 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kuradashi in the score above.
 

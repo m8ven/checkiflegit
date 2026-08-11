@@ -5,7 +5,7 @@ title: Is 3dny.co.il Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   3dny.co.il scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:32:02.240Z'
+fetchedAt: '2026-08-03T08:19:53.834Z'
 finalUrl: 'https://3dny.co.il/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-27'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

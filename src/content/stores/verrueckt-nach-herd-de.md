@@ -5,7 +5,7 @@ title: Is verrueckt-nach-herd.de Legit? Trust Score 40/100
 description: >-
   verrueckt-nach-herd.de scores 40/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:23:57.825Z'
+fetchedAt: '2026-08-03T08:13:06.155Z'
 finalUrl: 'https://www.verrueckt-nach-herd.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

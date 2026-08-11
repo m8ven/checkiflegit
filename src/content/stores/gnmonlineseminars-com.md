@@ -4,8 +4,8 @@ slug: gnmonlineseminars-com
 title: Is gnmonlineseminars.com Legit? Trust Score 70/100
 description: >-
   gnmonlineseminars.com scores 70/100 on our public trust checks. Established
-  domain — registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:31.181Z'
+  domain — registered 15.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:23:18.694Z'
 finalUrl: 'https://gnmonlineseminars.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.3 years ago.
+    - Established domain — registered 15.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-03-16'
-      ageDays: 5579
-      ageYears: 15.3
-    detail: Registered 15.3 years ago (2011-03-16).
+      ageDays: 5611
+      ageYears: 15.4
+    detail: Registered 15.4 years ago (2011-03-16).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gnmonlineseminars.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gnmonlineseminars.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gnmonlineseminars in the score above.
 

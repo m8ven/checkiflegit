@@ -5,7 +5,7 @@ title: Is laplacinteiasi.ro Legit? Trust Score 43/100
 description: >-
   laplacinteiasi.ro scores 43/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T12:18:23.610Z'
+fetchedAt: '2026-08-10T06:26:12.776Z'
 finalUrl: 'https://laplacinteiasi.ro/'
 reachable: true
 noindex: false
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-10'
-      ageDays: 227
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-10).
+      ageDays: 273
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-10).
   contact:
     status: warn
     value:

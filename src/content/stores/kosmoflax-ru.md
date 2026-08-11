@@ -1,11 +1,11 @@
 ---
 domain: kosmoflax.ru
 slug: kosmoflax-ru
-title: Is kosmoflax.ru Legit? Trust Score 55/100 — Mixed Signals
+title: Is kosmoflax.ru Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  kosmoflax.ru scores 55/100 on our public trust checks. No links to major
+  kosmoflax.ru scores 67/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T03:52:08.898Z'
+fetchedAt: '2026-08-03T08:35:53.522Z'
 finalUrl: 'https://kosmoflax.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 55
+  score: 67
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
   cautions:
     - Domain is relatively young.
-    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-05'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-01-13'
-      ageDays: 162
-      ageYears: 0.4
-    detail: Registered 0.4 years ago (2026-01-13).
+      ageDays: 201
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2026-01-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kosmoflax.ru sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+kosmoflax.ru sends a mixed set of signals. On the positive side, it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. Against that, the domain is still relatively young and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kosmoflax in the score above.
 

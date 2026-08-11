@@ -4,8 +4,8 @@ slug: gillette-com
 title: Is gillette.com Legit? Trust Score 88/100
 description: >-
   gillette.com scores 88/100 on our public trust checks. Established domain —
-  registered 31.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:39.579Z'
+  registered 31.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:05.633Z'
 finalUrl: 'https://gillette.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on BigCommerce, an established e-commerce platform.'
-    - Established domain — registered 31.8 years ago.
+    - Established domain — registered 31.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2027-04-09'
-      daysToExpiry: 290
+      daysToExpiry: 257
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '1994-08-29'
-      ageDays: 11622
-      ageYears: 31.8
-    detail: Registered 31.8 years ago (1994-08-29).
+      ageDays: 11655
+      ageYears: 31.9
+    detail: Registered 31.9 years ago (1994-08-29).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gillette.com looks like a well-established store. The clearest positives are that its domain has been registered for 31.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gillette.com looks like a well-established store. The clearest positives are that its domain has been registered for 31.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gillette in the score above.
 

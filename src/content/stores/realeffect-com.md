@@ -1,72 +1,72 @@
 ---
 domain: realeffect.com
 slug: realeffect-com
-title: Is realeffect.com Legit? Trust Score 58/100 — Mixed Signals
+title: Is realeffect.com Legit? Trust Score 0/100
 description: >-
-  realeffect.com scores 58/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T03:43:34.460Z'
-finalUrl: 'https://realeffect.com/'
+  realeffect.com scores 0/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
+fetchedAt: '2026-08-03T08:29:04.076Z'
+finalUrl: 'http://realeffect.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 58
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 0
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.4 years ago.
-    - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
+    - Established domain — registered 19.5 years ago.
   redFlags:
+    - No valid SSL certificate — connection may not be secure.
+    - Standard contact and policy pages were not found.
     - No public contact details detected on the homepage.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://realeffect.com/'
+      finalUrl: 'http://realeffect.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: pass
+    status: fail
     value:
       issuer: Sectigo Limited
       validTo: '2026-07-13'
-      daysToExpiry: 19
-      authorized: true
-    detail: Valid certificate issued by Sectigo Limited.
+      daysToExpiry: -20
+      authorized: false
+    detail: Certificate has expired.
   domainAge:
     status: pass
     value:
       createdAt: '2007-01-21'
-      ageDays: 7094
-      ageYears: 19.4
-    detail: Registered 19.4 years ago (2007-01-21).
+      ageDays: 7133
+      ageYears: 19.5
+    detail: Registered 19.5 years ago (2007-01-21).
   contact:
     status: fail
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
-      twitter: true
+      facebook: false
+      instagram: false
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: true
-    detail: 'Links to 4 social platform(s): facebook, instagram, twitter, pinterest.'
+      pinterest: false
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-realeffect.com sends a mixed set of signals. On the positive side, its domain has been registered for 19.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for realeffect.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 19.5 years — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Realeffect in the score above.
 

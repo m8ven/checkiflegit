@@ -5,7 +5,7 @@ title: Is humidor.hr Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   humidor.hr scores 76/100 on our public trust checks. Established domain —
   registered 4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:40.748Z'
+fetchedAt: '2026-07-27T08:25:03.268Z'
 finalUrl: 'https://humidor.hr/hr/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-07-11'
-      ageDays: 1444
+      ageDays: 1476
       ageYears: 4
     detail: Registered 4 years ago (2022-07-11).
   contact:

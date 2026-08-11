@@ -4,8 +4,8 @@ slug: mypurewater-com
 title: Is mypurewater.com Legit? Trust Score 100/100
 description: >-
   mypurewater.com scores 100/100 on our public trust checks. Established domain
-  — registered 23.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:13.853Z'
+  — registered 24 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:06:52.124Z'
 finalUrl: 'https://mypurewater.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.9 years ago.
+    - Established domain — registered 24 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -48,32 +48,32 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-24'
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-08-16'
-      ageDays: 8714
-      ageYears: 23.9
-    detail: Registered 23.9 years ago (2002-08-16).
+      ageDays: 8760
+      ageYears: 24
+    detail: Registered 24 years ago (2002-08-16).
   contact:
     status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: true
-    detail: 'Public contact details found: phone, address.'
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mypurewater.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mypurewater.com looks like a well-established store. The clearest positives are that its domain has been registered for 24 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mypurewater in the score above.
 

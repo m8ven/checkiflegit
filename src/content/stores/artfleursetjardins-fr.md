@@ -1,11 +1,11 @@
 ---
 domain: artfleursetjardins.fr
 slug: artfleursetjardins-fr
-title: Is artfleursetjardins.fr Legit? Trust Score 82/100
+title: Is artfleursetjardins.fr Legit? Trust Score 94/100
 description: >-
-  artfleursetjardins.fr scores 82/100 on our public trust checks. Established
-  domain — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:34:25.320Z'
+  artfleursetjardins.fr scores 94/100 on our public trust checks. Established
+  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:21:25.447Z'
 finalUrl: 'https://artfleursetjardins.fr/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.1 years ago.
+    - Established domain — registered 8.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-10-11'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-06-05'
-      ageDays: 2941
-      ageYears: 8.1
-    detail: Registered 8.1 years ago (2018-06-05).
+      ageDays: 2980
+      ageYears: 8.2
+    detail: Registered 8.2 years ago (2018-06-05).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-artfleursetjardins.fr looks like a well-established store. The clearest positives are that its domain has been registered for 8.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+artfleursetjardins.fr looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Artfleursetjardins in the score above.
 

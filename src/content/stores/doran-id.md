@@ -4,8 +4,8 @@ slug: doran-id
 title: Is doran.id Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   doran.id scores 88/100 on our public trust checks. Established domain —
-  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:50.990Z'
+  registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:29.004Z'
 finalUrl: 'https://doran.id/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.4 years ago.
+    - Established domain — registered 8.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-15'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2018-02-10'
-      ageDays: 3056
-      ageYears: 8.4
-    detail: Registered 8.4 years ago (2018-02-10).
+      ageDays: 3095
+      ageYears: 8.5
+    detail: Registered 8.5 years ago (2018-02-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-doran.id looks like a well-established store. The clearest positives are that its domain has been registered for 8.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+doran.id looks like a well-established store. The clearest positives are that its domain has been registered for 8.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Doran in the score above.
 

@@ -5,7 +5,7 @@ title: Is dev.air-attitude.com Legit? Trust Score 83/100
 description: >-
   dev.air-attitude.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:24:58.014Z'
+fetchedAt: '2026-07-27T08:14:28.482Z'
 finalUrl: 'https://air-attitude.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: cosmetiques-mobius-com
 title: Is cosmetiques-mobius.com Legit? Trust Score 100/100
 description: >-
   cosmetiques-mobius.com scores 100/100 on our public trust checks. Established
-  domain — registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:23:09.099Z'
+  domain — registered 11 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:02.905Z'
 finalUrl: 'https://cosmetiques-mobius.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.9 years ago.
+    - Established domain — registered 11 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-19'
-      daysToExpiry: 87
+      validTo: '2026-10-06'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-08-02'
-      ageDays: 3979
-      ageYears: 10.9
-    detail: Registered 10.9 years ago (2015-08-02).
+      ageDays: 4011
+      ageYears: 11
+    detail: Registered 11 years ago (2015-08-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cosmetiques-mobius.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cosmetiques-mobius.com looks like a well-established store. The clearest positives are that its domain has been registered for 11 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cosmetiques-mobius in the score above.
 

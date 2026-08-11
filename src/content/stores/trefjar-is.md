@@ -5,7 +5,7 @@ title: Is trefjar.is Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   trefjar.is scores 57/100 on our public trust checks. Standard contact and
   policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:41.941Z'
+fetchedAt: '2026-07-27T08:34:48.338Z'
 finalUrl: 'https://trefjar.is/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

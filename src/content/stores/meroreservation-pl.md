@@ -3,9 +3,9 @@ domain: meroreservation.pl
 slug: meroreservation-pl
 title: Is meroreservation.pl Legit? Trust Score 100/100
 description: >-
-  meroreservation.pl scores 100/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T02:44:08.710Z'
+  meroreservation.pl scores 100/100 on our public trust checks. Established
+  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:30:34.996Z'
 finalUrl: 'https://meroreservation.pl/'
 reachable: true
 noindex: false
@@ -18,6 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 1.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,14 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2025-02-22'
+      ageDays: 519
+      ageYears: 1.4
+    detail: Registered 1.4 years ago (2025-02-22).
   contact:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-meroreservation.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+meroreservation.pl looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Meroreservation in the score above.
 

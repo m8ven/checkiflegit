@@ -4,8 +4,8 @@ slug: artofzeroliving-uk
 title: Is artofzeroliving.uk Legit? Trust Score 88/100
 description: >-
   artofzeroliving.uk scores 88/100 on our public trust checks. Established
-  domain — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:25.535Z'
+  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:24.809Z'
 finalUrl: 'https://artofzeroliving.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.5 years ago.
+    - Established domain — registered 5.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-24'
-      daysToExpiry: 245
+      daysToExpiry: 213
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2020-12-26'
-      ageDays: 2006
-      ageYears: 5.5
-    detail: Registered 5.5 years ago (2020-12-26).
+      ageDays: 2039
+      ageYears: 5.6
+    detail: Registered 5.6 years ago (2020-12-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-artofzeroliving.uk looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+artofzeroliving.uk looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Artofzeroliving in the score above.
 

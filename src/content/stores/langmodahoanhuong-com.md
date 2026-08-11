@@ -1,29 +1,28 @@
 ---
 domain: langmodahoanhuong.com
 slug: langmodahoanhuong-com
-title: Is langmodahoanhuong.com Legit? Trust Score 52/100
+title: Is langmodahoanhuong.com Legit? Trust Score 70/100
 description: >-
-  langmodahoanhuong.com scores 52/100 on our public trust checks. Standard
-  contact and policy pages were not found. Only limited contact details were
-  found.
-fetchedAt: '2026-06-25T03:49:37.562Z'
+  langmodahoanhuong.com scores 70/100 on our public trust checks. Established
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:34:06.015Z'
 finalUrl: 'https://langmodahoanhuong.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 52
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.3 years ago.
+    - Established domain — registered 4.4 years ago.
     - Valid HTTPS/SSL certificate in place.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
     - Limited social media presence.
 signals:
@@ -45,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-23'
-      daysToExpiry: 90
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-03-05'
-      ageDays: 1572
-      ageYears: 4.3
-    detail: Registered 4.3 years ago (2022-03-05).
+      ageDays: 1612
+      ageYears: 4.4
+    detail: Registered 4.4 years ago (2022-03-05).
   contact:
     status: warn
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-langmodahoanhuong.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+langmodahoanhuong.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Langmodahoanhuong in the score above.
 

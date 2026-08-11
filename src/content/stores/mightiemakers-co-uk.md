@@ -1,30 +1,30 @@
 ---
 domain: mightiemakers.co.uk
 slug: mightiemakers-co-uk
-title: Is mightiemakers.co.uk Legit? Trust Score 70/100
+title: Is mightiemakers.co.uk Legit? Trust Score 58/100
 description: >-
-  mightiemakers.co.uk scores 70/100 on our public trust checks. Established
-  domain — registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:14.610Z'
+  mightiemakers.co.uk scores 58/100 on our public trust checks. No public
+  contact details detected on the homepage.
+fetchedAt: '2026-08-03T08:01:54.599Z'
 finalUrl: 'https://mightiemakers.co.uk/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.1 years ago.
+    - Established domain — registered 1.2 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -39,34 +39,34 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
-      contact: true
+      contact: false
       privacy: true
       terms: false
-      refund: true
+      refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-05-19'
-      ageDays: 401
-      ageYears: 1.1
-    detail: Registered 1.1 years ago (2025-05-19).
+      ageDays: 441
+      ageYears: 1.2
+    detail: Registered 1.2 years ago (2025-05-19).
   contact:
     status: fail
     value:
@@ -79,14 +79,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: true
-      linkedin: true
+      linkedin: false
       pinterest: true
-    detail: >-
-      Links to 6 social platform(s): facebook, instagram, twitter, youtube,
-      linkedin, pinterest.
+    detail: 'Links to 4 social platform(s): facebook, instagram, youtube, pinterest.'
   reviews:
     status: unknown
     value:
@@ -97,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mightiemakers.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 1.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mightiemakers.co.uk sends a mixed set of signals. On the positive side, its domain has been registered for 1.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mightiemakers in the score above.
 

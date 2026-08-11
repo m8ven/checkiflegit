@@ -4,8 +4,8 @@ slug: lapietrataurina-it
 title: Is lapietrataurina.it Legit? Trust Score 100/100
 description: >-
   lapietrataurina.it scores 100/100 on our public trust checks. Established
-  domain — registered 24 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:38.165Z'
+  domain — registered 24.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:31:55.902Z'
 finalUrl: 'https://lapietrataurina.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24 years ago.
+    - Established domain — registered 24.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-15'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-06-26'
-      ageDays: 8764
-      ageYears: 24
-    detail: Registered 24 years ago (2002-06-26).
+      ageDays: 8797
+      ageYears: 24.1
+    detail: Registered 24.1 years ago (2002-06-26).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lapietrataurina.it looks like a well-established store. The clearest positives are that its domain has been registered for 24 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lapietrataurina.it looks like a well-established store. The clearest positives are that its domain has been registered for 24.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lapietrataurina in the score above.
 

@@ -4,8 +4,8 @@ slug: gamblersanonymous-org
 title: Is gamblersanonymous.org Legit? Trust Score 73/100
 description: >-
   gamblersanonymous.org scores 73/100 on our public trust checks. Established
-  domain — registered 29.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:46.481Z'
+  domain — registered 29.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:19.862Z'
 finalUrl: 'https://gamblersanonymous.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.6 years ago.
+    - Established domain — registered 29.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-08-24'
-      daysToExpiry: 61
+      daysToExpiry: 28
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '1996-11-17'
-      ageDays: 10811
-      ageYears: 29.6
-    detail: Registered 29.6 years ago (1996-11-17).
+      ageDays: 10844
+      ageYears: 29.7
+    detail: Registered 29.7 years ago (1996-11-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gamblersanonymous.org looks like a well-established store. The clearest positives are that its domain has been registered for 29.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gamblersanonymous.org looks like a well-established store. The clearest positives are that its domain has been registered for 29.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gamblersanonymous in the score above.
 

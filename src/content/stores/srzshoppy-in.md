@@ -5,7 +5,7 @@ title: Is srzshoppy.in Legit? Trust Score 79/100
 description: >-
   srzshoppy.in scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:04:19.024Z'
+fetchedAt: '2026-08-10T06:14:36.704Z'
 finalUrl: 'https://srzshoppy.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

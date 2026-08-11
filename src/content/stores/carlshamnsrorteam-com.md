@@ -5,7 +5,7 @@ title: Is carlshamnsrorteam.com Legit? Trust Score 88/100
 description: >-
   carlshamnsrorteam.com scores 88/100 on our public trust checks. Established
   domain — registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:13.470Z'
+fetchedAt: '2026-07-27T08:11:40.268Z'
 finalUrl: 'https://carlshamnsrorteam.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-03-29'
-      ageDays: 8122
+      ageDays: 8154
       ageYears: 22.3
     detail: Registered 22.3 years ago (2004-03-29).
   contact:

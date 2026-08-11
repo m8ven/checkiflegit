@@ -5,7 +5,7 @@ title: Is advancedcustomfields.com Legit? Trust Score 64/100
 description: >-
   advancedcustomfields.com scores 64/100 on our public trust checks. No public
   contact details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-24T21:45:13.308Z'
+fetchedAt: '2026-07-27T08:05:38.350Z'
 finalUrl: 'https://www.advancedcustomfields.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2011-12-06'
-      ageDays: 5314
+      ageDays: 5346
       ageYears: 14.6
     detail: Registered 14.6 years ago (2011-12-06).
   contact:

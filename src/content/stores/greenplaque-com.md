@@ -5,7 +5,7 @@ title: Is greenplaque.com Legit? Trust Score 43/100
 description: >-
   greenplaque.com scores 43/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:32:46.966Z'
+fetchedAt: '2026-07-27T08:21:09.057Z'
 finalUrl: 'https://greenplaque.com/'
 reachable: true
 noindex: false
@@ -57,15 +57,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-08-18'
-      ageDays: 6519
+      ageDays: 6551
       ageYears: 17.9
     detail: Registered 17.9 years ago (2008-08-18).
   contact:

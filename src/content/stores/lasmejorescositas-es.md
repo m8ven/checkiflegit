@@ -6,7 +6,7 @@ description: >-
   lasmejorescositas.es scores 36/100 on our public trust checks. No public
   contact details detected on the homepage. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T12:26:04.518Z'
+fetchedAt: '2026-08-10T06:32:25.136Z'
 finalUrl: 'https://www.lasmejorescositas.es/'
 reachable: true
 noindex: false
@@ -58,7 +58,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 87
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

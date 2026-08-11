@@ -4,8 +4,8 @@ slug: candle-guy-com
 title: Is candle-guy.com Legit? Trust Score 85/100
 description: >-
   candle-guy.com scores 85/100 on our public trust checks. Established domain —
-  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:06.124Z'
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:11:34.704Z'
 finalUrl: 'https://candle-guy.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-29'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-11-01'
-      ageDays: 2061
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-11-01).
+      ageDays: 2093
+      ageYears: 5.7
+    detail: Registered 5.7 years ago (2020-11-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-candle-guy.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+candle-guy.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Candle-guy in the score above.
 

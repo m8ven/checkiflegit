@@ -4,8 +4,8 @@ slug: stortfordtoys-com
 title: Is stortfordtoys.com Legit? Trust Score 73/100
 description: >-
   stortfordtoys.com scores 73/100 on our public trust checks. Established domain
-  — registered 16.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:25.658Z'
+  — registered 16.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:38:08.165Z'
 finalUrl: 'https://stortfordtoys.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.1 years ago.
+    - Established domain — registered 16.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-03'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2010-05-20'
-      ageDays: 5879
-      ageYears: 16.1
-    detail: Registered 16.1 years ago (2010-05-20).
+      ageDays: 5911
+      ageYears: 16.2
+    detail: Registered 16.2 years ago (2010-05-20).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-stortfordtoys.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+stortfordtoys.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Stortfordtoys in the score above.
 

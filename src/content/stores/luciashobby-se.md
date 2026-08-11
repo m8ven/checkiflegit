@@ -4,8 +4,8 @@ slug: luciashobby-se
 title: Is luciashobby.se Legit? Trust Score 73/100
 description: >-
   luciashobby.se scores 73/100 on our public trust checks. Established domain —
-  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:53:35.097Z'
+  registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:57.639Z'
 finalUrl: 'https://luciashobby.se/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.2 years ago.
+    - Established domain — registered 4.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-04-18'
-      ageDays: 1529
-      ageYears: 4.2
-    detail: Registered 4.2 years ago (2022-04-18).
+      ageDays: 1568
+      ageYears: 4.3
+    detail: Registered 4.3 years ago (2022-04-18).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-luciashobby.se looks like a well-established store. The clearest positives are that its domain has been registered for 4.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+luciashobby.se looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Luciashobby in the score above.
 

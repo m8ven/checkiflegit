@@ -1,11 +1,11 @@
 ---
 domain: fiboteamschool.pl
 slug: fiboteamschool-pl
-title: Is fiboteamschool.pl Legit? Trust Score 83/100
+title: Is fiboteamschool.pl Legit? Trust Score 88/100
 description: >-
-  fiboteamschool.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T02:27:34.248Z'
+  fiboteamschool.pl scores 88/100 on our public trust checks. Established domain
+  — registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:51.562Z'
 finalUrl: 'https://fiboteamschool.pl/'
 reachable: true
 noindex: false
@@ -15,9 +15,10 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 13.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -46,23 +47,26 @@ signals:
     status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2013-04-06'
+      ageDays: 4859
+      ageYears: 13.3
+    detail: Registered 13.3 years ago (2013-04-06).
   contact:
     status: warn
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fiboteamschool.pl looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fiboteamschool.pl looks like a well-established store. The clearest positives are that its domain has been registered for 13.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fiboteamschool in the score above.
 

@@ -5,7 +5,7 @@ title: Is delro.ir Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   delro.ir scores 57/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:31:44.192Z'
+fetchedAt: '2026-08-03T08:19:37.646Z'
 finalUrl: 'https://delro.ir/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

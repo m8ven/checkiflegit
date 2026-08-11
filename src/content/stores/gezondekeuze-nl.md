@@ -1,11 +1,11 @@
 ---
 domain: gezondekeuze.nl
 slug: gezondekeuze-nl
-title: Is gezondekeuze.nl Legit? Trust Score 70/100
+title: Is gezondekeuze.nl Legit? Trust Score 73/100
 description: >-
-  gezondekeuze.nl scores 70/100 on our public trust checks. Established domain —
-  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:28:58.650Z'
+  gezondekeuze.nl scores 73/100 on our public trust checks. Established domain —
+  registered 3.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:17:55.387Z'
 finalUrl: 'https://gezondekeuze.nl/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.3 years ago.
+    - Established domain — registered 3.4 years ago.
     - Valid HTTPS/SSL certificate in place.
-  redFlags: []
+    - Public business contact details are listed.
+  redFlags:
+    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -48,43 +48,43 @@ signals:
     value:
       contact: false
       privacy: true
-      terms: false
-      refund: false
+      terms: true
+      refund: true
       shipping: true
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: 'Found 4 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      issuer: Let's Encrypt
+      validTo: '2026-10-14'
+      daysToExpiry: 80
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-03-07'
-      ageDays: 1206
-      ageYears: 3.3
-    detail: Registered 3.3 years ago (2023-03-07).
+      ageDays: 1238
+      ageYears: 3.4
+    detail: Registered 3.4 years ago (2023-03-07).
   contact:
-    status: warn
+    status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: 'Public contact details found: email, phone.'
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gezondekeuze.nl looks like a well-established store. The clearest positives are that its domain has been registered for 3.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gezondekeuze.nl looks like a well-established store. The clearest positives are that its domain has been registered for 3.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gezondekeuze in the score above.
 

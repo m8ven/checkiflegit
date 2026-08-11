@@ -4,8 +4,8 @@ slug: sevasound-fr
 title: Is sevasound.fr Legit? Trust Score 100/100
 description: >-
   sevasound.fr scores 100/100 on our public trust checks. Established domain —
-  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:00:33.350Z'
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:11:27.484Z'
 finalUrl: 'https://sevasound.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.2 years ago.
+    - Established domain — registered 3.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-26'
-      daysToExpiry: 124
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2023-04-19'
-      ageDays: 1162
-      ageYears: 3.2
-    detail: Registered 3.2 years ago (2023-04-19).
+      ageDays: 1208
+      ageYears: 3.3
+    detail: Registered 3.3 years ago (2023-04-19).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sevasound.fr looks like a well-established store. The clearest positives are that its domain has been registered for 3.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sevasound.fr looks like a well-established store. The clearest positives are that its domain has been registered for 3.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sevasound in the score above.
 

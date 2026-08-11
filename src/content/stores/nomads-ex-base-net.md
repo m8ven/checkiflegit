@@ -5,7 +5,7 @@ title: Is nomads.ex-base.net Legit? Trust Score 100/100
 description: >-
   nomads.ex-base.net scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:46:04.500Z'
+fetchedAt: '2026-07-27T08:32:28.468Z'
 finalUrl: 'https://nomads.ex-base.net/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-11'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

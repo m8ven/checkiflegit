@@ -4,8 +4,8 @@ slug: parlamidilana-it
 title: Is parlamidilana.it Legit? Trust Score 100/100
 description: >-
   parlamidilana.it scores 100/100 on our public trust checks. Established domain
-  — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:19:59.591Z'
+  — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:53.737Z'
 finalUrl: 'https://www.parlamidilana.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.5 years ago.
+    - Established domain — registered 5.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-01'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-12-16'
-      ageDays: 2016
-      ageYears: 5.5
-    detail: Registered 5.5 years ago (2020-12-16).
+      ageDays: 2062
+      ageYears: 5.6
+    detail: Registered 5.6 years ago (2020-12-16).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-parlamidilana.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+parlamidilana.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Parlamidilana in the score above.
 

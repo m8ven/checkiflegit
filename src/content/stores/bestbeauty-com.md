@@ -4,8 +4,8 @@ slug: bestbeauty-com
 title: Is bestbeauty.com Legit? Trust Score 100/100
 description: >-
   bestbeauty.com scores 100/100 on our public trust checks. Established domain —
-  registered 27.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:51:59.833Z'
+  registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:37:43.733Z'
 finalUrl: 'https://bestbeauty.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.6 years ago.
+    - Established domain — registered 27.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-11-09'
-      ageDays: 10089
-      ageYears: 27.6
-    detail: Registered 27.6 years ago (1998-11-09).
+      ageDays: 10122
+      ageYears: 27.7
+    detail: Registered 27.7 years ago (1998-11-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bestbeauty.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bestbeauty.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bestbeauty in the score above.
 

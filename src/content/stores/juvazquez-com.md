@@ -4,8 +4,8 @@ slug: juvazquez-com
 title: Is juvazquez.com Legit? Trust Score 100/100
 description: >-
   juvazquez.com scores 100/100 on our public trust checks. Established domain —
-  registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:31:48.739Z'
+  registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:20:18.013Z'
 finalUrl: 'https://juvazquez.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.1 years ago.
+    - Established domain — registered 26.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-05-16'
-      ageDays: 9535
-      ageYears: 26.1
-    detail: Registered 26.1 years ago (2000-05-16).
+      ageDays: 9567
+      ageYears: 26.2
+    detail: Registered 26.2 years ago (2000-05-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-juvazquez.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+juvazquez.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Juvazquez in the score above.
 

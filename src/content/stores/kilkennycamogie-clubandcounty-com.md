@@ -5,7 +5,7 @@ title: Is kilkennycamogie.clubandcounty.com Legit? Score 100/100
 description: >-
   kilkennycamogie.clubandcounty.com scores 100/100 on our public trust checks.
   Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:40:31.761Z'
+fetchedAt: '2026-07-27T08:27:16.773Z'
 finalUrl: 'https://kilkennycamogie.clubandcounty.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-24'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

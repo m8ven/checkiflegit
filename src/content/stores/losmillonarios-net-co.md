@@ -5,7 +5,7 @@ title: Is losmillonarios.net.co Legit? Trust Score 100/100
 description: >-
   losmillonarios.net.co scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:59.554Z'
+fetchedAt: '2026-07-27T08:34:14.567Z'
 finalUrl: 'https://losmillonarios.net.co/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: false
       terms: true
       refund: true
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-10'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

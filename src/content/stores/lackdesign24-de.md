@@ -5,7 +5,7 @@ title: Is lackdesign24.de Legit? Trust Score 83/100
 description: >-
   lackdesign24.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:45:18.188Z'
+fetchedAt: '2026-07-27T08:31:38.970Z'
 finalUrl: 'https://lackdesign24.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -6,7 +6,7 @@ description: >-
   mexicoestademoda.com scores 58/100 on our public trust checks. Standard
   contact and policy pages were not found. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:54:12.415Z'
+fetchedAt: '2026-08-10T06:04:29.932Z'
 finalUrl: 'https://mexicoestademoda.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.2 years ago.
+    - Established domain — registered 16.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 48
+      validTo: '2026-10-12'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-04-18'
-      ageDays: 5911
-      ageYears: 16.2
-    detail: Registered 16.2 years ago (2010-04-18).
+      ageDays: 5957
+      ageYears: 16.3
+    detail: Registered 16.3 years ago (2010-04-18).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mexicoestademoda.com sends a mixed set of signals. On the positive side, its domain has been registered for 16.2 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+mexicoestademoda.com sends a mixed set of signals. On the positive side, its domain has been registered for 16.3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mexicoestademoda in the score above.
 

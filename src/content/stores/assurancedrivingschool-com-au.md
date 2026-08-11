@@ -5,7 +5,7 @@ title: Is assurancedrivingschool.com.au Legit? Trust Score 66/100
 description: >-
   assurancedrivingschool.com.au scores 66/100 on our public trust checks. Some
   standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:34:39.891Z'
+fetchedAt: '2026-08-03T08:21:35.108Z'
 finalUrl: 'https://assurancedrivingschool.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-22'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

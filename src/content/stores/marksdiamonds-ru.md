@@ -4,8 +4,8 @@ slug: marksdiamonds-ru
 title: Is marksdiamonds.ru Legit? Trust Score 85/100
 description: >-
   marksdiamonds.ru scores 85/100 on our public trust checks. Established domain
-  — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:54:19.953Z'
+  — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:04:36.119Z'
 finalUrl: 'https://marksdiamonds.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.2 years ago.
+    - Established domain — registered 6.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: false
       refund: true
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-24'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-03-30'
-      ageDays: 2277
-      ageYears: 6.2
-    detail: Registered 6.2 years ago (2020-03-30).
+      ageDays: 2323
+      ageYears: 6.4
+    detail: Registered 6.4 years ago (2020-03-30).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-marksdiamonds.ru looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+marksdiamonds.ru looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Marksdiamonds in the score above.
 

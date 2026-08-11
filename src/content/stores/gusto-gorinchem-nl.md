@@ -4,8 +4,8 @@ slug: gusto-gorinchem-nl
 title: Is gusto-gorinchem.nl Legit? Trust Score 100/100
 description: >-
   gusto-gorinchem.nl scores 100/100 on our public trust checks. Established
-  domain — registered 13.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:19:44.634Z'
+  domain — registered 13.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:09:42.700Z'
 finalUrl: 'https://www.gusto-gorinchem.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.5 years ago.
+    - Established domain — registered 13.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: ZeroSSL GmbH
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by ZeroSSL GmbH.
   domainAge:
     status: pass
     value:
       createdAt: '2012-12-20'
-      ageDays: 4935
-      ageYears: 13.5
-    detail: Registered 13.5 years ago (2012-12-20).
+      ageDays: 4974
+      ageYears: 13.6
+    detail: Registered 13.6 years ago (2012-12-20).
   contact:
     status: pass
     value:
@@ -79,12 +79,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gusto-gorinchem.nl looks like a well-established store. The clearest positives are that its domain has been registered for 13.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gusto-gorinchem.nl looks like a well-established store. The clearest positives are that its domain has been registered for 13.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gusto-gorinchem in the score above.
 

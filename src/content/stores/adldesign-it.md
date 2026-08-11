@@ -4,8 +4,8 @@ slug: adldesign-it
 title: Is adldesign.it Legit? Trust Score 88/100
 description: >-
   adldesign.it scores 88/100 on our public trust checks. Established domain —
-  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:57.211Z'
+  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:01.938Z'
 finalUrl: 'https://adldesign.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.3 years ago.
+    - Established domain — registered 7.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2026-11-02'
-      daysToExpiry: 131
+      daysToExpiry: 99
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2019-02-21'
-      ageDays: 2680
-      ageYears: 7.3
-    detail: Registered 7.3 years ago (2019-02-21).
+      ageDays: 2712
+      ageYears: 7.4
+    detail: Registered 7.4 years ago (2019-02-21).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-adldesign.it looks like a well-established store. The clearest positives are that its domain has been registered for 7.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+adldesign.it looks like a well-established store. The clearest positives are that its domain has been registered for 7.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Adldesign in the score above.
 

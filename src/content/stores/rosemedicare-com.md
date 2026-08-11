@@ -5,7 +5,7 @@ title: Is rosemedicare.com Legit? Trust Score 100/100
 description: >-
   rosemedicare.com scores 100/100 on our public trust checks. Established domain
   — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:43:21.360Z'
+fetchedAt: '2026-07-27T08:29:31.847Z'
 finalUrl: 'https://rosemedicare.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-12-05'
-      ageDays: 3488
+      ageDays: 3520
       ageYears: 9.6
     detail: Registered 9.6 years ago (2016-12-05).
   contact:

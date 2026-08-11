@@ -4,8 +4,8 @@ slug: lustschool-co-kr
 title: Is lustschool.co.kr Legit? Trust Score 82/100
 description: >-
   lustschool.co.kr scores 82/100 on our public trust checks. Established domain
-  — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:13:21.654Z'
+  — registered 5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:22:01.925Z'
 finalUrl: 'https://lustschool.co.kr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-23'
-      daysToExpiry: 59
+      daysToExpiry: 13
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-08-24'
-      ageDays: 1766
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-08-24).
+      ageDays: 1812
+      ageYears: 5
+    detail: Registered 5 years ago (2021-08-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lustschool.co.kr looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lustschool.co.kr looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lustschool in the score above.
 

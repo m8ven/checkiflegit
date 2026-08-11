@@ -1,29 +1,28 @@
 ---
 domain: geapetrini.it
 slug: geapetrini-it
-title: Is geapetrini.it Legit? Trust Score 43/100
+title: Is geapetrini.it Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  geapetrini.it scores 43/100 on our public trust checks. No public contact
-  details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:31:18.730Z'
+  geapetrini.it scores 58/100 on our public trust checks. No public contact
+  details detected on the homepage.
+fetchedAt: '2026-07-27T08:19:56.505Z'
 finalUrl: 'https://geapetrini.it/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 43
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.3 years ago.
+    - Established domain — registered 6.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
-    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
 signals:
@@ -41,7 +40,7 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
@@ -57,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-26'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-02-29'
-      ageDays: 2307
-      ageYears: 6.3
-    detail: Registered 6.3 years ago (2020-02-29).
+      ageDays: 2339
+      ageYears: 6.4
+    detail: Registered 6.4 years ago (2020-02-29).
   contact:
     status: fail
     value:
@@ -76,16 +75,18 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: fail
+    status: pass
     value:
-      facebook: false
-      instagram: false
-      twitter: false
-      tiktok: false
-      youtube: false
+      facebook: true
+      instagram: true
+      twitter: true
+      tiktok: true
+      youtube: true
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: >-
+      Links to 5 social platform(s): facebook, instagram, twitter, tiktok,
+      youtube.
   reviews:
     status: unknown
     value:
@@ -96,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for geapetrini.it. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 6.3 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+geapetrini.it sends a mixed set of signals. On the positive side, its domain has been registered for 6.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Geapetrini in the score above.
 

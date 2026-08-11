@@ -5,7 +5,7 @@ title: Is pinklab.al Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   pinklab.al scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:02:16.282Z'
+fetchedAt: '2026-08-10T06:12:39.911Z'
 finalUrl: 'https://pinklab.al/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 50
+      validTo: '2026-10-14'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

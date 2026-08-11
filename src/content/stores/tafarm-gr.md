@@ -5,7 +5,7 @@ title: Is tafarm.gr Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   tafarm.gr scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:28:03.250Z'
+fetchedAt: '2026-08-03T08:16:31.704Z'
 finalUrl: 'https://www.tafarm.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

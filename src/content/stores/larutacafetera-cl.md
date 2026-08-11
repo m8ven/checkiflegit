@@ -5,7 +5,7 @@ title: Is larutacafetera.cl Legit? Trust Score 61/100
 description: >-
   larutacafetera.cl scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:33:46.408Z'
+fetchedAt: '2026-07-27T08:21:42.194Z'
 finalUrl: 'https://larutacafetera.cl/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-10'
-      daysToExpiry: 47
+      daysToExpiry: 15
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

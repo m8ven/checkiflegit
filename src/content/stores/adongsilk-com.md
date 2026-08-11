@@ -5,7 +5,7 @@ title: Is adongsilk.com Legit? Trust Score 88/100
 description: >-
   adongsilk.com scores 88/100 on our public trust checks. Established domain —
   registered 25.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:00.706Z'
+fetchedAt: '2026-07-27T08:35:03.909Z'
 finalUrl: 'https://adongsilk.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2001-06-09'
-      ageDays: 9146
+      ageDays: 9179
       ageYears: 25.1
     detail: Registered 25.1 years ago (2001-06-09).
   contact:

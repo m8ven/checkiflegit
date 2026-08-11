@@ -4,8 +4,8 @@ slug: sorrentinocalzature-com
 title: Is sorrentinocalzature.com Legit? Trust Score 100/100
 description: >-
   sorrentinocalzature.com scores 100/100 on our public trust checks. Established
-  domain — registered 17.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:41.016Z'
+  domain — registered 17.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:41.679Z'
 finalUrl: 'https://www.sorrentinocalzature.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 17.7 years ago.
+    - Established domain — registered 17.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,30 +50,30 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-10-07'
-      ageDays: 6469
-      ageYears: 17.7
-    detail: Registered 17.7 years ago (2008-10-07).
+      ageDays: 6515
+      ageYears: 17.8
+    detail: Registered 17.8 years ago (2008-10-07).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sorrentinocalzature.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sorrentinocalzature.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sorrentinocalzature in the score above.
 

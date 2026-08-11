@@ -4,8 +4,8 @@ slug: mesconnettori-it
 title: Is mesconnettori.it Legit? Trust Score 100/100
 description: >-
   mesconnettori.it scores 100/100 on our public trust checks. Established domain
-  — registered 18.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:11.086Z'
+  — registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:16.067Z'
 finalUrl: 'https://www.mesconnettori.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.1 years ago.
+    - Established domain — registered 18.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,31 +49,31 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 42
+      validTo: '2026-10-17'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-05-06'
-      ageDays: 6623
-      ageYears: 18.1
-    detail: Registered 18.1 years ago (2008-05-06).
+      ageDays: 6669
+      ageYears: 18.3
+    detail: Registered 18.3 years ago (2008-05-06).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -83,8 +83,10 @@ signals:
       tiktok: false
       youtube: true
       linkedin: true
-      pinterest: false
-    detail: 'Links to 4 social platform(s): facebook, instagram, youtube, linkedin.'
+      pinterest: true
+    detail: >-
+      Links to 5 social platform(s): facebook, instagram, youtube, linkedin,
+      pinterest.
   reviews:
     status: unknown
     value:
@@ -95,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mesconnettori.it looks like a well-established store. The clearest positives are that its domain has been registered for 18.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mesconnettori.it looks like a well-established store. The clearest positives are that its domain has been registered for 18.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mesconnettori in the score above.
 

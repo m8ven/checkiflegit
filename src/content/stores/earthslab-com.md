@@ -4,9 +4,9 @@ slug: earthslab-com
 title: Is earthslab.com Legit? Trust Score 73/100
 description: >-
   earthslab.com scores 73/100 on our public trust checks. Established domain —
-  registered 10 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:01:39.149Z'
-finalUrl: 'https://www.earthslab.com/'
+  registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:07:38.445Z'
+finalUrl: 'https://earthslab.com/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.earthslab.com/'
+      finalUrl: 'https://earthslab.com/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -40,7 +40,7 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-31'
-      daysToExpiry: 68
+      validTo: '2026-10-29'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-06-17'
-      ageDays: 3659
-      ageYears: 10
-    detail: Registered 10 years ago (2016-06-17).
+      ageDays: 3698
+      ageYears: 10.1
+    detail: Registered 10.1 years ago (2016-06-17).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-earthslab.com looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+earthslab.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Earthslab in the score above.
 

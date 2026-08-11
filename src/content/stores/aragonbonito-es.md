@@ -5,7 +5,7 @@ title: Is aragonbonito.es Legit? Trust Score 79/100
 description: >-
   aragonbonito.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:13:09.132Z'
+fetchedAt: '2026-08-10T06:21:50.490Z'
 finalUrl: 'https://www.aragonbonito.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-16'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: buonocaffesrl-it
 title: Is buonocaffesrl.it Legit? Trust Score 73/100
 description: >-
   buonocaffesrl.it scores 73/100 on our public trust checks. Established domain
-  — registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:24:11.668Z'
+  — registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:47.193Z'
 finalUrl: 'https://www.buonocaffesrl.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.8 years ago.
+    - Established domain — registered 5.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 86
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-09-23'
-      ageDays: 2100
-      ageYears: 5.8
-    detail: Registered 5.8 years ago (2020-09-23).
+      ageDays: 2146
+      ageYears: 5.9
+    detail: Registered 5.9 years ago (2020-09-23).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-buonocaffesrl.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+buonocaffesrl.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Buonocaffesrl in the score above.
 

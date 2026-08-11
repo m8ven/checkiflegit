@@ -5,7 +5,7 @@ title: Is sdbullion.com Legit? Trust Score 100/100
 description: >-
   sdbullion.com scores 100/100 on our public trust checks. Established domain —
   registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:03.680Z'
+fetchedAt: '2026-07-27T08:06:11.367Z'
 finalUrl: 'https://sdbullion.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-12-11'
-      daysToExpiry: 171
+      daysToExpiry: 138
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2012-02-17'
-      ageDays: 5241
+      ageDays: 5273
       ageYears: 14.4
     detail: Registered 14.4 years ago (2012-02-17).
   contact:

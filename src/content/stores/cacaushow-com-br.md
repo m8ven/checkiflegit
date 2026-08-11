@@ -5,7 +5,7 @@ title: Is cacaushow.com.br Legit? Trust Score 66/100
 description: >-
   cacaushow.com.br scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-24T21:45:10.396Z'
+fetchedAt: '2026-07-27T08:05:36.248Z'
 finalUrl: 'https://www.cacaushow.com.br/'
 reachable: true
 noindex: false
@@ -46,17 +46,17 @@ signals:
     status: warn
     value:
       contact: false
-      privacy: false
+      privacy: true
       terms: true
       refund: true
-      shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+      shipping: true
+    detail: 'Found 4 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: GoDaddy.com
       validTo: '2026-12-21'
-      daysToExpiry: 180
+      daysToExpiry: 147
       authorized: true
     detail: Valid certificate issued by GoDaddy.com.
   domainAge:

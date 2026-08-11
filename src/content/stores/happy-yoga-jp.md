@@ -4,8 +4,8 @@ slug: happy-yoga-jp
 title: Is happy-yoga.jp Legit? Trust Score 88/100
 description: >-
   happy-yoga.jp scores 88/100 on our public trust checks. Established domain —
-  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:48.191Z'
+  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:42.513Z'
 finalUrl: 'https://happy-yoga.jp/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-16'
-      daysToExpiry: 53
+      daysToExpiry: 21
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-08'
-      ageDays: 1659
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2021-12-08).
+      ageDays: 1692
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2021-12-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-happy-yoga.jp looks like a well-established store. The clearest positives are that its domain has been registered for 4.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+happy-yoga.jp looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Happy-yoga in the score above.
 

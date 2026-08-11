@@ -5,7 +5,7 @@ title: Is todoeshistoria.com.ar Legit? Trust Score 44/100
 description: >-
   todoeshistoria.com.ar scores 44/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:48:15.150Z'
+fetchedAt: '2026-08-03T08:01:40.337Z'
 finalUrl: 'https://todoeshistoria.com.ar/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-11'
-      daysToExpiry: 79
+      validTo: '2026-10-30'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

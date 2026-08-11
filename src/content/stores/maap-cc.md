@@ -4,8 +4,8 @@ slug: maap-cc
 title: Is maap.cc Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   maap.cc scores 70/100 on our public trust checks. Established domain —
-  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:51:09.200Z'
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:35:09.284Z'
 finalUrl: 'https://maap.cc/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 12.3 years ago.
+    - Established domain — registered 12.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-03-08'
-      ageDays: 4491
-      ageYears: 12.3
-    detail: Registered 12.3 years ago (2014-03-08).
+      ageDays: 4531
+      ageYears: 12.4
+    detail: Registered 12.4 years ago (2014-03-08).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-maap.cc looks like a well-established store. The clearest positives are that its domain has been registered for 12.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+maap.cc looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Maap in the score above.
 

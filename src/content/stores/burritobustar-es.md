@@ -5,7 +5,7 @@ title: Is burritobustar.es Legit? Trust Score 36/100
 description: >-
   burritobustar.es scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:21:47.241Z'
+fetchedAt: '2026-07-27T08:12:03.481Z'
 finalUrl: 'https://burritobustar.es/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

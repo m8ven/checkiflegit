@@ -5,7 +5,7 @@ title: Is shop.museodelbaileflamenco.com Legit? Trust Score 83/100
 description: >-
   shop.museodelbaileflamenco.com scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:09.138Z'
+fetchedAt: '2026-07-27T08:31:30.727Z'
 finalUrl: 'https://shop.museodelbaileflamenco.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

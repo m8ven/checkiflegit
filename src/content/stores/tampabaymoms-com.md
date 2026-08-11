@@ -4,8 +4,8 @@ slug: tampabaymoms-com
 title: Is tampabaymoms.com Legit? Trust Score 85/100
 description: >-
   tampabaymoms.com scores 85/100 on our public trust checks. Established domain
-  — registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:04:20.088Z'
+  — registered 13.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:14:38.655Z'
 finalUrl: 'https://tampabaymoms.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.2 years ago.
+    - Established domain — registered 13.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-23'
-      daysToExpiry: 90
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-03-28'
-      ageDays: 4836
-      ageYears: 13.2
-    detail: Registered 13.2 years ago (2013-03-28).
+      ageDays: 4882
+      ageYears: 13.4
+    detail: Registered 13.4 years ago (2013-03-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tampabaymoms.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tampabaymoms.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tampabaymoms in the score above.
 

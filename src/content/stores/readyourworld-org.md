@@ -4,8 +4,8 @@ slug: readyourworld-org
 title: Is readyourworld.org Legit? Trust Score 76/100
 description: >-
   readyourworld.org scores 76/100 on our public trust checks. Established domain
-  — registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:42:20.655Z'
+  — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:28:47.985Z'
 finalUrl: 'https://readyourworld.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.6 years ago.
+    - Established domain — registered 3.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-11-09'
-      ageDays: 1323
-      ageYears: 3.6
-    detail: Registered 3.6 years ago (2022-11-09).
+      ageDays: 1355
+      ageYears: 3.7
+    detail: Registered 3.7 years ago (2022-11-09).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-readyourworld.org looks like a well-established store. The clearest positives are that its domain has been registered for 3.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+readyourworld.org looks like a well-established store. The clearest positives are that its domain has been registered for 3.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Readyourworld in the score above.
 

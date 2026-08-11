@@ -4,8 +4,8 @@ slug: carlowtourism-com
 title: Is carlowtourism.com Legit? Trust Score 100/100
 description: >-
   carlowtourism.com scores 100/100 on our public trust checks. Established
-  domain — registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:15.357Z'
+  domain — registered 27 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:02.996Z'
 finalUrl: 'https://carlowtourism.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.9 years ago.
+    - Established domain — registered 27 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: true
+      refund: false
       shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-09-30'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-08-14'
-      ageDays: 9811
-      ageYears: 26.9
-    detail: Registered 26.9 years ago (1999-08-14).
+      ageDays: 9850
+      ageYears: 27
+    detail: Registered 27 years ago (1999-08-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-carlowtourism.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+carlowtourism.com looks like a well-established store. The clearest positives are that its domain has been registered for 27 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Carlowtourism in the score above.
 

@@ -5,7 +5,7 @@ title: Is panoramicprint.net Legit? Trust Score 61/100
 description: >-
   panoramicprint.net scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T03:31:12.024Z'
+fetchedAt: '2026-08-03T08:19:14.523Z'
 finalUrl: 'http://panoramicprint.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.7 years ago.
+    - Established domain — registered 8.8 years ago.
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 48
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2017-10-02'
-      ageDays: 3187
-      ageYears: 8.7
-    detail: Registered 8.7 years ago (2017-10-02).
+      ageDays: 3226
+      ageYears: 8.8
+    detail: Registered 8.8 years ago (2017-10-02).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-panoramicprint.net sends a mixed set of signals. On the positive side, its domain has been registered for 8.7 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and its security certificate is not fully trusted — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+panoramicprint.net sends a mixed set of signals. On the positive side, its domain has been registered for 8.8 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and its security certificate is not fully trusted — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Panoramicprint in the score above.
 

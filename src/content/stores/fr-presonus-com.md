@@ -5,7 +5,7 @@ title: Is fr.presonus.com Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   fr.presonus.com scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:09.875Z'
+fetchedAt: '2026-08-03T08:19:59.251Z'
 finalUrl: 'https://fr.presonus.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-26'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -3,9 +3,9 @@ domain: backyarddesignusa.com
 slug: backyarddesignusa-com
 title: Is backyarddesignusa.com Legit? Trust Score 100/100
 description: >-
-  backyarddesignusa.com scores 100/100 on our public trust checks. Established
-  domain — registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:35:42.408Z'
+  backyarddesignusa.com scores 100/100 on our public trust checks. Has a contact
+  page and multiple policy pages (privacy/terms/refund).
+fetchedAt: '2026-08-03T08:22:27.760Z'
 finalUrl: 'https://backyarddesignusa.com/'
 reachable: true
 noindex: false
@@ -18,8 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.5 years ago.
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -49,24 +47,17 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: true
+      refund: false
       shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Google Trust Services
-      validTo: '2026-09-20'
-      daysToExpiry: 87
-      authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2016-12-31'
-      ageDays: 3462
-      ageYears: 9.5
-    detail: Registered 9.5 years ago (2016-12-31).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -91,11 +82,11 @@ signals:
       trustpilot: unknown
       google: unknown
     detail: >-
-      Trustpilot presence inconclusive (HTTP 403). Google review presence not
-      checked (no free, reliable signal).
+      Trustpilot presence check failed: This operation was aborted Google review
+      presence not checked (no free, reliable signal).
 ---
 
-backyarddesignusa.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+backyarddesignusa.com looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Backyarddesignusa in the score above.
 

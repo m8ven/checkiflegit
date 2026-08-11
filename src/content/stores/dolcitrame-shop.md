@@ -5,7 +5,7 @@ title: Is dolcitrame.shop Legit? Trust Score 74/100
 description: >-
   dolcitrame.shop scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:56:26.873Z'
+fetchedAt: '2026-08-03T08:04:14.830Z'
 finalUrl: 'https://www.dolcitrame.shop/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2026-10-09'
-      daysToExpiry: 107
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

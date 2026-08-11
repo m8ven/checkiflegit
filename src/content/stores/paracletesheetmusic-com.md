@@ -5,7 +5,7 @@ title: Is paracletesheetmusic.com Legit? Trust Score 61/100
 description: >-
   paracletesheetmusic.com scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:47:01.855Z'
+fetchedAt: '2026-07-27T08:33:24.528Z'
 finalUrl: 'https://paracletesheetmusic.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.1 years ago.
+    - Established domain — registered 20.2 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-11'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2006-05-26'
-      ageDays: 7334
-      ageYears: 20.1
-    detail: Registered 20.1 years ago (2006-05-26).
+      ageDays: 7366
+      ageYears: 20.2
+    detail: Registered 20.2 years ago (2006-05-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-paracletesheetmusic.com sends a mixed set of signals. On the positive side, its domain has been registered for 20.1 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+paracletesheetmusic.com sends a mixed set of signals. On the positive side, its domain has been registered for 20.2 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Paracletesheetmusic in the score above.
 

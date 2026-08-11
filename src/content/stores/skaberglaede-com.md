@@ -5,7 +5,7 @@ title: Is skaberglaede.com Legit? Trust Score 76/100
 description: >-
   skaberglaede.com scores 76/100 on our public trust checks. Established domain
   — registered 6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:29.513Z'
+fetchedAt: '2026-07-27T08:31:47.869Z'
 finalUrl: 'https://skaberglaede.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-07-13'
-      ageDays: 2172
+      ageDays: 2204
       ageYears: 6
     detail: Registered 6 years ago (2020-07-13).
   contact:

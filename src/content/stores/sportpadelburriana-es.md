@@ -5,7 +5,7 @@ title: Is sportpadelburriana.es Legit? Trust Score 74/100
 description: >-
   sportpadelburriana.es scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:01:10.076Z'
+fetchedAt: '2026-08-10T06:11:53.809Z'
 finalUrl: 'https://sportpadelburriana.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

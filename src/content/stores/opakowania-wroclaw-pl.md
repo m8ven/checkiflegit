@@ -1,11 +1,11 @@
 ---
 domain: opakowania-wroclaw.pl
 slug: opakowania-wroclaw-pl
-title: Is opakowania-wroclaw.pl Legit? Trust Score 82/100
+title: Is opakowania-wroclaw.pl Legit? Trust Score 94/100
 description: >-
-  opakowania-wroclaw.pl scores 82/100 on our public trust checks. Established
-  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:18.779Z'
+  opakowania-wroclaw.pl scores 94/100 on our public trust checks. Established
+  domain — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:27.789Z'
 finalUrl: 'https://opakowania-wroclaw.pl/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13 years ago.
+    - Established domain — registered 13.1 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 54
+      validTo: '2026-10-05'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-07-04'
-      ageDays: 4739
-      ageYears: 13
-    detail: Registered 13 years ago (2013-07-04).
+      ageDays: 4785
+      ageYears: 13.1
+    detail: Registered 13.1 years ago (2013-07-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-opakowania-wroclaw.pl looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+opakowania-wroclaw.pl looks like a well-established store. The clearest positives are that its domain has been registered for 13.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Opakowania-wroclaw in the score above.
 

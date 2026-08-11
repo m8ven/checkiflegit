@@ -4,8 +4,8 @@ slug: ecoboutik-ca
 title: Is ecoboutik.ca Legit? Trust Score 88/100
 description: >-
   ecoboutik.ca scores 88/100 on our public trust checks. Established domain —
-  registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:29:34.917Z'
+  registered 15.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:35:21.817Z'
 finalUrl: 'https://www.ecoboutik.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.8 years ago.
+    - Established domain — registered 15.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: false
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-05'
-      daysToExpiry: 72
+      validTo: '2026-11-03'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2010-09-24'
-      ageDays: 5752
-      ageYears: 15.8
-    detail: Registered 15.8 years ago (2010-09-24).
+      ageDays: 5798
+      ageYears: 15.9
+    detail: Registered 15.9 years ago (2010-09-24).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ecoboutik.ca looks like a well-established store. The clearest positives are that its domain has been registered for 15.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ecoboutik.ca looks like a well-established store. The clearest positives are that its domain has been registered for 15.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ecoboutik in the score above.
 

@@ -4,8 +4,8 @@ slug: gsmmobile-fr
 title: Is gsmmobile.fr Legit? Trust Score 88/100
 description: >-
   gsmmobile.fr scores 88/100 on our public trust checks. Established domain —
-  registered 7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:30.531Z'
+  registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:30.069Z'
 finalUrl: 'https://gsmmobile.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7 years ago.
+    - Established domain — registered 7.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-06-22'
-      ageDays: 2559
-      ageYears: 7
-    detail: Registered 7 years ago (2019-06-22).
+      ageDays: 2591
+      ageYears: 7.1
+    detail: Registered 7.1 years ago (2019-06-22).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gsmmobile.fr looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gsmmobile.fr looks like a well-established store. The clearest positives are that its domain has been registered for 7.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gsmmobile in the score above.
 

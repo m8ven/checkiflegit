@@ -4,8 +4,8 @@ slug: jacadi-com-lb
 title: Is jacadi.com.lb Legit? Trust Score 70/100
 description: >-
   jacadi.com.lb scores 70/100 on our public trust checks. Established domain —
-  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:43:10.146Z'
+  registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:28:41.233Z'
 finalUrl: 'https://jacadi.com.lb/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.8 years ago.
+    - Established domain — registered 6.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 29
+      validTo: '2026-10-03'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-09-14'
-      ageDays: 2476
-      ageYears: 6.8
-    detail: Registered 6.8 years ago (2019-09-14).
+      ageDays: 2515
+      ageYears: 6.9
+    detail: Registered 6.9 years ago (2019-09-14).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jacadi.com.lb looks like a well-established store. The clearest positives are that its domain has been registered for 6.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jacadi.com.lb looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jacadi in the score above.
 

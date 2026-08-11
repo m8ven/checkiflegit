@@ -4,8 +4,8 @@ slug: codertech-co-ke
 title: Is codertech.co.ke Legit? Trust Score 73/100
 description: >-
   codertech.co.ke scores 73/100 on our public trust checks. Established domain —
-  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:29.451Z'
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:35.605Z'
 finalUrl: 'https://codertech.co.ke/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.2 years ago.
+    - Established domain — registered 1.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-11'
-      daysToExpiry: 17
+      validTo: '2026-10-02'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-04-10'
-      ageDays: 440
-      ageYears: 1.2
-    detail: Registered 1.2 years ago (2025-04-10).
+      ageDays: 472
+      ageYears: 1.3
+    detail: Registered 1.3 years ago (2025-04-10).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-codertech.co.ke looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+codertech.co.ke looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Codertech in the score above.
 

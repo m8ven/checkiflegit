@@ -5,7 +5,7 @@ title: Is izzysgarden.co.uk Legit? Trust Score 73/100
 description: >-
   izzysgarden.co.uk scores 73/100 on our public trust checks. Established domain
   — registered 2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:31:18.444Z'
+fetchedAt: '2026-07-27T08:19:55.079Z'
 finalUrl: 'https://izzysgarden.co.uk/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 39
+      validTo: '2026-10-02'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-07-12'
-      ageDays: 712
+      ageDays: 745
       ageYears: 2
     detail: Registered 2 years ago (2024-07-12).
   contact:

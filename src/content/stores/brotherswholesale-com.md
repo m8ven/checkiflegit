@@ -5,7 +5,7 @@ title: Is brotherswholesale.com Legit? Trust Score 88/100
 description: >-
   brotherswholesale.com scores 88/100 on our public trust checks. Established
   domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:38.960Z'
+fetchedAt: '2026-07-27T08:11:57.559Z'
 finalUrl: 'https://brotherswholesale.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 58
+      validTo: '2026-10-20'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-09-25'
-      ageDays: 3194
+      ageDays: 3226
       ageYears: 8.8
     detail: Registered 8.8 years ago (2017-09-25).
   contact:

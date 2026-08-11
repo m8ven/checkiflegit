@@ -4,8 +4,8 @@ slug: mobexpert-ro
 title: Is mobexpert.ro Legit? Trust Score 100/100
 description: >-
   mobexpert.ro scores 100/100 on our public trust checks. Established domain —
-  registered 18.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:37.616Z'
+  registered 18.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:04.508Z'
 finalUrl: 'https://mobexpert.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 18.6 years ago.
+    - Established domain — registered 18.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-11-23'
-      ageDays: 6788
-      ageYears: 18.6
-    detail: Registered 18.6 years ago (2007-11-23).
+      ageDays: 6821
+      ageYears: 18.7
+    detail: Registered 18.7 years ago (2007-11-23).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mobexpert.ro looks like a well-established store. The clearest positives are that its domain has been registered for 18.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mobexpert.ro looks like a well-established store. The clearest positives are that its domain has been registered for 18.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mobexpert in the score above.
 

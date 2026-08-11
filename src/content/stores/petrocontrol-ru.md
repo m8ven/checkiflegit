@@ -4,8 +4,8 @@ slug: petrocontrol-ru
 title: Is petrocontrol.ru Legit? Trust Score 73/100
 description: >-
   petrocontrol.ru scores 73/100 on our public trust checks. Established domain —
-  registered 17.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:40:42.846Z'
+  registered 17.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:27:34.020Z'
 finalUrl: 'https://petrocontrol.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.2 years ago.
+    - Established domain — registered 17.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -50,23 +50,23 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-26'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-04-20'
-      ageDays: 6274
-      ageYears: 17.2
-    detail: Registered 17.2 years ago (2009-04-20).
+      ageDays: 6306
+      ageYears: 17.3
+    detail: Registered 17.3 years ago (2009-04-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-petrocontrol.ru looks like a well-established store. The clearest positives are that its domain has been registered for 17.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+petrocontrol.ru looks like a well-established store. The clearest positives are that its domain has been registered for 17.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Petrocontrol in the score above.
 

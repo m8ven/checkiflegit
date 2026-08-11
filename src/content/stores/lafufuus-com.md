@@ -1,12 +1,12 @@
 ---
 domain: lafufuus.com
 slug: lafufuus-com
-title: Is lafufuus.com Legit? Trust Score 64/100 — Mixed Signals
+title: Is lafufuus.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  lafufuus.com scores 64/100 on our public trust checks. Domain is relatively
-  young. Only limited contact details were found. Limited social media presence.
-fetchedAt: '2026-06-25T12:09:38.022Z'
-finalUrl: 'https://lafufuus.com/'
+  lafufuus.com scores 55/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
+fetchedAt: '2026-08-10T06:18:53.840Z'
+finalUrl: 'https://thelabubuo.com/'
 reachable: true
 noindex: false
 verdict:
@@ -15,22 +15,22 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 64
+  score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
-  redFlags: []
+    - Public business contact details are listed.
+  redFlags:
+    - No links to major social platforms found.
   cautions:
     - Domain is relatively young.
-    - Only limited contact details were found.
-    - Limited social media presence.
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://lafufuus.com/'
+      finalUrl: 'https://thelabubuo.com/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -39,52 +39,52 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
+        hasCartLink: false
         hasCatalog: true
-        hasCartFlow: true
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
       privacy: true
       terms: false
-      refund: true
+      refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-03-15'
-      ageDays: 102
-      ageYears: 0.3
-    detail: Registered 0.3 years ago (2026-03-15).
+      ageDays: 147
+      ageYears: 0.4
+    detail: Registered 0.4 years ago (2026-03-15).
   contact:
-    status: warn
+    status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: 'Public contact details found: email, phone.'
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
-      instagram: true
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lafufuus.com sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and only limited contact details are listed — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+lafufuus.com sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lafufuus in the score above.
 

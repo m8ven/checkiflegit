@@ -5,7 +5,7 @@ title: Is enfrigo.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   enfrigo.com scores 70/100 on our public trust checks. Established domain —
   registered 2.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:17.956Z'
+fetchedAt: '2026-07-27T08:16:33.947Z'
 finalUrl: 'https://enfrigo.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2024-06-04'
-      ageDays: 750
+      ageDays: 782
       ageYears: 2.1
     detail: Registered 2.1 years ago (2024-06-04).
   contact:

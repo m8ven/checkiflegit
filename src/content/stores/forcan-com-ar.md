@@ -5,7 +5,7 @@ title: Is forcan.com.ar Legit? Trust Score 83/100
 description: >-
   forcan.com.ar scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:27:56.248Z'
+fetchedAt: '2026-07-27T08:17:05.780Z'
 finalUrl: 'https://forcan.com.ar/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

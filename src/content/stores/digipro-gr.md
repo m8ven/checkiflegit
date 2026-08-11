@@ -5,7 +5,7 @@ title: Is digipro.gr Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   digipro.gr scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:30:46.135Z'
+fetchedAt: '2026-07-27T08:19:32.214Z'
 finalUrl: 'https://digipro.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-25'
-      daysToExpiry: 93
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

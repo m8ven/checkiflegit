@@ -1,29 +1,29 @@
 ---
 domain: parfumerie.com.ar
 slug: parfumerie-com-ar
-title: Is parfumerie.com.ar Legit? Trust Score 66/100
+title: Is parfumerie.com.ar Legit? Trust Score 83/100
 description: >-
-  parfumerie.com.ar scores 66/100 on our public trust checks. HTTPS certificate
-  present but its trust chain is incomplete.
-fetchedAt: '2026-06-24T21:46:50.172Z'
+  parfumerie.com.ar scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-07-27T08:07:19.156Z'
 finalUrl: 'https://www.parfumerie.com.ar/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 66
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 83
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Public business contact details are listed.
+    - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - HTTPS certificate present but its trust chain is incomplete.
-    - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -43,33 +43,33 @@ signals:
         hasCartFlow: true
     detail: 'Built on Magento, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: true
-      refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
-    status: warn
+    status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 30
-      authorized: false
-    detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
+      issuer: Google Trust Services
+      validTo: '2026-10-13'
+      daysToExpiry: 79
+      authorized: true
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -93,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-parfumerie.com.ar sends a mixed set of signals. On the positive side, it lists genuine business contact details and it runs on Magento, an established e-commerce platform. Against that, some standard contact or policy pages appear to be missing and its security certificate is not fully trusted — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+parfumerie.com.ar looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Parfumerie in the score above.
 

@@ -5,7 +5,7 @@ title: Is haustierliebe.de Legit? Trust Score 66/100
 description: >-
   haustierliebe.de scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:20:09.147Z'
+fetchedAt: '2026-08-03T08:10:08.591Z'
 finalUrl: 'https://www.haustierliebe.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-06'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

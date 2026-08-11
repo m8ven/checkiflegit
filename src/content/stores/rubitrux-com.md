@@ -4,8 +4,8 @@ slug: rubitrux-com
 title: Is rubitrux.com Legit? Trust Score 100/100
 description: >-
   rubitrux.com scores 100/100 on our public trust checks. Established domain —
-  registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:27:05.807Z'
+  registered 18.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:34.692Z'
 finalUrl: 'https://www.rubitrux.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 18.4 years ago.
+    - Established domain — registered 18.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-09'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-01-16'
-      ageDays: 6734
-      ageYears: 18.4
-    detail: Registered 18.4 years ago (2008-01-16).
+      ageDays: 6774
+      ageYears: 18.6
+    detail: Registered 18.6 years ago (2008-01-16).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rubitrux.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+rubitrux.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rubitrux in the score above.
 

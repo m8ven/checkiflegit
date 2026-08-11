@@ -6,7 +6,7 @@ description: >-
   robomaniacs.ro scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T12:00:55.095Z'
+fetchedAt: '2026-08-10T06:11:38.705Z'
 finalUrl: 'https://robomaniacs.ro/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.8 years ago.
+    - Established domain — registered 2.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 73
+      validTo: '2026-11-05'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-09-14'
-      ageDays: 1015
-      ageYears: 2.8
-    detail: Registered 2.8 years ago (2023-09-14).
+      ageDays: 1061
+      ageYears: 2.9
+    detail: Registered 2.9 years ago (2023-09-14).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-robomaniacs.ro sends a mixed set of signals. On the positive side, its domain has been registered for 2.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+robomaniacs.ro sends a mixed set of signals. On the positive side, its domain has been registered for 2.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Robomaniacs in the score above.
 

@@ -5,7 +5,7 @@ title: Is antikvardom.ru Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   antikvardom.ru scores 49/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:16:19.790Z'
+fetchedAt: '2026-07-27T08:07:19.203Z'
 finalUrl: 'http://antikvardom.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 49
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.8 years ago.
+    - Established domain — registered 12.9 years ago.
   redFlags:
     - No links to major social platforms found.
   cautions:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: www.sprinthost.ru
       validTo: '2116-10-25'
-      daysToExpiry: 32995
+      daysToExpiry: 32963
       authorized: false
     detail: Certificate present but chain not trusted (DEPTH_ZERO_SELF_SIGNED_CERT).
   domainAge:
     status: pass
     value:
       createdAt: '2013-08-21'
-      ageDays: 4690
-      ageYears: 12.8
-    detail: Registered 12.8 years ago (2013-08-21).
+      ageDays: 4722
+      ageYears: 12.9
+    detail: Registered 12.9 years ago (2013-08-21).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-antikvardom.ru sends a mixed set of signals. On the positive side, its domain has been registered for 12.8 years and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+antikvardom.ru sends a mixed set of signals. On the positive side, its domain has been registered for 12.9 years and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Antikvardom in the score above.
 

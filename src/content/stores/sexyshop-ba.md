@@ -5,7 +5,7 @@ title: Is sexyshop.ba Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   sexyshop.ba scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:44:47.493Z'
+fetchedAt: '2026-07-27T08:31:15.703Z'
 finalUrl: 'https://sexyshop.ba/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2027-01-23'
-      daysToExpiry: 213
+      daysToExpiry: 181
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

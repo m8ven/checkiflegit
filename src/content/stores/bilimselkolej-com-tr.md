@@ -5,7 +5,7 @@ title: Is bilimselkolej.com.tr Legit? Trust Score 61/100
 description: >-
   bilimselkolej.com.tr scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T12:15:20.252Z'
+fetchedAt: '2026-08-10T06:23:37.785Z'
 finalUrl: 'https://www.bilimselkolej.com.tr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-03-10'
-      daysToExpiry: 259
+      daysToExpiry: 213
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

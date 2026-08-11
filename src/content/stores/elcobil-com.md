@@ -1,29 +1,28 @@
 ---
 domain: elcobil.com
 slug: elcobil-com
-title: Is elcobil.com Legit? Trust Score 70/100 — Trust Checks Pass
+title: Is elcobil.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  elcobil.com scores 70/100 on our public trust checks. Established domain —
-  registered 20 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:37:11.870Z'
+  elcobil.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:23:40.776Z'
 finalUrl: 'https://elcobil.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20 years ago.
+    - Established domain — registered 20.1 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
-    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions: []
 signals:
   http:
@@ -33,58 +32,58 @@ signals:
       finalUrl: 'https://elcobil.com/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: fail
-    value:
-      contact: false
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      contact: true
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-20'
-      daysToExpiry: 179
+      daysToExpiry: 140
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2006-06-20'
-      ageDays: 7309
-      ageYears: 20
-    detail: Registered 20 years ago (2006-06-20).
+      ageDays: 7348
+      ageYears: 20.1
+    detail: Registered 20.1 years ago (2006-06-20).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
-      linkedin: true
+      linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, twitter, linkedin.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-elcobil.com looks like a well-established store. The clearest positives are that its domain has been registered for 20 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+elcobil.com sends a mixed set of signals. On the positive side, its domain has been registered for 20.1 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Elcobil in the score above.
 

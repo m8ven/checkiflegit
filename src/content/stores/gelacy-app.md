@@ -5,7 +5,7 @@ title: Is gelacy.app Legit? Trust Score 36/100
 description: >-
   gelacy.app scores 36/100 on our public trust checks. No public contact details
   detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-24T21:46:04.204Z'
+fetchedAt: '2026-07-27T08:06:12.520Z'
 finalUrl: 'https://gelacy.app/'
 reachable: true
 noindex: false
@@ -50,14 +50,14 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is antikchimera.cz Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   antikchimera.cz scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:24:25.266Z'
+fetchedAt: '2026-07-27T08:13:53.559Z'
 finalUrl: 'https://antikchimera.cz/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 62
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

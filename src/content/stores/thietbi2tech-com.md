@@ -5,7 +5,7 @@ title: Is thietbi2tech.com Legit? Trust Score 55/100
 description: >-
   thietbi2tech.com scores 55/100 on our public trust checks. Standard contact
   and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:10:47.698Z'
+fetchedAt: '2026-08-10T06:19:43.250Z'
 finalUrl: 'https://thietbi2tech.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.7 years ago.
+    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 43
+      validTo: '2026-10-07'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-10-01'
-      ageDays: 1727
-      ageYears: 4.7
-    detail: Registered 4.7 years ago (2021-10-01).
+      ageDays: 1773
+      ageYears: 4.9
+    detail: Registered 4.9 years ago (2021-10-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thietbi2tech.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.7 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+thietbi2tech.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.9 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thietbi2tech in the score above.
 

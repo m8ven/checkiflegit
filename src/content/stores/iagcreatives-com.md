@@ -5,7 +5,7 @@ title: Is iagcreatives.com Legit? Trust Score 70/100
 description: >-
   iagcreatives.com scores 70/100 on our public trust checks. Established domain
   — registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:36:08.219Z'
+fetchedAt: '2026-07-27T08:23:44.544Z'
 finalUrl: 'https://iagcreatives.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-23'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-06-06'
-      ageDays: 4036
+      ageDays: 4068
       ageYears: 11.1
     detail: Registered 11.1 years ago (2015-06-06).
   contact:

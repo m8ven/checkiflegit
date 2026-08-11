@@ -1,79 +1,70 @@
 ---
 domain: enjoymontepulciano.com
 slug: enjoymontepulciano-com
-title: Is enjoymontepulciano.com Legit? Trust Score 73/100
+title: Is enjoymontepulciano.com Legit? Trust Score 0/100
 description: >-
-  enjoymontepulciano.com scores 73/100 on our public trust checks. Established
-  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:43:40.560Z'
-finalUrl: 'https://enjoymontepulciano.com/'
+  enjoymontepulciano.com scores 0/100 on our public trust checks. Standard
+  contact and policy pages were not found.
+fetchedAt: '2026-08-03T08:29:16.309Z'
+finalUrl: 'http://enjoymontepulciano.com/public/dsp-suspension'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
-  greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3 years ago.
-    - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 0
+  greenFlags: []
   redFlags:
+    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://enjoymontepulciano.com/'
+      finalUrl: 'http://enjoymontepulciano.com/public/dsp-suspension'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
-      privacy: true
+      contact: false
+      privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-16'
-      daysToExpiry: 84
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2023-07-02'
-      ageDays: 1088
-      ageYears: 3
-    detail: Registered 3 years ago (2023-07-02).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -91,11 +82,11 @@ signals:
       trustpilot: unknown
       google: unknown
     detail: >-
-      Trustpilot presence inconclusive (HTTP 403). Google review presence not
-      checked (no free, reliable signal).
+      Trustpilot presence check failed: This operation was aborted Google review
+      presence not checked (no free, reliable signal).
 ---
 
-enjoymontepulciano.com looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for enjoymontepulciano.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Enjoymontepulciano in the score above.
 

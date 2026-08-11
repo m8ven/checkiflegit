@@ -1,11 +1,11 @@
 ---
 domain: dressex.ru
 slug: dressex-ru
-title: Is dressex.ru Legit? Trust Score 76/100 — Trust Checks Pass
+title: Is dressex.ru Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
-  dressex.ru scores 76/100 on our public trust checks. Established domain —
-  registered 10.8 years ago. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:31:40.090Z'
+  dressex.ru scores 88/100 on our public trust checks. Established domain —
+  registered 10.9 years ago.
+fetchedAt: '2026-07-27T08:20:05.403Z'
 finalUrl: 'http://www.dressex.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.8 years ago.
+    - Established domain — registered 10.9 years ago.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - HTTPS certificate present but its trust chain is incomplete.
-    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: warn
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-10'
-      daysToExpiry: 16
+      validTo: '2026-10-16'
+      daysToExpiry: 82
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2015-09-15'
-      ageDays: 3935
-      ageYears: 10.8
-    detail: Registered 10.8 years ago (2015-09-15).
+      ageDays: 3967
+      ageYears: 10.9
+    detail: Registered 10.9 years ago (2015-09-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dressex.ru looks like a well-established store. The clearest positives are that its domain has been registered for 10.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dressex.ru looks like a well-established store. The clearest positives are that its domain has been registered for 10.9 years and it lists genuine business contact details. The main thing we would flag is that its security certificate is not fully trusted, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dressex in the score above.
 

@@ -4,8 +4,8 @@ slug: ohiovalleysoap-com
 title: Is ohiovalleysoap.com Legit? Trust Score 85/100
 description: >-
   ohiovalleysoap.com scores 85/100 on our public trust checks. Established
-  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:34.879Z'
+  domain — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:08:11.516Z'
 finalUrl: 'https://ohiovalleysoap.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 52
+      validTo: '2026-10-14'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-01-16'
-      ageDays: 524
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-01-16).
+      ageDays: 570
+      ageYears: 1.6
+    detail: Registered 1.6 years ago (2025-01-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ohiovalleysoap.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ohiovalleysoap.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ohiovalleysoap in the score above.
 

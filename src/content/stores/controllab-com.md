@@ -4,8 +4,8 @@ slug: controllab-com
 title: Is controllab.com Legit? Trust Score 100/100
 description: >-
   controllab.com scores 100/100 on our public trust checks. Established domain —
-  registered 23 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:40.238Z'
+  registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:34.510Z'
 finalUrl: 'https://controllab.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23 years ago.
+    - Established domain — registered 23.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-24'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2003-06-12'
-      ageDays: 8413
-      ageYears: 23
-    detail: Registered 23 years ago (2003-06-12).
+      ageDays: 8445
+      ageYears: 23.1
+    detail: Registered 23.1 years ago (2003-06-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-controllab.com looks like a well-established store. The clearest positives are that its domain has been registered for 23 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+controllab.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Controllab in the score above.
 

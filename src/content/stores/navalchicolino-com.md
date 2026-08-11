@@ -4,8 +4,8 @@ slug: navalchicolino-com
 title: Is navalchicolino.com Legit? Trust Score 94/100
 description: >-
   navalchicolino.com scores 94/100 on our public trust checks. Established
-  domain — registered 23.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:00.910Z'
+  domain — registered 23.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:42.858Z'
 finalUrl: 'https://navalchicolino.com/?v=75bd8c82f05b'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.4 years ago.
+    - Established domain — registered 23.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-02-11'
-      ageDays: 8535
-      ageYears: 23.4
-    detail: Registered 23.4 years ago (2003-02-11).
+      ageDays: 8580
+      ageYears: 23.5
+    detail: Registered 23.5 years ago (2003-02-11).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-navalchicolino.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.4 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+navalchicolino.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Navalchicolino in the score above.
 

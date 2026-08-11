@@ -1,11 +1,12 @@
 ---
 domain: tudieukhien.net
 slug: tudieukhien-net
-title: Is tudieukhien.net Legit? Trust Score 70/100
+title: Is tudieukhien.net Legit? Trust Score 76/100
 description: >-
-  tudieukhien.net scores 70/100 on our public trust checks. Established domain —
-  registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:30:24.624Z'
+  tudieukhien.net scores 76/100 on our public trust checks. Public business
+  contact details are listed. Maintains links to multiple social media
+  platforms.
+fetchedAt: '2026-08-03T08:18:13.214Z'
 finalUrl: 'https://tudieukhien.net/'
 reachable: true
 noindex: false
@@ -15,16 +16,14 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.2 years ago.
-    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +43,22 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
       contact: false
       privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      terms: true
+      refund: true
+      shipping: true
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-18'
-      daysToExpiry: 85
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2017-04-10'
-      ageDays: 3362
-      ageYears: 9.2
-    detail: Registered 9.2 years ago (2017-04-10).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -91,11 +83,11 @@ signals:
       trustpilot: unknown
       google: unknown
     detail: >-
-      Trustpilot presence inconclusive (HTTP 403). Google review presence not
-      checked (no free, reliable signal).
+      Trustpilot presence check failed: This operation was aborted Google review
+      presence not checked (no free, reliable signal).
 ---
 
-tudieukhien.net looks like a well-established store. The clearest positives are that its domain has been registered for 9.2 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tudieukhien.net looks like a well-established store. The clearest positives are that it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tudieukhien in the score above.
 

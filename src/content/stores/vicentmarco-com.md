@@ -5,7 +5,7 @@ title: Is vicentmarco.com Legit? Trust Score 13/100
 description: >-
   vicentmarco.com scores 13/100 on our public trust checks. Standard contact and
   policy pages were not found.
-fetchedAt: '2026-06-25T03:32:32.109Z'
+fetchedAt: '2026-08-03T08:20:07.681Z'
 finalUrl: 'http://www.vicentmarco.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 13
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.8 years ago.
+    - Established domain — registered 19.9 years ago.
   redFlags:
     - Standard contact and policy pages were not found.
     - No public contact details detected on the homepage.
@@ -57,17 +57,17 @@ signals:
     status: warn
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-27'
+      daysToExpiry: 86
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2006-09-26'
-      ageDays: 7211
-      ageYears: 19.8
-    detail: Registered 19.8 years ago (2006-09-26).
+      ageDays: 7250
+      ageYears: 19.9
+    detail: Registered 19.9 years ago (2006-09-26).
   contact:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for vicentmarco.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 19.8 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for vicentmarco.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 19.9 years and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vicentmarco in the score above.
 

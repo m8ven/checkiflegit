@@ -1,11 +1,11 @@
 ---
 domain: noktoplastika.net
 slug: noktoplastika-net
-title: Is noktoplastika.net Legit? Trust Score 88/100
+title: Is noktoplastika.net Legit? Trust Score 100/100
 description: >-
-  noktoplastika.net scores 88/100 on our public trust checks. Established domain
-  — registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:03.481Z'
+  noktoplastika.net scores 100/100 on our public trust checks. Established
+  domain — registered 12 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:32:26.566Z'
 finalUrl: 'https://noktoplastika.net/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.9 years ago.
+    - Established domain — registered 12 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-08-10'
-      ageDays: 4336
-      ageYears: 11.9
-    detail: Registered 11.9 years ago (2014-08-10).
+      ageDays: 4368
+      ageYears: 12
+    detail: Registered 12 years ago (2014-08-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-noktoplastika.net looks like a well-established store. The clearest positives are that its domain has been registered for 11.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+noktoplastika.net looks like a well-established store. The clearest positives are that its domain has been registered for 12 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Noktoplastika in the score above.
 

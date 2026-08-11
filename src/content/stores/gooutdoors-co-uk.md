@@ -4,8 +4,8 @@ slug: gooutdoors-co-uk
 title: Is gooutdoors.co.uk Legit? Trust Score 70/100
 description: >-
   gooutdoors.co.uk scores 70/100 on our public trust checks. Established domain
-  — registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:51.712Z'
+  — registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:03.634Z'
 finalUrl: 'https://www.gooutdoors.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 26.8 years ago.
+    - Established domain — registered 26.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-17'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-09-10'
-      ageDays: 9784
-      ageYears: 26.8
-    detail: Registered 26.8 years ago (1999-09-10).
+      ageDays: 9817
+      ageYears: 26.9
+    detail: Registered 26.9 years ago (1999-09-10).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gooutdoors.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 26.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gooutdoors.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 26.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gooutdoors in the score above.
 

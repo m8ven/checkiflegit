@@ -5,7 +5,7 @@ title: Is uzlimes.druku.lv Legit? Trust Score 83/100
 description: >-
   uzlimes.druku.lv scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:17:46.967Z'
+fetchedAt: '2026-08-10T06:25:38.774Z'
 finalUrl: 'https://uzlimes.druku.lv/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

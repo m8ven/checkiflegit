@@ -5,7 +5,7 @@ title: Is vivudulich.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
   vivudulich.com scores 64/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T12:18:48.344Z'
+fetchedAt: '2026-08-10T06:26:40.588Z'
 finalUrl: 'https://vivudulich.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.7 years ago.
+    - Established domain — registered 7.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-30'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-10-01'
-      ageDays: 2824
-      ageYears: 7.7
-    detail: Registered 7.7 years ago (2018-10-01).
+      ageDays: 2870
+      ageYears: 7.9
+    detail: Registered 7.9 years ago (2018-10-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-vivudulich.com sends a mixed set of signals. On the positive side, its domain has been registered for 7.7 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+vivudulich.com sends a mixed set of signals. On the positive side, its domain has been registered for 7.9 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vivudulich in the score above.
 

@@ -4,8 +4,8 @@ slug: chimiver-com
 title: Is chimiver.com Legit? Trust Score 100/100
 description: >-
   chimiver.com scores 100/100 on our public trust checks. Established domain —
-  registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:28:53.715Z'
+  registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:17:50.048Z'
 finalUrl: 'https://chimiver.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.3 years ago.
+    - Established domain — registered 28.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-01'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-03-11'
-      ageDays: 10332
-      ageYears: 28.3
-    detail: Registered 28.3 years ago (1998-03-11).
+      ageDays: 10365
+      ageYears: 28.4
+    detail: Registered 28.4 years ago (1998-03-11).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-chimiver.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+chimiver.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Chimiver in the score above.
 

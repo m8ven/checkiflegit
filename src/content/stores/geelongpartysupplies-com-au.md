@@ -5,7 +5,7 @@ title: Is geelongpartysupplies.com.au Legit? Trust Score 74/100
 description: >-
   geelongpartysupplies.com.au scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:31:48.288Z'
+fetchedAt: '2026-08-10T06:37:08.904Z'
 finalUrl: 'https://www.geelongpartysupplies.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

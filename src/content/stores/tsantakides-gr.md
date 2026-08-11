@@ -5,7 +5,7 @@ title: Is tsantakides.gr Legit? Trust Score 83/100
 description: >-
   tsantakides.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:14:05.050Z'
+fetchedAt: '2026-08-10T06:22:34.934Z'
 finalUrl: 'https://tsantakides.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

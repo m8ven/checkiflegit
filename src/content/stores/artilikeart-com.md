@@ -5,7 +5,7 @@ title: Is artilikeart.com Legit? Trust Score 100/100
 description: >-
   artilikeart.com scores 100/100 on our public trust checks. Established domain
   — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:06.673Z'
+fetchedAt: '2026-07-27T08:09:04.478Z'
 finalUrl: 'https://artilikeart.com/'
 reachable: true
 noindex: false
@@ -48,23 +48,23 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: true
+      terms: false
       refund: true
       shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-20'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-09-21'
-      ageDays: 1007
+      ageDays: 1039
       ageYears: 2.8
     detail: Registered 2.8 years ago (2023-09-21).
   contact:

@@ -4,8 +4,8 @@ slug: g-maxx-nl
 title: Is g-maxx.nl Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   g-maxx.nl scores 100/100 on our public trust checks. Established domain —
-  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:50.208Z'
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:19:34.686Z'
 finalUrl: 'https://g-maxx.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 12.3 years ago.
+    - Established domain — registered 12.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-02-27'
-      ageDays: 4501
-      ageYears: 12.3
-    detail: Registered 12.3 years ago (2014-02-27).
+      ageDays: 4533
+      ageYears: 12.4
+    detail: Registered 12.4 years ago (2014-02-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-g-maxx.nl looks like a well-established store. The clearest positives are that its domain has been registered for 12.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+g-maxx.nl looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against G-maxx in the score above.
 

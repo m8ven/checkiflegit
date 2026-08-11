@@ -4,8 +4,8 @@ slug: francocesatieditore-com
 title: Is francocesatieditore.com Legit? Trust Score 88/100
 description: >-
   francocesatieditore.com scores 88/100 on our public trust checks. Established
-  domain — registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:31:21.775Z'
+  domain — registered 21.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:36:46.918Z'
 finalUrl: 'https://www.francocesatieditore.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.6 years ago.
+    - Established domain — registered 21.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 68
+      validTo: '2026-10-31'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-11-09'
-      ageDays: 7897
-      ageYears: 21.6
-    detail: Registered 21.6 years ago (2004-11-09).
+      ageDays: 7943
+      ageYears: 21.8
+    detail: Registered 21.8 years ago (2004-11-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-francocesatieditore.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+francocesatieditore.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Francocesatieditore in the score above.
 

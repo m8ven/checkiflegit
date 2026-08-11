@@ -1,11 +1,11 @@
 ---
 domain: dartshopkattestaart.nl
 slug: dartshopkattestaart-nl
-title: Is dartshopkattestaart.nl Legit? Trust Score 73/100
+title: Is dartshopkattestaart.nl Legit? Trust Score 85/100
 description: >-
-  dartshopkattestaart.nl scores 73/100 on our public trust checks. Established
-  domain — registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:41:06.135Z'
+  dartshopkattestaart.nl scores 85/100 on our public trust checks. Established
+  domain — registered 17 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:51.230Z'
 finalUrl: 'https://dartshopkattestaart.nl/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.8 years ago.
+    - Established domain — registered 17 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-28'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-08-25'
-      ageDays: 6148
-      ageYears: 16.8
-    detail: Registered 16.8 years ago (2009-08-25).
+      ageDays: 6194
+      ageYears: 17
+    detail: Registered 17 years ago (2009-08-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dartshopkattestaart.nl looks like a well-established store. The clearest positives are that its domain has been registered for 16.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dartshopkattestaart.nl looks like a well-established store. The clearest positives are that its domain has been registered for 17 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dartshopkattestaart in the score above.
 

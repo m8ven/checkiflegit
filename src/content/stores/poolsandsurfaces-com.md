@@ -4,8 +4,8 @@ slug: poolsandsurfaces-com
 title: Is poolsandsurfaces.com Legit? Trust Score 100/100
 description: >-
   poolsandsurfaces.com scores 100/100 on our public trust checks. Established
-  domain — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:04.902Z'
+  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:17.123Z'
 finalUrl: 'https://poolsandsurfaces.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.1 years ago.
+    - Established domain — registered 8.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: 'GoDaddy.com, Inc.'
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      issuer: GoDaddy.com
+      validTo: '2026-10-10'
+      daysToExpiry: 76
       authorized: true
-    detail: 'Valid certificate issued by GoDaddy.com, Inc..'
+    detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2018-05-22'
-      ageDays: 2955
-      ageYears: 8.1
-    detail: Registered 8.1 years ago (2018-05-22).
+      ageDays: 2987
+      ageYears: 8.2
+    detail: Registered 8.2 years ago (2018-05-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-poolsandsurfaces.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+poolsandsurfaces.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Poolsandsurfaces in the score above.
 

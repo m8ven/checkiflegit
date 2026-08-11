@@ -5,7 +5,7 @@ title: Is musicworks.cl Legit? Trust Score 83/100
 description: >-
   musicworks.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:45:19.798Z'
+fetchedAt: '2026-07-27T08:31:40.099Z'
 finalUrl: 'https://musicworks.cl/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

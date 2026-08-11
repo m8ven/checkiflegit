@@ -4,8 +4,8 @@ slug: lighthouseacademy-org
 title: Is lighthouseacademy.org Legit? Trust Score 76/100
 description: >-
   lighthouseacademy.org scores 76/100 on our public trust checks. Established
-  domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:21:19.811Z'
+  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:28:27.982Z'
 finalUrl: 'https://lighthouseacademy.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.7 years ago.
+    - Established domain — registered 8.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      issuer: Google Trust Services
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-10-03'
-      ageDays: 3186
-      ageYears: 8.7
-    detail: Registered 8.7 years ago (2017-10-03).
+      ageDays: 3232
+      ageYears: 8.9
+    detail: Registered 8.9 years ago (2017-10-03).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lighthouseacademy.org looks like a well-established store. The clearest positives are that its domain has been registered for 8.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lighthouseacademy.org looks like a well-established store. The clearest positives are that its domain has been registered for 8.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lighthouseacademy in the score above.
 

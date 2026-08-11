@@ -5,7 +5,7 @@ title: Is soterguvenlik.com Legit? Trust Score 70/100
 description: >-
   soterguvenlik.com scores 70/100 on our public trust checks. Established domain
   — registered 14 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:51:58.086Z'
+fetchedAt: '2026-07-27T08:37:43.528Z'
 finalUrl: 'https://soterguvenlik.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-07-12'
-      ageDays: 5095
+      ageDays: 5127
       ageYears: 14
     detail: Registered 14 years ago (2012-07-12).
   contact:

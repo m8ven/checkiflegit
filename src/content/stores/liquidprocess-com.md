@@ -4,8 +4,8 @@ slug: liquidprocess-com
 title: Is liquidprocess.com Legit? Trust Score 100/100
 description: >-
   liquidprocess.com scores 100/100 on our public trust checks. Established
-  domain — registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:26:43.757Z'
+  domain — registered 20.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:33:00.494Z'
 finalUrl: 'https://www.liquidprocess.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.5 years ago.
+    - Established domain — registered 20.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-09'
-      daysToExpiry: 77
+      validTo: '2026-11-08'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2006-01-04'
-      ageDays: 7476
-      ageYears: 20.5
-    detail: Registered 20.5 years ago (2006-01-04).
+      ageDays: 7522
+      ageYears: 20.6
+    detail: Registered 20.6 years ago (2006-01-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-liquidprocess.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+liquidprocess.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Liquidprocess in the score above.
 

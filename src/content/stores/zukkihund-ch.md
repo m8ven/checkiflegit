@@ -6,7 +6,7 @@ description: >-
   zukkihund.ch scores 44/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T03:29:31.877Z'
+fetchedAt: '2026-08-03T08:17:37.062Z'
 finalUrl: 'https://www.zukkihund.ch/'
 reachable: true
 noindex: false
@@ -57,8 +57,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-08'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

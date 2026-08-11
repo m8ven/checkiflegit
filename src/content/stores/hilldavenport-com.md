@@ -4,8 +4,8 @@ slug: hilldavenport-com
 title: Is hilldavenport.com Legit? Trust Score 88/100
 description: >-
   hilldavenport.com scores 88/100 on our public trust checks. Established domain
-  — registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:59.967Z'
+  — registered 13.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:51.678Z'
 finalUrl: 'https://hilldavenport.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.3 years ago.
+    - Established domain — registered 13.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-03-05'
-      ageDays: 4859
-      ageYears: 13.3
-    detail: Registered 13.3 years ago (2013-03-05).
+      ageDays: 4891
+      ageYears: 13.4
+    detail: Registered 13.4 years ago (2013-03-05).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hilldavenport.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hilldavenport.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hilldavenport in the score above.
 

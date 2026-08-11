@@ -4,8 +4,8 @@ slug: letschert-net
 title: Is letschert.net Legit? Trust Score 73/100
 description: >-
   letschert.net scores 73/100 on our public trust checks. Established domain —
-  registered 25.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:11:20.541Z'
+  registered 26 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:20:05.290Z'
 finalUrl: 'https://letschert.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.9 years ago.
+    - Established domain — registered 26 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-19'
-      daysToExpiry: 117
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2000-08-03'
-      ageDays: 9457
-      ageYears: 25.9
-    detail: Registered 25.9 years ago (2000-08-03).
+      ageDays: 9502
+      ageYears: 26
+    detail: Registered 26 years ago (2000-08-03).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-letschert.net looks like a well-established store. The clearest positives are that its domain has been registered for 25.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+letschert.net looks like a well-established store. The clearest positives are that its domain has been registered for 26 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Letschert in the score above.
 

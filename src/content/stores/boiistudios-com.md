@@ -4,8 +4,8 @@ slug: boiistudios-com
 title: Is boiistudios.com Legit? Trust Score 88/100
 description: >-
   boiistudios.com scores 88/100 on our public trust checks. Established domain —
-  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:26.325Z'
+  registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:11:49.242Z'
 finalUrl: 'https://boiistudios.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.5 years ago.
+    - Established domain — registered 9.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-17'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-01-06'
-      ageDays: 3456
-      ageYears: 9.5
-    detail: Registered 9.5 years ago (2017-01-06).
+      ageDays: 3488
+      ageYears: 9.6
+    detail: Registered 9.6 years ago (2017-01-06).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-boiistudios.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+boiistudios.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Boiistudios in the score above.
 

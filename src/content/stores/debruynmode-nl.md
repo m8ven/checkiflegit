@@ -5,7 +5,7 @@ title: Is debruynmode.nl Legit? Trust Score 76/100
 description: >-
   debruynmode.nl scores 76/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:32:49.147Z'
+fetchedAt: '2026-08-10T06:02:07.134Z'
 finalUrl: 'https://debruynmode.nl/'
 reachable: true
 noindex: false
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-11'
-      ageDays: 226
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-11).
+      ageDays: 272
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-11).
   contact:
     status: pass
     value:

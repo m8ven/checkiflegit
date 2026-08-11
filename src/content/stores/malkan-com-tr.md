@@ -5,7 +5,7 @@ title: Is malkan.com.tr Legit? Trust Score 83/100
 description: >-
   malkan.com.tr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:35:19.531Z'
+fetchedAt: '2026-07-27T08:23:06.530Z'
 finalUrl: 'https://malkan.com.tr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

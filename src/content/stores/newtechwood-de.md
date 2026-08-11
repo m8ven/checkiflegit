@@ -5,7 +5,7 @@ title: Is newtechwood.de Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   newtechwood.de scores 66/100 on our public trust checks. HTTPS certificate
   present but its trust chain is incomplete.
-fetchedAt: '2026-06-25T03:03:46.374Z'
+fetchedAt: '2026-08-03T08:09:23.324Z'
 finalUrl: 'https://www.newtechwood.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'Network Solutions, LLC'
       validTo: '2026-11-15'
-      daysToExpiry: 144
+      daysToExpiry: 105
       authorized: false
     detail: >-
       Certificate present but chain not trusted

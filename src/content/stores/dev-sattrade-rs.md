@@ -5,7 +5,7 @@ title: Is dev.sattrade.rs Legit? Trust Score 74/100
 description: >-
   dev.sattrade.rs scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:34:16.797Z'
+fetchedAt: '2026-08-03T08:21:16.441Z'
 finalUrl: 'https://dev.sattrade.rs/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

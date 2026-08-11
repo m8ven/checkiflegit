@@ -1,11 +1,11 @@
 ---
 domain: grca.org
 slug: grca-org
-title: Is grca.org Legit? Trust Score 76/100 — Trust Checks Pass
+title: Is grca.org Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
-  grca.org scores 76/100 on our public trust checks. Established domain —
-  registered 30.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:49:42.758Z'
+  grca.org scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Public business contact details are listed.
+fetchedAt: '2026-08-03T08:34:10.088Z'
 finalUrl: 'https://grca.org/'
 reachable: true
 noindex: false
@@ -15,16 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 83
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 30.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +56,20 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
+  contact:
     status: pass
     value:
-      createdAt: '1995-07-26'
-      ageDays: 11291
-      ageYears: 30.9
-    detail: Registered 30.9 years ago (1995-07-26).
-  contact:
-    status: warn
-    value:
       email: true
-      phone: false
-      address: false
-    detail: 'Public contact details found: email.'
+      phone: true
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-grca.org looks like a well-established store. The clearest positives are that its domain has been registered for 30.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+grca.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Grca in the score above.
 

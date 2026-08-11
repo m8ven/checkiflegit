@@ -5,7 +5,7 @@ title: Is ridercraft.co.uk Legit? Trust Score 73/100
 description: >-
   ridercraft.co.uk scores 73/100 on our public trust checks. Established domain
   — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:26.572Z'
+fetchedAt: '2026-07-27T08:09:23.785Z'
 finalUrl: 'https://ridercraft.co.uk/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-10-28'
-      ageDays: 2065
+      ageDays: 2098
       ageYears: 5.7
     detail: Registered 5.7 years ago (2020-10-28).
   contact:

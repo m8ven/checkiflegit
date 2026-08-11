@@ -5,7 +5,7 @@ title: Is domkapa.com Legit? Trust Score 100/100
 description: >-
   domkapa.com scores 100/100 on our public trust checks. Established domain —
   registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:44.355Z'
+fetchedAt: '2026-07-27T08:15:01.514Z'
 finalUrl: 'https://domkapa.com/en/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-02-18'
-      ageDays: 2683
+      ageDays: 2715
       ageYears: 7.4
     detail: Registered 7.4 years ago (2019-02-18).
   contact:

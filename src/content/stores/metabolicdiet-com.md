@@ -5,7 +5,7 @@ title: Is metabolicdiet.com Legit? Trust Score 73/100
 description: >-
   metabolicdiet.com scores 73/100 on our public trust checks. Established domain
   — registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:36:31.664Z'
+fetchedAt: '2026-07-27T08:24:06.029Z'
 finalUrl: 'https://metabolicdiet.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-09-28'
-      ageDays: 9766
+      ageDays: 9798
       ageYears: 26.8
     detail: Registered 26.8 years ago (1999-09-28).
   contact:

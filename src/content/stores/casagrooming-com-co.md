@@ -5,7 +5,7 @@ title: Is casagrooming.com.co Legit? Trust Score 57/100
 description: >-
   casagrooming.com.co scores 57/100 on our public trust checks. Standard contact
   and policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:18.602Z'
+fetchedAt: '2026-07-27T08:12:30.239Z'
 finalUrl: 'https://casagrooming.com.co/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-10-30'
-      daysToExpiry: 128
+      daysToExpiry: 96
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:

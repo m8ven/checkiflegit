@@ -5,7 +5,7 @@ title: Is bee-friends.eu Legit? Trust Score 79/100
 description: >-
   bee-friends.eu scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:20:37.193Z'
+fetchedAt: '2026-07-27T08:11:20.532Z'
 finalUrl: 'https://bee-friends.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-07'
-      daysToExpiry: 136
+      daysToExpiry: 104
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

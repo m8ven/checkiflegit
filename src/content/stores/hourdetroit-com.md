@@ -4,8 +4,8 @@ slug: hourdetroit-com
 title: Is hourdetroit.com Legit? Trust Score 100/100
 description: >-
   hourdetroit.com scores 100/100 on our public trust checks. Established domain
-  — registered 27.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:20:32.731Z'
+  — registered 27.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:10:45.282Z'
 finalUrl: 'https://www.hourdetroit.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.6 years ago.
+    - Established domain — registered 27.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-26'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-12-01'
-      ageDays: 10067
-      ageYears: 27.6
-    detail: Registered 27.6 years ago (1998-12-01).
+      ageDays: 10107
+      ageYears: 27.7
+    detail: Registered 27.7 years ago (1998-12-01).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hourdetroit.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hourdetroit.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hourdetroit in the score above.
 

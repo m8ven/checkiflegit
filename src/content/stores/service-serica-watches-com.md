@@ -1,11 +1,11 @@
 ---
 domain: service.serica-watches.com
 slug: service-serica-watches-com
-title: Is service.serica-watches.com Legit? Trust Score 19/100
+title: Is service.serica-watches.com Legit? Trust Score 36/100
 description: >-
-  service.serica-watches.com scores 19/100 on our public trust checks. No public
+  service.serica-watches.com scores 36/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:44:39.771Z'
+fetchedAt: '2026-07-27T08:31:04.108Z'
 finalUrl: 'https://service.serica-watches.com/fr-FR'
 reachable: true
 noindex: false
@@ -16,15 +16,15 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 19
+  score: 36
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,20 +44,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
@@ -92,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for service.serica-watches.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on Shopify, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for service.serica-watches.com. In particular, there are no clear public contact details and it has little or no social media footprint. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Service.serica-watches in the score above.
 

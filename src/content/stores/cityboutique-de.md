@@ -5,7 +5,7 @@ title: Is cityboutique.de Legit? Trust Score 44/100
 description: >-
   cityboutique.de scores 44/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T12:27:11.927Z'
+fetchedAt: '2026-08-10T06:33:40.876Z'
 finalUrl: 'https://www.cityboutique.de/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-15'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: kvk-be
 title: Is kvk.be Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   kvk.be scores 88/100 on our public trust checks. Established domain —
-  registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:22:40.289Z'
+  registered 22.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:12:15.000Z'
 finalUrl: 'https://www.kvk.be/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 22.4 years ago.
+    - Established domain — registered 22.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-03'
-      daysToExpiry: 193
+      daysToExpiry: 154
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2004-02-09'
-      ageDays: 8171
-      ageYears: 22.4
-    detail: Registered 22.4 years ago (2004-02-09).
+      ageDays: 8211
+      ageYears: 22.5
+    detail: Registered 22.5 years ago (2004-02-09).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kvk.be looks like a well-established store. The clearest positives are that its domain has been registered for 22.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kvk.be looks like a well-established store. The clearest positives are that its domain has been registered for 22.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kvk in the score above.
 

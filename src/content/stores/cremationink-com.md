@@ -1,25 +1,24 @@
 ---
 domain: cremationink.com
 slug: cremationink-com
-title: Is cremationink.com Legit? Trust Score 70/100
+title: Is cremationink.com Legit? Trust Score 40/100
 description: >-
-  cremationink.com scores 70/100 on our public trust checks. Established domain
-  — registered 7.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:20:28.395Z'
+  cremationink.com scores 40/100 on our public trust checks. No public contact
+  details detected on the homepage.
+fetchedAt: '2026-08-03T08:10:27.008Z'
 finalUrl: 'https://cremationink.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 40
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.5 years ago.
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -53,20 +52,13 @@ signals:
       shipping: false
     detail: Found 3 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-15'
-      daysToExpiry: 83
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2018-12-22'
-      ageDays: 2741
-      ageYears: 7.5
-    detail: Registered 7.5 years ago (2018-12-22).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: fail
     value:
@@ -91,11 +83,11 @@ signals:
       trustpilot: unknown
       google: unknown
     detail: >-
-      Trustpilot presence inconclusive (HTTP 403). Google review presence not
-      checked (no free, reliable signal).
+      Trustpilot presence check failed: This operation was aborted Google review
+      presence not checked (no free, reliable signal).
 ---
 
-cremationink.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for cremationink.com. In particular, there are no clear public contact details. It does have some positives — it publishes the contact and policy pages shoppers expect and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cremationink in the score above.
 

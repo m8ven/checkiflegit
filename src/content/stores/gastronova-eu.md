@@ -5,7 +5,7 @@ title: Is gastronova.eu Legit? Trust Score 83/100
 description: >-
   gastronova.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:46:28.422Z'
+fetchedAt: '2026-08-03T08:31:34.134Z'
 finalUrl: 'https://gastronova.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-11'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

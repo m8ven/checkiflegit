@@ -4,8 +4,8 @@ slug: formations-equestres-be
 title: Is formations-equestres.be Legit? Trust Score 76/100
 description: >-
   formations-equestres.be scores 76/100 on our public trust checks. Established
-  domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:27.361Z'
+  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:17.002Z'
 finalUrl: 'https://formations-equestres.be/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.2 years ago.
+    - Established domain — registered 6.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-04-25'
-      ageDays: 2251
-      ageYears: 6.2
-    detail: Registered 6.2 years ago (2020-04-25).
+      ageDays: 2284
+      ageYears: 6.3
+    detail: Registered 6.3 years ago (2020-04-25).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-formations-equestres.be looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+formations-equestres.be looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Formations-equestres in the score above.
 

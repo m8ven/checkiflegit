@@ -5,7 +5,7 @@ title: Is europe.singer.com Legit? Trust Score 83/100
 description: >-
   europe.singer.com scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:30:22.553Z'
+fetchedAt: '2026-08-03T08:18:12.486Z'
 finalUrl: 'https://europe.singer.com/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      issuer: Let's Encrypt
+      validTo: '2026-10-05'
+      daysToExpiry: 64
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null

@@ -4,8 +4,8 @@ slug: prekesemall-com
 title: Is prekesemall.com Legit? Trust Score 100/100
 description: >-
   prekesemall.com scores 100/100 on our public trust checks. Established domain
-  — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:45.834Z'
+  — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:57.099Z'
 finalUrl: 'https://prekesemall.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.1 years ago.
+    - Established domain — registered 9.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2027-02-19'
-      daysToExpiry: 240
+      daysToExpiry: 194
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2017-05-23'
-      ageDays: 3319
-      ageYears: 9.1
-    detail: Registered 9.1 years ago (2017-05-23).
+      ageDays: 3365
+      ageYears: 9.2
+    detail: Registered 9.2 years ago (2017-05-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-prekesemall.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+prekesemall.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Prekesemall in the score above.
 

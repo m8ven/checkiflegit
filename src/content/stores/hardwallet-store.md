@@ -5,7 +5,7 @@ title: Is hardwallet.store Legit? Trust Score 58/100
 description: >-
   hardwallet.store scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:51:35.302Z'
+fetchedAt: '2026-08-03T08:35:29.930Z'
 finalUrl: 'https://hardwallet.store/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.3 years ago.
+    - Established domain — registered 8.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-27'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-03-07'
-      ageDays: 3031
-      ageYears: 8.3
-    detail: Registered 8.3 years ago (2018-03-07).
+      ageDays: 3071
+      ageYears: 8.4
+    detail: Registered 8.4 years ago (2018-03-07).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hardwallet.store sends a mixed set of signals. On the positive side, its domain has been registered for 8.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+hardwallet.store sends a mixed set of signals. On the positive side, its domain has been registered for 8.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hardwallet in the score above.
 

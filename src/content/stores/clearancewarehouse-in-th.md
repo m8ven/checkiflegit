@@ -5,7 +5,7 @@ title: Is clearancewarehouse.in.th Legit? Trust Score 44/100
 description: >-
   clearancewarehouse.in.th scores 44/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:29:09.297Z'
+fetchedAt: '2026-07-27T08:18:09.985Z'
 finalUrl: 'https://clearancewarehouse.in.th/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

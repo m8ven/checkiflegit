@@ -5,7 +5,7 @@ title: Is naturalizer.gt Legit? Trust Score 100/100
 description: >-
   naturalizer.gt scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:38:13.094Z'
+fetchedAt: '2026-07-27T08:25:27.887Z'
 finalUrl: 'https://naturalizer.gt/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

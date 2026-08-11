@@ -5,7 +5,7 @@ title: Is sanchez.com.mx Legit? Trust Score 82/100
 description: >-
   sanchez.com.mx scores 82/100 on our public trust checks. Established domain —
   registered 28.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:50:01.754Z'
+fetchedAt: '2026-07-27T08:36:06.826Z'
 finalUrl: 'https://sanchez.com.mx/'
 reachable: true
 noindex: false
@@ -49,22 +49,22 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-05'
-      daysToExpiry: 164
+      daysToExpiry: 132
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '1997-08-22'
-      ageDays: 10534
+      ageDays: 10566
       ageYears: 28.9
     detail: Registered 28.9 years ago (1997-08-22).
   contact:

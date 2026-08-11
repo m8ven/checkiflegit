@@ -5,7 +5,7 @@ title: Is coax-connectors.com Legit? Trust Score 100/100
 description: >-
   coax-connectors.com scores 100/100 on our public trust checks. Established
   domain — registered 26.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:15.924Z'
+fetchedAt: '2026-07-27T08:18:16.574Z'
 finalUrl: 'https://coax-connectors.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-11-05'
-      ageDays: 9728
+      ageDays: 9760
       ageYears: 26.7
     detail: Registered 26.7 years ago (1999-11-05).
   contact:

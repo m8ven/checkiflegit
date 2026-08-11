@@ -5,7 +5,7 @@ title: Is ceremonydress.com Legit? Trust Score 55/100
 description: >-
   ceremonydress.com scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:28:38.018Z'
+fetchedAt: '2026-07-27T08:17:39.227Z'
 finalUrl: 'https://ceremonydress.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.3 years ago.
+    - Established domain — registered 1.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-03-01'
-      ageDays: 480
-      ageYears: 1.3
-    detail: Registered 1.3 years ago (2025-03-01).
+      ageDays: 512
+      ageYears: 1.4
+    detail: Registered 1.4 years ago (2025-03-01).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ceremonydress.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.3 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+ceremonydress.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.4 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ceremonydress in the score above.
 

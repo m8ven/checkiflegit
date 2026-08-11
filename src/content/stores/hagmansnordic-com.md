@@ -1,11 +1,11 @@
 ---
 domain: hagmansnordic.com
 slug: hagmansnordic-com
-title: Is hagmansnordic.com Legit? Trust Score 82/100
+title: Is hagmansnordic.com Legit? Trust Score 94/100
 description: >-
-  hagmansnordic.com scores 82/100 on our public trust checks. Established domain
-  — registered 10 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:33:20.234Z'
+  hagmansnordic.com scores 94/100 on our public trust checks. Established domain
+  — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:21:35.274Z'
 finalUrl: 'https://hagmansnordic.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10 years ago.
+    - Established domain — registered 10.1 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-06-28'
-      ageDays: 3648
-      ageYears: 10
-    detail: Registered 10 years ago (2016-06-28).
+      ageDays: 3681
+      ageYears: 10.1
+    detail: Registered 10.1 years ago (2016-06-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hagmansnordic.com looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hagmansnordic.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hagmansnordic in the score above.
 

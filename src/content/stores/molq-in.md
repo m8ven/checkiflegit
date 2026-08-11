@@ -5,7 +5,7 @@ title: Is molq.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   molq.in scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T03:55:42.210Z'
+fetchedAt: '2026-08-10T06:05:47.250Z'
 finalUrl: 'https://molq.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-24'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

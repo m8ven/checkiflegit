@@ -4,8 +4,8 @@ slug: iriscopyshop-com
 title: Is iriscopyshop.com Legit? Trust Score 82/100
 description: >-
   iriscopyshop.com scores 82/100 on our public trust checks. Established domain
-  — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:31:02.460Z'
+  — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:19:44.869Z'
 finalUrl: 'https://iriscopyshop.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.1 years ago.
+    - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-16'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-05-08'
-      ageDays: 2238
-      ageYears: 6.1
-    detail: Registered 6.1 years ago (2020-05-08).
+      ageDays: 2270
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-05-08).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-iriscopyshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+iriscopyshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Iriscopyshop in the score above.
 

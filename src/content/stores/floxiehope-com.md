@@ -4,8 +4,8 @@ slug: floxiehope-com
 title: Is floxiehope.com Legit? Trust Score 100/100
 description: >-
   floxiehope.com scores 100/100 on our public trust checks. Established domain —
-  registered 13 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:48:10.859Z'
+  registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:33:07.994Z'
 finalUrl: 'https://floxiehope.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13 years ago.
+    - Established domain — registered 13.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-06-14'
-      ageDays: 4758
-      ageYears: 13
-    detail: Registered 13 years ago (2013-06-14).
+      ageDays: 4797
+      ageYears: 13.1
+    detail: Registered 13.1 years ago (2013-06-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-floxiehope.com looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+floxiehope.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Floxiehope in the score above.
 

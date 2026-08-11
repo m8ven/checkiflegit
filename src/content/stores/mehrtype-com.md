@@ -5,7 +5,7 @@ title: Is mehrtype.com Legit? Trust Score 100/100
 description: >-
   mehrtype.com scores 100/100 on our public trust checks. Established domain —
   registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:36:20.171Z'
+fetchedAt: '2026-07-27T08:23:52.900Z'
 finalUrl: 'https://mehrtype.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-15'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-09-25'
-      ageDays: 2464
+      ageDays: 2496
       ageYears: 6.8
     detail: Registered 6.8 years ago (2019-09-25).
   contact:

@@ -4,9 +4,9 @@ slug: hatchbaby-com
 title: Is hatchbaby.com Legit? Trust Score 70/100
 description: >-
   hatchbaby.com scores 70/100 on our public trust checks. Established domain —
-  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:06.685Z'
-finalUrl: 'https://www.hatchbaby.com/'
+  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:34.786Z'
+finalUrl: 'https://www.hatch.co/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 12.2 years ago.
+    - Established domain — registered 12.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.hatchbaby.com/'
+      finalUrl: 'https://www.hatch.co/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-04-26'
-      ageDays: 4442
-      ageYears: 12.2
-    detail: Registered 12.2 years ago (2014-04-26).
+      ageDays: 4474
+      ageYears: 12.3
+    detail: Registered 12.3 years ago (2014-04-26).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hatchbaby.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hatchbaby.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hatchbaby in the score above.
 

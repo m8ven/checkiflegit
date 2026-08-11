@@ -4,8 +4,8 @@ slug: knifetoronto-com
 title: Is knifetoronto.com Legit? Trust Score 100/100
 description: >-
   knifetoronto.com scores 100/100 on our public trust checks. Established domain
-  — registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:40:50.575Z'
+  — registered 16.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:27:41.201Z'
 finalUrl: 'https://knifetoronto.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 16.3 years ago.
+    - Established domain — registered 16.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-24'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-03-19'
-      ageDays: 5941
-      ageYears: 16.3
-    detail: Registered 16.3 years ago (2010-03-19).
+      ageDays: 5973
+      ageYears: 16.4
+    detail: Registered 16.4 years ago (2010-03-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-knifetoronto.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+knifetoronto.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Knifetoronto in the score above.
 

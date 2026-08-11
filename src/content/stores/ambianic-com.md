@@ -5,7 +5,7 @@ title: Is ambianic.com Legit? Trust Score 94/100
 description: >-
   ambianic.com scores 94/100 on our public trust checks. Established domain —
   registered 18 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:42:49.896Z'
+fetchedAt: '2026-07-27T08:29:08.442Z'
 finalUrl: 'https://ambianic.com/'
 reachable: true
 noindex: false
@@ -55,16 +55,16 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-09-13'
-      daysToExpiry: 81
+      issuer: GoDaddy.com
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2008-07-15'
-      ageDays: 6553
+      ageDays: 6585
       ageYears: 18
     detail: Registered 18 years ago (2008-07-15).
   contact:

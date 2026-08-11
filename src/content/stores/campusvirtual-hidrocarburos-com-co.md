@@ -5,7 +5,7 @@ title: Is campusvirtual.hidrocarburos.com.co Legit? Score 83/100
 description: >-
   campusvirtual.hidrocarburos.com.co scores 83/100 on our public trust checks.
   Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:28:02.196Z'
+fetchedAt: '2026-07-27T08:17:10.065Z'
 finalUrl: 'https://campusvirtual.hidrocarburos.com.co/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 35
+      validTo: '2026-09-29'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

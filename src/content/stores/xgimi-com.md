@@ -5,7 +5,7 @@ title: Is xgimi.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   xgimi.com scores 58/100 on our public trust checks. No valid SSL certificate —
   connection may not be secure. Only limited contact details were found.
-fetchedAt: '2026-06-24T21:46:13.573Z'
+fetchedAt: '2026-07-27T08:06:23.567Z'
 finalUrl: 'https://us.xgimi.com/'
 reachable: true
 noindex: false
@@ -60,7 +60,7 @@ signals:
     status: pass
     value:
       createdAt: '2011-12-08'
-      ageDays: 5312
+      ageDays: 5344
       ageYears: 14.6
     detail: Registered 14.6 years ago (2011-12-08).
   contact:

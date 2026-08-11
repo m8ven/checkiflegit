@@ -5,7 +5,7 @@ title: Is caribbean.globodyinc.com Legit? Trust Score 100/100
 description: >-
   caribbean.globodyinc.com scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:11.938Z'
+fetchedAt: '2026-07-27T08:12:26.116Z'
 finalUrl: 'https://caribbean.globodyinc.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

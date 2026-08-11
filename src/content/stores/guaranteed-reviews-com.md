@@ -1,30 +1,30 @@
 ---
 domain: guaranteed-reviews.com
 slug: guaranteed-reviews-com
-title: Is guaranteed-reviews.com Legit? Trust Score 73/100
+title: Is guaranteed-reviews.com Legit? Trust Score 61/100
 description: >-
-  guaranteed-reviews.com scores 73/100 on our public trust checks. Established
-  domain — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:07.490Z'
+  guaranteed-reviews.com scores 61/100 on our public trust checks. No links to
+  major social platforms found.
+fetchedAt: '2026-07-27T08:06:17.913Z'
 finalUrl: 'https://www.guaranteed-reviews.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-11-07'
-      ageDays: 3516
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-11-07).
+      ageDays: 3548
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-07).
   contact:
-    status: pass
+    status: warn
     value:
       email: true
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: email.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-guaranteed-reviews.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+guaranteed-reviews.com sends a mixed set of signals. On the positive side, its domain has been registered for 9.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Guaranteed-reviews in the score above.
 

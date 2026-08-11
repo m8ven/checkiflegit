@@ -5,7 +5,7 @@ title: Is ooredoo.tn Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   ooredoo.tn scores 61/100 on our public trust checks. No links to major social
   platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-24T21:45:01.099Z'
+fetchedAt: '2026-07-27T08:05:31.636Z'
 finalUrl: 'https://www.ooredoo.tn/Personal/fr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-28'
-      daysToExpiry: 97
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

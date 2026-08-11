@@ -5,7 +5,7 @@ title: Is csomagexpress.hu Legit? Trust Score 49/100
 description: >-
   csomagexpress.hu scores 49/100 on our public trust checks. Standard contact
   and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:23:29.713Z'
+fetchedAt: '2026-07-27T08:13:14.761Z'
 finalUrl: 'https://csomagexpress.hu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

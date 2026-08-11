@@ -5,7 +5,7 @@ title: Is huryde.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   huryde.com scores 58/100 on our public trust checks. No public contact details
   detected on the homepage.
-fetchedAt: '2026-06-25T03:48:46.641Z'
+fetchedAt: '2026-08-03T08:33:29.037Z'
 finalUrl: 'https://huryde.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.8 years ago.
+    - Established domain — registered 6.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 50
+      validTo: '2026-10-14'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-08-25'
-      ageDays: 2495
-      ageYears: 6.8
-    detail: Registered 6.8 years ago (2019-08-25).
+      ageDays: 2534
+      ageYears: 6.9
+    detail: Registered 6.9 years ago (2019-08-25).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-huryde.com sends a mixed set of signals. On the positive side, its domain has been registered for 6.8 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+huryde.com sends a mixed set of signals. On the positive side, its domain has been registered for 6.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Huryde in the score above.
 

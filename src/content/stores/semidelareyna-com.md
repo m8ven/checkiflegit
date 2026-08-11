@@ -4,8 +4,8 @@ slug: semidelareyna-com
 title: Is semidelareyna.com Legit? Trust Score 88/100
 description: >-
   semidelareyna.com scores 88/100 on our public trust checks. Established domain
-  — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:00:32.572Z'
+  — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:11:26.388Z'
 finalUrl: 'https://semidelareyna.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.4 years ago.
+    - Established domain — registered 5.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 69
+      validTo: '2026-11-06'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-01-25'
-      ageDays: 1977
-      ageYears: 5.4
-    detail: Registered 5.4 years ago (2021-01-25).
+      ageDays: 2022
+      ageYears: 5.5
+    detail: Registered 5.5 years ago (2021-01-25).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-semidelareyna.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+semidelareyna.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Semidelareyna in the score above.
 

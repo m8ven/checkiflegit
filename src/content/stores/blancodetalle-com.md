@@ -4,8 +4,8 @@ slug: blancodetalle-com
 title: Is blancodetalle.com Legit? Trust Score 100/100
 description: >-
   blancodetalle.com scores 100/100 on our public trust checks. Established
-  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:53.408Z'
+  domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:23:35.742Z'
 finalUrl: 'https://blancodetalle.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: 'GoDaddy.com, Inc.'
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      issuer: GoDaddy.com
+      validTo: '2026-10-19'
+      daysToExpiry: 77
       authorized: true
-    detail: 'Valid certificate issued by GoDaddy.com, Inc..'
+    detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '2020-11-05'
-      ageDays: 2057
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-11-05).
+      ageDays: 2096
+      ageYears: 5.7
+    detail: Registered 5.7 years ago (2020-11-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blancodetalle.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+blancodetalle.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blancodetalle in the score above.
 

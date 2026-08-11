@@ -5,7 +5,7 @@ title: Is everlane.com Legit? Trust Score 70/100
 description: >-
   everlane.com scores 70/100 on our public trust checks. Established domain —
   registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:18.495Z'
+fetchedAt: '2026-07-27T08:05:43.532Z'
 finalUrl: 'https://www.everlane.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-05'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-09-23'
-      ageDays: 5753
+      ageDays: 5785
       ageYears: 15.8
     detail: Registered 15.8 years ago (2010-09-23).
   contact:

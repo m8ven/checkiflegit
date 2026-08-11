@@ -4,8 +4,8 @@ slug: tntmakeupacademy-com
 title: Is tntmakeupacademy.com Legit? Trust Score 100/100
 description: >-
   tntmakeupacademy.com scores 100/100 on our public trust checks. Established
-  domain — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:11:43.772Z'
+  domain — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:20:20.705Z'
 finalUrl: 'https://tntmakeupacademy.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.3 years ago.
+    - Established domain — registered 6.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-17'
-      daysToExpiry: 84
+      validTo: '2026-10-01'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-03-24'
-      ageDays: 2284
-      ageYears: 6.3
-    detail: Registered 6.3 years ago (2020-03-24).
+      ageDays: 2330
+      ageYears: 6.4
+    detail: Registered 6.4 years ago (2020-03-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tntmakeupacademy.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tntmakeupacademy.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tntmakeupacademy in the score above.
 

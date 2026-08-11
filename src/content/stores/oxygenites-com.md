@@ -4,8 +4,8 @@ slug: oxygenites-com
 title: Is oxygenites.com Legit? Trust Score 100/100
 description: >-
   oxygenites.com scores 100/100 on our public trust checks. Established domain —
-  registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:57:20.275Z'
+  registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:08:53.119Z'
 finalUrl: 'https://oxygenites.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.8 years ago.
+    - Established domain — registered 13.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-09-07'
-      ageDays: 5039
-      ageYears: 13.8
-    detail: Registered 13.8 years ago (2012-09-07).
+      ageDays: 5084
+      ageYears: 13.9
+    detail: Registered 13.9 years ago (2012-09-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-oxygenites.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+oxygenites.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Oxygenites in the score above.
 

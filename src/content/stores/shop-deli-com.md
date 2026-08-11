@@ -4,8 +4,8 @@ slug: shop-deli-com
 title: Is shop-deli.com Legit? Trust Score 31/100
 description: >-
   shop-deli.com scores 31/100 on our public trust checks. Domain registered very
-  recently (14 days ago).
-fetchedAt: '2026-06-25T03:55:16.925Z'
+  recently (60 days ago).
+fetchedAt: '2026-08-10T06:05:26.849Z'
 finalUrl: 'https://shop-deli.com/'
 reachable: true
 noindex: false
@@ -22,7 +22,7 @@ verdict:
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
-    - Domain registered very recently (14 days ago).
+    - Domain registered very recently (60 days ago).
   cautions:
     - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: fail
     value:
       createdAt: '2026-06-10'
-      ageDays: 14
-      ageYears: 0
-    detail: Registered very recently (14 days ago).
+      ageDays: 60
+      ageYears: 0.2
+    detail: Registered very recently (60 days ago).
   contact:
     status: warn
     value:

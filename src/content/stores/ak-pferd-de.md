@@ -5,7 +5,7 @@ title: Is ak-pferd.de Legit? Trust Score 100/100
 description: >-
   ak-pferd.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:11:41.106Z'
+fetchedAt: '2026-08-10T06:20:18.962Z'
 finalUrl: 'https://www.ak-pferd.de/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: true
+      refund: false
       shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 82
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

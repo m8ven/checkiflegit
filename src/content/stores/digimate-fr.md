@@ -4,8 +4,8 @@ slug: digimate-fr
 title: Is digimate.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   digimate.fr scores 88/100 on our public trust checks. Established domain —
-  registered 6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:44.049Z'
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:19:31.910Z'
 finalUrl: 'https://digimate.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6 years ago.
+    - Established domain — registered 6.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-06-29'
-      ageDays: 2186
-      ageYears: 6
-    detail: Registered 6 years ago (2020-06-29).
+      ageDays: 2218
+      ageYears: 6.1
+    detail: Registered 6.1 years ago (2020-06-29).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-digimate.fr looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+digimate.fr looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Digimate in the score above.
 

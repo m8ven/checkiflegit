@@ -5,7 +5,7 @@ title: Is aurarestoran.com Legit? Trust Score 52/100
 description: >-
   aurarestoran.com scores 52/100 on our public trust checks. Standard contact
   and policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:34:59.881Z'
+fetchedAt: '2026-08-03T08:21:52.483Z'
 finalUrl: 'https://aurarestoran.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.5 years ago.
+    - Established domain — registered 3.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-06-29'
-      daysToExpiry: 5
+      validTo: '2026-09-23'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-01-07'
-      ageDays: 1264
-      ageYears: 3.5
-    detail: Registered 3.5 years ago (2023-01-07).
+      ageDays: 1303
+      ageYears: 3.6
+    detail: Registered 3.6 years ago (2023-01-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aurarestoran.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+aurarestoran.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aurarestoran in the score above.
 

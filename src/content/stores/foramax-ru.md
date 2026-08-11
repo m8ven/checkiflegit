@@ -1,11 +1,11 @@
 ---
 domain: foramax.ru
 slug: foramax-ru
-title: Is foramax.ru Legit? Trust Score 85/100 — Trust Checks Pass
+title: Is foramax.ru Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  foramax.ru scores 85/100 on our public trust checks. Established domain —
-  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:08.335Z'
+  foramax.ru scores 70/100 on our public trust checks. Has a contact page and
+  multiple policy pages (privacy/terms/refund).
+fetchedAt: '2026-08-03T08:29:34.531Z'
 finalUrl: 'https://foramax.ru/'
 reachable: true
 noindex: false
@@ -15,11 +15,9 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 85
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.1 years ago.
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
@@ -47,26 +45,19 @@ signals:
     status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: false
       refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: GlobalSign nv-sa
-      validTo: '2026-09-29'
-      daysToExpiry: 97
-      authorized: true
-    detail: Valid certificate issued by GlobalSign nv-sa.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2022-05-06'
-      ageDays: 1510
-      ageYears: 4.1
-    detail: Registered 4.1 years ago (2022-05-06).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -91,11 +82,11 @@ signals:
       trustpilot: unknown
       google: unknown
     detail: >-
-      Trustpilot presence inconclusive (HTTP 403). Google review presence not
-      checked (no free, reliable signal).
+      Trustpilot presence check failed: This operation was aborted Google review
+      presence not checked (no free, reliable signal).
 ---
 
-foramax.ru looks like a well-established store. The clearest positives are that its domain has been registered for 4.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+foramax.ru looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Foramax in the score above.
 

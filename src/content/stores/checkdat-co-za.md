@@ -5,7 +5,7 @@ title: Is checkdat.co.za Legit? Trust Score 36/100
 description: >-
   checkdat.co.za scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:21:44.915Z'
+fetchedAt: '2026-07-27T08:12:03.431Z'
 finalUrl: 'https://checkdat.co.za/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-24'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

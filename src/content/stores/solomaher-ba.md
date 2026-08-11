@@ -5,7 +5,7 @@ title: Is solomaher.ba Legit? Trust Score 83/100
 description: >-
   solomaher.ba scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:11:48.124Z'
+fetchedAt: '2026-08-10T06:20:26.418Z'
 finalUrl: 'https://solomaher.ba/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-15'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

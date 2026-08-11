@@ -4,8 +4,8 @@ slug: bodybuilding-com
 title: Is bodybuilding.com Legit? Trust Score 100/100
 description: >-
   bodybuilding.com scores 100/100 on our public trust checks. Established domain
-  — registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:40.380Z'
+  — registered 27.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:17.485Z'
 finalUrl: 'https://shop.bodybuilding.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 27.4 years ago.
+    - Established domain — registered 27.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-02-16'
-      ageDays: 9990
-      ageYears: 27.4
-    detail: Registered 27.4 years ago (1999-02-16).
+      ageDays: 10023
+      ageYears: 27.5
+    detail: Registered 27.5 years ago (1999-02-16).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bodybuilding.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bodybuilding.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bodybuilding in the score above.
 

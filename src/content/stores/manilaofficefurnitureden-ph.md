@@ -5,7 +5,7 @@ title: Is manilaofficefurnitureden.ph Legit? Trust Score 100/100
 description: >-
   manilaofficefurnitureden.ph scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:47.717Z'
+fetchedAt: '2026-08-10T06:00:45.056Z'
 finalUrl: 'https://www.manilaofficefurnitureden.ph/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      issuer: Google Trust Services
+      validTo: '2026-10-04'
+      daysToExpiry: 56
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null

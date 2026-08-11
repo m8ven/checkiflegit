@@ -5,7 +5,7 @@ title: Is gtrcracing.com Legit? Trust Score 43/100
 description: >-
   gtrcracing.com scores 43/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:32:57.317Z'
+fetchedAt: '2026-07-27T08:21:22.143Z'
 finalUrl: 'https://gtrcracing.com/'
 reachable: true
 noindex: false
@@ -58,14 +58,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-07-12'
-      ageDays: 712
+      ageDays: 744
       ageYears: 2
     detail: Registered 2 years ago (2024-07-12).
   contact:

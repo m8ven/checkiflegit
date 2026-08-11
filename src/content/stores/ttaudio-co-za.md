@@ -5,7 +5,7 @@ title: Is ttaudio.co.za Legit? Trust Score 100/100
 description: >-
   ttaudio.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:07:42.159Z'
+fetchedAt: '2026-08-10T06:17:14.037Z'
 finalUrl: 'https://ttaudio.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-22'
-      daysToExpiry: 89
+      validTo: '2026-10-21'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

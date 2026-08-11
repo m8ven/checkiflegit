@@ -5,7 +5,7 @@ title: Is shop.arsess-co.com Legit? Trust Score 66/100
 description: >-
   shop.arsess-co.com scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:55:22.912Z'
+fetchedAt: '2026-08-10T06:05:31.757Z'
 finalUrl: 'https://shop.arsess-co.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 68
+      validTo: '2026-10-31'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

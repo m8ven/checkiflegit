@@ -4,8 +4,8 @@ slug: champ-sysgermany-com
 title: Is champ-sysgermany.com Legit? Trust Score 100/100
 description: >-
   champ-sysgermany.com scores 100/100 on our public trust checks. Established
-  domain — registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:38:17.695Z'
+  domain — registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:24:23.207Z'
 finalUrl: 'https://champ-sysgermany.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 12.5 years ago.
+    - Established domain — registered 12.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-12-12'
-      ageDays: 4577
-      ageYears: 12.5
-    detail: Registered 12.5 years ago (2013-12-12).
+      ageDays: 4617
+      ageYears: 12.6
+    detail: Registered 12.6 years ago (2013-12-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-champ-sysgermany.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+champ-sysgermany.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Champ-sysgermany in the score above.
 

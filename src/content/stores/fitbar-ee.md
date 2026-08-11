@@ -4,8 +4,8 @@ slug: fitbar-ee
 title: Is fitbar.ee Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   fitbar.ee scores 100/100 on our public trust checks. Established domain —
-  registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:45:09.562Z'
+  registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:50.900Z'
 finalUrl: 'https://fitbar.ee/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.6 years ago.
+    - Established domain — registered 11.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-12-02'
-      ageDays: 4222
-      ageYears: 11.6
-    detail: Registered 11.6 years ago (2014-12-02).
+      ageDays: 4261
+      ageYears: 11.7
+    detail: Registered 11.7 years ago (2014-12-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fitbar.ee looks like a well-established store. The clearest positives are that its domain has been registered for 11.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fitbar.ee looks like a well-established store. The clearest positives are that its domain has been registered for 11.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fitbar in the score above.
 

@@ -4,8 +4,8 @@ slug: paolalenti-it
 title: Is paolalenti.it Legit? Trust Score 76/100
 description: >-
   paolalenti.it scores 76/100 on our public trust checks. Established domain —
-  registered 23 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:19:53.400Z'
+  registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:09:45.654Z'
 finalUrl: 'https://www.paolalenti.it/it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23 years ago.
+    - Established domain — registered 23.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-27'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-06-26'
-      ageDays: 8399
-      ageYears: 23
-    detail: Registered 23 years ago (2003-06-26).
+      ageDays: 8439
+      ageYears: 23.1
+    detail: Registered 23.1 years ago (2003-06-26).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-paolalenti.it looks like a well-established store. The clearest positives are that its domain has been registered for 23 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+paolalenti.it looks like a well-established store. The clearest positives are that its domain has been registered for 23.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Paolalenti in the score above.
 

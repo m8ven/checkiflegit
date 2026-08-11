@@ -5,7 +5,7 @@ title: Is tiendacopec.cl Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   tiendacopec.cl scores 61/100 on our public trust checks. No links to major
   social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-24T21:46:21.783Z'
+fetchedAt: '2026-07-27T08:06:31.210Z'
 finalUrl: 'https://www.tiendacopec.cl/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

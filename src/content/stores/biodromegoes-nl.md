@@ -5,7 +5,7 @@ title: Is biodromegoes.nl Legit? Trust Score 37/100
 description: >-
   biodromegoes.nl scores 37/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:13:59.030Z'
+fetchedAt: '2026-08-10T06:22:30.135Z'
 finalUrl: 'https://www.biodromegoes.nl/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: 'TrustAsia Technologies, Inc.'
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 48
       authorized: true
     detail: 'Valid certificate issued by TrustAsia Technologies, Inc..'
   domainAge:
     status: warn
     value:
       createdAt: '2026-01-30'
-      ageDays: 146
-      ageYears: 0.4
-    detail: Registered 0.4 years ago (2026-01-30).
+      ageDays: 192
+      ageYears: 0.5
+    detail: Registered 0.5 years ago (2026-01-30).
   contact:
     status: fail
     value:

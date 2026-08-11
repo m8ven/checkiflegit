@@ -4,8 +4,8 @@ slug: damevision-com
 title: Is damevision.com Legit? Trust Score 82/100
 description: >-
   damevision.com scores 82/100 on our public trust checks. Established domain —
-  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:24.934Z'
+  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:53.227Z'
 finalUrl: 'https://damevision.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.2 years ago.
+    - Established domain — registered 7.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 57
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-04-09'
-      ageDays: 2633
-      ageYears: 7.2
-    detail: Registered 7.2 years ago (2019-04-09).
+      ageDays: 2665
+      ageYears: 7.3
+    detail: Registered 7.3 years ago (2019-04-09).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-damevision.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+damevision.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Damevision in the score above.
 

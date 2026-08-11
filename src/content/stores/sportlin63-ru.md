@@ -5,7 +5,7 @@ title: Is sportlin63.ru Legit? Trust Score 82/100
 description: >-
   sportlin63.ru scores 82/100 on our public trust checks. Established domain —
   registered 6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:46:02.461Z'
+fetchedAt: '2026-07-27T08:32:24.040Z'
 finalUrl: 'https://sportlin63.ru/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-07-13'
-      ageDays: 2172
+      ageDays: 2205
       ageYears: 6
     detail: Registered 6 years ago (2020-07-13).
   contact:

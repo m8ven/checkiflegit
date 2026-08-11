@@ -4,8 +4,8 @@ slug: idroterapia-it
 title: Is idroterapia.it Legit? Trust Score 88/100
 description: >-
   idroterapia.it scores 88/100 on our public trust checks. Established domain —
-  registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:49:01.925Z'
+  registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:33:39.104Z'
 finalUrl: 'https://idroterapia.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.2 years ago.
+    - Established domain — registered 26.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-04-14'
-      ageDays: 9567
-      ageYears: 26.2
-    detail: Registered 26.2 years ago (2000-04-14).
+      ageDays: 9607
+      ageYears: 26.3
+    detail: Registered 26.3 years ago (2000-04-14).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-idroterapia.it looks like a well-established store. The clearest positives are that its domain has been registered for 26.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+idroterapia.it looks like a well-established store. The clearest positives are that its domain has been registered for 26.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Idroterapia in the score above.
 

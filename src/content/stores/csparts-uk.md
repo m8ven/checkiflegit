@@ -4,8 +4,8 @@ slug: csparts-uk
 title: Is csparts.uk Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   csparts.uk scores 100/100 on our public trust checks. Established domain —
-  registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:16:28.700Z'
+  registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:24:38.011Z'
 finalUrl: 'https://www.csparts.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.5 years ago.
+    - Established domain — registered 8.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: PerfectSSL
       validTo: '2026-10-23'
-      daysToExpiry: 121
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by PerfectSSL.
   domainAge:
     status: pass
     value:
       createdAt: '2017-12-14'
-      ageDays: 3115
-      ageYears: 8.5
-    detail: Registered 8.5 years ago (2017-12-14).
+      ageDays: 3161
+      ageYears: 8.7
+    detail: Registered 8.7 years ago (2017-12-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-csparts.uk looks like a well-established store. The clearest positives are that its domain has been registered for 8.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+csparts.uk looks like a well-established store. The clearest positives are that its domain has been registered for 8.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Csparts in the score above.
 

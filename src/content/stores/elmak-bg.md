@@ -5,7 +5,7 @@ title: Is elmak.bg Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   elmak.bg scores 91/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T02:18:48.546Z'
+fetchedAt: '2026-07-27T08:09:57.356Z'
 finalUrl: 'https://elmak.bg/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: false
       terms: true
       refund: true
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-27'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

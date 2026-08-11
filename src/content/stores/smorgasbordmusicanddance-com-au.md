@@ -5,7 +5,7 @@ title: Is smorgasbordmusicanddance.com.au Legit? Score 100/100
 description: >-
   smorgasbordmusicanddance.com.au scores 100/100 on our public trust checks.
   Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:45.441Z'
+fetchedAt: '2026-08-10T06:13:57.026Z'
 finalUrl: 'https://smorgasbordmusicanddance.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-23'
-      daysToExpiry: 90
+      validTo: '2026-09-30'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

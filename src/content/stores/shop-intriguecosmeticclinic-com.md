@@ -5,7 +5,7 @@ title: Is shop.intriguecosmeticclinic.com Legit? Score 100/100
 description: >-
   shop.intriguecosmeticclinic.com scores 100/100 on our public trust checks.
   Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:56:24.129Z'
+fetchedAt: '2026-08-10T06:06:18.771Z'
 finalUrl: 'https://shop.intriguecosmeticclinic.com/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-25'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

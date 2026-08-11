@@ -1,25 +1,23 @@
 ---
 domain: agropit.ru
 slug: agropit-ru
-title: Is agropit.ru Legit? Trust Score 73/100 — Trust Checks Pass
+title: Is agropit.ru Legit? Trust Score 46/100 — Mixed Signals
 description: >-
-  agropit.ru scores 73/100 on our public trust checks. Established domain —
-  registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:36.960Z'
+  agropit.ru scores 46/100 on our public trust checks. No links to major social
+  platforms found. Some standard policy or contact pages appear to be missing.
+fetchedAt: '2026-07-27T08:09:38.032Z'
 finalUrl: 'https://agropit.ru/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 46
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.1 years ago.
-    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
@@ -53,20 +51,13 @@ signals:
       shipping: false
     detail: Found 1 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 51
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2012-05-14'
-      ageDays: 5154
-      ageYears: 14.1
-    detail: Registered 14.1 years ago (2012-05-14).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -95,7 +86,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-agropit.ru looks like a well-established store. The clearest positives are that its domain has been registered for 14.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+agropit.ru sends a mixed set of signals. On the positive side, it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Agropit in the score above.
 

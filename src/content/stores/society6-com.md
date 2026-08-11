@@ -4,8 +4,8 @@ slug: society6-com
 title: Is society6.com Legit? Trust Score 100/100
 description: >-
   society6.com scores 100/100 on our public trust checks. Established domain —
-  registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:50.158Z'
+  registered 18.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:20.838Z'
 finalUrl: 'https://society6.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 18.4 years ago.
+    - Established domain — registered 18.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 69
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-01-19'
-      ageDays: 6731
-      ageYears: 18.4
-    detail: Registered 18.4 years ago (2008-01-19).
+      ageDays: 6763
+      ageYears: 18.5
+    detail: Registered 18.5 years ago (2008-01-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-society6.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+society6.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Society6 in the score above.
 

@@ -3,9 +3,9 @@ domain: icerti.es
 slug: icerti-es
 title: Is icerti.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  icerti.es scores 100/100 on our public trust checks. Has a contact page and
-  multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T11:58:37.717Z'
+  icerti.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-10T06:09:55.979Z'
 finalUrl: 'https://icerti.es/'
 reachable: true
 noindex: false
@@ -18,6 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -51,9 +52,13 @@ signals:
       shipping: false
     detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-09-23'
+      daysToExpiry: 44
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null
@@ -63,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

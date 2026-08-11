@@ -5,7 +5,7 @@ title: Is w3b.au Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   w3b.au scores 61/100 on our public trust checks. No links to major social
   platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:09:27.175Z'
+fetchedAt: '2026-08-10T06:18:51.205Z'
 finalUrl: 'https://w3b.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-09-30'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

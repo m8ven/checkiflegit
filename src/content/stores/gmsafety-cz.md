@@ -5,7 +5,7 @@ title: Is gmsafety.cz Legit? Trust Score 36/100
 description: >-
   gmsafety.cz scores 36/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:19:46.591Z'
+fetchedAt: '2026-08-10T06:27:12.588Z'
 finalUrl: 'https://www.gmsafety.cz/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

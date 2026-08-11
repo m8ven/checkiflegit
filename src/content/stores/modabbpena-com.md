@@ -5,7 +5,7 @@ title: Is modabbpena.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   modabbpena.com scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:37:07.932Z'
+fetchedAt: '2026-07-27T08:24:38.030Z'
 finalUrl: 'https://modabbpena.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.2 years ago.
+    - Established domain — registered 9.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-04-08'
-      ageDays: 3364
-      ageYears: 9.2
-    detail: Registered 9.2 years ago (2017-04-08).
+      ageDays: 3396
+      ageYears: 9.3
+    detail: Registered 9.3 years ago (2017-04-08).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-modabbpena.com sends a mixed set of signals. On the positive side, its domain has been registered for 9.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+modabbpena.com sends a mixed set of signals. On the positive side, its domain has been registered for 9.3 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Modabbpena in the score above.
 

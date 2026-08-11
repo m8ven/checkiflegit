@@ -4,8 +4,8 @@ slug: bouxavenue-com
 title: Is bouxavenue.com Legit? Trust Score 100/100
 description: >-
   bouxavenue.com scores 100/100 on our public trust checks. Established domain —
-  registered 15.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:02.960Z'
+  registered 16 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:11.079Z'
 finalUrl: 'https://www.bouxavenue.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 15.9 years ago.
+    - Established domain — registered 16 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-04'
-      daysToExpiry: 72
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-08-09'
-      ageDays: 5798
-      ageYears: 15.9
-    detail: Registered 15.9 years ago (2010-08-09).
+      ageDays: 5830
+      ageYears: 16
+    detail: Registered 16 years ago (2010-08-09).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bouxavenue.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bouxavenue.com looks like a well-established store. The clearest positives are that its domain has been registered for 16 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bouxavenue in the score above.
 

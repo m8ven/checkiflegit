@@ -5,7 +5,7 @@ title: Is lomancreativeservices.com Legit? Trust Score 64/100
 description: >-
   lomancreativeservices.com scores 64/100 on our public trust checks. No public
   contact details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T02:47:44.918Z'
+fetchedAt: '2026-07-27T08:34:07.921Z'
 finalUrl: 'https://lomancreativeservices.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.9 years ago.
+    - Established domain — registered 14 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2012-07-28'
-      ageDays: 5079
-      ageYears: 13.9
-    detail: Registered 13.9 years ago (2012-07-28).
+      ageDays: 5112
+      ageYears: 14
+    detail: Registered 14 years ago (2012-07-28).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lomancreativeservices.com sends a mixed set of signals. On the positive side, its domain has been registered for 13.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+lomancreativeservices.com sends a mixed set of signals. On the positive side, its domain has been registered for 14 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lomancreativeservices in the score above.
 

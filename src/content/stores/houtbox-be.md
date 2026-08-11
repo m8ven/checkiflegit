@@ -4,8 +4,8 @@ slug: houtbox-be
 title: Is houtbox.be Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   houtbox.be scores 82/100 on our public trust checks. Established domain —
-  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:48:35.070Z'
+  registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:33:20.054Z'
 finalUrl: 'https://houtbox.be/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.4 years ago.
+    - Established domain — registered 12.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-02-05'
-      ageDays: 4522
-      ageYears: 12.4
-    detail: Registered 12.4 years ago (2014-02-05).
+      ageDays: 4562
+      ageYears: 12.5
+    detail: Registered 12.5 years ago (2014-02-05).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-houtbox.be looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+houtbox.be looks like a well-established store. The clearest positives are that its domain has been registered for 12.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Houtbox in the score above.
 

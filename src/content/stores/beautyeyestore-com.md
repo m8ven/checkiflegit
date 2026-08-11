@@ -4,8 +4,8 @@ slug: beautyeyestore-com
 title: Is beautyeyestore.com Legit? Trust Score 76/100
 description: >-
   beautyeyestore.com scores 76/100 on our public trust checks. Established
-  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:23:00.938Z'
+  domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:29:54.847Z'
 finalUrl: 'https://www.beautyeyestore.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-14'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-08'
-      ageDays: 1750
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-09-08).
+      ageDays: 1796
+      ageYears: 4.9
+    detail: Registered 4.9 years ago (2021-09-08).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-beautyeyestore.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+beautyeyestore.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Beautyeyestore in the score above.
 

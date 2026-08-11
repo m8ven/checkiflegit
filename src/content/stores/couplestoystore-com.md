@@ -4,8 +4,8 @@ slug: couplestoystore-com
 title: Is couplestoystore.com Legit? Trust Score 88/100
 description: >-
   couplestoystore.com scores 88/100 on our public trust checks. Established
-  domain — registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:20:10.032Z'
+  domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:10:08.684Z'
 finalUrl: 'https://couplestoystore.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.6 years ago.
+    - Established domain — registered 8.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-09-30'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-11-03'
-      ageDays: 3156
-      ageYears: 8.6
-    detail: Registered 8.6 years ago (2017-11-03).
+      ageDays: 3195
+      ageYears: 8.8
+    detail: Registered 8.8 years ago (2017-11-03).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-couplestoystore.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+couplestoystore.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Couplestoystore in the score above.
 

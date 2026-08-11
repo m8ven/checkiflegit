@@ -4,8 +4,8 @@ slug: simrantools-com
 title: Is simrantools.com Legit? Trust Score 88/100
 description: >-
   simrantools.com scores 88/100 on our public trust checks. Established domain —
-  registered 22.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:10:52.907Z'
+  registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:19:47.584Z'
 finalUrl: 'https://simrantools.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.7 years ago.
+    - Established domain — registered 22.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-15'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-10-09'
-      ageDays: 8294
-      ageYears: 22.7
-    detail: Registered 22.7 years ago (2003-10-09).
+      ageDays: 8340
+      ageYears: 22.8
+    detail: Registered 22.8 years ago (2003-10-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-simrantools.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+simrantools.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Simrantools in the score above.
 

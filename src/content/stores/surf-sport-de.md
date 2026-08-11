@@ -5,7 +5,7 @@ title: Is surf-sport.de Legit? Trust Score 91/100
 description: >-
   surf-sport.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:22:32.177Z'
+fetchedAt: '2026-08-03T08:12:07.006Z'
 finalUrl: 'https://www.surf-sport.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-25'
-      daysToExpiry: 154
+      daysToExpiry: 115
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

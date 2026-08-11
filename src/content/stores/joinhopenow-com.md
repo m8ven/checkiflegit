@@ -1,85 +1,89 @@
 ---
 domain: joinhopenow.com
 slug: joinhopenow-com
-title: Is joinhopenow.com Legit? Trust Score 70/100
+title: Is joinhopenow.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  joinhopenow.com scores 70/100 on our public trust checks. Established domain —
-  registered 6.2 years ago. Maintains links to multiple social media platforms.
-fetchedAt: '2026-06-25T03:00:59.726Z'
-finalUrl: 'https://www.joinhopenow.com/'
+  joinhopenow.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:07:20.080Z'
+finalUrl: 'https://joinhopenow.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.2 years ago.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+    - Established domain — registered 6.3 years ago.
+    - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.joinhopenow.com/'
+      finalUrl: 'https://joinhopenow.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-09-17'
+      daysToExpiry: 45
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-03-29'
-      ageDays: 2278
-      ageYears: 6.2
-    detail: Registered 6.2 years ago (2020-03-29).
+      ageDays: 2317
+      ageYears: 6.3
+    detail: Registered 6.3 years ago (2020-03-29).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
-      youtube: true
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -90,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-joinhopenow.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it runs on WooCommerce, an established e-commerce platform. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+joinhopenow.com sends a mixed set of signals. On the positive side, its domain has been registered for 6.3 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Joinhopenow in the score above.
 

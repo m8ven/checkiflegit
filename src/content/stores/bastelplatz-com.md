@@ -5,7 +5,7 @@ title: Is bastelplatz.com Legit? Trust Score 25/100
 description: >-
   bastelplatz.com scores 25/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:22:52.202Z'
+fetchedAt: '2026-08-10T06:29:49.842Z'
 finalUrl: 'https://www.bastelplatz.com/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-05'
-      daysToExpiry: 72
+      validTo: '2026-11-03'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: warn
     value:
       createdAt: '2026-02-09'
-      ageDays: 136
-      ageYears: 0.4
-    detail: Registered 0.4 years ago (2026-02-09).
+      ageDays: 182
+      ageYears: 0.5
+    detail: Registered 0.5 years ago (2026-02-09).
   contact:
     status: fail
     value:

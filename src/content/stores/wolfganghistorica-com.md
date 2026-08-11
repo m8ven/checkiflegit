@@ -1,11 +1,11 @@
 ---
 domain: wolfganghistorica.com
 slug: wolfganghistorica-com
-title: Is wolfganghistorica.com Legit? Trust Score 100/100
+title: Is wolfganghistorica.com Legit? Trust Score 88/100
 description: >-
-  wolfganghistorica.com scores 100/100 on our public trust checks. Established
-  domain — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:21:27.853Z'
+  wolfganghistorica.com scores 88/100 on our public trust checks. Established
+  domain — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:28:43.401Z'
 finalUrl: 'https://wolfganghistorica.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.1 years ago.
+    - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,34 +57,36 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-05-29'
-      ageDays: 2217
-      ageYears: 6.1
-    detail: Registered 6.1 years ago (2020-05-29).
+      ageDays: 2263
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-05-29).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
-      facebook: false
-      instagram: false
+      facebook: true
+      instagram: true
       twitter: true
-      tiktok: false
+      tiktok: true
       youtube: true
       linkedin: false
       pinterest: true
-    detail: 'Links to 3 social platform(s): twitter, youtube, pinterest.'
+    detail: >-
+      Links to 6 social platform(s): facebook, instagram, twitter, tiktok,
+      youtube, pinterest.
   reviews:
     status: unknown
     value:
@@ -95,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-wolfganghistorica.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+wolfganghistorica.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Wolfganghistorica in the score above.
 

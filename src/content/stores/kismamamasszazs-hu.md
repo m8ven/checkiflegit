@@ -5,7 +5,7 @@ title: Is kismamamasszazs.hu Legit? Trust Score 57/100
 description: >-
   kismamamasszazs.hu scores 57/100 on our public trust checks. Standard contact
   and policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:06:45.007Z'
+fetchedAt: '2026-08-10T06:16:25.523Z'
 finalUrl: 'https://kismamamasszazs.hu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

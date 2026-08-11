@@ -5,7 +5,7 @@ title: Is teamsg.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   teamsg.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-24T21:46:49.839Z'
+fetchedAt: '2026-07-27T08:07:18.185Z'
 finalUrl: 'https://shop.teamsg.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

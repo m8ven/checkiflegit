@@ -6,7 +6,7 @@ description: >-
   alexandra-wagner.de scores 57/100 on our public trust checks. No public
   contact details detected on the homepage. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:23:54.823Z'
+fetchedAt: '2026-07-27T08:13:33.444Z'
 finalUrl: 'https://alexandra-wagner.de/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 30
+      validTo: '2026-09-22'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

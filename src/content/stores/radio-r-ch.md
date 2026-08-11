@@ -5,7 +5,7 @@ title: Is radio-r.ch Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   radio-r.ch scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:32:19.194Z'
+fetchedAt: '2026-08-10T06:37:38.750Z'
 finalUrl: 'https://radio-r.ch/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-11-07'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

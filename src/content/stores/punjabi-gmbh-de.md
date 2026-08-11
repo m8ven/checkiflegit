@@ -5,7 +5,7 @@ title: Is punjabi-gmbh.de Legit? Trust Score 91/100
 description: >-
   punjabi-gmbh.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:04:45.559Z'
+fetchedAt: '2026-08-10T06:14:54.789Z'
 finalUrl: 'https://punjabi-gmbh.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

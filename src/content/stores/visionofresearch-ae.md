@@ -5,7 +5,7 @@ title: Is visionofresearch.ae Legit? Trust Score 100/100
 description: >-
   visionofresearch.ae scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:55:43.474Z'
+fetchedAt: '2026-08-10T06:00:18.520Z'
 finalUrl: 'https://visionofresearch.ae/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 63
+      validTo: '2026-10-26'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

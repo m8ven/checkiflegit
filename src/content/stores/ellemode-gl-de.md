@@ -5,7 +5,7 @@ title: Is ellemode-gl.de Legit? Trust Score 83/100
 description: >-
   ellemode-gl.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:29:52.027Z'
+fetchedAt: '2026-08-10T06:35:38.873Z'
 finalUrl: 'https://www.ellemode-gl.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-05'
-      daysToExpiry: 195
+      daysToExpiry: 149
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -77,10 +77,10 @@ signals:
       instagram: true
       twitter: false
       tiktok: false
-      youtube: true
+      youtube: false
       linkedin: false
       pinterest: true
-    detail: 'Links to 4 social platform(s): facebook, instagram, youtube, pinterest.'
+    detail: 'Links to 3 social platform(s): facebook, instagram, pinterest.'
   reviews:
     status: unknown
     value:

@@ -4,9 +4,9 @@ slug: skintasticaesthetics-com
 title: Is skintasticaesthetics.com Legit? Trust Score 100/100
 description: >-
   skintasticaesthetics.com scores 100/100 on our public trust checks.
-  Established domain — registered 8.1 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:03:27.012Z'
+fetchedAt: '2026-08-10T06:13:40.125Z'
 finalUrl: 'https://skintasticaesthetics.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.1 years ago.
+    - Established domain — registered 8.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -37,7 +37,7 @@ signals:
     status: pass
     value:
       platform: WooCommerce
-      isStore: true
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-25'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-05-12'
-      ageDays: 2966
-      ageYears: 8.1
-    detail: Registered 8.1 years ago (2018-05-12).
+      ageDays: 3011
+      ageYears: 8.2
+    detail: Registered 8.2 years ago (2018-05-12).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-skintasticaesthetics.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+skintasticaesthetics.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Skintasticaesthetics in the score above.
 

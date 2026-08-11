@@ -1,28 +1,28 @@
 ---
 domain: vinfastecoxe.vn
 slug: vinfastecoxe-vn
-title: Is vinfastecoxe.vn Legit? Trust Score 57/100 — Mixed Signals
+title: Is vinfastecoxe.vn Legit? Trust Score 100/100
 description: >-
-  vinfastecoxe.vn scores 57/100 on our public trust checks. Standard contact and
-  policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:09:04.799Z'
+  vinfastecoxe.vn scores 100/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-10T06:18:37.679Z'
 finalUrl: 'https://vinfastecoxe.vn/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 57
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions: []
 signals:
   http:
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
+      contact: true
+      privacy: true
       terms: false
       refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -76,11 +76,11 @@ signals:
       facebook: true
       instagram: false
       twitter: false
-      tiktok: false
+      tiktok: true
       youtube: true
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, youtube.'
+    detail: 'Links to 3 social platform(s): facebook, tiktok, youtube.'
   reviews:
     status: unknown
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-vinfastecoxe.vn sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+vinfastecoxe.vn looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vinfastecoxe in the score above.
 

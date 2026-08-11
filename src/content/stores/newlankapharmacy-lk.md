@@ -5,7 +5,7 @@ title: Is newlankapharmacy.lk Legit? Trust Score 83/100
 description: >-
   newlankapharmacy.lk scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:22:30.021Z'
+fetchedAt: '2026-08-10T06:29:34.773Z'
 finalUrl: 'https://newlankapharmacy.lk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-04'
-      daysToExpiry: 71
+      validTo: '2026-11-01'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

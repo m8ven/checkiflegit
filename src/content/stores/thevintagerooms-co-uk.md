@@ -4,8 +4,8 @@ slug: thevintagerooms-co-uk
 title: Is thevintagerooms.co.uk Legit? Trust Score 100/100
 description: >-
   thevintagerooms.co.uk scores 100/100 on our public trust checks. Established
-  domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:52.989Z'
+  domain — registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:02:31.110Z'
 finalUrl: 'https://thevintagerooms.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.7 years ago.
+    - Established domain — registered 5.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-09-25'
-      ageDays: 2098
-      ageYears: 5.7
-    detail: Registered 5.7 years ago (2020-09-25).
+      ageDays: 2138
+      ageYears: 5.9
+    detail: Registered 5.9 years ago (2020-09-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thevintagerooms.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thevintagerooms.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 5.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thevintagerooms in the score above.
 

@@ -4,8 +4,8 @@ slug: womensecret-com
 title: Is womensecret.com Legit? Trust Score 100/100
 description: >-
   womensecret.com scores 100/100 on our public trust checks. Established domain
-  — registered 26.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:50.832Z'
+  — registered 26.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:22.781Z'
 finalUrl: 'https://womensecret.com/es/es'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 26.8 years ago.
+    - Established domain — registered 26.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-20'
-      daysToExpiry: 150
+      daysToExpiry: 117
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '1999-09-24'
-      ageDays: 9770
-      ageYears: 26.8
-    detail: Registered 26.8 years ago (1999-09-24).
+      ageDays: 9802
+      ageYears: 26.9
+    detail: Registered 26.9 years ago (1999-09-24).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-womensecret.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+womensecret.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Womensecret in the score above.
 

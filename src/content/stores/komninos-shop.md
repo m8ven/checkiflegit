@@ -5,7 +5,7 @@ title: Is komninos.shop Legit? Trust Score 74/100
 description: >-
   komninos.shop scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:32:50.298Z'
+fetchedAt: '2026-07-27T08:21:11.208Z'
 finalUrl: 'https://komninos.shop/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

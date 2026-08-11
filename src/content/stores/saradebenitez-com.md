@@ -4,8 +4,8 @@ slug: saradebenitez-com
 title: Is saradebenitez.com Legit? Trust Score 70/100
 description: >-
   saradebenitez.com scores 70/100 on our public trust checks. Established domain
-  — registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:53.248Z'
+  — registered 19.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:59.192Z'
 finalUrl: 'https://saradebenitez.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.6 years ago.
+    - Established domain — registered 19.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-11-23'
-      ageDays: 7154
-      ageYears: 19.6
-    detail: Registered 19.6 years ago (2006-11-23).
+      ageDays: 7199
+      ageYears: 19.7
+    detail: Registered 19.7 years ago (2006-11-23).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-saradebenitez.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+saradebenitez.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Saradebenitez in the score above.
 

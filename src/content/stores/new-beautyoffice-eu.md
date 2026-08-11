@@ -5,7 +5,7 @@ title: Is new.beautyoffice.eu Legit? Trust Score 61/100
 description: >-
   new.beautyoffice.eu scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T03:54:47.098Z'
+fetchedAt: '2026-08-10T06:04:55.748Z'
 finalUrl: 'https://new.beautyoffice.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,11 +1,11 @@
 ---
 domain: lwljewelry.com
 slug: lwljewelry-com
-title: Is lwljewelry.com Legit? Trust Score 88/100
+title: Is lwljewelry.com Legit? Trust Score 100/100
 description: >-
-  lwljewelry.com scores 88/100 on our public trust checks. Established domain —
-  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:13:33.403Z'
+  lwljewelry.com scores 100/100 on our public trust checks. Established domain —
+  registered 10 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:22:03.610Z'
 finalUrl: 'https://lwljewelry.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 9.9 years ago.
+    - Established domain — registered 10 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 59
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-07-25'
-      ageDays: 3621
-      ageYears: 9.9
-    detail: Registered 9.9 years ago (2016-07-25).
+      ageDays: 3667
+      ageYears: 10
+    detail: Registered 10 years ago (2016-07-25).
   contact:
-    status: warn
+    status: pass
     value:
       email: true
       phone: false
-      address: false
-    detail: 'Public contact details found: email.'
+      address: true
+    detail: 'Public contact details found: email, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lwljewelry.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lwljewelry.com looks like a well-established store. The clearest positives are that its domain has been registered for 10 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lwljewelry in the score above.
 

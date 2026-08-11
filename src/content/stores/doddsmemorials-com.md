@@ -1,30 +1,30 @@
 ---
 domain: doddsmemorials.com
 slug: doddsmemorials-com
-title: Is doddsmemorials.com Legit? Trust Score 88/100
+title: Is doddsmemorials.com Legit? Trust Score 58/100
 description: >-
-  doddsmemorials.com scores 88/100 on our public trust checks. Established
-  domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:25:41.042Z'
+  doddsmemorials.com scores 58/100 on our public trust checks. Standard contact
+  and policy pages were not found. Only limited contact details were found.
+fetchedAt: '2026-08-03T08:14:14.428Z'
 finalUrl: 'https://doddsmemorials.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 88
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.8 years ago.
+    - Established domain — registered 9 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - Standard contact and policy pages were not found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-08-21'
-      ageDays: 3229
-      ageYears: 8.8
-    detail: Registered 8.8 years ago (2017-08-21).
+      ageDays: 3268
+      ageYears: 9
+    detail: Registered 9 years ago (2017-08-21).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      address: false
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-doddsmemorials.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+doddsmemorials.com sends a mixed set of signals. On the positive side, its domain has been registered for 9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Doddsmemorials in the score above.
 

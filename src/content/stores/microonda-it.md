@@ -4,8 +4,8 @@ slug: microonda-it
 title: Is microonda.it Legit? Trust Score 100/100
 description: >-
   microonda.it scores 100/100 on our public trust checks. Established domain —
-  registered 19.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:54:24.386Z'
+  registered 19.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:04:37.022Z'
 finalUrl: 'https://microonda.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.2 years ago.
+    - Established domain — registered 19.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-04-24'
-      ageDays: 7001
-      ageYears: 19.2
-    detail: Registered 19.2 years ago (2007-04-24).
+      ageDays: 7047
+      ageYears: 19.3
+    detail: Registered 19.3 years ago (2007-04-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-microonda.it looks like a well-established store. The clearest positives are that its domain has been registered for 19.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+microonda.it looks like a well-established store. The clearest positives are that its domain has been registered for 19.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Microonda in the score above.
 

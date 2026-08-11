@@ -5,7 +5,7 @@ title: Is contextospedagogicos.com.ar Legit? Trust Score 83/100
 description: >-
   contextospedagogicos.com.ar scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:39:04.485Z'
+fetchedAt: '2026-08-10T06:02:38.242Z'
 finalUrl: 'https://contextospedagogicos.com.ar/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 84
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

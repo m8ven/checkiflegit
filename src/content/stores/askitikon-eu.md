@@ -5,7 +5,7 @@ title: Is askitikon.eu Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   askitikon.eu scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:12:43.250Z'
+fetchedAt: '2026-08-10T06:21:18.914Z'
 finalUrl: 'https://www.askitikon.eu/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: false
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-30'
-      daysToExpiry: 66
+      validTo: '2026-10-28'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

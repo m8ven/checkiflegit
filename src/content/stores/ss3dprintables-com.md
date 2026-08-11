@@ -5,7 +5,7 @@ title: Is ss3dprintables.com Legit? Trust Score 61/100
 description: >-
   ss3dprintables.com scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T12:04:19.055Z'
+fetchedAt: '2026-08-10T06:14:38.140Z'
 finalUrl: 'https://ss3dprintables.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.5 years ago.
+    - Established domain — registered 1.7 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-12-13'
-      ageDays: 558
-      ageYears: 1.5
-    detail: Registered 1.5 years ago (2024-12-13).
+      ageDays: 604
+      ageYears: 1.7
+    detail: Registered 1.7 years ago (2024-12-13).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ss3dprintables.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+ss3dprintables.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ss3dprintables in the score above.
 

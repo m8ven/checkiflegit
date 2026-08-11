@@ -4,8 +4,8 @@ slug: deltika-ru
 title: Is deltika.ru Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
   deltika.ru scores 85/100 on our public trust checks. Established domain —
-  registered 13.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:23:04.676Z'
+  registered 13.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:12:33.512Z'
 finalUrl: 'https://deltika.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.2 years ago.
+    - Established domain — registered 13.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 71
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-04-16'
-      ageDays: 4817
-      ageYears: 13.2
-    detail: Registered 13.2 years ago (2013-04-16).
+      ageDays: 4856
+      ageYears: 13.3
+    detail: Registered 13.3 years ago (2013-04-16).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-deltika.ru looks like a well-established store. The clearest positives are that its domain has been registered for 13.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+deltika.ru looks like a well-established store. The clearest positives are that its domain has been registered for 13.3 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Deltika in the score above.
 

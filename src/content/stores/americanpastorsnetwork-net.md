@@ -4,9 +4,9 @@ slug: americanpastorsnetwork-net
 title: Is americanpastorsnetwork.net Legit? Trust Score 88/100
 description: >-
   americanpastorsnetwork.net scores 88/100 on our public trust checks.
-  Established domain — registered 13.5 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 13.6 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:19:01.147Z'
+fetchedAt: '2026-07-27T08:10:21.130Z'
 finalUrl: 'https://americanpastorsnetwork.net/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.5 years ago.
+    - Established domain — registered 13.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-24'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2012-12-13'
-      ageDays: 4941
-      ageYears: 13.5
-    detail: Registered 13.5 years ago (2012-12-13).
+      ageDays: 4973
+      ageYears: 13.6
+    detail: Registered 13.6 years ago (2012-12-13).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-americanpastorsnetwork.net looks like a well-established store. The clearest positives are that its domain has been registered for 13.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+americanpastorsnetwork.net looks like a well-established store. The clearest positives are that its domain has been registered for 13.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Americanpastorsnetwork in the score above.
 

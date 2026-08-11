@@ -5,7 +5,7 @@ title: Is am-printing.com Legit? Trust Score 73/100
 description: >-
   am-printing.com scores 73/100 on our public trust checks. Established domain —
   registered 3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:42:38.757Z'
+fetchedAt: '2026-07-27T08:29:00.609Z'
 finalUrl: 'https://am-printing.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-10'
-      ageDays: 1080
+      ageDays: 1113
       ageYears: 3
     detail: Registered 3 years ago (2023-07-10).
   contact:

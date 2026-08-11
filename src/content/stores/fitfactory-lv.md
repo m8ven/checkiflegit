@@ -6,7 +6,7 @@ description: >-
   fitfactory.lv scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T12:30:56.316Z'
+fetchedAt: '2026-08-10T06:36:22.022Z'
 finalUrl: 'https://www.fitfactory.lv/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-28'
-      daysToExpiry: 33
+      validTo: '2026-09-25'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

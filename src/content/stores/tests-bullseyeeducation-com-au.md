@@ -1,12 +1,12 @@
 ---
 domain: tests.bullseyeeducation.com.au
 slug: tests-bullseyeeducation-com-au
-title: Is tests.bullseyeeducation.com.au Legit? Trust Score 46/100
+title: Is tests.bullseyeeducation.com.au Legit? Trust Score 61/100
 description: >-
-  tests.bullseyeeducation.com.au scores 46/100 on our public trust checks. No
+  tests.bullseyeeducation.com.au scores 61/100 on our public trust checks. No
   links to major social platforms found. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T12:05:07.513Z'
+fetchedAt: '2026-08-10T06:15:12.501Z'
 finalUrl: 'https://tests.bullseyeeducation.com.au/'
 reachable: true
 noindex: false
@@ -16,9 +16,10 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 46
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No links to major social platforms found.
@@ -49,12 +50,16 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-09-23'
+      daysToExpiry: 45
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null
@@ -87,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tests.bullseyeeducation.com.au sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+tests.bullseyeeducation.com.au sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tests in the score above.
 

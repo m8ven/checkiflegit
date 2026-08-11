@@ -4,8 +4,8 @@ slug: un-peignoir-com
 title: Is un-peignoir.com Legit? Trust Score 73/100
 description: >-
   un-peignoir.com scores 73/100 on our public trust checks. Established domain —
-  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:17:18.495Z'
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:25:18.414Z'
 finalUrl: 'https://un-peignoir.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.8 years ago.
+    - Established domain — registered 2.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-23'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-09-01'
-      ageDays: 1028
-      ageYears: 2.8
-    detail: Registered 2.8 years ago (2023-09-01).
+      ageDays: 1074
+      ageYears: 2.9
+    detail: Registered 2.9 years ago (2023-09-01).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-un-peignoir.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+un-peignoir.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Un-peignoir in the score above.
 

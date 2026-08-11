@@ -1,31 +1,29 @@
 ---
 domain: communityrisingamerica.org
 slug: communityrisingamerica-org
-title: Is communityrisingamerica.org Legit? Trust Score 73/100
+title: Is communityrisingamerica.org Legit? Trust Score 57/100
 description: >-
-  communityrisingamerica.org scores 73/100 on our public trust checks.
-  Established domain — registered 3.4 years ago. Valid HTTPS/SSL certificate in
-  place.
-fetchedAt: '2026-06-25T03:39:44.034Z'
+  communityrisingamerica.org scores 57/100 on our public trust checks. Some
+  standard policy or contact pages appear to be missing.
+fetchedAt: '2026-08-03T08:25:16.932Z'
 finalUrl: 'https://communityrisingamerica.org/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 57
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.4 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-  redFlags:
-    - No links to major social platforms found.
+  redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -58,34 +56,31 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-28'
-      daysToExpiry: 249
+      daysToExpiry: 210
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2023-01-22'
-      ageDays: 1249
-      ageYears: 3.4
-    detail: Registered 3.4 years ago (2023-01-22).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
-    status: fail
+    status: warn
     value:
       facebook: false
-      instagram: false
+      instagram: true
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 1 social platform(s): instagram.'
   reviews:
     status: unknown
     value:
@@ -96,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-communityrisingamerica.org looks like a well-established store. The clearest positives are that its domain has been registered for 3.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+communityrisingamerica.org sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Communityrisingamerica in the score above.
 

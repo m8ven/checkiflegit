@@ -5,7 +5,7 @@ title: Is books.quares.es Legit? Trust Score 100/100
 description: >-
   books.quares.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:56:05.674Z'
+fetchedAt: '2026-08-10T06:00:19.971Z'
 finalUrl: 'https://books.quares.es/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      issuer: Google Trust Services
+      validTo: '2026-10-15'
+      daysToExpiry: 67
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null

@@ -5,7 +5,7 @@ title: Is wearfigs.com Legit? Trust Score 88/100
 description: >-
   wearfigs.com scores 88/100 on our public trust checks. Established domain —
   registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:19.340Z'
+fetchedAt: '2026-07-27T08:05:45.181Z'
 finalUrl: 'https://www.wearfigs.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Amazon
-      validTo: '2026-09-09'
-      daysToExpiry: 78
+      validTo: '2027-01-25'
+      daysToExpiry: 183
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
     status: pass
     value:
       createdAt: '2009-12-06'
-      ageDays: 6043
+      ageDays: 6076
       ageYears: 16.6
     detail: Registered 16.6 years ago (2009-12-06).
   contact:

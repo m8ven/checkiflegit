@@ -5,7 +5,7 @@ title: Is squadian.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   squadian.in scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:12:09.253Z'
+fetchedAt: '2026-08-10T06:20:48.854Z'
 finalUrl: 'https://squadian.in/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      issuer: Google Trust Services
+      validTo: '2026-10-10'
+      daysToExpiry: 62
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null

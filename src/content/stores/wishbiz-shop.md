@@ -5,7 +5,7 @@ title: Is wishbiz.shop Legit? Trust Score 91/100
 description: >-
   wishbiz.shop scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:50:54.951Z'
+fetchedAt: '2026-07-27T08:36:35.419Z'
 finalUrl: 'https://wishbiz.shop/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-26'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

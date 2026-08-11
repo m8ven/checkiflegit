@@ -4,8 +4,8 @@ slug: actionproducts-com
 title: Is actionproducts.com Legit? Trust Score 100/100
 description: >-
   actionproducts.com scores 100/100 on our public trust checks. Established
-  domain — registered 30 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:51:37.553Z'
+  domain — registered 30.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:37:26.192Z'
 finalUrl: 'https://www.actionproducts.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 30 years ago.
+    - Established domain — registered 30.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 63
+      validTo: '2026-10-25'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-06-25'
-      ageDays: 10956
-      ageYears: 30
-    detail: Registered 30 years ago (1996-06-25).
+      ageDays: 10989
+      ageYears: 30.1
+    detail: Registered 30.1 years ago (1996-06-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-actionproducts.com looks like a well-established store. The clearest positives are that its domain has been registered for 30 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+actionproducts.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Actionproducts in the score above.
 

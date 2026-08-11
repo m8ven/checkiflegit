@@ -5,7 +5,7 @@ title: Is rebelsport.com.au Legit? Trust Score 83/100
 description: >-
   rebelsport.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-24T21:46:05.839Z'
+fetchedAt: '2026-07-27T08:06:15.170Z'
 finalUrl: 'https://www.rebelsport.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-09-28'
-      daysToExpiry: 97
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

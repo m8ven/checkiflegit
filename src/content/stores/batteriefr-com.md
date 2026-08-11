@@ -4,8 +4,8 @@ slug: batteriefr-com
 title: Is batteriefr.com Legit? Trust Score 94/100
 description: >-
   batteriefr.com scores 94/100 on our public trust checks. Established domain —
-  registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:01:56.115Z'
+  registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:07:50.801Z'
 finalUrl: 'https://batteriefr.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.4 years ago.
+    - Established domain — registered 8.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -47,26 +47,26 @@ signals:
     status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-01-17'
-      ageDays: 3080
-      ageYears: 8.4
-    detail: Registered 8.4 years ago (2018-01-17).
+      ageDays: 3119
+      ageYears: 8.5
+    detail: Registered 8.5 years ago (2018-01-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-batteriefr.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.4 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+batteriefr.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Batteriefr in the score above.
 

@@ -5,7 +5,7 @@ title: Is miriamlindaweiss.de Legit? Trust Score 100/100
 description: >-
   miriamlindaweiss.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:28:29.306Z'
+fetchedAt: '2026-08-10T06:34:33.669Z'
 finalUrl: 'https://www.miriamlindaweiss.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-06'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

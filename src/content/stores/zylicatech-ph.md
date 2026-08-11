@@ -6,7 +6,7 @@ description: >-
   zylicatech.ph scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:26:14.421Z'
+fetchedAt: '2026-08-03T08:14:58.909Z'
 finalUrl: 'https://zylicatech.ph/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

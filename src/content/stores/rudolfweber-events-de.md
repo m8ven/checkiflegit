@@ -5,7 +5,7 @@ title: Is rudolfweber-events.de Legit? Trust Score 74/100
 description: >-
   rudolfweber-events.de scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:20.799Z'
+fetchedAt: '2026-08-10T06:10:29.678Z'
 finalUrl: 'https://rudolfweber-events.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-26'
-      daysToExpiry: 185
+      daysToExpiry: 139
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

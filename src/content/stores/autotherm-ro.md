@@ -4,8 +4,8 @@ slug: autotherm-ro
 title: Is autotherm.ro Legit? Trust Score 73/100
 description: >-
   autotherm.ro scores 73/100 on our public trust checks. Established domain —
-  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:35:26.389Z'
+  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:22:07.888Z'
 finalUrl: 'https://autotherm.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.8 years ago.
+    - Established domain — registered 7.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-09-10'
-      ageDays: 2845
-      ageYears: 7.8
-    detail: Registered 7.8 years ago (2018-09-10).
+      ageDays: 2884
+      ageYears: 7.9
+    detail: Registered 7.9 years ago (2018-09-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-autotherm.ro looks like a well-established store. The clearest positives are that its domain has been registered for 7.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+autotherm.ro looks like a well-established store. The clearest positives are that its domain has been registered for 7.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Autotherm in the score above.
 

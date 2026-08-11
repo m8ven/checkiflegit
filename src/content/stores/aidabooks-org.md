@@ -4,8 +4,8 @@ slug: aidabooks-org
 title: Is aidabooks.org Legit? Trust Score 100/100
 description: >-
   aidabooks.org scores 100/100 on our public trust checks. Established domain —
-  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:40.484Z'
+  registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:09:39.299Z'
 finalUrl: 'https://aidabooks.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.2 years ago.
+    - Established domain — registered 14.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-04-03'
-      ageDays: 5195
-      ageYears: 14.2
-    detail: Registered 14.2 years ago (2012-04-03).
+      ageDays: 5227
+      ageYears: 14.3
+    detail: Registered 14.3 years ago (2012-04-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aidabooks.org looks like a well-established store. The clearest positives are that its domain has been registered for 14.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aidabooks.org looks like a well-established store. The clearest positives are that its domain has been registered for 14.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aidabooks in the score above.
 

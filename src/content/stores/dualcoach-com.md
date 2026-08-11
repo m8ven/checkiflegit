@@ -4,8 +4,8 @@ slug: dualcoach-com
 title: Is dualcoach.com Legit? Trust Score 73/100
 description: >-
   dualcoach.com scores 73/100 on our public trust checks. Established domain —
-  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:38.383Z'
+  registered 6.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:21.428Z'
 finalUrl: 'https://www.dualcoach.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.8 years ago.
+    - Established domain — registered 6.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-20'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-09-22'
-      ageDays: 2467
-      ageYears: 6.8
-    detail: Registered 6.8 years ago (2019-09-22).
+      ageDays: 2506
+      ageYears: 6.9
+    detail: Registered 6.9 years ago (2019-09-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dualcoach.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dualcoach.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dualcoach in the score above.
 

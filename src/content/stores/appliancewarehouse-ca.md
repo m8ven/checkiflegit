@@ -1,29 +1,29 @@
 ---
 domain: appliancewarehouse.ca
 slug: appliancewarehouse-ca
-title: Is appliancewarehouse.ca Legit? Trust Score 100/100
+title: Is appliancewarehouse.ca Legit? Trust Score 55/100
 description: >-
-  appliancewarehouse.ca scores 100/100 on our public trust checks. Established
-  domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:33:49.316Z'
+  appliancewarehouse.ca scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
+fetchedAt: '2026-08-03T08:21:05.247Z'
 finalUrl: 'https://appliancewarehouse.ca/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 100
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.3 years ago.
+    - Established domain — registered 14.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions: []
 signals:
   http:
@@ -33,58 +33,58 @@ signals:
       finalUrl: 'https://appliancewarehouse.ca/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
+        hasAddToCart: false
+        hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
+      terms: true
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 49
+      validTo: '2026-10-13'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-02-22'
-      ageDays: 5236
-      ageYears: 14.3
-    detail: Registered 14.3 years ago (2012-02-22).
+      ageDays: 5275
+      ageYears: 14.5
+    detail: Registered 14.5 years ago (2012-02-22).
   contact:
-    status: pass
+    status: fail
     value:
       email: false
-      phone: true
-      address: true
-    detail: 'Public contact details found: phone, address.'
+      phone: false
+      address: false
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-appliancewarehouse.ca looks like a well-established store. The clearest positives are that its domain has been registered for 14.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+appliancewarehouse.ca sends a mixed set of signals. On the positive side, its domain has been registered for 14.5 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Appliancewarehouse in the score above.
 

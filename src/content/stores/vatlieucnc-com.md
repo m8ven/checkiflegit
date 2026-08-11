@@ -1,11 +1,11 @@
 ---
 domain: vatlieucnc.com
 slug: vatlieucnc-com
-title: Is vatlieucnc.com Legit? Trust Score 70/100
+title: Is vatlieucnc.com Legit? Trust Score 100/100
 description: >-
-  vatlieucnc.com scores 70/100 on our public trust checks. Established domain —
-  registered 8.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:08:13.176Z'
+  vatlieucnc.com scores 100/100 on our public trust checks. Established domain —
+  registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:17:45.514Z'
 finalUrl: 'https://vatlieucnc.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.5 years ago.
+    - Established domain — registered 8.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions: []
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
+      contact: true
+      privacy: true
       terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 84
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-01-04'
-      ageDays: 3094
-      ageYears: 8.5
-    detail: Registered 8.5 years ago (2018-01-04).
+      ageDays: 3139
+      ageYears: 8.6
+    detail: Registered 8.6 years ago (2018-01-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-vatlieucnc.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.5 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+vatlieucnc.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vatlieucnc in the score above.
 

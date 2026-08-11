@@ -1,11 +1,11 @@
 ---
 domain: farmacorp.com
 slug: farmacorp-com
-title: Is farmacorp.com Legit? Trust Score 88/100
+title: Is farmacorp.com Legit? Trust Score 70/100
 description: >-
-  farmacorp.com scores 88/100 on our public trust checks. Established domain —
-  registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:45.008Z'
+  farmacorp.com scores 70/100 on our public trust checks. Established domain —
+  registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:13.381Z'
 finalUrl: 'https://farmacorp.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 26.2 years ago.
+    - Established domain — registered 26.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  redFlags:
+    - No public contact details detected on the homepage.
+  cautions: []
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-04-03'
-      ageDays: 9577
-      ageYears: 26.2
-    detail: Registered 26.2 years ago (2000-04-03).
+      ageDays: 9610
+      ageYears: 26.3
+    detail: Registered 26.3 years ago (2000-04-03).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-farmacorp.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+farmacorp.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Farmacorp in the score above.
 

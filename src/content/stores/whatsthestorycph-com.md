@@ -4,8 +4,8 @@ slug: whatsthestorycph-com
 title: Is whatsthestorycph.com Legit? Trust Score 88/100
 description: >-
   whatsthestorycph.com scores 88/100 on our public trust checks. Established
-  domain — registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:50:33.643Z'
+  domain — registered 11 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:36:23.068Z'
 finalUrl: 'https://whatsthestorycph.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.9 years ago.
+    - Established domain — registered 11 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-07-19'
-      ageDays: 3993
-      ageYears: 10.9
-    detail: Registered 10.9 years ago (2015-07-19).
+      ageDays: 4026
+      ageYears: 11
+    detail: Registered 11 years ago (2015-07-19).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-whatsthestorycph.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+whatsthestorycph.com looks like a well-established store. The clearest positives are that its domain has been registered for 11 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Whatsthestorycph in the score above.
 

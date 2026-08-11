@@ -6,7 +6,7 @@ description: >-
   bahazit.co.il scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:35:32.116Z'
+fetchedAt: '2026-08-03T08:22:17.871Z'
 finalUrl: 'https://bahazit.co.il/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

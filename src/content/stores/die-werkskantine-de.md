@@ -1,29 +1,29 @@
 ---
 domain: die-werkskantine.de
 slug: die-werkskantine-de
-title: Is die-werkskantine.de Legit? Trust Score 79/100
+title: Is die-werkskantine.de Legit? Trust Score 61/100
 description: >-
-  die-werkskantine.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T12:20:08.152Z'
+  die-werkskantine.de scores 61/100 on our public trust checks. No links to
+  major social platforms found.
+fetchedAt: '2026-08-10T06:27:28.044Z'
 finalUrl: 'https://www.die-werkskantine.de/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 79
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
       privacy: true
-      terms: true
-      refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      terms: false
+      refund: false
+      shipping: false
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-10'
-      daysToExpiry: 108
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-die-werkskantine.de looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+die-werkskantine.de sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Die-werkskantine in the score above.
 

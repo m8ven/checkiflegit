@@ -1,29 +1,29 @@
 ---
 domain: hifiparts.net
 slug: hifiparts-net
-title: Is hifiparts.net Legit? Trust Score 64/100 — Mixed Signals
+title: Is hifiparts.net Legit? Trust Score 82/100
 description: >-
-  hifiparts.net scores 64/100 on our public trust checks. Standard contact and
-  policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:34:49.782Z'
+  hifiparts.net scores 82/100 on our public trust checks. Established domain —
+  registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:36.639Z'
 finalUrl: 'https://hifiparts.net/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 64
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.1 years ago.
+    - Established domain — registered 10.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
       contact: false
       privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      terms: true
+      refund: true
+      shipping: true
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-05-09'
-      ageDays: 3698
-      ageYears: 10.1
-    detail: Registered 10.1 years ago (2016-05-09).
+      ageDays: 3730
+      ageYears: 10.2
+    detail: Registered 10.2 years ago (2016-05-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hifiparts.net sends a mixed set of signals. On the positive side, its domain has been registered for 10.1 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+hifiparts.net looks like a well-established store. The clearest positives are that its domain has been registered for 10.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hifiparts in the score above.
 

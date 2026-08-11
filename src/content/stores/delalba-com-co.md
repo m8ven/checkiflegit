@@ -5,7 +5,7 @@ title: Is delalba.com.co Legit? Trust Score 100/100
 description: >-
   delalba.com.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:24:29.046Z'
+fetchedAt: '2026-07-27T08:13:56.483Z'
 finalUrl: 'https://delalba.com.co/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 36
+      validTo: '2026-09-29'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is alfatah.pk Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   alfatah.pk scores 100/100 on our public trust checks. Established domain —
   registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:31.149Z'
+fetchedAt: '2026-07-27T08:06:45.780Z'
 finalUrl: 'https://alfatah.pk/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-03-25'
-      ageDays: 5204
+      ageDays: 5237
       ageYears: 14.3
     detail: Registered 14.3 years ago (2012-03-25).
   contact:

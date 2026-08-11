@@ -5,7 +5,7 @@ title: Is pvnorte.com.br Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   pvnorte.com.br scores 57/100 on our public trust checks. Standard contact and
   policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:40:46.713Z'
+fetchedAt: '2026-08-03T08:26:20.864Z'
 finalUrl: 'https://pvnorte.com.br/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

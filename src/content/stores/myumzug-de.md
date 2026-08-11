@@ -5,7 +5,7 @@ title: Is myumzug.de Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   myumzug.de scores 61/100 on our public trust checks. No links to major social
   platforms found. HTTPS certificate present but its trust chain is incomplete.
-fetchedAt: '2026-06-25T03:03:38.888Z'
+fetchedAt: '2026-08-03T08:09:10.360Z'
 finalUrl: 'https://www.myumzug.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-10'
-      daysToExpiry: 200
+      daysToExpiry: 161
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

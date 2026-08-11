@@ -4,8 +4,8 @@ slug: endur-cc
 title: Is endur.cc Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   endur.cc scores 70/100 on our public trust checks. Established domain —
-  registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:37.023Z'
+  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:28:11.494Z'
 finalUrl: 'https://endur.cc/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.7 years ago.
+    - Established domain — registered 2.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2023-10-28'
-      ageDays: 970
-      ageYears: 2.7
-    detail: Registered 2.7 years ago (2023-10-28).
+      ageDays: 1009
+      ageYears: 2.8
+    detail: Registered 2.8 years ago (2023-10-28).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-endur.cc looks like a well-established store. The clearest positives are that its domain has been registered for 2.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+endur.cc looks like a well-established store. The clearest positives are that its domain has been registered for 2.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Endur in the score above.
 

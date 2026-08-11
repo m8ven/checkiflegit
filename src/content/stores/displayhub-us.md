@@ -5,7 +5,7 @@ title: Is displayhub.us Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   displayhub.us scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:40:46.433Z'
+fetchedAt: '2026-08-03T08:26:19.412Z'
 finalUrl: 'https://displayhub.us/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.1 years ago.
+    - Established domain — registered 9.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-05-08'
-      ageDays: 3335
-      ageYears: 9.1
-    detail: Registered 9.1 years ago (2017-05-08).
+      ageDays: 3374
+      ageYears: 9.2
+    detail: Registered 9.2 years ago (2017-05-08).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-displayhub.us sends a mixed set of signals. On the positive side, its domain has been registered for 9.1 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+displayhub.us sends a mixed set of signals. On the positive side, its domain has been registered for 9.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Displayhub in the score above.
 

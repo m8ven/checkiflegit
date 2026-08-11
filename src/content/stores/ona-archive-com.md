@@ -5,7 +5,7 @@ title: Is ona-archive.com Legit? Trust Score 40/100
 description: >-
   ona-archive.com scores 40/100 on our public trust checks. No public contact
   details detected on the homepage. Domain is relatively young.
-fetchedAt: '2026-06-25T02:46:32.466Z'
+fetchedAt: '2026-07-27T08:33:01.533Z'
 finalUrl: 'https://ona-archive.com/'
 reachable: true
 noindex: false
@@ -50,24 +50,24 @@ signals:
       contact: true
       privacy: false
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-09-28'
-      ageDays: 269
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-09-28).
+      ageDays: 301
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-09-28).
   contact:
     status: fail
     value:

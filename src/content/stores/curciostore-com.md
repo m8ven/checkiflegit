@@ -4,8 +4,8 @@ slug: curciostore-com
 title: Is curciostore.com Legit? Trust Score 100/100
 description: >-
   curciostore.com scores 100/100 on our public trust checks. Established domain
-  — registered 15.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:31:46.914Z'
+  — registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:19:39.880Z'
 finalUrl: 'https://curciostore.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.7 years ago.
+    - Established domain — registered 15.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-13'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-10-04'
-      ageDays: 5742
-      ageYears: 15.7
-    detail: Registered 15.7 years ago (2010-10-04).
+      ageDays: 5781
+      ageYears: 15.8
+    detail: Registered 15.8 years ago (2010-10-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-curciostore.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+curciostore.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Curciostore in the score above.
 

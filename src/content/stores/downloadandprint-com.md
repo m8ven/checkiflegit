@@ -6,7 +6,7 @@ description: >-
   downloadandprint.com scores 43/100 on our public trust checks. No public
   contact details detected on the homepage. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T02:56:33.149Z'
+fetchedAt: '2026-08-03T08:04:16.688Z'
 finalUrl: 'https://www.downloadandprint.com/'
 reachable: true
 noindex: false
@@ -20,7 +20,7 @@ verdict:
   score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.5 years ago.
+    - Established domain — registered 17.6 years ago.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No public contact details detected on the homepage.
@@ -59,16 +59,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2027-03-02'
-      daysToExpiry: 251
+      daysToExpiry: 212
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2009-01-09'
-      ageDays: 6375
-      ageYears: 17.5
-    detail: Registered 17.5 years ago (2009-01-09).
+      ageDays: 6415
+      ageYears: 17.6
+    detail: Registered 17.6 years ago (2009-01-09).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for downloadandprint.com. In particular, there are no clear public contact details and its security certificate is not fully trusted. It does have some positives — its domain has been registered for 17.5 years and it publishes the contact and policy pages shoppers expect — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for downloadandprint.com. In particular, there are no clear public contact details and its security certificate is not fully trusted. It does have some positives — its domain has been registered for 17.6 years and it publishes the contact and policy pages shoppers expect — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Downloadandprint in the score above.
 

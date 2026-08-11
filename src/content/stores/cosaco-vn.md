@@ -1,28 +1,28 @@
 ---
 domain: cosaco.vn
 slug: cosaco-vn
-title: Is cosaco.vn Legit? Trust Score 49/100 — Mixed Signals
+title: Is cosaco.vn Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  cosaco.vn scores 49/100 on our public trust checks. Standard contact and
-  policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T03:40:04.469Z'
+  cosaco.vn scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
+fetchedAt: '2026-08-03T08:25:29.791Z'
 finalUrl: 'https://cosaco.vn/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 49
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 74
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-24'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cosaco.vn sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+cosaco.vn looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cosaco in the score above.
 

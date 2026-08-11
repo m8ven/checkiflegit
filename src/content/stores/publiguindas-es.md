@@ -5,7 +5,7 @@ title: Is publiguindas.es Legit? Trust Score 91/100
 description: >-
   publiguindas.es scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:04:44.237Z'
+fetchedAt: '2026-08-10T06:14:53.203Z'
 finalUrl: 'https://publiguindas.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

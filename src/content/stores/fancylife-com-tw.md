@@ -5,7 +5,7 @@ title: Is fancylife.com.tw Legit? Trust Score 74/100
 description: >-
   fancylife.com.tw scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:42:08.129Z'
+fetchedAt: '2026-08-03T08:27:29.724Z'
 finalUrl: 'https://fancylife.com.tw/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

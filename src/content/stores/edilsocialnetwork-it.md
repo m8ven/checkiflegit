@@ -1,11 +1,11 @@
 ---
 domain: edilsocialnetwork.it
 slug: edilsocialnetwork-it
-title: Is edilsocialnetwork.it Legit? Trust Score 88/100
+title: Is edilsocialnetwork.it Legit? Trust Score 100/100
 description: >-
-  edilsocialnetwork.it scores 88/100 on our public trust checks. Established
-  domain — registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:20:58.413Z'
+  edilsocialnetwork.it scores 100/100 on our public trust checks. Established
+  domain — registered 11.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:28:06.991Z'
 finalUrl: 'https://www.edilsocialnetwork.it/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.6 years ago.
+    - Established domain — registered 11.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -49,31 +49,31 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
-      createdAt: '2014-12-02'
-      ageDays: 4223
-      ageYears: 11.6
-    detail: Registered 11.6 years ago (2014-12-02).
+      createdAt: '2014-12-01'
+      ageDays: 4269
+      ageYears: 11.7
+    detail: Registered 11.7 years ago (2014-12-01).
   contact:
-    status: warn
+    status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: 'Public contact details found: email, phone.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-edilsocialnetwork.it looks like a well-established store. The clearest positives are that its domain has been registered for 11.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+edilsocialnetwork.it looks like a well-established store. The clearest positives are that its domain has been registered for 11.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Edilsocialnetwork in the score above.
 

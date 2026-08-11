@@ -5,7 +5,7 @@ title: Is cnsiwoc.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   cnsiwoc.com scores 70/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:15:54.702Z'
+fetchedAt: '2026-08-10T06:24:07.624Z'
 finalUrl: 'https://www.cnsiwoc.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-22'
-      ageDays: 246
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-10-22).
+      ageDays: 292
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-10-22).
   contact:
     status: pass
     value:

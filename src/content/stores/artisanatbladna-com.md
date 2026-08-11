@@ -4,8 +4,8 @@ slug: artisanatbladna-com
 title: Is artisanatbladna.com Legit? Trust Score 88/100
 description: >-
   artisanatbladna.com scores 88/100 on our public trust checks. Established
-  domain — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:58:00.921Z'
+  domain — registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:05:12.263Z'
 finalUrl: 'https://www.artisanatbladna.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-09'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-11-17'
-      ageDays: 3506
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-11-17).
+      ageDays: 3545
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-17).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-artisanatbladna.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+artisanatbladna.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Artisanatbladna in the score above.
 

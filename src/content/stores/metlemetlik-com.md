@@ -5,7 +5,7 @@ title: Is metlemetlik.com Legit? Trust Score 40/100
 description: >-
   metlemetlik.com scores 40/100 on our public trust checks. Standard contact and
   policy pages were not found.
-fetchedAt: '2026-06-25T02:36:36.076Z'
+fetchedAt: '2026-07-27T08:24:12.825Z'
 finalUrl: 'https://metlemetlik.com/'
 reachable: true
 noindex: false
@@ -18,8 +18,7 @@ verdict:
     buyer-protected payment methods.
   score: 40
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.2 years ago.
+    - Established domain — registered 3.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -34,16 +33,16 @@ signals:
       finalUrl: 'https://metlemetlik.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: fail
     value:
@@ -57,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-04-05'
-      ageDays: 1176
-      ageYears: 3.2
-    detail: Registered 3.2 years ago (2023-04-05).
+      ageDays: 1208
+      ageYears: 3.3
+    detail: Registered 3.3 years ago (2023-04-05).
   contact:
     status: fail
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for metlemetlik.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 3.2 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for metlemetlik.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 3.3 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Metlemetlik in the score above.
 

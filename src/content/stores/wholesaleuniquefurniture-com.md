@@ -5,7 +5,7 @@ title: Is wholesaleuniquefurniture.com Legit? Trust Score 13/100
 description: >-
   wholesaleuniquefurniture.com scores 13/100 on our public trust checks. No
   valid SSL certificate — connection may not be secure.
-fetchedAt: '2026-06-25T02:21:44.575Z'
+fetchedAt: '2026-07-27T08:12:02.601Z'
 finalUrl: 'http://www.wholesaleuniquefurniture.com/'
 reachable: true
 noindex: false
@@ -58,14 +58,14 @@ signals:
     value:
       issuer: null
       validTo: '2025-05-16'
-      daysToExpiry: -404
+      daysToExpiry: -436
       authorized: false
     detail: Certificate has expired.
   domainAge:
     status: pass
     value:
       createdAt: '2015-05-02'
-      ageDays: 4071
+      ageDays: 4103
       ageYears: 11.2
     detail: Registered 11.2 years ago (2015-05-02).
   contact:

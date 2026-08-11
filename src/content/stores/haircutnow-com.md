@@ -4,8 +4,8 @@ slug: haircutnow-com
 title: Is haircutnow.com Legit? Trust Score 70/100
 description: >-
   haircutnow.com scores 70/100 on our public trust checks. Established domain —
-  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:44.055Z'
+  registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:35.682Z'
 finalUrl: 'https://haircutnow.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.2 years ago.
+    - Established domain — registered 8.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-09'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2018-03-27'
-      ageDays: 3011
-      ageYears: 8.2
-    detail: Registered 8.2 years ago (2018-03-27).
+      ageDays: 3043
+      ageYears: 8.3
+    detail: Registered 8.3 years ago (2018-03-27).
   contact:
     status: fail
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-haircutnow.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+haircutnow.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Haircutnow in the score above.
 

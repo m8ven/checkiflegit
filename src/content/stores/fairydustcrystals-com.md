@@ -4,8 +4,8 @@ slug: fairydustcrystals-com
 title: Is fairydustcrystals.com Legit? Trust Score 82/100
 description: >-
   fairydustcrystals.com scores 82/100 on our public trust checks. Established
-  domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:33:09.530Z'
+  domain — registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:21:28.542Z'
 finalUrl: 'https://fairydustcrystals.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.1 years ago.
+    - Established domain — registered 10.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-05-31'
-      ageDays: 3676
-      ageYears: 10.1
-    detail: Registered 10.1 years ago (2016-05-31).
+      ageDays: 3708
+      ageYears: 10.2
+    detail: Registered 10.2 years ago (2016-05-31).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fairydustcrystals.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fairydustcrystals.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fairydustcrystals in the score above.
 

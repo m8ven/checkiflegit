@@ -5,7 +5,7 @@ title: Is cuasathanquoc.com Legit? Trust Score 61/100
 description: >-
   cuasathanquoc.com scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:23:37.539Z'
+fetchedAt: '2026-07-27T08:13:20.397Z'
 finalUrl: 'https://cuasathanquoc.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.8 years ago.
+    - Established domain — registered 5.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -46,27 +46,27 @@ signals:
   pages:
     status: warn
     value:
-      contact: false
+      contact: true
       privacy: true
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-09-04'
-      ageDays: 2119
-      ageYears: 5.8
-    detail: Registered 5.8 years ago (2020-09-04).
+      ageDays: 2151
+      ageYears: 5.9
+    detail: Registered 5.9 years ago (2020-09-04).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cuasathanquoc.com sends a mixed set of signals. On the positive side, its domain has been registered for 5.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+cuasathanquoc.com sends a mixed set of signals. On the positive side, its domain has been registered for 5.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cuasathanquoc in the score above.
 

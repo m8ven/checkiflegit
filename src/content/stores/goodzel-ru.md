@@ -4,8 +4,8 @@ slug: goodzel-ru
 title: Is goodzel.ru Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   goodzel.ru scores 100/100 on our public trust checks. Established domain —
-  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:37.519Z'
+  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:23:23.268Z'
 finalUrl: 'https://goodzel.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.8 years ago.
+    - Established domain — registered 7.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
+      terms: true
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-09-20'
-      ageDays: 2834
-      ageYears: 7.8
-    detail: Registered 7.8 years ago (2018-09-20).
+      ageDays: 2866
+      ageYears: 7.9
+    detail: Registered 7.9 years ago (2018-09-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-goodzel.ru looks like a well-established store. The clearest positives are that its domain has been registered for 7.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+goodzel.ru looks like a well-established store. The clearest positives are that its domain has been registered for 7.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Goodzel in the score above.
 

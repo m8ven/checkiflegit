@@ -4,9 +4,9 @@ slug: memoriesofabutterfly-com
 title: Is memoriesofabutterfly.com Legit? Trust Score 100/100
 description: >-
   memoriesofabutterfly.com scores 100/100 on our public trust checks.
-  Established domain — registered 15.5 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 15.7 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:17:51.250Z'
+fetchedAt: '2026-08-10T06:25:39.831Z'
 finalUrl: 'https://memoriesofabutterfly.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.5 years ago.
+    - Established domain — registered 15.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,18 +56,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      issuer: Let's Encrypt
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-12-17'
-      ageDays: 5669
-      ageYears: 15.5
-    detail: Registered 15.5 years ago (2010-12-17).
+      ageDays: 5714
+      ageYears: 15.7
+    detail: Registered 15.7 years ago (2010-12-17).
   contact:
     status: pass
     value:
@@ -98,7 +98,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-memoriesofabutterfly.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+memoriesofabutterfly.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Memoriesofabutterfly in the score above.
 

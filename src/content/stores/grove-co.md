@@ -5,7 +5,7 @@ title: Is grove.co Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   grove.co scores 57/100 on our public trust checks. No public contact details
   detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:49.649Z'
+fetchedAt: '2026-07-27T08:07:18.007Z'
 finalUrl: 'https://www.grove.co/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-21'
-      daysToExpiry: 89
+      validTo: '2026-10-12'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

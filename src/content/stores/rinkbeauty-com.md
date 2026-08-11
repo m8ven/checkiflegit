@@ -1,11 +1,11 @@
 ---
 domain: rinkbeauty.com
 slug: rinkbeauty-com
-title: Is rinkbeauty.com Legit? Trust Score 82/100
+title: Is rinkbeauty.com Legit? Trust Score 88/100
 description: >-
-  rinkbeauty.com scores 82/100 on our public trust checks. Established domain —
-  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:42:56.482Z'
+  rinkbeauty.com scores 88/100 on our public trust checks. Established domain —
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:29:14.517Z'
 finalUrl: 'https://rinkbeauty.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.8 years ago.
+    - Established domain — registered 2.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
+    - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 60
+      validTo: '2026-10-23'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-09-15'
-      ageDays: 1013
-      ageYears: 2.8
-    detail: Registered 2.8 years ago (2023-09-15).
+      ageDays: 1045
+      ageYears: 2.9
+    detail: Registered 2.9 years ago (2023-09-15).
   contact:
     status: pass
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: 'Public contact details found: email, phone.'
   social:
-    status: warn
+    status: pass
     value:
       facebook: false
       instagram: true
-      twitter: false
+      twitter: true
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): instagram.'
+    detail: 'Links to 2 social platform(s): instagram, twitter.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rinkbeauty.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+rinkbeauty.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rinkbeauty in the score above.
 

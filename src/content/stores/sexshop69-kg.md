@@ -5,7 +5,7 @@ title: Is sexshop69.kg Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   sexshop69.kg scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:50:54.100Z'
+fetchedAt: '2026-07-27T08:36:34.854Z'
 finalUrl: 'https://sexshop69.kg/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: false
       terms: false
       refund: true
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      shipping: true
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-09'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -4,8 +4,8 @@ slug: prime-pass-co-uk
 title: Is prime-pass.co.uk Legit? Trust Score 100/100
 description: >-
   prime-pass.co.uk scores 100/100 on our public trust checks. Established domain
-  — registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:52.126Z'
+  — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:14:03.130Z'
 finalUrl: 'https://prime-pass.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.9 years ago.
+    - Established domain — registered 6.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-10-26'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-07-20'
-      ageDays: 2166
-      ageYears: 5.9
-    detail: Registered 5.9 years ago (2020-07-20).
+      ageDays: 2212
+      ageYears: 6.1
+    detail: Registered 6.1 years ago (2020-07-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-prime-pass.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 5.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+prime-pass.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Prime-pass in the score above.
 

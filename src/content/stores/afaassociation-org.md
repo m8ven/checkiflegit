@@ -1,24 +1,24 @@
 ---
 domain: afaassociation.org
 slug: afaassociation-org
-title: Is afaassociation.org Legit? Trust Score 61/100
+title: Is afaassociation.org Legit? Trust Score 44/100
 description: >-
-  afaassociation.org scores 61/100 on our public trust checks. No links to major
+  afaassociation.org scores 44/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:17:21.122Z'
+fetchedAt: '2026-07-27T08:08:18.465Z'
 finalUrl: 'https://afaassociation.org/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 44
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,14 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 60
+      validTo: '2026-10-24'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2021-08-06'
-      ageDays: 1783
-      ageYears: 4.9
-    detail: Registered 4.9 years ago (2021-08-06).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: warn
     value:
@@ -95,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-afaassociation.org sends a mixed set of signals. On the positive side, its domain has been registered for 4.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for afaassociation.org. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Afaassociation in the score above.
 

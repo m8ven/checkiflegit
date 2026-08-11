@@ -4,8 +4,8 @@ slug: aureolecreatives-ca
 title: Is aureolecreatives.ca Legit? Trust Score 94/100
 description: >-
   aureolecreatives.ca scores 94/100 on our public trust checks. Established
-  domain — registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:59:54.879Z'
+  domain — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:06:34.635Z'
 finalUrl: 'https://aureolecreatives.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.6 years ago.
+    - Established domain — registered 3.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: false
-      shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-14'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-12-02'
-      ageDays: 1300
-      ageYears: 3.6
-    detail: Registered 3.6 years ago (2022-12-02).
+      ageDays: 1340
+      ageYears: 3.7
+    detail: Registered 3.7 years ago (2022-12-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aureolecreatives.ca looks like a well-established store. The clearest positives are that its domain has been registered for 3.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aureolecreatives.ca looks like a well-established store. The clearest positives are that its domain has been registered for 3.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aureolecreatives in the score above.
 

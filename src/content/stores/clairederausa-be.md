@@ -5,7 +5,7 @@ title: Is clairederausa.be Legit? Trust Score 52/100
 description: >-
   clairederausa.be scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:29:04.816Z'
+fetchedAt: '2026-07-27T08:18:01.331Z'
 finalUrl: 'https://clairederausa.be/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.3 years ago.
+    - Established domain — registered 9.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-03-10'
-      ageDays: 3393
-      ageYears: 9.3
-    detail: Registered 9.3 years ago (2017-03-10).
+      ageDays: 3426
+      ageYears: 9.4
+    detail: Registered 9.4 years ago (2017-03-10).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-clairederausa.be sends a mixed set of signals. On the positive side, its domain has been registered for 9.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+clairederausa.be sends a mixed set of signals. On the positive side, its domain has been registered for 9.4 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Clairederausa in the score above.
 

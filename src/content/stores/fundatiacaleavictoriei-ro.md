@@ -4,9 +4,9 @@ slug: fundatiacaleavictoriei-ro
 title: Is fundatiacaleavictoriei.ro Legit? Trust Score 88/100
 description: >-
   fundatiacaleavictoriei.ro scores 88/100 on our public trust checks.
-  Established domain — registered 19.5 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 19.6 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:22:48.519Z'
+fetchedAt: '2026-08-10T06:29:45.763Z'
 finalUrl: 'https://www.fundatiacaleavictoriei.ro/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.5 years ago.
+    - Established domain — registered 19.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2007-01-12'
-      ageDays: 7104
-      ageYears: 19.5
-    detail: Registered 19.5 years ago (2007-01-12).
+      ageDays: 7150
+      ageYears: 19.6
+    detail: Registered 19.6 years ago (2007-01-12).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fundatiacaleavictoriei.ro looks like a well-established store. The clearest positives are that its domain has been registered for 19.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fundatiacaleavictoriei.ro looks like a well-established store. The clearest positives are that its domain has been registered for 19.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fundatiacaleavictoriei in the score above.
 

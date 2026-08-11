@@ -5,7 +5,7 @@ title: Is gracioushome.com Legit? Trust Score 61/100
 description: >-
   gracioushome.com scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:35:49.903Z'
+fetchedAt: '2026-07-27T08:23:29.137Z'
 finalUrl: 'https://gracioushome.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 30.5 years ago.
+    - Established domain — registered 30.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-01-03'
-      ageDays: 11130
-      ageYears: 30.5
-    detail: Registered 30.5 years ago (1996-01-03).
+      ageDays: 11163
+      ageYears: 30.6
+    detail: Registered 30.6 years ago (1996-01-03).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gracioushome.com sends a mixed set of signals. On the positive side, its domain has been registered for 30.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+gracioushome.com sends a mixed set of signals. On the positive side, its domain has been registered for 30.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gracioushome in the score above.
 

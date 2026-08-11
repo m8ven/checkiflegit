@@ -5,7 +5,7 @@ title: Is webnail.co.il Legit? Trust Score 83/100
 description: >-
   webnail.co.il scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:09:56.542Z'
+fetchedAt: '2026-08-10T06:19:11.829Z'
 finalUrl: 'https://webnail.co.il/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-28'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -4,9 +4,9 @@ slug: britishschoolalmeria-com
 title: Is britishschoolalmeria.com Legit? Trust Score 100/100
 description: >-
   britishschoolalmeria.com scores 100/100 on our public trust checks.
-  Established domain — registered 7.5 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 7.6 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:20:34.519Z'
+fetchedAt: '2026-07-27T08:11:14.983Z'
 finalUrl: 'https://britishschoolalmeria.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.5 years ago.
+    - Established domain — registered 7.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,23 +58,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-12-13'
-      ageDays: 2750
-      ageYears: 7.5
-    detail: Registered 7.5 years ago (2018-12-13).
+      ageDays: 2782
+      ageYears: 7.6
+    detail: Registered 7.6 years ago (2018-12-13).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-britishschoolalmeria.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+britishschoolalmeria.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Britishschoolalmeria in the score above.
 

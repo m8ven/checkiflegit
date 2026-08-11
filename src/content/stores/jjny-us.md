@@ -5,7 +5,7 @@ title: Is jjny.us Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   jjny.us scores 55/100 on our public trust checks. No public contact details
   detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:47:35.364Z'
+fetchedAt: '2026-08-03T08:32:34.170Z'
 finalUrl: 'https://jjny.us/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.2 years ago.
+    - Established domain — registered 9.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-03-31'
-      ageDays: 3373
-      ageYears: 9.2
-    detail: Registered 9.2 years ago (2017-03-31).
+      ageDays: 3412
+      ageYears: 9.3
+    detail: Registered 9.3 years ago (2017-03-31).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jjny.us sends a mixed set of signals. On the positive side, its domain has been registered for 9.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+jjny.us sends a mixed set of signals. On the positive side, its domain has been registered for 9.3 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jjny in the score above.
 

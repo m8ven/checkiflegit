@@ -5,7 +5,7 @@ title: Is sanpen.ir Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   sanpen.ir scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:32:25.868Z'
+fetchedAt: '2026-08-03T08:20:05.105Z'
 finalUrl: 'https://www.sanpen.ir/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 68
+      validTo: '2026-11-01'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

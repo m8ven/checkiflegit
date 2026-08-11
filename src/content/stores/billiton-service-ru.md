@@ -4,8 +4,8 @@ slug: billiton-service-ru
 title: Is billiton-service.ru Legit? Trust Score 73/100
 description: >-
   billiton-service.ru scores 73/100 on our public trust checks. Established
-  domain — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:41.785Z'
+  domain — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:38:20.358Z'
 finalUrl: 'https://billiton-service.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.2 years ago.
+    - Established domain — registered 7.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-04-01'
-      ageDays: 2641
-      ageYears: 7.2
-    detail: Registered 7.2 years ago (2019-04-01).
+      ageDays: 2673
+      ageYears: 7.3
+    detail: Registered 7.3 years ago (2019-04-01).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-billiton-service.ru looks like a well-established store. The clearest positives are that its domain has been registered for 7.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+billiton-service.ru looks like a well-established store. The clearest positives are that its domain has been registered for 7.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Billiton-service in the score above.
 

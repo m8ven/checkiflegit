@@ -4,8 +4,8 @@ slug: nirvanalibros-mx
 title: Is nirvanalibros.mx Legit? Trust Score 100/100
 description: >-
   nirvanalibros.mx scores 100/100 on our public trust checks. Established domain
-  — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:39.768Z'
+  — registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:42.731Z'
 finalUrl: 'https://nirvanalibros.mx/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.3 years ago.
+    - Established domain — registered 7.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-09-23'
-      daysToExpiry: 91
+      daysToExpiry: 59
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2019-03-07'
-      ageDays: 2667
-      ageYears: 7.3
-    detail: Registered 7.3 years ago (2019-03-07).
+      ageDays: 2699
+      ageYears: 7.4
+    detail: Registered 7.4 years ago (2019-03-07).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nirvanalibros.mx looks like a well-established store. The clearest positives are that its domain has been registered for 7.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nirvanalibros.mx looks like a well-established store. The clearest positives are that its domain has been registered for 7.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nirvanalibros in the score above.
 

@@ -5,7 +5,7 @@ title: Is nogec-rdc.org Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   nogec-rdc.org scores 52/100 on our public trust checks. Domain is relatively
   young. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:46:02.762Z'
+fetchedAt: '2026-07-27T08:32:25.005Z'
 finalUrl: 'https://nogec-rdc.org/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 38
+      validTo: '2026-10-02'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-09-11'
-      ageDays: 286
-      ageYears: 0.8
-    detail: Registered 0.8 years ago (2025-09-11).
+      ageDays: 318
+      ageYears: 0.9
+    detail: Registered 0.9 years ago (2025-09-11).
   contact:
     status: warn
     value:

@@ -5,7 +5,7 @@ title: Is sisindustries.bg Legit? Trust Score 100/100
 description: >-
   sisindustries.bg scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:55:45.816Z'
+fetchedAt: '2026-08-10T06:07:28.173Z'
 finalUrl: 'https://sisindustries.bg/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 62
+      validTo: '2026-10-24'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

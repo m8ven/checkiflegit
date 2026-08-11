@@ -1,26 +1,28 @@
 ---
 domain: ecocell.com.au
 slug: ecocell-com-au
-title: Is ecocell.com.au Legit? Trust Score 61/100 — Mixed Signals
+title: Is ecocell.com.au Legit? Trust Score 19/100
 description: >-
-  ecocell.com.au scores 61/100 on our public trust checks. No links to major
-  social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:36:13.872Z'
+  ecocell.com.au scores 19/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure. No links to major social platforms
+  found.
+fetchedAt: '2026-08-03T08:23:05.642Z'
 finalUrl: 'https://ecocell.com.au/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 19
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
+    - No valid SSL certificate — connection may not be secure.
     - No links to major social platforms found.
   cautions:
     - Only limited contact details were found.
@@ -52,13 +54,9 @@ signals:
       shipping: true
     detail: Found 3 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-07'
-      daysToExpiry: 75
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: fail
+    value: null
+    detail: 'TLS connection failed: '
   domainAge:
     status: unknown
     value: null
@@ -91,7 +89,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ecocell.com.au sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for ecocell.com.au. In particular, only limited contact details are listed and it does not present a valid security certificate. It does have some positives — it publishes the contact and policy pages shoppers expect and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ecocell in the score above.
 

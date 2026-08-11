@@ -5,7 +5,7 @@ title: Is skybluearchive.com Legit? Trust Score 43/100
 description: >-
   skybluearchive.com scores 43/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T12:01:40.398Z'
+fetchedAt: '2026-08-10T06:12:20.368Z'
 finalUrl: 'https://skybluearchive.com/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-08-20'
-      ageDays: 308
-      ageYears: 0.8
-    detail: Registered 0.8 years ago (2025-08-20).
+      ageDays: 354
+      ageYears: 1
+    detail: Registered 1 years ago (2025-08-20).
   contact:
     status: warn
     value:

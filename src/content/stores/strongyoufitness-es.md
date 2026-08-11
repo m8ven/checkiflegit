@@ -5,7 +5,7 @@ title: Is strongyoufitness.es Legit? Trust Score 31/100
 description: >-
   strongyoufitness.es scores 31/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T12:04:48.101Z'
+fetchedAt: '2026-08-10T06:14:56.598Z'
 finalUrl: 'https://strongyoufitness.es/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-11'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

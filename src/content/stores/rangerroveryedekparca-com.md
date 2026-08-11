@@ -5,7 +5,7 @@ title: Is rangerroveryedekparca.com Legit? Trust Score 55/100
 description: >-
   rangerroveryedekparca.com scores 55/100 on our public trust checks. Standard
   contact and policy pages were not found.
-fetchedAt: '2026-06-25T02:17:10.842Z'
+fetchedAt: '2026-07-27T08:08:07.374Z'
 finalUrl: 'https://rangerroveryedekparca.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.7 years ago.
+    - Established domain — registered 4.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-16'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-10-14'
-      ageDays: 1714
-      ageYears: 4.7
-    detail: Registered 4.7 years ago (2021-10-14).
+      ageDays: 1746
+      ageYears: 4.8
+    detail: Registered 4.8 years ago (2021-10-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rangerroveryedekparca.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.7 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+rangerroveryedekparca.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.8 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rangerroveryedekparca in the score above.
 

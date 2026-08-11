@@ -5,7 +5,7 @@ title: Is renpac.co.za Legit? Trust Score 100/100
 description: >-
   renpac.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:58:20.220Z'
+fetchedAt: '2026-08-10T06:09:43.440Z'
 finalUrl: 'https://renpac.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

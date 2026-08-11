@@ -4,8 +4,8 @@ slug: piercedbody-co-uk
 title: Is piercedbody.co.uk Legit? Trust Score 70/100
 description: >-
   piercedbody.co.uk scores 70/100 on our public trust checks. Established domain
-  — registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:14.429Z'
+  — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:12:38.847Z'
 finalUrl: 'https://piercedbody.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.8 years ago.
+    - Established domain — registered 12.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: 'GoDaddy.com, Inc.'
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      issuer: Sectigo Limited
+      validTo: '2027-02-04'
+      daysToExpiry: 179
       authorized: true
-    detail: 'Valid certificate issued by GoDaddy.com, Inc..'
+    detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2013-09-14'
-      ageDays: 4667
-      ageYears: 12.8
-    detail: Registered 12.8 years ago (2013-09-14).
+      ageDays: 4713
+      ageYears: 12.9
+    detail: Registered 12.9 years ago (2013-09-14).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-piercedbody.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 12.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+piercedbody.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 12.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Piercedbody in the score above.
 

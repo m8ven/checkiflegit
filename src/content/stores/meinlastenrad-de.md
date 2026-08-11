@@ -5,7 +5,7 @@ title: Is meinlastenrad.de Legit? Trust Score 100/100
 description: >-
   meinlastenrad.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:28:06.090Z'
+fetchedAt: '2026-08-10T06:34:12.815Z'
 finalUrl: 'https://www.meinlastenrad.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-20'
-      daysToExpiry: 118
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

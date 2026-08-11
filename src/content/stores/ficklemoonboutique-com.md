@@ -1,11 +1,12 @@
 ---
 domain: ficklemoonboutique.com
 slug: ficklemoonboutique-com
-title: Is ficklemoonboutique.com Legit? Trust Score 52/100
+title: Is ficklemoonboutique.com Legit? Trust Score 55/100
 description: >-
-  ficklemoonboutique.com scores 52/100 on our public trust checks. No public
-  contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:47:18.378Z'
+  ficklemoonboutique.com scores 55/100 on our public trust checks. No public
+  contact details detected on the homepage. No links to major social platforms
+  found.
+fetchedAt: '2026-08-03T08:32:15.084Z'
 finalUrl: 'https://ficklemoonboutique.com/'
 reachable: true
 noindex: false
@@ -15,16 +16,15 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 52
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7 years ago.
+    - Established domain — registered 7.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No public contact details detected on the homepage.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,40 +33,40 @@ signals:
       finalUrl: 'https://ficklemoonboutique.com/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: warn
-    value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
+      privacy: true
+      terms: true
+      refund: true
       shipping: true
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-09-30'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-06-09'
-      ageDays: 2572
-      ageYears: 7
-    detail: Registered 7 years ago (2019-06-09).
+      ageDays: 2611
+      ageYears: 7.2
+    detail: Registered 7.2 years ago (2019-06-09).
   contact:
     status: fail
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ficklemoonboutique.com sends a mixed set of signals. On the positive side, its domain has been registered for 7 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+ficklemoonboutique.com sends a mixed set of signals. On the positive side, its domain has been registered for 7.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ficklemoonboutique in the score above.
 

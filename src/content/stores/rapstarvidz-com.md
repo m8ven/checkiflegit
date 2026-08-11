@@ -4,9 +4,9 @@ slug: rapstarvidz-com
 title: Is rapstarvidz.com Legit? Trust Score 88/100
 description: >-
   rapstarvidz.com scores 88/100 on our public trust checks. Established domain —
-  registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:33:13.602Z'
-finalUrl: 'https://www.rapstarvidz.com/'
+  registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:38:18.242Z'
+finalUrl: 'https://www.rapstarvidz.com/?doing_wp_cron=1786343898.9814519882202148437500'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.1 years ago.
+    - Established domain — registered 14.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -30,7 +30,8 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.rapstarvidz.com/'
+      finalUrl: >-
+        https://www.rapstarvidz.com/?doing_wp_cron=1786343898.9814519882202148437500
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -48,25 +49,25 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 50
+      validTo: '2026-10-14'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-06-06'
-      ageDays: 5132
-      ageYears: 14.1
-    detail: Registered 14.1 years ago (2012-06-06).
+      ageDays: 5177
+      ageYears: 14.2
+    detail: Registered 14.2 years ago (2012-06-06).
   contact:
     status: warn
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rapstarvidz.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+rapstarvidz.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rapstarvidz in the score above.
 

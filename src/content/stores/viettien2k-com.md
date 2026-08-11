@@ -1,11 +1,11 @@
 ---
 domain: viettien2k.com
 slug: viettien2k-com
-title: Is viettien2k.com Legit? Trust Score 52/100 — Mixed Signals
+title: Is viettien2k.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  viettien2k.com scores 52/100 on our public trust checks. Standard contact and
-  policy pages were not found. Domain is relatively young.
-fetchedAt: '2026-06-25T12:18:31.583Z'
+  viettien2k.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-10T06:26:22.234Z'
 finalUrl: 'https://viettien2k.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,15 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 52
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 1 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
-    - Standard contact and policy pages were not found.
-  cautions:
-    - Domain is relatively young.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,58 +32,58 @@ signals:
       finalUrl: 'https://viettien2k.com/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: fail
-    value:
-      contact: false
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      contact: true
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-14'
+      issuer: Google Trust Services
+      validTo: '2026-10-30'
       daysToExpiry: 82
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
-    status: warn
+    status: pass
     value:
       createdAt: '2025-08-04'
-      ageDays: 325
-      ageYears: 0.9
-    detail: Registered 0.9 years ago (2025-08-04).
+      ageDays: 370
+      ageYears: 1
+    detail: Registered 1 years ago (2025-08-04).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
-      tiktok: true
+      tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, tiktok.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-viettien2k.com sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+viettien2k.com sends a mixed set of signals. On the positive side, its domain has been registered for 1 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Viettien2k in the score above.
 

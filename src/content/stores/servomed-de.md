@@ -5,7 +5,7 @@ title: Is servomed.de Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   servomed.de scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T03:27:18.887Z'
+fetchedAt: '2026-08-03T08:15:44.180Z'
 finalUrl: 'https://www.servomed.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

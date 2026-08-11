@@ -5,7 +5,7 @@ title: Is miografie.de Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   miografie.de scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:36:52.101Z'
+fetchedAt: '2026-07-27T08:24:28.680Z'
 finalUrl: 'https://miografie.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-22'
-      daysToExpiry: 120
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

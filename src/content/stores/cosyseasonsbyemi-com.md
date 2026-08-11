@@ -1,90 +1,86 @@
 ---
 domain: cosyseasonsbyemi.com
 slug: cosyseasonsbyemi-com
-title: Is cosyseasonsbyemi.com Legit? Trust Score 52/100
+title: Is cosyseasonsbyemi.com Legit? Trust Score 31/100
 description: >-
-  cosyseasonsbyemi.com scores 52/100 on our public trust checks. No public
-  contact details detected on the homepage. Domain is relatively young.
-fetchedAt: '2026-06-25T03:40:08.576Z'
-finalUrl: 'https://cosyseasonsbyemi.com/'
+  cosyseasonsbyemi.com scores 31/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
+fetchedAt: '2026-08-03T08:25:42.786Z'
+finalUrl: 'http://cosyseasonsbyemi.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 52
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 31
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Maintains links to multiple social media platforms.
+    - Established domain — registered 1.1 years ago.
   redFlags:
-    - No public contact details detected on the homepage.
+    - No valid SSL certificate — connection may not be secure.
+    - No links to major social platforms found.
   cautions:
-    - Domain is relatively young.
+    - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://cosyseasonsbyemi.com/'
+      finalUrl: 'http://cosyseasonsbyemi.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: pass
-    value:
-      contact: true
-      privacy: true
-      terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
-  ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 47
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
-  domainAge:
     status: warn
     value:
-      createdAt: '2025-07-11'
-      ageDays: 348
-      ageYears: 1
-    detail: Registered 1 years ago (2025-07-11).
-  contact:
+      contact: true
+      privacy: false
+      terms: false
+      refund: false
+      shipping: false
+    detail: Found 0 policy page(s) and a contact page.
+  ssl:
     status: fail
-    value:
-      email: false
-      phone: false
-      address: false
-    detail: No public contact details detected on the homepage.
-  social:
+    value: null
+    detail: 'TLS connection failed: connect ECONNREFUSED 52.213.114.86:443'
+  domainAge:
     status: pass
     value:
-      facebook: true
-      instagram: true
+      createdAt: '2025-07-11'
+      ageDays: 387
+      ageYears: 1.1
+    detail: Registered 1.1 years ago (2025-07-11).
+  contact:
+    status: warn
+    value:
+      email: true
+      phone: false
+      address: false
+    detail: 'Public contact details found: email.'
+  social:
+    status: fail
+    value:
+      facebook: false
+      instagram: false
       twitter: false
-      tiktok: true
+      tiktok: false
       youtube: false
       linkedin: false
-      pinterest: true
-    detail: 'Links to 4 social platform(s): facebook, instagram, tiktok, pinterest.'
+      pinterest: false
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cosyseasonsbyemi.com sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and there are no clear public contact details — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for cosyseasonsbyemi.com. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 1.1 years — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cosyseasonsbyemi in the score above.
 

@@ -5,7 +5,7 @@ title: Is microelettricacatalogue.com Legit? Trust Score 55/100
 description: >-
   microelettricacatalogue.com scores 55/100 on our public trust checks. No
   public contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:36:42.589Z'
+fetchedAt: '2026-07-27T08:24:16.531Z'
 finalUrl: 'https://microelettricacatalogue.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.8 years ago.
+    - Established domain — registered 3.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-09-16'
-      ageDays: 1377
-      ageYears: 3.8
-    detail: Registered 3.8 years ago (2022-09-16).
+      ageDays: 1409
+      ageYears: 3.9
+    detail: Registered 3.9 years ago (2022-09-16).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-microelettricacatalogue.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.8 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+microelettricacatalogue.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Microelettricacatalogue in the score above.
 

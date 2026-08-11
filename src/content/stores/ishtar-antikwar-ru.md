@@ -1,30 +1,30 @@
 ---
 domain: ishtar-antikwar.ru
 slug: ishtar-antikwar-ru
-title: Is ishtar-antikwar.ru Legit? Trust Score 58/100
+title: Is ishtar-antikwar.ru Legit? Trust Score 70/100
 description: >-
-  ishtar-antikwar.ru scores 58/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T03:50:09.834Z'
+  ishtar-antikwar.ru scores 70/100 on our public trust checks. Established
+  domain — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:34:27.430Z'
 finalUrl: 'https://ishtar-antikwar.ru/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 58
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7 years ago.
+    - Established domain — registered 7.1 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-06-19'
-      ageDays: 2562
-      ageYears: 7
-    detail: Registered 7 years ago (2019-06-19).
+      ageDays: 2601
+      ageYears: 7.1
+    detail: Registered 7.1 years ago (2019-06-19).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ishtar-antikwar.ru sends a mixed set of signals. On the positive side, its domain has been registered for 7 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+ishtar-antikwar.ru looks like a well-established store. The clearest positives are that its domain has been registered for 7.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ishtar-antikwar in the score above.
 

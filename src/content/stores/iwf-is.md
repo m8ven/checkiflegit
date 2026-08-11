@@ -5,7 +5,7 @@ title: Is iwf.is Legit? Trust Score 36/100 — Proceed With Caution
 description: >-
   iwf.is scores 36/100 on our public trust checks. Standard contact and policy
   pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:50:24.273Z'
+fetchedAt: '2026-08-03T08:34:35.936Z'
 finalUrl: 'https://iwf.is/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is activcarbon.com.ua Legit? Trust Score 73/100
 description: >-
   activcarbon.com.ua scores 73/100 on our public trust checks. Established
   domain — registered 19 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:28.584Z'
+fetchedAt: '2026-07-27T08:23:18.690Z'
 finalUrl: 'https://activcarbon.com.ua/uk/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-07-18'
-      ageDays: 6917
+      ageDays: 6949
       ageYears: 19
     detail: Registered 19 years ago (2007-07-18).
   contact:

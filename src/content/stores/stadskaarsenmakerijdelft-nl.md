@@ -1,12 +1,12 @@
 ---
 domain: stadskaarsenmakerijdelft.nl
 slug: stadskaarsenmakerijdelft-nl
-title: Is stadskaarsenmakerijdelft.nl Legit? Trust Score 88/100
+title: Is stadskaarsenmakerijdelft.nl Legit? Trust Score 100/100
 description: >-
-  stadskaarsenmakerijdelft.nl scores 88/100 on our public trust checks.
-  Established domain — registered 5.1 years ago. Valid HTTPS/SSL certificate in
+  stadskaarsenmakerijdelft.nl scores 100/100 on our public trust checks.
+  Established domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:46:12.505Z'
+fetchedAt: '2026-07-27T08:32:35.800Z'
 finalUrl: 'https://stadskaarsenmakerijdelft.nl/'
 reachable: true
 noindex: false
@@ -16,16 +16,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.1 years ago.
+    - Established domain — registered 5.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -45,29 +45,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-20'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-05-04'
-      ageDays: 1878
-      ageYears: 5.1
-    detail: Registered 5.1 years ago (2021-05-04).
+      ageDays: 1910
+      ageYears: 5.2
+    detail: Registered 5.2 years ago (2021-05-04).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-stadskaarsenmakerijdelft.nl looks like a well-established store. The clearest positives are that its domain has been registered for 5.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+stadskaarsenmakerijdelft.nl looks like a well-established store. The clearest positives are that its domain has been registered for 5.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Stadskaarsenmakerijdelft in the score above.
 

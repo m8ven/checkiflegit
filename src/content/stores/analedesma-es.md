@@ -5,7 +5,7 @@ title: Is analedesma.es Legit? Trust Score 100/100
 description: >-
   analedesma.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:12:47.313Z'
+fetchedAt: '2026-08-10T06:21:21.729Z'
 finalUrl: 'https://www.analedesma.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-12'
-      daysToExpiry: 79
+      validTo: '2026-11-06'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

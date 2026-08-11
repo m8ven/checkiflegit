@@ -5,7 +5,7 @@ title: Is regula-v.de Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   regula-v.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:26:44.410Z'
+fetchedAt: '2026-08-03T08:15:22.487Z'
 finalUrl: 'https://www.regula-v.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-10'
-      daysToExpiry: 231
+      daysToExpiry: 192
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

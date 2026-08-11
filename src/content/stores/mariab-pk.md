@@ -4,8 +4,8 @@ slug: mariab-pk
 title: Is mariab.pk Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   mariab.pk scores 100/100 on our public trust checks. Established domain —
-  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:48.123Z'
+  registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:16.948Z'
 finalUrl: 'https://www.mariab.pk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 16.7 years ago.
+    - Established domain — registered 16.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-10-28'
-      ageDays: 6083
-      ageYears: 16.7
-    detail: Registered 16.7 years ago (2009-10-28).
+      ageDays: 6116
+      ageYears: 16.8
+    detail: Registered 16.8 years ago (2009-10-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mariab.pk looks like a well-established store. The clearest positives are that its domain has been registered for 16.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mariab.pk looks like a well-established store. The clearest positives are that its domain has been registered for 16.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mariab in the score above.
 

@@ -5,7 +5,7 @@ title: Is aysam.com.tr Legit? Trust Score 83/100
 description: >-
   aysam.com.tr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:58:28.100Z'
+fetchedAt: '2026-08-03T08:05:26.009Z'
 finalUrl: 'https://www.aysam.com.tr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

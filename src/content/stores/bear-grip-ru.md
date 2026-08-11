@@ -1,11 +1,11 @@
 ---
 domain: bear-grip.ru
 slug: bear-grip-ru
-title: Is bear-grip.ru Legit? Trust Score 85/100
+title: Is bear-grip.ru Legit? Trust Score 73/100
 description: >-
-  bear-grip.ru scores 85/100 on our public trust checks. Established domain —
-  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:02.279Z'
+  bear-grip.ru scores 73/100 on our public trust checks. Established domain —
+  registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:22:58.283Z'
 finalUrl: 'https://bear-grip.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 85
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.4 years ago.
+    - Established domain — registered 12.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -39,9 +39,9 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: false
+        hasCartLink: true
         hasCatalog: true
-        hasCartFlow: false
+        hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: pass
@@ -56,7 +56,7 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-07'
+      validTo: '2026-10-16'
       daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
@@ -64,16 +64,16 @@ signals:
     status: pass
     value:
       createdAt: '2014-02-05'
-      ageDays: 4522
-      ageYears: 12.4
-    detail: Registered 12.4 years ago (2014-02-05).
+      ageDays: 4561
+      ageYears: 12.5
+    detail: Registered 12.5 years ago (2014-02-05).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bear-grip.ru looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bear-grip.ru looks like a well-established store. The clearest positives are that its domain has been registered for 12.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bear-grip in the score above.
 

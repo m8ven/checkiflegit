@@ -1,27 +1,28 @@
 ---
 domain: camo-militaria.pl
 slug: camo-militaria-pl
-title: Is camo-militaria.pl Legit? Trust Score 57/100
+title: Is camo-militaria.pl Legit? Trust Score 82/100
 description: >-
-  camo-militaria.pl scores 57/100 on our public trust checks. Some standard
-  policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:22:03.194Z'
+  camo-militaria.pl scores 82/100 on our public trust checks. Established domain
+  — registered 19.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:18.856Z'
 finalUrl: 'https://camo-militaria.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 57
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 19.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
     - Limited social media presence.
 signals:
@@ -43,26 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2026-10-21'
-      daysToExpiry: 119
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2007-05-17'
+      ageDays: 7010
+      ageYears: 19.2
+    detail: Registered 19.2 years ago (2007-05-17).
   contact:
     status: warn
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-camo-militaria.pl sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+camo-militaria.pl looks like a well-established store. The clearest positives are that its domain has been registered for 19.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Camo-militaria in the score above.
 

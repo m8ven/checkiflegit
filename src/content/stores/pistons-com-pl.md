@@ -1,11 +1,11 @@
 ---
 domain: pistons.com.pl
 slug: pistons-com-pl
-title: Is pistons.com.pl Legit? Trust Score 76/100
+title: Is pistons.com.pl Legit? Trust Score 88/100
 description: >-
-  pistons.com.pl scores 76/100 on our public trust checks. Established domain —
-  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:16.110Z'
+  pistons.com.pl scores 88/100 on our public trust checks. Established domain —
+  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:54.950Z'
 finalUrl: 'https://pistons.com.pl/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.6 years ago.
+    - Established domain — registered 10.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-02'
-      daysToExpiry: 161
+      daysToExpiry: 115
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2015-11-21'
-      ageDays: 3868
-      ageYears: 10.6
-    detail: Registered 10.6 years ago (2015-11-21).
+      ageDays: 3914
+      ageYears: 10.7
+    detail: Registered 10.7 years ago (2015-11-21).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pistons.com.pl looks like a well-established store. The clearest positives are that its domain has been registered for 10.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pistons.com.pl looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pistons in the score above.
 

@@ -5,7 +5,7 @@ title: Is baldosas-super.cl Legit? Trust Score 100/100
 description: >-
   baldosas-super.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:54:26.076Z'
+fetchedAt: '2026-08-03T08:02:54.133Z'
 finalUrl: 'https://baldosas-super.cl/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-22'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

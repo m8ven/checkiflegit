@@ -5,7 +5,7 @@ title: Is auction.foxway.shop Legit? Trust Score 44/100
 description: >-
   auction.foxway.shop scores 44/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:51:41.307Z'
+fetchedAt: '2026-07-27T08:37:26.498Z'
 finalUrl: 'https://auction.foxway.shop/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-08'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is shop.catnautic.com Legit? Trust Score 19/100
 description: >-
   shop.catnautic.com scores 19/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:55:39.239Z'
+fetchedAt: '2026-08-10T06:05:41.874Z'
 finalUrl: 'https://shop.catnautic.com/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-27'
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

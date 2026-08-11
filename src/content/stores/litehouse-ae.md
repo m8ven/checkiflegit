@@ -5,7 +5,7 @@ title: Is litehouse.ae Legit? Trust Score 83/100
 description: >-
   litehouse.ae scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:49:47.876Z'
+fetchedAt: '2026-08-03T08:34:13.685Z'
 finalUrl: 'https://litehouse.ae/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 63
+      validTo: '2026-10-25'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

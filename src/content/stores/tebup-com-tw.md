@@ -6,7 +6,7 @@ description: >-
   tebup.com.tw scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T02:53:13.083Z'
+fetchedAt: '2026-08-03T08:01:52.458Z'
 finalUrl: 'https://tebup.com.tw/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-13'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

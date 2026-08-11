@@ -5,7 +5,7 @@ title: Is denchipro.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   denchipro.com scores 55/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:41:23.950Z'
+fetchedAt: '2026-08-03T08:26:52.003Z'
 finalUrl: 'https://denchipro.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.4 years ago.
+    - Established domain — registered 8.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-01-17'
-      ageDays: 3080
-      ageYears: 8.4
-    detail: Registered 8.4 years ago (2018-01-17).
+      ageDays: 3119
+      ageYears: 8.5
+    detail: Registered 8.5 years ago (2018-01-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-denchipro.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.4 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+denchipro.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.5 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Denchipro in the score above.
 

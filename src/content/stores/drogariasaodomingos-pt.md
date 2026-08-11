@@ -5,7 +5,7 @@ title: Is drogariasaodomingos.pt Legit? Trust Score 74/100
 description: >-
   drogariasaodomingos.pt scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:27:14.820Z'
+fetchedAt: '2026-08-03T08:15:38.221Z'
 finalUrl: 'https://drogariasaodomingos.pt/'
 reachable: true
 noindex: false
@@ -47,16 +47,16 @@ signals:
     value:
       contact: false
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-26'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

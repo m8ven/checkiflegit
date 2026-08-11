@@ -4,9 +4,9 @@ slug: evangeliehusetstavanger-no
 title: Is evangeliehusetstavanger.no Legit? Trust Score 73/100
 description: >-
   evangeliehusetstavanger.no scores 73/100 on our public trust checks.
-  Established domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:28:05.795Z'
+fetchedAt: '2026-07-27T08:17:12.891Z'
 finalUrl: 'https://evangeliehusetstavanger.no/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-11-11'
-      ageDays: 2052
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-11-11).
+      ageDays: 2084
+      ageYears: 5.7
+    detail: Registered 5.7 years ago (2020-11-11).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-evangeliehusetstavanger.no looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+evangeliehusetstavanger.no looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Evangeliehusetstavanger in the score above.
 

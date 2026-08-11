@@ -4,8 +4,8 @@ slug: raseefe-com
 title: Is raseefe.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   raseefe.com scores 70/100 on our public trust checks. Established domain —
-  registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:05:38.966Z'
+  registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:15:24.421Z'
 finalUrl: 'https://raseefe.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.6 years ago.
+    - Established domain — registered 1.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 66
+      validTo: '2026-10-29'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-12-01'
-      ageDays: 570
-      ageYears: 1.6
-    detail: Registered 1.6 years ago (2024-12-01).
+      ageDays: 616
+      ageYears: 1.7
+    detail: Registered 1.7 years ago (2024-12-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-raseefe.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+raseefe.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.7 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Raseefe in the score above.
 

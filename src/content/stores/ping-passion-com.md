@@ -4,8 +4,8 @@ slug: ping-passion-com
 title: Is ping-passion.com Legit? Trust Score 94/100
 description: >-
   ping-passion.com scores 94/100 on our public trust checks. Established domain
-  — registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:32:35.692Z'
+  — registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:37:47.101Z'
 finalUrl: 'https://www.ping-passion.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.6 years ago.
+    - Established domain — registered 16.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,31 +49,31 @@ signals:
       contact: true
       privacy: true
       terms: false
-      refund: false
-      shipping: true
+      refund: true
+      shipping: false
     detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-03'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2009-11-13'
-      ageDays: 6068
-      ageYears: 16.6
-    detail: Registered 16.6 years ago (2009-11-13).
+      ageDays: 6113
+      ageYears: 16.7
+    detail: Registered 16.7 years ago (2009-11-13).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ping-passion.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ping-passion.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ping-passion in the score above.
 

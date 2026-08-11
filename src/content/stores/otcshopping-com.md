@@ -5,7 +5,7 @@ title: Is otcshopping.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   otcshopping.com scores 58/100 on our public trust checks. Domain is relatively
   young. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:40:04.625Z'
+fetchedAt: '2026-07-27T08:26:52.005Z'
 finalUrl: 'https://otcshopping.com/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-01'
-      daysToExpiry: 37
+      daysToExpiry: 5
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-19'
-      ageDays: 217
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-19).
+      ageDays: 249
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-19).
   contact:
     status: warn
     value:

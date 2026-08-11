@@ -5,7 +5,7 @@ title: Is ux-designerin.de Legit? Trust Score 83/100
 description: >-
   ux-designerin.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:17:08.063Z'
+fetchedAt: '2026-08-10T06:25:08.757Z'
 finalUrl: 'https://ux-designerin.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is decofurnsa.co.za Legit? Trust Score 100/100
 description: >-
   decofurnsa.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-24T21:46:34.417Z'
+fetchedAt: '2026-07-27T08:06:51.711Z'
 finalUrl: 'https://decofurnsa.co.za/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 78
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

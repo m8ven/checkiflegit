@@ -1,11 +1,11 @@
 ---
 domain: paperstrawwarehouse.com
 slug: paperstrawwarehouse-com
-title: Is paperstrawwarehouse.com Legit? Trust Score 52/100
+title: Is paperstrawwarehouse.com Legit? Trust Score 55/100
 description: >-
-  paperstrawwarehouse.com scores 52/100 on our public trust checks. Domain is
-  relatively young. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:00:53.237Z'
+  paperstrawwarehouse.com scores 55/100 on our public trust checks. No links to
+  major social platforms found. Domain is relatively young.
+fetchedAt: '2026-08-10T06:11:36.704Z'
 finalUrl: 'https://paperstrawwarehouse.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 52
+  score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-  redFlags: []
+    - Public business contact details are listed.
+  redFlags:
+    - No links to major social platforms found.
   cautions:
     - Domain is relatively young.
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -57,34 +57,34 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 78
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-20'
-      ageDays: 216
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-20).
+      ageDays: 262
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-20).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
-      instagram: true
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-paperstrawwarehouse.com sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, the domain is still relatively young and only limited contact details are listed — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+paperstrawwarehouse.com sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Paperstrawwarehouse in the score above.
 

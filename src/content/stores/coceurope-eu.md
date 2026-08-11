@@ -5,7 +5,7 @@ title: Is coceurope.eu Legit? Trust Score 36/100
 description: >-
   coceurope.eu scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:38:44.871Z'
+fetchedAt: '2026-08-03T08:24:40.876Z'
 finalUrl: 'https://coceurope.eu/'
 reachable: true
 noindex: false
@@ -55,11 +55,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: GoGetSSL
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      issuer: Sectigo Limited
+      validTo: '2027-02-11'
+      daysToExpiry: 193
       authorized: true
-    detail: Valid certificate issued by GoGetSSL.
+    detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: unknown
     value: null

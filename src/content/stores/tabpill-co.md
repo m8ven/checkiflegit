@@ -5,7 +5,7 @@ title: Is tabpill.co Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   tabpill.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:04:12.908Z'
+fetchedAt: '2026-08-10T06:14:34.773Z'
 finalUrl: 'https://tabpill.co/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

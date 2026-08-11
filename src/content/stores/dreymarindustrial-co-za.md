@@ -5,7 +5,7 @@ title: Is dreymarindustrial.co.za Legit? Trust Score 100/100
 description: >-
   dreymarindustrial.co.za scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:01:25.988Z'
+fetchedAt: '2026-08-03T08:07:31.487Z'
 finalUrl: 'https://www.dreymarindustrial.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-22'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -5,7 +5,7 @@ title: Is airtekwa.com.au Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   airtekwa.com.au scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T12:11:38.469Z'
+fetchedAt: '2026-08-10T06:20:16.854Z'
 finalUrl: 'https://www.airtekwa.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-06'
-      daysToExpiry: 74
+      validTo: '2026-11-06'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: jokerbrand-net
 title: Is jokerbrand.net Legit? Trust Score 100/100
 description: >-
   jokerbrand.net scores 100/100 on our public trust checks. Established domain —
-  registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:21.810Z'
+  registered 22.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:26:22.450Z'
 finalUrl: 'https://jokerbrand.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.1 years ago.
+    - Established domain — registered 22.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2004-05-13'
-      ageDays: 8077
-      ageYears: 22.1
-    detail: Registered 22.1 years ago (2004-05-13).
+      ageDays: 8109
+      ageYears: 22.2
+    detail: Registered 22.2 years ago (2004-05-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jokerbrand.net looks like a well-established store. The clearest positives are that its domain has been registered for 22.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jokerbrand.net looks like a well-established store. The clearest positives are that its domain has been registered for 22.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jokerbrand in the score above.
 

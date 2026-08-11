@@ -5,7 +5,7 @@ title: Is mydealsonline.com.au Legit? Trust Score 100/100
 description: >-
   mydealsonline.com.au scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:21:03.927Z'
+fetchedAt: '2026-08-10T06:28:11.920Z'
 finalUrl: 'https://mydealsonline.com.au/'
 reachable: true
 noindex: false
@@ -35,7 +35,7 @@ signals:
     status: pass
     value:
       platform: WooCommerce
-      isStore: true
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

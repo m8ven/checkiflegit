@@ -5,7 +5,7 @@ title: Is sprayfoam.shop Legit? Trust Score 91/100
 description: >-
   sprayfoam.shop scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:04:14.980Z'
+fetchedAt: '2026-08-10T06:14:36.007Z'
 finalUrl: 'https://sprayfoam.shop/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 84
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

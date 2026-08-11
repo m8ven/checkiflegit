@@ -5,7 +5,7 @@ title: Is seadamp.it Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   seadamp.it scores 70/100 on our public trust checks. Established domain —
   registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:20.993Z'
+fetchedAt: '2026-07-27T08:30:50.565Z'
 finalUrl: 'https://seadamp.it/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-09-27'
-      ageDays: 5384
+      ageDays: 5416
       ageYears: 14.8
     detail: Registered 14.8 years ago (2011-09-27).
   contact:

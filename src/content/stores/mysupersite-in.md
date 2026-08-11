@@ -5,7 +5,7 @@ title: Is mysupersite.in Legit? Trust Score 91/100
 description: >-
   mysupersite.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:37:59.603Z'
+fetchedAt: '2026-08-10T05:59:41.861Z'
 finalUrl: 'https://mysupersite.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

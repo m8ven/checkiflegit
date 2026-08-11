@@ -4,8 +4,8 @@ slug: bjctools-nl
 title: Is bjctools.nl Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   bjctools.nl scores 88/100 on our public trust checks. Established domain —
-  registered 26 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:46.761Z'
+  registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:23:31.445Z'
 finalUrl: 'https://bjctools.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26 years ago.
+    - Established domain — registered 26.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -48,32 +48,32 @@ signals:
     value:
       contact: false
       privacy: true
-      terms: false
+      terms: true
       refund: true
-      shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+      shipping: true
+    detail: 'Found 4 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-30'
-      daysToExpiry: 66
+      daysToExpiry: 27
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-07-05'
-      ageDays: 9486
-      ageYears: 26
-    detail: Registered 26 years ago (2000-07-05).
+      ageDays: 9525
+      ageYears: 26.1
+    detail: Registered 26.1 years ago (2000-07-05).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bjctools.nl looks like a well-established store. The clearest positives are that its domain has been registered for 26 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bjctools.nl looks like a well-established store. The clearest positives are that its domain has been registered for 26.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bjctools in the score above.
 

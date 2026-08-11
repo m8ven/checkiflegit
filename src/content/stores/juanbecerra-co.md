@@ -5,7 +5,7 @@ title: Is juanbecerra.co Legit? Trust Score 100/100
 description: >-
   juanbecerra.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:21:36.497Z'
+fetchedAt: '2026-08-03T08:11:14.957Z'
 finalUrl: 'https://www.juanbecerra.co/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-28'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

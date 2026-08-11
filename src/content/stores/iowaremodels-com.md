@@ -4,8 +4,8 @@ slug: iowaremodels-com
 title: Is iowaremodels.com Legit? Trust Score 70/100
 description: >-
   iowaremodels.com scores 70/100 on our public trust checks. Established domain
-  — registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:30.054Z'
+  — registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:38.022Z'
 finalUrl: 'https://iowaremodels.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.5 years ago.
+    - Established domain — registered 14.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2011-12-18'
-      ageDays: 5302
-      ageYears: 14.5
-    detail: Registered 14.5 years ago (2011-12-18).
+      ageDays: 5334
+      ageYears: 14.6
+    detail: Registered 14.6 years ago (2011-12-18).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-iowaremodels.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+iowaremodels.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Iowaremodels in the score above.
 

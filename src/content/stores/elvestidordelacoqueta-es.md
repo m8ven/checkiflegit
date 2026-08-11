@@ -6,7 +6,7 @@ description: >-
   elvestidordelacoqueta.es scores 57/100 on our public trust checks. No public
   contact details detected on the homepage. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:37:56.911Z'
+fetchedAt: '2026-08-03T08:24:12.604Z'
 finalUrl: 'https://elvestidordelacoqueta.es/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-28'
-      daysToExpiry: 157
+      daysToExpiry: 118
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

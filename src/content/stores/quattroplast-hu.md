@@ -5,7 +5,7 @@ title: Is quattroplast.hu Legit? Trust Score 36/100
 description: >-
   quattroplast.hu scores 36/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T11:57:42.684Z'
+fetchedAt: '2026-08-10T06:09:14.404Z'
 finalUrl: 'https://quattroplast.hu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: chiustyle-com
 title: Is chiustyle.com Legit? Trust Score 100/100
 description: >-
   chiustyle.com scores 100/100 on our public trust checks. Established domain —
-  registered 2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:27:53.247Z'
+  registered 2.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:38.552Z'
 finalUrl: 'https://chiustyle.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2 years ago.
+    - Established domain — registered 2.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,37 +56,35 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-06-07'
-      ageDays: 747
-      ageYears: 2
-    detail: Registered 2 years ago (2024-06-07).
+      ageDays: 793
+      ageYears: 2.2
+    detail: Registered 2.2 years ago (2024-06-07).
   contact:
     status: pass
     value:
       email: true
-      phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      phone: false
+      address: true
+    detail: 'Public contact details found: email, address.'
   social:
     status: pass
     value:
       facebook: true
-      instagram: true
+      instagram: false
       twitter: false
-      tiktok: true
-      youtube: true
+      tiktok: false
+      youtube: false
       linkedin: false
       pinterest: true
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, tiktok, youtube,
-      pinterest.
+    detail: 'Links to 2 social platform(s): facebook, pinterest.'
   reviews:
     status: unknown
     value:
@@ -97,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-chiustyle.com looks like a well-established store. The clearest positives are that its domain has been registered for 2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+chiustyle.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Chiustyle in the score above.
 

@@ -5,7 +5,7 @@ title: Is members.pewin.org Legit? Trust Score 57/100
 description: >-
   members.pewin.org scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:18.451Z'
+fetchedAt: '2026-07-27T08:38:00.785Z'
 finalUrl: 'https://members.pewin.org/login/?redirect_to=%2F'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

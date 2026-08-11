@@ -5,7 +5,7 @@ title: Is abrachic.it Legit? Trust Score 100/100
 description: >-
   abrachic.it scores 100/100 on our public trust checks. Established domain —
   registered 11 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:48.851Z'
+fetchedAt: '2026-07-27T08:12:50.265Z'
 finalUrl: 'https://abrachic.it/'
 reachable: true
 noindex: false
@@ -49,22 +49,22 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-07-12'
-      ageDays: 4000
+      ageDays: 4032
       ageYears: 11
     detail: Registered 11 years ago (2015-07-12).
   contact:

@@ -5,7 +5,7 @@ title: Is shop.husqvarna.hr Legit? Trust Score 83/100
 description: >-
   shop.husqvarna.hr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:45:03.193Z'
+fetchedAt: '2026-07-27T08:31:26.238Z'
 finalUrl: 'https://shop.husqvarna.hr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-09'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

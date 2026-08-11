@@ -5,7 +5,7 @@ title: Is afitexno.gr Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   afitexno.gr scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:41:11.078Z'
+fetchedAt: '2026-07-27T08:27:49.123Z'
 finalUrl: 'https://afitexno.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-16'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

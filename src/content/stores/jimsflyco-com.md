@@ -4,8 +4,8 @@ slug: jimsflyco-com
 title: Is jimsflyco.com Legit? Trust Score 94/100
 description: >-
   jimsflyco.com scores 94/100 on our public trust checks. Established domain —
-  registered 21.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:49.813Z'
+  registered 22 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:14:01.246Z'
 finalUrl: 'https://jimsflyco.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.9 years ago.
+    - Established domain — registered 22 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 69
+      validTo: '2026-10-02'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-08-13'
-      ageDays: 7986
-      ageYears: 21.9
-    detail: Registered 21.9 years ago (2004-08-13).
+      ageDays: 8031
+      ageYears: 22
+    detail: Registered 22 years ago (2004-08-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jimsflyco.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.9 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jimsflyco.com looks like a well-established store. The clearest positives are that its domain has been registered for 22 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jimsflyco in the score above.
 

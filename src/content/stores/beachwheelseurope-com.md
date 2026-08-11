@@ -4,8 +4,8 @@ slug: beachwheelseurope-com
 title: Is beachwheelseurope.com Legit? Trust Score 100/100
 description: >-
   beachwheelseurope.com scores 100/100 on our public trust checks. Established
-  domain — registered 13.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:28.227Z'
+  domain — registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:23.570Z'
 finalUrl: 'https://beachwheelseurope.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.6 years ago.
+    - Established domain — registered 13.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-02'
-      daysToExpiry: 131
+      daysToExpiry: 92
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2012-11-22'
-      ageDays: 4962
-      ageYears: 13.6
-    detail: Registered 13.6 years ago (2012-11-22).
+      ageDays: 5001
+      ageYears: 13.7
+    detail: Registered 13.7 years ago (2012-11-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-beachwheelseurope.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+beachwheelseurope.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Beachwheelseurope in the score above.
 

@@ -5,7 +5,7 @@ title: Is victorianbathrooms.co.za Legit? Trust Score 100/100
 description: >-
   victorianbathrooms.co.za scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:55:31.475Z'
+fetchedAt: '2026-08-03T08:03:33.972Z'
 finalUrl: 'https://victorianbathrooms.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-23'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

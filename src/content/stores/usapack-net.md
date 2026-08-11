@@ -4,8 +4,8 @@ slug: usapack-net
 title: Is usapack.net Legit? Trust Score 100/100
 description: >-
   usapack.net scores 100/100 on our public trust checks. Established domain —
-  registered 1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:55:01.550Z'
+  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:11.199Z'
 finalUrl: 'https://usapack.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1 years ago.
+    - Established domain — registered 1.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-06-14'
-      ageDays: 375
-      ageYears: 1
-    detail: Registered 1 years ago (2025-06-14).
+      ageDays: 421
+      ageYears: 1.2
+    detail: Registered 1.2 years ago (2025-06-14).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-usapack.net looks like a well-established store. The clearest positives are that its domain has been registered for 1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+usapack.net looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Usapack in the score above.
 

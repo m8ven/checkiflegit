@@ -5,7 +5,7 @@ title: Is dietrollie.co.za Legit? Trust Score 19/100
 description: >-
   dietrollie.co.za scores 19/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:30:43.506Z'
+fetchedAt: '2026-07-27T08:19:27.934Z'
 finalUrl: 'https://dietrollie.co.za/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

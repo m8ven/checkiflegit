@@ -5,7 +5,7 @@ title: Is aisc-org.it Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   aisc-org.it scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:38:33.597Z'
+fetchedAt: '2026-07-27T08:25:39.447Z'
 finalUrl: 'https://aisc-org.it/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-10-31'
-      ageDays: 6445
+      ageDays: 6477
       ageYears: 17.7
     detail: Registered 17.7 years ago (2008-10-31).
   contact:

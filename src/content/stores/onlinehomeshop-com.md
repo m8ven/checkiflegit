@@ -4,8 +4,8 @@ slug: onlinehomeshop-com
 title: Is onlinehomeshop.com Legit? Trust Score 88/100
 description: >-
   onlinehomeshop.com scores 88/100 on our public trust checks. Established
-  domain — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:33.812Z'
+  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:51.131Z'
 finalUrl: 'https://www.onlinehomeshop.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 12.9 years ago.
+    - Established domain — registered 13 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-01'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-07-26'
-      ageDays: 4716
-      ageYears: 12.9
-    detail: Registered 12.9 years ago (2013-07-26).
+      ageDays: 4748
+      ageYears: 13
+    detail: Registered 13 years ago (2013-07-26).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-onlinehomeshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+onlinehomeshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Onlinehomeshop in the score above.
 

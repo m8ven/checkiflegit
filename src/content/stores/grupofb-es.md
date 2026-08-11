@@ -5,7 +5,7 @@ title: Is grupofb.es Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   grupofb.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:47:22.941Z'
+fetchedAt: '2026-08-03T08:32:21.610Z'
 finalUrl: 'https://grupofb.es/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: GlobalSign nv-sa
       validTo: '2027-04-07'
-      daysToExpiry: 287
+      daysToExpiry: 247
       authorized: true
     detail: Valid certificate issued by GlobalSign nv-sa.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

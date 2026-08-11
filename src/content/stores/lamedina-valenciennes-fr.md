@@ -4,8 +4,8 @@ slug: lamedina-valenciennes-fr
 title: Is lamedina-valenciennes.fr Legit? Trust Score 70/100
 description: >-
   lamedina-valenciennes.fr scores 70/100 on our public trust checks. Established
-  domain — registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:25.284Z'
+  domain — registered 17.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:31:46.438Z'
 finalUrl: 'https://lamedina-valenciennes.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.4 years ago.
+    - Established domain — registered 17.5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-10'
-      daysToExpiry: 169
+      daysToExpiry: 137
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2009-01-26'
-      ageDays: 6358
-      ageYears: 17.4
-    detail: Registered 17.4 years ago (2009-01-26).
+      ageDays: 6390
+      ageYears: 17.5
+    detail: Registered 17.5 years ago (2009-01-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lamedina-valenciennes.fr looks like a well-established store. The clearest positives are that its domain has been registered for 17.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lamedina-valenciennes.fr looks like a well-established store. The clearest positives are that its domain has been registered for 17.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lamedina-valenciennes in the score above.
 

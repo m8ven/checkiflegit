@@ -1,12 +1,14 @@
 ---
 domain: 88starmart.com
 slug: 88starmart-com
-title: Is 88starmart.com Legit? Trust Score 43/100
+title: Is 88starmart.com Legit? Trust Score 25/100
 description: >-
-  88starmart.com scores 43/100 on our public trust checks. Standard contact and
-  policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:18:07.783Z'
-finalUrl: 'https://88starmart.com/'
+  88starmart.com scores 25/100 on our public trust checks. Standard contact and
+  policy pages were not found. No public contact details detected on the
+  homepage.
+fetchedAt: '2026-07-27T08:09:07.039Z'
+finalUrl: >-
+  https://88starmart.com/open-the-shop/?redirect_to=https%3A%2F%2F88starmart.com%2F
 reachable: true
 noindex: false
 verdict:
@@ -16,34 +18,34 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 43
+  score: 25
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2 years ago.
+    - Established domain — registered 2.1 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://88starmart.com/'
+      finalUrl: >-
+        https://88starmart.com/open-the-shop/?redirect_to=https%3A%2F%2F88starmart.com%2F
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: fail
     value:
@@ -57,24 +59,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-03'
-      daysToExpiry: 71
+      validTo: '2026-10-14'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-06-06'
-      ageDays: 748
-      ageYears: 2
-    detail: Registered 2 years ago (2024-06-06).
+      ageDays: 780
+      ageYears: 2.1
+    detail: Registered 2.1 years ago (2024-06-06).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -96,7 +98,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for 88starmart.com. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 2 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for 88starmart.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 2.1 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 88starmart in the score above.
 

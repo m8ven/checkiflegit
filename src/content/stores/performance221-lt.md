@@ -4,8 +4,8 @@ slug: performance221-lt
 title: Is performance221.lt Legit? Trust Score 88/100
 description: >-
   performance221.lt scores 88/100 on our public trust checks. Established domain
-  — registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:55:45.846Z'
+  — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:35.505Z'
 finalUrl: 'https://performance221.lt/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.6 years ago.
+    - Established domain — registered 4.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 53
+      validTo: '2026-10-16'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-11-23'
-      ageDays: 1675
-      ageYears: 4.6
-    detail: Registered 4.6 years ago (2021-11-23).
+      ageDays: 1721
+      ageYears: 4.7
+    detail: Registered 4.7 years ago (2021-11-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-performance221.lt looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+performance221.lt looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Performance221 in the score above.
 

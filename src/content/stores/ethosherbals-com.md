@@ -3,9 +3,9 @@ domain: ethosherbals.com
 slug: ethosherbals-com
 title: Is ethosherbals.com Legit? Trust Score 100/100
 description: >-
-  ethosherbals.com scores 100/100 on our public trust checks. Established domain
-  — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:09.035Z'
+  ethosherbals.com scores 100/100 on our public trust checks. Has a contact page
+  and multiple policy pages (privacy/terms/refund).
+fetchedAt: '2026-08-03T08:29:36.321Z'
 finalUrl: 'https://ethosherbals.com/'
 reachable: true
 noindex: false
@@ -18,8 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.4 years ago.
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -53,20 +51,13 @@ signals:
       shipping: false
     detail: Found 3 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-06-25'
-      daysToExpiry: 1
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2022-01-23'
-      ageDays: 1613
-      ageYears: 4.4
-    detail: Registered 4.4 years ago (2022-01-23).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -91,11 +82,11 @@ signals:
       trustpilot: unknown
       google: unknown
     detail: >-
-      Trustpilot presence inconclusive (HTTP 403). Google review presence not
-      checked (no free, reliable signal).
+      Trustpilot presence check failed: This operation was aborted Google review
+      presence not checked (no free, reliable signal).
 ---
 
-ethosherbals.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ethosherbals.com looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ethosherbals in the score above.
 

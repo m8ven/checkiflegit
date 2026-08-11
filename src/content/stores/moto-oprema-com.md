@@ -4,8 +4,8 @@ slug: moto-oprema-com
 title: Is moto-oprema.com Legit? Trust Score 73/100
 description: >-
   moto-oprema.com scores 73/100 on our public trust checks. Established domain —
-  registered 20.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:56:41.186Z'
+  registered 20.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:06:23.961Z'
 finalUrl: 'https://moto-oprema.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.7 years ago.
+    - Established domain — registered 20.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -49,24 +49,24 @@ signals:
       contact: false
       privacy: true
       terms: false
-      refund: false
+      refund: true
       shipping: true
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-10-25'
-      ageDays: 7547
-      ageYears: 20.7
-    detail: Registered 20.7 years ago (2005-10-25).
+      ageDays: 7593
+      ageYears: 20.8
+    detail: Registered 20.8 years ago (2005-10-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-moto-oprema.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+moto-oprema.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Moto-oprema in the score above.
 

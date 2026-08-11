@@ -4,8 +4,8 @@ slug: kobe-zoom-com
 title: Is kobe-zoom.com Legit? Trust Score 88/100
 description: >-
   kobe-zoom.com scores 88/100 on our public trust checks. Established domain —
-  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:02.751Z'
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:35:46.402Z'
 finalUrl: 'https://kobe-zoom.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.1 years ago.
+    - Established domain — registered 3.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: GlobalSign nv-sa
       validTo: '2027-02-16'
-      daysToExpiry: 237
+      daysToExpiry: 198
       authorized: true
     detail: Valid certificate issued by GlobalSign nv-sa.
   domainAge:
     status: pass
     value:
       createdAt: '2023-05-14'
-      ageDays: 1138
-      ageYears: 3.1
-    detail: Registered 3.1 years ago (2023-05-14).
+      ageDays: 1177
+      ageYears: 3.2
+    detail: Registered 3.2 years ago (2023-05-14).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kobe-zoom.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kobe-zoom.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kobe-zoom in the score above.
 

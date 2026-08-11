@@ -5,7 +5,7 @@ title: Is filmsprotective.com Legit? Trust Score 67/100
 description: >-
   filmsprotective.com scores 67/100 on our public trust checks. No links to
   major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T02:29:15.809Z'
+fetchedAt: '2026-08-03T08:01:04.815Z'
 finalUrl: 'https://filmsprotective.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-09'
-      ageDays: 258
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-10-09).
+      ageDays: 298
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-10-09).
   contact:
     status: pass
     value:

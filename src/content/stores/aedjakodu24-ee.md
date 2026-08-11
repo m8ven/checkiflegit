@@ -4,8 +4,8 @@ slug: aedjakodu24-ee
 title: Is aedjakodu24.ee Legit? Trust Score 82/100
 description: >-
   aedjakodu24.ee scores 82/100 on our public trust checks. Established domain —
-  registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:17:18.339Z'
+  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:08:17.436Z'
 finalUrl: 'https://aedjakodu24.ee/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.4 years ago.
+    - Established domain — registered 4.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-01-18'
-      ageDays: 1618
-      ageYears: 4.4
-    detail: Registered 4.4 years ago (2022-01-18).
+      ageDays: 1650
+      ageYears: 4.5
+    detail: Registered 4.5 years ago (2022-01-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aedjakodu24.ee looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aedjakodu24.ee looks like a well-established store. The clearest positives are that its domain has been registered for 4.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aedjakodu24 in the score above.
 

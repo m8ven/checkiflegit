@@ -4,8 +4,8 @@ slug: szerszambolt-com
 title: Is szerszambolt.com Legit? Trust Score 82/100
 description: >-
   szerszambolt.com scores 82/100 on our public trust checks. Established domain
-  — registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:57.819Z'
+  — registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:38:35.515Z'
 finalUrl: 'https://szerszambolt.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.2 years ago.
+    - Established domain — registered 18.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-09-30'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-03-31'
-      ageDays: 6659
-      ageYears: 18.2
-    detail: Registered 18.2 years ago (2008-03-31).
+      ageDays: 6692
+      ageYears: 18.3
+    detail: Registered 18.3 years ago (2008-03-31).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-szerszambolt.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+szerszambolt.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Szerszambolt in the score above.
 

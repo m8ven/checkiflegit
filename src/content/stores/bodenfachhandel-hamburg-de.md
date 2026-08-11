@@ -5,7 +5,7 @@ title: Is bodenfachhandel-hamburg.de Legit? Trust Score 100/100
 description: >-
   bodenfachhandel-hamburg.de scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:37:14.111Z'
+fetchedAt: '2026-08-10T06:02:31.811Z'
 finalUrl: 'https://bodenfachhandel-hamburg.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-31'
-      daysToExpiry: 129
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

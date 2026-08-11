@@ -4,8 +4,8 @@ slug: tiahlighting-co-uk
 title: Is tiahlighting.co.uk Legit? Trust Score 100/100
 description: >-
   tiahlighting.co.uk scores 100/100 on our public trust checks. Established
-  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:56.199Z'
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:02:34.809Z'
 finalUrl: 'https://tiahlighting.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.9 years ago.
+    - Established domain — registered 3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-26'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-21'
-      ageDays: 1069
-      ageYears: 2.9
-    detail: Registered 2.9 years ago (2023-07-21).
+      ageDays: 1109
+      ageYears: 3
+    detail: Registered 3 years ago (2023-07-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tiahlighting.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tiahlighting.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tiahlighting in the score above.
 

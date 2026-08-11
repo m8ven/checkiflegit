@@ -1,30 +1,29 @@
 ---
 domain: maralinstore.com
 slug: maralinstore-com
-title: Is maralinstore.com Legit? Trust Score 82/100
+title: Is maralinstore.com Legit? Trust Score 66/100
 description: >-
-  maralinstore.com scores 82/100 on our public trust checks. Established domain
-  — registered 4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:51:44.481Z'
+  maralinstore.com scores 66/100 on our public trust checks. No links to major
+  social platforms found.
+fetchedAt: '2026-08-03T08:35:35.609Z'
 finalUrl: 'https://maralinstore.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 82
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 66
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4 years ago.
-    - Valid HTTPS/SSL certificate in place.
+    - Established domain — registered 4.1 years ago.
     - Public business contact details are listed.
-  redFlags: []
+  redFlags:
+    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -47,26 +46,22 @@ signals:
     status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Asseco Data Systems S.A.
-      validTo: '2026-12-30'
-      daysToExpiry: 189
-      authorized: true
-    detail: Valid certificate issued by Asseco Data Systems S.A..
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
     status: pass
     value:
       createdAt: '2022-06-11'
-      ageDays: 1474
-      ageYears: 4
-    detail: Registered 4 years ago (2022-06-11).
+      ageDays: 1513
+      ageYears: 4.1
+    detail: Registered 4.1 years ago (2022-06-11).
   contact:
     status: pass
     value:
@@ -75,16 +70,16 @@ signals:
       address: false
     detail: 'Public contact details found: email, phone.'
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
-      instagram: true
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +90,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-maralinstore.com looks like a well-established store. The clearest positives are that its domain has been registered for 4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+maralinstore.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.1 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Maralinstore in the score above.
 

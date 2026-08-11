@@ -4,8 +4,8 @@ slug: shoppeforkids-com
 title: Is shoppeforkids.com Legit? Trust Score 100/100
 description: >-
   shoppeforkids.com scores 100/100 on our public trust checks. Established
-  domain — registered 8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:17.047Z'
+  domain — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:31:38.538Z'
 finalUrl: 'https://shoppeforkids.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 8 years ago.
+    - Established domain — registered 8.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-07-08'
-      ageDays: 2909
-      ageYears: 8
-    detail: Registered 8 years ago (2018-07-08).
+      ageDays: 2941
+      ageYears: 8.1
+    detail: Registered 8.1 years ago (2018-07-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-shoppeforkids.com looks like a well-established store. The clearest positives are that its domain has been registered for 8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+shoppeforkids.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Shoppeforkids in the score above.
 

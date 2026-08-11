@@ -4,9 +4,9 @@ slug: marathonglobetrotters-org
 title: Is marathonglobetrotters.org Legit? Trust Score 70/100
 description: >-
   marathonglobetrotters.org scores 70/100 on our public trust checks.
-  Established domain — registered 12.5 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 12.7 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:27:34.596Z'
+fetchedAt: '2026-08-10T06:33:52.657Z'
 finalUrl: 'https://marathonglobetrotters.org/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.5 years ago.
+    - Established domain — registered 12.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -37,7 +37,7 @@ signals:
     status: pass
     value:
       platform: WooCommerce
-      isStore: true
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-12'
-      daysToExpiry: 79
+      validTo: '2026-09-30'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-12-13'
-      ageDays: 4576
-      ageYears: 12.5
-    detail: Registered 12.5 years ago (2013-12-13).
+      ageDays: 4622
+      ageYears: 12.7
+    detail: Registered 12.7 years ago (2013-12-13).
   contact:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-marathonglobetrotters.org looks like a well-established store. The clearest positives are that its domain has been registered for 12.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+marathonglobetrotters.org looks like a well-established store. The clearest positives are that its domain has been registered for 12.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Marathonglobetrotters in the score above.
 

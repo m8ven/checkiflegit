@@ -5,7 +5,7 @@ title: Is shop.egyptschools.info Legit? Trust Score 57/100
 description: >-
   shop.egyptschools.info scores 57/100 on our public trust checks. Standard
   contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:01.115Z'
+fetchedAt: '2026-07-27T08:31:26.101Z'
 finalUrl: 'https://shop.egyptschools.info/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

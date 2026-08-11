@@ -5,7 +5,7 @@ title: Is dvazelenaci.cz Legit? Trust Score 36/100
 description: >-
   dvazelenaci.cz scores 36/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:27:27.119Z'
+fetchedAt: '2026-08-03T08:15:51.235Z'
 finalUrl: 'https://dvazelenaci.cz/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 52
+      validTo: '2026-10-15'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: uniq-geek-com
 title: Is uniq-geek.com Legit? Trust Score 70/100
 description: >-
   uniq-geek.com scores 70/100 on our public trust checks. Established domain —
-  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:17:25.207Z'
+  registered 8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:25:22.207Z'
 finalUrl: 'https://uniq-geek.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.8 years ago.
+    - Established domain — registered 8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-26'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-08-25'
-      ageDays: 2860
-      ageYears: 7.8
-    detail: Registered 7.8 years ago (2018-08-25).
+      ageDays: 2906
+      ageYears: 8
+    detail: Registered 8 years ago (2018-08-25).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-uniq-geek.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+uniq-geek.com looks like a well-established store. The clearest positives are that its domain has been registered for 8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Uniq-geek in the score above.
 

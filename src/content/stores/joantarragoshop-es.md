@@ -5,7 +5,7 @@ title: Is joantarragoshop.es Legit? Trust Score 57/100
 description: >-
   joantarragoshop.es scores 57/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:43:41.808Z'
+fetchedAt: '2026-08-10T06:03:03.678Z'
 finalUrl: 'https://joantarragoshop.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is olympikus.com.co Legit? Trust Score 100/100
 description: >-
   olympikus.com.co scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:46:30.662Z'
+fetchedAt: '2026-07-27T08:33:00.293Z'
 finalUrl: 'https://olympikus.com.co/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

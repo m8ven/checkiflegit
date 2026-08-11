@@ -5,7 +5,7 @@ title: Is anabolics-eu.com Legit? Trust Score 55/100
 description: >-
   anabolics-eu.com scores 55/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T02:19:08.220Z'
+fetchedAt: '2026-07-27T08:10:25.751Z'
 finalUrl: 'https://anabolics-eu.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-12'
-      daysToExpiry: 18
+      validTo: '2026-09-23'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-01-03'
-      ageDays: 172
-      ageYears: 0.5
-    detail: Registered 0.5 years ago (2026-01-03).
+      ageDays: 204
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2026-01-03).
   contact:
     status: pass
     value:

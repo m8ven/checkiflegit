@@ -5,7 +5,7 @@ title: Is originalwatch.uz Legit? Trust Score 88/100
 description: >-
   originalwatch.uz scores 88/100 on our public trust checks. Established domain
   — registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:53.579Z'
+fetchedAt: '2026-07-27T08:26:45.228Z'
 finalUrl: 'https://originalwatch.uz/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-10-29'
-      ageDays: 2795
+      ageDays: 2828
       ageYears: 7.7
     detail: Registered 7.7 years ago (2018-10-29).
   contact:

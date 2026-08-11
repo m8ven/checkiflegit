@@ -1,90 +1,90 @@
 ---
 domain: shackforge.com
 slug: shackforge-com
-title: Is shackforge.com Legit? Trust Score 94/100
+title: Is shackforge.com Legit? Trust Score 13/100
 description: >-
-  shackforge.com scores 94/100 on our public trust checks. Established domain —
-  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:54:23.775Z'
-finalUrl: 'https://shackforge.com/'
+  shackforge.com scores 13/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
+fetchedAt: '2026-08-10T06:04:36.657Z'
+finalUrl: 'http://shackforge.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 94
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 13
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.9 years ago.
-    - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
-  redFlags: []
+    - Established domain — registered 3 years ago.
+  redFlags:
+    - No valid SSL certificate — connection may not be secure.
+    - Standard contact and policy pages were not found.
+    - No links to major social platforms found.
   cautions:
-    - Limited social media presence.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://shackforge.com/'
+      finalUrl: 'http://shackforge.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: pass
+    status: fail
     value:
-      contact: true
-      privacy: true
-      terms: true
-      refund: true
+      contact: false
+      privacy: false
+      terms: false
+      refund: false
       shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-14'
-      daysToExpiry: 82
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: fail
+    value: null
+    detail: >
+      TLS connection failed: 80DCCA39DD7F0000:error:0A000438:SSL
+      routines:ssl3_read_bytes:tlsv1 alert internal
+      error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1601:SSL alert
+      number 80
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-28'
-      ageDays: 1062
-      ageYears: 2.9
-    detail: Registered 2.9 years ago (2023-07-28).
+      ageDays: 1108
+      ageYears: 3
+    detail: Registered 3 years ago (2023-07-28).
   contact:
-    status: pass
-    value:
-      email: true
-      phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
-  social:
     status: warn
     value:
-      facebook: true
+      email: true
+      phone: false
+      address: false
+    detail: 'Public contact details found: email.'
+  social:
+    status: fail
+    value:
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-shackforge.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for shackforge.com. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 3 years — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Shackforge in the score above.
 

@@ -1,11 +1,11 @@
 ---
 domain: moderndrummer.com
 slug: moderndrummer-com
-title: Is moderndrummer.com Legit? Trust Score 70/100
+title: Is moderndrummer.com Legit? Trust Score 88/100
 description: >-
-  moderndrummer.com scores 70/100 on our public trust checks. Established domain
-  — registered 30.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:39.087Z'
+  moderndrummer.com scores 88/100 on our public trust checks. Established domain
+  — registered 30.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:38.832Z'
 finalUrl: 'https://www.moderndrummer.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 30.4 years ago.
+    - Established domain — registered 30.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - No public contact details detected on the homepage.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-26'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-02-02'
-      ageDays: 11101
-      ageYears: 30.4
-    detail: Registered 30.4 years ago (1996-02-02).
+      ageDays: 11147
+      ageYears: 30.5
+    detail: Registered 30.5 years ago (1996-02-02).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-moderndrummer.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+moderndrummer.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Moderndrummer in the score above.
 

@@ -6,7 +6,7 @@ description: >-
   cjcidf.fr scores 25/100 on our public trust checks. Standard contact and
   policy pages were not found. No public contact details detected on the
   homepage.
-fetchedAt: '2026-06-25T02:22:11.793Z'
+fetchedAt: '2026-07-27T08:12:24.617Z'
 finalUrl: 'https://cjcidf.fr/'
 reachable: true
 noindex: false
@@ -58,15 +58,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-12'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-07-10'
-      ageDays: 2175
+      ageDays: 2207
       ageYears: 6
     detail: Registered 6 years ago (2020-07-10).
   contact:

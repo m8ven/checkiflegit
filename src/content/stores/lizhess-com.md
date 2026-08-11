@@ -5,7 +5,7 @@ title: Is lizhess.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   lizhess.com scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:26:51.457Z'
+fetchedAt: '2026-08-10T06:33:05.868Z'
 finalUrl: 'https://www.lizhess.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.7 years ago.
+    - Established domain — registered 22.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-28'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-10-06'
-      ageDays: 8297
-      ageYears: 22.7
-    detail: Registered 22.7 years ago (2003-10-06).
+      ageDays: 8343
+      ageYears: 22.9
+    detail: Registered 22.9 years ago (2003-10-06).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lizhess.com sends a mixed set of signals. On the positive side, its domain has been registered for 22.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+lizhess.com sends a mixed set of signals. On the positive side, its domain has been registered for 22.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lizhess in the score above.
 

@@ -5,7 +5,7 @@ title: Is artgrid.gr Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   artgrid.gr scores 57/100 on our public trust checks. No public contact details
   detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:22.260Z'
+fetchedAt: '2026-07-27T08:14:46.289Z'
 finalUrl: 'https://artgrid.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is nath.com.co Legit? Trust Score 19/100
 description: >-
   nath.com.co scores 19/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:59:04.322Z'
+fetchedAt: '2026-08-10T06:00:32.630Z'
 finalUrl: 'https://nath.com.co/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

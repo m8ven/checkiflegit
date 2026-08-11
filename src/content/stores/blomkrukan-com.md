@@ -4,8 +4,8 @@ slug: blomkrukan-com
 title: Is blomkrukan.com Legit? Trust Score 73/100
 description: >-
   blomkrukan.com scores 73/100 on our public trust checks. Established domain —
-  registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:31:35.881Z'
+  registered 22.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:36:55.406Z'
 finalUrl: 'https://www.blomkrukan.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.6 years ago.
+    - Established domain — registered 22.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-04'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-11-30'
-      ageDays: 8243
-      ageYears: 22.6
-    detail: Registered 22.6 years ago (2003-11-30).
+      ageDays: 8289
+      ageYears: 22.7
+    detail: Registered 22.7 years ago (2003-11-30).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blomkrukan.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+blomkrukan.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blomkrukan in the score above.
 

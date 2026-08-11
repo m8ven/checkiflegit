@@ -5,7 +5,7 @@ title: Is wardrobedoor.studio Legit? Trust Score 83/100
 description: >-
   wardrobedoor.studio scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:09:38.671Z'
+fetchedAt: '2026-08-10T06:18:56.954Z'
 finalUrl: 'https://wardrobedoor.studio/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 26
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

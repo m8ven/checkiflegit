@@ -1,28 +1,28 @@
 ---
 domain: memorialjborges.com
 slug: memorialjborges-com
-title: Is memorialjborges.com Legit? Trust Score 52/100
+title: Is memorialjborges.com Legit? Trust Score 70/100
 description: >-
-  memorialjborges.com scores 52/100 on our public trust checks. Standard contact
-  and policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:44:02.041Z'
+  memorialjborges.com scores 70/100 on our public trust checks. Established
+  domain — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:30:30.244Z'
 finalUrl: 'https://memorialjborges.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 52
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.8 years ago.
+    - Established domain — registered 3.9 years ago.
     - Valid HTTPS/SSL certificate in place.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
     - Limited social media presence.
 signals:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-19'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-09-09'
-      ageDays: 1384
-      ageYears: 3.8
-    detail: Registered 3.8 years ago (2022-09-09).
+      ageDays: 1416
+      ageYears: 3.9
+    detail: Registered 3.9 years ago (2022-09-09).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-memorialjborges.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+memorialjborges.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Memorialjborges in the score above.
 

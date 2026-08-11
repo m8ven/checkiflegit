@@ -4,9 +4,9 @@ slug: aeromaxbuildingsupplies-com
 title: Is aeromaxbuildingsupplies.com Legit? Trust Score 100/100
 description: >-
   aeromaxbuildingsupplies.com scores 100/100 on our public trust checks.
-  Established domain — registered 10.6 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 10.7 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:41:01.862Z'
+fetchedAt: '2026-07-27T08:27:43.208Z'
 finalUrl: 'https://aeromaxbuildingsupplies.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.6 years ago.
+    - Established domain — registered 10.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-15'
-      daysToExpiry: 205
+      daysToExpiry: 173
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2015-11-22'
-      ageDays: 3867
-      ageYears: 10.6
-    detail: Registered 10.6 years ago (2015-11-22).
+      ageDays: 3900
+      ageYears: 10.7
+    detail: Registered 10.7 years ago (2015-11-22).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aeromaxbuildingsupplies.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aeromaxbuildingsupplies.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aeromaxbuildingsupplies in the score above.
 

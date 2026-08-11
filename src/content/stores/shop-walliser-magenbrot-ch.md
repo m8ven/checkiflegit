@@ -5,7 +5,7 @@ title: Is shop.walliser-magenbrot.ch Legit? Trust Score 44/100
 description: >-
   shop.walliser-magenbrot.ch scores 44/100 on our public trust checks. No links
   to major social platforms found.
-fetchedAt: '2026-06-25T02:45:16.199Z'
+fetchedAt: '2026-07-27T08:31:36.666Z'
 finalUrl: 'https://shop.walliser-magenbrot.ch/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-01'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

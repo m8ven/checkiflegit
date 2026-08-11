@@ -6,7 +6,7 @@ description: >-
   marineinternational.co.in scores 57/100 on our public trust checks. No public
   contact details detected on the homepage. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:27:45.052Z'
+fetchedAt: '2026-08-10T06:34:00.951Z'
 finalUrl: 'https://www.marineinternational.co.in/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-03'
-      daysToExpiry: 70
+      validTo: '2026-11-01'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

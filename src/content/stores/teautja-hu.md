@@ -5,7 +5,7 @@ title: Is teautja.hu Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   teautja.hu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:04:39.733Z'
+fetchedAt: '2026-08-10T06:14:49.211Z'
 finalUrl: 'https://teautja.hu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

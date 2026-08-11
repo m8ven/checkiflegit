@@ -5,7 +5,7 @@ title: Is fatimaonline.at Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   fatimaonline.at scores 61/100 on our public trust checks. No links to major
   social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:46:31.541Z'
+fetchedAt: '2026-08-03T08:31:40.590Z'
 finalUrl: 'https://fatimaonline.at/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2026-10-24'
-      daysToExpiry: 122
+      daysToExpiry: 83
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:

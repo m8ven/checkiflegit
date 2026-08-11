@@ -4,8 +4,8 @@ slug: tapecariasellegance-com
 title: Is tapecariasellegance.com Legit? Trust Score 100/100
 description: >-
   tapecariasellegance.com scores 100/100 on our public trust checks. Established
-  domain — registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:04:24.472Z'
+  domain — registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:14:39.876Z'
 finalUrl: 'https://tapecariasellegance.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.6 years ago.
+    - Established domain — registered 10.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-25'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-12-04'
-      ageDays: 3855
-      ageYears: 10.6
-    detail: Registered 10.6 years ago (2015-12-04).
+      ageDays: 3901
+      ageYears: 10.7
+    detail: Registered 10.7 years ago (2015-12-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tapecariasellegance.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tapecariasellegance.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tapecariasellegance in the score above.
 

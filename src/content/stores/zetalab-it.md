@@ -4,8 +4,8 @@ slug: zetalab-it
 title: Is zetalab.it Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   zetalab.it scores 100/100 on our public trust checks. Established domain —
-  registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:25:21.913Z'
+  registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:13:58.155Z'
 finalUrl: 'https://www.zetalab.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.2 years ago.
+    - Established domain — registered 26.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-04-19'
-      ageDays: 9562
-      ageYears: 26.2
-    detail: Registered 26.2 years ago (2000-04-19).
+      ageDays: 9602
+      ageYears: 26.3
+    detail: Registered 26.3 years ago (2000-04-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-zetalab.it looks like a well-established store. The clearest positives are that its domain has been registered for 26.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+zetalab.it looks like a well-established store. The clearest positives are that its domain has been registered for 26.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Zetalab in the score above.
 

@@ -4,8 +4,8 @@ slug: mountainjade-co-nz
 title: Is mountainjade.co.nz Legit? Trust Score 100/100
 description: >-
   mountainjade.co.nz scores 100/100 on our public trust checks. Established
-  domain — registered 26 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:41.233Z'
+  domain — registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:13:32.131Z'
 finalUrl: 'https://www.mountainjade.co.nz/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 26 years ago.
+    - Established domain — registered 26.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-20'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-07-06'
-      ageDays: 9484
-      ageYears: 26
-    detail: Registered 26 years ago (2000-07-06).
+      ageDays: 9523
+      ageYears: 26.1
+    detail: Registered 26.1 years ago (2000-07-06).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mountainjade.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 26 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mountainjade.co.nz looks like a well-established store. The clearest positives are that its domain has been registered for 26.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mountainjade in the score above.
 

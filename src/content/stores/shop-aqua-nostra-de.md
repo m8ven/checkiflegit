@@ -5,7 +5,7 @@ title: Is shop.aqua-nostra.de Legit? Trust Score 91/100
 description: >-
   shop.aqua-nostra.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:00:53.185Z'
+fetchedAt: '2026-08-10T06:11:36.508Z'
 finalUrl: 'https://shop.aqua-nostra.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: militaria-pl
 title: Is militaria.pl Legit? Trust Score 100/100
 description: >-
   militaria.pl scores 100/100 on our public trust checks. Established domain —
-  registered 26.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:52.930Z'
+  registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:24.186Z'
 finalUrl: 'https://militaria.pl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 26.2 years ago.
+    - Established domain — registered 26.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-04-25'
-      ageDays: 9556
-      ageYears: 26.2
-    detail: Registered 26.2 years ago (2000-04-25).
+      ageDays: 9588
+      ageYears: 26.3
+    detail: Registered 26.3 years ago (2000-04-25).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-militaria.pl looks like a well-established store. The clearest positives are that its domain has been registered for 26.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+militaria.pl looks like a well-established store. The clearest positives are that its domain has been registered for 26.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Militaria in the score above.
 

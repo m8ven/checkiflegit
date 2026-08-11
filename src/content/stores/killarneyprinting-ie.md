@@ -5,7 +5,7 @@ title: Is killarneyprinting.ie Legit? Trust Score 73/100
 description: >-
   killarneyprinting.ie scores 73/100 on our public trust checks. Established
   domain — registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:42:09.627Z'
+fetchedAt: '2026-07-27T08:28:32.148Z'
 finalUrl: 'https://killarneyprinting.ie/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-09-27'
-      ageDays: 7210
+      ageDays: 7242
       ageYears: 19.8
     detail: Registered 19.8 years ago (2006-09-27).
   contact:

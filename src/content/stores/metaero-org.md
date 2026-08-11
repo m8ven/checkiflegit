@@ -4,8 +4,8 @@ slug: metaero-org
 title: Is metaero.org Legit? Trust Score 100/100
 description: >-
   metaero.org scores 100/100 on our public trust checks. Established domain —
-  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:54:00.879Z'
+  registered 4.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:04:22.345Z'
 finalUrl: 'https://metaero.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.1 years ago.
+    - Established domain — registered 4.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-06-03'
-      ageDays: 1482
-      ageYears: 4.1
-    detail: Registered 4.1 years ago (2022-06-03).
+      ageDays: 1528
+      ageYears: 4.2
+    detail: Registered 4.2 years ago (2022-06-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-metaero.org looks like a well-established store. The clearest positives are that its domain has been registered for 4.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+metaero.org looks like a well-established store. The clearest positives are that its domain has been registered for 4.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Metaero in the score above.
 

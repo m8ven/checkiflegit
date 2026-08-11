@@ -5,7 +5,7 @@ title: Is colortile.com.au Legit? Trust Score 57/100
 description: >-
   colortile.com.au scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:23:27.077Z'
+fetchedAt: '2026-07-27T08:13:12.808Z'
 finalUrl: 'https://colortile.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

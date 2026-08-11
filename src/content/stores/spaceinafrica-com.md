@@ -4,8 +4,8 @@ slug: spaceinafrica-com
 title: Is spaceinafrica.com Legit? Trust Score 100/100
 description: >-
   spaceinafrica.com scores 100/100 on our public trust checks. Established
-  domain — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:45.405Z'
+  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:04.125Z'
 finalUrl: 'https://spaceinafrica.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.3 years ago.
+    - Established domain — registered 8.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-22'
-      daysToExpiry: 27
+      validTo: '2026-09-26'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-03-07'
-      ageDays: 3032
-      ageYears: 8.3
-    detail: Registered 8.3 years ago (2018-03-07).
+      ageDays: 3077
+      ageYears: 8.4
+    detail: Registered 8.4 years ago (2018-03-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-spaceinafrica.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+spaceinafrica.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Spaceinafrica in the score above.
 

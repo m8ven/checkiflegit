@@ -4,8 +4,8 @@ slug: aico-ua
 title: Is aico.ua Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   aico.ua scores 76/100 on our public trust checks. Established domain —
-  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:17:25.624Z'
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:08:21.828Z'
 finalUrl: 'https://aico.ua/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.7 years ago.
+    - Established domain — registered 7.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -50,23 +50,23 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-27'
-      daysToExpiry: 64
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-10-18'
-      ageDays: 2806
-      ageYears: 7.7
-    detail: Registered 7.7 years ago (2018-10-18).
+      ageDays: 2838
+      ageYears: 7.8
+    detail: Registered 7.8 years ago (2018-10-18).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aico.ua looks like a well-established store. The clearest positives are that its domain has been registered for 7.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aico.ua looks like a well-established store. The clearest positives are that its domain has been registered for 7.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aico in the score above.
 

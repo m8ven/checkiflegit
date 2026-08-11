@@ -5,7 +5,7 @@ title: Is archiviofotograficocarbone.it Legit? Trust Score 61/100
 description: >-
   archiviofotograficocarbone.it scores 61/100 on our public trust checks. No
   links to major social platforms found.
-fetchedAt: '2026-06-25T03:34:15.966Z'
+fetchedAt: '2026-08-03T08:21:16.183Z'
 finalUrl: 'https://archiviofotograficocarbone.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.6 years ago.
+    - Established domain — registered 8.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-11-03'
-      ageDays: 3155
-      ageYears: 8.6
-    detail: Registered 8.6 years ago (2017-11-03).
+      ageDays: 3194
+      ageYears: 8.8
+    detail: Registered 8.8 years ago (2017-11-03).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-archiviofotograficocarbone.it sends a mixed set of signals. On the positive side, its domain has been registered for 8.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+archiviofotograficocarbone.it sends a mixed set of signals. On the positive side, its domain has been registered for 8.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Archiviofotograficocarbone in the score above.
 

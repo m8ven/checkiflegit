@@ -4,8 +4,8 @@ slug: sewvacauthority-com
 title: Is sewvacauthority.com Legit? Trust Score 100/100
 description: >-
   sewvacauthority.com scores 100/100 on our public trust checks. Established
-  domain — registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:09:34.725Z'
+  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:18:52.241Z'
 finalUrl: 'https://sewvacauthority.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.1 years ago.
+    - Established domain — registered 8.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-23'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2018-05-29'
-      ageDays: 2948
-      ageYears: 8.1
-    detail: Registered 8.1 years ago (2018-05-29).
+      ageDays: 2994
+      ageYears: 8.2
+    detail: Registered 8.2 years ago (2018-05-29).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sewvacauthority.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sewvacauthority.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sewvacauthority in the score above.
 

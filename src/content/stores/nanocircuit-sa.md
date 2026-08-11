@@ -5,7 +5,7 @@ title: Is nanocircuit.sa Legit? Trust Score 83/100
 description: >-
   nanocircuit.sa scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:54:18.112Z'
+fetchedAt: '2026-08-10T06:04:33.322Z'
 finalUrl: 'https://nanocircuit.sa/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      issuer: Google Trust Services
+      validTo: '2026-10-24'
+      daysToExpiry: 76
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null

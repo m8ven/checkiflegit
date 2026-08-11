@@ -4,8 +4,8 @@ slug: betiptop-com
 title: Is betiptop.com Legit? Trust Score 88/100
 description: >-
   betiptop.com scores 88/100 on our public trust checks. Established domain —
-  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:23:23.199Z'
+  registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:10.974Z'
 finalUrl: 'https://www.betiptop.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.4 years ago.
+    - Established domain — registered 6.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 62
+      daysToExpiry: 16
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-02-11'
-      ageDays: 2326
-      ageYears: 6.4
-    detail: Registered 6.4 years ago (2020-02-11).
+      ageDays: 2371
+      ageYears: 6.5
+    detail: Registered 6.5 years ago (2020-02-11).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-betiptop.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+betiptop.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Betiptop in the score above.
 

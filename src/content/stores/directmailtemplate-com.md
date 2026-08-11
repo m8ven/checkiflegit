@@ -5,7 +5,7 @@ title: Is directmailtemplate.com Legit? Trust Score 25/100
 description: >-
   directmailtemplate.com scores 25/100 on our public trust checks. Standard
   contact and policy pages were not found.
-fetchedAt: '2026-06-25T03:40:46.211Z'
+fetchedAt: '2026-08-03T08:26:15.718Z'
 finalUrl: 'https://directmailtemplate.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 25
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.5 years ago.
+    - Established domain — registered 3.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-04'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-12-14'
-      ageDays: 1288
-      ageYears: 3.5
-    detail: Registered 3.5 years ago (2022-12-14).
+      ageDays: 1327
+      ageYears: 3.6
+    detail: Registered 3.6 years ago (2022-12-14).
   contact:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for directmailtemplate.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 3.5 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for directmailtemplate.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 3.6 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Directmailtemplate in the score above.
 

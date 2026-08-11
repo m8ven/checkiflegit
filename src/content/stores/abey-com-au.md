@@ -5,7 +5,7 @@ title: Is abey.com.au Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   abey.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:11:16.467Z'
+fetchedAt: '2026-08-10T06:20:03.692Z'
 finalUrl: 'https://www.abey.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 30
+      validTo: '2026-09-27'
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

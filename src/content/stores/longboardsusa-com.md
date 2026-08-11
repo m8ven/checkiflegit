@@ -4,8 +4,8 @@ slug: longboardsusa-com
 title: Is longboardsusa.com Legit? Trust Score 100/100
 description: >-
   longboardsusa.com scores 100/100 on our public trust checks. Established
-  domain — registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:12:49.569Z'
+  domain — registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:21:22.272Z'
 finalUrl: 'https://longboardsusa.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 11.8 years ago.
+    - Established domain — registered 11.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 63
+      validTo: '2026-10-26'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-09-25'
-      ageDays: 4290
-      ageYears: 11.8
-    detail: Registered 11.8 years ago (2014-09-25).
+      ageDays: 4336
+      ageYears: 11.9
+    detail: Registered 11.9 years ago (2014-09-25).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-longboardsusa.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+longboardsusa.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Longboardsusa in the score above.
 

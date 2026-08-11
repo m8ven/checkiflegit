@@ -6,7 +6,7 @@ description: >-
   toptantemizlikmalzemeleri.com scores 64/100 on our public trust checks.
   Standard contact and policy pages were not found. Limited social media
   presence.
-fetchedAt: '2026-06-25T02:48:27.237Z'
+fetchedAt: '2026-07-27T08:34:36.221Z'
 finalUrl: 'https://toptantemizlikmalzemeleri.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-11'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-27'
-      ageDays: 1640
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2021-12-27).
+      ageDays: 1672
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2021-12-27).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-toptantemizlikmalzemeleri.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.5 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+toptantemizlikmalzemeleri.com sends a mixed set of signals. On the positive side, its domain has been registered for 4.6 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Toptantemizlikmalzemeleri in the score above.
 

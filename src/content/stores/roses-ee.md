@@ -4,8 +4,8 @@ slug: roses-ee
 title: Is roses.ee Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   roses.ee scores 76/100 on our public trust checks. Established domain —
-  registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:47:56.931Z'
+  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:32:57.134Z'
 finalUrl: 'https://roses.ee/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-11-29'
-      ageDays: 2033
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-11-29).
+      ageDays: 2072
+      ageYears: 5.7
+    detail: Registered 5.7 years ago (2020-11-29).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-roses.ee looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+roses.ee looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Roses in the score above.
 

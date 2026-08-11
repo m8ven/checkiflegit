@@ -5,7 +5,7 @@ title: Is trustgrup.md Legit? Trust Score 88/100
 description: >-
   trustgrup.md scores 88/100 on our public trust checks. Established domain —
   registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:52.493Z'
+fetchedAt: '2026-07-27T08:34:54.637Z'
 finalUrl: 'https://trustgrup.md/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 72
+      validTo: '2026-10-02'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-01-10'
-      ageDays: 1627
+      ageDays: 1659
       ageYears: 4.5
     detail: Registered 4.5 years ago (2022-01-10).
   contact:

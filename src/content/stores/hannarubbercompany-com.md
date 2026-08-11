@@ -4,8 +4,8 @@ slug: hannarubbercompany-com
 title: Is hannarubbercompany.com Legit? Trust Score 100/100
 description: >-
   hannarubbercompany.com scores 100/100 on our public trust checks. Established
-  domain — registered 22 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:47.363Z'
+  domain — registered 22.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:41.569Z'
 finalUrl: 'https://hannarubbercompany.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22 years ago.
+    - Established domain — registered 22.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-06-23'
-      ageDays: 8036
-      ageYears: 22
-    detail: Registered 22 years ago (2004-06-23).
+      ageDays: 8068
+      ageYears: 22.1
+    detail: Registered 22.1 years ago (2004-06-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hannarubbercompany.com looks like a well-established store. The clearest positives are that its domain has been registered for 22 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hannarubbercompany.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hannarubbercompany in the score above.
 

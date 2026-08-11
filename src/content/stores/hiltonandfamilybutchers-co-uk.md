@@ -4,9 +4,9 @@ slug: hiltonandfamilybutchers-co-uk
 title: Is hiltonandfamilybutchers.co.uk Legit? Trust Score 100/100
 description: >-
   hiltonandfamilybutchers.co.uk scores 100/100 on our public trust checks.
-  Established domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 5 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:30:00.686Z'
+fetchedAt: '2026-07-27T08:18:52.415Z'
 finalUrl: 'https://hiltonandfamilybutchers.co.uk/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 4.9 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-08-15'
-      ageDays: 1774
-      ageYears: 4.9
-    detail: Registered 4.9 years ago (2021-08-15).
+      ageDays: 1807
+      ageYears: 5
+    detail: Registered 5 years ago (2021-08-15).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hiltonandfamilybutchers.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hiltonandfamilybutchers.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hiltonandfamilybutchers in the score above.
 

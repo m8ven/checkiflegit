@@ -4,8 +4,8 @@ slug: cdncoin-com
 title: Is cdncoin.com Legit? Trust Score 100/100
 description: >-
   cdncoin.com scores 100/100 on our public trust checks. Established domain —
-  registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:37.284Z'
+  registered 22.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:04.304Z'
 finalUrl: 'https://cdncoin.com/en-us'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 22.4 years ago.
+    - Established domain — registered 22.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-02-10'
-      ageDays: 8170
-      ageYears: 22.4
-    detail: Registered 22.4 years ago (2004-02-10).
+      ageDays: 8202
+      ageYears: 22.5
+    detail: Registered 22.5 years ago (2004-02-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cdncoin.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cdncoin.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cdncoin in the score above.
 

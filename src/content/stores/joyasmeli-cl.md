@@ -5,7 +5,7 @@ title: Is joyasmeli.cl Legit? Trust Score 83/100
 description: >-
   joyasmeli.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:07:50.290Z'
+fetchedAt: '2026-08-10T06:17:23.621Z'
 finalUrl: 'https://joyasmeli.cl/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-13'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

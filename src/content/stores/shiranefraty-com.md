@@ -4,8 +4,8 @@ slug: shiranefraty-com
 title: Is shiranefraty.com Legit? Trust Score 85/100
 description: >-
   shiranefraty.com scores 85/100 on our public trust checks. Established domain
-  — registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:10:02.048Z'
+  — registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:19:18.921Z'
 finalUrl: 'https://shiranefraty.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.3 years ago.
+    - Established domain — registered 6.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-26'
-      daysToExpiry: 155
+      daysToExpiry: 109
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2020-02-29'
-      ageDays: 2307
-      ageYears: 6.3
-    detail: Registered 6.3 years ago (2020-02-29).
+      ageDays: 2353
+      ageYears: 6.4
+    detail: Registered 6.4 years ago (2020-02-29).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-shiranefraty.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+shiranefraty.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Shiranefraty in the score above.
 

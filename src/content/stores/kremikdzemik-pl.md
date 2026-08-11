@@ -1,11 +1,11 @@
 ---
 domain: kremikdzemik.pl
 slug: kremikdzemik-pl
-title: Is kremikdzemik.pl Legit? Trust Score 74/100
+title: Is kremikdzemik.pl Legit? Trust Score 94/100
 description: >-
-  kremikdzemik.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:52:11.151Z'
+  kremikdzemik.pl scores 94/100 on our public trust checks. Established domain —
+  registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:35:56.492Z'
 finalUrl: 'https://kremikdzemik.pl/'
 reachable: true
 noindex: false
@@ -15,14 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 74
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 12.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -43,26 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2026-11-04'
-      daysToExpiry: 133
+      daysToExpiry: 94
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2013-08-27'
+      ageDays: 4723
+      ageYears: 12.9
+    detail: Registered 12.9 years ago (2013-08-27).
   contact:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kremikdzemik.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kremikdzemik.pl looks like a well-established store. The clearest positives are that its domain has been registered for 12.9 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kremikdzemik in the score above.
 

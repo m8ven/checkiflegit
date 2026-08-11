@@ -5,7 +5,7 @@ title: Is teknoreklam.com.tr Legit? Trust Score 19/100
 description: >-
   teknoreklam.com.tr scores 19/100 on our public trust checks. Standard contact
   and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:53:20.528Z'
+fetchedAt: '2026-08-03T08:01:59.626Z'
 finalUrl: 'https://teknoreklam.com.tr/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

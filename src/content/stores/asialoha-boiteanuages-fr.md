@@ -5,7 +5,7 @@ title: Is asialoha.boiteanuages.fr Legit? Trust Score 74/100
 description: >-
   asialoha.boiteanuages.fr scores 74/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:47.797Z'
+fetchedAt: '2026-07-27T08:35:53.480Z'
 finalUrl: 'https://asialoha.boiteanuages.fr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

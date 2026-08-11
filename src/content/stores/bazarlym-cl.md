@@ -5,7 +5,7 @@ title: Is bazarlym.cl Legit? Trust Score 100/100
 description: >-
   bazarlym.cl scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:13:25.171Z'
+fetchedAt: '2026-08-10T06:22:02.841Z'
 finalUrl: 'https://www.bazarlym.cl/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 76
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

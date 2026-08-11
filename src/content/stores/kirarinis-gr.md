@@ -5,7 +5,7 @@ title: Is kirarinis.gr Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   kirarinis.gr scores 49/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:40:32.682Z'
+fetchedAt: '2026-07-27T08:27:19.028Z'
 finalUrl: 'https://kirarinis.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

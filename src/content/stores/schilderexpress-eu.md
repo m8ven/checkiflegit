@@ -5,7 +5,7 @@ title: Is schilderexpress.eu Legit? Trust Score 36/100
 description: >-
   schilderexpress.eu scores 36/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:51:37.851Z'
+fetchedAt: '2026-08-03T08:35:34.035Z'
 finalUrl: 'https://schilderexpress.eu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-16'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

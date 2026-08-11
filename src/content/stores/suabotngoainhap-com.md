@@ -1,11 +1,11 @@
 ---
 domain: suabotngoainhap.com
 slug: suabotngoainhap-com
-title: Is suabotngoainhap.com Legit? Trust Score 73/100
+title: Is suabotngoainhap.com Legit? Trust Score 85/100
 description: >-
-  suabotngoainhap.com scores 73/100 on our public trust checks. Established
-  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:04:54.435Z'
+  suabotngoainhap.com scores 85/100 on our public trust checks. Established
+  domain — registered 5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:15:05.070Z'
 finalUrl: 'https://suabotngoainhap.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-10'
-      daysToExpiry: 15
+      validTo: '2026-09-24'
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-08-23'
-      ageDays: 1766
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-08-23).
+      ageDays: 1812
+      ageYears: 5
+    detail: Registered 5 years ago (2021-08-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-suabotngoainhap.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+suabotngoainhap.com looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Suabotngoainhap in the score above.
 

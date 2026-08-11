@@ -4,8 +4,8 @@ slug: okla-com-pk
 title: Is okla.com.pk Legit? Trust Score 100/100
 description: >-
   okla.com.pk scores 100/100 on our public trust checks. Established domain —
-  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:31.819Z'
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:26:27.843Z'
 finalUrl: 'https://okla.com.pk/'
 reachable: true
 noindex: false
@@ -17,8 +17,7 @@ verdict:
     secure payment methods when shopping online.
   score: 100
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.4 years ago.
+    - Established domain — registered 2.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://okla.com.pk/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -56,17 +55,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-01'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-01-17'
-      ageDays: 890
-      ageYears: 2.4
-    detail: Registered 2.4 years ago (2024-01-17).
+      ageDays: 922
+      ageYears: 2.5
+    detail: Registered 2.5 years ago (2024-01-17).
   contact:
     status: pass
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-okla.com.pk looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+okla.com.pk looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Okla in the score above.
 

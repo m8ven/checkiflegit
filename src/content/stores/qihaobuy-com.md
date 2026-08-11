@@ -4,9 +4,9 @@ slug: qihaobuy-com
 title: Is qihaobuy.com Legit? Trust Score 73/100
 description: >-
   qihaobuy.com scores 73/100 on our public trust checks. Established domain —
-  registered 11.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:33:08.053Z'
-finalUrl: 'https://www.qihaobuy.com/'
+  registered 11.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:38:14.730Z'
+finalUrl: 'https://qihaobuy.com/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.4 years ago.
+    - Established domain — registered 11.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.qihaobuy.com/'
+      finalUrl: 'https://qihaobuy.com/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-01-21'
-      ageDays: 4172
-      ageYears: 11.4
-    detail: Registered 11.4 years ago (2015-01-21).
+      ageDays: 4218
+      ageYears: 11.6
+    detail: Registered 11.6 years ago (2015-01-21).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-qihaobuy.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+qihaobuy.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Qihaobuy in the score above.
 

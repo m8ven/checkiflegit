@@ -5,7 +5,7 @@ title: Is blisshealing.com.au Legit? Trust Score 83/100
 description: >-
   blisshealing.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:36:49.374Z'
+fetchedAt: '2026-08-10T06:02:28.774Z'
 finalUrl: 'https://blisshealing.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

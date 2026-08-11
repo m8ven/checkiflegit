@@ -4,8 +4,8 @@ slug: filateliakevorkian-com
 title: Is filateliakevorkian.com Legit? Trust Score 88/100
 description: >-
   filateliakevorkian.com scores 88/100 on our public trust checks. Established
-  domain — registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:45:01.289Z'
+  domain — registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:45.089Z'
 finalUrl: 'https://filateliakevorkian.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.1 years ago.
+    - Established domain — registered 11.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-06-04'
-      ageDays: 4038
-      ageYears: 11.1
-    detail: Registered 11.1 years ago (2015-06-04).
+      ageDays: 4078
+      ageYears: 11.2
+    detail: Registered 11.2 years ago (2015-06-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-filateliakevorkian.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+filateliakevorkian.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Filateliakevorkian in the score above.
 

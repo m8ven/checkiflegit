@@ -5,7 +5,7 @@ title: Is coserchile.cl Legit? Trust Score 74/100
 description: >-
   coserchile.cl scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:19:44.957Z'
+fetchedAt: '2026-08-03T08:09:43.399Z'
 finalUrl: 'https://coserchile.cl/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-12-02'
-      daysToExpiry: 161
+      daysToExpiry: 122
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
@@ -66,10 +66,10 @@ signals:
   contact:
     status: pass
     value:
-      email: true
+      email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: warn
     value:

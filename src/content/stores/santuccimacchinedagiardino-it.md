@@ -4,9 +4,9 @@ slug: santuccimacchinedagiardino-it
 title: Is santuccimacchinedagiardino.it Legit? Trust Score 100/100
 description: >-
   santuccimacchinedagiardino.it scores 100/100 on our public trust checks.
-  Established domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 10.3 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:50:53.018Z'
+fetchedAt: '2026-08-03T08:35:00.682Z'
 finalUrl: 'https://santuccimacchinedagiardino.it/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.1 years ago.
+    - Established domain — registered 10.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -51,30 +51,30 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 42
+      validTo: '2026-10-06'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-05-04'
-      ageDays: 3703
-      ageYears: 10.1
-    detail: Registered 10.1 years ago (2016-05-04).
+      ageDays: 3742
+      ageYears: 10.3
+    detail: Registered 10.3 years ago (2016-05-04).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-santuccimacchinedagiardino.it looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+santuccimacchinedagiardino.it looks like a well-established store. The clearest positives are that its domain has been registered for 10.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Santuccimacchinedagiardino in the score above.
 

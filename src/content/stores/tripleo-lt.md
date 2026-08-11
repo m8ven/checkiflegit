@@ -4,8 +4,8 @@ slug: tripleo-lt
 title: Is tripleo.lt Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   tripleo.lt scores 88/100 on our public trust checks. Established domain —
-  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:23:25.391Z'
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:12:46.086Z'
 finalUrl: 'https://www.tripleo.lt/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.7 years ago.
+    - Established domain — registered 5.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: PerfectSSL
       validTo: '2026-12-28'
-      daysToExpiry: 187
+      daysToExpiry: 148
       authorized: true
     detail: Valid certificate issued by PerfectSSL.
   domainAge:
     status: pass
     value:
       createdAt: '2020-10-23'
-      ageDays: 2071
-      ageYears: 5.7
-    detail: Registered 5.7 years ago (2020-10-23).
+      ageDays: 2110
+      ageYears: 5.8
+    detail: Registered 5.8 years ago (2020-10-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tripleo.lt looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tripleo.lt looks like a well-established store. The clearest positives are that its domain has been registered for 5.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tripleo in the score above.
 

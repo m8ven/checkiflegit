@@ -4,8 +4,8 @@ slug: nomad-canal-com
 title: Is nomad-canal.com Legit? Trust Score 100/100
 description: >-
   nomad-canal.com scores 100/100 on our public trust checks. Established domain
-  — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:56:05.186Z'
+  — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:46.758Z'
 finalUrl: 'https://nomad-canal.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.8 years ago.
+    - Established domain — registered 2.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 76
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-09-12'
-      ageDays: 1016
-      ageYears: 2.8
-    detail: Registered 2.8 years ago (2023-09-12).
+      ageDays: 1062
+      ageYears: 2.9
+    detail: Registered 2.9 years ago (2023-09-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nomad-canal.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nomad-canal.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nomad-canal in the score above.
 

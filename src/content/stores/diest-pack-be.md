@@ -1,11 +1,11 @@
 ---
 domain: diest-pack.be
 slug: diest-pack-be
-title: Is diest-pack.be Legit? Trust Score 70/100
+title: Is diest-pack.be Legit? Trust Score 94/100
 description: >-
-  diest-pack.be scores 70/100 on our public trust checks. Established domain —
-  registered 22.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:35:35.625Z'
+  diest-pack.be scores 94/100 on our public trust checks. Established domain —
+  registered 22.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:22:19.922Z'
 finalUrl: 'https://diest-pack.be/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.4 years ago.
+    - Established domain — registered 22.5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
     - Limited social media presence.
 signals:
   http:
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-28'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-02-06'
-      ageDays: 8174
-      ageYears: 22.4
-    detail: Registered 22.4 years ago (2004-02-06).
+      ageDays: 8214
+      ageYears: 22.5
+    detail: Registered 22.5 years ago (2004-02-06).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-diest-pack.be looks like a well-established store. The clearest positives are that its domain has been registered for 22.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+diest-pack.be looks like a well-established store. The clearest positives are that its domain has been registered for 22.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Diest-pack in the score above.
 

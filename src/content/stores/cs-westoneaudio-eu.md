@@ -5,7 +5,7 @@ title: Is cs.westoneaudio.eu Legit? Trust Score 83/100
 description: >-
   cs.westoneaudio.eu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:39:28.159Z'
+fetchedAt: '2026-08-03T08:25:00.925Z'
 finalUrl: 'https://cs.westoneaudio.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

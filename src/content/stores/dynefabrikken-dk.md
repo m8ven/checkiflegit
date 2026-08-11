@@ -4,8 +4,8 @@ slug: dynefabrikken-dk
 title: Is dynefabrikken.dk Legit? Trust Score 82/100
 description: >-
   dynefabrikken.dk scores 82/100 on our public trust checks. Established domain
-  — registered 25.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:35:15.657Z'
+  — registered 25.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:22:04.538Z'
 finalUrl: 'https://dynefabrikken.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.4 years ago.
+    - Established domain — registered 25.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-02-13'
-      ageDays: 9263
-      ageYears: 25.4
-    detail: Registered 25.4 years ago (2001-02-13).
+      ageDays: 9302
+      ageYears: 25.5
+    detail: Registered 25.5 years ago (2001-02-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dynefabrikken.dk looks like a well-established store. The clearest positives are that its domain has been registered for 25.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dynefabrikken.dk looks like a well-established store. The clearest positives are that its domain has been registered for 25.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dynefabrikken in the score above.
 

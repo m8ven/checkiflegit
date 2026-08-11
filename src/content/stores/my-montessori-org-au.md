@@ -5,7 +5,7 @@ title: Is my.montessori.org.au Legit? Trust Score 100/100
 description: >-
   my.montessori.org.au scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:11.232Z'
+fetchedAt: '2026-08-10T06:06:48.154Z'
 finalUrl: 'https://my.montessori.org.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-29'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -66,10 +66,10 @@ signals:
   contact:
     status: pass
     value:
-      email: true
+      email: false
       phone: true
       address: true
-    detail: 'Public contact details found: email, phone, address.'
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:

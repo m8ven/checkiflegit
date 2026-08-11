@@ -1,30 +1,30 @@
 ---
 domain: agoravape.com
 slug: agoravape-com
-title: Is agoravape.com Legit? Trust Score 70/100
+title: Is agoravape.com Legit? Trust Score 67/100 — Mixed Signals
 description: >-
-  agoravape.com scores 70/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T03:33:16.244Z'
+  agoravape.com scores 67/100 on our public trust checks. No links to major
+  social platforms found. Domain is relatively young.
+fetchedAt: '2026-08-03T08:20:39.541Z'
 finalUrl: 'https://agoravape.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 67
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+    - Public business contact details are listed.
+  redFlags:
+    - No links to major social platforms found.
   cautions:
     - Domain is relatively young.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,34 +57,34 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-15'
-      daysToExpiry: 82
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: warn
     value:
       createdAt: '2025-10-23'
-      ageDays: 245
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-10-23).
+      ageDays: 284
+      ageYears: 0.8
+    detail: Registered 0.8 years ago (2025-10-23).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
-    status: pass
+    status: fail
     value:
       facebook: false
       instagram: false
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: true
-    detail: 'Links to 2 social platform(s): twitter, pinterest.'
+      pinterest: false
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-agoravape.com looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that the domain is still relatively young and only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+agoravape.com sends a mixed set of signals. On the positive side, it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. Against that, the domain is still relatively young and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Agoravape in the score above.
 

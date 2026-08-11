@@ -1,25 +1,26 @@
 ---
 domain: indefiniteleave.com.au
 slug: indefiniteleave-com-au
-title: Is indefiniteleave.com.au Legit? Trust Score 57/100
+title: Is indefiniteleave.com.au Legit? Trust Score 14/100
 description: >-
-  indefiniteleave.com.au scores 57/100 on our public trust checks. Some standard
-  policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:49:29.557Z'
+  indefiniteleave.com.au scores 14/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
+fetchedAt: '2026-08-03T08:33:57.164Z'
 finalUrl: 'https://indefiniteleave.com.au/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 57
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 14
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
-  redFlags: []
+  redFlags:
+    - No valid SSL certificate — connection may not be secure.
   cautions:
     - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
@@ -52,13 +53,9 @@ signals:
       shipping: false
     detail: Found 1 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-19'
-      daysToExpiry: 87
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: fail
+    value: null
+    detail: 'TLS connection failed: '
   domainAge:
     status: unknown
     value: null
@@ -91,7 +88,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-indefiniteleave.com.au sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for indefiniteleave.com.au. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Indefiniteleave in the score above.
 

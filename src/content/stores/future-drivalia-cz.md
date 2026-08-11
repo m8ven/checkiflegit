@@ -5,7 +5,7 @@ title: Is future.drivalia.cz Legit? Trust Score 83/100
 description: >-
   future.drivalia.cz scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:32:40.224Z'
+fetchedAt: '2026-08-03T08:20:16.466Z'
 finalUrl: 'https://future.drivalia.cz/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

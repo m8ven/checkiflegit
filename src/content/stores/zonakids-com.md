@@ -1,30 +1,30 @@
 ---
 domain: zonakids.com
 slug: zonakids-com
-title: Is zonakids.com Legit? Trust Score 58/100 — Mixed Signals
+title: Is zonakids.com Legit? Trust Score 70/100
 description: >-
-  zonakids.com scores 58/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-24T21:45:32.739Z'
+  zonakids.com scores 70/100 on our public trust checks. Established domain —
+  registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:52.297Z'
 finalUrl: 'https://zonakids.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 58
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 14.7 years ago.
+    - Established domain — registered 14.8 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on Magento, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
       refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-10-11'
-      ageDays: 5370
-      ageYears: 14.7
-    detail: Registered 14.7 years ago (2011-10-11).
+      ageDays: 5402
+      ageYears: 14.8
+    detail: Registered 14.8 years ago (2011-10-11).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-zonakids.com sends a mixed set of signals. On the positive side, its domain has been registered for 14.7 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+zonakids.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Zonakids in the score above.
 

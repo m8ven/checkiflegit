@@ -5,7 +5,7 @@ title: Is im-pott-daheim.de Legit? Trust Score 49/100
 description: >-
   im-pott-daheim.de scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T11:56:55.407Z'
+fetchedAt: '2026-08-10T06:08:32.939Z'
 finalUrl: 'https://im-pott-daheim.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-05'
-      daysToExpiry: 73
+      validTo: '2026-11-04'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

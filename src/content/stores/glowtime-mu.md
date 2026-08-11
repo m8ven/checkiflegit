@@ -4,8 +4,8 @@ slug: glowtime-mu
 title: Is glowtime.mu Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   glowtime.mu scores 82/100 on our public trust checks. Established domain —
-  registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:42.783Z'
+  registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:24.807Z'
 finalUrl: 'https://glowtime.mu/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.7 years ago.
+    - Established domain — registered 6.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2019-10-04'
-      ageDays: 2455
-      ageYears: 6.7
-    detail: Registered 6.7 years ago (2019-10-04).
+      ageDays: 2495
+      ageYears: 6.8
+    detail: Registered 6.8 years ago (2019-10-04).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-glowtime.mu looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+glowtime.mu looks like a well-established store. The clearest positives are that its domain has been registered for 6.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Glowtime in the score above.
 

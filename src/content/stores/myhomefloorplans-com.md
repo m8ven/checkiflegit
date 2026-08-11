@@ -4,8 +4,8 @@ slug: myhomefloorplans-com
 title: Is myhomefloorplans.com Legit? Trust Score 100/100
 description: >-
   myhomefloorplans.com scores 100/100 on our public trust checks. Established
-  domain — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:58.282Z'
+  domain — registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:18.436Z'
 finalUrl: 'https://myhomefloorplans.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.7 years ago.
+    - Established domain — registered 3.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-09'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-10-21'
-      ageDays: 1343
-      ageYears: 3.7
-    detail: Registered 3.7 years ago (2022-10-21).
+      ageDays: 1375
+      ageYears: 3.8
+    detail: Registered 3.8 years ago (2022-10-21).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-myhomefloorplans.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+myhomefloorplans.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Myhomefloorplans in the score above.
 

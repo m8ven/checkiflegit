@@ -4,8 +4,8 @@ slug: tokyokidsmodel-jp
 title: Is tokyokidsmodel.jp Legit? Trust Score 76/100
 description: >-
   tokyokidsmodel.jp scores 76/100 on our public trust checks. Established domain
-  — registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:16.032Z'
+  — registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:26.039Z'
 finalUrl: 'https://tokyokidsmodel.jp/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.1 years ago.
+    - Established domain — registered 1.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-02'
-      daysToExpiry: 39
+      daysToExpiry: 7
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-05-21'
-      ageDays: 399
-      ageYears: 1.1
-    detail: Registered 1.1 years ago (2025-05-21).
+      ageDays: 432
+      ageYears: 1.2
+    detail: Registered 1.2 years ago (2025-05-21).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tokyokidsmodel.jp looks like a well-established store. The clearest positives are that its domain has been registered for 1.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tokyokidsmodel.jp looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tokyokidsmodel in the score above.
 

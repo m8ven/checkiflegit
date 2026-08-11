@@ -5,7 +5,7 @@ title: Is fibalon-baskets-shop.de Legit? Trust Score 61/100
 description: >-
   fibalon-baskets-shop.de scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T03:47:16.446Z'
+fetchedAt: '2026-08-03T08:32:14.374Z'
 finalUrl: 'https://fibalon-baskets-shop.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2027-02-03'
-      daysToExpiry: 224
+      daysToExpiry: 185
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

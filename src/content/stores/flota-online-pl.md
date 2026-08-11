@@ -1,11 +1,11 @@
 ---
 domain: flota-online.pl
 slug: flota-online-pl
-title: Is flota-online.pl Legit? Trust Score 74/100
+title: Is flota-online.pl Legit? Trust Score 94/100
 description: >-
-  flota-online.pl scores 74/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:31:23.753Z'
+  flota-online.pl scores 94/100 on our public trust checks. Established domain —
+  registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:19:25.679Z'
 finalUrl: 'https://flota-online.pl/'
 reachable: true
 noindex: false
@@ -15,14 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 74
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 18.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -43,26 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: DigiCert Inc
       validTo: '2026-10-15'
-      daysToExpiry: 113
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2008-05-30'
+      ageDays: 6638
+      ageYears: 18.2
+    detail: Registered 18.2 years ago (2008-05-30).
   contact:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-flota-online.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+flota-online.pl looks like a well-established store. The clearest positives are that its domain has been registered for 18.2 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Flota-online in the score above.
 

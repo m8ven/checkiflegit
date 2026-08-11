@@ -4,8 +4,8 @@ slug: aimuse-it
 title: Is aimuse.it Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   aimuse.it scores 76/100 on our public trust checks. Established domain —
-  registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:23:57.882Z'
+  registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:37.211Z'
 finalUrl: 'https://www.aimuse.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.7 years ago.
+    - Established domain — registered 16.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2027-04-04'
-      daysToExpiry: 283
+      daysToExpiry: 237
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2009-10-24'
-      ageDays: 6087
-      ageYears: 16.7
-    detail: Registered 16.7 years ago (2009-10-24).
+      ageDays: 6133
+      ageYears: 16.8
+    detail: Registered 16.8 years ago (2009-10-24).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aimuse.it looks like a well-established store. The clearest positives are that its domain has been registered for 16.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+aimuse.it looks like a well-established store. The clearest positives are that its domain has been registered for 16.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aimuse in the score above.
 

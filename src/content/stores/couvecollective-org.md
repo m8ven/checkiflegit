@@ -4,8 +4,8 @@ slug: couvecollective-org
 title: Is couvecollective.org Legit? Trust Score 94/100
 description: >-
   couvecollective.org scores 94/100 on our public trust checks. Established
-  domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:20:12.049Z'
+  domain — registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:10:08.839Z'
 finalUrl: 'https://couvecollective.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-06'
-      daysToExpiry: 74
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-10'
-      ageDays: 1657
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2021-12-10).
+      ageDays: 1696
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2021-12-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-couvecollective.org looks like a well-established store. The clearest positives are that its domain has been registered for 4.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+couvecollective.org looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Couvecollective in the score above.
 

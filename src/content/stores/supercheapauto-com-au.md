@@ -5,7 +5,7 @@ title: Is supercheapauto.com.au Legit? Trust Score 83/100
 description: >-
   supercheapauto.com.au scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:57.055Z'
+fetchedAt: '2026-07-27T08:06:07.508Z'
 finalUrl: 'https://www.supercheapauto.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-12-10'
-      daysToExpiry: 170
+      daysToExpiry: 137
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

@@ -4,8 +4,8 @@ slug: thenewamerican-com
 title: Is thenewamerican.com Legit? Trust Score 100/100
 description: >-
   thenewamerican.com scores 100/100 on our public trust checks. Established
-  domain — registered 27.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:55.532Z'
+  domain — registered 27.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:07.113Z'
 finalUrl: 'https://thenewamerican.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.2 years ago.
+    - Established domain — registered 27.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-21'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1999-04-15'
-      ageDays: 9932
-      ageYears: 27.2
-    detail: Registered 27.2 years ago (1999-04-15).
+      ageDays: 9965
+      ageYears: 27.3
+    detail: Registered 27.3 years ago (1999-04-15).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thenewamerican.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thenewamerican.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thenewamerican in the score above.
 

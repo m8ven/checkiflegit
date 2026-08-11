@@ -1,11 +1,11 @@
 ---
 domain: tubbutec.de
 slug: tubbutec-de
-title: Is tubbutec.de Legit? Trust Score 31/100
+title: Is tubbutec.de Legit? Trust Score 19/100
 description: >-
-  tubbutec.de scores 31/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T02:48:56.270Z'
+  tubbutec.de scores 19/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-07-27T08:34:57.864Z'
 finalUrl: 'https://tubbutec.de/'
 reachable: true
 noindex: false
@@ -16,15 +16,15 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 31
+  score: 19
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
+    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 68
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -72,16 +72,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
-      facebook: true
+      facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:

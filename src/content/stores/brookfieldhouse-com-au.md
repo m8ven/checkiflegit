@@ -1,28 +1,28 @@
 ---
 domain: brookfieldhouse.com.au
 slug: brookfieldhouse-com-au
-title: Is brookfieldhouse.com.au Legit? Trust Score 100/100
+title: Is brookfieldhouse.com.au Legit? Trust Score 57/100
 description: >-
-  brookfieldhouse.com.au scores 100/100 on our public trust checks. Valid
-  HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:28:24.251Z'
+  brookfieldhouse.com.au scores 57/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
+fetchedAt: '2026-08-03T08:16:47.338Z'
 finalUrl: 'https://brookfieldhouse.com.au/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 100
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 57
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No valid SSL certificate — connection may not be secure.
   cautions: []
 signals:
   http:
@@ -52,13 +52,9 @@ signals:
       shipping: true
     detail: Found 4 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-15'
-      daysToExpiry: 83
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: fail
+    value: null
+    detail: 'TLS connection failed: '
   domainAge:
     status: unknown
     value: null
@@ -91,7 +87,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-brookfieldhouse.com.au looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+brookfieldhouse.com.au sends a mixed set of signals. On the positive side, it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. Against that, it does not present a valid security certificate — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Brookfieldhouse in the score above.
 

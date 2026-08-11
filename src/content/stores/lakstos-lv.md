@@ -5,7 +5,7 @@ title: Is lakstos.lv Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   lakstos.lv scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:22:47.105Z'
+fetchedAt: '2026-08-03T08:12:17.774Z'
 finalUrl: 'https://www.lakstos.lv/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 61
+      validTo: '2026-10-28'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

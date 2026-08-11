@@ -4,8 +4,8 @@ slug: congeladosmoreira-com
 title: Is congeladosmoreira.com Legit? Trust Score 100/100
 description: >-
   congeladosmoreira.com scores 100/100 on our public trust checks. Established
-  domain — registered 24.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:38.450Z'
+  domain — registered 25 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:32.264Z'
 finalUrl: 'https://congeladosmoreira.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.9 years ago.
+    - Established domain — registered 25 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-18'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-07-24'
-      ageDays: 9101
-      ageYears: 24.9
-    detail: Registered 24.9 years ago (2001-07-24).
+      ageDays: 9133
+      ageYears: 25
+    detail: Registered 25 years ago (2001-07-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-congeladosmoreira.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+congeladosmoreira.com looks like a well-established store. The clearest positives are that its domain has been registered for 25 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Congeladosmoreira in the score above.
 

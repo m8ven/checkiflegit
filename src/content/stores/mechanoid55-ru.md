@@ -4,8 +4,8 @@ slug: mechanoid55-ru
 title: Is mechanoid55.ru Legit? Trust Score 73/100
 description: >-
   mechanoid55.ru scores 73/100 on our public trust checks. Established domain —
-  registered 11.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:53:06.389Z'
+  registered 12 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:39.913Z'
 finalUrl: 'https://mechanoid55.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.8 years ago.
+    - Established domain — registered 12 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-01'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-08-21'
-      ageDays: 4325
-      ageYears: 11.8
-    detail: Registered 11.8 years ago (2014-08-21).
+      ageDays: 4365
+      ageYears: 12
+    detail: Registered 12 years ago (2014-08-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mechanoid55.ru looks like a well-established store. The clearest positives are that its domain has been registered for 11.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mechanoid55.ru looks like a well-established store. The clearest positives are that its domain has been registered for 12 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mechanoid55 in the score above.
 

@@ -4,8 +4,8 @@ slug: drivinginstruct-com
 title: Is drivinginstruct.com Legit? Trust Score 70/100
 description: >-
   drivinginstruct.com scores 70/100 on our public trust checks. Established
-  domain — registered 6.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:20:23.334Z'
+  domain — registered 6.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:27:42.441Z'
 finalUrl: 'https://www.drivinginstruct.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.7 years ago.
+    - Established domain — registered 6.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-08'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2019-10-25'
-      ageDays: 2435
-      ageYears: 6.7
-    detail: Registered 6.7 years ago (2019-10-25).
+      ageDays: 2480
+      ageYears: 6.8
+    detail: Registered 6.8 years ago (2019-10-25).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-drivinginstruct.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+drivinginstruct.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Drivinginstruct in the score above.
 

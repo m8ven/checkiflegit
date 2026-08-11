@@ -1,11 +1,11 @@
 ---
 domain: cheshirescouts.org.uk
 slug: cheshirescouts-org-uk
-title: Is cheshirescouts.org.uk Legit? Trust Score 88/100
+title: Is cheshirescouts.org.uk Legit? Trust Score 70/100
 description: >-
-  cheshirescouts.org.uk scores 88/100 on our public trust checks. Established
-  domain — registered 26.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:17:58.311Z'
+  cheshirescouts.org.uk scores 70/100 on our public trust checks. Established
+  domain — registered 26.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:25:54.730Z'
 finalUrl: 'https://www.cheshirescouts.org.uk/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.3 years ago.
+    - Established domain — registered 26.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  redFlags:
+    - No public contact details detected on the homepage.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-14'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2000-03-24'
-      ageDays: 9589
-      ageYears: 26.3
-    detail: Registered 26.3 years ago (2000-03-24).
+      ageDays: 9635
+      ageYears: 26.4
+    detail: Registered 26.4 years ago (2000-03-24).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cheshirescouts.org.uk looks like a well-established store. The clearest positives are that its domain has been registered for 26.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cheshirescouts.org.uk looks like a well-established store. The clearest positives are that its domain has been registered for 26.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cheshirescouts in the score above.
 

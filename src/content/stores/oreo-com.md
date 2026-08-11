@@ -4,8 +4,8 @@ slug: oreo-com
 title: Is oreo.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   oreo.com scores 70/100 on our public trust checks. Established domain —
-  registered 29.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:30:06.281Z'
+  registered 29.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:35:48.412Z'
 finalUrl: 'https://www.oreo.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 29.5 years ago.
+    - Established domain — registered 29.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-12-18'
-      ageDays: 10781
-      ageYears: 29.5
-    detail: Registered 29.5 years ago (1996-12-18).
+      ageDays: 10827
+      ageYears: 29.7
+    detail: Registered 29.7 years ago (1996-12-18).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-oreo.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+oreo.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Oreo in the score above.
 

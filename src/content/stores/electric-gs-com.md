@@ -1,11 +1,11 @@
 ---
 domain: electric-gs.com
 slug: electric-gs-com
-title: Is electric-gs.com Legit? Trust Score 73/100
+title: Is electric-gs.com Legit? Trust Score 82/100
 description: >-
-  electric-gs.com scores 73/100 on our public trust checks. Established domain —
-  registered 1.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:37:17.379Z'
+  electric-gs.com scores 82/100 on our public trust checks. Established domain —
+  registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:31.878Z'
 finalUrl: 'https://electric-gs.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.8 years ago.
+    - Established domain — registered 1.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
-  redFlags:
-    - No links to major social platforms found.
+  redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-23'
-      daysToExpiry: 90
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-09-03'
-      ageDays: 659
-      ageYears: 1.8
-    detail: Registered 1.8 years ago (2024-09-03).
+      ageDays: 705
+      ageYears: 1.9
+    detail: Registered 1.9 years ago (2024-09-03).
   contact:
     status: pass
     value:
@@ -75,16 +75,16 @@ signals:
       address: true
     detail: 'Public contact details found: email, phone, address.'
   social:
-    status: fail
+    status: warn
     value:
       facebook: false
       instagram: false
-      twitter: false
+      twitter: true
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 1 social platform(s): twitter.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-electric-gs.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+electric-gs.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Electric-gs in the score above.
 

@@ -4,8 +4,8 @@ slug: simplysecure04-co-uk
 title: Is simplysecure04.co.uk Legit? Trust Score 82/100
 description: >-
   simplysecure04.co.uk scores 82/100 on our public trust checks. Established
-  domain — registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:22.481Z'
+  domain — registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:28.450Z'
 finalUrl: 'https://www.simplysecure04.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.4 years ago.
+    - Established domain — registered 19.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-08'
-      daysToExpiry: 76
+      validTo: '2026-11-07'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2007-02-10'
-      ageDays: 7075
-      ageYears: 19.4
-    detail: Registered 19.4 years ago (2007-02-10).
+      ageDays: 7121
+      ageYears: 19.5
+    detail: Registered 19.5 years ago (2007-02-10).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-simplysecure04.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 19.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+simplysecure04.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 19.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Simplysecure04 in the score above.
 

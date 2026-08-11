@@ -5,7 +5,7 @@ title: Is animekaizoku.xyz Legit? Trust Score 58/100
 description: >-
   animekaizoku.xyz scores 58/100 on our public trust checks. Standard contact
   and policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:12:08.595Z'
+fetchedAt: '2026-08-10T06:20:47.936Z'
 finalUrl: 'https://www.animekaizoku.xyz/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.8 years ago.
+    - Established domain — registered 2.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-13'
-      daysToExpiry: 80
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-09-21'
-      ageDays: 1007
-      ageYears: 2.8
-    detail: Registered 2.8 years ago (2023-09-21).
+      ageDays: 1053
+      ageYears: 2.9
+    detail: Registered 2.9 years ago (2023-09-21).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-animekaizoku.xyz sends a mixed set of signals. On the positive side, its domain has been registered for 2.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+animekaizoku.xyz sends a mixed set of signals. On the positive side, its domain has been registered for 2.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Animekaizoku in the score above.
 

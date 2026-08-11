@@ -4,8 +4,8 @@ slug: fdmachinery-net
 title: Is fdmachinery.net Legit? Trust Score 73/100
 description: >-
   fdmachinery.net scores 73/100 on our public trust checks. Established domain —
-  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:27.325Z'
+  registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:42.987Z'
 finalUrl: 'https://fdmachinery.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.8 years ago.
+    - Established domain — registered 8.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-21'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-09-08'
-      ageDays: 3211
-      ageYears: 8.8
-    detail: Registered 8.8 years ago (2017-09-08).
+      ageDays: 3243
+      ageYears: 8.9
+    detail: Registered 8.9 years ago (2017-09-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fdmachinery.net looks like a well-established store. The clearest positives are that its domain has been registered for 8.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fdmachinery.net looks like a well-established store. The clearest positives are that its domain has been registered for 8.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fdmachinery in the score above.
 

@@ -4,8 +4,8 @@ slug: sueford-networking-co-uk
 title: Is sueford-networking.co.uk Legit? Trust Score 76/100
 description: >-
   sueford-networking.co.uk scores 76/100 on our public trust checks. Established
-  domain — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:20:03.171Z'
+  domain — registered 8.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:10:57.159Z'
 finalUrl: 'https://sueford-networking.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.3 years ago.
+    - Established domain — registered 8.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-08'
-      daysToExpiry: 14
+      validTo: '2026-09-27'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-02-20'
-      ageDays: 3046
-      ageYears: 8.3
-    detail: Registered 8.3 years ago (2018-02-20).
+      ageDays: 3079
+      ageYears: 8.4
+    detail: Registered 8.4 years ago (2018-02-20).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sueford-networking.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sueford-networking.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 8.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sueford-networking in the score above.
 

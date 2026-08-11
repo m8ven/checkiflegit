@@ -4,8 +4,8 @@ slug: ayoota-com
 title: Is ayoota.com Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   ayoota.com scores 76/100 on our public trust checks. Established domain —
-  registered 7.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:13:59.509Z'
+  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:22:31.982Z'
 finalUrl: 'https://www.ayoota.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.7 years ago.
+    - Established domain — registered 7.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 51
+      validTo: '2026-10-14'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-10-17'
-      ageDays: 2807
-      ageYears: 7.7
-    detail: Registered 7.7 years ago (2018-10-17).
+      ageDays: 2853
+      ageYears: 7.8
+    detail: Registered 7.8 years ago (2018-10-17).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ayoota.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ayoota.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ayoota in the score above.
 

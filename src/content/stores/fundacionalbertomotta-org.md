@@ -4,9 +4,9 @@ slug: fundacionalbertomotta-org
 title: Is fundacionalbertomotta.org Legit? Trust Score 100/100
 description: >-
   fundacionalbertomotta.org scores 100/100 on our public trust checks.
-  Established domain — registered 14.4 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 14.5 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:30:33.493Z'
+fetchedAt: '2026-07-27T08:19:17.394Z'
 finalUrl: 'https://fundacionalbertomotta.org/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.4 years ago.
+    - Established domain — registered 14.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2012-01-19'
-      ageDays: 5270
-      ageYears: 14.4
-    detail: Registered 14.4 years ago (2012-01-19).
+      ageDays: 5302
+      ageYears: 14.5
+    detail: Registered 14.5 years ago (2012-01-19).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fundacionalbertomotta.org looks like a well-established store. The clearest positives are that its domain has been registered for 14.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fundacionalbertomotta.org looks like a well-established store. The clearest positives are that its domain has been registered for 14.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fundacionalbertomotta in the score above.
 

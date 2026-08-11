@@ -5,7 +5,7 @@ title: Is happydating.se Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   happydating.se scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:56:40.580Z'
+fetchedAt: '2026-08-10T06:06:23.671Z'
 finalUrl: 'https://happydating.se/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.3 years ago.
+    - Established domain — registered 11.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-02-25'
-      ageDays: 4138
-      ageYears: 11.3
-    detail: Registered 11.3 years ago (2015-02-25).
+      ageDays: 4184
+      ageYears: 11.5
+    detail: Registered 11.5 years ago (2015-02-25).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-happydating.se sends a mixed set of signals. On the positive side, its domain has been registered for 11.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+happydating.se sends a mixed set of signals. On the positive side, its domain has been registered for 11.5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Happydating in the score above.
 

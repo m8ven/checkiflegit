@@ -4,8 +4,8 @@ slug: hites-com
 title: Is hites.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   hites.com scores 100/100 on our public trust checks. Established domain —
-  registered 29.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:55.382Z'
+  registered 29.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:25.625Z'
 finalUrl: 'https://www.hites.com/?utm_source=hites.com&utm_medium=redirect:443/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 29.2 years ago.
+    - Established domain — registered 29.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,31 +49,31 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: DigiCert Inc
       validTo: '2027-03-26'
-      daysToExpiry: 276
+      daysToExpiry: 243
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '1997-04-30'
-      ageDays: 10647
-      ageYears: 29.2
-    detail: Registered 29.2 years ago (1997-04-30).
+      ageDays: 10680
+      ageYears: 29.3
+    detail: Registered 29.3 years ago (1997-04-30).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hites.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hites.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hites in the score above.
 

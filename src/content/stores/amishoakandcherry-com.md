@@ -4,8 +4,8 @@ slug: amishoakandcherry-com
 title: Is amishoakandcherry.com Legit? Trust Score 88/100
 description: >-
   amishoakandcherry.com scores 88/100 on our public trust checks. Established
-  domain — registered 24.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:43:17.789Z'
+  domain — registered 24.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:29:29.868Z'
 finalUrl: 'https://amishoakandcherry.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.4 years ago.
+    - Established domain — registered 24.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2002-01-24'
-      ageDays: 8917
-      ageYears: 24.4
-    detail: Registered 24.4 years ago (2002-01-24).
+      ageDays: 8949
+      ageYears: 24.5
+    detail: Registered 24.5 years ago (2002-01-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-amishoakandcherry.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+amishoakandcherry.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Amishoakandcherry in the score above.
 

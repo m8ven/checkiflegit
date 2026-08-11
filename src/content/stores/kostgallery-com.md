@@ -1,32 +1,30 @@
 ---
 domain: kostgallery.com
 slug: kostgallery-com
-title: Is kostgallery.com Legit? Trust Score 43/100
+title: Is kostgallery.com Legit? Trust Score 85/100
 description: >-
-  kostgallery.com scores 43/100 on our public trust checks. No valid SSL
-  certificate — connection may not be secure. No links to major social platforms
-  found.
-fetchedAt: '2026-06-25T12:25:50.854Z'
+  kostgallery.com scores 85/100 on our public trust checks. Established domain —
+  registered 20.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:32:01.320Z'
 finalUrl: 'https://www.kostgallery.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 43
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.6 years ago.
+    - Established domain — registered 20.8 years ago.
+    - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
-    - No valid SSL certificate — connection may not be secure.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -46,25 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
+      privacy: true
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
-    status: fail
-    value: null
-    detail: 'TLS connection failed: connect ECONNREFUSED 193.143.77.10:443'
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-10-15'
+      daysToExpiry: 67
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-11-08'
-      ageDays: 7534
-      ageYears: 20.6
-    detail: Registered 20.6 years ago (2005-11-08).
+      ageDays: 7579
+      ageYears: 20.8
+    detail: Registered 20.8 years ago (2005-11-08).
   contact:
     status: pass
     value:
@@ -93,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for kostgallery.com. In particular, some standard contact or policy pages appear to be missing and it does not present a valid security certificate. It does have some positives — its domain has been registered for 20.6 years and it lists genuine business contact details — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+kostgallery.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kostgallery in the score above.
 

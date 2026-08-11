@@ -5,7 +5,7 @@ title: Is queensworldfilmfestival.org Legit? Trust Score 58/100
 description: >-
   queensworldfilmfestival.org scores 58/100 on our public trust checks. No
   public contact details detected on the homepage.
-fetchedAt: '2026-06-25T11:57:44.615Z'
+fetchedAt: '2026-08-10T06:09:15.185Z'
 finalUrl: 'https://queensworldfilmfestival.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.5 years ago.
+    - Established domain — registered 16.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-11-06'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-01-02'
-      ageDays: 6017
-      ageYears: 16.5
-    detail: Registered 16.5 years ago (2010-01-02).
+      ageDays: 6063
+      ageYears: 16.6
+    detail: Registered 16.6 years ago (2010-01-02).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-queensworldfilmfestival.org sends a mixed set of signals. On the positive side, its domain has been registered for 16.5 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+queensworldfilmfestival.org sends a mixed set of signals. On the positive side, its domain has been registered for 16.6 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Queensworldfilmfestival in the score above.
 

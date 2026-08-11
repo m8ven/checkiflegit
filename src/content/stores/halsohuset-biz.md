@@ -5,7 +5,7 @@ title: Is halsohuset.biz Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   halsohuset.biz scores 49/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T12:20:10.917Z'
+fetchedAt: '2026-08-10T06:27:31.176Z'
 finalUrl: 'https://www.halsohuset.biz/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 49
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.6 years ago.
+    - Established domain — registered 16.7 years ago.
   redFlags:
     - No links to major social platforms found.
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: warn
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-22'
+      daysToExpiry: 74
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2009-12-09'
-      ageDays: 6042
-      ageYears: 16.6
-    detail: Registered 16.6 years ago (2009-12-09).
+      ageDays: 6087
+      ageYears: 16.7
+    detail: Registered 16.7 years ago (2009-12-09).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-halsohuset.biz sends a mixed set of signals. On the positive side, its domain has been registered for 16.6 years and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+halsohuset.biz sends a mixed set of signals. On the positive side, its domain has been registered for 16.7 years and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Halsohuset in the score above.
 

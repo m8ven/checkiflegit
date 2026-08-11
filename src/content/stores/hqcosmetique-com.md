@@ -1,12 +1,13 @@
 ---
 domain: hqcosmetique.com
 slug: hqcosmetique-com
-title: Is hqcosmetique.com Legit? Trust Score 46/100
+title: Is hqcosmetique.com Legit? Trust Score 58/100
 description: >-
-  hqcosmetique.com scores 46/100 on our public trust checks. No valid SSL
-  certificate — connection may not be secure.
-fetchedAt: '2026-06-25T02:16:19.808Z'
-finalUrl: 'http://hqcosmetique.com/'
+  hqcosmetique.com scores 58/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure. Only limited contact details were
+  found.
+fetchedAt: '2026-07-27T08:07:21.664Z'
+finalUrl: 'https://hq-skincare.com/'
 reachable: true
 noindex: false
 verdict:
@@ -15,58 +16,58 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 46
+  score: 58
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.9 years ago.
+    - 'Built on Shopify, an established e-commerce platform.'
+    - Established domain — registered 9 years ago.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags:
     - No valid SSL certificate — connection may not be secure.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'http://hqcosmetique.com/'
+      finalUrl: 'https://hq-skincare.com/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
     value:
-      platform: WooCommerce
+      platform: Shopify
       isStore: true
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: false
+        hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: fail
     value:
       issuer: Let's Encrypt
       validTo: '2021-06-27'
-      daysToExpiry: -1823
+      daysToExpiry: -1855
       authorized: false
     detail: Certificate has expired.
   domainAge:
     status: pass
     value:
       createdAt: '2017-08-02'
-      ageDays: 3248
-      ageYears: 8.9
-    detail: Registered 8.9 years ago (2017-08-02).
+      ageDays: 3280
+      ageYears: 9
+    detail: Registered 9 years ago (2017-08-02).
   contact:
     status: warn
     value:
@@ -95,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hqcosmetique.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.9 years and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+hqcosmetique.com sends a mixed set of signals. On the positive side, its domain has been registered for 9 years and it publishes the contact and policy pages shoppers expect. Against that, only limited contact details are listed and it does not present a valid security certificate — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hqcosmetique in the score above.
 

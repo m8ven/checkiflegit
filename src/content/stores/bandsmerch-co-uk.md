@@ -4,8 +4,8 @@ slug: bandsmerch-co-uk
 title: Is bandsmerch.co.uk Legit? Trust Score 88/100
 description: >-
   bandsmerch.co.uk scores 88/100 on our public trust checks. Established domain
-  — registered 10.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:13:19.336Z'
+  — registered 11 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:21:59.806Z'
 finalUrl: 'https://www.bandsmerch.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.9 years ago.
+    - Established domain — registered 11 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: false
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-10-12'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-08-03'
-      ageDays: 3979
-      ageYears: 10.9
-    detail: Registered 10.9 years ago (2015-08-03).
+      ageDays: 4025
+      ageYears: 11
+    detail: Registered 11 years ago (2015-08-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bandsmerch.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 10.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bandsmerch.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 11 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bandsmerch in the score above.
 

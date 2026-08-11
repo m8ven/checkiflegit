@@ -4,8 +4,8 @@ slug: bco-org-uk
 title: Is bco.org.uk Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   bco.org.uk scores 88/100 on our public trust checks. Established domain —
-  registered 29.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:14:52.828Z'
+  registered 30 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:23:18.998Z'
 finalUrl: 'https://www.bco.org.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.9 years ago.
+    - Established domain — registered 30 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-05'
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-08-01'
-      ageDays: 10920
-      ageYears: 29.9
-    detail: Registered 29.9 years ago (1996-08-01).
+      ageDays: 10966
+      ageYears: 30
+    detail: Registered 30 years ago (1996-08-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bco.org.uk looks like a well-established store. The clearest positives are that its domain has been registered for 29.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bco.org.uk looks like a well-established store. The clearest positives are that its domain has been registered for 30 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bco in the score above.
 

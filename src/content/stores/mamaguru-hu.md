@@ -5,7 +5,7 @@ title: Is mamaguru.hu Legit? Trust Score 44/100
 description: >-
   mamaguru.hu scores 44/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:51:49.618Z'
+fetchedAt: '2026-08-03T08:35:37.310Z'
 finalUrl: 'https://mamaguru.hu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-03'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

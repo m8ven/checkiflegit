@@ -1,11 +1,11 @@
 ---
 domain: novacolor-germany.de
 slug: novacolor-germany-de
-title: Is novacolor-germany.de Legit? Trust Score 91/100
+title: Is novacolor-germany.de Legit? Trust Score 100/100
 description: >-
-  novacolor-germany.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T12:23:43.912Z'
+  novacolor-germany.de scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:26.301Z'
 finalUrl: 'https://novacolor-germany.de/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 91
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
+    - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Limited social media presence.
+  cautions: []
 signals:
   http:
     status: pass
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 39
+      validTo: '2026-10-02'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -68,19 +68,19 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
-    status: warn
+    status: pass
     value:
-      facebook: false
+      facebook: true
       instagram: true
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: false
-    detail: 'Links to 1 social platform(s): instagram.'
+      pinterest: true
+    detail: 'Links to 3 social platform(s): facebook, instagram, pinterest.'
   reviews:
     status: unknown
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-novacolor-germany.de looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+novacolor-germany.de looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Novacolor-germany in the score above.
 

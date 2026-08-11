@@ -5,7 +5,7 @@ title: Is gmsrehab.com.au Legit? Trust Score 100/100
 description: >-
   gmsrehab.com.au scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:29:13.707Z'
+fetchedAt: '2026-07-27T08:18:14.094Z'
 finalUrl: 'https://gmsrehab.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 30
+      validTo: '2026-09-23'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

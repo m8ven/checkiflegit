@@ -4,8 +4,8 @@ slug: atari-com
 title: Is atari.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   atari.com scores 100/100 on our public trust checks. Established domain —
-  registered 28.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:37.174Z'
+  registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:55.193Z'
 finalUrl: 'https://atari.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 28.2 years ago.
+    - Established domain — registered 28.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-04-01'
-      ageDays: 10311
-      ageYears: 28.2
-    detail: Registered 28.2 years ago (1998-04-01).
+      ageDays: 10344
+      ageYears: 28.3
+    detail: Registered 28.3 years ago (1998-04-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-atari.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+atari.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Atari in the score above.
 

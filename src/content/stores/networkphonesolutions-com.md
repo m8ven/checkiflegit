@@ -5,7 +5,7 @@ title: Is networkphonesolutions.com Legit? Trust Score 61/100
 description: >-
   networkphonesolutions.com scores 61/100 on our public trust checks. No links
   to major social platforms found.
-fetchedAt: '2026-06-25T03:54:44.543Z'
+fetchedAt: '2026-08-10T06:04:52.737Z'
 finalUrl: 'https://networkphonesolutions.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.7 years ago.
+    - Established domain — registered 8.8 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 66
+      validTo: '2026-10-30'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-10-21'
-      ageDays: 3168
-      ageYears: 8.7
-    detail: Registered 8.7 years ago (2017-10-21).
+      ageDays: 3214
+      ageYears: 8.8
+    detail: Registered 8.8 years ago (2017-10-21).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-networkphonesolutions.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.7 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+networkphonesolutions.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.8 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Networkphonesolutions in the score above.
 

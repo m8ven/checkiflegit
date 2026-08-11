@@ -1,11 +1,11 @@
 ---
 domain: intimissimi.com
 slug: intimissimi-com
-title: Is intimissimi.com Legit? Trust Score 100/100
+title: Is intimissimi.com Legit? Trust Score 70/100
 description: >-
-  intimissimi.com scores 100/100 on our public trust checks. Established domain
-  — registered 27.9 years ago.
-fetchedAt: '2026-06-24T21:44:43.461Z'
+  intimissimi.com scores 70/100 on our public trust checks. Established domain —
+  registered 28 years ago.
+fetchedAt: '2026-07-27T08:05:17.660Z'
 finalUrl: 'https://www.intimissimi.com/us/'
 reachable: true
 noindex: false
@@ -15,14 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 70
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 27.9 years ago.
+    - Established domain — registered 28 years ago.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No valid SSL certificate — connection may not be secure.
   cautions: []
 signals:
   http:
@@ -52,16 +53,16 @@ signals:
       shipping: true
     detail: Found 4 policy page(s) and a contact page.
   ssl:
-    status: unknown
+    status: fail
     value: null
-    detail: TLS connection timed out.
+    detail: 'TLS connection failed: '
   domainAge:
     status: pass
     value:
       createdAt: '1998-07-27'
-      ageDays: 10194
-      ageYears: 27.9
-    detail: Registered 27.9 years ago (1998-07-27).
+      ageDays: 10227
+      ageYears: 28
+    detail: Registered 28 years ago (1998-07-27).
   contact:
     status: pass
     value:
@@ -92,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-intimissimi.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+intimissimi.com looks like a well-established store. The clearest positives are that its domain has been registered for 28 years and it lists genuine business contact details. The main thing we would flag is that it does not present a valid security certificate, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Intimissimi in the score above.
 

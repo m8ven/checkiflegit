@@ -5,7 +5,7 @@ title: Is editionr.ch Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   editionr.ch scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:41:47.559Z'
+fetchedAt: '2026-08-03T08:27:11.628Z'
 finalUrl: 'https://editionr.ch/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

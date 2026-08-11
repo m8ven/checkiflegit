@@ -5,7 +5,7 @@ title: Is smartaccess.es Legit? Trust Score 79/100
 description: >-
   smartaccess.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:21:57.450Z'
+fetchedAt: '2026-08-03T08:11:41.349Z'
 finalUrl: 'https://www.smartaccess.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-18'
-      daysToExpiry: 55
+      daysToExpiry: 16
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

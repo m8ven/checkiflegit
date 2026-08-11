@@ -5,7 +5,7 @@ title: Is sofishop.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   sofishop.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:11:41.854Z'
+fetchedAt: '2026-08-10T06:20:19.002Z'
 finalUrl: 'https://sofishop.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-04'
-      daysToExpiry: 71
+      validTo: '2026-11-04'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is shop.taaonline.net Legit? Trust Score 19/100
 description: >-
   shop.taaonline.net scores 19/100 on our public trust checks. Standard contact
   and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:01:12.912Z'
+fetchedAt: '2026-08-10T06:11:54.651Z'
 finalUrl: 'https://shop.taaonline.net/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

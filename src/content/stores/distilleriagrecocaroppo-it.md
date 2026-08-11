@@ -4,9 +4,9 @@ slug: distilleriagrecocaroppo-it
 title: Is distilleriagrecocaroppo.it Legit? Trust Score 88/100
 description: >-
   distilleriagrecocaroppo.it scores 88/100 on our public trust checks.
-  Established domain — registered 4.9 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 5 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:01:16.759Z'
+fetchedAt: '2026-08-03T08:07:27.633Z'
 finalUrl: 'https://www.distilleriagrecocaroppo.it/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.9 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -58,23 +58,23 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2027-01-09'
-      daysToExpiry: 199
+      daysToExpiry: 159
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2021-07-30'
-      ageDays: 1790
-      ageYears: 4.9
-    detail: Registered 4.9 years ago (2021-07-30).
+      ageDays: 1830
+      ageYears: 5
+    detail: Registered 5 years ago (2021-07-30).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-distilleriagrecocaroppo.it looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+distilleriagrecocaroppo.it looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Distilleriagrecocaroppo in the score above.
 

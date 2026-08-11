@@ -5,7 +5,7 @@ title: Is omegachems.site Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   omegachems.site scores 55/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T03:21:15.728Z'
+fetchedAt: '2026-08-10T06:01:00.436Z'
 finalUrl: 'https://omegachems.site/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 36
+      validTo: '2026-09-29'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-09-04'
-      ageDays: 293
-      ageYears: 0.8
-    detail: Registered 0.8 years ago (2025-09-04).
+      ageDays: 340
+      ageYears: 0.9
+    detail: Registered 0.9 years ago (2025-09-04).
   contact:
     status: pass
     value:

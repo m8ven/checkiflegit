@@ -5,7 +5,7 @@ title: Is gameskeys.net Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   gameskeys.net scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T03:46:22.973Z'
+fetchedAt: '2026-08-10T06:03:26.792Z'
 finalUrl: 'https://gameskeys.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.6 years ago.
+    - Established domain — registered 6.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-18'
-      daysToExpiry: 55
+      daysToExpiry: 8
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-11-15'
-      ageDays: 2413
-      ageYears: 6.6
-    detail: Registered 6.6 years ago (2019-11-15).
+      ageDays: 2459
+      ageYears: 6.7
+    detail: Registered 6.7 years ago (2019-11-15).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gameskeys.net sends a mixed set of signals. On the positive side, its domain has been registered for 6.6 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+gameskeys.net sends a mixed set of signals. On the positive side, its domain has been registered for 6.7 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gameskeys in the score above.
 

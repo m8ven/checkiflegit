@@ -5,7 +5,7 @@ title: Is artisticapinocho.com.ar Legit? Trust Score 83/100
 description: >-
   artisticapinocho.com.ar scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:49:23.955Z'
+fetchedAt: '2026-07-27T08:35:24.478Z'
 finalUrl: 'https://artisticapinocho.com.ar/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

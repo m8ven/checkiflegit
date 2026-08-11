@@ -4,8 +4,8 @@ slug: termoavtomatika-ru
 title: Is termoavtomatika.ru Legit? Trust Score 73/100
 description: >-
   termoavtomatika.ru scores 73/100 on our public trust checks. Established
-  domain — registered 25.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:05:52.974Z'
+  domain — registered 25.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:15:35.682Z'
 finalUrl: 'https://termoavtomatika.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 25.4 years ago.
+    - Established domain — registered 25.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-28'
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2001-02-21'
-      ageDays: 9254
-      ageYears: 25.4
-    detail: Registered 25.4 years ago (2001-02-21).
+      ageDays: 9300
+      ageYears: 25.5
+    detail: Registered 25.5 years ago (2001-02-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-termoavtomatika.ru looks like a well-established store. The clearest positives are that its domain has been registered for 25.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+termoavtomatika.ru looks like a well-established store. The clearest positives are that its domain has been registered for 25.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Termoavtomatika in the score above.
 

@@ -5,7 +5,7 @@ title: Is eletrolarnews.com.br Legit? Trust Score 66/100
 description: >-
   eletrolarnews.com.br scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:43:26.948Z'
+fetchedAt: '2026-08-10T06:03:02.935Z'
 finalUrl: 'https://eletrolarnews.com.br/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: false
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: 'Found 3 policy page(s), no contact page.'
+    detail: 'Found 4 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-24'
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

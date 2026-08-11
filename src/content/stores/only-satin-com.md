@@ -4,8 +4,8 @@ slug: only-satin-com
 title: Is only-satin.com Legit? Trust Score 85/100
 description: >-
   only-satin.com scores 85/100 on our public trust checks. Established domain —
-  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:30:02.604Z'
+  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:35:46.058Z'
 finalUrl: 'https://www.only-satin.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.9 years ago.
+    - Established domain — registered 4.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-03'
-      daysToExpiry: 71
+      validTo: '2026-11-01'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-07-20'
-      ageDays: 1436
-      ageYears: 3.9
-    detail: Registered 3.9 years ago (2022-07-20).
+      ageDays: 1481
+      ageYears: 4.1
+    detail: Registered 4.1 years ago (2022-07-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-only-satin.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+only-satin.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Only-satin in the score above.
 

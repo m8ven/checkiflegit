@@ -4,8 +4,8 @@ slug: valueelectronics-com
 title: Is valueelectronics.com Legit? Trust Score 100/100
 description: >-
   valueelectronics.com scores 100/100 on our public trust checks. Established
-  domain — registered 28.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:17:57.009Z'
+  domain — registered 28.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:25:53.139Z'
 finalUrl: 'https://valueelectronics.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.8 years ago.
+    - Established domain — registered 28.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-08'
-      daysToExpiry: 44
+      validTo: '2026-09-27'
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1997-09-20'
-      ageDays: 10505
-      ageYears: 28.8
-    detail: Registered 28.8 years ago (1997-09-20).
+      ageDays: 10551
+      ageYears: 28.9
+    detail: Registered 28.9 years ago (1997-09-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-valueelectronics.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+valueelectronics.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Valueelectronics in the score above.
 

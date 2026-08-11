@@ -5,7 +5,7 @@ title: Is hoffnungsschmiede777.de Legit? Trust Score 83/100
 description: >-
   hoffnungsschmiede777.de scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:04.864Z'
+fetchedAt: '2026-07-27T08:18:54.453Z'
 finalUrl: 'https://hoffnungsschmiede777.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 39
+      validTo: '2026-10-02'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

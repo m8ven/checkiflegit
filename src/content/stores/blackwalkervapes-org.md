@@ -5,7 +5,7 @@ title: Is blackwalkervapes.org Legit? Trust Score 43/100
 description: >-
   blackwalkervapes.org scores 43/100 on our public trust checks. No links to
   major social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T02:21:01.925Z'
+fetchedAt: '2026-07-27T08:11:33.112Z'
 finalUrl: 'https://blackwalkervapes.org/'
 reachable: true
 noindex: false
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-12-22'
-      ageDays: 184
-      ageYears: 0.5
-    detail: Registered 0.5 years ago (2025-12-22).
+      ageDays: 216
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2025-12-22).
   contact:
     status: warn
     value:

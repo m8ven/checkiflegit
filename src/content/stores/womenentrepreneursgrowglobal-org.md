@@ -4,8 +4,8 @@ slug: womenentrepreneursgrowglobal-org
 title: Is womenentrepreneursgrowglobal.org Legit? Score 100/100
 description: >-
   womenentrepreneursgrowglobal.org scores 100/100 on our public trust checks.
-  Established domain — registered 18.4 years ago.
-fetchedAt: '2026-06-25T02:50:58.966Z'
+  Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:36:43.047Z'
 finalUrl: 'https://womenentrepreneursgrowglobal.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +55,14 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-04'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2008-01-24'
-      ageDays: 6726
-      ageYears: 18.4
-    detail: Registered 18.4 years ago (2008-01-24).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -97,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-womenentrepreneursgrowglobal.org looks like a well-established store. The clearest positives are that its domain has been registered for 18.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+womenentrepreneursgrowglobal.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Womenentrepreneursgrowglobal in the score above.
 

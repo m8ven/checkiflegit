@@ -4,8 +4,8 @@ slug: jakestoys-com
 title: Is jakestoys.com Legit? Trust Score 85/100
 description: >-
   jakestoys.com scores 85/100 on our public trust checks. Established domain —
-  registered 30.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:43:19.984Z'
+  registered 30.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:28:48.491Z'
 finalUrl: 'https://jakestoys.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 30.2 years ago.
+    - Established domain — registered 30.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      issuer: Google Trust Services
+      validTo: '2026-10-21'
+      daysToExpiry: 80
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1996-05-03'
-      ageDays: 11009
-      ageYears: 30.2
-    detail: Registered 30.2 years ago (1996-05-03).
+      ageDays: 11049
+      ageYears: 30.3
+    detail: Registered 30.3 years ago (1996-05-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jakestoys.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jakestoys.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.3 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jakestoys in the score above.
 

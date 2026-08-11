@@ -5,7 +5,7 @@ title: Is leckys.com.au Legit? Trust Score 79/100
 description: >-
   leckys.com.au scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:52:45.968Z'
+fetchedAt: '2026-08-03T08:36:17.326Z'
 finalUrl: 'https://leckys.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

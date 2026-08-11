@@ -1,90 +1,89 @@
 ---
 domain: notyamanz.com
 slug: notyamanz-com
-title: Is notyamanz.com Legit? Trust Score 88/100
+title: Is notyamanz.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  notyamanz.com scores 88/100 on our public trust checks. Established domain —
-  registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:29:59.205Z'
-finalUrl: 'http://notyamanz.com/'
+  notyamanz.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:17:54.444Z'
+finalUrl: 'https://notyamanz.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 88
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.1 years ago.
+    - Established domain — registered 8.2 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'http://notyamanz.com/'
+      finalUrl: 'https://notyamanz.com/'
     detail: Homepage loads (HTTP 200).
   platform:
+    status: unknown
+    value:
+      platform: null
+      isStore: false
+      markers:
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
+  pages:
     status: pass
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
-  pages:
-    status: warn
-    value:
-      contact: false
+      contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: 'Found 3 policy page(s), no contact page.'
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-11-02'
-      daysToExpiry: 131
+      daysToExpiry: 92
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2018-06-05'
-      ageDays: 2941
-      ageYears: 8.1
-    detail: Registered 8.1 years ago (2018-06-05).
+      ageDays: 2980
+      ageYears: 8.2
+    detail: Registered 8.2 years ago (2018-06-05).
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
+      email: false
       phone: false
-      address: true
-    detail: 'Public contact details found: email, address.'
+      address: false
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
-      twitter: true
+      facebook: false
+      instagram: false
+      twitter: false
       tiktok: false
-      youtube: true
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 4 social platform(s): facebook, instagram, twitter, youtube.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-notyamanz.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+notyamanz.com sends a mixed set of signals. On the positive side, its domain has been registered for 8.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Notyamanz in the score above.
 

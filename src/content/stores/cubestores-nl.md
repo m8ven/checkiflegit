@@ -4,8 +4,8 @@ slug: cubestores-nl
 title: Is cubestores.nl Legit? Trust Score 88/100
 description: >-
   cubestores.nl scores 88/100 on our public trust checks. Established domain —
-  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:19:21.103Z'
+  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:27:00.818Z'
 finalUrl: 'https://www.cubestores.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 7.3 years ago.
+    - Established domain — registered 7.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 32
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-03-18'
-      ageDays: 2656
-      ageYears: 7.3
-    detail: Registered 7.3 years ago (2019-03-18).
+      ageDays: 2702
+      ageYears: 7.4
+    detail: Registered 7.4 years ago (2019-03-18).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cubestores.nl looks like a well-established store. The clearest positives are that its domain has been registered for 7.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cubestores.nl looks like a well-established store. The clearest positives are that its domain has been registered for 7.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cubestores in the score above.
 

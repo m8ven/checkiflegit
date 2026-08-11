@@ -1,24 +1,23 @@
 ---
 domain: nvaccess.org
 slug: nvaccess-org
-title: Is nvaccess.org Legit? Trust Score 76/100
+title: Is nvaccess.org Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  nvaccess.org scores 76/100 on our public trust checks. Established domain —
-  registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:08.162Z'
+  nvaccess.org scores 66/100 on our public trust checks. Some standard policy or
+  contact pages appear to be missing. Only limited contact details were found.
+fetchedAt: '2026-07-27T08:05:35.583Z'
 finalUrl: 'https://www.nvaccess.org/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 76
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 66
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +56,13 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2007-01-30'
-      ageDays: 7085
-      ageYears: 19.4
-    detail: Registered 19.4 years ago (2007-01-30).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: warn
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nvaccess.org looks like a well-established store. The clearest positives are that its domain has been registered for 19.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nvaccess.org sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nvaccess in the score above.
 

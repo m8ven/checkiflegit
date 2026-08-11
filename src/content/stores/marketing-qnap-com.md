@@ -5,7 +5,7 @@ title: Is marketing.qnap.com Legit? Trust Score 0/100
 description: >-
   marketing.qnap.com scores 0/100 on our public trust checks. Standard contact
   and policy pages were not found.
-fetchedAt: '2026-06-25T02:43:24.183Z'
+fetchedAt: '2026-07-27T08:29:39.215Z'
 finalUrl: 'https://marketing.qnap.com/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:

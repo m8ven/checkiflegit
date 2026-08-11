@@ -1,11 +1,11 @@
 ---
 domain: mariomendeslda.pt
 slug: mariomendeslda-pt
-title: Is mariomendeslda.pt Legit? Trust Score 82/100
+title: Is mariomendeslda.pt Legit? Trust Score 74/100
 description: >-
-  mariomendeslda.pt scores 82/100 on our public trust checks. Established domain
-  — registered 12.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:54:18.113Z'
+  mariomendeslda.pt scores 74/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-08-10T06:04:33.704Z'
 finalUrl: 'https://mariomendeslda.pt/'
 reachable: true
 noindex: false
@@ -15,10 +15,9 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 74
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -49,24 +48,21 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2014-06-06'
-      ageDays: 4401
-      ageYears: 12.1
-    detail: Registered 12.1 years ago (2014-06-06).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: warn
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mariomendeslda.pt looks like a well-established store. The clearest positives are that its domain has been registered for 12.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mariomendeslda.pt looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mariomendeslda in the score above.
 

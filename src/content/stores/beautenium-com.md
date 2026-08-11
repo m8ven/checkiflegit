@@ -1,11 +1,11 @@
 ---
 domain: beautenium.com
 slug: beautenium-com
-title: Is beautenium.com Legit? Trust Score 73/100
+title: Is beautenium.com Legit? Trust Score 82/100
 description: >-
-  beautenium.com scores 73/100 on our public trust checks. Established domain —
-  registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:36:04.253Z'
+  beautenium.com scores 82/100 on our public trust checks. Established domain —
+  registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:25.096Z'
 finalUrl: 'https://beautenium.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.1 years ago.
+    - Established domain — registered 5.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
-  redFlags:
-    - No links to major social platforms found.
+  redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -36,12 +36,12 @@ signals:
     status: pass
     value:
       platform: WooCommerce
-      isStore: true
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
+        hasCatalog: false
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: warn
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-28'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-05-17'
-      ageDays: 1864
-      ageYears: 5.1
-    detail: Registered 5.1 years ago (2021-05-17).
+      ageDays: 1910
+      ageYears: 5.2
+    detail: Registered 5.2 years ago (2021-05-17).
   contact:
     status: pass
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: 'Public contact details found: email, phone.'
   social:
-    status: fail
+    status: warn
     value:
-      facebook: false
+      facebook: true
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 1 social platform(s): facebook.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-beautenium.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+beautenium.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Beautenium in the score above.
 

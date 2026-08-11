@@ -4,8 +4,8 @@ slug: hellointex-com
 title: Is hellointex.com Legit? Trust Score 100/100
 description: >-
   hellointex.com scores 100/100 on our public trust checks. Established domain —
-  registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:44.172Z'
+  registered 5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:07:09.885Z'
 finalUrl: 'https://hellointex.com/'
 reachable: true
 noindex: false
@@ -17,8 +17,7 @@ verdict:
     secure payment methods when shopping online.
   score: 100
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.9 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://hellointex.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -56,17 +55,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-19'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-07-27'
-      ageDays: 1793
-      ageYears: 4.9
-    detail: Registered 4.9 years ago (2021-07-27).
+      ageDays: 1839
+      ageYears: 5
+    detail: Registered 5 years ago (2021-07-27).
   contact:
     status: pass
     value:
@@ -97,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hellointex.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hellointex.com looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hellointex in the score above.
 

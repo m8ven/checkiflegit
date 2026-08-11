@@ -1,12 +1,11 @@
 ---
 domain: sergiolestingi.com.br
 slug: sergiolestingi-com-br
-title: Is sergiolestingi.com.br Legit? Trust Score 19/100
+title: Is sergiolestingi.com.br Legit? Trust Score 0/100
 description: >-
-  sergiolestingi.com.br scores 19/100 on our public trust checks. Standard
-  contact and policy pages were not found. No links to major social platforms
-  found.
-fetchedAt: '2026-06-25T12:02:36.007Z'
+  sergiolestingi.com.br scores 0/100 on our public trust checks. Standard
+  contact and policy pages were not found.
+fetchedAt: '2026-08-10T06:13:02.564Z'
 finalUrl: 'https://sergiolestingi.com.br/'
 reachable: true
 noindex: false
@@ -17,15 +16,14 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 19
+  score: 0
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -34,16 +32,16 @@ signals:
       finalUrl: 'https://sergiolestingi.com.br/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: fail
     value:
@@ -58,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -66,12 +64,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -93,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for sergiolestingi.com.br. In particular, only limited contact details are listed and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for sergiolestingi.com.br. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sergiolestingi in the score above.
 

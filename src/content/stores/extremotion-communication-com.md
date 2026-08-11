@@ -4,9 +4,9 @@ slug: extremotion-communication-com
 title: Is extremotion-communication.com Legit? Trust Score 100/100
 description: >-
   extremotion-communication.com scores 100/100 on our public trust checks.
-  Established domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 9 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:41:26.756Z'
+fetchedAt: '2026-08-03T08:26:53.481Z'
 finalUrl: 'https://extremotion-communication.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.9 years ago.
+    - Established domain — registered 9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-22'
-      daysToExpiry: 27
+      validTo: '2026-10-09'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-07-27'
-      ageDays: 3254
-      ageYears: 8.9
-    detail: Registered 8.9 years ago (2017-07-27).
+      ageDays: 3293
+      ageYears: 9
+    detail: Registered 9 years ago (2017-07-27).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-extremotion-communication.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+extremotion-communication.com looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Extremotion-communication in the score above.
 

@@ -5,7 +5,7 @@ title: Is lightpollutionnews.com Legit? Trust Score 58/100
 description: >-
   lightpollutionnews.com scores 58/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:53:02.586Z'
+fetchedAt: '2026-08-03T08:36:37.647Z'
 finalUrl: 'https://lightpollutionnews.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.7 years ago.
+    - Established domain — registered 3.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-24'
-      daysToExpiry: 122
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2022-10-23'
-      ageDays: 1340
-      ageYears: 3.7
-    detail: Registered 3.7 years ago (2022-10-23).
+      ageDays: 1379
+      ageYears: 3.8
+    detail: Registered 3.8 years ago (2022-10-23).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lightpollutionnews.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.7 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+lightpollutionnews.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.8 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lightpollutionnews in the score above.
 

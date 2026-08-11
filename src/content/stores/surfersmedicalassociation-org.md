@@ -4,9 +4,9 @@ slug: surfersmedicalassociation-org
 title: Is surfersmedicalassociation.org Legit? Trust Score 88/100
 description: >-
   surfersmedicalassociation.org scores 88/100 on our public trust checks.
-  Established domain — registered 19.9 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 20 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:13:36.002Z'
+fetchedAt: '2026-08-10T06:22:07.137Z'
 finalUrl: 'https://surfersmedicalassociation.org/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.9 years ago.
+    - Established domain — registered 20 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: ZeroSSL GmbH
       validTo: '2026-08-18'
-      daysToExpiry: 55
+      daysToExpiry: 9
       authorized: true
     detail: Valid certificate issued by ZeroSSL GmbH.
   domainAge:
     status: pass
     value:
       createdAt: '2006-08-21'
-      ageDays: 7247
-      ageYears: 19.9
-    detail: Registered 19.9 years ago (2006-08-21).
+      ageDays: 7293
+      ageYears: 20
+    detail: Registered 20 years ago (2006-08-21).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-surfersmedicalassociation.org looks like a well-established store. The clearest positives are that its domain has been registered for 19.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+surfersmedicalassociation.org looks like a well-established store. The clearest positives are that its domain has been registered for 20 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Surfersmedicalassociation in the score above.
 

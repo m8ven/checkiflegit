@@ -5,7 +5,7 @@ title: Is corrieribrasil.com.br Legit? Trust Score 100/100
 description: >-
   corrieribrasil.com.br scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:39:08.720Z'
+fetchedAt: '2026-08-03T08:24:54.451Z'
 finalUrl: 'https://corrieribrasil.com.br/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

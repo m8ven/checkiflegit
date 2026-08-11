@@ -4,8 +4,8 @@ slug: duplinchristian-org
 title: Is duplinchristian.org Legit? Trust Score 82/100
 description: >-
   duplinchristian.org scores 82/100 on our public trust checks. Established
-  domain — registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:41:26.594Z'
+  domain — registered 15.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:26:53.284Z'
 finalUrl: 'https://duplinchristian.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.2 years ago.
+    - Established domain — registered 15.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-22'
-      daysToExpiry: 181
+      daysToExpiry: 142
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2011-04-21'
-      ageDays: 5543
-      ageYears: 15.2
-    detail: Registered 15.2 years ago (2011-04-21).
+      ageDays: 5582
+      ageYears: 15.3
+    detail: Registered 15.3 years ago (2011-04-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-duplinchristian.org looks like a well-established store. The clearest positives are that its domain has been registered for 15.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+duplinchristian.org looks like a well-established store. The clearest positives are that its domain has been registered for 15.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Duplinchristian in the score above.
 

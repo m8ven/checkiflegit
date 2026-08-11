@@ -5,7 +5,7 @@ title: Is patart-creations.fr Legit? Trust Score 58/100
 description: >-
   patart-creations.fr scores 58/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T03:20:05.210Z'
+fetchedAt: '2026-08-03T08:10:04.156Z'
 finalUrl: 'https://www.patart-creations.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.9 years ago.
+    - Established domain — registered 4.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-01'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-07-14'
-      ageDays: 1441
-      ageYears: 3.9
-    detail: Registered 3.9 years ago (2022-07-14).
+      ageDays: 1480
+      ageYears: 4.1
+    detail: Registered 4.1 years ago (2022-07-14).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-patart-creations.fr sends a mixed set of signals. On the positive side, its domain has been registered for 3.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+patart-creations.fr sends a mixed set of signals. On the positive side, its domain has been registered for 4.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Patart-creations in the score above.
 

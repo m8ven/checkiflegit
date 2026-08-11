@@ -5,7 +5,7 @@ title: Is ngoclamsaigon.com.vn Legit? Trust Score 100/100
 description: >-
   ngoclamsaigon.com.vn scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:55:45.845Z'
+fetchedAt: '2026-08-10T06:07:31.056Z'
 finalUrl: 'https://ngoclamsaigon.com.vn/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

@@ -5,7 +5,7 @@ title: Is greenacres.info Legit? Trust Score 83/100
 description: >-
   greenacres.info scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:23:35.886Z'
+fetchedAt: '2026-08-10T06:30:18.614Z'
 finalUrl: 'https://www.greenacres.info/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-20'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

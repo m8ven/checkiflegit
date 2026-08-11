@@ -4,8 +4,8 @@ slug: felizmodern-com
 title: Is felizmodern.com Legit? Trust Score 100/100
 description: >-
   felizmodern.com scores 100/100 on our public trust checks. Established domain
-  — registered 9.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:57.554Z'
+  — registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:43.341Z'
 finalUrl: 'https://www.felizmodern.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 9.4 years ago.
+    - Established domain — registered 9.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-27'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-02-17'
-      ageDays: 3414
-      ageYears: 9.4
-    detail: Registered 9.4 years ago (2017-02-17).
+      ageDays: 3453
+      ageYears: 9.5
+    detail: Registered 9.5 years ago (2017-02-17).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-felizmodern.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+felizmodern.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Felizmodern in the score above.
 

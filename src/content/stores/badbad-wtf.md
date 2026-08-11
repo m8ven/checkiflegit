@@ -5,7 +5,7 @@ title: Is badbad.wtf Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   badbad.wtf scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:22:40.904Z'
+fetchedAt: '2026-08-10T06:29:43.296Z'
 finalUrl: 'https://www.badbad.wtf/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-26'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

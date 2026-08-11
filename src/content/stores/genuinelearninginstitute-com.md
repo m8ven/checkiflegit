@@ -4,9 +4,9 @@ slug: genuinelearninginstitute-com
 title: Is genuinelearninginstitute.com Legit? Trust Score 73/100
 description: >-
   genuinelearninginstitute.com scores 73/100 on our public trust checks.
-  Established domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 5 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:44:20.577Z'
+fetchedAt: '2026-08-10T06:03:09.778Z'
 finalUrl: 'https://genuinelearninginstitute.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-08-22'
-      ageDays: 1767
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-08-22).
+      ageDays: 1813
+      ageYears: 5
+    detail: Registered 5 years ago (2021-08-22).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-genuinelearninginstitute.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+genuinelearninginstitute.com looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Genuinelearninginstitute in the score above.
 

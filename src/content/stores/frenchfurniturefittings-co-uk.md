@@ -4,9 +4,9 @@ slug: frenchfurniturefittings-co-uk
 title: Is frenchfurniturefittings.co.uk Legit? Trust Score 100/100
 description: >-
   frenchfurniturefittings.co.uk scores 100/100 on our public trust checks.
-  Established domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 8.8 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:32:19.443Z'
+fetchedAt: '2026-08-03T08:20:03.361Z'
 finalUrl: 'https://frenchfurniturefittings.co.uk/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.7 years ago.
+    - Established domain — registered 8.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-10-10'
-      ageDays: 3179
-      ageYears: 8.7
-    detail: Registered 8.7 years ago (2017-10-10).
+      ageDays: 3219
+      ageYears: 8.8
+    detail: Registered 8.8 years ago (2017-10-10).
   contact:
     status: pass
     value:
@@ -98,7 +98,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-frenchfurniturefittings.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 8.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+frenchfurniturefittings.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 8.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Frenchfurniturefittings in the score above.
 

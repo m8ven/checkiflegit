@@ -5,7 +5,7 @@ title: Is diycarpenter.site Legit? Trust Score 55/100
 description: >-
   diycarpenter.site scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:25:13.986Z'
+fetchedAt: '2026-07-27T08:14:41.135Z'
 finalUrl: 'https://diycarpenter.site/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.7 years ago.
+    - Established domain — registered 8.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 57
+      validTo: '2026-10-21'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-10-25'
-      ageDays: 3164
-      ageYears: 8.7
-    detail: Registered 8.7 years ago (2017-10-25).
+      ageDays: 3197
+      ageYears: 8.8
+    detail: Registered 8.8 years ago (2017-10-25).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-diycarpenter.site sends a mixed set of signals. On the positive side, its domain has been registered for 8.7 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+diycarpenter.site sends a mixed set of signals. On the positive side, its domain has been registered for 8.8 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Diycarpenter in the score above.
 

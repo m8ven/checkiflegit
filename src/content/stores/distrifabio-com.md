@@ -4,8 +4,8 @@ slug: distrifabio-com
 title: Is distrifabio.com Legit? Trust Score 76/100
 description: >-
   distrifabio.com scores 76/100 on our public trust checks. Established domain —
-  registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:50.676Z'
+  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:17.075Z'
 finalUrl: 'https://distrifabio.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.1 years ago.
+    - Established domain — registered 3.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-05-31'
-      ageDays: 1120
-      ageYears: 3.1
-    detail: Registered 3.1 years ago (2023-05-31).
+      ageDays: 1166
+      ageYears: 3.2
+    detail: Registered 3.2 years ago (2023-05-31).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-distrifabio.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+distrifabio.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Distrifabio in the score above.
 

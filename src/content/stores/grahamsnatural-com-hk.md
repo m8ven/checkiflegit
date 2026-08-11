@@ -5,7 +5,7 @@ title: Is grahamsnatural.com.hk Legit? Trust Score 100/100
 description: >-
   grahamsnatural.com.hk scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:19:28.052Z'
+fetchedAt: '2026-08-03T08:09:35.229Z'
 finalUrl: 'https://www.grahamsnatural.com.hk/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-10-25'
-      daysToExpiry: 123
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

@@ -5,7 +5,7 @@ title: Is weatherlink.com Legit? Trust Score 29/100
 description: >-
   weatherlink.com scores 29/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-24T21:45:19.418Z'
+fetchedAt: '2026-07-27T08:05:45.182Z'
 finalUrl: 'https://www.weatherlink.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 29
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 29.3 years ago.
+    - Established domain — registered 29.4 years ago.
   redFlags:
     - No public contact details detected on the homepage.
     - No links to major social platforms found.
@@ -60,9 +60,9 @@ signals:
     status: pass
     value:
       createdAt: '1997-03-16'
-      ageDays: 10692
-      ageYears: 29.3
-    detail: Registered 29.3 years ago (1997-03-16).
+      ageDays: 10725
+      ageYears: 29.4
+    detail: Registered 29.4 years ago (1997-03-16).
   contact:
     status: fail
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for weatherlink.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 29.3 years and it runs on Shopify, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for weatherlink.com. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 29.4 years and it runs on Shopify, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Weatherlink in the score above.
 

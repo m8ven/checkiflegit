@@ -6,7 +6,7 @@ description: >-
   ellalabella.cl scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:37:39.347Z'
+fetchedAt: '2026-08-03T08:23:59.172Z'
 finalUrl: 'https://ellalabella.cl/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

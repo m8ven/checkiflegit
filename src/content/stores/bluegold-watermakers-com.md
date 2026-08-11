@@ -4,8 +4,8 @@ slug: bluegold-watermakers-com
 title: Is bluegold-watermakers.com Legit? Trust Score 85/100
 description: >-
   bluegold-watermakers.com scores 85/100 on our public trust checks. Established
-  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:22:28.973Z'
+  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:12:06.352Z'
 finalUrl: 'https://bluegold-watermakers.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.9 years ago.
+    - Established domain — registered 9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-08-03'
-      ageDays: 3247
-      ageYears: 8.9
-    detail: Registered 8.9 years ago (2017-08-03).
+      ageDays: 3286
+      ageYears: 9
+    detail: Registered 9 years ago (2017-08-03).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bluegold-watermakers.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bluegold-watermakers.com looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bluegold-watermakers in the score above.
 

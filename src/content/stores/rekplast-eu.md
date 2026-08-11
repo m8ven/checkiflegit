@@ -5,7 +5,7 @@ title: Is rekplast.eu Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   rekplast.eu scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:42:36.006Z'
+fetchedAt: '2026-07-27T08:28:58.495Z'
 finalUrl: 'https://rekplast.eu/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-09'
-      daysToExpiry: 15
+      validTo: '2026-10-04'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

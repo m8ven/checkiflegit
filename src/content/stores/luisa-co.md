@@ -5,7 +5,7 @@ title: Is luisa.co Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   luisa.co scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:34:55.125Z'
+fetchedAt: '2026-07-27T08:22:42.366Z'
 finalUrl: 'https://luisa.co/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-24'
-      daysToExpiry: 214
+      daysToExpiry: 182
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

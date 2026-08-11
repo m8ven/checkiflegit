@@ -4,8 +4,8 @@ slug: hannah-detterbeck-com
 title: Is hannah-detterbeck.com Legit? Trust Score 88/100
 description: >-
   hannah-detterbeck.com scores 88/100 on our public trust checks. Established
-  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:46.849Z'
+  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:40.733Z'
 finalUrl: 'https://hannah-detterbeck.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9 years ago.
+    - Established domain — registered 9.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-06-24'
-      ageDays: 3287
-      ageYears: 9
-    detail: Registered 9 years ago (2017-06-24).
+      ageDays: 3319
+      ageYears: 9.1
+    detail: Registered 9.1 years ago (2017-06-24).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hannah-detterbeck.com looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hannah-detterbeck.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hannah-detterbeck in the score above.
 

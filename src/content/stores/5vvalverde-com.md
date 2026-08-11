@@ -4,8 +4,8 @@ slug: 5vvalverde-com
 title: Is 5vvalverde.com Legit? Trust Score 100/100
 description: >-
   5vvalverde.com scores 100/100 on our public trust checks. Established domain —
-  registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:33:29.985Z'
+  registered 5.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:21:36.103Z'
 finalUrl: 'https://5vvalverde.com/es/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.7 years ago.
+    - Established domain — registered 5.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 32
+      validTo: '2026-09-25'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-10-19'
-      ageDays: 2074
-      ageYears: 5.7
-    detail: Registered 5.7 years ago (2020-10-19).
+      ageDays: 2106
+      ageYears: 5.8
+    detail: Registered 5.8 years ago (2020-10-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-5vvalverde.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+5vvalverde.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 5vvalverde in the score above.
 

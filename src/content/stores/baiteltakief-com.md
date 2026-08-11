@@ -5,7 +5,7 @@ title: Is baiteltakief.com Legit? Trust Score 88/100
 description: >-
   baiteltakief.com scores 88/100 on our public trust checks. Established domain
   — registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:18:50.206Z'
+fetchedAt: '2026-07-27T08:10:04.443Z'
 finalUrl: 'https://baiteltakief.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-03-23'
-      ageDays: 1189
+      ageDays: 1221
       ageYears: 3.3
     detail: Registered 3.3 years ago (2023-03-23).
   contact:

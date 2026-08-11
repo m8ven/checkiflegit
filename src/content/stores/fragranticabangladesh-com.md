@@ -1,12 +1,12 @@
 ---
 domain: fragranticabangladesh.com
 slug: fragranticabangladesh-com
-title: Is fragranticabangladesh.com Legit? Trust Score 76/100
+title: Is fragranticabangladesh.com Legit? Trust Score 88/100
 description: >-
-  fragranticabangladesh.com scores 76/100 on our public trust checks.
-  Established domain — registered 4.5 years ago. Valid HTTPS/SSL certificate in
+  fragranticabangladesh.com scores 88/100 on our public trust checks.
+  Established domain — registered 4.6 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:28:17.686Z'
+fetchedAt: '2026-07-27T08:17:22.659Z'
 finalUrl: 'https://fragranticabangladesh.com/'
 reachable: true
 noindex: false
@@ -16,16 +16,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -57,24 +57,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-17'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-01-07'
-      ageDays: 1629
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2022-01-07).
+      ageDays: 1662
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2022-01-07).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fragranticabangladesh.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fragranticabangladesh.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fragranticabangladesh in the score above.
 

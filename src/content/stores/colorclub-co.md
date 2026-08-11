@@ -5,7 +5,7 @@ title: Is colorclub.co Legit? Trust Score 83/100
 description: >-
   colorclub.co scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:39:38.583Z'
+fetchedAt: '2026-08-03T08:25:08.113Z'
 finalUrl: 'https://colorclub.co/?v=973d6e2581ab'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

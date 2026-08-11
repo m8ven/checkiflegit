@@ -5,7 +5,7 @@ title: Is wingsoft.co Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   wingsoft.co scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:10:32.531Z'
+fetchedAt: '2026-08-10T06:19:33.549Z'
 finalUrl: 'https://wingsoft.co/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      issuer: Google Trust Services
+      validTo: '2026-10-12'
+      daysToExpiry: 64
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null

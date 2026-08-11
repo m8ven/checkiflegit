@@ -5,7 +5,7 @@ title: Is en.mikizi.com Legit? Trust Score 100/100
 description: >-
   en.mikizi.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:43:40.041Z'
+fetchedAt: '2026-08-03T08:29:13.457Z'
 finalUrl: 'https://en.mikizi.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is hparts.eu Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   hparts.eu scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:37:32.727Z'
+fetchedAt: '2026-07-27T08:24:53.943Z'
 finalUrl: 'https://hparts.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

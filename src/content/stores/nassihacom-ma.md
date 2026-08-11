@@ -1,90 +1,73 @@
 ---
 domain: nassihacom.ma
 slug: nassihacom-ma
-title: Is nassihacom.ma Legit? Trust Score 88/100
+title: Is nassihacom.ma Legit? Trust Score 14/100
 description: >-
-  nassihacom.ma scores 88/100 on our public trust checks. Established domain —
-  registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:33.408Z'
-finalUrl: 'https://nassihacom.ma/'
+  nassihacom.ma scores 14/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
+fetchedAt: '2026-07-27T08:31:50.077Z'
+finalUrl: 'http://nassihacom.ma/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 88
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 14
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.2 years ago.
-    - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Established domain — registered 7.3 years ago.
+  redFlags:
+    - No valid SSL certificate — connection may not be secure.
+    - Standard contact and policy pages were not found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://nassihacom.ma/'
+      finalUrl: 'http://nassihacom.ma/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
-      markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: false
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+      platform: null
+      isStore: false
+    detail: No page content to inspect.
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: pass
+    status: fail
     value:
       issuer: ZeroSSL GmbH
       validTo: '2026-07-15'
-      daysToExpiry: 21
-      authorized: true
-    detail: Valid certificate issued by ZeroSSL GmbH.
+      daysToExpiry: -11
+      authorized: false
+    detail: Certificate has expired.
   domainAge:
     status: pass
     value:
       createdAt: '2019-04-18'
-      ageDays: 2624
-      ageYears: 7.2
-    detail: Registered 7.2 years ago (2019-04-18).
+      ageDays: 2656
+      ageYears: 7.3
+    detail: Registered 7.3 years ago (2019-04-18).
   contact:
-    status: pass
-    value:
-      email: true
-      phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+    status: unknown
+    value: {}
+    detail: No page content to inspect.
   social:
-    status: pass
-    value:
-      facebook: true
-      instagram: true
-      twitter: false
-      tiktok: false
-      youtube: false
-      linkedin: false
-      pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    status: unknown
+    value: {}
+    detail: No page content to inspect.
   reviews:
     status: unknown
     value:
@@ -95,7 +78,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nassihacom.ma looks like a well-established store. The clearest positives are that its domain has been registered for 7.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for nassihacom.ma. In particular, we could not find the usual contact and policy pages and it does not present a valid security certificate. It does have some positives — its domain has been registered for 7.3 years — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nassihacom in the score above.
 

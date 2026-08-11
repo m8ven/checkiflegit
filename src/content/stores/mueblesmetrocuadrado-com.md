@@ -4,8 +4,8 @@ slug: mueblesmetrocuadrado-com
 title: Is mueblesmetrocuadrado.com Legit? Trust Score 88/100
 description: >-
   mueblesmetrocuadrado.com scores 88/100 on our public trust checks. Established
-  domain — registered 7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:03.951Z'
+  domain — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:06:36.251Z'
 finalUrl: 'https://mueblesmetrocuadrado.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7 years ago.
+    - Established domain — registered 7.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-18'
-      daysToExpiry: 239
+      daysToExpiry: 193
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2019-07-08'
-      ageDays: 2543
-      ageYears: 7
-    detail: Registered 7 years ago (2019-07-08).
+      ageDays: 2589
+      ageYears: 7.1
+    detail: Registered 7.1 years ago (2019-07-08).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mueblesmetrocuadrado.com looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mueblesmetrocuadrado.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mueblesmetrocuadrado in the score above.
 

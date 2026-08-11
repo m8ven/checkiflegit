@@ -5,7 +5,7 @@ title: Is viastein.hu Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   viastein.hu scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:29:06.124Z'
+fetchedAt: '2026-08-03T08:17:10.221Z'
 finalUrl: 'https://www.viastein.hu/'
 reachable: true
 noindex: false
@@ -45,18 +45,18 @@ signals:
   pages:
     status: warn
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: true
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

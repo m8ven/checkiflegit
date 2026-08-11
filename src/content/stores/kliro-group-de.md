@@ -5,7 +5,7 @@ title: Is kliro-group.de Legit? Trust Score 100/100
 description: >-
   kliro-group.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:40:45.918Z'
+fetchedAt: '2026-07-27T08:27:35.629Z'
 finalUrl: 'https://kliro-group.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-18'
-      daysToExpiry: 116
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -78,9 +78,9 @@ signals:
       twitter: false
       tiktok: false
       youtube: true
-      linkedin: false
+      linkedin: true
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, youtube.'
+    detail: 'Links to 3 social platform(s): facebook, youtube, linkedin.'
   reviews:
     status: unknown
     value:

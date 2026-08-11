@@ -1,11 +1,11 @@
 ---
 domain: cosmodirectsupply.com
 slug: cosmodirectsupply-com
-title: Is cosmodirectsupply.com Legit? Trust Score 94/100
+title: Is cosmodirectsupply.com Legit? Trust Score 100/100
 description: >-
-  cosmodirectsupply.com scores 94/100 on our public trust checks. Established
-  domain — registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:19:57.073Z'
+  cosmodirectsupply.com scores 100/100 on our public trust checks. Established
+  domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:09:45.876Z'
 finalUrl: 'https://cosmodirectsupply.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 94
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
+    - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Limited social media presence.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,35 +56,35 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-25'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-02-12'
-      ageDays: 498
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-02-12).
+      ageDays: 537
+      ageYears: 1.5
+    detail: Registered 1.5 years ago (2025-02-12).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
-    status: warn
+    status: pass
     value:
       facebook: true
-      instagram: false
+      instagram: true
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: 'Links to 2 social platform(s): facebook, instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cosmodirectsupply.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cosmodirectsupply.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cosmodirectsupply in the score above.
 

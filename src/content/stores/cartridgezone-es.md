@@ -5,7 +5,7 @@ title: Is cartridgezone.es Legit? Trust Score 83/100
 description: >-
   cartridgezone.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:22:15.690Z'
+fetchedAt: '2026-07-27T08:12:29.834Z'
 finalUrl: 'https://cartridgezone.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

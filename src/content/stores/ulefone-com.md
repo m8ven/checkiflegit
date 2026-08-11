@@ -5,7 +5,7 @@ title: Is ulefone.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   ulefone.com scores 88/100 on our public trust checks. Established domain —
   registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:50.144Z'
+fetchedAt: '2026-07-27T08:07:19.155Z'
 finalUrl: 'https://www.ulefone.com/'
 reachable: true
 noindex: false
@@ -50,21 +50,21 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-08-18'
-      ageDays: 5058
+      ageDays: 5090
       ageYears: 13.9
     detail: Registered 13.9 years ago (2012-08-18).
   contact:

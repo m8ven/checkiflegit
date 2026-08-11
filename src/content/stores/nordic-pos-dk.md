@@ -6,7 +6,7 @@ description: >-
   nordic-pos.dk scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T03:02:17.156Z'
+fetchedAt: '2026-08-03T08:08:19.262Z'
 finalUrl: 'https://nordic-pos.dk/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.3 years ago.
+    - Established domain — registered 15.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: DigiCert Inc
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2027-01-16'
+      daysToExpiry: 167
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2011-03-08'
-      ageDays: 5588
-      ageYears: 15.3
-    detail: Registered 15.3 years ago (2011-03-08).
+      ageDays: 5627
+      ageYears: 15.4
+    detail: Registered 15.4 years ago (2011-03-08).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nordic-pos.dk sends a mixed set of signals. On the positive side, its domain has been registered for 15.3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+nordic-pos.dk sends a mixed set of signals. On the positive side, its domain has been registered for 15.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nordic-pos in the score above.
 

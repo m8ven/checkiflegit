@@ -4,8 +4,8 @@ slug: eurokope-com
 title: Is eurokope.com Legit? Trust Score 85/100
 description: >-
   eurokope.com scores 85/100 on our public trust checks. Established domain —
-  registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:52.560Z'
+  registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:28:21.045Z'
 finalUrl: 'https://eurokope.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.1 years ago.
+    - Established domain — registered 9.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-06'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-05-23'
-      ageDays: 3319
-      ageYears: 9.1
-    detail: Registered 9.1 years ago (2017-05-23).
+      ageDays: 3358
+      ageYears: 9.2
+    detail: Registered 9.2 years ago (2017-05-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eurokope.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eurokope.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eurokope in the score above.
 

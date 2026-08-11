@@ -5,7 +5,7 @@ title: Is tokmanni.fi Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   tokmanni.fi scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:50.554Z'
+fetchedAt: '2026-07-27T08:05:21.338Z'
 finalUrl: 'https://www.tokmanni.fi/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Entrust Limited
       validTo: '2026-12-04'
-      daysToExpiry: 164
+      daysToExpiry: 131
       authorized: true
     detail: Valid certificate issued by Entrust Limited.
   domainAge:

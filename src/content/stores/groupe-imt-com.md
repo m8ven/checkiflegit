@@ -1,27 +1,28 @@
 ---
 domain: groupe-imt.com
 slug: groupe-imt-com
-title: Is groupe-imt.com Legit? Trust Score 85/100
+title: Is groupe-imt.com Legit? Trust Score 58/100 — Mixed Signals
 description: >-
-  groupe-imt.com scores 85/100 on our public trust checks. Established domain —
-  registered 26.1 years ago. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:32:12.438Z'
+  groupe-imt.com scores 58/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
+fetchedAt: '2026-08-10T06:37:32.220Z'
 finalUrl: 'https://www.groupe-imt.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 85
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.1 years ago.
+    - Established domain — registered 26.2 years ago.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No valid SSL certificate — connection may not be secure.
   cautions:
     - Some standard policy or contact pages appear to be missing.
 signals:
@@ -52,16 +53,16 @@ signals:
       shipping: false
     detail: Found 1 policy page(s) and a contact page.
   ssl:
-    status: unknown
+    status: fail
     value: null
-    detail: TLS connection timed out.
+    detail: 'TLS connection failed: connect ECONNREFUSED 217.70.184.38:443'
   domainAge:
     status: pass
     value:
       createdAt: '2000-06-06'
-      ageDays: 9514
-      ageYears: 26.1
-    detail: Registered 26.1 years ago (2000-06-06).
+      ageDays: 9560
+      ageYears: 26.2
+    detail: Registered 26.2 years ago (2000-06-06).
   contact:
     status: pass
     value:
@@ -90,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-groupe-imt.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+groupe-imt.com sends a mixed set of signals. On the positive side, its domain has been registered for 26.2 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and it does not present a valid security certificate — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Groupe-imt in the score above.
 

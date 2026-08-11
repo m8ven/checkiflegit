@@ -5,7 +5,7 @@ title: Is proricambi.es Legit? Trust Score 91/100
 description: >-
   proricambi.es scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:39:11.428Z'
+fetchedAt: '2026-08-03T08:24:54.772Z'
 finalUrl: 'https://proricambi.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-03-02'
-      daysToExpiry: 251
+      daysToExpiry: 212
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

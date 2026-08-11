@@ -5,7 +5,7 @@ title: Is evolve-fitness.eu Legit? Trust Score 100/100
 description: >-
   evolve-fitness.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:44:22.729Z'
+fetchedAt: '2026-08-10T06:03:09.901Z'
 finalUrl: 'https://evolve-fitness.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-25'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

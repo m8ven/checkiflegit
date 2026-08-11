@@ -4,8 +4,8 @@ slug: designagger-dk
 title: Is designagger.dk Legit? Trust Score 76/100
 description: >-
   designagger.dk scores 76/100 on our public trust checks. Established domain —
-  registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:37.593Z'
+  registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:14:02.468Z'
 finalUrl: 'https://designagger.dk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.8 years ago.
+    - Established domain — registered 9.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-09-02'
-      ageDays: 3583
-      ageYears: 9.8
-    detail: Registered 9.8 years ago (2016-09-02).
+      ageDays: 3615
+      ageYears: 9.9
+    detail: Registered 9.9 years ago (2016-09-02).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-designagger.dk looks like a well-established store. The clearest positives are that its domain has been registered for 9.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+designagger.dk looks like a well-established store. The clearest positives are that its domain has been registered for 9.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Designagger in the score above.
 

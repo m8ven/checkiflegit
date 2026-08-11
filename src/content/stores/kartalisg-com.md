@@ -5,7 +5,7 @@ title: Is kartalisg.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   kartalisg.com scores 55/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:10:40.334Z'
+fetchedAt: '2026-08-10T06:19:39.351Z'
 finalUrl: 'https://kartalisg.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9 years ago.
+    - Established domain — registered 9.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-15'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-06-19'
-      ageDays: 3292
-      ageYears: 9
-    detail: Registered 9 years ago (2017-06-19).
+      ageDays: 3338
+      ageYears: 9.1
+    detail: Registered 9.1 years ago (2017-06-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kartalisg.com sends a mixed set of signals. On the positive side, its domain has been registered for 9 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+kartalisg.com sends a mixed set of signals. On the positive side, its domain has been registered for 9.1 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kartalisg in the score above.
 

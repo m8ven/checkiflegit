@@ -4,8 +4,8 @@ slug: foies-gras-thocaven-com
 title: Is foies-gras-thocaven.com Legit? Trust Score 82/100
 description: >-
   foies-gras-thocaven.com scores 82/100 on our public trust checks. Established
-  domain — registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:19:01.105Z'
+  domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:26:49.764Z'
 finalUrl: 'https://www.foies-gras-thocaven.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.1 years ago.
+    - Established domain — registered 14.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 74
+      daysToExpiry: 29
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-05-04'
-      ageDays: 5164
-      ageYears: 14.1
-    detail: Registered 14.1 years ago (2012-05-04).
+      ageDays: 5210
+      ageYears: 14.3
+    detail: Registered 14.3 years ago (2012-05-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-foies-gras-thocaven.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+foies-gras-thocaven.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Foies-gras-thocaven in the score above.
 

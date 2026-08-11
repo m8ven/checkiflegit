@@ -5,7 +5,7 @@ title: Is getawaycomedy.com Legit? Trust Score 82/100
 description: >-
   getawaycomedy.com scores 82/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:52:20.390Z'
+fetchedAt: '2026-08-03T08:36:06.771Z'
 finalUrl: 'https://getawaycomedy.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2026-02-12'
-      ageDays: 132
-      ageYears: 0.4
-    detail: Registered 0.4 years ago (2026-02-12).
+      ageDays: 171
+      ageYears: 0.5
+    detail: Registered 0.5 years ago (2026-02-12).
   contact:
     status: pass
     value:

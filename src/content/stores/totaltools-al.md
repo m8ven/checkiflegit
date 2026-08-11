@@ -6,7 +6,7 @@ description: >-
   totaltools.al scores 44/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T02:54:12.257Z'
+fetchedAt: '2026-08-03T08:02:45.669Z'
 finalUrl: 'https://totaltools.al/'
 reachable: true
 noindex: false
@@ -58,7 +58,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

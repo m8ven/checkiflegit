@@ -4,8 +4,8 @@ slug: coffeetablebooks-nu
 title: Is coffeetablebooks.nu Legit? Trust Score 73/100
 description: >-
   coffeetablebooks.nu scores 73/100 on our public trust checks. Established
-  domain — registered 3.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:17.259Z'
+  domain — registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:17.390Z'
 finalUrl: 'https://coffeetablebooks.nu/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.5 years ago.
+    - Established domain — registered 3.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-14'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-12-22'
-      ageDays: 1281
-      ageYears: 3.5
-    detail: Registered 3.5 years ago (2022-12-22).
+      ageDays: 1313
+      ageYears: 3.6
+    detail: Registered 3.6 years ago (2022-12-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-coffeetablebooks.nu looks like a well-established store. The clearest positives are that its domain has been registered for 3.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+coffeetablebooks.nu looks like a well-established store. The clearest positives are that its domain has been registered for 3.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Coffeetablebooks in the score above.
 

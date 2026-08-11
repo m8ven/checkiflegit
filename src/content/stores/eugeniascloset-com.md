@@ -1,29 +1,29 @@
 ---
 domain: eugeniascloset.com
 slug: eugeniascloset-com
-title: Is eugeniascloset.com Legit? Trust Score 52/100
+title: Is eugeniascloset.com Legit? Trust Score 82/100
 description: >-
-  eugeniascloset.com scores 52/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T03:44:13.155Z'
+  eugeniascloset.com scores 82/100 on our public trust checks. Established
+  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:03:08.403Z'
 finalUrl: 'https://eugeniascloset.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 52
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 82
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.9 years ago.
+    - 'Built on Shopify, an established e-commerce platform.'
+    - Established domain — registered 3.1 years ago.
     - Valid HTTPS/SSL certificate in place.
-  redFlags:
-    - No public contact details detected on the homepage.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
     - Limited social media presence.
 signals:
   http:
@@ -35,56 +35,56 @@ signals:
   platform:
     status: pass
     value:
-      platform: WooCommerce
+      platform: Shopify
       isStore: true
       markers:
-        hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: false
+        hasAddToCart: false
+        hasCartLink: true
+        hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
-      privacy: false
+      contact: true
+      privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-09'
-      daysToExpiry: 77
+      validTo: '2026-10-21'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-20'
-      ageDays: 1071
-      ageYears: 2.9
-    detail: Registered 2.9 years ago (2023-07-20).
+      ageDays: 1117
+      ageYears: 3.1
+    detail: Registered 3.1 years ago (2023-07-20).
   contact:
-    status: fail
+    status: warn
     value:
       email: false
-      phone: false
+      phone: true
       address: false
-    detail: No public contact details detected on the homepage.
+    detail: 'Public contact details found: phone.'
   social:
     status: warn
     value:
-      facebook: true
-      instagram: false
+      facebook: false
+      instagram: true
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: 'Links to 1 social platform(s): instagram.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eugeniascloset.com sends a mixed set of signals. On the positive side, its domain has been registered for 2.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+eugeniascloset.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eugeniascloset in the score above.
 

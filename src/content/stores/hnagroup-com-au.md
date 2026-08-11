@@ -1,29 +1,29 @@
 ---
 domain: hnagroup.com.au
 slug: hnagroup-com-au
-title: Is hnagroup.com.au Legit? Trust Score 74/100
+title: Is hnagroup.com.au Legit? Trust Score 61/100 — Mixed Signals
 description: >-
-  hnagroup.com.au scores 74/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:45:57.036Z'
+  hnagroup.com.au scores 61/100 on our public trust checks. No links to major
+  social platforms found. Only limited contact details were found.
+fetchedAt: '2026-08-03T08:31:19.591Z'
 finalUrl: 'https://hnagroup.com.au/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 74
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
-  redFlags: []
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -38,25 +38,25 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: false
-        hasCartFlow: false
+        hasCartLink: true
+        hasCatalog: true
+        hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -64,23 +64,23 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
       instagram: false
       twitter: false
       tiktok: false
       youtube: false
-      linkedin: true
+      linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): linkedin.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hnagroup.com.au looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hnagroup.com.au sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hnagroup in the score above.
 

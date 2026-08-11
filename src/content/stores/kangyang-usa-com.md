@@ -4,8 +4,8 @@ slug: kangyang-usa-com
 title: Is kangyang-usa.com Legit? Trust Score 82/100
 description: >-
   kangyang-usa.com scores 82/100 on our public trust checks. Established domain
-  — registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:21:46.196Z'
+  — registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:28:59.122Z'
 finalUrl: 'https://www.kangyang-usa.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.6 years ago.
+    - Established domain — registered 16.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-11-25'
-      ageDays: 6055
-      ageYears: 16.6
-    detail: Registered 16.6 years ago (2009-11-25).
+      ageDays: 6101
+      ageYears: 16.7
+    detail: Registered 16.7 years ago (2009-11-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kangyang-usa.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kangyang-usa.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kangyang-usa in the score above.
 

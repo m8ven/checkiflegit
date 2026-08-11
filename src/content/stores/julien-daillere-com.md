@@ -5,7 +5,7 @@ title: Is julien-daillere.com Legit? Trust Score 61/100
 description: >-
   julien-daillere.com scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T03:21:36.626Z'
+fetchedAt: '2026-08-03T08:11:16.465Z'
 finalUrl: 'https://www.julien-daillere.com/fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.3 years ago.
+    - Established domain — registered 20.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 29
+      validTo: '2026-10-03'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-02-27'
-      ageDays: 7422
-      ageYears: 20.3
-    detail: Registered 20.3 years ago (2006-02-27).
+      ageDays: 7461
+      ageYears: 20.4
+    detail: Registered 20.4 years ago (2006-02-27).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-julien-daillere.com sends a mixed set of signals. On the positive side, its domain has been registered for 20.3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+julien-daillere.com sends a mixed set of signals. On the positive side, its domain has been registered for 20.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Julien-daillere in the score above.
 

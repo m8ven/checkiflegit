@@ -4,8 +4,8 @@ slug: ckitchensolutions-com
 title: Is ckitchensolutions.com Legit? Trust Score 100/100
 description: >-
   ckitchensolutions.com scores 100/100 on our public trust checks. Established
-  domain — registered 13 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:55:08.901Z'
+  domain — registered 13.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:16.840Z'
 finalUrl: 'https://www.ckitchensolutions.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13 years ago.
+    - Established domain — registered 13.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 38
+      validTo: '2026-10-01'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-07-08'
-      ageDays: 4734
-      ageYears: 13
-    detail: Registered 13 years ago (2013-07-08).
+      ageDays: 4780
+      ageYears: 13.1
+    detail: Registered 13.1 years ago (2013-07-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ckitchensolutions.com looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ckitchensolutions.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ckitchensolutions in the score above.
 

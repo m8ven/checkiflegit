@@ -4,8 +4,8 @@ slug: dojonantais-com
 title: Is dojonantais.com Legit? Trust Score 100/100
 description: >-
   dojonantais.com scores 100/100 on our public trust checks. Established domain
-  — registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:22.652Z'
+  — registered 13 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:09.925Z'
 finalUrl: 'https://dojonantais.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.9 years ago.
+    - Established domain — registered 13 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 56
+      validTo: '2026-10-17'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-08-01'
-      ageDays: 4710
-      ageYears: 12.9
-    detail: Registered 12.9 years ago (2013-08-01).
+      ageDays: 4749
+      ageYears: 13
+    detail: Registered 13 years ago (2013-08-01).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dojonantais.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dojonantais.com looks like a well-established store. The clearest positives are that its domain has been registered for 13 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dojonantais in the score above.
 

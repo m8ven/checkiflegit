@@ -1,62 +1,62 @@
 ---
 domain: parqueengenhoca.com.br
 slug: parqueengenhoca-com-br
-title: Is parqueengenhoca.com.br Legit? Trust Score 66/100
+title: Is parqueengenhoca.com.br Legit? Trust Score 0/100
 description: >-
-  parqueengenhoca.com.br scores 66/100 on our public trust checks. Some standard
-  policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:20:00.192Z'
-finalUrl: 'https://www.parqueengenhoca.com.br/'
+  parqueengenhoca.com.br scores 0/100 on our public trust checks. Standard
+  contact and policy pages were not found.
+fetchedAt: '2026-08-03T08:09:49.026Z'
+finalUrl: 'https://parqueengenhoca.com.br/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 66
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 0
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+  redFlags:
+    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.parqueengenhoca.com.br/'
+      finalUrl: 'https://parqueengenhoca.com.br/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: fail
     value:
       contact: false
       privacy: false
-      terms: true
+      terms: false
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-12'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
@@ -64,25 +64,23 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
+      facebook: false
+      instagram: false
       twitter: false
-      tiktok: true
-      youtube: true
-      linkedin: true
+      tiktok: false
+      youtube: false
+      linkedin: false
       pinterest: false
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, tiktok, youtube,
-      linkedin.
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -93,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-parqueengenhoca.com.br sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for parqueengenhoca.com.br. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Parqueengenhoca in the score above.
 

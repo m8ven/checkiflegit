@@ -5,7 +5,7 @@ title: Is lucabarra.de Legit? Trust Score 100/100
 description: >-
   lucabarra.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:23:06.712Z'
+fetchedAt: '2026-08-10T06:29:58.439Z'
 finalUrl: 'https://www.lucabarra.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

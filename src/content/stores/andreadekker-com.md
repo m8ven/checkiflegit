@@ -5,7 +5,7 @@ title: Is andreadekker.com Legit? Trust Score 58/100
 description: >-
   andreadekker.com scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:19:11.783Z'
+fetchedAt: '2026-07-27T08:10:28.245Z'
 finalUrl: 'https://andreadekker.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-02-19'
-      ageDays: 6700
+      ageDays: 6732
       ageYears: 18.4
     detail: Registered 18.4 years ago (2008-02-19).
   contact:

@@ -5,7 +5,7 @@ title: Is hojademonte.com.ar Legit? Trust Score 40/100
 description: >-
   hojademonte.com.ar scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T11:56:35.631Z'
+fetchedAt: '2026-08-10T06:08:13.164Z'
 finalUrl: 'https://hojademonte.com.ar/'
 reachable: true
 noindex: false
@@ -47,17 +47,17 @@ signals:
     status: warn
     value:
       contact: false
-      privacy: false
+      privacy: true
       terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

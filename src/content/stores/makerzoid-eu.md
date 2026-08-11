@@ -5,7 +5,7 @@ title: Is makerzoid.eu Legit? Trust Score 100/100
 description: >-
   makerzoid.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:54:06.141Z'
+fetchedAt: '2026-08-10T06:04:25.174Z'
 finalUrl: 'https://makerzoid.eu/en/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

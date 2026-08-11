@@ -5,7 +5,7 @@ title: Is instacare.ae Legit? Trust Score 100/100
 description: >-
   instacare.ae scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:49:50.683Z'
+fetchedAt: '2026-08-10T06:03:54.429Z'
 finalUrl: 'https://instacare.ae/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-06'
-      daysToExpiry: 74
+      validTo: '2026-11-05'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

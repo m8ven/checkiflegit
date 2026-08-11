@@ -4,8 +4,8 @@ slug: beauxvillages-be
 title: Is beauxvillages.be Legit? Trust Score 100/100
 description: >-
   beauxvillages.be scores 100/100 on our public trust checks. Established domain
-  — registered 22.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:39.656Z'
+  — registered 22.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:08:29.982Z'
 finalUrl: 'https://beauxvillages.be/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.6 years ago.
+    - Established domain — registered 22.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-12-01'
-      ageDays: 8241
-      ageYears: 22.6
-    detail: Registered 22.6 years ago (2003-12-01).
+      ageDays: 8281
+      ageYears: 22.7
+    detail: Registered 22.7 years ago (2003-12-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-beauxvillages.be looks like a well-established store. The clearest positives are that its domain has been registered for 22.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+beauxvillages.be looks like a well-established store. The clearest positives are that its domain has been registered for 22.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Beauxvillages in the score above.
 

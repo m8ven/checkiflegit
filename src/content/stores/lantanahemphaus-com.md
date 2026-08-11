@@ -4,8 +4,8 @@ slug: lantanahemphaus-com
 title: Is lantanahemphaus.com Legit? Trust Score 100/100
 description: >-
   lantanahemphaus.com scores 100/100 on our public trust checks. Established
-  domain — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:32.474Z'
+  domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:09.848Z'
 finalUrl: 'https://lantanahemphaus.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.3 years ago.
+    - Established domain — registered 4.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-03-07'
-      ageDays: 1570
-      ageYears: 4.3
-    detail: Registered 4.3 years ago (2022-03-07).
+      ageDays: 1609
+      ageYears: 4.4
+    detail: Registered 4.4 years ago (2022-03-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lantanahemphaus.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lantanahemphaus.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lantanahemphaus in the score above.
 

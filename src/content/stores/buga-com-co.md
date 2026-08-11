@@ -5,7 +5,7 @@ title: Is buga.com.co Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   buga.com.co scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:57:38.202Z'
+fetchedAt: '2026-08-10T06:00:27.088Z'
 finalUrl: 'https://buga.com.co/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-25'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is artchoob.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   artchoob.com scores 52/100 on our public trust checks. Standard contact and
   policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:19:43.986Z'
+fetchedAt: '2026-07-27T08:10:45.091Z'
 finalUrl: 'https://artchoob.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.5 years ago.
+    - Established domain — registered 6.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2027-02-19'
-      daysToExpiry: 239
+      daysToExpiry: 207
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:
     status: pass
     value:
       createdAt: '2019-12-21'
-      ageDays: 2377
-      ageYears: 6.5
-    detail: Registered 6.5 years ago (2019-12-21).
+      ageDays: 2409
+      ageYears: 6.6
+    detail: Registered 6.6 years ago (2019-12-21).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-artchoob.com sends a mixed set of signals. On the positive side, its domain has been registered for 6.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+artchoob.com sends a mixed set of signals. On the positive side, its domain has been registered for 6.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Artchoob in the score above.
 

@@ -4,9 +4,9 @@ slug: americanspecialtyglass-com
 title: Is americanspecialtyglass.com Legit? Trust Score 88/100
 description: >-
   americanspecialtyglass.com scores 88/100 on our public trust checks.
-  Established domain — registered 24.5 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 24.6 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:19:01.972Z'
+fetchedAt: '2026-07-27T08:10:21.479Z'
 finalUrl: 'https://americanspecialtyglass.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.5 years ago.
+    - Established domain — registered 24.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-13'
-      daysToExpiry: 80
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2001-12-30'
-      ageDays: 8942
-      ageYears: 24.5
-    detail: Registered 24.5 years ago (2001-12-30).
+      ageDays: 8975
+      ageYears: 24.6
+    detail: Registered 24.6 years ago (2001-12-30).
   contact:
     status: warn
     value:
@@ -98,7 +98,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-americanspecialtyglass.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+americanspecialtyglass.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Americanspecialtyglass in the score above.
 

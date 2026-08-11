@@ -5,7 +5,7 @@ title: Is supplycentre.oxfam.org.uk Legit? Trust Score 36/100
 description: >-
   supplycentre.oxfam.org.uk scores 36/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T12:04:41.702Z'
+fetchedAt: '2026-08-10T06:14:50.891Z'
 finalUrl: 'https://supplycentre.oxfam.org.uk/?currency=GBP'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-30'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

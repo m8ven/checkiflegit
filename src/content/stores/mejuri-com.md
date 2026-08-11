@@ -1,11 +1,11 @@
 ---
 domain: mejuri.com
 slug: mejuri-com
-title: Is mejuri.com Legit? Trust Score 88/100 — Trust Checks Pass
+title: Is mejuri.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  mejuri.com scores 88/100 on our public trust checks. Established domain —
-  registered 14 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:13.238Z'
+  mejuri.com scores 70/100 on our public trust checks. Established domain —
+  registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:23.101Z'
 finalUrl: 'https://mejuri.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 70
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 14 years ago.
+    - Established domain — registered 14.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  redFlags:
+    - No public contact details detected on the homepage.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-06-19'
-      ageDays: 5118
-      ageYears: 14
-    detail: Registered 14 years ago (2012-06-19).
+      ageDays: 5150
+      ageYears: 14.1
+    detail: Registered 14.1 years ago (2012-06-19).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
       phone: false
-      address: true
-    detail: 'Public contact details found: address.'
+      address: false
+    detail: No public contact details detected on the homepage.
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mejuri.com looks like a well-established store. The clearest positives are that its domain has been registered for 14 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mejuri.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mejuri in the score above.
 

@@ -4,8 +4,8 @@ slug: anisconstructions-com
 title: Is anisconstructions.com Legit? Trust Score 85/100
 description: >-
   anisconstructions.com scores 85/100 on our public trust checks. Established
-  domain — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:57.863Z'
+  domain — registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:09.501Z'
 finalUrl: 'https://anisconstructions.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.2 years ago.
+    - Established domain — registered 9.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 33
+      validTo: '2026-09-26'
+      daysToExpiry: 47
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-04-19'
-      ageDays: 3353
-      ageYears: 9.2
-    detail: Registered 9.2 years ago (2017-04-19).
+      ageDays: 3399
+      ageYears: 9.3
+    detail: Registered 9.3 years ago (2017-04-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-anisconstructions.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+anisconstructions.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.3 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Anisconstructions in the score above.
 

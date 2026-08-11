@@ -5,7 +5,7 @@ title: Is slideteam.net Legit? Trust Score 88/100
 description: >-
   slideteam.net scores 88/100 on our public trust checks. Established domain —
   registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:24.625Z'
+fetchedAt: '2026-07-27T08:05:46.946Z'
 finalUrl: 'https://www.slideteam.net/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-10-15'
-      daysToExpiry: 113
+      daysToExpiry: 81
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2012-03-27'
-      ageDays: 5202
+      ageDays: 5235
       ageYears: 14.3
     detail: Registered 14.3 years ago (2012-03-27).
   contact:

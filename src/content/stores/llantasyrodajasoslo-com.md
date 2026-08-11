@@ -5,7 +5,7 @@ title: Is llantasyrodajasoslo.com Legit? Trust Score 88/100
 description: >-
   llantasyrodajasoslo.com scores 88/100 on our public trust checks. Established
   domain — registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:44.297Z'
+fetchedAt: '2026-07-27T08:22:32.047Z'
 finalUrl: 'https://llantasyrodajasoslo.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-02-20'
-      ageDays: 3778
+      ageDays: 3810
       ageYears: 10.4
     detail: Registered 10.4 years ago (2016-02-20).
   contact:

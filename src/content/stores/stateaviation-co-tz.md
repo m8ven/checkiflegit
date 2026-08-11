@@ -5,7 +5,7 @@ title: Is stateaviation.co.tz Legit? Trust Score 61/100
 description: >-
   stateaviation.co.tz scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:46:17.477Z'
+fetchedAt: '2026-07-27T08:32:39.434Z'
 finalUrl: 'https://stateaviation.co.tz/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

@@ -1,11 +1,12 @@
 ---
 domain: mentalnitrening.hr
 slug: mentalnitrening-hr
-title: Is mentalnitrening.hr Legit? Trust Score 88/100
+title: Is mentalnitrening.hr Legit? Trust Score 85/100
 description: >-
-  mentalnitrening.hr scores 88/100 on our public trust checks. Established
-  domain — registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:16:35.479Z'
+  mentalnitrening.hr scores 85/100 on our public trust checks. Established
+  domain — registered 12.6 years ago. Public business contact details are
+  listed.
+fetchedAt: '2026-07-27T08:07:34.477Z'
 finalUrl: 'https://www.mentalnitrening.hr/'
 reachable: true
 noindex: false
@@ -15,11 +16,10 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.5 years ago.
-    - Valid HTTPS/SSL certificate in place.
+    - Established domain — registered 12.6 years ago.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -53,20 +53,16 @@ signals:
       shipping: false
     detail: Found 0 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-09-06'
-      daysToExpiry: 74
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
     status: pass
     value:
       createdAt: '2013-12-15'
-      ageDays: 4574
-      ageYears: 12.5
-    detail: Registered 12.5 years ago (2013-12-15).
+      ageDays: 4606
+      ageYears: 12.6
+    detail: Registered 12.6 years ago (2013-12-15).
   contact:
     status: pass
     value:
@@ -83,10 +79,10 @@ signals:
       tiktok: true
       youtube: true
       linkedin: true
-      pinterest: false
+      pinterest: true
     detail: >-
-      Links to 5 social platform(s): facebook, instagram, tiktok, youtube,
-      linkedin.
+      Links to 6 social platform(s): facebook, instagram, tiktok, youtube,
+      linkedin, pinterest.
   reviews:
     status: unknown
     value:
@@ -97,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mentalnitrening.hr looks like a well-established store. The clearest positives are that its domain has been registered for 12.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mentalnitrening.hr looks like a well-established store. The clearest positives are that its domain has been registered for 12.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mentalnitrening in the score above.
 

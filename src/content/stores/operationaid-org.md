@@ -1,11 +1,11 @@
 ---
 domain: operationaid.org
 slug: operationaid-org
-title: Is operationaid.org Legit? Trust Score 76/100
+title: Is operationaid.org Legit? Trust Score 88/100
 description: >-
-  operationaid.org scores 76/100 on our public trust checks. Established domain
-  — registered 4.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:34.116Z'
+  operationaid.org scores 88/100 on our public trust checks. Established domain
+  — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:44.922Z'
 finalUrl: 'https://operationaid.org/'
 reachable: true
 noindex: false
@@ -15,16 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.3 years ago.
+    - Established domain — registered 4.4 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://operationaid.org/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
@@ -57,23 +56,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-03-17'
-      ageDays: 1560
-      ageYears: 4.3
-    detail: Registered 4.3 years ago (2022-03-17).
+      ageDays: 1606
+      ageYears: 4.4
+    detail: Registered 4.4 years ago (2022-03-17).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -97,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-operationaid.org looks like a well-established store. The clearest positives are that its domain has been registered for 4.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+operationaid.org looks like a well-established store. The clearest positives are that its domain has been registered for 4.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Operationaid in the score above.
 

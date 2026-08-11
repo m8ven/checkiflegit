@@ -4,8 +4,8 @@ slug: doudou-express-com
 title: Is doudou-express.com Legit? Trust Score 100/100
 description: >-
   doudou-express.com scores 100/100 on our public trust checks. Established
-  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:38:16.834Z'
+  domain — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:34.793Z'
 finalUrl: 'https://doudou-express.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3 years ago.
+    - Established domain — registered 3.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-06-20'
-      ageDays: 1100
-      ageYears: 3
-    detail: Registered 3 years ago (2023-06-20).
+      ageDays: 1146
+      ageYears: 3.1
+    detail: Registered 3.1 years ago (2023-06-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-doudou-express.com looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+doudou-express.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Doudou-express in the score above.
 

@@ -1,11 +1,11 @@
 ---
 domain: sathico.com
 slug: sathico-com
-title: Is sathico.com Legit? Trust Score 88/100 — Trust Checks Pass
+title: Is sathico.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
-  sathico.com scores 88/100 on our public trust checks. Established domain —
-  registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:00.490Z'
+  sathico.com scores 70/100 on our public trust checks. Established domain —
+  registered 7.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:30:20.702Z'
 finalUrl: 'https://sathico.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.8 years ago.
+    - Established domain — registered 7.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  redFlags:
+    - Standard contact and policy pages were not found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-09-21'
-      ageDays: 2833
-      ageYears: 7.8
-    detail: Registered 7.8 years ago (2018-09-21).
+      ageDays: 2866
+      ageYears: 7.9
+    detail: Registered 7.9 years ago (2018-09-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sathico.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sathico.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.9 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sathico in the score above.
 

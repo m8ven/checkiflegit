@@ -6,7 +6,7 @@ description: >-
   vidaxl.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-24T21:46:21.264Z'
+fetchedAt: '2026-07-27T08:06:30.528Z'
 finalUrl: 'https://www.vidaxl.de/'
 reachable: true
 noindex: false
@@ -49,15 +49,15 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

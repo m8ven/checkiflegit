@@ -5,7 +5,7 @@ title: Is parvaz99.ir Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   parvaz99.ir scores 49/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T12:28:27.265Z'
+fetchedAt: '2026-08-10T06:34:32.601Z'
 finalUrl: 'https://parvaz99.ir/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 24
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

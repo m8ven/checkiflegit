@@ -5,7 +5,7 @@ title: Is ppec.co.uk Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   ppec.co.uk scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:48:22.614Z'
+fetchedAt: '2026-07-27T08:34:28.891Z'
 finalUrl: 'https://ppec.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.2 years ago.
+    - Established domain — registered 12.3 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-04-27'
-      ageDays: 4441
-      ageYears: 12.2
-    detail: Registered 12.2 years ago (2014-04-27).
+      ageDays: 4474
+      ageYears: 12.3
+    detail: Registered 12.3 years ago (2014-04-27).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ppec.co.uk sends a mixed set of signals. On the positive side, its domain has been registered for 12.2 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+ppec.co.uk sends a mixed set of signals. On the positive side, its domain has been registered for 12.3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ppec in the score above.
 

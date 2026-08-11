@@ -4,8 +4,8 @@ slug: fetchandfind-net
 title: Is fetchandfind.net Legit? Trust Score 88/100
 description: >-
   fetchandfind.net scores 88/100 on our public trust checks. Established domain
-  — registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:30:56.657Z'
+  — registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:58.342Z'
 finalUrl: 'https://fetchandfind.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.1 years ago.
+    - Established domain — registered 1.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 70
+      validTo: '2026-11-01'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-05-30'
-      ageDays: 390
-      ageYears: 1.1
-    detail: Registered 1.1 years ago (2025-05-30).
+      ageDays: 436
+      ageYears: 1.2
+    detail: Registered 1.2 years ago (2025-05-30).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fetchandfind.net looks like a well-established store. The clearest positives are that its domain has been registered for 1.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fetchandfind.net looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fetchandfind in the score above.
 

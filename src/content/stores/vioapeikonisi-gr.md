@@ -5,7 +5,7 @@ title: Is vioapeikonisi.gr Legit? Trust Score 57/100
 description: >-
   vioapeikonisi.gr scores 57/100 on our public trust checks. Standard contact
   and policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:18:38.940Z'
+fetchedAt: '2026-08-10T06:26:30.295Z'
 finalUrl: 'https://vioapeikonisi.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -79,8 +79,8 @@ signals:
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, twitter.'
+      pinterest: true
+    detail: 'Links to 3 social platform(s): facebook, twitter, pinterest.'
   reviews:
     status: unknown
     value:

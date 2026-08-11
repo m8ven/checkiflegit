@@ -1,31 +1,30 @@
 ---
 domain: france-pro-travaux.com
 slug: france-pro-travaux-com
-title: Is france-pro-travaux.com Legit? Trust Score 58/100
+title: Is france-pro-travaux.com Legit? Trust Score 88/100
 description: >-
-  france-pro-travaux.com scores 58/100 on our public trust checks. Standard
-  contact and policy pages were not found. Only limited contact details were
-  found.
-fetchedAt: '2026-06-25T03:32:14.048Z'
+  france-pro-travaux.com scores 88/100 on our public trust checks. Established
+  domain — registered 9.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:20:00.020Z'
 finalUrl: 'https://france-pro-travaux.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 58
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.6 years ago.
+    - Established domain — registered 9.7 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
-    - Only limited contact details were found.
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -45,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-31'
-      daysToExpiry: 68
+      validTo: '2026-10-30'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-11-23'
-      ageDays: 3500
-      ageYears: 9.6
-    detail: Registered 9.6 years ago (2016-11-23).
+      ageDays: 3539
+      ageYears: 9.7
+    detail: Registered 9.7 years ago (2016-11-23).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-france-pro-travaux.com sends a mixed set of signals. On the positive side, its domain has been registered for 9.6 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+france-pro-travaux.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against France-pro-travaux in the score above.
 

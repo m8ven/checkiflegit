@@ -5,7 +5,7 @@ title: Is amdnobel.ro Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   amdnobel.ro scores 73/100 on our public trust checks. Established domain —
   registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:09.029Z'
+fetchedAt: '2026-07-27T08:37:54.918Z'
 finalUrl: 'https://www.amdnobel.ro/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-09-25'
-      ageDays: 4656
+      ageDays: 4688
       ageYears: 12.8
     detail: Registered 12.8 years ago (2013-09-25).
   contact:

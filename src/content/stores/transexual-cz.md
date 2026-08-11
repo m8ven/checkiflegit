@@ -6,7 +6,7 @@ description: >-
   transexual.cz scores 57/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T12:06:40.974Z'
+fetchedAt: '2026-08-10T06:16:21.240Z'
 finalUrl: 'https://transexual.cz/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-14'
-      daysToExpiry: 20
+      validTo: '2026-10-01'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

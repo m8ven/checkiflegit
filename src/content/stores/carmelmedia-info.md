@@ -5,7 +5,7 @@ title: Is carmelmedia.info Legit? Trust Score 40/100
 description: >-
   carmelmedia.info scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T12:25:56.900Z'
+fetchedAt: '2026-08-10T06:32:13.895Z'
 finalUrl: 'https://www.carmelmedia.info/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-15'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

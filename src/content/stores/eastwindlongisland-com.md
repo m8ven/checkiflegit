@@ -4,8 +4,8 @@ slug: eastwindlongisland-com
 title: Is eastwindlongisland.com Legit? Trust Score 100/100
 description: >-
   eastwindlongisland.com scores 100/100 on our public trust checks. Established
-  domain — registered 19.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:14.318Z'
+  domain — registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:15:28.160Z'
 finalUrl: 'https://eastwindlongisland.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.7 years ago.
+    - Established domain — registered 19.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-01'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-10-30'
-      ageDays: 7177
-      ageYears: 19.7
-    detail: Registered 19.7 years ago (2006-10-30).
+      ageDays: 7209
+      ageYears: 19.8
+    detail: Registered 19.8 years ago (2006-10-30).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eastwindlongisland.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eastwindlongisland.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eastwindlongisland in the score above.
 

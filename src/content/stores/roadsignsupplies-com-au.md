@@ -1,29 +1,30 @@
 ---
 domain: roadsignsupplies.com.au
 slug: roadsignsupplies-com-au
-title: Is roadsignsupplies.com.au Legit? Trust Score 61/100
+title: Is roadsignsupplies.com.au Legit? Trust Score 44/100
 description: >-
-  roadsignsupplies.com.au scores 61/100 on our public trust checks. No links to
+  roadsignsupplies.com.au scores 44/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:49:34.010Z'
+fetchedAt: '2026-07-27T08:35:31.780Z'
 finalUrl: 'https://roadsignsupplies.com.au/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 61
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 44
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -38,9 +39,9 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
+        hasCartLink: false
         hasCatalog: true
-        hasCartFlow: true
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: warn
@@ -56,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
@@ -64,12 +65,12 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: warn
     value:
       email: false
-      phone: true
+      phone: false
       address: true
-    detail: 'Public contact details found: phone, address.'
+    detail: 'Public contact details found: address.'
   social:
     status: fail
     value:
@@ -91,7 +92,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-roadsignsupplies.com.au sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for roadsignsupplies.com.au. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Roadsignsupplies in the score above.
 

@@ -5,7 +5,7 @@ title: Is legacy.porcfest.com Legit? Trust Score 40/100
 description: >-
   legacy.porcfest.com scores 40/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T12:20:04.551Z'
+fetchedAt: '2026-08-10T06:27:24.672Z'
 finalUrl: 'https://legacy.porcfest.com/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

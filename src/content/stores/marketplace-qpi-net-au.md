@@ -5,7 +5,7 @@ title: Is marketplace.qpi.net.au Legit? Trust Score 57/100
 description: >-
   marketplace.qpi.net.au scores 57/100 on our public trust checks. Standard
   contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:27:57.768Z'
+fetchedAt: '2026-08-10T06:34:07.805Z'
 finalUrl: 'https://marketplace.qpi.net.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-13'
-      daysToExpiry: 80
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

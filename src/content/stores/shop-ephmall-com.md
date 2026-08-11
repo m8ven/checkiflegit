@@ -5,7 +5,7 @@ title: Is shop.ephmall.com Legit? Trust Score 57/100
 description: >-
   shop.ephmall.com scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:10:18.015Z'
+fetchedAt: '2026-08-10T06:19:23.083Z'
 finalUrl: 'https://shop.ephmall.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-12-31'
-      daysToExpiry: 190
+      daysToExpiry: 144
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

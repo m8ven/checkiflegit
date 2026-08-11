@@ -5,7 +5,7 @@ title: Is parfumseminar.de Legit? Trust Score 83/100
 description: >-
   parfumseminar.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:00:58.393Z'
+fetchedAt: '2026-08-10T06:11:41.109Z'
 finalUrl: 'https://parfumseminar.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-07'
-      daysToExpiry: 197
+      daysToExpiry: 151
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

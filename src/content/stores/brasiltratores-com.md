@@ -1,12 +1,11 @@
 ---
 domain: brasiltratores.com
 slug: brasiltratores-com
-title: Is brasiltratores.com Legit? Trust Score 76/100
+title: Is brasiltratores.com Legit? Trust Score 88/100
 description: >-
-  brasiltratores.com scores 76/100 on our public trust checks. Public business
-  contact details are listed. Maintains links to multiple social media
-  platforms.
-fetchedAt: '2026-06-25T12:14:33.190Z'
+  brasiltratores.com scores 88/100 on our public trust checks. Established
+  domain — registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:23:09.827Z'
 finalUrl: 'https://www.brasiltratores.com/'
 reachable: true
 noindex: false
@@ -16,9 +15,11 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 14.3 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -52,13 +53,20 @@ signals:
       shipping: false
     detail: 'Found 2 policy page(s), no contact page.'
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Google Trust Services
+      validTo: '2026-09-27'
+      daysToExpiry: 49
+      authorized: true
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2012-04-24'
+      ageDays: 5220
+      ageYears: 14.3
+    detail: Registered 14.3 years ago (2012-04-24).
   contact:
     status: pass
     value:
@@ -87,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-brasiltratores.com looks like a well-established store. The clearest positives are that it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+brasiltratores.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Brasiltratores in the score above.
 

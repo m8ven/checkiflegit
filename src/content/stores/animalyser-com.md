@@ -4,8 +4,8 @@ slug: animalyser-com
 title: Is animalyser.com Legit? Trust Score 88/100
 description: >-
   animalyser.com scores 88/100 on our public trust checks. Established domain —
-  registered 12.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:57:35.777Z'
+  registered 12.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:52.440Z'
 finalUrl: 'https://www.animalyser.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 12.8 years ago.
+    - Established domain — registered 12.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-08-29'
-      ageDays: 4682
-      ageYears: 12.8
-    detail: Registered 12.8 years ago (2013-08-29).
+      ageDays: 4721
+      ageYears: 12.9
+    detail: Registered 12.9 years ago (2013-08-29).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-animalyser.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+animalyser.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Animalyser in the score above.
 

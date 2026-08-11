@@ -4,8 +4,8 @@ slug: gmfc-net
 title: Is gmfc.net Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   gmfc.net scores 100/100 on our public trust checks. Established domain —
-  registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:43.580Z'
+  registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:25.088Z'
 finalUrl: 'https://gmfc.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.1 years ago.
+    - Established domain — registered 23.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-10-13'
-      daysToExpiry: 111
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
     status: pass
     value:
       createdAt: '2003-05-27'
-      ageDays: 8429
-      ageYears: 23.1
-    detail: Registered 23.1 years ago (2003-05-27).
+      ageDays: 8468
+      ageYears: 23.2
+    detail: Registered 23.2 years ago (2003-05-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gmfc.net looks like a well-established store. The clearest positives are that its domain has been registered for 23.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gmfc.net looks like a well-established store. The clearest positives are that its domain has been registered for 23.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gmfc in the score above.
 

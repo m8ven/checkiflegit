@@ -6,7 +6,7 @@ description: >-
   portfoliocareerinstitute.com scores 58/100 on our public trust checks. Domain
   is relatively young. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T02:41:19.975Z'
+fetchedAt: '2026-07-27T08:27:59.059Z'
 finalUrl: 'https://portfoliocareerinstitute.com/'
 reachable: true
 noindex: false
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-12-10'
-      ageDays: 196
-      ageYears: 0.5
-    detail: Registered 0.5 years ago (2025-12-10).
+      ageDays: 228
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2025-12-10).
   contact:
     status: warn
     value:

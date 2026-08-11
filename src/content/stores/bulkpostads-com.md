@@ -4,8 +4,8 @@ slug: bulkpostads-com
 title: Is bulkpostads.com Legit? Trust Score 88/100
 description: >-
   bulkpostads.com scores 88/100 on our public trust checks. Established domain —
-  registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:16:31.918Z'
+  registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:24:43.149Z'
 finalUrl: 'https://www.bulkpostads.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.8 years ago.
+    - Established domain — registered 4.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      refund: false
+      shipping: false
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-05'
-      ageDays: 1754
-      ageYears: 4.8
-    detail: Registered 4.8 years ago (2021-09-05).
+      ageDays: 1800
+      ageYears: 4.9
+    detail: Registered 4.9 years ago (2021-09-05).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bulkpostads.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bulkpostads.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bulkpostads in the score above.
 

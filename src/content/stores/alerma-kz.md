@@ -6,7 +6,7 @@ description: >-
   alerma.kz scores 14/100 on our public trust checks. Standard contact and
   policy pages were not found. No public contact details detected on the
   homepage.
-fetchedAt: '2026-06-25T02:23:52.046Z'
+fetchedAt: '2026-07-27T08:13:32.652Z'
 finalUrl: 'https://alerma.kz/'
 reachable: true
 noindex: false
@@ -57,8 +57,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

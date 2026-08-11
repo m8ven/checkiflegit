@@ -4,9 +4,9 @@ slug: identitybodypiercing-com
 title: Is identitybodypiercing.com Legit? Trust Score 100/100
 description: >-
   identitybodypiercing.com scores 100/100 on our public trust checks.
-  Established domain — registered 11.4 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 11.5 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:37:55.974Z'
+fetchedAt: '2026-07-27T08:25:17.671Z'
 finalUrl: 'https://identitybodypiercing.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.4 years ago.
+    - Established domain — registered 11.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-12-14'
-      daysToExpiry: 173
+      daysToExpiry: 140
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2015-01-28'
-      ageDays: 4165
-      ageYears: 11.4
-    detail: Registered 11.4 years ago (2015-01-28).
+      ageDays: 4197
+      ageYears: 11.5
+    detail: Registered 11.5 years ago (2015-01-28).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-identitybodypiercing.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+identitybodypiercing.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Identitybodypiercing in the score above.
 

@@ -5,7 +5,7 @@ title: Is gshock.perkko.fi Legit? Trust Score 83/100
 description: >-
   gshock.perkko.fi scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:32:56.697Z'
+fetchedAt: '2026-07-27T08:21:21.665Z'
 finalUrl: 'https://gshock.perkko.fi/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-09-26'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

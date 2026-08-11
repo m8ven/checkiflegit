@@ -1,12 +1,12 @@
 ---
 domain: ralphmoorman.nl
 slug: ralphmoorman-nl
-title: Is ralphmoorman.nl Legit? Trust Score 88/100
+title: Is ralphmoorman.nl Legit? Trust Score 94/100
 description: >-
-  ralphmoorman.nl scores 88/100 on our public trust checks. Established domain —
-  registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:00:02.189Z'
-finalUrl: 'https://ralphmoorman.nl/nl/'
+  ralphmoorman.nl scores 94/100 on our public trust checks. Established domain —
+  registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:11:07.420Z'
+finalUrl: 'https://ralphmoorman.nl/'
 reachable: true
 noindex: false
 verdict:
@@ -15,76 +15,75 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 94
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.5 years ago.
+    - Established domain — registered 19.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Limited social media presence.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://ralphmoorman.nl/nl/'
+      finalUrl: 'https://ralphmoorman.nl/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 51
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-01-02'
-      ageDays: 7114
-      ageYears: 19.5
-    detail: Registered 19.5 years ago (2007-01-02).
+      ageDays: 7160
+      ageYears: 19.6
+    detail: Registered 19.6 years ago (2007-01-02).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
-    status: pass
+    status: warn
     value:
       facebook: true
-      instagram: true
+      instagram: false
       twitter: false
       tiktok: false
-      youtube: true
-      linkedin: true
+      youtube: false
+      linkedin: false
       pinterest: false
-    detail: 'Links to 4 social platform(s): facebook, instagram, youtube, linkedin.'
+    detail: 'Links to 1 social platform(s): facebook.'
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ralphmoorman.nl looks like a well-established store. The clearest positives are that its domain has been registered for 19.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ralphmoorman.nl looks like a well-established store. The clearest positives are that its domain has been registered for 19.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ralphmoorman in the score above.
 

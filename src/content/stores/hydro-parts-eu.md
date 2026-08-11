@@ -5,7 +5,7 @@ title: Is hydro-parts.eu Legit? Trust Score 79/100
 description: >-
   hydro-parts.eu scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:58:08.705Z'
+fetchedAt: '2026-08-10T06:09:36.907Z'
 finalUrl: 'https://hydro-parts.eu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: home.pl S.A.
       validTo: '2026-11-19'
-      daysToExpiry: 147
+      daysToExpiry: 101
       authorized: true
     detail: Valid certificate issued by home.pl S.A..
   domainAge:

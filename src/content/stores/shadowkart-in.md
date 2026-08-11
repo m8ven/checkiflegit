@@ -5,7 +5,7 @@ title: Is shadowkart.in Legit? Trust Score 100/100
 description: >-
   shadowkart.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:54:25.587Z'
+fetchedAt: '2026-08-10T06:04:41.650Z'
 finalUrl: 'https://shadowkart.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-03'
-      daysToExpiry: 70
+      validTo: '2026-11-02'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

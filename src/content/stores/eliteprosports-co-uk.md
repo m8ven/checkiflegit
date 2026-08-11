@@ -4,8 +4,8 @@ slug: eliteprosports-co-uk
 title: Is eliteprosports.co.uk Legit? Trust Score 100/100
 description: >-
   eliteprosports.co.uk scores 100/100 on our public trust checks. Established
-  domain — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:29:49.164Z'
+  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:35:37.121Z'
 finalUrl: 'https://www.eliteprosports.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.9 years ago.
+    - Established domain — registered 9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-31'
-      daysToExpiry: 68
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-07-28'
-      ageDays: 3254
-      ageYears: 8.9
-    detail: Registered 8.9 years ago (2017-07-28).
+      ageDays: 3300
+      ageYears: 9
+    detail: Registered 9 years ago (2017-07-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eliteprosports.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 8.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eliteprosports.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eliteprosports in the score above.
 

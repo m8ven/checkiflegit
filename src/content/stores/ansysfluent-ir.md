@@ -6,7 +6,7 @@ description: >-
   ansysfluent.ir scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T12:12:10.841Z'
+fetchedAt: '2026-08-10T06:20:48.964Z'
 finalUrl: 'https://www.ansysfluent.ir/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -4,8 +4,8 @@ slug: hymefurniture-com
 title: Is hymefurniture.com Legit? Trust Score 88/100
 description: >-
   hymefurniture.com scores 88/100 on our public trust checks. Established domain
-  — registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:57.187Z'
+  — registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:23:37.933Z'
 finalUrl: 'https://hymefurniture.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.1 years ago.
+    - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
       validTo: '2026-08-29'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2020-05-07'
-      ageDays: 2240
-      ageYears: 6.1
-    detail: Registered 6.1 years ago (2020-05-07).
+      ageDays: 2272
+      ageYears: 6.2
+    detail: Registered 6.2 years ago (2020-05-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-hymefurniture.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+hymefurniture.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Hymefurniture in the score above.
 

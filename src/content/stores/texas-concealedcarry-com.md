@@ -6,7 +6,7 @@ description: >-
   texas.concealedcarry.com scores 57/100 on our public trust checks. No public
   contact details detected on the homepage. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:08:18.793Z'
+fetchedAt: '2026-08-10T06:17:51.871Z'
 finalUrl: 'https://texas.concealedcarry.com/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

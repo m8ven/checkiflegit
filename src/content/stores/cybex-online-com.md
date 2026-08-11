@@ -4,8 +4,8 @@ slug: cybex-online-com
 title: Is cybex-online.com Legit? Trust Score 88/100
 description: >-
   cybex-online.com scores 88/100 on our public trust checks. Established domain
-  — registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:55.240Z'
+  — registered 21.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:06.493Z'
 finalUrl: 'https://www.cybex-online.com/en/us'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 21.4 years ago.
+    - Established domain — registered 21.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Unizeto Technologies S.A.
       validTo: '2026-08-01'
-      daysToExpiry: 38
+      daysToExpiry: 6
       authorized: true
     detail: Valid certificate issued by Unizeto Technologies S.A..
   domainAge:
     status: pass
     value:
       createdAt: '2005-02-11'
-      ageDays: 7803
-      ageYears: 21.4
-    detail: Registered 21.4 years ago (2005-02-11).
+      ageDays: 7835
+      ageYears: 21.5
+    detail: Registered 21.5 years ago (2005-02-11).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cybex-online.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cybex-online.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cybex-online in the score above.
 

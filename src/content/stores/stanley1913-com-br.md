@@ -1,28 +1,28 @@
 ---
 domain: stanley1913.com.br
 slug: stanley1913-com-br
-title: Is stanley1913.com.br Legit? Trust Score 66/100
+title: Is stanley1913.com.br Legit? Trust Score 83/100
 description: >-
-  stanley1913.com.br scores 66/100 on our public trust checks. Some standard
-  policy or contact pages appear to be missing.
-fetchedAt: '2026-06-24T21:46:37.057Z'
+  stanley1913.com.br scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place.
+fetchedAt: '2026-07-27T08:07:00.002Z'
 finalUrl: 'https://www.stanley1913.com.br/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 66
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 83
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: true
     detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: true
       terms: true
       refund: true
-      shipping: true
-    detail: 'Found 4 policy page(s), no contact page.'
+      shipping: false
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-22'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-stanley1913.com.br sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on Shopify, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+stanley1913.com.br looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Stanley1913 in the score above.
 

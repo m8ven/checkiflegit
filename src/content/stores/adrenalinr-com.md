@@ -5,7 +5,7 @@ title: Is adrenalinr.com Legit? Trust Score 100/100
 description: >-
   adrenalinr.com scores 100/100 on our public trust checks. Established domain —
   registered 20.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:36:51.520Z'
+fetchedAt: '2026-07-27T08:24:28.278Z'
 finalUrl: 'https://adrenalinr.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 60
+      validTo: '2026-10-24'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-08-22'
-      ageDays: 7611
+      ageDays: 7644
       ageYears: 20.9
     detail: Registered 20.9 years ago (2005-08-22).
   contact:

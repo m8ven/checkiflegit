@@ -5,7 +5,7 @@ title: Is rohdemusik.de Legit? Trust Score 91/100
 description: >-
   rohdemusik.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:47:33.532Z'
+fetchedAt: '2026-08-03T08:32:33.788Z'
 finalUrl: 'https://rohdemusik.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

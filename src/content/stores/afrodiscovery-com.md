@@ -5,7 +5,7 @@ title: Is afrodiscovery.com Legit? Trust Score 55/100
 description: >-
   afrodiscovery.com scores 55/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:41:16.590Z'
+fetchedAt: '2026-07-27T08:27:53.882Z'
 finalUrl: 'https://afrodiscovery.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.3 years ago.
+    - Established domain — registered 2.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-14'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2024-02-21'
-      ageDays: 855
-      ageYears: 2.3
-    detail: Registered 2.3 years ago (2024-02-21).
+      ageDays: 887
+      ageYears: 2.4
+    detail: Registered 2.4 years ago (2024-02-21).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-afrodiscovery.com sends a mixed set of signals. On the positive side, its domain has been registered for 2.3 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+afrodiscovery.com sends a mixed set of signals. On the positive side, its domain has been registered for 2.4 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Afrodiscovery in the score above.
 

@@ -5,7 +5,7 @@ title: Is esteticamaroc.es Legit? Trust Score 83/100
 description: >-
   esteticamaroc.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:30:10.560Z'
+fetchedAt: '2026-08-03T08:18:06.191Z'
 finalUrl: 'https://esteticamaroc.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 89
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

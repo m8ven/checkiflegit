@@ -6,7 +6,7 @@ description: >-
   knowledgethirstmedia.co.za scores 57/100 on our public trust checks. No public
   contact details detected on the homepage. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:46:26.131Z'
+fetchedAt: '2026-08-03T08:31:33.547Z'
 finalUrl: 'https://knowledgethirstmedia.co.za/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-06'
-      daysToExpiry: 42
+      validTo: '2026-10-04'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

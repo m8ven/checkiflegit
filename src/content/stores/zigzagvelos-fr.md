@@ -4,8 +4,8 @@ slug: zigzagvelos-fr
 title: Is zigzagvelos.fr Legit? Trust Score 100/100
 description: >-
   zigzagvelos.fr scores 100/100 on our public trust checks. Established domain —
-  registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:05.394Z'
+  registered 10.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:14:56.652Z'
 finalUrl: 'https://zigzagvelos.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.5 years ago.
+    - Established domain — registered 10.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-12'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-01-13'
-      ageDays: 3815
-      ageYears: 10.5
-    detail: Registered 10.5 years ago (2016-01-13).
+      ageDays: 3854
+      ageYears: 10.6
+    detail: Registered 10.6 years ago (2016-01-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-zigzagvelos.fr looks like a well-established store. The clearest positives are that its domain has been registered for 10.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+zigzagvelos.fr looks like a well-established store. The clearest positives are that its domain has been registered for 10.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Zigzagvelos in the score above.
 

@@ -4,8 +4,8 @@ slug: matildetienda-com
 title: Is matildetienda.com Legit? Trust Score 76/100
 description: >-
   matildetienda.com scores 76/100 on our public trust checks. Established domain
-  — registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:46.037Z'
+  — registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:23:26.834Z'
 finalUrl: 'https://matildetienda.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-15'
-      ageDays: 1652
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2021-12-15).
+      ageDays: 1684
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2021-12-15).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-matildetienda.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+matildetienda.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Matildetienda in the score above.
 

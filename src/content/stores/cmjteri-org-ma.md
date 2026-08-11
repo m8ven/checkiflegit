@@ -4,8 +4,8 @@ slug: cmjteri-org-ma
 title: Is cmjteri.org.ma Legit? Trust Score 76/100
 description: >-
   cmjteri.org.ma scores 76/100 on our public trust checks. Established domain —
-  registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:28:21.650Z'
+  registered 1.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:16:45.990Z'
 finalUrl: 'https://cmjteri.org.ma/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.6 years ago.
+    - Established domain — registered 1.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-29'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-11-07'
-      ageDays: 594
-      ageYears: 1.6
-    detail: Registered 1.6 years ago (2024-11-07).
+      ageDays: 634
+      ageYears: 1.7
+    detail: Registered 1.7 years ago (2024-11-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cmjteri.org.ma looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cmjteri.org.ma looks like a well-established store. The clearest positives are that its domain has been registered for 1.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cmjteri in the score above.
 

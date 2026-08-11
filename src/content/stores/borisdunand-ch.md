@@ -1,12 +1,12 @@
 ---
 domain: borisdunand.ch
 slug: borisdunand-ch
-title: Is borisdunand.ch Legit? Trust Score 57/100 — Mixed Signals
+title: Is borisdunand.ch Legit? Trust Score 66/100 — Mixed Signals
 description: >-
-  borisdunand.ch scores 57/100 on our public trust checks. Some standard policy
+  borisdunand.ch scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:19:19.625Z'
+fetchedAt: '2026-08-03T08:09:23.673Z'
 finalUrl: 'https://borisdunand.ch/'
 reachable: true
 noindex: false
@@ -16,15 +16,15 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 57
+  score: 66
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
-    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 37
+      validTo: '2026-10-11'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -72,16 +72,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: warn
+    status: pass
     value:
       facebook: true
       instagram: false
       twitter: false
       tiktok: false
-      youtube: false
+      youtube: true
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): facebook.'
+    detail: 'Links to 2 social platform(s): facebook, youtube.'
   reviews:
     status: unknown
     value:

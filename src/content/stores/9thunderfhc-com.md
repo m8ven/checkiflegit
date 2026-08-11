@@ -5,7 +5,7 @@ title: Is 9thunderfhc.com Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   9thunderfhc.com scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T02:34:30.363Z'
+fetchedAt: '2026-07-27T08:22:18.723Z'
 finalUrl: 'https://9thunderfhc.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.3 years ago.
+    - Established domain — registered 1.4 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-03-19'
-      ageDays: 462
-      ageYears: 1.3
-    detail: Registered 1.3 years ago (2025-03-19).
+      ageDays: 494
+      ageYears: 1.4
+    detail: Registered 1.4 years ago (2025-03-19).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-9thunderfhc.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+9thunderfhc.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 9thunderfhc in the score above.
 

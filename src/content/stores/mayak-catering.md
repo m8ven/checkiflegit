@@ -1,27 +1,27 @@
 ---
 domain: mayak.catering
 slug: mayak-catering
-title: Is mayak.catering Legit? Trust Score 66/100 — Mixed Signals
+title: Is mayak.catering Legit? Trust Score 23/100
 description: >-
-  mayak.catering scores 66/100 on our public trust checks. Some standard policy
-  or contact pages appear to be missing. Only limited contact details were
-  found.
-fetchedAt: '2026-06-25T02:35:53.242Z'
-finalUrl: 'https://mayak.catering/'
+  mayak.catering scores 23/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
+fetchedAt: '2026-07-27T08:23:32.797Z'
+finalUrl: 'http://mayak.catering/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 66
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 23
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No valid SSL certificate — connection may not be secure.
   cautions:
     - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://mayak.catering/'
+      finalUrl: 'http://mayak.catering/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -50,16 +50,12 @@ signals:
       privacy: true
       terms: false
       refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      shipping: true
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 56
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: fail
+    value: null
+    detail: 'TLS connection failed: '
   domainAge:
     status: unknown
     value: null
@@ -92,7 +88,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mayak.catering sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for mayak.catering. In particular, only limited contact details are listed and some standard contact or policy pages appear to be missing. It does have some positives — it runs on WooCommerce, an established e-commerce platform and it maintains active social media profiles — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mayak in the score above.
 

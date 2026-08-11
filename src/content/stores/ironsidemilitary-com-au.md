@@ -5,7 +5,7 @@ title: Is ironsidemilitary.com.au Legit? Trust Score 100/100
 description: >-
   ironsidemilitary.com.au scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:44.204Z'
+fetchedAt: '2026-08-10T06:13:03.868Z'
 finalUrl: 'https://ironsidemilitary.com.au/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-08-08'
-      daysToExpiry: 44
+      issuer: Let's Encrypt
+      validTo: '2026-10-28'
+      daysToExpiry: 79
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null

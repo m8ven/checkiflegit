@@ -5,7 +5,7 @@ title: Is sanfe.in Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   sanfe.in scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-24T21:45:31.529Z'
+fetchedAt: '2026-07-27T08:05:51.402Z'
 finalUrl: 'https://sanfe.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

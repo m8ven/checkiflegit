@@ -6,7 +6,7 @@ description: >-
   d-pixx.de scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-25T12:16:39.395Z'
+fetchedAt: '2026-08-10T06:24:46.913Z'
 finalUrl: 'https://www.d-pixx.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

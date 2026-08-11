@@ -5,7 +5,7 @@ title: Is metrotilesandflooring.com Legit? Trust Score 55/100
 description: >-
   metrotilesandflooring.com scores 55/100 on our public trust checks. Standard
   contact and policy pages were not found.
-fetchedAt: '2026-06-25T02:52:52.033Z'
+fetchedAt: '2026-07-27T08:38:30.446Z'
 finalUrl: 'https://metrotilesandflooring.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.6 years ago.
+    - Established domain — registered 1.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-11-21'
-      ageDays: 580
-      ageYears: 1.6
-    detail: Registered 1.6 years ago (2024-11-21).
+      ageDays: 612
+      ageYears: 1.7
+    detail: Registered 1.7 years ago (2024-11-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-metrotilesandflooring.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.6 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+metrotilesandflooring.com sends a mixed set of signals. On the positive side, its domain has been registered for 1.7 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Metrotilesandflooring in the score above.
 

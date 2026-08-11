@@ -5,7 +5,7 @@ title: Is printed-paintings.de Legit? Trust Score 61/100
 description: >-
   printed-paintings.de scores 61/100 on our public trust checks. No links to
   major social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T11:56:54.697Z'
+fetchedAt: '2026-08-10T06:08:30.825Z'
 finalUrl: 'https://printed-paintings.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-26'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,12 +1,12 @@
 ---
 domain: dilaq.com
 slug: dilaq-com
-title: Is dilaq.com Legit? Trust Score 94/100 — Trust Checks Pass
+title: Is dilaq.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  dilaq.com scores 94/100 on our public trust checks. Established domain —
+  dilaq.com scores 73/100 on our public trust checks. Established domain —
   registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:25:02.519Z'
-finalUrl: 'https://dilaq.com/'
+fetchedAt: '2026-07-27T08:14:32.406Z'
+finalUrl: 'https://www.dilaq.com/'
 reachable: true
 noindex: false
 verdict:
@@ -15,76 +15,76 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 94
+  score: 73
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
+    - 'Built on Shopify, an established e-commerce platform.'
     - Established domain — registered 5.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
-  redFlags: []
+  redFlags:
+    - No links to major social platforms found.
   cautions:
-    - Limited social media presence.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://dilaq.com/'
+      finalUrl: 'https://www.dilaq.com/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
     value:
-      platform: WooCommerce
+      platform: Shopify
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: false
+        hasCartLink: true
         hasCatalog: true
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasCartFlow: true
+    detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
     status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
-      shipping: true
+      shipping: false
     detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
-      issuer: Sectigo Limited
-      validTo: '2027-02-18'
-      daysToExpiry: 239
+      issuer: Let's Encrypt
+      validTo: '2026-10-05'
+      daysToExpiry: 71
       authorized: true
-    detail: Valid certificate issued by Sectigo Limited.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-02-15'
-      ageDays: 1955
+      ageDays: 1987
       ageYears: 5.4
     detail: Registered 5.4 years ago (2021-02-15).
   contact:
-    status: pass
-    value:
-      email: true
-      phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
-  social:
     status: warn
     value:
+      email: true
+      phone: false
+      address: false
+    detail: 'Public contact details found: email.'
+  social:
+    status: fail
+    value:
       facebook: false
-      instagram: true
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dilaq.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dilaq.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dilaq in the score above.
 

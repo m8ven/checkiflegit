@@ -4,8 +4,8 @@ slug: davidpowell-nl
 title: Is davidpowell.nl Legit? Trust Score 82/100
 description: >-
   davidpowell.nl scores 82/100 on our public trust checks. Established domain —
-  registered 19.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:08.813Z'
+  registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:43.800Z'
 finalUrl: 'https://davidpowell.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.7 years ago.
+    - Established domain — registered 19.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-10-12'
-      ageDays: 7196
-      ageYears: 19.7
-    detail: Registered 19.7 years ago (2006-10-12).
+      ageDays: 7228
+      ageYears: 19.8
+    detail: Registered 19.8 years ago (2006-10-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-davidpowell.nl looks like a well-established store. The clearest positives are that its domain has been registered for 19.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+davidpowell.nl looks like a well-established store. The clearest positives are that its domain has been registered for 19.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Davidpowell in the score above.
 

@@ -5,7 +5,7 @@ title: Is framedbyfroede.dk Legit? Trust Score 88/100
 description: >-
   framedbyfroede.dk scores 88/100 on our public trust checks. Established domain
   — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:36.580Z'
+fetchedAt: '2026-07-27T08:22:24.894Z'
 finalUrl: 'https://framedbyfroede.dk/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 30
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-02-15'
-      ageDays: 1591
+      ageDays: 1623
       ageYears: 4.4
     detail: Registered 4.4 years ago (2022-02-15).
   contact:

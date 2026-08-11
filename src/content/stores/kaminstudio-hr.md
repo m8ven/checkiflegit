@@ -4,8 +4,8 @@ slug: kaminstudio-hr
 title: Is kaminstudio.hr Legit? Trust Score 88/100
 description: >-
   kaminstudio.hr scores 88/100 on our public trust checks. Established domain —
-  registered 13.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:39.939Z'
+  registered 13.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:30:19.378Z'
 finalUrl: 'https://kaminstudio.hr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.5 years ago.
+    - Established domain — registered 13.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-01-07'
-      ageDays: 4916
-      ageYears: 13.5
-    detail: Registered 13.5 years ago (2013-01-07).
+      ageDays: 4955
+      ageYears: 13.6
+    detail: Registered 13.6 years ago (2013-01-07).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kaminstudio.hr looks like a well-established store. The clearest positives are that its domain has been registered for 13.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kaminstudio.hr looks like a well-established store. The clearest positives are that its domain has been registered for 13.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kaminstudio in the score above.
 

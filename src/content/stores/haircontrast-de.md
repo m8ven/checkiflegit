@@ -5,7 +5,7 @@ title: Is haircontrast.de Legit? Trust Score 100/100
 description: >-
   haircontrast.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:36:25.237Z'
+fetchedAt: '2026-07-27T08:23:58.150Z'
 finalUrl: 'https://haircontrast.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

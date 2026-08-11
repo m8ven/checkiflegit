@@ -5,7 +5,7 @@ title: Is abc.cl Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   abc.cl scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Public business contact details are listed.
-fetchedAt: '2026-06-24T21:44:43.321Z'
+fetchedAt: '2026-07-27T08:05:17.532Z'
 finalUrl: 'https://www.abc.cl/'
 reachable: true
 noindex: false
@@ -48,15 +48,15 @@ signals:
       contact: false
       privacy: false
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Amazon
       validTo: '2026-12-27'
-      daysToExpiry: 187
+      daysToExpiry: 154
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

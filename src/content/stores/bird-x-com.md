@@ -4,8 +4,8 @@ slug: bird-x-com
 title: Is bird-x.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   bird-x.com scores 88/100 on our public trust checks. Established domain —
-  registered 29.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:44.545Z'
+  registered 29.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:15:49.463Z'
 finalUrl: 'https://bird-x.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.1 years ago.
+    - Established domain — registered 29.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1997-05-19'
-      ageDays: 10628
-      ageYears: 29.1
-    detail: Registered 29.1 years ago (1997-05-19).
+      ageDays: 10661
+      ageYears: 29.2
+    detail: Registered 29.2 years ago (1997-05-19).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bird-x.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bird-x.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bird-x in the score above.
 

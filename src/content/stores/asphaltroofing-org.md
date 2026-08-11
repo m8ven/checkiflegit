@@ -1,12 +1,11 @@
 ---
 domain: asphaltroofing.org
 slug: asphaltroofing-org
-title: Is asphaltroofing.org Legit? Trust Score 85/100
+title: Is asphaltroofing.org Legit? Trust Score 88/100
 description: >-
-  asphaltroofing.org scores 85/100 on our public trust checks. Established
-  domain — registered 29.6 years ago. Public business contact details are
-  listed.
-fetchedAt: '2026-06-25T12:22:08.111Z'
+  asphaltroofing.org scores 88/100 on our public trust checks. Established
+  domain — registered 29.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:29:18.343Z'
 finalUrl: 'https://www.asphaltroofing.org/'
 reachable: true
 noindex: false
@@ -16,10 +15,11 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 85
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.6 years ago.
+    - Established domain — registered 29.7 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -53,16 +53,20 @@ signals:
       shipping: false
     detail: Found 0 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: GoDaddy.com
+      validTo: '2026-10-24'
+      daysToExpiry: 76
+      authorized: true
+    detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '1996-12-09'
-      ageDays: 10790
-      ageYears: 29.6
-    detail: Registered 29.6 years ago (1996-12-09).
+      ageDays: 10836
+      ageYears: 29.7
+    detail: Registered 29.7 years ago (1996-12-09).
   contact:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-asphaltroofing.org looks like a well-established store. The clearest positives are that its domain has been registered for 29.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+asphaltroofing.org looks like a well-established store. The clearest positives are that its domain has been registered for 29.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Asphaltroofing in the score above.
 

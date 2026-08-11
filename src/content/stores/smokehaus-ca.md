@@ -4,8 +4,8 @@ slug: smokehaus-ca
 title: Is smokehaus.ca Legit? Trust Score 88/100
 description: >-
   smokehaus.ca scores 88/100 on our public trust checks. Established domain —
-  registered 20.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:10.635Z'
+  registered 20.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:12:37.857Z'
 finalUrl: 'https://smokehaus.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.1 years ago.
+    - Established domain — registered 20.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 69
+      validTo: '2026-11-02'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-05-09'
-      ageDays: 7351
-      ageYears: 20.1
-    detail: Registered 20.1 years ago (2006-05-09).
+      ageDays: 7397
+      ageYears: 20.3
+    detail: Registered 20.3 years ago (2006-05-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-smokehaus.ca looks like a well-established store. The clearest positives are that its domain has been registered for 20.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+smokehaus.ca looks like a well-established store. The clearest positives are that its domain has been registered for 20.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Smokehaus in the score above.
 

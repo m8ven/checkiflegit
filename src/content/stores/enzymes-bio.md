@@ -5,7 +5,7 @@ title: Is enzymes.bio Legit? Trust Score 91/100 — Trust Checks Pass
 description: >-
   enzymes.bio scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:26:43.796Z'
+fetchedAt: '2026-07-27T08:15:49.397Z'
 finalUrl: 'https://enzymes.bio/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is consulknight.de Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   consulknight.de scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T02:23:48.381Z'
+fetchedAt: '2026-07-27T08:13:26.414Z'
 finalUrl: 'https://consulknight.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

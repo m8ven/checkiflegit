@@ -4,8 +4,8 @@ slug: dagyvintage-com
 title: Is dagyvintage.com Legit? Trust Score 100/100
 description: >-
   dagyvintage.com scores 100/100 on our public trust checks. Established domain
-  — registered 3.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:05.699Z'
+  — registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:19:56.048Z'
 finalUrl: 'https://dagyvintage.com/it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.1 years ago.
+    - Established domain — registered 3.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: home.pl S.A.
       validTo: '2026-12-10'
-      daysToExpiry: 169
+      daysToExpiry: 129
       authorized: true
     detail: Valid certificate issued by home.pl S.A..
   domainAge:
     status: pass
     value:
       createdAt: '2023-05-22'
-      ageDays: 1129
-      ageYears: 3.1
-    detail: Registered 3.1 years ago (2023-05-22).
+      ageDays: 1168
+      ageYears: 3.2
+    detail: Registered 3.2 years ago (2023-05-22).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dagyvintage.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dagyvintage.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dagyvintage in the score above.
 

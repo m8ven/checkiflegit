@@ -6,7 +6,7 @@ description: >-
   injectionpumps.co.uk scores 55/100 on our public trust checks. No public
   contact details detected on the homepage. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T02:37:33.393Z'
+fetchedAt: '2026-07-27T08:24:55.502Z'
 finalUrl: 'https://injectionpumps.co.uk/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.9 years ago.
+    - Established domain — registered 16 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-06'
-      daysToExpiry: 227
+      daysToExpiry: 195
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2010-08-08'
-      ageDays: 5799
-      ageYears: 15.9
-    detail: Registered 15.9 years ago (2010-08-08).
+      ageDays: 5832
+      ageYears: 16
+    detail: Registered 16 years ago (2010-08-08).
   contact:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-injectionpumps.co.uk sends a mixed set of signals. On the positive side, its domain has been registered for 15.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+injectionpumps.co.uk sends a mixed set of signals. On the positive side, its domain has been registered for 16 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Injectionpumps in the score above.
 

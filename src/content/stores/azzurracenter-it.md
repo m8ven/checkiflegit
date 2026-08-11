@@ -4,8 +4,8 @@ slug: azzurracenter-it
 title: Is azzurracenter.it Legit? Trust Score 100/100
 description: >-
   azzurracenter.it scores 100/100 on our public trust checks. Established domain
-  — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:00:47.253Z'
+  — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:07:11.120Z'
 finalUrl: 'https://azzurracenter.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.3 years ago.
+    - Established domain — registered 5.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-29'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-02-23'
-      ageDays: 1947
-      ageYears: 5.3
-    detail: Registered 5.3 years ago (2021-02-23).
+      ageDays: 1986
+      ageYears: 5.4
+    detail: Registered 5.4 years ago (2021-02-23).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-azzurracenter.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+azzurracenter.it looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Azzurracenter in the score above.
 

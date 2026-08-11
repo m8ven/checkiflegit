@@ -5,7 +5,7 @@ title: Is cimage.com.hk Legit? Trust Score 83/100
 description: >-
   cimage.com.hk scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:18:11.587Z'
+fetchedAt: '2026-08-10T06:26:06.141Z'
 finalUrl: 'https://www.cimage.com.hk/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

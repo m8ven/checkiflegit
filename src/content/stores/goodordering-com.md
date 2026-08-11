@@ -1,11 +1,11 @@
 ---
 domain: goodordering.com
 slug: goodordering-com
-title: Is goodordering.com Legit? Trust Score 88/100
+title: Is goodordering.com Legit? Trust Score 100/100
 description: >-
-  goodordering.com scores 88/100 on our public trust checks. Established domain
-  — registered 15 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:35:21.494Z'
+  goodordering.com scores 100/100 on our public trust checks. Established domain
+  — registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:22:05.994Z'
 finalUrl: 'https://goodordering.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 15 years ago.
+    - Established domain — registered 15.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-06-30'
-      ageDays: 5473
-      ageYears: 15
-    detail: Registered 15 years ago (2011-06-30).
+      ageDays: 5512
+      ageYears: 15.1
+    detail: Registered 15.1 years ago (2011-06-30).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
-      phone: false
+      phone: true
       address: true
-    detail: 'Public contact details found: address.'
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-goodordering.com looks like a well-established store. The clearest positives are that its domain has been registered for 15 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+goodordering.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Goodordering in the score above.
 

@@ -4,8 +4,8 @@ slug: screamingfrog-co-uk
 title: Is screamingfrog.co.uk Legit? Trust Score 100/100
 description: >-
   screamingfrog.co.uk scores 100/100 on our public trust checks. Established
-  domain — registered 19.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:46.141Z'
+  domain — registered 19.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:19.750Z'
 finalUrl: 'https://www.screamingfrog.co.uk/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.3 years ago.
+    - Established domain — registered 19.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2007-03-22'
-      ageDays: 7034
-      ageYears: 19.3
-    detail: Registered 19.3 years ago (2007-03-22).
+      ageDays: 7067
+      ageYears: 19.4
+    detail: Registered 19.4 years ago (2007-03-22).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-screamingfrog.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 19.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+screamingfrog.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 19.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Screamingfrog in the score above.
 

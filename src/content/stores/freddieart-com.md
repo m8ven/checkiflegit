@@ -1,11 +1,11 @@
 ---
 domain: freddieart.com
 slug: freddieart-com
-title: Is freddieart.com Legit? Trust Score 70/100
+title: Is freddieart.com Legit? Trust Score 76/100
 description: >-
-  freddieart.com scores 70/100 on our public trust checks. Established domain —
-  registered 19.7 years ago. Maintains links to multiple social media platforms.
-fetchedAt: '2026-06-25T02:34:43.294Z'
+  freddieart.com scores 76/100 on our public trust checks. Established domain —
+  registered 19.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:31.979Z'
 finalUrl: 'https://freddieart.com/'
 reachable: true
 noindex: false
@@ -15,10 +15,11 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.7 years ago.
+    - Established domain — registered 19.8 years ago.
+    - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
@@ -52,16 +53,20 @@ signals:
       shipping: false
     detail: 'Found 2 policy page(s), no contact page.'
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: 'GoDaddy.com, Inc.'
+      validTo: '2026-08-11'
+      daysToExpiry: 16
+      authorized: true
+    detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '2006-10-04'
-      ageDays: 7203
-      ageYears: 19.7
-    detail: Registered 19.7 years ago (2006-10-04).
+      ageDays: 7235
+      ageYears: 19.8
+    detail: Registered 19.8 years ago (2006-10-04).
   contact:
     status: warn
     value:
@@ -90,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-freddieart.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.7 years and it runs on WooCommerce, an established e-commerce platform. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+freddieart.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Freddieart in the score above.
 

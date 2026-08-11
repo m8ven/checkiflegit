@@ -5,7 +5,7 @@ title: Is friseur-charmant.de Legit? Trust Score 83/100
 description: >-
   friseur-charmant.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:28:23.956Z'
+fetchedAt: '2026-07-27T08:17:29.345Z'
 finalUrl: 'https://friseur-charmant.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2027-02-27'
-      daysToExpiry: 248
+      daysToExpiry: 216
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:
@@ -68,8 +68,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:

@@ -5,7 +5,7 @@ title: Is sublimationwala.in Legit? Trust Score 91/100
 description: >-
   sublimationwala.in scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:13:10.271Z'
+fetchedAt: '2026-08-10T06:21:51.996Z'
 finalUrl: 'https://sublimationwala.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 39
+      validTo: '2026-10-03'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

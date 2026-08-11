@@ -5,7 +5,7 @@ title: Is inmoov.fr Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   inmoov.fr scores 52/100 on our public trust checks. No public contact details
   detected on the homepage.
-fetchedAt: '2026-06-25T03:46:59.893Z'
+fetchedAt: '2026-08-03T08:32:01.164Z'
 finalUrl: 'https://inmoov.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13 years ago.
+    - Established domain — registered 13.1 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2013-06-25'
-      ageDays: 4747
-      ageYears: 13
-    detail: Registered 13 years ago (2013-06-25).
+      ageDays: 4786
+      ageYears: 13.1
+    detail: Registered 13.1 years ago (2013-06-25).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-inmoov.fr sends a mixed set of signals. On the positive side, its domain has been registered for 13 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+inmoov.fr sends a mixed set of signals. On the positive side, its domain has been registered for 13.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Inmoov in the score above.
 

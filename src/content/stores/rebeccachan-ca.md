@@ -5,7 +5,7 @@ title: Is rebeccachan.ca Legit? Trust Score 58/100 — Mixed Signals
 description: >-
   rebeccachan.ca scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:49:14.819Z'
+fetchedAt: '2026-07-27T08:35:17.713Z'
 finalUrl: 'https://rebeccachan.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16 years ago.
+    - Established domain — registered 16.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-02'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2010-06-24'
-      ageDays: 5844
-      ageYears: 16
-    detail: Registered 16 years ago (2010-06-24).
+      ageDays: 5876
+      ageYears: 16.1
+    detail: Registered 16.1 years ago (2010-06-24).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rebeccachan.ca sends a mixed set of signals. On the positive side, its domain has been registered for 16 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+rebeccachan.ca sends a mixed set of signals. On the positive side, its domain has been registered for 16.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rebeccachan in the score above.
 

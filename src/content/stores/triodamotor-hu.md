@@ -5,7 +5,7 @@ title: Is triodamotor.hu Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   triodamotor.hu scores 66/100 on our public trust checks. HTTPS certificate
   present but its trust chain is incomplete.
-fetchedAt: '2026-06-25T03:23:24.530Z'
+fetchedAt: '2026-08-03T08:12:45.542Z'
 finalUrl: 'https://www.triodamotor.hu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: warn
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-20'
+      daysToExpiry: 78
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:

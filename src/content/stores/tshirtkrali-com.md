@@ -1,11 +1,11 @@
 ---
 domain: tshirtkrali.com
 slug: tshirtkrali-com
-title: Is tshirtkrali.com Legit? Trust Score 70/100
+title: Is tshirtkrali.com Legit? Trust Score 88/100
 description: >-
-  tshirtkrali.com scores 70/100 on our public trust checks. Established domain —
-  registered 14.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:52.624Z'
+  tshirtkrali.com scores 88/100 on our public trust checks. Established domain —
+  registered 14.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:55.976Z'
 finalUrl: 'https://tshirtkrali.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.3 years ago.
+    - Established domain — registered 14.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -40,33 +40,33 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: false
+        hasCatalog: true
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-20'
-      daysToExpiry: 88
+      validTo: '2026-10-03'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-03-15'
-      ageDays: 5214
-      ageYears: 14.3
-    detail: Registered 14.3 years ago (2012-03-15).
+      ageDays: 5246
+      ageYears: 14.4
+    detail: Registered 14.4 years ago (2012-03-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tshirtkrali.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.3 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tshirtkrali.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tshirtkrali in the score above.
 

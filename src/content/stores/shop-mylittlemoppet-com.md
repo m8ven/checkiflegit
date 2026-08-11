@@ -5,7 +5,7 @@ title: Is shop.mylittlemoppet.com Legit? Trust Score 83/100
 description: >-
   shop.mylittlemoppet.com scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:02:58.042Z'
+fetchedAt: '2026-08-10T06:13:15.541Z'
 finalUrl: 'https://shop.mylittlemoppet.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

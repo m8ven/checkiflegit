@@ -5,7 +5,7 @@ title: Is hbotforsale.com Legit? Trust Score 55/100 — Mixed Signals
 description: >-
   hbotforsale.com scores 55/100 on our public trust checks. No links to major
   social platforms found. Domain is relatively young.
-fetchedAt: '2026-06-25T12:23:45.754Z'
+fetchedAt: '2026-08-10T06:30:27.886Z'
 finalUrl: 'https://www.hbotforsale.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-13'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: warn
     value:
       createdAt: '2025-09-15'
-      ageDays: 282
-      ageYears: 0.8
-    detail: Registered 0.8 years ago (2025-09-15).
+      ageDays: 328
+      ageYears: 0.9
+    detail: Registered 0.9 years ago (2025-09-15).
   contact:
     status: warn
     value:

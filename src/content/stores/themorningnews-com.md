@@ -4,8 +4,8 @@ slug: themorningnews-com
 title: Is themorningnews.com Legit? Trust Score 100/100
 description: >-
   themorningnews.com scores 100/100 on our public trust checks. Established
-  domain — registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:46.859Z'
+  domain — registered 27.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:02:24.204Z'
 finalUrl: 'https://themorningnews.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.4 years ago.
+    - Established domain — registered 27.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: ZeroSSL GmbH
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 28
       authorized: true
     detail: Valid certificate issued by ZeroSSL GmbH.
   domainAge:
     status: pass
     value:
       createdAt: '1999-02-17'
-      ageDays: 9989
-      ageYears: 27.4
-    detail: Registered 27.4 years ago (1999-02-17).
+      ageDays: 10029
+      ageYears: 27.5
+    detail: Registered 27.5 years ago (1999-02-17).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-themorningnews.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+themorningnews.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Themorningnews in the score above.
 

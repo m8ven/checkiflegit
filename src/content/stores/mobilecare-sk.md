@@ -1,12 +1,11 @@
 ---
 domain: mobilecare.sk
 slug: mobilecare-sk
-title: Is mobilecare.sk Legit? Trust Score 76/100
+title: Is mobilecare.sk Legit? Trust Score 83/100
 description: >-
-  mobilecare.sk scores 76/100 on our public trust checks. Public business
-  contact details are listed. Maintains links to multiple social media
-  platforms.
-fetchedAt: '2026-06-25T03:56:12.938Z'
+  mobilecare.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  certificate in place. Public business contact details are listed.
+fetchedAt: '2026-08-10T06:06:11.827Z'
 finalUrl: 'https://mobilecare.sk/'
 reachable: true
 noindex: false
@@ -16,9 +15,10 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 83
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -52,9 +52,13 @@ signals:
       shipping: false
     detail: Found 0 policy page(s) and a contact page.
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Let's Encrypt
+      validTo: '2026-10-30'
+      daysToExpiry: 81
+      authorized: true
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: unknown
     value: null
@@ -87,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mobilecare.sk looks like a well-established store. The clearest positives are that it lists genuine business contact details and it runs on WooCommerce, an established e-commerce platform. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mobilecare.sk looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mobilecare in the score above.
 

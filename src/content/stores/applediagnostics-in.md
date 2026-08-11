@@ -5,7 +5,7 @@ title: Is applediagnostics.in Legit? Trust Score 100/100
 description: >-
   applediagnostics.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:18:00.379Z'
+fetchedAt: '2026-07-27T08:09:01.112Z'
 finalUrl: 'https://applediagnostics.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 42
+      validTo: '2026-10-05'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

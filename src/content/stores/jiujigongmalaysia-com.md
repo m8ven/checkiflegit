@@ -1,11 +1,11 @@
 ---
 domain: jiujigongmalaysia.com
 slug: jiujigongmalaysia-com
-title: Is jiujigongmalaysia.com Legit? Trust Score 88/100
+title: Is jiujigongmalaysia.com Legit? Trust Score 76/100
 description: >-
-  jiujigongmalaysia.com scores 88/100 on our public trust checks. Established
-  domain — registered 7.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:51.660Z'
+  jiujigongmalaysia.com scores 76/100 on our public trust checks. Established
+  domain — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:14:01.423Z'
 finalUrl: 'https://jiujigongmalaysia.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.1 years ago.
+    - Established domain — registered 7.2 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: false
       refund: false
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-05'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-05-24'
-      ageDays: 2588
-      ageYears: 7.1
-    detail: Registered 7.1 years ago (2019-05-24).
+      ageDays: 2634
+      ageYears: 7.2
+    detail: Registered 7.2 years ago (2019-05-24).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-jiujigongmalaysia.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+jiujigongmalaysia.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Jiujigongmalaysia in the score above.
 

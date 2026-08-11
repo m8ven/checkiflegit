@@ -5,7 +5,7 @@ title: Is dmd.ltd Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
   dmd.ltd scores 79/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Has a contact page and multiple policy pages (privacy/terms/refund).
-fetchedAt: '2026-06-25T03:01:18.376Z'
+fetchedAt: '2026-08-03T08:07:27.935Z'
 finalUrl: 'https://www.dmd.ltd/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-19'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

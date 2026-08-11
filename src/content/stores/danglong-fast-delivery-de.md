@@ -5,7 +5,7 @@ title: Is danglong.fast-delivery.de Legit? Trust Score 79/100
 description: >-
   danglong.fast-delivery.de scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:41:01.556Z'
+fetchedAt: '2026-08-03T08:26:29.901Z'
 finalUrl: 'https://danglong.fast-delivery.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-14'
-      daysToExpiry: 50
+      daysToExpiry: 11
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

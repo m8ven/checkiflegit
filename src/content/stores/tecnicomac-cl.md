@@ -5,7 +5,7 @@ title: Is tecnicomac.cl Legit? Trust Score 74/100
 description: >-
   tecnicomac.cl scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:31:12.470Z'
+fetchedAt: '2026-08-10T06:36:36.847Z'
 finalUrl: 'https://www.tecnicomac.cl/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 54
+      validTo: '2026-10-12'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

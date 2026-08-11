@@ -5,7 +5,7 @@ title: Is cherylincreations.co.za Legit? Trust Score 83/100
 description: >-
   cherylincreations.co.za scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:21:48.755Z'
+fetchedAt: '2026-07-27T08:12:06.430Z'
 finalUrl: 'https://cherylincreations.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-11'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

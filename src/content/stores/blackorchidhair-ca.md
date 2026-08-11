@@ -4,8 +4,8 @@ slug: blackorchidhair-ca
 title: Is blackorchidhair.ca Legit? Trust Score 76/100
 description: >-
   blackorchidhair.ca scores 76/100 on our public trust checks. Established
-  domain — registered 16.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:52.557Z'
+  domain — registered 16.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:02.187Z'
 finalUrl: 'https://blackorchidhair.ca/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.6 years ago.
+    - Established domain — registered 16.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-13'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2009-11-04'
-      ageDays: 6076
-      ageYears: 16.6
-    detail: Registered 16.6 years ago (2009-11-04).
+      ageDays: 6108
+      ageYears: 16.7
+    detail: Registered 16.7 years ago (2009-11-04).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blackorchidhair.ca looks like a well-established store. The clearest positives are that its domain has been registered for 16.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+blackorchidhair.ca looks like a well-established store. The clearest positives are that its domain has been registered for 16.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blackorchidhair in the score above.
 

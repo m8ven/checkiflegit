@@ -5,7 +5,7 @@ title: Is canprev.hk Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   canprev.hk scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:21:07.278Z'
+fetchedAt: '2026-07-27T08:11:34.743Z'
 finalUrl: 'https://canprev.hk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-10'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

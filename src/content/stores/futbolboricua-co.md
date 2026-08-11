@@ -5,7 +5,7 @@ title: Is futbolboricua.co Legit? Trust Score 40/100
 description: >-
   futbolboricua.co scores 40/100 on our public trust checks. Standard contact
   and policy pages were not found. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:44:02.436Z'
+fetchedAt: '2026-08-10T06:03:04.289Z'
 finalUrl: 'https://futbolboricua.co/'
 reachable: true
 noindex: false

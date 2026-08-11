@@ -1,11 +1,11 @@
 ---
 domain: lacamisafutbolera.es
 slug: lacamisafutbolera-es
-title: Is lacamisafutbolera.es Legit? Trust Score 83/100
+title: Is lacamisafutbolera.es Legit? Trust Score 74/100
 description: >-
-  lacamisafutbolera.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
+  lacamisafutbolera.es scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:41:23.389Z'
+fetchedAt: '2026-07-27T08:28:01.030Z'
 finalUrl: 'https://lacamisafutbolera.es/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 74
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
     - Only limited contact details were found.
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-19'
-      daysToExpiry: 178
+      daysToExpiry: 146
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
@@ -71,16 +71,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: pass
+    status: warn
     value:
       facebook: false
-      instagram: true
+      instagram: false
       twitter: false
       tiktok: true
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): instagram, tiktok.'
+    detail: 'Links to 1 social platform(s): tiktok.'
   reviews:
     status: unknown
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lacamisafutbolera.es looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lacamisafutbolera.es looks like a well-established store. The clearest positives are that it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lacamisafutbolera in the score above.
 

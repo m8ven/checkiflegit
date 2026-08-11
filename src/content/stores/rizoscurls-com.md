@@ -4,8 +4,8 @@ slug: rizoscurls-com
 title: Is rizoscurls.com Legit? Trust Score 100/100
 description: >-
   rizoscurls.com scores 100/100 on our public trust checks. Established domain —
-  registered 11.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:06:45.493Z'
+  registered 12 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:16:27.142Z'
 finalUrl: 'https://rizoscurls.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 11.9 years ago.
+    - Established domain — registered 12 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 63
+      validTo: '2026-10-26'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-07-29'
-      ageDays: 4349
-      ageYears: 11.9
-    detail: Registered 11.9 years ago (2014-07-29).
+      ageDays: 4395
+      ageYears: 12
+    detail: Registered 12 years ago (2014-07-29).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rizoscurls.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+rizoscurls.com looks like a well-established store. The clearest positives are that its domain has been registered for 12 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rizoscurls in the score above.
 

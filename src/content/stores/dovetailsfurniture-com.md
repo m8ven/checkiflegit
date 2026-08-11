@@ -4,8 +4,8 @@ slug: dovetailsfurniture-com
 title: Is dovetailsfurniture.com Legit? Trust Score 73/100
 description: >-
   dovetailsfurniture.com scores 73/100 on our public trust checks. Established
-  domain — registered 9.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:26.484Z'
+  domain — registered 9.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:27:38.189Z'
 finalUrl: 'https://dovetailsfurniture.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.8 years ago.
+    - Established domain — registered 9.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-18'
-      daysToExpiry: 85
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2016-09-02'
-      ageDays: 3582
-      ageYears: 9.8
-    detail: Registered 9.8 years ago (2016-09-02).
+      ageDays: 3621
+      ageYears: 9.9
+    detail: Registered 9.9 years ago (2016-09-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dovetailsfurniture.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dovetailsfurniture.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dovetailsfurniture in the score above.
 

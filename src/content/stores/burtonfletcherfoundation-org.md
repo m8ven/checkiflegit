@@ -4,9 +4,9 @@ slug: burtonfletcherfoundation-org
 title: Is burtonfletcherfoundation.org Legit? Trust Score 76/100
 description: >-
   burtonfletcherfoundation.org scores 76/100 on our public trust checks.
-  Established domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:21:47.726Z'
+fetchedAt: '2026-07-27T08:12:05.510Z'
 finalUrl: 'https://burtonfletcherfoundation.org/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.7 years ago.
+    - Established domain — registered 4.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,18 +56,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Sectigo Limited
-      validTo: '2026-07-24'
-      daysToExpiry: 30
+      issuer: Let's Encrypt
+      validTo: '2026-10-08'
+      daysToExpiry: 74
       authorized: true
-    detail: Valid certificate issued by Sectigo Limited.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-10-20'
-      ageDays: 1708
-      ageYears: 4.7
-    detail: Registered 4.7 years ago (2021-10-20).
+      ageDays: 1740
+      ageYears: 4.8
+    detail: Registered 4.8 years ago (2021-10-20).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-burtonfletcherfoundation.org looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+burtonfletcherfoundation.org looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Burtonfletcherfoundation in the score above.
 

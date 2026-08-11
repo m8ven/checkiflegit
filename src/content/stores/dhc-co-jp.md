@@ -5,7 +5,7 @@ title: Is dhc.co.jp Legit? Trust Score 64/100 — Mixed Signals
 description: >-
   dhc.co.jp scores 64/100 on our public trust checks. HTTPS certificate present
   but its trust chain is incomplete.
-fetchedAt: '2026-06-24T21:44:54.619Z'
+fetchedAt: '2026-07-27T08:05:25.347Z'
 finalUrl: 'https://www.dhc.co.jp/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 30.1 years ago.
+    - Established domain — registered 30.2 years ago.
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2027-01-18'
-      daysToExpiry: 209
+      daysToExpiry: 176
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '1996-05-17'
-      ageDays: 10995
-      ageYears: 30.1
-    detail: Registered 30.1 years ago (1996-05-17).
+      ageDays: 11028
+      ageYears: 30.2
+    detail: Registered 30.2 years ago (1996-05-17).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dhc.co.jp sends a mixed set of signals. On the positive side, its domain has been registered for 30.1 years and it runs on Salesforce Commerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+dhc.co.jp sends a mixed set of signals. On the positive side, its domain has been registered for 30.2 years and it runs on Salesforce Commerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dhc in the score above.
 

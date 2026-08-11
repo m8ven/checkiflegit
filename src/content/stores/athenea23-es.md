@@ -5,7 +5,7 @@ title: Is athenea23.es Legit? Trust Score 83/100
 description: >-
   athenea23.es scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:51:05.812Z'
+fetchedAt: '2026-07-27T08:36:54.973Z'
 finalUrl: 'https://athenea23.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-24'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

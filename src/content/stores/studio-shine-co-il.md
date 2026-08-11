@@ -5,7 +5,7 @@ title: Is studio-shine.co.il Legit? Trust Score 40/100
 description: >-
   studio-shine.co.il scores 40/100 on our public trust checks. Standard contact
   and policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:03:39.591Z'
+fetchedAt: '2026-08-10T06:13:51.748Z'
 finalUrl: 'https://studio-shine.co.il/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-21'
-      daysToExpiry: 88
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

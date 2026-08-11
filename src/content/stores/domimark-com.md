@@ -4,8 +4,8 @@ slug: domimark-com
 title: Is domimark.com Legit? Trust Score 85/100
 description: >-
   domimark.com scores 85/100 on our public trust checks. Established domain —
-  registered 23.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:29.299Z'
+  registered 23.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:17.711Z'
 finalUrl: 'https://domimark.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23.6 years ago.
+    - Established domain — registered 23.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-27'
-      daysToExpiry: 156
+      daysToExpiry: 117
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2002-11-11'
-      ageDays: 8626
-      ageYears: 23.6
-    detail: Registered 23.6 years ago (2002-11-11).
+      ageDays: 8665
+      ageYears: 23.7
+    detail: Registered 23.7 years ago (2002-11-11).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-domimark.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+domimark.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.7 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Domimark in the score above.
 

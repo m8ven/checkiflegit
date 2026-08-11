@@ -5,7 +5,7 @@ title: Is wwcsa.org.au Legit? Trust Score 83/100
 description: >-
   wwcsa.org.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:10:51.458Z'
+fetchedAt: '2026-08-10T06:19:47.576Z'
 finalUrl: 'https://wwcsa.org.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-15'
-      daysToExpiry: 51
+      validTo: '2026-10-13'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -4,8 +4,8 @@ slug: malcop-com
 title: Is malcop.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   malcop.com scores 100/100 on our public trust checks. Established domain —
-  registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:23:29.356Z'
+  registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:30:15.367Z'
 finalUrl: 'https://www.malcop.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.4 years ago.
+    - Established domain — registered 21.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
-      shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-01-17'
-      ageDays: 7828
-      ageYears: 21.4
-    detail: Registered 21.4 years ago (2005-01-17).
+      ageDays: 7874
+      ageYears: 21.6
+    detail: Registered 21.6 years ago (2005-01-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-malcop.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+malcop.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Malcop in the score above.
 

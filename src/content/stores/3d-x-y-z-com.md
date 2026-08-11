@@ -4,8 +4,8 @@ slug: 3d-x-y-z-com
 title: Is 3d-x-y-z.com Legit? Trust Score 82/100
 description: >-
   3d-x-y-z.com scores 82/100 on our public trust checks. Established domain —
-  registered 4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:16:49.330Z'
+  registered 4.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:54.119Z'
 finalUrl: 'https://3d-x-y-z.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4 years ago.
+    - Established domain — registered 4.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-22'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-06-20'
-      ageDays: 1465
-      ageYears: 4
-    detail: Registered 4 years ago (2022-06-20).
+      ageDays: 1497
+      ageYears: 4.1
+    detail: Registered 4.1 years ago (2022-06-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-3d-x-y-z.com looks like a well-established store. The clearest positives are that its domain has been registered for 4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+3d-x-y-z.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 3d-x-y-z in the score above.
 

@@ -5,7 +5,7 @@ title: Is cmhtoyota.co.za Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   cmhtoyota.co.za scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T02:22:22.113Z'
+fetchedAt: '2026-08-03T08:00:58.646Z'
 finalUrl: 'https://cmhtoyota.co.za/'
 reachable: true
 noindex: false
@@ -54,11 +54,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      issuer: Google Trust Services
+      validTo: '2026-10-18'
+      daysToExpiry: 77
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null

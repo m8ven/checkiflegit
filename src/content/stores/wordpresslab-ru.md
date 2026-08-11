@@ -1,11 +1,11 @@
 ---
 domain: wordpresslab.ru
 slug: wordpresslab-ru
-title: Is wordpresslab.ru Legit? Trust Score 52/100 — Mixed Signals
+title: Is wordpresslab.ru Legit? Trust Score 64/100 — Mixed Signals
 description: >-
-  wordpresslab.ru scores 52/100 on our public trust checks. No public contact
-  details detected on the homepage.
-fetchedAt: '2026-06-25T12:10:39.025Z'
+  wordpresslab.ru scores 64/100 on our public trust checks. No public contact
+  details detected on the homepage. Limited social media presence.
+fetchedAt: '2026-08-10T06:19:37.138Z'
 finalUrl: 'https://wordpresslab.ru/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 52
+  score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.9 years ago.
+    - Established domain — registered 6.1 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No public contact details detected on the homepage.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
+      privacy: true
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-07-16'
-      ageDays: 2169
-      ageYears: 5.9
-    detail: Registered 5.9 years ago (2020-07-16).
+      ageDays: 2215
+      ageYears: 6.1
+    detail: Registered 6.1 years ago (2020-07-16).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-wordpresslab.ru sends a mixed set of signals. On the positive side, its domain has been registered for 5.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+wordpresslab.ru sends a mixed set of signals. On the positive side, its domain has been registered for 6.1 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Wordpresslab in the score above.
 

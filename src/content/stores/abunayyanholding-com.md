@@ -4,8 +4,8 @@ slug: abunayyanholding-com
 title: Is abunayyanholding.com Legit? Trust Score 94/100
 description: >-
   abunayyanholding.com scores 94/100 on our public trust checks. Established
-  domain — registered 17.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:17:06.872Z'
+  domain — registered 17.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:08:06.523Z'
 finalUrl: 'https://abunayyanholding.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.7 years ago.
+    - Established domain — registered 17.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2027-01-23'
-      daysToExpiry: 213
+      daysToExpiry: 181
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2008-10-28'
-      ageDays: 6448
-      ageYears: 17.7
-    detail: Registered 17.7 years ago (2008-10-28).
+      ageDays: 6480
+      ageYears: 17.8
+    detail: Registered 17.8 years ago (2008-10-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-abunayyanholding.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+abunayyanholding.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.8 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Abunayyanholding in the score above.
 

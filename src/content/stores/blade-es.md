@@ -5,7 +5,7 @@ title: Is blade.es Legit? Trust Score 40/100 — Proceed With Caution
 description: >-
   blade.es scores 40/100 on our public trust checks. No public contact details
   detected on the homepage.
-fetchedAt: '2026-06-25T02:26:53.054Z'
+fetchedAt: '2026-07-27T08:16:02.749Z'
 finalUrl: 'https://blade.es/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-08'
-      daysToExpiry: 167
+      daysToExpiry: 135
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

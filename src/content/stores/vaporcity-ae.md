@@ -5,7 +5,7 @@ title: Is vaporcity.ae Legit? Trust Score 79/100
 description: >-
   vaporcity.ae scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:17:32.937Z'
+fetchedAt: '2026-08-10T06:25:26.704Z'
 finalUrl: 'https://vaporcity.ae/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-31'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

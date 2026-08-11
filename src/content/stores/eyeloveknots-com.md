@@ -4,8 +4,8 @@ slug: eyeloveknots-com
 title: Is eyeloveknots.com Legit? Trust Score 76/100
 description: >-
   eyeloveknots.com scores 76/100 on our public trust checks. Established domain
-  — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:45:22.646Z'
+  — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:31:00.078Z'
 finalUrl: 'https://eyeloveknots.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.2 years ago.
+    - Established domain — registered 8.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-14'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2018-04-05'
-      ageDays: 3002
-      ageYears: 8.2
-    detail: Registered 8.2 years ago (2018-04-05).
+      ageDays: 3041
+      ageYears: 8.3
+    detail: Registered 8.3 years ago (2018-04-05).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eyeloveknots.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eyeloveknots.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eyeloveknots in the score above.
 

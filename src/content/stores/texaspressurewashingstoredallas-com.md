@@ -4,8 +4,8 @@ slug: texaspressurewashingstoredallas-com
 title: Is texaspressurewashingstoredallas.com Legit? Score 100/100
 description: >-
   texaspressurewashingstoredallas.com scores 100/100 on our public trust checks.
-  Established domain — registered 3.1 years ago.
-fetchedAt: '2026-06-25T12:08:19.345Z'
+  Established domain — registered 3.2 years ago.
+fetchedAt: '2026-08-10T06:17:52.316Z'
 finalUrl: 'https://texaspressurewashingstoredallas.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.1 years ago.
+    - Established domain — registered 3.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-06-03'
-      ageDays: 1117
-      ageYears: 3.1
-    detail: Registered 3.1 years ago (2023-06-03).
+      ageDays: 1163
+      ageYears: 3.2
+    detail: Registered 3.2 years ago (2023-06-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-texaspressurewashingstoredallas.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+texaspressurewashingstoredallas.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Texaspressurewashingstoredallas in the score above.
 

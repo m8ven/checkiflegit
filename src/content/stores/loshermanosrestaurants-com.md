@@ -4,9 +4,9 @@ slug: loshermanosrestaurants-com
 title: Is loshermanosrestaurants.com Legit? Trust Score 100/100
 description: >-
   loshermanosrestaurants.com scores 100/100 on our public trust checks.
-  Established domain — registered 4 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 4.1 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:34:48.248Z'
+fetchedAt: '2026-07-27T08:22:34.524Z'
 finalUrl: 'https://loshermanosrestaurants.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4 years ago.
+    - Established domain — registered 4.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-26'
-      daysToExpiry: 185
+      daysToExpiry: 153
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2022-06-25'
-      ageDays: 1460
-      ageYears: 4
-    detail: Registered 4 years ago (2022-06-25).
+      ageDays: 1492
+      ageYears: 4.1
+    detail: Registered 4.1 years ago (2022-06-25).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-loshermanosrestaurants.com looks like a well-established store. The clearest positives are that its domain has been registered for 4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+loshermanosrestaurants.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Loshermanosrestaurants in the score above.
 

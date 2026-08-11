@@ -4,8 +4,8 @@ slug: borisuns-com
 title: Is borisuns.com Legit? Trust Score 73/100
 description: >-
   borisuns.com scores 73/100 on our public trust checks. Established domain —
-  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:59:09.489Z'
+  registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:05:59.064Z'
 finalUrl: 'https://www.borisuns.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.6 years ago.
+    - Established domain — registered 4.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 27
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-11-12'
-      ageDays: 1685
-      ageYears: 4.6
-    detail: Registered 4.6 years ago (2021-11-12).
+      ageDays: 1725
+      ageYears: 4.7
+    detail: Registered 4.7 years ago (2021-11-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-borisuns.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+borisuns.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Borisuns in the score above.
 

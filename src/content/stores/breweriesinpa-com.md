@@ -1,11 +1,11 @@
 ---
 domain: breweriesinpa.com
 slug: breweriesinpa-com
-title: Is breweriesinpa.com Legit? Trust Score 88/100
+title: Is breweriesinpa.com Legit? Trust Score 70/100
 description: >-
-  breweriesinpa.com scores 88/100 on our public trust checks. Established domain
-  — registered 10.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:26.172Z'
+  breweriesinpa.com scores 70/100 on our public trust checks. Established domain
+  — registered 10.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:42.164Z'
 finalUrl: 'https://breweriesinpa.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.4 years ago.
+    - Established domain — registered 10.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  redFlags:
+    - Standard contact and policy pages were not found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: fail
     value:
       contact: false
       privacy: false
       terms: false
-      refund: true
+      refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-17'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-02-04'
-      ageDays: 3793
-      ageYears: 10.4
-    detail: Registered 10.4 years ago (2016-02-04).
+      ageDays: 3825
+      ageYears: 10.5
+    detail: Registered 10.5 years ago (2016-02-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-breweriesinpa.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+breweriesinpa.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.5 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Breweriesinpa in the score above.
 

@@ -4,8 +4,8 @@ slug: tribus-group-nl
 title: Is tribus-group.nl Legit? Trust Score 88/100
 description: >-
   tribus-group.nl scores 88/100 on our public trust checks. Established domain —
-  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:47.778Z'
+  registered 1.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:52.177Z'
 finalUrl: 'https://tribus-group.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.3 years ago.
+    - Established domain — registered 1.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -48,8 +48,8 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
-      refund: true
+      terms: true
+      refund: false
       shipping: false
     detail: Found 1 policy page(s) and a contact page.
   ssl:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-02'
-      daysToExpiry: 100
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2025-03-07'
-      ageDays: 475
-      ageYears: 1.3
-    detail: Registered 1.3 years ago (2025-03-07).
+      ageDays: 507
+      ageYears: 1.4
+    detail: Registered 1.4 years ago (2025-03-07).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tribus-group.nl looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tribus-group.nl looks like a well-established store. The clearest positives are that its domain has been registered for 1.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tribus-group in the score above.
 

@@ -3,9 +3,9 @@ domain: crucecontemporaneo.org
 slug: crucecontemporaneo-org
 title: Is crucecontemporaneo.org Legit? Trust Score 100/100
 description: >-
-  crucecontemporaneo.org scores 100/100 on our public trust checks. Established
-  domain — registered 8.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:31:17.069Z'
+  crucecontemporaneo.org scores 100/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:19:17.063Z'
 finalUrl: 'https://crucecontemporaneo.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,6 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +56,13 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: pass
-    value:
-      createdAt: '2017-10-04'
-      ageDays: 3185
-      ageYears: 8.7
-    detail: Registered 8.7 years ago (2017-10-04).
+    status: unknown
+    value: null
+    detail: Creation date not present in WHOIS record.
   contact:
     status: pass
     value:
@@ -95,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-crucecontemporaneo.org looks like a well-established store. The clearest positives are that its domain has been registered for 8.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+crucecontemporaneo.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Crucecontemporaneo in the score above.
 

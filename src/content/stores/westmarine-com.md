@@ -1,11 +1,11 @@
 ---
 domain: westmarine.com
 slug: westmarine-com
-title: Is westmarine.com Legit? Trust Score 88/100
+title: Is westmarine.com Legit? Trust Score 100/100
 description: >-
-  westmarine.com scores 88/100 on our public trust checks. Established domain —
-  registered 30.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:17.371Z'
+  westmarine.com scores 100/100 on our public trust checks. Established domain —
+  registered 30.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:41.663Z'
 finalUrl: 'https://www.westmarine.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 30.5 years ago.
+    - Established domain — registered 30.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-08-11'
-      daysToExpiry: 49
+      daysToExpiry: 16
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '1996-01-11'
-      ageDays: 11122
-      ageYears: 30.5
-    detail: Registered 30.5 years ago (1996-01-11).
+      ageDays: 11155
+      ageYears: 30.6
+    detail: Registered 30.6 years ago (1996-01-11).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-westmarine.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+westmarine.com looks like a well-established store. The clearest positives are that its domain has been registered for 30.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Westmarine in the score above.
 

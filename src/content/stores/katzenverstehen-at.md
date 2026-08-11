@@ -5,7 +5,7 @@ title: Is katzenverstehen.at Legit? Trust Score 31/100
 description: >-
   katzenverstehen.at scores 31/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T12:25:25.409Z'
+fetchedAt: '2026-08-10T06:31:39.738Z'
 finalUrl: 'https://www.katzenverstehen.at/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-11-05'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

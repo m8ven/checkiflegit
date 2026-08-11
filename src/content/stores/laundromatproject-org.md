@@ -4,8 +4,8 @@ slug: laundromatproject-org
 title: Is laundromatproject.org Legit? Trust Score 88/100
 description: >-
   laundromatproject.org scores 88/100 on our public trust checks. Established
-  domain — registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:33:53.478Z'
+  domain — registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:21:48.495Z'
 finalUrl: 'https://laundromatproject.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.6 years ago.
+    - Established domain — registered 21.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-15'
-      daysToExpiry: 83
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2004-11-29'
-      ageDays: 7877
-      ageYears: 21.6
-    detail: Registered 21.6 years ago (2004-11-29).
+      ageDays: 7909
+      ageYears: 21.7
+    detail: Registered 21.7 years ago (2004-11-29).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-laundromatproject.org looks like a well-established store. The clearest positives are that its domain has been registered for 21.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+laundromatproject.org looks like a well-established store. The clearest positives are that its domain has been registered for 21.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Laundromatproject in the score above.
 

@@ -5,7 +5,7 @@ title: Is rooky.de Legit? Trust Score 14/100 — Proceed With Caution
 description: >-
   rooky.de scores 14/100 on our public trust checks. Standard contact and policy
   pages were not found. No public contact details detected on the homepage.
-fetchedAt: '2026-06-25T11:58:53.280Z'
+fetchedAt: '2026-08-10T06:10:05.652Z'
 finalUrl: 'https://rooky.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-14'
-      daysToExpiry: 235
+      daysToExpiry: 189
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

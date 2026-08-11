@@ -4,8 +4,8 @@ slug: indexacademic-ro
 title: Is indexacademic.ro Legit? Trust Score 100/100
 description: >-
   indexacademic.ro scores 100/100 on our public trust checks. Established domain
-  — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:21:06.071Z'
+  — registered 3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:28:13.275Z'
 finalUrl: 'https://www.indexacademic.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.9 years ago.
+    - Established domain — registered 3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-08-15'
-      ageDays: 1045
-      ageYears: 2.9
-    detail: Registered 2.9 years ago (2023-08-15).
+      ageDays: 1091
+      ageYears: 3
+    detail: Registered 3 years ago (2023-08-15).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-indexacademic.ro looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+indexacademic.ro looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Indexacademic in the score above.
 

@@ -5,7 +5,7 @@ title: Is epitoanyagvasarlas.hu Legit? Trust Score 57/100
 description: >-
   epitoanyagvasarlas.hu scores 57/100 on our public trust checks. Standard
   contact and policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:29.021Z'
+fetchedAt: '2026-07-27T08:16:42.988Z'
 finalUrl: 'https://epitoanyagvasarlas.hu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

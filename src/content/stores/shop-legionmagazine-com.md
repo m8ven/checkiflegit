@@ -5,7 +5,7 @@ title: Is shop.legionmagazine.com Legit? Trust Score 83/100
 description: >-
   shop.legionmagazine.com scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:03.514Z'
+fetchedAt: '2026-07-27T08:31:26.259Z'
 finalUrl: 'https://shop.legionmagazine.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

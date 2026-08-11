@@ -5,7 +5,7 @@ title: Is alapupe.com.ar Legit? Trust Score 83/100
 description: >-
   alapupe.com.ar scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:39:21.628Z'
+fetchedAt: '2026-07-27T08:26:22.339Z'
 finalUrl: 'https://alapupe.com.ar/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-05'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

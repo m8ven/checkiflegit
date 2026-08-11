@@ -5,7 +5,7 @@ title: Is goodcover.eu Legit? Trust Score 100/100
 description: >-
   goodcover.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:29:16.813Z'
+fetchedAt: '2026-07-27T08:18:16.699Z'
 finalUrl: 'https://goodcover.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-05'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

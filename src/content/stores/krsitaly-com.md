@@ -4,8 +4,8 @@ slug: krsitaly-com
 title: Is krsitaly.com Legit? Trust Score 100/100
 description: >-
   krsitaly.com scores 100/100 on our public trust checks. Established domain —
-  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:49:07.156Z'
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:03:46.479Z'
 finalUrl: 'https://krsitaly.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.2 years ago.
+    - Established domain — registered 3.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-08'
-      daysToExpiry: 76
+      validTo: '2026-10-01'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-04-27'
-      ageDays: 1154
-      ageYears: 3.2
-    detail: Registered 3.2 years ago (2023-04-27).
+      ageDays: 1200
+      ageYears: 3.3
+    detail: Registered 3.3 years ago (2023-04-27).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-krsitaly.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+krsitaly.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Krsitaly in the score above.
 

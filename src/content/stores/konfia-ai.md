@@ -1,11 +1,11 @@
 ---
 domain: konfia.ai
 slug: konfia-ai
-title: Is konfia.ai Legit? Trust Score 70/100 — Trust Checks Pass
+title: Is konfia.ai Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
-  konfia.ai scores 70/100 on our public trust checks. Established domain —
-  registered 1.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:46:34.787Z'
+  konfia.ai scores 82/100 on our public trust checks. Established domain —
+  registered 1.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:31:43.038Z'
 finalUrl: 'https://konfia.ai/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.2 years ago.
+    - Established domain — registered 1.3 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Public business contact details are listed.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
     - Limited social media presence.
 signals:
   http:
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-10'
-      daysToExpiry: 108
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2025-04-10'
-      ageDays: 440
-      ageYears: 1.2
-    detail: Registered 1.2 years ago (2025-04-10).
+      ageDays: 480
+      ageYears: 1.3
+    detail: Registered 1.3 years ago (2025-04-10).
   contact:
-    status: warn
+    status: pass
     value:
       email: true
       phone: false
-      address: false
-    detail: 'Public contact details found: email.'
+      address: true
+    detail: 'Public contact details found: email, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-konfia.ai looks like a well-established store. The clearest positives are that its domain has been registered for 1.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+konfia.ai looks like a well-established store. The clearest positives are that its domain has been registered for 1.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Konfia in the score above.
 

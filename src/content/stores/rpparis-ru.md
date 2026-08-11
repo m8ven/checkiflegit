@@ -1,11 +1,11 @@
 ---
 domain: rpparis.ru
 slug: rpparis-ru
-title: Is rpparis.ru Legit? Trust Score 82/100 — Trust Checks Pass
+title: Is rpparis.ru Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
-  rpparis.ru scores 82/100 on our public trust checks. Established domain —
-  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:59:14.484Z'
+  rpparis.ru scores 85/100 on our public trust checks. Established domain —
+  registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:10:24.180Z'
 finalUrl: 'https://rpparis.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.4 years ago.
+    - Established domain — registered 2.5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Limited social media presence.
+  redFlags:
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
-      contact: false
+      contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      shipping: true
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 31
+      validTo: '2026-09-25'
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-02-16'
-      ageDays: 860
-      ageYears: 2.4
-    detail: Registered 2.4 years ago (2024-02-16).
+      ageDays: 905
+      ageYears: 2.5
+    detail: Registered 2.5 years ago (2024-02-16).
   contact:
     status: pass
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: 'Public contact details found: email, phone.'
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
-      instagram: true
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-rpparis.ru looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+rpparis.ru looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Rpparis in the score above.
 

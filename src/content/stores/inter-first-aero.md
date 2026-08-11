@@ -5,7 +5,7 @@ title: Is inter-first.aero Legit? Trust Score 61/100
 description: >-
   inter-first.aero scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T03:47:08.317Z'
+fetchedAt: '2026-08-03T08:32:06.713Z'
 finalUrl: 'https://inter-first.aero/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.4 years ago.
+    - Established domain — registered 21.5 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-28'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-02-10'
-      ageDays: 7804
-      ageYears: 21.4
-    detail: Registered 21.4 years ago (2005-02-10).
+      ageDays: 7843
+      ageYears: 21.5
+    detail: Registered 21.5 years ago (2005-02-10).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-inter-first.aero sends a mixed set of signals. On the positive side, its domain has been registered for 21.4 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+inter-first.aero sends a mixed set of signals. On the positive side, its domain has been registered for 21.5 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Inter-first in the score above.
 

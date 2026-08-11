@@ -4,8 +4,8 @@ slug: cinartas-com
 title: Is cinartas.com Legit? Trust Score 73/100
 description: >-
   cinartas.com scores 73/100 on our public trust checks. Established domain —
-  registered 23 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:09.917Z'
+  registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:23.113Z'
 finalUrl: 'https://cinartas.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 23 years ago.
+    - Established domain — registered 23.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-21'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-06-18'
-      ageDays: 8407
-      ageYears: 23
-    detail: Registered 23 years ago (2003-06-18).
+      ageDays: 8439
+      ageYears: 23.1
+    detail: Registered 23.1 years ago (2003-06-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cinartas.com looks like a well-established store. The clearest positives are that its domain has been registered for 23 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cinartas.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cinartas in the score above.
 

@@ -5,7 +5,7 @@ title: Is moola.com.tr Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   moola.com.tr scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:56:05.161Z'
+fetchedAt: '2026-08-10T06:06:04.480Z'
 finalUrl: 'https://moola.com.tr/'
 reachable: true
 noindex: false
@@ -39,24 +39,24 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: false
-        hasCatalog: false
+        hasCatalog: true
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: warn
     value:
-      contact: true
+      contact: false
       privacy: false
       terms: false
       refund: false
       shipping: true
-    detail: Found 1 policy page(s) and a contact page.
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -74,13 +74,13 @@ signals:
     status: pass
     value:
       facebook: true
-      instagram: true
+      instagram: false
       twitter: true
       tiktok: false
       youtube: false
       linkedin: false
-      pinterest: false
-    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
+      pinterest: true
+    detail: 'Links to 3 social platform(s): facebook, twitter, pinterest.'
   reviews:
     status: unknown
     value:

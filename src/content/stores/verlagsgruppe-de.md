@@ -5,7 +5,7 @@ title: Is verlagsgruppe.de Legit? Trust Score 61/100
 description: >-
   verlagsgruppe.de scores 61/100 on our public trust checks. No links to major
   social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:33:01.881Z'
+fetchedAt: '2026-08-10T06:38:08.760Z'
 finalUrl: 'https://www.verlagsgruppe.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-01-18'
-      daysToExpiry: 208
+      daysToExpiry: 162
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

@@ -5,7 +5,7 @@ title: Is grosser.wine Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   grosser.wine scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:50:01.214Z'
+fetchedAt: '2026-08-03T08:34:26.476Z'
 finalUrl: 'https://grosser.wine/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-09-23'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

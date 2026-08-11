@@ -4,8 +4,8 @@ slug: tropeo-com
 title: Is tropeo.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   tropeo.com scores 70/100 on our public trust checks. Established domain —
-  registered 9.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:23:27.407Z'
+  registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:12:47.824Z'
 finalUrl: 'https://www.tropeo.com/en/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.5 years ago.
+    - Established domain — registered 9.6 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -47,26 +47,26 @@ signals:
     status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-25'
-      daysToExpiry: 31
+      validTo: '2026-10-09'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-12-12'
-      ageDays: 3481
-      ageYears: 9.5
-    detail: Registered 9.5 years ago (2016-12-12).
+      ageDays: 3520
+      ageYears: 9.6
+    detail: Registered 9.6 years ago (2016-12-12).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-tropeo.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+tropeo.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Tropeo in the score above.
 

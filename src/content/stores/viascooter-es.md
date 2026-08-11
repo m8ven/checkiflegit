@@ -6,7 +6,7 @@ description: >-
   viascooter.es scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T12:18:17.369Z'
+fetchedAt: '2026-08-10T06:26:09.198Z'
 finalUrl: 'https://viascooter.es/'
 reachable: true
 noindex: false
@@ -50,14 +50,14 @@ signals:
       privacy: false
       terms: true
       refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      shipping: true
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

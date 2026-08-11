@@ -5,7 +5,7 @@ title: Is greemos.com.ar Legit? Trust Score 83/100
 description: >-
   greemos.com.ar scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:35:57.358Z'
+fetchedAt: '2026-07-27T08:23:38.228Z'
 finalUrl: 'https://greemos.com.ar/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-08'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

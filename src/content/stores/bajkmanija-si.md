@@ -5,7 +5,7 @@ title: Is bajkmanija.si Legit? Trust Score 70/100
 description: >-
   bajkmanija.si scores 70/100 on our public trust checks. Established domain —
   registered 15.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:06.315Z'
+fetchedAt: '2026-07-27T08:38:44.184Z'
 finalUrl: 'https://www.bajkmanija.si/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-09'
-      daysToExpiry: 138
+      daysToExpiry: 106
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2010-09-26'
-      ageDays: 5751
+      ageDays: 5783
       ageYears: 15.8
     detail: Registered 15.8 years ago (2010-09-26).
   contact:

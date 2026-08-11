@@ -5,7 +5,7 @@ title: Is jackjones.in Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   jackjones.in scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:41.164Z'
+fetchedAt: '2026-07-27T08:07:08.379Z'
 finalUrl: 'https://www.jackjones.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

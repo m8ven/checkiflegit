@@ -5,7 +5,7 @@ title: Is ntoulas.gr Legit? Trust Score 83/100 — Trust Checks Pass
 description: >-
   ntoulas.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:39:13.086Z'
+fetchedAt: '2026-07-27T08:26:10.530Z'
 finalUrl: 'https://ntoulas.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

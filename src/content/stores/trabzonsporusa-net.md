@@ -4,8 +4,8 @@ slug: trabzonsporusa-net
 title: Is trabzonsporusa.net Legit? Trust Score 76/100
 description: >-
   trabzonsporusa.net scores 76/100 on our public trust checks. Established
-  domain — registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:28:35.894Z'
+  domain — registered 15.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:42.567Z'
 finalUrl: 'https://www.trabzonsporusa.net/'
 reachable: true
 noindex: false
@@ -17,8 +17,7 @@ verdict:
     secure payment methods when shopping online.
   score: 76
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.5 years ago.
+    - Established domain — registered 15.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://www.trabzonsporusa.net/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
@@ -55,18 +54,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      issuer: Google Trust Services
+      validTo: '2026-09-30'
+      daysToExpiry: 52
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2011-01-14'
-      ageDays: 5640
-      ageYears: 15.5
-    detail: Registered 15.5 years ago (2011-01-14).
+      ageDays: 5686
+      ageYears: 15.6
+    detail: Registered 15.6 years ago (2011-01-14).
   contact:
     status: warn
     value:
@@ -97,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-trabzonsporusa.net looks like a well-established store. The clearest positives are that its domain has been registered for 15.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+trabzonsporusa.net looks like a well-established store. The clearest positives are that its domain has been registered for 15.6 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Trabzonsporusa in the score above.
 

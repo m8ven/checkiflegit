@@ -4,8 +4,8 @@ slug: association-ar-ru
 title: Is association-ar.ru Legit? Trust Score 73/100
 description: >-
   association-ar.ru scores 73/100 on our public trust checks. Established domain
-  — registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:34:59.009Z'
+  — registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:21:51.166Z'
 finalUrl: 'https://association-ar.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.3 years ago.
+    - Established domain — registered 7.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 45
+      validTo: '2026-10-09'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-02-25'
-      ageDays: 2676
-      ageYears: 7.3
-    detail: Registered 7.3 years ago (2019-02-25).
+      ageDays: 2715
+      ageYears: 7.4
+    detail: Registered 7.4 years ago (2019-02-25).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-association-ar.ru looks like a well-established store. The clearest positives are that its domain has been registered for 7.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+association-ar.ru looks like a well-established store. The clearest positives are that its domain has been registered for 7.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Association-ar in the score above.
 

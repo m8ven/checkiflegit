@@ -1,72 +1,72 @@
 ---
 domain: trendsfollowers.com
 slug: trendsfollowers-com
-title: Is trendsfollowers.com Legit? Trust Score 46/100
+title: Is trendsfollowers.com Legit? Trust Score 0/100
 description: >-
-  trendsfollowers.com scores 46/100 on our public trust checks. No public
-  contact details detected on the homepage. Domain is relatively young.
-fetchedAt: '2026-06-25T12:06:48.446Z'
-finalUrl: 'https://trendsfollowers.com/'
+  trendsfollowers.com scores 0/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure.
+fetchedAt: '2026-08-10T06:16:29.763Z'
+finalUrl: 'http://trendsfollowers.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 46
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 0
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Established domain — registered 1.1 years ago.
   redFlags:
+    - No valid SSL certificate — connection may not be secure.
+    - Standard contact and policy pages were not found.
     - No public contact details detected on the homepage.
-  cautions:
-    - Domain is relatively young.
-    - Limited social media presence.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://trendsfollowers.com/'
+      finalUrl: 'http://trendsfollowers.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
-        hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasAddToCart: false
+        hasCartLink: false
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: pass
+    status: fail
     value:
-      contact: true
-      privacy: true
-      terms: true
-      refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      contact: false
+      privacy: false
+      terms: false
+      refund: false
+      shipping: false
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
-    status: pass
-    value:
-      issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 35
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    status: fail
+    value: null
+    detail: >
+      TLS connection failed: 80DCCA39DD7F0000:error:0A000438:SSL
+      routines:ssl3_read_bytes:tlsv1 alert internal
+      error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1601:SSL alert
+      number 80
   domainAge:
-    status: warn
+    status: pass
     value:
       createdAt: '2025-07-05'
-      ageDays: 355
-      ageYears: 1
-    detail: Registered 1 years ago (2025-07-05).
+      ageDays: 400
+      ageYears: 1.1
+    detail: Registered 1.1 years ago (2025-07-05).
   contact:
     status: fail
     value:
@@ -75,16 +75,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
-      instagram: true
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-trendsfollowers.com sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and there are no clear public contact details — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for trendsfollowers.com. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 1.1 years — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Trendsfollowers in the score above.
 

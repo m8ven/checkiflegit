@@ -5,7 +5,7 @@ title: Is vitaminasdelsalvador.com Legit? Trust Score 61/100
 description: >-
   vitaminasdelsalvador.com scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:49:49.824Z'
+fetchedAt: '2026-07-27T08:35:57.099Z'
 finalUrl: 'https://vitaminasdelsalvador.com/'
 reachable: true
 noindex: false
@@ -48,23 +48,23 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: true
+      terms: false
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-04-30'
-      ageDays: 4438
+      ageDays: 4471
       ageYears: 12.2
     detail: Registered 12.2 years ago (2014-04-30).
   contact:

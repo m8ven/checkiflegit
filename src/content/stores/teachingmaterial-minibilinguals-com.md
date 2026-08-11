@@ -5,7 +5,7 @@ title: Is teachingmaterial.minibilinguals.com Legit? Score 57/100
 description: >-
   teachingmaterial.minibilinguals.com scores 57/100 on our public trust checks.
   No public contact details detected on the homepage.
-fetchedAt: '2026-06-25T12:05:40.472Z'
+fetchedAt: '2026-08-10T06:15:26.971Z'
 finalUrl: 'https://teachingmaterial.minibilinguals.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-03'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

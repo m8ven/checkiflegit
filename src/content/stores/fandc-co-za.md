@@ -5,7 +5,7 @@ title: Is fandc.co.za Legit? Trust Score 100/100
 description: >-
   fandc.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:30:29.316Z'
+fetchedAt: '2026-08-10T06:35:59.914Z'
 finalUrl: 'https://www.fandc.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-19'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

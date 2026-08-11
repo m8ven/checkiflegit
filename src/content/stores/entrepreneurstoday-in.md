@@ -5,7 +5,7 @@ title: Is entrepreneurstoday.in Legit? Trust Score 100/100
 description: >-
   entrepreneurstoday.in scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:25.581Z'
+fetchedAt: '2026-07-27T08:16:39.701Z'
 finalUrl: 'https://entrepreneurstoday.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-30'
-      daysToExpiry: 67
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

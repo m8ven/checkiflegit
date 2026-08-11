@@ -5,7 +5,7 @@ title: Is arbeidsfolk.no Legit? Trust Score 88/100
 description: >-
   arbeidsfolk.no scores 88/100 on our public trust checks. Established domain —
   registered 15.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:45:32.484Z'
+fetchedAt: '2026-07-27T08:31:48.823Z'
 finalUrl: 'https://arbeidsfolk.no/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-14'
-      daysToExpiry: 20
+      validTo: '2026-09-23'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-05-05'
-      ageDays: 5530
+      ageDays: 5562
       ageYears: 15.2
     detail: Registered 15.2 years ago (2011-05-05).
   contact:

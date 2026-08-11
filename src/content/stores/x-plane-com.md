@@ -4,8 +4,8 @@ slug: x-plane-com
 title: Is x-plane.com Legit? Trust Score 100/100
 description: >-
   x-plane.com scores 100/100 on our public trust checks. Established domain —
-  registered 29.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:21.639Z'
+  registered 30 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:30.979Z'
 finalUrl: 'https://www.x-plane.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.9 years ago.
+    - Established domain — registered 30 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: false
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1996-08-09'
-      ageDays: 10911
-      ageYears: 29.9
-    detail: Registered 29.9 years ago (1996-08-09).
+      ageDays: 10944
+      ageYears: 30
+    detail: Registered 30 years ago (1996-08-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-x-plane.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+x-plane.com looks like a well-established store. The clearest positives are that its domain has been registered for 30 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against X-plane in the score above.
 

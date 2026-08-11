@@ -4,8 +4,8 @@ slug: bryggol-no
 title: Is bryggol.no Legit? Trust Score 76/100 — Trust Checks Pass
 description: >-
   bryggol.no scores 76/100 on our public trust checks. Established domain —
-  registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:36.218Z'
+  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:53.671Z'
 finalUrl: 'https://bryggol.no/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.8 years ago.
+    - Established domain — registered 2.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2023-09-15'
-      ageDays: 1014
-      ageYears: 2.8
-    detail: Registered 2.8 years ago (2023-09-15).
+      ageDays: 1046
+      ageYears: 2.9
+    detail: Registered 2.9 years ago (2023-09-15).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bryggol.no looks like a well-established store. The clearest positives are that its domain has been registered for 2.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bryggol.no looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bryggol in the score above.
 

@@ -5,7 +5,7 @@ title: Is casalopes.com.br Legit? Trust Score 66/100
 description: >-
   casalopes.com.br scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:28:13.011Z'
+fetchedAt: '2026-07-27T08:17:22.461Z'
 finalUrl: 'https://casalopes.com.br/'
 reachable: true
 noindex: false
@@ -49,14 +49,14 @@ signals:
       privacy: false
       terms: true
       refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      shipping: true
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -4,8 +4,8 @@ slug: notesniki-si
 title: Is notesniki.si Legit? Trust Score 82/100
 description: >-
   notesniki.si scores 82/100 on our public trust checks. Established domain —
-  registered 21.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:57:39.720Z'
+  registered 21.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:04.908Z'
 finalUrl: 'https://notesniki.si/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.2 years ago.
+    - Established domain — registered 21.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-04-04'
-      ageDays: 7752
-      ageYears: 21.2
-    detail: Registered 21.2 years ago (2005-04-04).
+      ageDays: 7798
+      ageYears: 21.4
+    detail: Registered 21.4 years ago (2005-04-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-notesniki.si looks like a well-established store. The clearest positives are that its domain has been registered for 21.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+notesniki.si looks like a well-established store. The clearest positives are that its domain has been registered for 21.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Notesniki in the score above.
 

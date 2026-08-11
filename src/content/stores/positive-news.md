@@ -5,7 +5,7 @@ title: Is positive.news Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   positive.news scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:15.820Z'
+fetchedAt: '2026-08-03T08:15:05.583Z'
 finalUrl: 'https://www.positive.news/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-26'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

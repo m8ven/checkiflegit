@@ -5,7 +5,7 @@ title: Is jakartapiranti.id Legit? Trust Score 88/100
 description: >-
   jakartapiranti.id scores 88/100 on our public trust checks. Established domain
   — registered 8.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:56.920Z'
+fetchedAt: '2026-07-27T08:25:58.093Z'
 finalUrl: 'https://jakartapiranti.id/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-12-04'
-      ageDays: 3124
+      ageDays: 3156
       ageYears: 8.6
     detail: Registered 8.6 years ago (2017-12-04).
   contact:

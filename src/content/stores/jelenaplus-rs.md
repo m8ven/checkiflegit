@@ -5,7 +5,7 @@ title: Is jelenaplus.rs Legit? Trust Score 83/100
 description: >-
   jelenaplus.rs scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:21:21.001Z'
+fetchedAt: '2026-08-10T06:28:34.656Z'
 finalUrl: 'http://www.jelenaplus.rs/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

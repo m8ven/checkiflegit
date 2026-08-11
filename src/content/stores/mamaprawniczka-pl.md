@@ -1,11 +1,11 @@
 ---
 domain: mamaprawniczka.pl
 slug: mamaprawniczka-pl
-title: Is mamaprawniczka.pl Legit? Trust Score 83/100
+title: Is mamaprawniczka.pl Legit? Trust Score 100/100
 description: >-
-  mamaprawniczka.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:43:10.269Z'
+  mamaprawniczka.pl scores 100/100 on our public trust checks. Established
+  domain — registered 9.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:29:23.000Z'
 finalUrl: 'https://mamaprawniczka.pl/'
 reachable: true
 noindex: false
@@ -15,15 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 9.6 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -43,26 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2026-10-25'
-      daysToExpiry: 123
+      daysToExpiry: 91
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2016-12-14'
+      ageDays: 3511
+      ageYears: 9.6
+    detail: Registered 9.6 years ago (2016-12-14).
   contact:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mamaprawniczka.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mamaprawniczka.pl looks like a well-established store. The clearest positives are that its domain has been registered for 9.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mamaprawniczka in the score above.
 

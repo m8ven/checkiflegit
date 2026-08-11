@@ -5,7 +5,7 @@ title: Is paperboutique.co Legit? Trust Score 91/100
 description: >-
   paperboutique.co scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:57:34.241Z'
+fetchedAt: '2026-08-10T06:09:02.981Z'
 finalUrl: 'https://paperboutique.co/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 48
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

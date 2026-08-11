@@ -5,7 +5,7 @@ title: Is mojocollections.co.za Legit? Trust Score 100/100
 description: >-
   mojocollections.co.za scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:37:16.929Z'
+fetchedAt: '2026-07-27T08:24:43.542Z'
 finalUrl: 'https://mojocollections.co.za/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

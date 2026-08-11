@@ -4,8 +4,8 @@ slug: laselvadepapel-com
 title: Is laselvadepapel.com Legit? Trust Score 100/100
 description: >-
   laselvadepapel.com scores 100/100 on our public trust checks. Established
-  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:10:05.260Z'
+  domain — registered 5.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:19:20.052Z'
 finalUrl: 'https://laselvadepapel.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.6 years ago.
+    - Established domain — registered 5.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,31 +49,31 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
-      validTo: '2026-07-21'
-      daysToExpiry: 27
+      validTo: '2027-01-18'
+      daysToExpiry: 162
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2020-11-25'
-      ageDays: 2037
-      ageYears: 5.6
-    detail: Registered 5.6 years ago (2020-11-25).
+      ageDays: 2083
+      ageYears: 5.7
+    detail: Registered 5.7 years ago (2020-11-25).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-laselvadepapel.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+laselvadepapel.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Laselvadepapel in the score above.
 

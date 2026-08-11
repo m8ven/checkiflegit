@@ -5,7 +5,7 @@ title: Is onyxgallery.co.il Legit? Trust Score 100/100
 description: >-
   onyxgallery.co.il scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:22:51.137Z'
+fetchedAt: '2026-08-03T08:12:25.776Z'
 finalUrl: 'https://onyxgallery.co.il/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-21'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

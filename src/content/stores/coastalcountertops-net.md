@@ -5,7 +5,7 @@ title: Is coastalcountertops.net Legit? Trust Score 88/100
 description: >-
   coastalcountertops.net scores 88/100 on our public trust checks. Established
   domain — registered 4.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:27.398Z'
+fetchedAt: '2026-07-27T08:12:34.783Z'
 finalUrl: 'https://coastalcountertops.net/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-28'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-02-15'
-      ageDays: 1590
+      ageDays: 1622
       ageYears: 4.4
     detail: Registered 4.4 years ago (2022-02-15).
   contact:

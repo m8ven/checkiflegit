@@ -1,11 +1,11 @@
 ---
 domain: camdubois.com
 slug: camdubois-com
-title: Is camdubois.com Legit? Trust Score 88/100
+title: Is camdubois.com Legit? Trust Score 100/100
 description: >-
-  camdubois.com scores 88/100 on our public trust checks. Established domain —
-  registered 20.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:23:22.298Z'
+  camdubois.com scores 100/100 on our public trust checks. Established domain —
+  registered 20.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:12:44.299Z'
 finalUrl: 'https://camdubois.com/fr/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.8 years ago.
+    - Established domain — registered 20.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-18'
-      daysToExpiry: 86
+      validTo: '2026-10-18'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-09-07'
-      ageDays: 7595
-      ageYears: 20.8
-    detail: Registered 20.8 years ago (2005-09-07).
+      ageDays: 7634
+      ageYears: 20.9
+    detail: Registered 20.9 years ago (2005-09-07).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-camdubois.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+camdubois.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Camdubois in the score above.
 

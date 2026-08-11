@@ -4,8 +4,8 @@ slug: armeriacxt-com
 title: Is armeriacxt.com Legit? Trust Score 73/100
 description: >-
   armeriacxt.com scores 73/100 on our public trust checks. Established domain —
-  registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:19:38.131Z'
+  registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:10:42.155Z'
 finalUrl: 'https://armeriacxt.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.3 years ago.
+    - Established domain — registered 2.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-08'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-03-20'
-      ageDays: 826
-      ageYears: 2.3
-    detail: Registered 2.3 years ago (2024-03-20).
+      ageDays: 858
+      ageYears: 2.4
+    detail: Registered 2.4 years ago (2024-03-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-armeriacxt.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+armeriacxt.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Armeriacxt in the score above.
 

@@ -4,8 +4,8 @@ slug: alghaithcompany-com
 title: Is alghaithcompany.com Legit? Trust Score 94/100
 description: >-
   alghaithcompany.com scores 94/100 on our public trust checks. Established
-  domain — registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:45.463Z'
+  domain — registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:26:40.606Z'
 finalUrl: 'https://alghaith.co/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.7 years ago.
+    - Established domain — registered 3.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      issuer: Google Trust Services
+      validTo: '2026-10-05'
+      daysToExpiry: 70
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-10-25'
-      ageDays: 1338
-      ageYears: 3.7
-    detail: Registered 3.7 years ago (2022-10-25).
+      ageDays: 1370
+      ageYears: 3.8
+    detail: Registered 3.8 years ago (2022-10-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-alghaithcompany.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.7 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+alghaithcompany.com looks like a well-established store. The clearest positives are that its domain has been registered for 3.8 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Alghaithcompany in the score above.
 

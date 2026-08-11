@@ -5,7 +5,7 @@ title: Is martinezluna.es Legit? Trust Score 74/100
 description: >-
   martinezluna.es scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:50:24.875Z'
+fetchedAt: '2026-07-27T08:36:19.471Z'
 finalUrl: 'https://martinezluna.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: liveupresources-com
 title: Is liveupresources.com Legit? Trust Score 100/100
 description: >-
   liveupresources.com scores 100/100 on our public trust checks. Established
-  domain — registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:12:19.226Z'
+  domain — registered 8.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:20:56.034Z'
 finalUrl: 'https://liveupresources.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.2 years ago.
+    - Established domain — registered 8.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-04-10'
-      daysToExpiry: 290
+      daysToExpiry: 244
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2018-04-13'
-      ageDays: 2994
-      ageYears: 8.2
-    detail: Registered 8.2 years ago (2018-04-13).
+      ageDays: 3040
+      ageYears: 8.3
+    detail: Registered 8.3 years ago (2018-04-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-liveupresources.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+liveupresources.com looks like a well-established store. The clearest positives are that its domain has been registered for 8.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Liveupresources in the score above.
 

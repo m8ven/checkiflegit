@@ -4,8 +4,8 @@ slug: deepublishstore-com
 title: Is deepublishstore.com Legit? Trust Score 76/100
 description: >-
   deepublishstore.com scores 76/100 on our public trust checks. Established
-  domain — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:26.213Z'
+  domain — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:56.024Z'
 finalUrl: 'https://deepublishstore.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.7 years ago.
+    - Established domain — registered 4.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      issuer: Google Trust Services
+      validTo: '2026-09-20'
+      daysToExpiry: 56
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-10-06'
-      ageDays: 1722
-      ageYears: 4.7
-    detail: Registered 4.7 years ago (2021-10-06).
+      ageDays: 1754
+      ageYears: 4.8
+    detail: Registered 4.8 years ago (2021-10-06).
   contact:
     status: warn
     value:
@@ -80,11 +80,11 @@ signals:
       facebook: true
       instagram: true
       twitter: false
-      tiktok: true
+      tiktok: false
       youtube: true
       linkedin: false
       pinterest: false
-    detail: 'Links to 4 social platform(s): facebook, instagram, tiktok, youtube.'
+    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
   reviews:
     status: unknown
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-deepublishstore.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+deepublishstore.com looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Deepublishstore in the score above.
 

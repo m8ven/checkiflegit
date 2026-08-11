@@ -5,7 +5,7 @@ title: Is budynamieru.eu Legit? Trust Score 100/100
 description: >-
   budynamieru.eu scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:21:44.508Z'
+fetchedAt: '2026-07-27T08:12:01.991Z'
 finalUrl: 'https://budynamieru.eu/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-04'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

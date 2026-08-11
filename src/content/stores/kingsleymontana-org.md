@@ -5,7 +5,7 @@ title: Is kingsleymontana.org Legit? Trust Score 55/100
 description: >-
   kingsleymontana.org scores 55/100 on our public trust checks. Standard contact
   and policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:22:07.934Z'
+fetchedAt: '2026-08-10T06:29:17.803Z'
 finalUrl: 'https://www.kingsleymontana.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.4 years ago.
+    - Established domain — registered 1.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-02-06'
-      ageDays: 503
-      ageYears: 1.4
-    detail: Registered 1.4 years ago (2025-02-06).
+      ageDays: 549
+      ageYears: 1.5
+    detail: Registered 1.5 years ago (2025-02-06).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kingsleymontana.org sends a mixed set of signals. On the positive side, its domain has been registered for 1.4 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+kingsleymontana.org sends a mixed set of signals. On the positive side, its domain has been registered for 1.5 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kingsleymontana in the score above.
 

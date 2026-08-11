@@ -5,7 +5,7 @@ title: Is regine-rostalski.de Legit? Trust Score 83/100
 description: >-
   regine-rostalski.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:00:27.275Z'
+fetchedAt: '2026-08-10T06:11:24.067Z'
 finalUrl: 'https://regine-rostalski.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-06'
-      daysToExpiry: 135
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

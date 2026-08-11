@@ -4,8 +4,8 @@ slug: colbisagras-com
 title: Is colbisagras.com Legit? Trust Score 100/100
 description: >-
   colbisagras.com scores 100/100 on our public trust checks. Established domain
-  — registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:39:36.796Z'
+  — registered 18.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:39.692Z'
 finalUrl: 'https://colbisagras.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.3 years ago.
+    - Established domain — registered 18.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-03-17'
-      ageDays: 6673
-      ageYears: 18.3
-    detail: Registered 18.3 years ago (2008-03-17).
+      ageDays: 6719
+      ageYears: 18.4
+    detail: Registered 18.4 years ago (2008-03-17).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      address: false
+    detail: 'Public contact details found: email, phone.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-colbisagras.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+colbisagras.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Colbisagras in the score above.
 

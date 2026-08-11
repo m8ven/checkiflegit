@@ -4,8 +4,8 @@ slug: gurukripahospitals-com
 title: Is gurukripahospitals.com Legit? Trust Score 100/100
 description: >-
   gurukripahospitals.com scores 100/100 on our public trust checks. Established
-  domain — registered 5.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:33:09.925Z'
+  domain — registered 5.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:21:29.220Z'
 finalUrl: 'https://gurukripahospitals.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.5 years ago.
+    - Established domain — registered 5.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-12-23'
-      ageDays: 2009
-      ageYears: 5.5
-    detail: Registered 5.5 years ago (2020-12-23).
+      ageDays: 2041
+      ageYears: 5.6
+    detail: Registered 5.6 years ago (2020-12-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-gurukripahospitals.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+gurukripahospitals.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Gurukripahospitals in the score above.
 

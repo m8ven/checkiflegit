@@ -3,9 +3,9 @@ domain: aussiemaison.cz
 slug: aussiemaison-cz
 title: Is aussiemaison.cz Legit? Trust Score 57/100 — Mixed Signals
 description: >-
-  aussiemaison.cz scores 57/100 on our public trust checks. Standard contact and
-  policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:35.216Z'
+  aussiemaison.cz scores 57/100 on our public trust checks. No public contact
+  details detected on the homepage. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:00.466Z'
 finalUrl: 'https://aussiemaison.cz/'
 reachable: true
 noindex: false
@@ -17,12 +17,12 @@ verdict:
     present, but a few are missing — review the breakdown below before buying.
   score: 57
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
+    - 'Built on Shopify, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags:
-    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
   cautions: []
 signals:
   http:
@@ -34,29 +34,29 @@ signals:
   platform:
     status: pass
     value:
-      platform: WooCommerce
+      platform: Shopify
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: false
-        hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasCartLink: true
+        hasCatalog: true
+        hasCartFlow: true
+    detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
-    status: fail
+    status: pass
     value:
-      contact: false
-      privacy: false
-      terms: false
-      refund: false
+      contact: true
+      privacy: true
+      terms: true
+      refund: true
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-18'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -64,23 +64,23 @@ signals:
     value: null
     detail: Creation date not present in WHOIS record.
   contact:
-    status: pass
+    status: fail
     value:
-      email: true
-      phone: true
+      email: false
+      phone: false
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: pass
     value:
       facebook: true
       instagram: true
       twitter: false
-      tiktok: false
+      tiktok: true
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: 'Links to 3 social platform(s): facebook, instagram, tiktok.'
   reviews:
     status: unknown
     value:
@@ -91,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-aussiemaison.cz sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+aussiemaison.cz sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Aussiemaison in the score above.
 

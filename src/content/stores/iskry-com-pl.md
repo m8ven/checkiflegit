@@ -1,28 +1,29 @@
 ---
 domain: iskry.com.pl
 slug: iskry-com-pl
-title: Is iskry.com.pl Legit? Trust Score 66/100 — Mixed Signals
+title: Is iskry.com.pl Legit? Trust Score 88/100
 description: >-
-  iskry.com.pl scores 66/100 on our public trust checks. Some standard policy or
-  contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:31:07.175Z'
+  iskry.com.pl scores 88/100 on our public trust checks. Established domain —
+  registered 25.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:19:47.476Z'
 finalUrl: 'https://iskry.com.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 66
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 25.5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags: []
   cautions:
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
 signals:
   http:
@@ -43,26 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: nazwa.pl Sp. z o.o.
       validTo: '2026-09-29'
-      daysToExpiry: 96
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by nazwa.pl Sp. z o.o..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2001-02-13'
+      ageDays: 9294
+      ageYears: 25.5
+    detail: Registered 25.5 years ago (2001-02-13).
   contact:
     status: warn
     value:
@@ -93,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-iskry.com.pl sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+iskry.com.pl looks like a well-established store. The clearest positives are that its domain has been registered for 25.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Iskry in the score above.
 

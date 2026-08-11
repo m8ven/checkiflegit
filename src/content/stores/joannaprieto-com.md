@@ -5,7 +5,7 @@ title: Is joannaprieto.com Legit? Trust Score 58/100
 description: >-
   joannaprieto.com scores 58/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:47:36.421Z'
+fetchedAt: '2026-08-10T06:03:34.214Z'
 finalUrl: 'https://joannaprieto.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 58
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.7 years ago.
+    - Established domain — registered 14.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-16'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-09-28'
-      ageDays: 5383
-      ageYears: 14.7
-    detail: Registered 14.7 years ago (2011-09-28).
+      ageDays: 5429
+      ageYears: 14.9
+    detail: Registered 14.9 years ago (2011-09-28).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-joannaprieto.com sends a mixed set of signals. On the positive side, its domain has been registered for 14.7 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+joannaprieto.com sends a mixed set of signals. On the positive side, its domain has been registered for 14.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Joannaprieto in the score above.
 

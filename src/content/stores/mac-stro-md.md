@@ -4,8 +4,8 @@ slug: mac-stro-md
 title: Is mac-stro.md Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   mac-stro.md scores 82/100 on our public trust checks. Established domain —
-  registered 22.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:04.850Z'
+  registered 22.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:08.564Z'
 finalUrl: 'https://mac-stro.md/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.2 years ago.
+    - Established domain — registered 22.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -39,9 +39,9 @@ signals:
       isStore: true
       markers:
         hasAddToCart: true
-        hasCartLink: true
+        hasCartLink: false
         hasCatalog: true
-        hasCartFlow: true
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: warn
@@ -50,30 +50,30 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-04-07'
-      ageDays: 8114
-      ageYears: 22.2
-    detail: Registered 22.2 years ago (2004-04-07).
+      ageDays: 8146
+      ageYears: 22.3
+    detail: Registered 22.3 years ago (2004-04-07).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mac-stro.md looks like a well-established store. The clearest positives are that its domain has been registered for 22.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mac-stro.md looks like a well-established store. The clearest positives are that its domain has been registered for 22.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mac-stro in the score above.
 

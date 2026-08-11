@@ -6,7 +6,7 @@ description: >-
   whatineed.fr scores 61/100 on our public trust checks. No links to major
   social platforms found. HTTPS certificate present but its trust chain is
   incomplete.
-fetchedAt: '2026-06-25T03:29:19.752Z'
+fetchedAt: '2026-08-03T08:17:24.169Z'
 finalUrl: 'https://www.whatineed.fr/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.4 years ago.
+    - Established domain — registered 12.5 years ago.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No links to major social platforms found.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Gandi SAS
       validTo: '2027-03-07'
-      daysToExpiry: 256
+      daysToExpiry: 217
       authorized: false
     detail: Certificate present but chain not trusted (ERR_TLS_CERT_ALTNAME_INVALID).
   domainAge:
     status: pass
     value:
       createdAt: '2014-01-17'
-      ageDays: 4541
-      ageYears: 12.4
-    detail: Registered 12.4 years ago (2014-01-17).
+      ageDays: 4580
+      ageYears: 12.5
+    detail: Registered 12.5 years ago (2014-01-17).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-whatineed.fr sends a mixed set of signals. On the positive side, its domain has been registered for 12.4 years and it publishes the contact and policy pages shoppers expect. Against that, only limited contact details are listed and its security certificate is not fully trusted — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+whatineed.fr sends a mixed set of signals. On the positive side, its domain has been registered for 12.5 years and it publishes the contact and policy pages shoppers expect. Against that, only limited contact details are listed and its security certificate is not fully trusted — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Whatineed in the score above.
 

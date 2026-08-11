@@ -1,11 +1,11 @@
 ---
 domain: polskafika.pl
 slug: polskafika-pl
-title: Is polskafika.pl Legit? Trust Score 36/100
+title: Is polskafika.pl Legit? Trust Score 37/100
 description: >-
-  polskafika.pl scores 36/100 on our public trust checks. No public contact
+  polskafika.pl scores 37/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:32:45.719Z'
+fetchedAt: '2026-08-10T06:37:57.053Z'
 finalUrl: 'https://www.polskafika.pl/'
 reachable: true
 noindex: false
@@ -16,7 +16,7 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 36
+  score: 37
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
@@ -24,7 +24,8 @@ verdict:
   redFlags:
     - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Domain is relatively young.
 signals:
   http:
     status: pass
@@ -56,14 +57,17 @@ signals:
     status: pass
     value:
       issuer: 'TrustAsia Technologies, Inc.'
-      validTo: '2026-08-23'
-      daysToExpiry: 59
+      validTo: '2026-10-24'
+      daysToExpiry: 76
       authorized: true
     detail: 'Valid certificate issued by TrustAsia Technologies, Inc..'
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: warn
+    value:
+      createdAt: '2025-12-23'
+      ageDays: 230
+      ageYears: 0.6
+    detail: Registered 0.6 years ago (2025-12-23).
   contact:
     status: fail
     value:
@@ -92,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for polskafika.pl. In particular, there are no clear public contact details and it has little or no social media footprint. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for polskafika.pl. In particular, the domain is still relatively young and there are no clear public contact details. It does have some positives — it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Polskafika in the score above.
 

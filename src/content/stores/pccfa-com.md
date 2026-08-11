@@ -4,8 +4,8 @@ slug: pccfa-com
 title: Is pccfa.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   pccfa.com scores 82/100 on our public trust checks. Established domain —
-  registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:29:26.472Z'
+  registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:17:27.214Z'
 finalUrl: 'https://pccfa.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.5 years ago.
+    - Established domain — registered 19.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2006-12-23'
-      ageDays: 7123
-      ageYears: 19.5
-    detail: Registered 19.5 years ago (2006-12-23).
+      ageDays: 7162
+      ageYears: 19.6
+    detail: Registered 19.6 years ago (2006-12-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-pccfa.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+pccfa.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Pccfa in the score above.
 

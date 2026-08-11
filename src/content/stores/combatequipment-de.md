@@ -5,7 +5,7 @@ title: Is combatequipment.de Legit? Trust Score 100/100
 description: >-
   combatequipment.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:00:15.952Z'
+fetchedAt: '2026-08-03T08:06:48.838Z'
 finalUrl: 'https://www.combatequipment.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

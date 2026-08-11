@@ -5,7 +5,7 @@ title: Is ricci.co.il Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   ricci.co.il scores 49/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:42:55.739Z'
+fetchedAt: '2026-07-27T08:29:12.543Z'
 finalUrl: 'https://ricci.co.il/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-27'
-      daysToExpiry: 33
+      validTo: '2026-10-22'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

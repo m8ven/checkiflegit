@@ -5,7 +5,7 @@ title: Is smg.co.za Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   smg.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:57:32.914Z'
+fetchedAt: '2026-08-10T06:09:01.712Z'
 finalUrl: 'https://smg.co.za/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

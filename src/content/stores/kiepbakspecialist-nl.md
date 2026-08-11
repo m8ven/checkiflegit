@@ -1,11 +1,11 @@
 ---
 domain: kiepbakspecialist.nl
 slug: kiepbakspecialist-nl
-title: Is kiepbakspecialist.nl Legit? Trust Score 73/100
+title: Is kiepbakspecialist.nl Legit? Trust Score 85/100
 description: >-
-  kiepbakspecialist.nl scores 73/100 on our public trust checks. Established
-  domain — registered 10.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:01:18.919Z'
+  kiepbakspecialist.nl scores 85/100 on our public trust checks. Established
+  domain — registered 10.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:07:29.401Z'
 finalUrl: 'https://www.kiepbakspecialist.nl/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.1 years ago.
+    - Established domain — registered 10.2 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2016-06-06'
-      ageDays: 3671
-      ageYears: 10.1
-    detail: Registered 10.1 years ago (2016-06-06).
+      ageDays: 3710
+      ageYears: 10.2
+    detail: Registered 10.2 years ago (2016-06-06).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kiepbakspecialist.nl looks like a well-established store. The clearest positives are that its domain has been registered for 10.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kiepbakspecialist.nl looks like a well-established store. The clearest positives are that its domain has been registered for 10.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kiepbakspecialist in the score above.
 

@@ -1,30 +1,30 @@
 ---
 domain: criteriongroup.org
 slug: criteriongroup-org
-title: Is criteriongroup.org Legit? Trust Score 73/100
+title: Is criteriongroup.org Legit? Trust Score 25/100
 description: >-
-  criteriongroup.org scores 73/100 on our public trust checks. Established
-  domain — registered 24.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:07.532Z'
+  criteriongroup.org scores 25/100 on our public trust checks. Standard contact
+  and policy pages were not found.
+fetchedAt: '2026-07-27T08:13:40.991Z'
 finalUrl: 'https://criteriongroup.org/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 73
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 25
   greenFlags:
-    - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 24.1 years ago.
+    - Established domain — registered 24.2 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
+    - Standard contact and policy pages were not found.
+    - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,47 +33,47 @@ signals:
       finalUrl: 'https://criteriongroup.org/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: Shopify
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on Shopify, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: pass
+    status: fail
     value:
-      contact: true
-      privacy: true
-      terms: true
-      refund: true
-      shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+      contact: false
+      privacy: false
+      terms: false
+      refund: false
+      shipping: false
+    detail: 'Found 0 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 57
+      validTo: '2026-10-18'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-05-23'
-      ageDays: 8798
-      ageYears: 24.1
-    detail: Registered 24.1 years ago (2002-05-23).
+      ageDays: 8830
+      ageYears: 24.2
+    detail: Registered 24.2 years ago (2002-05-23).
   contact:
-    status: warn
+    status: fail
     value:
       email: false
-      phone: true
+      phone: false
       address: false
-    detail: 'Public contact details found: phone.'
+    detail: No public contact details detected on the homepage.
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-criteriongroup.org looks like a well-established store. The clearest positives are that its domain has been registered for 24.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+We found limited public trust signals for criteriongroup.org. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 24.2 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Criteriongroup in the score above.
 

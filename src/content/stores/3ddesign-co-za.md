@@ -5,8 +5,8 @@ title: Is 3ddesign.co.za Legit? Trust Score 100/100
 description: >-
   3ddesign.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:11:11.623Z'
-finalUrl: 'https://www.3ddesign.co.za/'
+fetchedAt: '2026-08-10T06:20:01.248Z'
+finalUrl: 'https://www.diamondpc.co.za/'
 reachable: true
 noindex: false
 verdict:
@@ -29,7 +29,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.3ddesign.co.za/'
+      finalUrl: 'https://www.diamondpc.co.za/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 74
+      daysToExpiry: 29
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is naturalgreennursery.com.au Legit? Trust Score 83/100
 description: >-
   naturalgreennursery.com.au scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:45:35.562Z'
+fetchedAt: '2026-07-27T08:31:52.715Z'
 finalUrl: 'https://naturalgreennursery.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 67
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

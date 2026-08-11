@@ -5,7 +5,7 @@ title: Is michaela-de-luxe.de Legit? Trust Score 83/100
 description: >-
   michaela-de-luxe.de scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:53:10.340Z'
+fetchedAt: '2026-08-03T08:01:45.238Z'
 finalUrl: 'https://michaela-de-luxe.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-06'
-      daysToExpiry: 227
+      daysToExpiry: 188
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

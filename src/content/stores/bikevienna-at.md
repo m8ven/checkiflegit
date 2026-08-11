@@ -5,7 +5,7 @@ title: Is bikevienna.at Legit? Trust Score 83/100
 description: >-
   bikevienna.at scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:30:57.829Z'
+fetchedAt: '2026-08-10T06:36:25.295Z'
 finalUrl: 'https://www.bikevienna.at/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-17'
+      daysToExpiry: 69
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

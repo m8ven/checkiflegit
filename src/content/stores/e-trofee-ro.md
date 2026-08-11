@@ -4,8 +4,8 @@ slug: e-trofee-ro
 title: Is e-trofee.ro Legit? Trust Score 100/100
 description: >-
   e-trofee.ro scores 100/100 on our public trust checks. Established domain —
-  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:41:32.009Z'
+  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:26:54.019Z'
 finalUrl: 'https://e-trofee.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 6.3 years ago.
+    - Established domain — registered 6.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-02-26'
-      ageDays: 2311
-      ageYears: 6.3
-    detail: Registered 6.3 years ago (2020-02-26).
+      ageDays: 2350
+      ageYears: 6.4
+    detail: Registered 6.4 years ago (2020-02-26).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-e-trofee.ro looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+e-trofee.ro looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against E-trofee in the score above.
 

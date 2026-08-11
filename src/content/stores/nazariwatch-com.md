@@ -4,8 +4,8 @@ slug: nazariwatch-com
 title: Is nazariwatch.com Legit? Trust Score 85/100
 description: >-
   nazariwatch.com scores 85/100 on our public trust checks. Established domain —
-  registered 5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:38:17.093Z'
+  registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:25:28.720Z'
 finalUrl: 'https://nazariwatch.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5 years ago.
+    - Established domain — registered 5.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-06-15'
-      ageDays: 1835
-      ageYears: 5
-    detail: Registered 5 years ago (2021-06-15).
+      ageDays: 1868
+      ageYears: 5.1
+    detail: Registered 5.1 years ago (2021-06-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nazariwatch.com looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nazariwatch.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nazariwatch in the score above.
 

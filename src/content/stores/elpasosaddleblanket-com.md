@@ -4,8 +4,8 @@ slug: elpasosaddleblanket-com
 title: Is elpasosaddleblanket.com Legit? Trust Score 100/100
 description: >-
   elpasosaddleblanket.com scores 100/100 on our public trust checks. Established
-  domain — registered 29.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:42:10.614Z'
+  domain — registered 29.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:27:30.285Z'
 finalUrl: 'https://elpasosaddleblanket.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 29.2 years ago.
+    - Established domain — registered 29.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-04-01'
-      ageDays: 10676
-      ageYears: 29.2
-    detail: Registered 29.2 years ago (1997-04-01).
+      ageDays: 10716
+      ageYears: 29.4
+    detail: Registered 29.4 years ago (1997-04-01).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-elpasosaddleblanket.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+elpasosaddleblanket.com looks like a well-established store. The clearest positives are that its domain has been registered for 29.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Elpasosaddleblanket in the score above.
 

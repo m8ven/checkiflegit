@@ -1,12 +1,12 @@
 ---
 domain: bristol.de
 slug: bristol-de
-title: Is bristol.de Legit? Trust Score 91/100 — Trust Checks Pass
+title: Is bristol.de Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
-  bristol.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T12:14:33.606Z'
-finalUrl: 'https://bristol.de/'
+  bristol.de scores 74/100 on our public trust checks. Has a contact page and
+  multiple policy pages (privacy/terms/refund).
+fetchedAt: '2026-08-10T06:23:10.339Z'
+finalUrl: 'http://bristol.de/'
 reachable: true
 noindex: false
 verdict:
@@ -15,21 +15,21 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 91
+  score: 74
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
+    - HTTPS certificate present but its trust chain is incomplete.
     - Limited social media presence.
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://bristol.de/'
+      finalUrl: 'http://bristol.de/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -52,13 +52,15 @@ signals:
       shipping: false
     detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: pass
+    status: warn
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
-      authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+      validTo: '2026-11-01'
+      daysToExpiry: 84
+      authorized: false
+    detail: >-
+      Certificate present but chain not trusted
+      (UNABLE_TO_VERIFY_LEAF_SIGNATURE).
   domainAge:
     status: unknown
     value: null
@@ -68,8 +70,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -91,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bristol.de looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bristol.de looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that its security certificate is not fully trusted and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bristol in the score above.
 

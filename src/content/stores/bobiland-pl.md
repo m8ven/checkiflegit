@@ -1,11 +1,11 @@
 ---
 domain: bobiland.pl
 slug: bobiland-pl
-title: Is bobiland.pl Legit? Trust Score 66/100 — Mixed Signals
+title: Is bobiland.pl Legit? Trust Score 55/100 — Mixed Signals
 description: >-
-  bobiland.pl scores 66/100 on our public trust checks. Some standard policy or
-  contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T03:22:50.184Z'
+  bobiland.pl scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:12:25.055Z'
 finalUrl: 'https://bobiland.pl/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 66
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 10.2 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -32,55 +32,58 @@ signals:
       finalUrl: 'https://bobiland.pl/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      privacy: true
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
-  contact:
-    status: warn
-    value:
-      email: false
-      phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
-  social:
     status: pass
     value:
-      facebook: true
-      instagram: true
+      createdAt: '2016-05-13'
+      ageDays: 3733
+      ageYears: 10.2
+    detail: Registered 10.2 years ago (2016-05-13).
+  contact:
+    status: fail
+    value:
+      email: false
+      phone: false
+      address: false
+    detail: No public contact details detected on the homepage.
+  social:
+    status: fail
+    value:
+      facebook: false
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -91,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bobiland.pl sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+bobiland.pl sends a mixed set of signals. On the positive side, its domain has been registered for 10.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bobiland in the score above.
 

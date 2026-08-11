@@ -4,8 +4,8 @@ slug: commercialedimaria-com
 title: Is commercialedimaria.com Legit? Trust Score 100/100
 description: >-
   commercialedimaria.com scores 100/100 on our public trust checks. Established
-  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:18:50.417Z'
+  domain — registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:26:42.530Z'
 finalUrl: 'https://www.commercialedimaria.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.1 years ago.
+    - Established domain — registered 9.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2026-10-20'
-      daysToExpiry: 118
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2017-05-10'
-      ageDays: 3332
-      ageYears: 9.1
-    detail: Registered 9.1 years ago (2017-05-10).
+      ageDays: 3378
+      ageYears: 9.3
+    detail: Registered 9.3 years ago (2017-05-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-commercialedimaria.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+commercialedimaria.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Commercialedimaria in the score above.
 

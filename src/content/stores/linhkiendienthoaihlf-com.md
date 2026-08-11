@@ -1,30 +1,30 @@
 ---
 domain: linhkiendienthoaihlf.com
 slug: linhkiendienthoaihlf-com
-title: Is linhkiendienthoaihlf.com Legit? Trust Score 52/100
+title: Is linhkiendienthoaihlf.com Legit? Trust Score 70/100
 description: >-
-  linhkiendienthoaihlf.com scores 52/100 on our public trust checks. Standard
-  contact and policy pages were not found. Domain is relatively young.
-fetchedAt: '2026-06-25T02:16:25.270Z'
+  linhkiendienthoaihlf.com scores 70/100 on our public trust checks. Valid
+  HTTPS/SSL certificate in place. Public business contact details are listed.
+fetchedAt: '2026-07-27T08:07:28.072Z'
 finalUrl: 'https://linhkiendienthoaihlf.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 52
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
     - Domain is relatively young.
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-09'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-09-09'
-      ageDays: 288
-      ageYears: 0.8
-    detail: Registered 0.8 years ago (2025-09-09).
+      ageDays: 321
+      ageYears: 0.9
+    detail: Registered 0.9 years ago (2025-09-09).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-linhkiendienthoaihlf.com sends a mixed set of signals. On the positive side, it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and we could not find the usual contact and policy pages — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+linhkiendienthoaihlf.com looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that the domain is still relatively young and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Linhkiendienthoaihlf in the score above.
 

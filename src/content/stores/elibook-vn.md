@@ -5,7 +5,7 @@ title: Is elibook.vn Legit? Trust Score 19/100
 description: >-
   elibook.vn scores 19/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:26:54.871Z'
+fetchedAt: '2026-07-27T08:16:05.212Z'
 finalUrl: 'https://elibook.vn/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

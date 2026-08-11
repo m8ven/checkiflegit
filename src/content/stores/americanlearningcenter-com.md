@@ -6,7 +6,7 @@ description: >-
   americanlearningcenter.com scores 100/100 on our public trust checks.
   Established domain — registered 21.9 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T02:17:49.389Z'
+fetchedAt: '2026-07-27T08:08:47.220Z'
 finalUrl: 'https://americanlearningcenter.com/'
 reachable: true
 noindex: false
@@ -57,15 +57,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 56
+      validTo: '2026-10-20'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-08-19'
-      ageDays: 7979
+      ageDays: 8011
       ageYears: 21.9
     detail: Registered 21.9 years ago (2004-08-19).
   contact:

@@ -4,8 +4,8 @@ slug: alanicglobal-com
 title: Is alanicglobal.com Legit? Trust Score 100/100
 description: >-
   alanicglobal.com scores 100/100 on our public trust checks. Established domain
-  — registered 14.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:21:09.539Z'
+  — registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:28:22.437Z'
 finalUrl: 'https://www.alanicglobal.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.5 years ago.
+    - Established domain — registered 14.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-07'
-      daysToExpiry: 75
+      validTo: '2026-11-05'
+      daysToExpiry: 88
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2012-01-13'
-      ageDays: 5277
-      ageYears: 14.5
-    detail: Registered 14.5 years ago (2012-01-13).
+      ageDays: 5323
+      ageYears: 14.6
+    detail: Registered 14.6 years ago (2012-01-13).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-alanicglobal.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+alanicglobal.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Alanicglobal in the score above.
 

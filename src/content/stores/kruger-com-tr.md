@@ -5,7 +5,7 @@ title: Is kruger.com.tr Legit? Trust Score 36/100
 description: >-
   kruger.com.tr scores 36/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:16:11.980Z'
+fetchedAt: '2026-08-10T06:24:19.316Z'
 finalUrl: 'https://kruger.com.tr/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-20'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -4,8 +4,8 @@ slug: revue-contacts-com
 title: Is revue-contacts.com Legit? Trust Score 73/100
 description: >-
   revue-contacts.com scores 73/100 on our public trust checks. Established
-  domain — registered 20.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:46:24.674Z'
+  domain — registered 20.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:31:33.247Z'
 finalUrl: 'https://revue-contacts.com/'
 reachable: true
 noindex: false
@@ -17,8 +17,7 @@ verdict:
     secure payment methods when shopping online.
   score: 73
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 20.4 years ago.
+    - Established domain — registered 20.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -33,40 +32,40 @@ signals:
       finalUrl: 'https://revue-contacts.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
       contact: true
       privacy: false
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 80
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2006-02-12'
-      ageDays: 7437
-      ageYears: 20.4
-    detail: Registered 20.4 years ago (2006-02-12).
+      ageDays: 7476
+      ageYears: 20.5
+    detail: Registered 20.5 years ago (2006-02-12).
   contact:
     status: pass
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-revue-contacts.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+revue-contacts.com looks like a well-established store. The clearest positives are that its domain has been registered for 20.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Revue-contacts in the score above.
 

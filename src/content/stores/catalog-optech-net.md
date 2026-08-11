@@ -5,7 +5,7 @@ title: Is catalog.optech.net Legit? Trust Score 91/100
 description: >-
   catalog.optech.net scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:22:21.591Z'
+fetchedAt: '2026-07-27T08:12:34.200Z'
 finalUrl: 'https://catalog.optech.net/avcat/ctl19093/index.cfm'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-10'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

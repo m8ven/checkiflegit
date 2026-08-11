@@ -4,8 +4,8 @@ slug: globalsect-org
 title: Is globalsect.org Legit? Trust Score 88/100
 description: >-
   globalsect.org scores 88/100 on our public trust checks. Established domain —
-  registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:29:09.687Z'
+  registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:18:12.648Z'
 finalUrl: 'https://globalsect.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.7 years ago.
+    - Established domain — registered 3.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-20'
-      daysToExpiry: 179
+      daysToExpiry: 147
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2022-09-26'
-      ageDays: 1367
-      ageYears: 3.7
-    detail: Registered 3.7 years ago (2022-09-26).
+      ageDays: 1399
+      ageYears: 3.8
+    detail: Registered 3.8 years ago (2022-09-26).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-globalsect.org looks like a well-established store. The clearest positives are that its domain has been registered for 3.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+globalsect.org looks like a well-established store. The clearest positives are that its domain has been registered for 3.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Globalsect in the score above.
 

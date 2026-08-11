@@ -4,8 +4,8 @@ slug: doremi27-ru
 title: Is doremi27.ru Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   doremi27.ru scores 73/100 on our public trust checks. Established domain —
-  registered 8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:34:17.051Z'
+  registered 8.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:21:17.527Z'
 finalUrl: 'https://doremi27.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8 years ago.
+    - Established domain — registered 8.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -50,30 +50,30 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 41
+      validTo: '2026-10-04'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-06-08'
-      ageDays: 2938
-      ageYears: 8
-    detail: Registered 8 years ago (2018-06-08).
+      ageDays: 2978
+      ageYears: 8.2
+    detail: Registered 8.2 years ago (2018-06-08).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-doremi27.ru looks like a well-established store. The clearest positives are that its domain has been registered for 8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+doremi27.ru looks like a well-established store. The clearest positives are that its domain has been registered for 8.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Doremi27 in the score above.
 

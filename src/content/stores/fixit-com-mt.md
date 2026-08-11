@@ -5,7 +5,7 @@ title: Is fixit.com.mt Legit? Trust Score 74/100
 description: >-
   fixit.com.mt scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:27:50.580Z'
+fetchedAt: '2026-07-27T08:16:59.992Z'
 finalUrl: 'https://fixit.com.mt/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-24'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

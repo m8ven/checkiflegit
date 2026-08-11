@@ -5,7 +5,7 @@ title: Is wielandshoehe.de Legit? Trust Score 66/100
 description: >-
   wielandshoehe.de scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:24:22.438Z'
+fetchedAt: '2026-08-03T08:13:22.217Z'
 finalUrl: 'https://www.wielandshoehe.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-03-10'
-      daysToExpiry: 259
+      daysToExpiry: 220
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

@@ -1,30 +1,29 @@
 ---
 domain: ezola-agency.com
 slug: ezola-agency-com
-title: Is ezola-agency.com Legit? Trust Score 70/100
+title: Is ezola-agency.com Legit? Trust Score 55/100
 description: >-
-  ezola-agency.com scores 70/100 on our public trust checks. Established domain
-  — registered 1.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:44:28.899Z'
+  ezola-agency.com scores 55/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-08-03T08:30:13.787Z'
 finalUrl: 'https://ezola-agency.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 70
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.9 years ago.
+    - Established domain — registered 2 years ago.
     - Valid HTTPS/SSL certificate in place.
-  redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
-    - Limited social media presence.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+  redFlags:
+    - No public contact details detected on the homepage.
+    - No links to major social platforms found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -33,58 +32,58 @@ signals:
       finalUrl: 'https://ezola-agency.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      terms: true
+      refund: true
+      shipping: true
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-11-03'
-      daysToExpiry: 132
+      daysToExpiry: 93
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2024-07-26'
-      ageDays: 699
-      ageYears: 1.9
-    detail: Registered 1.9 years ago (2024-07-26).
+      ageDays: 738
+      ageYears: 2
+    detail: Registered 2 years ago (2024-07-26).
   contact:
-    status: warn
+    status: fail
     value:
-      email: true
+      email: false
       phone: false
       address: false
-    detail: 'Public contact details found: email.'
+    detail: No public contact details detected on the homepage.
   social:
-    status: warn
+    status: fail
     value:
       facebook: false
-      instagram: true
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 1 social platform(s): instagram.'
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ezola-agency.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ezola-agency.com sends a mixed set of signals. On the positive side, its domain has been registered for 2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ezola-agency in the score above.
 

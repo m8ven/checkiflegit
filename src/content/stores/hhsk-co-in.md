@@ -5,7 +5,7 @@ title: Is hhsk.co.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   hhsk.co.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:55:53.913Z'
+fetchedAt: '2026-08-10T06:07:41.834Z'
 finalUrl: 'https://hhsk.co.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2026-12-11'
-      daysToExpiry: 169
+      daysToExpiry: 124
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:

@@ -4,8 +4,8 @@ slug: cdcovadonga-com
 title: Is cdcovadonga.com Legit? Trust Score 100/100
 description: >-
   cdcovadonga.com scores 100/100 on our public trust checks. Established domain
-  — registered 22.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:38:01.805Z'
+  — registered 23 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:24:17.031Z'
 finalUrl: 'https://cdcovadonga.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.9 years ago.
+    - Established domain — registered 23 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-08-19'
-      ageDays: 8345
-      ageYears: 22.9
-    detail: Registered 22.9 years ago (2003-08-19).
+      ageDays: 8384
+      ageYears: 23
+    detail: Registered 23 years ago (2003-08-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cdcovadonga.com looks like a well-established store. The clearest positives are that its domain has been registered for 22.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cdcovadonga.com looks like a well-established store. The clearest positives are that its domain has been registered for 23 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cdcovadonga in the score above.
 

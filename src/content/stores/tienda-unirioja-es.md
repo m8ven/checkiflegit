@@ -5,7 +5,7 @@ title: Is tienda.unirioja.es Legit? Trust Score 61/100
 description: >-
   tienda.unirioja.es scores 61/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T12:06:34.301Z'
+fetchedAt: '2026-08-10T06:16:15.997Z'
 finalUrl: 'https://tienda.unirioja.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Hellenic Academic and Research Institutions CA
-      validTo: '2026-07-01'
-      daysToExpiry: 6
+      validTo: '2027-02-06'
+      daysToExpiry: 181
       authorized: true
     detail: >-
       Valid certificate issued by Hellenic Academic and Research Institutions
@@ -70,8 +70,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: fail
     value:

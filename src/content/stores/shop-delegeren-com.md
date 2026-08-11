@@ -5,7 +5,7 @@ title: Is shop.delegeren.com Legit? Trust Score 0/100
 description: >-
   shop.delegeren.com scores 0/100 on our public trust checks. Standard contact
   and policy pages were not found.
-fetchedAt: '2026-06-25T12:02:54.298Z'
+fetchedAt: '2026-08-10T06:13:11.551Z'
 finalUrl: 'https://shop.delegeren.com/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-03'
-      daysToExpiry: 39
+      validTo: '2026-10-01'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is uni-hifi-hannover.de Legit? Trust Score 79/100
 description: >-
   uni-hifi-hannover.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:28:55.460Z'
+fetchedAt: '2026-08-03T08:17:00.719Z'
 finalUrl: 'https://www.uni-hifi-hannover.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-11'
-      daysToExpiry: 109
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

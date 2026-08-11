@@ -1,29 +1,30 @@
 ---
 domain: inzynierbudownictwa.pl
 slug: inzynierbudownictwa-pl
-title: Is inzynierbudownictwa.pl Legit? Trust Score 66/100
+title: Is inzynierbudownictwa.pl Legit? Trust Score 100/100
 description: >-
-  inzynierbudownictwa.pl scores 66/100 on our public trust checks. Some standard
-  policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:47:12.398Z'
+  inzynierbudownictwa.pl scores 100/100 on our public trust checks. Established
+  domain — registered 20.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:32:10.297Z'
 finalUrl: 'https://inzynierbudownictwa.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 66
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 20.3 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -43,33 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
       shipping: true
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: DigiCert Inc
       validTo: '2026-12-07'
-      daysToExpiry: 166
+      daysToExpiry: 127
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2006-04-26'
+      ageDays: 7404
+      ageYears: 20.3
+    detail: Registered 20.3 years ago (2006-04-26).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-inzynierbudownictwa.pl sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+inzynierbudownictwa.pl looks like a well-established store. The clearest positives are that its domain has been registered for 20.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Inzynierbudownictwa in the score above.
 

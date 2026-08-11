@@ -4,8 +4,8 @@ slug: driduck-com
 title: Is driduck.com Legit? Trust Score 100/100
 description: >-
   driduck.com scores 100/100 on our public trust checks. Established domain —
-  registered 26.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:37.051Z'
+  registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:18.555Z'
 finalUrl: 'https://www.driduck.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 26.5 years ago.
+    - Established domain — registered 26.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-12-21'
-      ageDays: 9682
-      ageYears: 26.5
-    detail: Registered 26.5 years ago (1999-12-21).
+      ageDays: 9721
+      ageYears: 26.6
+    detail: Registered 26.6 years ago (1999-12-21).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-driduck.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+driduck.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Driduck in the score above.
 

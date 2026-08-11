@@ -5,7 +5,7 @@ title: Is asstoreofficial01.com Legit? Trust Score 82/100
 description: >-
   asstoreofficial01.com scores 82/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:34:38.900Z'
+fetchedAt: '2026-08-10T06:02:18.780Z'
 finalUrl: 'https://asstoreofficial01.com/'
 reachable: true
 noindex: false
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 62
+      validTo: '2026-10-25'
+      daysToExpiry: 76
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: warn
     value:
       createdAt: '2025-09-30'
-      ageDays: 267
-      ageYears: 0.7
-    detail: Registered 0.7 years ago (2025-09-30).
+      ageDays: 314
+      ageYears: 0.9
+    detail: Registered 0.9 years ago (2025-09-30).
   contact:
     status: pass
     value:

@@ -4,9 +4,9 @@ slug: greatwesternairambulance-com
 title: Is greatwesternairambulance.com Legit? Trust Score 88/100
 description: >-
   greatwesternairambulance.com scores 88/100 on our public trust checks.
-  Established domain — registered 18.1 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 18.2 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T03:44:50.813Z'
+fetchedAt: '2026-08-03T08:30:34.132Z'
 finalUrl: 'https://greatwesternairambulance.com/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.1 years ago.
+    - Established domain — registered 18.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -58,16 +58,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-06-09'
-      ageDays: 6589
-      ageYears: 18.1
-    detail: Registered 18.1 years ago (2008-06-09).
+      ageDays: 6628
+      ageYears: 18.2
+    detail: Registered 18.2 years ago (2008-06-09).
   contact:
     status: warn
     value:
@@ -98,7 +98,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-greatwesternairambulance.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+greatwesternairambulance.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Greatwesternairambulance in the score above.
 

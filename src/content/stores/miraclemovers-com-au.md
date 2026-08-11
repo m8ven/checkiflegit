@@ -5,7 +5,7 @@ title: Is miraclemovers.com.au Legit? Trust Score 66/100
 description: >-
   miraclemovers.com.au scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:36:53.731Z'
+fetchedAt: '2026-07-27T08:24:30.644Z'
 finalUrl: 'https://miraclemovers.com.au/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is hema.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   hema.com scores 82/100 on our public trust checks. Established domain —
   registered 27.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:57.819Z'
+fetchedAt: '2026-07-27T08:06:08.055Z'
 finalUrl: 'https://www.hema.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-17'
-      daysToExpiry: 54
+      validTo: '2026-10-15'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-09-27'
-      ageDays: 10132
+      ageDays: 10165
       ageYears: 27.8
     detail: Registered 27.8 years ago (1998-09-27).
   contact:
@@ -72,8 +72,8 @@ signals:
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:

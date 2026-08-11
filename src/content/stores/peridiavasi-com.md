@@ -4,8 +4,8 @@ slug: peridiavasi-com
 title: Is peridiavasi.com Legit? Trust Score 70/100
 description: >-
   peridiavasi.com scores 70/100 on our public trust checks. Established domain —
-  registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:21.243Z'
+  registered 6.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:33:49.767Z'
 finalUrl: 'https://peridiavasi.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.2 years ago.
+    - Established domain — registered 6.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-04-26'
-      ageDays: 2250
-      ageYears: 6.2
-    detail: Registered 6.2 years ago (2020-04-26).
+      ageDays: 2282
+      ageYears: 6.3
+    detail: Registered 6.3 years ago (2020-04-26).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-peridiavasi.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+peridiavasi.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.3 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Peridiavasi in the score above.
 

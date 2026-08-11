@@ -1,11 +1,11 @@
 ---
 domain: deltadietla.pl
 slug: deltadietla-pl
-title: Is deltadietla.pl Legit? Trust Score 83/100
+title: Is deltadietla.pl Legit? Trust Score 88/100
 description: >-
-  deltadietla.pl scores 83/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:33:26.347Z'
+  deltadietla.pl scores 88/100 on our public trust checks. Established domain —
+  registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:20:48.153Z'
 finalUrl: 'https://deltadietla.pl/'
 reachable: true
 noindex: false
@@ -15,9 +15,10 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 3.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,13 +57,16 @@ signals:
     value:
       issuer: home.pl S.A.
       validTo: '2026-11-29'
-      daysToExpiry: 157
+      daysToExpiry: 118
       authorized: true
     detail: Valid certificate issued by home.pl S.A..
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2022-09-22'
+      ageDays: 1410
+      ageYears: 3.9
+    detail: Registered 3.9 years ago (2022-09-22).
   contact:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-deltadietla.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+deltadietla.pl looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Deltadietla in the score above.
 

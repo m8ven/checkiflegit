@@ -5,7 +5,7 @@ title: Is neew.gr Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   neew.gr scores 74/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:24:37.118Z'
+fetchedAt: '2026-08-10T06:31:09.671Z'
 finalUrl: 'https://www.neew.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-04'
-      daysToExpiry: 72
+      validTo: '2026-11-04'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

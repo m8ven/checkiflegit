@@ -5,7 +5,7 @@ title: Is bmeairsoft.com Legit? Trust Score 88/100
 description: >-
   bmeairsoft.com scores 88/100 on our public trust checks. Established domain —
   registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:04.455Z'
+fetchedAt: '2026-07-27T08:16:20.362Z'
 finalUrl: 'https://bmeairsoft.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-27'
-      daysToExpiry: 95
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2021-03-24'
-      ageDays: 1918
+      ageDays: 1950
       ageYears: 5.3
     detail: Registered 5.3 years ago (2021-03-24).
   contact:

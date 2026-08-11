@@ -4,8 +4,8 @@ slug: antos-trgovina-hr
 title: Is antos-trgovina.hr Legit? Trust Score 73/100
 description: >-
   antos-trgovina.hr scores 73/100 on our public trust checks. Established domain
-  — registered 18.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:18.680Z'
+  — registered 19 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:30:47.130Z'
 finalUrl: 'https://antos-trgovina.hr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.9 years ago.
+    - Established domain — registered 19 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-07-31'
-      ageDays: 6903
-      ageYears: 18.9
-    detail: Registered 18.9 years ago (2007-07-31).
+      ageDays: 6935
+      ageYears: 19
+    detail: Registered 19 years ago (2007-07-31).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-antos-trgovina.hr looks like a well-established store. The clearest positives are that its domain has been registered for 18.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+antos-trgovina.hr looks like a well-established store. The clearest positives are that its domain has been registered for 19 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Antos-trgovina in the score above.
 

@@ -1,11 +1,11 @@
 ---
 domain: bloemenanthos.be
 slug: bloemenanthos-be
-title: Is bloemenanthos.be Legit? Trust Score 88/100
+title: Is bloemenanthos.be Legit? Trust Score 100/100
 description: >-
-  bloemenanthos.be scores 88/100 on our public trust checks. Established domain
-  — registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:31:25.970Z'
+  bloemenanthos.be scores 100/100 on our public trust checks. Established domain
+  — registered 13.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:36:53.740Z'
 finalUrl: 'https://www.bloemenanthos.be/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.8 years ago.
+    - Established domain — registered 13.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-19'
-      daysToExpiry: 56
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-09-17'
-      ageDays: 5029
-      ageYears: 13.8
-    detail: Registered 13.8 years ago (2012-09-17).
+      ageDays: 5075
+      ageYears: 13.9
+    detail: Registered 13.9 years ago (2012-09-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bloemenanthos.be looks like a well-established store. The clearest positives are that its domain has been registered for 13.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bloemenanthos.be looks like a well-established store. The clearest positives are that its domain has been registered for 13.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bloemenanthos in the score above.
 

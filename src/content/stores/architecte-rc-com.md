@@ -4,8 +4,8 @@ slug: architecte-rc-com
 title: Is architecte-rc.com Legit? Trust Score 88/100
 description: >-
   architecte-rc.com scores 88/100 on our public trust checks. Established domain
-  — registered 18.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:26.959Z'
+  — registered 18.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:34.312Z'
 finalUrl: 'https://architecte-rc.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.2 years ago.
+    - Established domain — registered 18.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2008-04-03'
-      ageDays: 6656
-      ageYears: 18.2
-    detail: Registered 18.2 years ago (2008-04-03).
+      ageDays: 6688
+      ageYears: 18.3
+    detail: Registered 18.3 years ago (2008-04-03).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-architecte-rc.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+architecte-rc.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Architecte-rc in the score above.
 

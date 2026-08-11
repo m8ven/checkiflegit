@@ -5,7 +5,7 @@ title: Is afitosguesthouse.gr Legit? Trust Score 61/100
 description: >-
   afitosguesthouse.gr scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:17:21.360Z'
+fetchedAt: '2026-07-27T08:08:20.030Z'
 finalUrl: 'https://afitosguesthouse.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-05'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

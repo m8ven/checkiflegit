@@ -4,8 +4,8 @@ slug: future-press-com
 title: Is future-press.com Legit? Trust Score 76/100
 description: >-
   future-press.com scores 76/100 on our public trust checks. Established domain
-  — registered 27.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:58:50.714Z'
+  — registered 28.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:05:45.836Z'
 finalUrl: 'https://www.future-press.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.9 years ago.
+    - Established domain — registered 28.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-07-21'
-      ageDays: 10200
-      ageYears: 27.9
-    detail: Registered 27.9 years ago (1998-07-21).
+      ageDays: 10240
+      ageYears: 28.1
+    detail: Registered 28.1 years ago (1998-07-21).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-future-press.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+future-press.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Future-press in the score above.
 

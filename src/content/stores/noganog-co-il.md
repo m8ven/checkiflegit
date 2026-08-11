@@ -5,7 +5,7 @@ title: Is noganog.co.il Legit? Trust Score 100/100
 description: >-
   noganog.co.il scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:57:29.599Z'
+fetchedAt: '2026-08-10T06:09:00.878Z'
 finalUrl: 'https://noganog.co.il/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-13'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

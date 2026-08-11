@@ -4,9 +4,9 @@ slug: kadovacheesemouldshop-com
 title: Is kadovacheesemouldshop.com Legit? Trust Score 73/100
 description: >-
   kadovacheesemouldshop.com scores 73/100 on our public trust checks.
-  Established domain — registered 15.3 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 15.4 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:09:05.229Z'
+fetchedAt: '2026-08-10T06:18:38.079Z'
 finalUrl: 'https://kadovacheesemouldshop.com/nl/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.3 years ago.
+    - Established domain — registered 15.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -49,25 +49,25 @@ signals:
     value:
       contact: false
       privacy: true
-      terms: false
-      refund: false
-      shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+      terms: true
+      refund: true
+      shipping: true
+    detail: 'Found 4 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-10'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 62
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-03-23'
-      ageDays: 5573
-      ageYears: 15.3
-    detail: Registered 15.3 years ago (2011-03-23).
+      ageDays: 5618
+      ageYears: 15.4
+    detail: Registered 15.4 years ago (2011-03-23).
   contact:
     status: pass
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kadovacheesemouldshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kadovacheesemouldshop.com looks like a well-established store. The clearest positives are that its domain has been registered for 15.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kadovacheesemouldshop in the score above.
 

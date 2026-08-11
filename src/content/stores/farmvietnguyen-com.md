@@ -1,11 +1,11 @@
 ---
 domain: farmvietnguyen.com
 slug: farmvietnguyen-com
-title: Is farmvietnguyen.com Legit? Trust Score 52/100
+title: Is farmvietnguyen.com Legit? Trust Score 64/100
 description: >-
-  farmvietnguyen.com scores 52/100 on our public trust checks. Domain is
-  relatively young. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:27:19.943Z'
+  farmvietnguyen.com scores 64/100 on our public trust checks. Domain is
+  relatively young. Only limited contact details were found.
+fetchedAt: '2026-07-27T08:16:35.939Z'
 finalUrl: 'https://farmvietnguyen.com/'
 reachable: true
 noindex: false
@@ -15,14 +15,14 @@ verdict:
   summary: >-
     This store shows a mix of trust signals. Some positive indicators are
     present, but a few are missing — review the breakdown below before buying.
-  score: 52
+  score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
   cautions:
     - Domain is relatively young.
-    - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
     - Limited social media presence.
 signals:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-24'
-      ageDays: 212
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-24).
+      ageDays: 244
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-24).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-farmvietnguyen.com sends a mixed set of signals. On the positive side, it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform. Against that, the domain is still relatively young and only limited contact details are listed — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+farmvietnguyen.com sends a mixed set of signals. On the positive side, it publishes the contact and policy pages shoppers expect and it secures traffic with a valid HTTPS certificate. Against that, the domain is still relatively young and only limited contact details are listed — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Farmvietnguyen in the score above.
 

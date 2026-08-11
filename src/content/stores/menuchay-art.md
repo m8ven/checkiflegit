@@ -4,8 +4,8 @@ slug: menuchay-art
 title: Is menuchay.art Legit? Trust Score 100/100
 description: >-
   menuchay.art scores 100/100 on our public trust checks. Established domain —
-  registered 6.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:04.648Z'
+  registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:30:33.521Z'
 finalUrl: 'https://menuchay.art/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.4 years ago.
+    - Established domain — registered 6.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-10-13'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-02-10'
-      ageDays: 2326
-      ageYears: 6.4
-    detail: Registered 6.4 years ago (2020-02-10).
+      ageDays: 2358
+      ageYears: 6.5
+    detail: Registered 6.5 years ago (2020-02-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-menuchay.art looks like a well-established store. The clearest positives are that its domain has been registered for 6.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+menuchay.art looks like a well-established store. The clearest positives are that its domain has been registered for 6.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Menuchay in the score above.
 

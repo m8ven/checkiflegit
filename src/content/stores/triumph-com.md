@@ -5,7 +5,7 @@ title: Is triumph.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   triumph.com scores 88/100 on our public trust checks. Established domain —
   registered 31.9 years ago.
-fetchedAt: '2026-06-24T21:45:52.970Z'
+fetchedAt: '2026-07-27T08:06:04.634Z'
 finalUrl: 'https://de.triumph.com/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Corporation Service Company
       validTo: '2027-04-09'
-      daysToExpiry: 290
+      daysToExpiry: 257
       authorized: false
     detail: >-
       Certificate present but chain not trusted
@@ -66,7 +66,7 @@ signals:
     status: pass
     value:
       createdAt: '1994-08-23'
-      ageDays: 11628
+      ageDays: 11661
       ageYears: 31.9
     detail: Registered 31.9 years ago (1994-08-23).
   contact:

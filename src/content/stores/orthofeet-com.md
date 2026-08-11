@@ -5,7 +5,7 @@ title: Is orthofeet.com Legit? Trust Score 100/100
 description: >-
   orthofeet.com scores 100/100 on our public trust checks. Established domain —
   registered 28.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:23.955Z'
+fetchedAt: '2026-07-27T08:06:32.622Z'
 finalUrl: 'https://www.orthofeet.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-06-10'
-      ageDays: 10241
+      ageDays: 10274
       ageYears: 28.1
     detail: Registered 28.1 years ago (1998-06-10).
   contact:

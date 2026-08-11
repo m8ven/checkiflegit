@@ -4,8 +4,8 @@ slug: barroulez-be
 title: Is barroulez.be Legit? Trust Score 88/100
 description: >-
   barroulez.be scores 88/100 on our public trust checks. Established domain —
-  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:13:21.518Z'
+  registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:22:00.125Z'
 finalUrl: 'https://www.barroulez.be/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.6 years ago.
+    - Established domain — registered 4.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-02'
-      ageDays: 1666
-      ageYears: 4.6
-    detail: Registered 4.6 years ago (2021-12-02).
+      ageDays: 1712
+      ageYears: 4.7
+    detail: Registered 4.7 years ago (2021-12-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-barroulez.be looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+barroulez.be looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Barroulez in the score above.
 

@@ -4,8 +4,8 @@ slug: kaycol-com
 title: Is kaycol.com Legit? Trust Score 85/100 — Trust Checks Pass
 description: >-
   kaycol.com scores 85/100 on our public trust checks. Established domain —
-  registered 7.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:11:04.846Z'
+  registered 7.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:19:55.367Z'
 finalUrl: 'https://kaycol.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.3 years ago.
+    - Established domain — registered 7.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-09-24'
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2019-03-05'
-      ageDays: 2668
-      ageYears: 7.3
-    detail: Registered 7.3 years ago (2019-03-05).
+      ageDays: 2714
+      ageYears: 7.4
+    detail: Registered 7.4 years ago (2019-03-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kaycol.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.3 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+kaycol.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.4 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kaycol in the score above.
 

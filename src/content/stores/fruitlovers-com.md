@@ -5,7 +5,7 @@ title: Is fruitlovers.com Legit? Trust Score 64/100 — Mixed Signals
 description: >-
   fruitlovers.com scores 64/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:30:25.290Z'
+fetchedAt: '2026-07-27T08:19:12.478Z'
 finalUrl: 'https://fruitlovers.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.7 years ago.
+    - Established domain — registered 26.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'Starfield Technologies, Inc.'
       validTo: '2026-11-19'
-      daysToExpiry: 148
+      daysToExpiry: 116
       authorized: true
     detail: 'Valid certificate issued by Starfield Technologies, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '1999-10-23'
-      ageDays: 9741
-      ageYears: 26.7
-    detail: Registered 26.7 years ago (1999-10-23).
+      ageDays: 9773
+      ageYears: 26.8
+    detail: Registered 26.8 years ago (1999-10-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fruitlovers.com sends a mixed set of signals. On the positive side, its domain has been registered for 26.7 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+fruitlovers.com sends a mixed set of signals. On the positive side, its domain has been registered for 26.8 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fruitlovers in the score above.
 

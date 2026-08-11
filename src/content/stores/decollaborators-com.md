@@ -4,8 +4,8 @@ slug: decollaborators-com
 title: Is decollaborators.com Legit? Trust Score 100/100
 description: >-
   decollaborators.com scores 100/100 on our public trust checks. Established
-  domain — registered 2.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:41.041Z'
+  domain — registered 2.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:14:11.575Z'
 finalUrl: 'https://decollaborators.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.4 years ago.
+    - Established domain — registered 2.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-01-26'
-      ageDays: 880
-      ageYears: 2.4
-    detail: Registered 2.4 years ago (2024-01-26).
+      ageDays: 912
+      ageYears: 2.5
+    detail: Registered 2.5 years ago (2024-01-26).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-decollaborators.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+decollaborators.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Decollaborators in the score above.
 

@@ -4,8 +4,8 @@ slug: blanc9-com
 title: Is blanc9.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   blanc9.com scores 100/100 on our public trust checks. Established domain —
-  registered 5.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:54.212Z'
+  registered 6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:03.756Z'
 finalUrl: 'https://blanc9.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 5.9 years ago.
+    - Established domain — registered 6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-07-28'
-      ageDays: 2157
-      ageYears: 5.9
-    detail: Registered 5.9 years ago (2020-07-28).
+      ageDays: 2189
+      ageYears: 6
+    detail: Registered 6 years ago (2020-07-28).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blanc9.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+blanc9.com looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blanc9 in the score above.
 

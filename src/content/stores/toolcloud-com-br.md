@@ -5,7 +5,7 @@ title: Is toolcloud.com.br Legit? Trust Score 19/100
 description: >-
   toolcloud.com.br scores 19/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:12:06.791Z'
+fetchedAt: '2026-08-10T06:20:45.054Z'
 finalUrl: 'https://toolcloud.com.br/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

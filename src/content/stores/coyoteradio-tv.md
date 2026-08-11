@@ -6,7 +6,7 @@ description: >-
   coyoteradio.tv scores 61/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T02:24:05.152Z'
+fetchedAt: '2026-07-27T08:13:39.349Z'
 finalUrl: 'https://coyoteradio.tv/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.2 years ago.
+    - Established domain — registered 21.3 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-13'
-      daysToExpiry: 80
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2005-04-27'
-      ageDays: 7728
-      ageYears: 21.2
-    detail: Registered 21.2 years ago (2005-04-27).
+      ageDays: 7760
+      ageYears: 21.3
+    detail: Registered 21.3 years ago (2005-04-27).
   contact:
     status: warn
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-coyoteradio.tv sends a mixed set of signals. On the positive side, its domain has been registered for 21.2 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+coyoteradio.tv sends a mixed set of signals. On the positive side, its domain has been registered for 21.3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Coyoteradio in the score above.
 

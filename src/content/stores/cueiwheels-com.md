@@ -4,8 +4,8 @@ slug: cueiwheels-com
 title: Is cueiwheels.com Legit? Trust Score 76/100
 description: >-
   cueiwheels.com scores 76/100 on our public trust checks. Established domain —
-  registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:02.152Z'
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:19.328Z'
 finalUrl: 'https://www.cueiwheels.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.2 years ago.
+    - Established domain — registered 9.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 30
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-04-26'
-      ageDays: 3346
-      ageYears: 9.2
-    detail: Registered 9.2 years ago (2017-04-26).
+      ageDays: 3392
+      ageYears: 9.3
+    detail: Registered 9.3 years ago (2017-04-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cueiwheels.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cueiwheels.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cueiwheels in the score above.
 

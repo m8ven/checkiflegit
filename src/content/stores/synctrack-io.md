@@ -4,8 +4,8 @@ slug: synctrack-io
 title: Is synctrack.io Legit? Trust Score 88/100
 description: >-
   synctrack.io scores 88/100 on our public trust checks. Established domain —
-  registered 4.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:44:45.122Z'
+  registered 4.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:19.168Z'
 finalUrl: 'https://synctrack.io/'
 reachable: true
 noindex: false
@@ -17,8 +17,7 @@ verdict:
     secure payment methods when shopping online.
   score: 88
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.5 years ago.
+    - Established domain — registered 4.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -33,16 +32,16 @@ signals:
       finalUrl: 'https://synctrack.io/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -57,16 +56,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-16'
-      daysToExpiry: 84
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2021-12-23'
-      ageDays: 1644
-      ageYears: 4.5
-    detail: Registered 4.5 years ago (2021-12-23).
+      ageDays: 1677
+      ageYears: 4.6
+    detail: Registered 4.6 years ago (2021-12-23).
   contact:
     status: warn
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-synctrack.io looks like a well-established store. The clearest positives are that its domain has been registered for 4.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+synctrack.io looks like a well-established store. The clearest positives are that its domain has been registered for 4.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Synctrack in the score above.
 

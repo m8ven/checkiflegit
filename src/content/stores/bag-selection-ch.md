@@ -5,7 +5,7 @@ title: Is bag-selection.ch Legit? Trust Score 100/100
 description: >-
   bag-selection.ch scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:53:03.164Z'
+fetchedAt: '2026-07-27T08:38:41.773Z'
 finalUrl: 'https://www.bag-selection.ch/'
 reachable: true
 noindex: false
@@ -39,8 +39,8 @@ signals:
       markers:
         hasAddToCart: true
         hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
+        hasCatalog: false
+        hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
     status: pass
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-17'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

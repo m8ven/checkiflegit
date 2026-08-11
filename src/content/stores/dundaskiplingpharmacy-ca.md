@@ -5,7 +5,7 @@ title: Is dundaskiplingpharmacy.ca Legit? Trust Score 88/100
 description: >-
   dundaskiplingpharmacy.ca scores 88/100 on our public trust checks. Established
   domain — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:26:00.998Z'
+fetchedAt: '2026-07-27T08:15:17.789Z'
 finalUrl: 'https://dundaskiplingpharmacy.ca/'
 reachable: true
 noindex: false
@@ -50,21 +50,21 @@ signals:
       privacy: false
       terms: false
       refund: false
-      shipping: true
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: false
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-28'
-      daysToExpiry: 65
+      validTo: '2026-10-01'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-12-04'
-      ageDays: 567
+      ageDays: 599
       ageYears: 1.6
     detail: Registered 1.6 years ago (2024-12-04).
   contact:

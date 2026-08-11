@@ -4,8 +4,8 @@ slug: krosstein-fo
 title: Is krosstein.fo Legit? Trust Score 70/100
 description: >-
   krosstein.fo scores 70/100 on our public trust checks. Established domain —
-  registered 16.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:43:23.026Z'
+  registered 16.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:29:34.935Z'
 finalUrl: 'https://krosstein.fo/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.1 years ago.
+    - Established domain — registered 16.2 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-06-03'
-      ageDays: 5866
-      ageYears: 16.1
-    detail: Registered 16.1 years ago (2010-06-03).
+      ageDays: 5898
+      ageYears: 16.2
+    detail: Registered 16.2 years ago (2010-06-03).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-krosstein.fo looks like a well-established store. The clearest positives are that its domain has been registered for 16.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+krosstein.fo looks like a well-established store. The clearest positives are that its domain has been registered for 16.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Krosstein in the score above.
 

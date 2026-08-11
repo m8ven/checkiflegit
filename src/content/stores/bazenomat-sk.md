@@ -5,7 +5,7 @@ title: Is bazenomat.sk Legit? Trust Score 19/100
 description: >-
   bazenomat.sk scores 19/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:26:21.426Z'
+fetchedAt: '2026-07-27T08:15:31.672Z'
 finalUrl: 'https://bazenomat.sk/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

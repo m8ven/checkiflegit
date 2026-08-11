@@ -4,8 +4,8 @@ slug: fair-exhibitorlist-com
 title: Is fair-exhibitorlist.com Legit? Trust Score 73/100
 description: >-
   fair-exhibitorlist.com scores 73/100 on our public trust checks. Established
-  domain — registered 7.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:41:50.125Z'
+  domain — registered 7.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:27:15.710Z'
 finalUrl: 'https://fair-exhibitorlist.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.6 years ago.
+    - Established domain — registered 7.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: DigiCert Inc
       validTo: '2026-11-10'
-      daysToExpiry: 139
+      daysToExpiry: 100
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:
     status: pass
     value:
       createdAt: '2018-11-01'
-      ageDays: 2792
-      ageYears: 7.6
-    detail: Registered 7.6 years ago (2018-11-01).
+      ageDays: 2831
+      ageYears: 7.8
+    detail: Registered 7.8 years ago (2018-11-01).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fair-exhibitorlist.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fair-exhibitorlist.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fair-exhibitorlist in the score above.
 

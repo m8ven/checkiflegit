@@ -5,7 +5,7 @@ title: Is thuma.co Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   thuma.co scores 57/100 on our public trust checks. No public contact details
   detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:23:13.774Z'
+fetchedAt: '2026-08-03T08:12:39.587Z'
 finalUrl: 'https://www.thuma.co/'
 reachable: true
 noindex: false
@@ -37,7 +37,7 @@ signals:
       platform: Shopify
       isStore: true
       markers:
-        hasAddToCart: false
+        hasAddToCart: true
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

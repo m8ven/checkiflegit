@@ -4,8 +4,8 @@ slug: inprint-md
 title: Is inprint.md Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   inprint.md scores 70/100 on our public trust checks. Established domain —
-  registered 18.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:00:33.694Z'
+  registered 19 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:07:02.474Z'
 finalUrl: 'https://www.inprint.md/rou/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.9 years ago.
+    - Established domain — registered 19 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: ZeroSSL GmbH
-      validTo: '2026-09-18'
-      daysToExpiry: 86
+      validTo: '2026-10-18'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by ZeroSSL GmbH.
   domainAge:
     status: pass
     value:
       createdAt: '2007-08-07'
-      ageDays: 6897
-      ageYears: 18.9
-    detail: Registered 18.9 years ago (2007-08-07).
+      ageDays: 6936
+      ageYears: 19
+    detail: Registered 19 years ago (2007-08-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-inprint.md looks like a well-established store. The clearest positives are that its domain has been registered for 18.9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+inprint.md looks like a well-established store. The clearest positives are that its domain has been registered for 19 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Inprint in the score above.
 

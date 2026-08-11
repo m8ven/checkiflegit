@@ -4,8 +4,8 @@ slug: indicatoare-table-ro
 title: Is indicatoare-table.ro Legit? Trust Score 73/100
 description: >-
   indicatoare-table.ro scores 73/100 on our public trust checks. Established
-  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:30:42.657Z'
+  domain — registered 3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:19:27.895Z'
 finalUrl: 'https://indicatoare-table.ro/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.9 years ago.
+    - Established domain — registered 3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-27'
-      ageDays: 1064
-      ageYears: 2.9
-    detail: Registered 2.9 years ago (2023-07-27).
+      ageDays: 1096
+      ageYears: 3
+    detail: Registered 3 years ago (2023-07-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-indicatoare-table.ro looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+indicatoare-table.ro looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Indicatoare-table in the score above.
 

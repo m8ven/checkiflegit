@@ -5,7 +5,7 @@ title: Is inoxtamdongphuong.com Legit? Trust Score 64/100
 description: >-
   inoxtamdongphuong.com scores 64/100 on our public trust checks. Standard
   contact and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T02:30:48.337Z'
+fetchedAt: '2026-07-27T08:19:33.356Z'
 finalUrl: 'https://inoxtamdongphuong.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.5 years ago.
+    - Established domain — registered 3.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-30'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2022-12-17'
-      ageDays: 1286
-      ageYears: 3.5
-    detail: Registered 3.5 years ago (2022-12-17).
+      ageDays: 1318
+      ageYears: 3.6
+    detail: Registered 3.6 years ago (2022-12-17).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-inoxtamdongphuong.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.5 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+inoxtamdongphuong.com sends a mixed set of signals. On the positive side, its domain has been registered for 3.6 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Inoxtamdongphuong in the score above.
 

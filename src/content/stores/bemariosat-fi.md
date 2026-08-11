@@ -5,7 +5,7 @@ title: Is bemariosat.fi Legit? Trust Score 74/100
 description: >-
   bemariosat.fi scores 74/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:51:30.516Z'
+fetchedAt: '2026-07-27T08:37:17.710Z'
 finalUrl: 'https://bemariosat.fi/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-01'
-      daysToExpiry: 38
+      validTo: '2026-09-29'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

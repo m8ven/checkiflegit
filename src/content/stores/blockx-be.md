@@ -5,7 +5,7 @@ title: Is blockx.be Legit? Trust Score 64/100 — Mixed Signals
 description: >-
   blockx.be scores 64/100 on our public trust checks. No public contact details
   detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T03:00:43.704Z'
+fetchedAt: '2026-08-03T08:07:06.259Z'
 finalUrl: 'https://blockx.be/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.2 years ago.
+    - Established domain — registered 28.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-02'
-      daysToExpiry: 39
+      validTo: '2026-10-01'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-05-01'
-      ageDays: 10281
-      ageYears: 28.2
-    detail: Registered 28.2 years ago (1998-05-01).
+      ageDays: 10321
+      ageYears: 28.3
+    detail: Registered 28.3 years ago (1998-05-01).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blockx.be sends a mixed set of signals. On the positive side, its domain has been registered for 28.2 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+blockx.be sends a mixed set of signals. On the positive side, its domain has been registered for 28.3 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blockx in the score above.
 

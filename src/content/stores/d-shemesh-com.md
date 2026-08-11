@@ -4,8 +4,8 @@ slug: d-shemesh-com
 title: Is d-shemesh.com Legit? Trust Score 88/100
 description: >-
   d-shemesh.com scores 88/100 on our public trust checks. Established domain —
-  registered 6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:31:07.517Z'
+  registered 6.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:19:52.934Z'
 finalUrl: 'http://www.d-shemesh.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6 years ago.
+    - Established domain — registered 6.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-21'
-      daysToExpiry: 58
+      daysToExpiry: 25
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-07-08'
-      ageDays: 2177
-      ageYears: 6
-    detail: Registered 6 years ago (2020-07-08).
+      ageDays: 2209
+      ageYears: 6.1
+    detail: Registered 6.1 years ago (2020-07-08).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-d-shemesh.com looks like a well-established store. The clearest positives are that its domain has been registered for 6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+d-shemesh.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against D-shemesh in the score above.
 

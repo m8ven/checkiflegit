@@ -5,7 +5,7 @@ title: Is bodasnm.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   bodasnm.com scores 82/100 on our public trust checks. Established domain —
   registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:19:53.840Z'
+fetchedAt: '2026-07-27T08:10:49.763Z'
 finalUrl: 'https://bodasnm.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2015-09-22'
-      ageDays: 3928
+      ageDays: 3960
       ageYears: 10.8
     detail: Registered 10.8 years ago (2015-09-22).
   contact:

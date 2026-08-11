@@ -1,11 +1,11 @@
 ---
 domain: karudacourier.com
 slug: karudacourier-com
-title: Is karudacourier.com Legit? Trust Score 94/100
+title: Is karudacourier.com Legit? Trust Score 82/100
 description: >-
-  karudacourier.com scores 94/100 on our public trust checks. Established domain
-  — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:32:06.684Z'
+  karudacourier.com scores 82/100 on our public trust checks. Established domain
+  — registered 5.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:20:30.336Z'
 finalUrl: 'https://karudacourier.com/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 94
+  score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.3 years ago.
+    - Established domain — registered 5.4 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: false
       refund: false
       shipping: true
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-12'
-      daysToExpiry: 49
+      daysToExpiry: 17
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-03-20'
-      ageDays: 1922
-      ageYears: 5.3
-    detail: Registered 5.3 years ago (2021-03-20).
+      ageDays: 1954
+      ageYears: 5.4
+    detail: Registered 5.4 years ago (2021-03-20).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-karudacourier.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.3 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+karudacourier.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Karudacourier in the score above.
 

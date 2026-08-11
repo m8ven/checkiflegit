@@ -4,8 +4,8 @@ slug: 100maneiras-com
 title: Is 100maneiras.com Legit? Trust Score 100/100
 description: >-
   100maneiras.com scores 100/100 on our public trust checks. Established domain
-  — registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:08.088Z'
+  — registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:19.762Z'
 finalUrl: 'https://100maneiras.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.6 years ago.
+    - Established domain — registered 14.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-16'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-11-17'
-      ageDays: 5333
-      ageYears: 14.6
-    detail: Registered 14.6 years ago (2011-11-17).
+      ageDays: 5365
+      ageYears: 14.7
+    detail: Registered 14.7 years ago (2011-11-17).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-100maneiras.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+100maneiras.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 100maneiras in the score above.
 

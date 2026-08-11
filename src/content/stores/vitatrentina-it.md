@@ -1,11 +1,11 @@
 ---
 domain: vitatrentina.it
 slug: vitatrentina-it
-title: Is vitatrentina.it Legit? Trust Score 76/100
+title: Is vitatrentina.it Legit? Trust Score 100/100
 description: >-
-  vitatrentina.it scores 76/100 on our public trust checks. Established domain —
-  registered 28.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:29:12.156Z'
+  vitatrentina.it scores 100/100 on our public trust checks. Established domain
+  — registered 28.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:17:16.461Z'
 finalUrl: 'https://vitatrentina.it/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.8 years ago.
+    - Established domain — registered 28.9 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
-    - Only limited contact details were found.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
-      refund: false
+      terms: true
+      refund: true
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: GoGetSSL
       validTo: '2026-08-16'
-      daysToExpiry: 53
+      daysToExpiry: 14
       authorized: true
     detail: Valid certificate issued by GoGetSSL.
   domainAge:
     status: pass
     value:
       createdAt: '1997-09-29'
-      ageDays: 10495
-      ageYears: 28.8
-    detail: Registered 28.8 years ago (1997-09-29).
+      ageDays: 10535
+      ageYears: 28.9
+    detail: Registered 28.9 years ago (1997-09-29).
   contact:
-    status: warn
+    status: pass
     value:
       email: false
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-vitatrentina.it looks like a well-established store. The clearest positives are that its domain has been registered for 28.8 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+vitatrentina.it looks like a well-established store. The clearest positives are that its domain has been registered for 28.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Vitatrentina in the score above.
 

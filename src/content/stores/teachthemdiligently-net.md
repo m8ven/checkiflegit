@@ -4,8 +4,8 @@ slug: teachthemdiligently-net
 title: Is teachthemdiligently.net Legit? Trust Score 100/100
 description: >-
   teachthemdiligently.net scores 100/100 on our public trust checks. Established
-  domain — registered 15 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:04:39.349Z'
+  domain — registered 15.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:14:48.362Z'
 finalUrl: 'https://teachthemdiligently.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15 years ago.
+    - Established domain — registered 15.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-01'
-      daysToExpiry: 69
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2011-06-27'
-      ageDays: 5476
-      ageYears: 15
-    detail: Registered 15 years ago (2011-06-27).
+      ageDays: 5522
+      ageYears: 15.1
+    detail: Registered 15.1 years ago (2011-06-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-teachthemdiligently.net looks like a well-established store. The clearest positives are that its domain has been registered for 15 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+teachthemdiligently.net looks like a well-established store. The clearest positives are that its domain has been registered for 15.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Teachthemdiligently in the score above.
 

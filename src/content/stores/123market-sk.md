@@ -5,7 +5,7 @@ title: Is 123market.sk Legit? Trust Score 83/100
 description: >-
   123market.sk scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:10:50.759Z'
+fetchedAt: '2026-08-10T06:19:46.139Z'
 finalUrl: 'https://www.123market.sk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 40
+      validTo: '2026-10-02'
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

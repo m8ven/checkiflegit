@@ -4,8 +4,8 @@ slug: chocolatesandpearls-com
 title: Is chocolatesandpearls.com Legit? Trust Score 100/100
 description: >-
   chocolatesandpearls.com scores 100/100 on our public trust checks. Established
-  domain — registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:22:00.390Z'
+  domain — registered 14.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:12:14.114Z'
 finalUrl: 'https://chocolatesandpearls.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.6 years ago.
+    - Established domain — registered 14.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-11-04'
-      ageDays: 5346
-      ageYears: 14.6
-    detail: Registered 14.6 years ago (2011-11-04).
+      ageDays: 5378
+      ageYears: 14.7
+    detail: Registered 14.7 years ago (2011-11-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-chocolatesandpearls.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+chocolatesandpearls.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Chocolatesandpearls in the score above.
 

@@ -4,8 +4,8 @@ slug: stitchpartner-com
 title: Is stitchpartner.com Legit? Trust Score 100/100
 description: >-
   stitchpartner.com scores 100/100 on our public trust checks. Established
-  domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:04:41.508Z'
+  domain — registered 1.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:14:50.602Z'
 finalUrl: 'https://stitchpartner.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 1.5 years ago.
+    - Established domain — registered 1.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-17'
-      daysToExpiry: 85
+      daysToExpiry: 39
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-12-27'
-      ageDays: 545
-      ageYears: 1.5
-    detail: Registered 1.5 years ago (2024-12-27).
+      ageDays: 590
+      ageYears: 1.6
+    detail: Registered 1.6 years ago (2024-12-27).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-stitchpartner.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+stitchpartner.com looks like a well-established store. The clearest positives are that its domain has been registered for 1.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Stitchpartner in the score above.
 

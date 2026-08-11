@@ -5,7 +5,7 @@ title: Is tasttoe.cakestart.com Legit? Trust Score 0/100
 description: >-
   tasttoe.cakestart.com scores 0/100 on our public trust checks. No valid SSL
   certificate — connection may not be secure.
-fetchedAt: '2026-06-25T02:17:16.245Z'
+fetchedAt: '2026-07-27T08:08:12.242Z'
 finalUrl: 'http://tasttoe.cakestart.com/'
 reachable: true
 noindex: false
@@ -56,9 +56,9 @@ signals:
     status: fail
     value: null
     detail: >
-      TLS connection failed: 801EB1EC01000000:error:0A000410:SSL
-      routines:ssl3_read_bytes:ssl/tls alert handshake
-      failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert
+      TLS connection failed: 804C6C8A7E7F0000:error:0A000410:SSL
+      routines:ssl3_read_bytes:sslv3 alert handshake
+      failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1601:SSL alert
       number 40
   domainAge:
     status: unknown

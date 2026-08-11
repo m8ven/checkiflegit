@@ -5,7 +5,7 @@ title: Is shop.vastutalks.com Legit? Trust Score 100/100
 description: >-
   shop.vastutalks.com scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:10:35.606Z'
+fetchedAt: '2026-08-10T06:19:35.791Z'
 finalUrl: 'https://shop.vastutalks.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-20'
-      daysToExpiry: 56
+      validTo: '2026-10-19'
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

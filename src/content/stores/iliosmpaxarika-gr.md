@@ -5,7 +5,7 @@ title: Is iliosmpaxarika.gr Legit? Trust Score 100/100
 description: >-
   iliosmpaxarika.gr scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:59:36.051Z'
+fetchedAt: '2026-08-10T06:10:45.354Z'
 finalUrl: 'https://iliosmpaxarika.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: DigiCert Inc
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2027-01-23'
+      daysToExpiry: 167
       authorized: true
     detail: Valid certificate issued by DigiCert Inc.
   domainAge:

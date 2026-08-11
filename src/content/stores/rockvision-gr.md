@@ -5,7 +5,7 @@ title: Is rockvision.gr Legit? Trust Score 83/100
 description: >-
   rockvision.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:43:12.773Z'
+fetchedAt: '2026-07-27T08:29:26.830Z'
 finalUrl: 'https://rockvision.gr/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-02'
-      daysToExpiry: 70
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

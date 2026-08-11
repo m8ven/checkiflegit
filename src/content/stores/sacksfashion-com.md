@@ -4,8 +4,8 @@ slug: sacksfashion-com
 title: Is sacksfashion.com Legit? Trust Score 88/100
 description: >-
   sacksfashion.com scores 88/100 on our public trust checks. Established domain
-  — registered 11 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:53.273Z'
+  — registered 11.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:58.820Z'
 finalUrl: 'https://sacksfashion.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 11 years ago.
+    - Established domain — registered 11.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 78
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-07-07'
-      ageDays: 4005
-      ageYears: 11
-    detail: Registered 11 years ago (2015-07-07).
+      ageDays: 4037
+      ageYears: 11.1
+    detail: Registered 11.1 years ago (2015-07-07).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sacksfashion.com looks like a well-established store. The clearest positives are that its domain has been registered for 11 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sacksfashion.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sacksfashion in the score above.
 

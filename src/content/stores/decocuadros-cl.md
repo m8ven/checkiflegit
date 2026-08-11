@@ -6,7 +6,7 @@ description: >-
   decocuadros.cl scores 66/100 on our public trust checks. Some standard policy
   or contact pages appear to be missing. Only limited contact details were
   found.
-fetchedAt: '2026-06-25T03:40:09.929Z'
+fetchedAt: '2026-08-03T08:25:46.473Z'
 finalUrl: 'https://decocuadros.cl/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 37
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

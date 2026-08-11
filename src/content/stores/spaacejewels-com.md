@@ -4,8 +4,8 @@ slug: spaacejewels-com
 title: Is spaacejewels.com Legit? Trust Score 88/100
 description: >-
   spaacejewels.com scores 88/100 on our public trust checks. Established domain
-  — registered 7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:00:20.555Z'
+  — registered 7.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:11:18.971Z'
 finalUrl: 'https://spaacejewels.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7 years ago.
+    - Established domain — registered 7.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2019-06-13'
-      ageDays: 2568
-      ageYears: 7
-    detail: Registered 7 years ago (2019-06-13).
+      ageDays: 2614
+      ageYears: 7.2
+    detail: Registered 7.2 years ago (2019-06-13).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-spaacejewels.com looks like a well-established store. The clearest positives are that its domain has been registered for 7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+spaacejewels.com looks like a well-established store. The clearest positives are that its domain has been registered for 7.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Spaacejewels in the score above.
 

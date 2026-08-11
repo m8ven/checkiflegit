@@ -4,8 +4,8 @@ slug: ristorcucine-it
 title: Is ristorcucine.it Legit? Trust Score 100/100
 description: >-
   ristorcucine.it scores 100/100 on our public trust checks. Established domain
-  — registered 4.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:06:42.650Z'
+  — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:16:24.504Z'
 finalUrl: 'https://ristorcucine.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.7 years ago.
+    - Established domain — registered 4.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -49,24 +49,24 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-26'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
-      createdAt: '2021-10-29'
-      ageDays: 1700
-      ageYears: 4.7
-    detail: Registered 4.7 years ago (2021-10-29).
+      createdAt: '2021-10-28'
+      ageDays: 1746
+      ageYears: 4.8
+    detail: Registered 4.8 years ago (2021-10-28).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ristorcucine.it looks like a well-established store. The clearest positives are that its domain has been registered for 4.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ristorcucine.it looks like a well-established store. The clearest positives are that its domain has been registered for 4.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ristorcucine in the score above.
 

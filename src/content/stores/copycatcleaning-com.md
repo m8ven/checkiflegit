@@ -4,8 +4,8 @@ slug: copycatcleaning-com
 title: Is copycatcleaning.com Legit? Trust Score 85/100
 description: >-
   copycatcleaning.com scores 85/100 on our public trust checks. Established
-  domain — registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:30:39.903Z'
+  domain — registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:18:51.159Z'
 finalUrl: 'https://copycatcleaning.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.6 years ago.
+    - Established domain — registered 14.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-18'
-      daysToExpiry: 54
+      validTo: '2026-10-16'
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2011-11-04'
-      ageDays: 5346
-      ageYears: 14.6
-    detail: Registered 14.6 years ago (2011-11-04).
+      ageDays: 5385
+      ageYears: 14.8
+    detail: Registered 14.8 years ago (2011-11-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-copycatcleaning.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.6 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+copycatcleaning.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Copycatcleaning in the score above.
 

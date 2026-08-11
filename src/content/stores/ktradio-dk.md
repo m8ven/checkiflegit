@@ -1,11 +1,11 @@
 ---
 domain: ktradio.dk
 slug: ktradio-dk
-title: Is ktradio.dk Legit? Trust Score 85/100 — Trust Checks Pass
+title: Is ktradio.dk Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
-  ktradio.dk scores 85/100 on our public trust checks. Established domain —
-  registered 27.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:41:16.837Z'
+  ktradio.dk scores 73/100 on our public trust checks. Established domain —
+  registered 27.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:27:54.382Z'
 finalUrl: 'https://ktradio.dk/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 85
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 27.8 years ago.
+    - Established domain — registered 27.9 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
-      terms: true
-      refund: true
+      privacy: false
+      terms: false
+      refund: false
       shipping: true
-    detail: Found 4 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-24'
+      daysToExpiry: 89
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-09-02'
-      ageDays: 10158
-      ageYears: 27.8
-    detail: Registered 27.8 years ago (1998-09-02).
+      ageDays: 10190
+      ageYears: 27.9
+    detail: Registered 27.9 years ago (1998-09-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-ktradio.dk looks like a well-established store. The clearest positives are that its domain has been registered for 27.8 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+ktradio.dk looks like a well-established store. The clearest positives are that its domain has been registered for 27.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Ktradio in the score above.
 

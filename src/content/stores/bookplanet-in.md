@@ -5,7 +5,7 @@ title: Is bookplanet.in Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   bookplanet.in scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:37:22.543Z'
+fetchedAt: '2026-08-10T06:02:32.896Z'
 finalUrl: 'https://bookplanet.in/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

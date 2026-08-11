@@ -5,7 +5,7 @@ title: Is jeanfrancoismazouaud.fr Legit? Trust Score 70/100
 description: >-
   jeanfrancoismazouaud.fr scores 70/100 on our public trust checks. Established
   domain — registered 1.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:29.591Z'
+fetchedAt: '2026-07-27T08:26:26.519Z'
 finalUrl: 'https://jeanfrancoismazouaud.fr/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2025-01-08'
-      ageDays: 532
+      ageDays: 564
       ageYears: 1.5
     detail: Registered 1.5 years ago (2025-01-08).
   contact:

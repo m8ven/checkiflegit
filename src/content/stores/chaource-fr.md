@@ -4,8 +4,8 @@ slug: chaource-fr
 title: Is chaource.fr Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   chaource.fr scores 88/100 on our public trust checks. Established domain —
-  registered 22.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:26:41.105Z'
+  registered 22.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:32:55.503Z'
 finalUrl: 'https://www.chaource.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 22.8 years ago.
+    - Established domain — registered 22.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-03'
-      daysToExpiry: 70
+      daysToExpiry: 24
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-09-23'
-      ageDays: 8310
-      ageYears: 22.8
-    detail: Registered 22.8 years ago (2003-09-23).
+      ageDays: 8356
+      ageYears: 22.9
+    detail: Registered 22.9 years ago (2003-09-23).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-chaource.fr looks like a well-established store. The clearest positives are that its domain has been registered for 22.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+chaource.fr looks like a well-established store. The clearest positives are that its domain has been registered for 22.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Chaource in the score above.
 

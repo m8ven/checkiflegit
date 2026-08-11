@@ -5,7 +5,7 @@ title: Is discoverbricks.es Legit? Trust Score 100/100
 description: >-
   discoverbricks.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:24:47.625Z'
+fetchedAt: '2026-08-03T08:13:36.630Z'
 finalUrl: 'https://discoverbricks.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-20'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

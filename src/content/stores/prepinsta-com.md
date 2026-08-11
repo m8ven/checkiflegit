@@ -4,8 +4,8 @@ slug: prepinsta-com
 title: Is prepinsta.com Legit? Trust Score 100/100
 description: >-
   prepinsta.com scores 100/100 on our public trust checks. Established domain —
-  registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:27.071Z'
+  registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:35.258Z'
 finalUrl: 'https://prepinsta.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.2 years ago.
+    - Established domain — registered 9.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-10-28'
-      daysToExpiry: 126
+      daysToExpiry: 94
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
     status: pass
     value:
       createdAt: '2017-04-19'
-      ageDays: 3353
-      ageYears: 9.2
-    detail: Registered 9.2 years ago (2017-04-19).
+      ageDays: 3385
+      ageYears: 9.3
+    detail: Registered 9.3 years ago (2017-04-19).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-prepinsta.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+prepinsta.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Prepinsta in the score above.
 

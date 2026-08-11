@@ -5,7 +5,7 @@ title: Is beate-muehling-textilkollektionen.de Legit? Score 91/100
 description: >-
   beate-muehling-textilkollektionen.de scores 91/100 on our public trust checks.
   Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:17.601Z'
+fetchedAt: '2026-08-03T08:04:05.551Z'
 finalUrl: 'https://beate-muehling-textilkollektionen.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 66
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

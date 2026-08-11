@@ -1,32 +1,30 @@
 ---
 domain: mortapathologyservices.com
 slug: mortapathologyservices-com
-title: Is mortapathologyservices.com Legit? Trust Score 40/100
+title: Is mortapathologyservices.com Legit? Trust Score 67/100
 description: >-
-  mortapathologyservices.com scores 40/100 on our public trust checks. Domain
-  registered very recently (54 days ago). No links to major social platforms
-  found.
-fetchedAt: '2026-06-25T02:55:53.454Z'
+  mortapathologyservices.com scores 67/100 on our public trust checks. No links
+  to major social platforms found. Domain is relatively young.
+fetchedAt: '2026-08-10T06:00:19.092Z'
 finalUrl: 'https://mortapathologyservices.com/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 40
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 67
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
-    - Domain registered very recently (54 days ago).
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Domain is relatively young.
 signals:
   http:
     status: pass
@@ -58,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: fail
+    status: warn
     value:
       createdAt: '2026-05-01'
-      ageDays: 54
-      ageYears: 0.1
-    detail: Registered very recently (54 days ago).
+      ageDays: 100
+      ageYears: 0.3
+    detail: Registered 0.3 years ago (2026-05-01).
   contact:
     status: pass
     value:
@@ -97,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for mortapathologyservices.com. In particular, the domain was only registered very recently and it has little or no social media footprint. It does have some positives — it lists genuine business contact details and it publishes the contact and policy pages shoppers expect — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+mortapathologyservices.com sends a mixed set of signals. On the positive side, it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. Against that, the domain is still relatively young and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mortapathologyservices in the score above.
 

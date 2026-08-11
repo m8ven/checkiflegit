@@ -5,7 +5,7 @@ title: Is libria.com.ar Legit? Trust Score 83/100
 description: >-
   libria.com.ar scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:34:25.845Z'
+fetchedAt: '2026-07-27T08:22:16.529Z'
 finalUrl: 'https://libria.com.ar/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

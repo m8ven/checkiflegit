@@ -5,7 +5,7 @@ title: Is shop.treatians.com Legit? Trust Score 66/100
 description: >-
   shop.treatians.com scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:51:15.621Z'
+fetchedAt: '2026-07-27T08:37:08.399Z'
 finalUrl: 'https://shop.treatians.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-16'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

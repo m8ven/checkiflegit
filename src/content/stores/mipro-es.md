@@ -6,7 +6,7 @@ description: >-
   mipro.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Has a contact page and multiple policy pages
   (privacy/terms/refund).
-fetchedAt: '2026-06-25T03:54:44.586Z'
+fetchedAt: '2026-08-10T06:04:54.297Z'
 finalUrl: 'https://mipro.es/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-08-17'
-      daysToExpiry: 54
+      daysToExpiry: 8
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

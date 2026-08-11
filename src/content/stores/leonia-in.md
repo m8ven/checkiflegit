@@ -5,7 +5,7 @@ title: Is leonia.in Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   leonia.in scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:41:53.330Z'
+fetchedAt: '2026-07-27T08:28:23.492Z'
 finalUrl: 'https://leonia.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-24'
-      daysToExpiry: 29
+      validTo: '2026-09-23'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

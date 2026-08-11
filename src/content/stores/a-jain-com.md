@@ -4,8 +4,8 @@ slug: a-jain-com
 title: Is a-jain.com Legit? Trust Score 70/100 — Trust Checks Pass
 description: >-
   a-jain.com scores 70/100 on our public trust checks. Established domain —
-  registered 11.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:34:31.484Z'
+  registered 11.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:19.166Z'
 finalUrl: 'https://a-jain.com/'
 reachable: true
 noindex: false
@@ -17,8 +17,8 @@ verdict:
     secure payment methods when shopping online.
   score: 70
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 11.2 years ago.
+    - 'Built on Shopify, an established e-commerce platform.'
+    - Established domain — registered 11.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -35,14 +35,14 @@ signals:
   platform:
     status: pass
     value:
-      platform: WooCommerce
+      platform: Shopify
       isStore: true
       markers:
         hasAddToCart: true
         hasCartLink: true
         hasCatalog: true
         hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
     status: pass
     value:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-10-01'
+      daysToExpiry: 67
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-04-20'
-      ageDays: 4083
-      ageYears: 11.2
-    detail: Registered 11.2 years ago (2015-04-20).
+      ageDays: 4115
+      ageYears: 11.3
+    detail: Registered 11.3 years ago (2015-04-20).
   contact:
     status: fail
     value:
@@ -82,11 +82,11 @@ signals:
       twitter: true
       tiktok: false
       youtube: true
-      linkedin: true
+      linkedin: false
       pinterest: true
     detail: >-
-      Links to 6 social platform(s): facebook, instagram, twitter, youtube,
-      linkedin, pinterest.
+      Links to 5 social platform(s): facebook, instagram, twitter, youtube,
+      pinterest.
   reviews:
     status: unknown
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-a-jain.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+a-jain.com looks like a well-established store. The clearest positives are that its domain has been registered for 11.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against A-jain in the score above.
 

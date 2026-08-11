@@ -1,11 +1,11 @@
 ---
 domain: polminton.com
 slug: polminton-com
-title: Is polminton.com Legit? Trust Score 73/100
+title: Is polminton.com Legit? Trust Score 85/100
 description: >-
-  polminton.com scores 73/100 on our public trust checks. Established domain —
+  polminton.com scores 85/100 on our public trust checks. Established domain —
   registered 27 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:41:16.732Z'
+fetchedAt: '2026-07-27T08:27:53.995Z'
 finalUrl: 'https://polminton.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 73
+  score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Established domain — registered 27 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,27 +44,27 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-19'
-      daysToExpiry: 117
+      daysToExpiry: 85
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '1999-07-16'
-      ageDays: 9840
+      ageDays: 9872
       ageYears: 27
     detail: Registered 27 years ago (1999-07-16).
   contact:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-polminton.com looks like a well-established store. The clearest positives are that its domain has been registered for 27 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+polminton.com looks like a well-established store. The clearest positives are that its domain has been registered for 27 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Polminton in the score above.
 

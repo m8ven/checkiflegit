@@ -6,7 +6,7 @@ description: >-
   ishoestore.gr scores 44/100 on our public trust checks. No links to major
   social platforms found. Some standard policy or contact pages appear to be
   missing.
-fetchedAt: '2026-06-25T12:24:46.171Z'
+fetchedAt: '2026-08-10T06:31:16.420Z'
 finalUrl: 'https://www.ishoestore.gr/'
 reachable: true
 noindex: false
@@ -57,8 +57,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-09-02'
-      daysToExpiry: 70
+      validTo: '2026-10-31'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

@@ -5,7 +5,7 @@ title: Is wandtattoo-loft.de Legit? Trust Score 100/100
 description: >-
   wandtattoo-loft.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:24:14.948Z'
+fetchedAt: '2026-08-03T08:13:18.028Z'
 finalUrl: 'https://www.wandtattoo-loft.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is ravenbio.in Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
   ravenbio.in scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:32:49.677Z'
+fetchedAt: '2026-08-10T06:37:58.011Z'
 finalUrl: 'https://ravenbio.in/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 63
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

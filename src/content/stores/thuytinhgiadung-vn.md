@@ -5,7 +5,7 @@ title: Is thuytinhgiadung.vn Legit? Trust Score 49/100
 description: >-
   thuytinhgiadung.vn scores 49/100 on our public trust checks. Standard contact
   and policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T12:11:01.150Z'
+fetchedAt: '2026-08-10T06:19:54.898Z'
 finalUrl: 'https://thuytinhgiadung.vn/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-01'
-      daysToExpiry: 68
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

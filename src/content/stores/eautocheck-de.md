@@ -5,7 +5,7 @@ title: Is eautocheck.de Legit? Trust Score 91/100
 description: >-
   eautocheck.de scores 91/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:35:58.258Z'
+fetchedAt: '2026-08-03T08:22:41.230Z'
 finalUrl: 'https://eautocheck.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-22'
-      daysToExpiry: 90
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

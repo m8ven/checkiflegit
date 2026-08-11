@@ -4,8 +4,8 @@ slug: sadarmawla-org
 title: Is sadarmawla.org Legit? Trust Score 100/100
 description: >-
   sadarmawla.org scores 100/100 on our public trust checks. Established domain —
-  registered 3.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:49:53.600Z'
+  registered 3.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:35:59.025Z'
 finalUrl: 'https://sadarmawla.org/en/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.6 years ago.
+    - Established domain — registered 3.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-09'
-      daysToExpiry: 77
+      daysToExpiry: 45
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-10-31'
-      ageDays: 1332
-      ageYears: 3.6
-    detail: Registered 3.6 years ago (2022-10-31).
+      ageDays: 1364
+      ageYears: 3.7
+    detail: Registered 3.7 years ago (2022-10-31).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sadarmawla.org looks like a well-established store. The clearest positives are that its domain has been registered for 3.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sadarmawla.org looks like a well-established store. The clearest positives are that its domain has been registered for 3.7 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sadarmawla in the score above.
 

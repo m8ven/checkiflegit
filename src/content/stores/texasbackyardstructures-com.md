@@ -1,12 +1,11 @@
 ---
 domain: texasbackyardstructures.com
 slug: texasbackyardstructures-com
-title: Is texasbackyardstructures.com Legit? Trust Score 100/100
+title: Is texasbackyardstructures.com Legit? Trust Score 78/100
 description: >-
-  texasbackyardstructures.com scores 100/100 on our public trust checks.
-  Established domain — registered 9.4 years ago. Valid HTTPS/SSL certificate in
-  place.
-fetchedAt: '2026-06-25T02:47:32.017Z'
+  texasbackyardstructures.com scores 78/100 on our public trust checks.
+  Established domain — registered 9.5 years ago.
+fetchedAt: '2026-07-27T08:33:58.849Z'
 finalUrl: 'https://texasbackyardstructures.com/'
 reachable: true
 noindex: false
@@ -16,16 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 100
+  score: 78
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.4 years ago.
-    - Valid HTTPS/SSL certificate in place.
+    - Established domain — registered 9.5 years ago.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
-    - Public business contact details are listed.
-    - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions: []
+  cautions:
+    - Only limited contact details were found.
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -37,11 +35,11 @@ signals:
     status: pass
     value:
       platform: WooCommerce
-      isStore: true
+      isStore: false
       markers:
         hasAddToCart: true
-        hasCartLink: false
-        hasCatalog: true
+        hasCartLink: true
+        hasCatalog: false
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
@@ -54,38 +52,34 @@ signals:
       shipping: false
     detail: Found 2 policy page(s) and a contact page.
   ssl:
-    status: pass
-    value:
-      issuer: Google Trust Services
-      validTo: '2026-09-21'
-      daysToExpiry: 89
-      authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    status: unknown
+    value: null
+    detail: TLS connection timed out.
   domainAge:
     status: pass
     value:
       createdAt: '2017-01-19'
-      ageDays: 3443
-      ageYears: 9.4
-    detail: Registered 9.4 years ago (2017-01-19).
+      ageDays: 3475
+      ageYears: 9.5
+    detail: Registered 9.5 years ago (2017-01-19).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
-      address: true
-    detail: 'Public contact details found: email, phone, address.'
+      address: false
+    detail: 'Public contact details found: phone.'
   social:
-    status: pass
+    status: warn
     value:
       facebook: true
-      instagram: true
+      instagram: false
       twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, instagram.'
+    detail: 'Links to 1 social platform(s): facebook.'
   reviews:
     status: unknown
     value:
@@ -96,7 +90,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-texasbackyardstructures.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+texasbackyardstructures.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Texasbackyardstructures in the score above.
 

@@ -5,7 +5,7 @@ title: Is e-sportshop.gr Legit? Trust Score 83/100
 description: >-
   e-sportshop.gr scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T03:42:41.429Z'
+fetchedAt: '2026-08-03T08:28:13.489Z'
 finalUrl: 'https://e-sportshop.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-03'
-      daysToExpiry: 40
+      validTo: '2026-10-01'
+      daysToExpiry: 60
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

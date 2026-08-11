@@ -4,8 +4,8 @@ slug: renovadesign-it
 title: Is renovadesign.it Legit? Trust Score 82/100
 description: >-
   renovadesign.it scores 82/100 on our public trust checks. Established domain —
-  registered 19.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:26:45.958Z'
+  registered 19.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:26.329Z'
 finalUrl: 'https://www.renovadesign.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.1 years ago.
+    - Established domain — registered 19.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Actalis S.p.A.
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2027-02-17'
+      daysToExpiry: 198
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '2007-05-18'
-      ageDays: 6977
-      ageYears: 19.1
-    detail: Registered 19.1 years ago (2007-05-18).
+      ageDays: 7016
+      ageYears: 19.2
+    detail: Registered 19.2 years ago (2007-05-18).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-renovadesign.it looks like a well-established store. The clearest positives are that its domain has been registered for 19.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+renovadesign.it looks like a well-established store. The clearest positives are that its domain has been registered for 19.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Renovadesign in the score above.
 

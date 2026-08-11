@@ -4,8 +4,8 @@ slug: fatquartershop-com
 title: Is fatquartershop.com Legit? Trust Score 100/100
 description: >-
   fatquartershop.com scores 100/100 on our public trust checks. Established
-  domain — registered 23.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:13.426Z'
+  domain — registered 23.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:23.388Z'
 finalUrl: 'https://www.fatquartershop.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Magento, an established e-commerce platform.'
-    - Established domain — registered 23.1 years ago.
+    - Established domain — registered 23.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2003-05-24'
-      ageDays: 8432
-      ageYears: 23.1
-    detail: Registered 23.1 years ago (2003-05-24).
+      ageDays: 8465
+      ageYears: 23.2
+    detail: Registered 23.2 years ago (2003-05-24).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fatquartershop.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fatquartershop.com looks like a well-established store. The clearest positives are that its domain has been registered for 23.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fatquartershop in the score above.
 

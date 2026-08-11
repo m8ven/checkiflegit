@@ -5,7 +5,7 @@ title: Is top-shop.md Legit? Trust Score 100/100
 description: >-
   top-shop.md scores 100/100 on our public trust checks. Established domain —
   registered 16.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:48:26.702Z'
+fetchedAt: '2026-07-27T08:34:33.940Z'
 finalUrl: 'https://top-shop.md/'
 reachable: true
 noindex: false
@@ -49,22 +49,22 @@ signals:
       contact: true
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 3 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-02'
-      daysToExpiry: 69
+      validTo: '2026-10-03'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-03-29'
-      ageDays: 5932
+      ageDays: 5964
       ageYears: 16.3
     detail: Registered 16.3 years ago (2010-03-29).
   contact:

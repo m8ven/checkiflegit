@@ -4,8 +4,8 @@ slug: urbancarwashing-com
 title: Is urbancarwashing.com Legit? Trust Score 73/100
 description: >-
   urbancarwashing.com scores 73/100 on our public trust checks. Established
-  domain — registered 2.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:07:58.438Z'
+  domain — registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:17:29.895Z'
 finalUrl: 'https://urbancarwashing.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.8 years ago.
+    - Established domain — registered 2.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-27'
-      daysToExpiry: 64
+      validTo: '2026-10-27'
+      daysToExpiry: 79
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-09-16'
-      ageDays: 1012
-      ageYears: 2.8
-    detail: Registered 2.8 years ago (2023-09-16).
+      ageDays: 1058
+      ageYears: 2.9
+    detail: Registered 2.9 years ago (2023-09-16).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-urbancarwashing.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+urbancarwashing.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Urbancarwashing in the score above.
 

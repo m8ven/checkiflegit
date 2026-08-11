@@ -5,7 +5,7 @@ title: Is minimall.gr Legit? Trust Score 40/100
 description: >-
   minimall.gr scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:36:50.578Z'
+fetchedAt: '2026-07-27T08:24:28.038Z'
 finalUrl: 'https://minimall.gr/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 54
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

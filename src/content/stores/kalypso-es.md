@@ -5,7 +5,7 @@ title: Is kalypso.es Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   kalypso.es scores 57/100 on our public trust checks. No public contact details
   detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:51:22.186Z'
+fetchedAt: '2026-08-03T08:35:15.442Z'
 finalUrl: 'https://kalypso.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-16'
-      daysToExpiry: 83
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

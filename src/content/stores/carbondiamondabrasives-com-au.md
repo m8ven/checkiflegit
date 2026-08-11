@@ -5,7 +5,7 @@ title: Is carbondiamondabrasives.com.au Legit? Trust Score 83/100
 description: >-
   carbondiamondabrasives.com.au scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:21:10.223Z'
+fetchedAt: '2026-07-27T08:11:37.192Z'
 finalUrl: 'https://carbondiamondabrasives.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-25'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

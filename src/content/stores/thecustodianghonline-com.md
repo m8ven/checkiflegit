@@ -4,8 +4,8 @@ slug: thecustodianghonline-com
 title: Is thecustodianghonline.com Legit? Trust Score 94/100
 description: >-
   thecustodianghonline.com scores 94/100 on our public trust checks. Established
-  domain — registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:37.167Z'
+  domain — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:34:00.822Z'
 finalUrl: 'https://thecustodianghonline.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.5 years ago.
+    - Established domain — registered 6.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -48,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: true
+      terms: false
       refund: true
       shipping: true
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-05'
-      daysToExpiry: 103
+      daysToExpiry: 71
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2020-01-03'
-      ageDays: 2364
-      ageYears: 6.5
-    detail: Registered 6.5 years ago (2020-01-03).
+      ageDays: 2396
+      ageYears: 6.6
+    detail: Registered 6.6 years ago (2020-01-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thecustodianghonline.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thecustodianghonline.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thecustodianghonline in the score above.
 

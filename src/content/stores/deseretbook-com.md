@@ -5,7 +5,7 @@ title: Is deseretbook.com Legit? Trust Score 88/100
 description: >-
   deseretbook.com scores 88/100 on our public trust checks. Established domain —
   registered 31.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:34.514Z'
+fetchedAt: '2026-07-27T08:06:52.297Z'
 finalUrl: 'https://www.deseretbook.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Amazon
       validTo: '2026-10-08'
-      daysToExpiry: 107
+      daysToExpiry: 74
       authorized: true
     detail: Valid certificate issued by Amazon.
   domainAge:
     status: pass
     value:
       createdAt: '1995-06-12'
-      ageDays: 11335
+      ageDays: 11368
       ageYears: 31.1
     detail: Registered 31.1 years ago (1995-06-12).
   contact:

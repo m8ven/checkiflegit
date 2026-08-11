@@ -4,8 +4,8 @@ slug: lifescienceplus-com
 title: Is lifescienceplus.com Legit? Trust Score 88/100
 description: >-
   lifescienceplus.com scores 88/100 on our public trust checks. Established
-  domain — registered 21.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:59.593Z'
+  domain — registered 21.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:36.715Z'
 finalUrl: 'https://lifescienceplus.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21.6 years ago.
+    - Established domain — registered 21.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-12'
-      daysToExpiry: 79
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2004-11-20'
-      ageDays: 7887
-      ageYears: 21.6
-    detail: Registered 21.6 years ago (2004-11-20).
+      ageDays: 7926
+      ageYears: 21.7
+    detail: Registered 21.7 years ago (2004-11-20).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lifescienceplus.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lifescienceplus.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lifescienceplus in the score above.
 

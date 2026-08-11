@@ -4,8 +4,8 @@ slug: mayamel-mx
 title: Is mayamel.mx Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   mayamel.mx scores 88/100 on our public trust checks. Established domain —
-  registered 8.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:52:46.750Z'
+  registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:36:17.857Z'
 finalUrl: 'https://mayamel.mx/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.8 years ago.
+    - Established domain — registered 8.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-10-25'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-09-08'
-      ageDays: 3212
-      ageYears: 8.8
-    detail: Registered 8.8 years ago (2017-09-08).
+      ageDays: 3251
+      ageYears: 8.9
+    detail: Registered 8.9 years ago (2017-09-08).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mayamel.mx looks like a well-established store. The clearest positives are that its domain has been registered for 8.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mayamel.mx looks like a well-established store. The clearest positives are that its domain has been registered for 8.9 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mayamel in the score above.
 

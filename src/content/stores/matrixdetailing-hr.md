@@ -5,8 +5,8 @@ title: Is matrixdetailing.hr Legit? Trust Score 88/100
 description: >-
   matrixdetailing.hr scores 88/100 on our public trust checks. Established
   domain — registered 2.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:35:51.225Z'
-finalUrl: 'https://matrixdetailing.hr/'
+fetchedAt: '2026-07-27T08:23:29.184Z'
+finalUrl: 'https://matrixdetailing.hr/?v=c4cc1a1ba567'
 reachable: true
 noindex: false
 verdict:
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://matrixdetailing.hr/'
+      finalUrl: 'https://matrixdetailing.hr/?v=c4cc1a1ba567'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-29'
-      daysToExpiry: 35
+      validTo: '2026-09-27'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-10-30'
-      ageDays: 968
+      ageDays: 1000
       ageYears: 2.7
     detail: Registered 2.7 years ago (2023-10-30).
   contact:

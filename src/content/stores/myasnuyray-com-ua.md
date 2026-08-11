@@ -1,11 +1,11 @@
 ---
 domain: myasnuyray.com.ua
 slug: myasnuyray-com-ua
-title: Is myasnuyray.com.ua Legit? Trust Score 70/100
+title: Is myasnuyray.com.ua Legit? Trust Score 88/100
 description: >-
-  myasnuyray.com.ua scores 70/100 on our public trust checks. Established domain
-  — registered 8.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:57:41.270Z'
+  myasnuyray.com.ua scores 88/100 on our public trust checks. Established domain
+  — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:05:03.460Z'
 finalUrl: 'https://myasnuyray.com.ua/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 70
+  score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.9 years ago.
+    - Established domain — registered 9.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
-  redFlags:
-    - Standard contact and policy pages were not found.
-  cautions: []
+  redFlags: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      shipping: true
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-07-15'
-      ageDays: 3266
-      ageYears: 8.9
-    detail: Registered 8.9 years ago (2017-07-15).
+      ageDays: 3305
+      ageYears: 9.1
+    detail: Registered 9.1 years ago (2017-07-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-myasnuyray.com.ua looks like a well-established store. The clearest positives are that its domain has been registered for 8.9 years and it lists genuine business contact details. The main thing we would flag is that we could not find the usual contact and policy pages, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+myasnuyray.com.ua looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Myasnuyray in the score above.
 

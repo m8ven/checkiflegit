@@ -1,31 +1,30 @@
 ---
 domain: wijnhuis-lesterroirs.be
 slug: wijnhuis-lesterroirs-be
-title: Is wijnhuis-lesterroirs.be Legit? Trust Score 43/100
+title: Is wijnhuis-lesterroirs.be Legit? Trust Score 55/100
 description: >-
-  wijnhuis-lesterroirs.be scores 43/100 on our public trust checks. No public
+  wijnhuis-lesterroirs.be scores 55/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T12:10:18.802Z'
+fetchedAt: '2026-08-10T06:19:25.518Z'
 finalUrl: 'https://wijnhuis-lesterroirs.be/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 43
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 55
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.2 years ago.
+    - Established domain — registered 6.3 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -45,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-16'
-      daysToExpiry: 22
+      validTo: '2026-09-27'
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-04-17'
-      ageDays: 2260
-      ageYears: 6.2
-    detail: Registered 6.2 years ago (2020-04-17).
+      ageDays: 2306
+      ageYears: 6.3
+    detail: Registered 6.3 years ago (2020-04-17).
   contact:
     status: fail
     value:
@@ -96,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for wijnhuis-lesterroirs.be. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — its domain has been registered for 6.2 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+wijnhuis-lesterroirs.be sends a mixed set of signals. On the positive side, its domain has been registered for 6.3 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Wijnhuis-lesterroirs in the score above.
 

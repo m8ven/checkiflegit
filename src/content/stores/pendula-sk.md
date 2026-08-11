@@ -5,7 +5,7 @@ title: Is pendula.sk Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   pendula.sk scores 61/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:29:54.543Z'
+fetchedAt: '2026-08-03T08:17:53.038Z'
 finalUrl: 'https://pendula.sk/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-18'
-      daysToExpiry: 55
+      daysToExpiry: 16
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

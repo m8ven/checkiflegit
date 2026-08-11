@@ -1,27 +1,26 @@
 ---
 domain: switchwatch.co.uk
 slug: switchwatch-co-uk
-title: Is switchwatch.co.uk Legit? Trust Score 76/100
+title: Is switchwatch.co.uk Legit? Trust Score 61/100
 description: >-
-  switchwatch.co.uk scores 76/100 on our public trust checks. Established domain
-  — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:13:56.200Z'
-finalUrl: 'https://switchwatch.co.uk/'
+  switchwatch.co.uk scores 61/100 on our public trust checks. No links to major
+  social platforms found.
+fetchedAt: '2026-08-10T06:22:27.818Z'
+finalUrl: 'https://www.sis.org.uk/'
 reachable: true
 noindex: false
 verdict:
-  tier: strong
-  label: Strong trust signals
+  tier: moderate
+  label: Moderate trust signals
   summary: >-
-    This store shows several positive public trust signals. As always, use
-    secure payment methods when shopping online.
-  score: 76
+    This store shows a mix of trust signals. Some positive indicators are
+    present, but a few are missing — review the breakdown below before buying.
+  score: 61
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.2 years ago.
+    - Established domain — registered 9.3 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
-  redFlags: []
+  redFlags:
+    - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
     - Only limited contact details were found.
@@ -30,43 +29,43 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://switchwatch.co.uk/'
+      finalUrl: 'https://www.sis.org.uk/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
-        hasCatalog: true
+        hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: false
-      refund: false
+      refund: true
       shipping: false
     detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-25'
-      daysToExpiry: 62
+      validTo: '2026-11-01'
+      daysToExpiry: 84
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-04-22'
-      ageDays: 3351
-      ageYears: 9.2
-    detail: Registered 9.2 years ago (2017-04-22).
+      ageDays: 3397
+      ageYears: 9.3
+    detail: Registered 9.3 years ago (2017-04-22).
   contact:
     status: warn
     value:
@@ -75,18 +74,16 @@ signals:
       address: false
     detail: 'Public contact details found: phone.'
   social:
-    status: pass
+    status: fail
     value:
-      facebook: true
-      instagram: true
-      twitter: true
-      tiktok: true
-      youtube: true
+      facebook: false
+      instagram: false
+      twitter: false
+      tiktok: false
+      youtube: false
       linkedin: false
       pinterest: false
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, tiktok,
-      youtube.
+    detail: No links to major social platforms found.
   reviews:
     status: unknown
     value:
@@ -97,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-switchwatch.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 9.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+switchwatch.co.uk sends a mixed set of signals. On the positive side, its domain has been registered for 9.3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Switchwatch in the score above.
 

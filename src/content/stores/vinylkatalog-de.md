@@ -5,7 +5,7 @@ title: Is vinylkatalog.de Legit? Trust Score 61/100 — Mixed Signals
 description: >-
   vinylkatalog.de scores 61/100 on our public trust checks. No links to major
   social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:49:46.657Z'
+fetchedAt: '2026-07-27T08:35:51.857Z'
 finalUrl: 'https://vinylkatalog.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-09-27'
-      daysToExpiry: 95
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

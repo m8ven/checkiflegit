@@ -4,8 +4,8 @@ slug: dainese-com
 title: Is dainese.com Legit? Trust Score 100/100
 description: >-
   dainese.com scores 100/100 on our public trust checks. Established domain —
-  registered 27.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:24.405Z'
+  registered 27.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:32.988Z'
 finalUrl: 'https://www.dainese.com/us/en/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 27.3 years ago.
+    - Established domain — registered 27.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: 'GoDaddy.com, Inc.'
       validTo: '2026-10-24'
-      daysToExpiry: 122
+      daysToExpiry: 90
       authorized: true
     detail: 'Valid certificate issued by GoDaddy.com, Inc..'
   domainAge:
     status: pass
     value:
       createdAt: '1999-03-17'
-      ageDays: 9961
-      ageYears: 27.3
-    detail: Registered 27.3 years ago (1999-03-17).
+      ageDays: 9994
+      ageYears: 27.4
+    detail: Registered 27.4 years ago (1999-03-17).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dainese.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dainese.com looks like a well-established store. The clearest positives are that its domain has been registered for 27.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dainese in the score above.
 

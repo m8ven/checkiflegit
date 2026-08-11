@@ -5,8 +5,8 @@ title: Is competitions.vintageandclassiccarhire.com Legit? Score 83/100
 description: >-
   competitions.vintageandclassiccarhire.com scores 83/100 on our public trust
   checks. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:30:31.767Z'
-finalUrl: 'https://competitions.vintageandclassiccarhire.com/'
+fetchedAt: '2026-08-10T06:01:54.466Z'
+finalUrl: 'https://vintageandclassicuk.com/'
 reachable: true
 noindex: false
 verdict:
@@ -17,7 +17,6 @@ verdict:
     secure payment methods when shopping online.
   score: 83
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -29,19 +28,19 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://competitions.vintageandclassiccarhire.com/'
+      finalUrl: 'https://vintageandclassicuk.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: true
-        hasCatalog: true
-        hasCartFlow: true
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+        hasCatalog: false
+        hasCartFlow: false
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -56,7 +55,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-05'
-      daysToExpiry: 73
+      daysToExpiry: 27
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -76,11 +75,11 @@ signals:
       facebook: true
       instagram: true
       twitter: true
-      tiktok: true
+      tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 4 social platform(s): facebook, instagram, twitter, tiktok.'
+    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
   reviews:
     status: unknown
     value:

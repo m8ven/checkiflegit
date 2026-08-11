@@ -4,8 +4,8 @@ slug: cerbo-ro
 title: Is cerbo.ro Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   cerbo.ro scores 73/100 on our public trust checks. Established domain —
-  registered 12.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:27:01.781Z'
+  registered 12.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:15:32.358Z'
 finalUrl: 'https://cerbo.ro/'
 reachable: true
 noindex: false
@@ -18,13 +18,13 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.5 years ago.
+    - Established domain — registered 12.6 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Public business contact details are listed.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
     - No links to major social platforms found.
   cautions:
-    - Some standard policy or contact pages appear to be missing.
+    - Only limited contact details were found.
 signals:
   http:
     status: pass
@@ -44,36 +44,36 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
       terms: false
-      refund: false
+      refund: true
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 59
+      issuer: Google Trust Services
+      validTo: '2026-10-10'
+      daysToExpiry: 68
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2013-12-20'
-      ageDays: 4570
-      ageYears: 12.5
-    detail: Registered 12.5 years ago (2013-12-20).
+      ageDays: 4609
+      ageYears: 12.6
+    detail: Registered 12.6 years ago (2013-12-20).
   contact:
-    status: pass
+    status: warn
     value:
-      email: true
+      email: false
       phone: true
       address: false
-    detail: 'Public contact details found: email, phone.'
+    detail: 'Public contact details found: phone.'
   social:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-cerbo.ro looks like a well-established store. The clearest positives are that its domain has been registered for 12.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+cerbo.ro looks like a well-established store. The clearest positives are that its domain has been registered for 12.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Cerbo in the score above.
 

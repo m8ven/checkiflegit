@@ -5,7 +5,7 @@ title: Is lovecyclingtech.co.uk Legit? Trust Score 70/100
 description: >-
   lovecyclingtech.co.uk scores 70/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:34:52.352Z'
+fetchedAt: '2026-07-27T08:22:38.663Z'
 finalUrl: 'https://lovecyclingtech.co.uk/'
 reachable: true
 noindex: false
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-03'
-      daysToExpiry: 71
+      daysToExpiry: 38
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: warn
     value:
       createdAt: '2025-11-21'
-      ageDays: 215
-      ageYears: 0.6
-    detail: Registered 0.6 years ago (2025-11-21).
+      ageDays: 248
+      ageYears: 0.7
+    detail: Registered 0.7 years ago (2025-11-21).
   contact:
     status: pass
     value:

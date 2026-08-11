@@ -5,7 +5,7 @@ title: Is miscursosbaratos.com Legit? Trust Score 52/100
 description: >-
   miscursosbaratos.com scores 52/100 on our public trust checks. No public
   contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:44:32.819Z'
+fetchedAt: '2026-07-27T08:31:01.629Z'
 finalUrl: 'https://miscursosbaratos.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 7.8 years ago.
+    - Established domain — registered 7.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -50,23 +50,23 @@ signals:
       privacy: true
       terms: true
       refund: true
-      shipping: false
-    detail: 'Found 3 policy page(s), no contact page.'
+      shipping: true
+    detail: 'Found 4 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-03'
-      daysToExpiry: 40
+      daysToExpiry: 8
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2018-09-20'
-      ageDays: 2834
-      ageYears: 7.8
-    detail: Registered 7.8 years ago (2018-09-20).
+      ageDays: 2866
+      ageYears: 7.9
+    detail: Registered 7.9 years ago (2018-09-20).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-miscursosbaratos.com sends a mixed set of signals. On the positive side, its domain has been registered for 7.8 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+miscursosbaratos.com sends a mixed set of signals. On the positive side, its domain has been registered for 7.9 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Miscursosbaratos in the score above.
 

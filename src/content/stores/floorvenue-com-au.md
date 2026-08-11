@@ -5,7 +5,7 @@ title: Is floorvenue.com.au Legit? Trust Score 83/100
 description: >-
   floorvenue.com.au scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:27:52.097Z'
+fetchedAt: '2026-07-27T08:17:04.378Z'
 finalUrl: 'https://floorvenue.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-03'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

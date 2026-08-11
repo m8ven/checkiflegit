@@ -5,7 +5,7 @@ title: Is mieldefleurs.fr Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   mieldefleurs.fr scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T03:55:19.061Z'
+fetchedAt: '2026-08-10T06:05:28.355Z'
 finalUrl: 'https://mieldefleurs.fr/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.1 years ago.
+    - Established domain — registered 2.2 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-04'
-      daysToExpiry: 40
+      validTo: '2026-09-25'
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2024-05-25'
-      ageDays: 760
-      ageYears: 2.1
-    detail: Registered 2.1 years ago (2024-05-25).
+      ageDays: 806
+      ageYears: 2.2
+    detail: Registered 2.2 years ago (2024-05-25).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mieldefleurs.fr sends a mixed set of signals. On the positive side, its domain has been registered for 2.1 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+mieldefleurs.fr sends a mixed set of signals. On the positive side, its domain has been registered for 2.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mieldefleurs in the score above.
 

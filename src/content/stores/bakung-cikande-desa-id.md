@@ -5,7 +5,7 @@ title: Is bakung-cikande.desa.id Legit? Trust Score 61/100
 description: >-
   bakung-cikande.desa.id scores 61/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T02:20:21.612Z'
+fetchedAt: '2026-07-27T08:11:11.285Z'
 finalUrl: 'https://bakung-cikande.desa.id/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 61
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.9 years ago.
+    - Established domain — registered 3 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No links to major social platforms found.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-23'
-      daysToExpiry: 60
+      validTo: '2026-10-22'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-26'
-      ageDays: 1064
-      ageYears: 2.9
-    detail: Registered 2.9 years ago (2023-07-26).
+      ageDays: 1097
+      ageYears: 3
+    detail: Registered 3 years ago (2023-07-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bakung-cikande.desa.id sends a mixed set of signals. On the positive side, its domain has been registered for 2.9 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+bakung-cikande.desa.id sends a mixed set of signals. On the positive side, its domain has been registered for 3 years and it secures traffic with a valid HTTPS certificate. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bakung-cikande in the score above.
 

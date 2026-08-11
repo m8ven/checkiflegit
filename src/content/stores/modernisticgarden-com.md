@@ -4,8 +4,8 @@ slug: modernisticgarden-com
 title: Is modernisticgarden.com Legit? Trust Score 85/100
 description: >-
   modernisticgarden.com scores 85/100 on our public trust checks. Established
-  domain — registered 16.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:44:48.114Z'
+  domain — registered 17 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:31:16.491Z'
 finalUrl: 'https://modernisticgarden.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 85
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 16.9 years ago.
+    - Established domain — registered 17 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-11'
-      daysToExpiry: 48
+      validTo: '2026-10-09'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2009-07-25'
-      ageDays: 6179
-      ageYears: 16.9
-    detail: Registered 16.9 years ago (2009-07-25).
+      ageDays: 6211
+      ageYears: 17
+    detail: Registered 17 years ago (2009-07-25).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-modernisticgarden.com looks like a well-established store. The clearest positives are that its domain has been registered for 16.9 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+modernisticgarden.com looks like a well-established store. The clearest positives are that its domain has been registered for 17 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Modernisticgarden in the score above.
 

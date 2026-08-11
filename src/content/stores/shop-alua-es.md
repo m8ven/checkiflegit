@@ -1,11 +1,11 @@
 ---
 domain: shop.alua.es
 slug: shop-alua-es
-title: Is shop.alua.es Legit? Trust Score 40/100
+title: Is shop.alua.es Legit? Trust Score 31/100
 description: >-
-  shop.alua.es scores 40/100 on our public trust checks. No public contact
+  shop.alua.es scores 31/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T12:10:10.529Z'
+fetchedAt: '2026-08-10T06:19:20.178Z'
 finalUrl: 'https://shop.alua.es/'
 reachable: true
 noindex: false
@@ -16,15 +16,15 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 40
+  score: 31
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
-    - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
   cautions:
     - Some standard policy or contact pages appear to be missing.
+    - Limited social media presence.
 signals:
   http:
     status: pass
@@ -47,17 +47,17 @@ signals:
     status: warn
     value:
       contact: false
-      privacy: false
+      privacy: true
       terms: true
       refund: false
       shipping: false
-    detail: 'Found 1 policy page(s), no contact page.'
+    detail: 'Found 2 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-29'
-      daysToExpiry: 66
+      validTo: '2026-10-29'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -72,16 +72,16 @@ signals:
       address: false
     detail: No public contact details detected on the homepage.
   social:
-    status: pass
+    status: warn
     value:
       facebook: true
       instagram: false
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: 'Links to 2 social platform(s): facebook, twitter.'
+    detail: 'Links to 1 social platform(s): facebook.'
   reviews:
     status: unknown
     value:

@@ -4,9 +4,9 @@ slug: wildfashion-ro
 title: Is wildfashion.ro Legit? Trust Score 88/100
 description: >-
   wildfashion.ro scores 88/100 on our public trust checks. Established domain —
-  registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:10:25.473Z'
-finalUrl: 'https://wildfashion.ro/'
+  registered 17.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:19:29.111Z'
+finalUrl: 'https://www.wildfashion.ro/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 17.4 years ago.
+    - Established domain — registered 17.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://wildfashion.ro/'
+      finalUrl: 'https://www.wildfashion.ro/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-09-08'
-      daysToExpiry: 76
+      validTo: '2026-11-07'
+      daysToExpiry: 90
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2009-01-28'
-      ageDays: 6357
-      ageYears: 17.4
-    detail: Registered 17.4 years ago (2009-01-28).
+      ageDays: 6403
+      ageYears: 17.5
+    detail: Registered 17.5 years ago (2009-01-28).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-wildfashion.ro looks like a well-established store. The clearest positives are that its domain has been registered for 17.4 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+wildfashion.ro looks like a well-established store. The clearest positives are that its domain has been registered for 17.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Wildfashion in the score above.
 

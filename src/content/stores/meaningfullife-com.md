@@ -4,8 +4,8 @@ slug: meaningfullife-com
 title: Is meaningfullife.com Legit? Trust Score 88/100
 description: >-
   meaningfullife.com scores 88/100 on our public trust checks. Established
-  domain — registered 28.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:24:14.909Z'
+  domain — registered 29 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:13:17.968Z'
 finalUrl: 'https://www.meaningfullife.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.8 years ago.
+    - Established domain — registered 29 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-23'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1997-08-26'
-      ageDays: 10529
-      ageYears: 28.8
-    detail: Registered 28.8 years ago (1997-08-26).
+      ageDays: 10569
+      ageYears: 29
+    detail: Registered 29 years ago (1997-08-26).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-meaningfullife.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+meaningfullife.com looks like a well-established store. The clearest positives are that its domain has been registered for 29 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Meaningfullife in the score above.
 

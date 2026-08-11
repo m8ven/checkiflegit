@@ -5,7 +5,7 @@ title: Is kuechenhammer.de Legit? Trust Score 49/100
 description: >-
   kuechenhammer.de scores 49/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-25T03:47:12.131Z'
+fetchedAt: '2026-08-03T08:32:09.578Z'
 finalUrl: 'https://kuechenhammer.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-30'
-      daysToExpiry: 66
+      validTo: '2026-10-28'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

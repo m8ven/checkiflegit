@@ -4,8 +4,8 @@ slug: nynstyles-nl
 title: Is nynstyles.nl Legit? Trust Score 100/100
 description: >-
   nynstyles.nl scores 100/100 on our public trust checks. Established domain —
-  registered 12.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T11:58:00.179Z'
+  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:09:24.690Z'
 finalUrl: 'https://nynstyles.nl/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.2 years ago.
+    - Established domain — registered 12.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-30'
-      daysToExpiry: 35
+      validTo: '2026-09-27'
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2014-04-22'
-      ageDays: 4447
-      ageYears: 12.2
-    detail: Registered 12.2 years ago (2014-04-22).
+      ageDays: 4493
+      ageYears: 12.3
+    detail: Registered 12.3 years ago (2014-04-22).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-nynstyles.nl looks like a well-established store. The clearest positives are that its domain has been registered for 12.2 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+nynstyles.nl looks like a well-established store. The clearest positives are that its domain has been registered for 12.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Nynstyles in the score above.
 

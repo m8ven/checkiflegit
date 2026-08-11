@@ -5,7 +5,7 @@ title: Is oikeiaoikia.gr Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   oikeiaoikia.gr scores 57/100 on our public trust checks. Standard contact and
   policy pages were not found. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:25:07.968Z'
+fetchedAt: '2026-08-03T08:13:49.642Z'
 finalUrl: 'https://www.oikeiaoikia.gr/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-09'
-      daysToExpiry: 46
+      validTo: '2026-10-09'
+      daysToExpiry: 68
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

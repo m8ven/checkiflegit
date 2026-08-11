@@ -5,7 +5,7 @@ title: Is oflap.ir Legit? Trust Score 36/100 — Proceed With Caution
 description: >-
   oflap.ir scores 36/100 on our public trust checks. Standard contact and policy
   pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:24:49.561Z'
+fetchedAt: '2026-08-10T06:31:19.663Z'
 finalUrl: 'https://www.oflap.ir/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-19'
-      daysToExpiry: 87
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

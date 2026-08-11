@@ -4,8 +4,8 @@ slug: duboeuf-com
 title: Is duboeuf.com Legit? Trust Score 100/100
 description: >-
   duboeuf.com scores 100/100 on our public trust checks. Established domain —
-  registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:56:38.962Z'
+  registered 28.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:04:21.452Z'
 finalUrl: 'https://www.duboeuf.com/fr/?v=82a9e4d26595'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.4 years ago.
+    - Established domain — registered 28.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-18'
-      daysToExpiry: 55
+      validTo: '2026-10-16'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1998-02-11'
-      ageDays: 10360
-      ageYears: 28.4
-    detail: Registered 28.4 years ago (1998-02-11).
+      ageDays: 10400
+      ageYears: 28.5
+    detail: Registered 28.5 years ago (1998-02-11).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-duboeuf.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+duboeuf.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Duboeuf in the score above.
 

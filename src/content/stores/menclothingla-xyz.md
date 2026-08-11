@@ -5,7 +5,7 @@ title: Is menclothingla.xyz Legit? Trust Score 73/100
 description: >-
   menclothingla.xyz scores 73/100 on our public trust checks. Established domain
   — registered 4.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:36:24.735Z'
+fetchedAt: '2026-07-27T08:23:57.887Z'
 finalUrl: 'https://menclothingla.xyz/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-15'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-09-24'
-      ageDays: 1734
+      ageDays: 1766
       ageYears: 4.8
     detail: Registered 4.8 years ago (2021-09-24).
   contact:

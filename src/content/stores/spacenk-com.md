@@ -4,8 +4,8 @@ slug: spacenk-com
 title: Is spacenk.com Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   spacenk.com scores 88/100 on our public trust checks. Established domain —
-  registered 28.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:50.909Z'
+  registered 28.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:03.389Z'
 finalUrl: 'https://www.spacenk.com/uk/home'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 28.5 years ago.
+    - Established domain — registered 28.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1997-12-16'
-      ageDays: 10417
-      ageYears: 28.5
-    detail: Registered 28.5 years ago (1997-12-16).
+      ageDays: 10450
+      ageYears: 28.6
+    detail: Registered 28.6 years ago (1997-12-16).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-spacenk.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.5 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+spacenk.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.6 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Spacenk in the score above.
 

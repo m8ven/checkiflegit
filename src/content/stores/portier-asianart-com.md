@@ -4,8 +4,8 @@ slug: portier-asianart-com
 title: Is portier-asianart.com Legit? Trust Score 82/100
 description: >-
   portier-asianart.com scores 82/100 on our public trust checks. Established
-  domain — registered 26.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:25:49.748Z'
+  domain — registered 26.7 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:31:58.801Z'
 finalUrl: 'https://www.portier-asianart.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26.6 years ago.
+    - Established domain — registered 26.7 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-18'
-      daysToExpiry: 23
+      validTo: '2026-09-26'
+      daysToExpiry: 48
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-11-19'
-      ageDays: 9714
-      ageYears: 26.6
-    detail: Registered 26.6 years ago (1999-11-19).
+      ageDays: 9760
+      ageYears: 26.7
+    detail: Registered 26.7 years ago (1999-11-19).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-portier-asianart.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+portier-asianart.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Portier-asianart in the score above.
 

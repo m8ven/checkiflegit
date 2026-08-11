@@ -4,9 +4,9 @@ slug: abordage-com
 title: Is abordage.com Legit? Trust Score 100/100
 description: >-
   abordage.com scores 100/100 on our public trust checks. Established domain —
-  registered 21 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:15.780Z'
-finalUrl: 'https://abordage.com/?v=ce79e89dbdfa'
+  registered 21.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:20:00.325Z'
+finalUrl: 'https://abordage.com/'
 reachable: true
 noindex: false
 verdict:
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 21 years ago.
+    - Established domain — registered 21.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -30,7 +30,7 @@ signals:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://abordage.com/?v=ce79e89dbdfa'
+      finalUrl: 'https://abordage.com/'
     detail: Homepage loads (HTTP 200).
   platform:
     status: pass
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-11'
-      daysToExpiry: 79
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2005-06-19'
-      ageDays: 7675
-      ageYears: 21
-    detail: Registered 21 years ago (2005-06-19).
+      ageDays: 7714
+      ageYears: 21.1
+    detail: Registered 21.1 years ago (2005-06-19).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-abordage.com looks like a well-established store. The clearest positives are that its domain has been registered for 21 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+abordage.com looks like a well-established store. The clearest positives are that its domain has been registered for 21.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Abordage in the score above.
 

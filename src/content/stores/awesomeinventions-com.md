@@ -5,7 +5,7 @@ title: Is awesomeinventions.com Legit? Trust Score 70/100
 description: >-
   awesomeinventions.com scores 70/100 on our public trust checks. Established
   domain — registered 16.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:53:01.533Z'
+fetchedAt: '2026-07-27T08:38:37.252Z'
 finalUrl: 'https://www.awesomeinventions.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 56
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2009-09-25'
-      ageDays: 6116
+      ageDays: 6148
       ageYears: 16.8
     detail: Registered 16.8 years ago (2009-09-25).
   contact:

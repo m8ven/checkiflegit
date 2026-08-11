@@ -5,7 +5,7 @@ title: Is mordomias.pt Legit? Trust Score 83/100
 description: >-
   mordomias.pt scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:44:50.782Z'
+fetchedAt: '2026-07-27T08:31:20.218Z'
 finalUrl: 'https://mordomias.pt/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-15'
+      daysToExpiry: 81
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

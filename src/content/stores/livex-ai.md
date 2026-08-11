@@ -1,12 +1,12 @@
 ---
 domain: livex.ai
 slug: livex-ai
-title: Is livex.ai Legit? Trust Score 82/100 — Trust Checks Pass
+title: Is livex.ai Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  livex.ai scores 82/100 on our public trust checks. Established domain —
-  registered 3.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:11.407Z'
-finalUrl: 'https://www.livex.ai/'
+  livex.ai scores 100/100 on our public trust checks. Established domain —
+  registered 3.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:21.392Z'
+finalUrl: 'https://livex.ai/'
 reachable: true
 noindex: false
 verdict:
@@ -15,34 +15,33 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 82
+  score: 100
   greenFlags:
-    - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 3.2 years ago.
+    - Established domain — registered 3.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
+    - Public business contact details are listed.
+    - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Only limited contact details were found.
-    - Limited social media presence.
+  cautions: []
 signals:
   http:
     status: pass
     value:
       httpStatus: 200
-      finalUrl: 'https://www.livex.ai/'
+      finalUrl: 'https://livex.ai/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: Shopify
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
-    detail: 'Built on Shopify, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: pass
     value:
@@ -55,36 +54,36 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Google Trust Services
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      issuer: Let's Encrypt
+      validTo: '2026-10-14'
+      daysToExpiry: 80
       authorized: true
-    detail: Valid certificate issued by Google Trust Services.
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-03-29'
-      ageDays: 1183
-      ageYears: 3.2
-    detail: Registered 3.2 years ago (2023-03-29).
+      ageDays: 1216
+      ageYears: 3.3
+    detail: Registered 3.3 years ago (2023-03-29).
   contact:
-    status: warn
+    status: pass
     value:
-      email: false
+      email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
-    status: warn
+    status: pass
     value:
-      facebook: false
-      instagram: false
-      twitter: false
+      facebook: true
+      instagram: true
+      twitter: true
       tiktok: false
       youtube: false
       linkedin: true
       pinterest: false
-    detail: 'Links to 1 social platform(s): linkedin.'
+    detail: 'Links to 4 social platform(s): facebook, instagram, twitter, linkedin.'
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-livex.ai looks like a well-established store. The clearest positives are that its domain has been registered for 3.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+livex.ai looks like a well-established store. The clearest positives are that its domain has been registered for 3.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Livex in the score above.
 

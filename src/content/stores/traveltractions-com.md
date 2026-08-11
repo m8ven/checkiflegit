@@ -4,8 +4,8 @@ slug: traveltractions-com
 title: Is traveltractions.com Legit? Trust Score 100/100
 description: >-
   traveltractions.com scores 100/100 on our public trust checks. Established
-  domain — registered 9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:54:24.743Z'
+  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:03.058Z'
 finalUrl: 'https://traveltractions.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9 years ago.
+    - Established domain — registered 9.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-07-10'
-      ageDays: 3271
-      ageYears: 9
-    detail: Registered 9 years ago (2017-07-10).
+      ageDays: 3317
+      ageYears: 9.1
+    detail: Registered 9.1 years ago (2017-07-10).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-traveltractions.com looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+traveltractions.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Traveltractions in the score above.
 

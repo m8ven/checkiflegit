@@ -5,7 +5,7 @@ title: Is onlybeauty.com.tw Legit? Trust Score 40/100
 description: >-
   onlybeauty.com.tw scores 40/100 on our public trust checks. Standard contact
   and policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:46:37.585Z'
+fetchedAt: '2026-07-27T08:33:07.724Z'
 finalUrl: 'https://onlybeauty.com.tw/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-15'
-      daysToExpiry: 52
+      validTo: '2026-10-14'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

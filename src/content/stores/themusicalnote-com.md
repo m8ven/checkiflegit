@@ -4,8 +4,8 @@ slug: themusicalnote-com
 title: Is themusicalnote.com Legit? Trust Score 82/100
 description: >-
   themusicalnote.com scores 82/100 on our public trust checks. Established
-  domain — registered 14 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:09:56.717Z'
+  domain — registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:19:13.226Z'
 finalUrl: 'https://themusicalnote.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14 years ago.
+    - Established domain — registered 14.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-30'
-      daysToExpiry: 67
+      validTo: '2026-10-30'
+      daysToExpiry: 82
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-07-12'
-      ageDays: 5095
-      ageYears: 14
-    detail: Registered 14 years ago (2012-07-12).
+      ageDays: 5141
+      ageYears: 14.1
+    detail: Registered 14.1 years ago (2012-07-12).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-themusicalnote.com looks like a well-established store. The clearest positives are that its domain has been registered for 14 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+themusicalnote.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Themusicalnote in the score above.
 

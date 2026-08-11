@@ -5,7 +5,7 @@ title: Is digiretus.hu Legit? Trust Score 31/100
 description: >-
   digiretus.hu scores 31/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:24:53.127Z'
+fetchedAt: '2026-07-27T08:14:23.629Z'
 finalUrl: 'https://digiretus.hu/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

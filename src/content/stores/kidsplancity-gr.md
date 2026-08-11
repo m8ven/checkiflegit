@@ -5,7 +5,7 @@ title: Is kidsplancity.gr Legit? Trust Score 19/100
 description: >-
   kidsplancity.gr scores 19/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:32:24.723Z'
+fetchedAt: '2026-07-27T08:20:49.460Z'
 finalUrl: 'https://kidsplancity.gr/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 87
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

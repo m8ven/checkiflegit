@@ -5,7 +5,7 @@ title: Is shop.mobilityworks.com Legit? Trust Score 100/100
 description: >-
   shop.mobilityworks.com scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:51:09.624Z'
+fetchedAt: '2026-07-27T08:36:56.517Z'
 finalUrl: 'https://shop.mobilityworks.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

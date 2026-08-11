@@ -5,7 +5,7 @@ title: Is matov.de Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   matov.de scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:43:31.220Z'
+fetchedAt: '2026-07-27T08:29:51.316Z'
 finalUrl: 'https://matov.de/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-24'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

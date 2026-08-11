@@ -5,7 +5,7 @@ title: Is windsorstore.com Legit? Trust Score 100/100
 description: >-
   windsorstore.com scores 100/100 on our public trust checks. Established domain
   — registered 26.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:45:58.874Z'
+fetchedAt: '2026-07-27T08:06:08.614Z'
 finalUrl: 'https://www.windsorstore.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1999-11-04'
-      ageDays: 9729
+      ageDays: 9761
       ageYears: 26.7
     detail: Registered 26.7 years ago (1999-11-04).
   contact:

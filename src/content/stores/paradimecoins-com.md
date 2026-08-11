@@ -5,7 +5,7 @@ title: Is paradimecoins.com Legit? Trust Score 100/100
 description: >-
   paradimecoins.com scores 100/100 on our public trust checks. Established
   domain — registered 9.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:47:01.910Z'
+fetchedAt: '2026-07-27T08:33:27.377Z'
 finalUrl: 'https://paradimecoins.com/'
 reachable: true
 noindex: false
@@ -57,14 +57,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-28'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2017-04-28'
-      ageDays: 3344
+      ageDays: 3376
       ageYears: 9.2
     detail: Registered 9.2 years ago (2017-04-28).
   contact:

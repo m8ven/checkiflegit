@@ -5,7 +5,7 @@ title: Is emmanuellenegre.com Legit? Trust Score 40/100
 description: >-
   emmanuellenegre.com scores 40/100 on our public trust checks. Standard contact
   and policy pages were not found.
-fetchedAt: '2026-06-25T02:17:29.605Z'
+fetchedAt: '2026-07-27T08:08:27.574Z'
 finalUrl: 'https://emmanuellenegre.com/'
 reachable: true
 noindex: false
@@ -58,14 +58,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 82
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2015-08-20'
-      ageDays: 3961
+      ageDays: 3993
       ageYears: 10.9
     detail: Registered 10.9 years ago (2015-08-20).
   contact:

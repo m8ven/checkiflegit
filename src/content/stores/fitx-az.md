@@ -1,11 +1,11 @@
 ---
 domain: fitx.az
 slug: fitx-az
-title: Is fitx.az Legit? Trust Score 83/100 — Trust Checks Pass
+title: Is fitx.az Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
-  fitx.az scores 83/100 on our public trust checks. Valid HTTPS/SSL certificate
-  in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:29:23.438Z'
+  fitx.az scores 100/100 on our public trust checks. Valid HTTPS/SSL certificate
+  in place. Has a contact page and multiple policy pages (privacy/terms/refund).
+fetchedAt: '2026-07-27T08:18:22.109Z'
 finalUrl: 'https://fitx.az/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 83
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -43,20 +43,20 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-29'
-      daysToExpiry: 65
+      daysToExpiry: 33
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
@@ -75,14 +75,12 @@ signals:
     value:
       facebook: true
       instagram: true
-      twitter: true
+      twitter: false
       tiktok: false
       youtube: true
-      linkedin: true
+      linkedin: false
       pinterest: false
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, youtube,
-      linkedin.
+    detail: 'Links to 3 social platform(s): facebook, instagram, youtube.'
   reviews:
     status: unknown
     value:
@@ -93,7 +91,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-fitx.az looks like a well-established store. The clearest positives are that it lists genuine business contact details and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+fitx.az looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Fitx in the score above.
 

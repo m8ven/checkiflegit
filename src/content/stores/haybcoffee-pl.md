@@ -3,9 +3,9 @@ domain: haybcoffee.pl
 slug: haybcoffee-pl
 title: Is haybcoffee.pl Legit? Trust Score 100/100
 description: >-
-  haybcoffee.pl scores 100/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T02:34:07.754Z'
+  haybcoffee.pl scores 100/100 on our public trust checks. Established domain —
+  registered 8.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:22:04.151Z'
 finalUrl: 'https://haybcoffee.pl/'
 reachable: true
 noindex: false
@@ -18,6 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 8.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -54,22 +55,25 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: nazwa.pl Sp. z o.o.
-      validTo: '2026-12-10'
-      daysToExpiry: 168
+      issuer: Let's Encrypt
+      validTo: '2026-10-19'
+      daysToExpiry: 85
       authorized: true
-    detail: Valid certificate issued by nazwa.pl Sp. z o.o..
+    detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2018-06-06'
+      ageDays: 2972
+      ageYears: 8.1
+    detail: Registered 8.1 years ago (2018-06-06).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -91,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-haybcoffee.pl looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+haybcoffee.pl looks like a well-established store. The clearest positives are that its domain has been registered for 8.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Haybcoffee in the score above.
 

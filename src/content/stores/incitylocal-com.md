@@ -4,8 +4,8 @@ slug: incitylocal-com
 title: Is incitylocal.com Legit? Trust Score 94/100
 description: >-
   incitylocal.com scores 94/100 on our public trust checks. Established domain —
-  registered 19.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:49:29.271Z'
+  registered 19.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:33:56.954Z'
 finalUrl: 'https://incitylocal.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19.5 years ago.
+    - Established domain — registered 19.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-06-27'
-      daysToExpiry: 3
+      validTo: '2026-10-27'
+      daysToExpiry: 86
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-01-12'
-      ageDays: 7103
-      ageYears: 19.5
-    detail: Registered 19.5 years ago (2007-01-12).
+      ageDays: 7142
+      ageYears: 19.6
+    detail: Registered 19.6 years ago (2007-01-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-incitylocal.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.5 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+incitylocal.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.6 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Incitylocal in the score above.
 

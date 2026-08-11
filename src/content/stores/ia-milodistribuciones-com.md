@@ -5,7 +5,7 @@ title: Is ia.milodistribuciones.com Legit? Trust Score 79/100
 description: >-
   ia.milodistribuciones.com scores 79/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:57:51.668Z'
+fetchedAt: '2026-08-10T06:07:14.807Z'
 finalUrl: 'https://ia.milodistribuciones.com/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-12-22'
-      daysToExpiry: 181
+      daysToExpiry: 135
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

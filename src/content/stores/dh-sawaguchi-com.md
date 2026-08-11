@@ -5,7 +5,7 @@ title: Is dh-sawaguchi.com Legit? Trust Score 43/100
 description: >-
   dh-sawaguchi.com scores 43/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:25:08.816Z'
+fetchedAt: '2026-07-27T08:14:36.302Z'
 finalUrl: 'https://dh-sawaguchi.com/'
 reachable: true
 noindex: false
@@ -58,14 +58,14 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-20'
-      daysToExpiry: 88
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2010-09-27'
-      ageDays: 5749
+      ageDays: 5781
       ageYears: 15.8
     detail: Registered 15.8 years ago (2010-09-27).
   contact:

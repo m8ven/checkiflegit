@@ -4,8 +4,8 @@ slug: allbirds-com
 title: Is allbirds.com Legit? Trust Score 100/100
 description: >-
   allbirds.com scores 100/100 on our public trust checks. Established domain —
-  registered 24.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T13:17:52.121Z'
+  registered 24.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:05:16.223Z'
 finalUrl: 'https://www.allbirds.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 24.5 years ago.
+    - Established domain — registered 24.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -40,6 +40,7 @@ signals:
       markers:
         hasAddToCart: false
         hasCartLink: false
+        hasCatalog: true
         hasCartFlow: false
     detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
@@ -47,25 +48,25 @@ signals:
     value:
       contact: true
       privacy: true
-      terms: false
+      terms: true
       refund: true
       shipping: true
-    detail: Found 3 policy page link(s) and a contact page.
+    detail: Found 4 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 79
+      daysToExpiry: 46
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-01-09'
-      ageDays: 8931
-      ageYears: 24.5
-    detail: Registered 24.5 years ago (2002-01-09).
+      ageDays: 8964
+      ageYears: 24.6
+    detail: Registered 24.6 years ago (2002-01-09).
   contact:
     status: pass
     value:
@@ -96,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-allbirds.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+allbirds.com looks like a well-established store. The clearest positives are that its domain has been registered for 24.6 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Allbirds in the score above.
 

@@ -5,7 +5,7 @@ title: Is autosquiles.es Legit? Trust Score 100/100
 description: >-
   autosquiles.es scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:20:06.920Z'
+fetchedAt: '2026-07-27T08:10:58.168Z'
 finalUrl: 'https://autosquiles.es/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-05'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

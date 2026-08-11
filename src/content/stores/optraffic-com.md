@@ -4,8 +4,8 @@ slug: optraffic-com
 title: Is optraffic.com Legit? Trust Score 88/100
 description: >-
   optraffic.com scores 88/100 on our public trust checks. Established domain —
-  registered 10.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:39:47.320Z'
+  registered 10.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:26:43.700Z'
 finalUrl: 'https://optraffic.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 10.7 years ago.
+    - Established domain — registered 10.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-26'
-      daysToExpiry: 32
+      validTo: '2026-09-23'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2015-10-29'
-      ageDays: 3891
-      ageYears: 10.7
-    detail: Registered 10.7 years ago (2015-10-29).
+      ageDays: 3924
+      ageYears: 10.8
+    detail: Registered 10.8 years ago (2015-10-29).
   contact:
     status: pass
     value:
-      email: false
+      email: true
       phone: true
       address: true
-    detail: 'Public contact details found: phone, address.'
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-optraffic.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.7 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+optraffic.com looks like a well-established store. The clearest positives are that its domain has been registered for 10.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Optraffic in the score above.
 

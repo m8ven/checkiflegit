@@ -1,29 +1,29 @@
 ---
 domain: information.dk
 slug: information-dk
-title: Is information.dk Legit? Trust Score 64/100 — Mixed Signals
+title: Is information.dk Legit? Trust Score 82/100
 description: >-
-  information.dk scores 64/100 on our public trust checks. Standard contact and
-  policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-24T21:46:43.263Z'
+  information.dk scores 82/100 on our public trust checks. Established domain —
+  registered 30.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:07:12.161Z'
 finalUrl: 'https://www.information.dk/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 64
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 82
   greenFlags:
     - 'Built on Shopify, an established e-commerce platform.'
-    - Established domain — registered 30.3 years ago.
+    - Established domain — registered 30.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
-  redFlags:
-    - Standard contact and policy pages were not found.
+  redFlags: []
   cautions:
+    - Some standard policy or contact pages appear to be missing.
     - Limited social media presence.
 signals:
   http:
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on Shopify, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
-      contact: false
+      contact: true
       privacy: false
       terms: false
       refund: false
       shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+    detail: Found 0 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1996-03-05'
-      ageDays: 11068
-      ageYears: 30.3
-    detail: Registered 30.3 years ago (1996-03-05).
+      ageDays: 11101
+      ageYears: 30.4
+    detail: Registered 30.4 years ago (1996-03-05).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-information.dk sends a mixed set of signals. On the positive side, its domain has been registered for 30.3 years and it lists genuine business contact details. Against that, we could not find the usual contact and policy pages and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+information.dk looks like a well-established store. The clearest positives are that its domain has been registered for 30.4 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Information in the score above.
 

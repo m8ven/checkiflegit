@@ -4,8 +4,8 @@ slug: danteveracruz-mx
 title: Is danteveracruz.mx Legit? Trust Score 100/100
 description: >-
   danteveracruz.mx scores 100/100 on our public trust checks. Established domain
-  — registered 3.8 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:24:28.219Z'
+  — registered 3.9 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:13:56.320Z'
 finalUrl: 'https://danteveracruz.mx/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 3.8 years ago.
+    - Established domain — registered 3.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-16'
-      daysToExpiry: 53
+      validTo: '2026-10-14'
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2022-09-02'
-      ageDays: 1392
-      ageYears: 3.8
-    detail: Registered 3.8 years ago (2022-09-02).
+      ageDays: 1424
+      ageYears: 3.9
+    detail: Registered 3.9 years ago (2022-09-02).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-danteveracruz.mx looks like a well-established store. The clearest positives are that its domain has been registered for 3.8 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+danteveracruz.mx looks like a well-established store. The clearest positives are that its domain has been registered for 3.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Danteveracruz in the score above.
 

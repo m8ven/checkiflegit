@@ -4,8 +4,8 @@ slug: puppyangel911-ru
 title: Is puppyangel911.ru Legit? Trust Score 88/100
 description: >-
   puppyangel911.ru scores 88/100 on our public trust checks. Established domain
-  — registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:42:00.164Z'
+  — registered 5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:28:28.696Z'
 finalUrl: 'https://puppyangel911.ru/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.9 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -47,26 +47,26 @@ signals:
     status: warn
     value:
       contact: true
-      privacy: false
+      privacy: true
       terms: false
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-08'
-      daysToExpiry: 45
+      validTo: '2026-10-07'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-07-27'
-      ageDays: 1793
-      ageYears: 4.9
-    detail: Registered 4.9 years ago (2021-07-27).
+      ageDays: 1825
+      ageYears: 5
+    detail: Registered 5 years ago (2021-07-27).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-puppyangel911.ru looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+puppyangel911.ru looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Puppyangel911 in the score above.
 

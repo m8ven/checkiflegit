@@ -5,7 +5,7 @@ title: Is fittdieta.hu Legit? Trust Score 19/100
 description: >-
   fittdieta.hu scores 19/100 on our public trust checks. No public contact
   details detected on the homepage. No links to major social platforms found.
-fetchedAt: '2026-06-25T02:29:21.490Z'
+fetchedAt: '2026-07-27T08:18:20.416Z'
 finalUrl: 'https://fittdieta.hu/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-26'
-      daysToExpiry: 63
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

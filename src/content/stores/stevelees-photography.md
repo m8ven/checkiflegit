@@ -6,7 +6,7 @@ description: >-
   stevelees.photography scores 36/100 on our public trust checks. No public
   contact details detected on the homepage. No links to major social platforms
   found.
-fetchedAt: '2026-06-25T12:12:42.650Z'
+fetchedAt: '2026-08-10T06:21:18.656Z'
 finalUrl: 'https://stevelees.photography/'
 reachable: true
 noindex: false
@@ -39,7 +39,7 @@ signals:
       platform: WooCommerce
       isStore: true
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: false
         hasCartFlow: false
@@ -56,11 +56,11 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      issuer: Google Trust Services
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: unknown
     value: null

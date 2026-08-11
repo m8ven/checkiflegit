@@ -4,8 +4,8 @@ slug: wonderminiature-com
 title: Is wonderminiature.com Legit? Trust Score 73/100
 description: >-
   wonderminiature.com scores 73/100 on our public trust checks. Established
-  domain — registered 14.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:21:39.672Z'
+  domain — registered 14.2 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:28:55.043Z'
 finalUrl: 'https://wonderminiature.com/?v=3678880a8f79'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.1 years ago.
+    - Established domain — registered 14.2 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-14'
-      daysToExpiry: 81
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-06-05'
-      ageDays: 5133
-      ageYears: 14.1
-    detail: Registered 14.1 years ago (2012-06-05).
+      ageDays: 5178
+      ageYears: 14.2
+    detail: Registered 14.2 years ago (2012-06-05).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-wonderminiature.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.1 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+wonderminiature.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Wonderminiature in the score above.
 

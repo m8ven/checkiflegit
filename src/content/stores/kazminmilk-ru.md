@@ -1,27 +1,29 @@
 ---
 domain: kazminmilk.ru
 slug: kazminmilk-ru
-title: Is kazminmilk.ru Legit? Trust Score 66/100 — Mixed Signals
+title: Is kazminmilk.ru Legit? Trust Score 43/100
 description: >-
-  kazminmilk.ru scores 66/100 on our public trust checks. No links to major
-  social platforms found. Some standard policy or contact pages appear to be
-  missing.
-fetchedAt: '2026-06-25T02:16:53.558Z'
+  kazminmilk.ru scores 43/100 on our public trust checks. No valid SSL
+  certificate — connection may not be secure. No links to major social platforms
+  found.
+fetchedAt: '2026-07-27T08:07:59.167Z'
 finalUrl: 'http://kazminmilk.ru/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: limited
+  label: Limited trust signals — proceed with caution
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 66
+    This store shows limited public trust signals. That does not necessarily
+    mean it is fraudulent, but we recommend extra caution and using
+    buyer-protected payment methods.
+  score: 43
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.4 years ago.
+    - Established domain — registered 8.5 years ago.
     - Public business contact details are listed.
   redFlags:
+    - No valid SSL certificate — connection may not be secure.
     - No links to major social platforms found.
   cautions:
     - Some standard policy or contact pages appear to be missing.
@@ -48,21 +50,21 @@ signals:
     value:
       contact: true
       privacy: false
-      terms: false
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
-    status: unknown
+    status: fail
     value: null
-    detail: TLS connection timed out.
+    detail: 'TLS connection failed: connect ECONNREFUSED 5.101.153.180:443'
   domainAge:
     status: pass
     value:
       createdAt: '2018-02-01'
-      ageDays: 3065
-      ageYears: 8.4
-    detail: Registered 8.4 years ago (2018-02-01).
+      ageDays: 3098
+      ageYears: 8.5
+    detail: Registered 8.5 years ago (2018-02-01).
   contact:
     status: pass
     value:
@@ -91,7 +93,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-kazminmilk.ru sends a mixed set of signals. On the positive side, its domain has been registered for 8.4 years and it lists genuine business contact details. Against that, some standard contact or policy pages appear to be missing and it has little or no social media footprint — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+We found limited public trust signals for kazminmilk.ru. In particular, some standard contact or policy pages appear to be missing and it does not present a valid security certificate. It does have some positives — its domain has been registered for 8.5 years and it lists genuine business contact details — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Kazminmilk in the score above.
 

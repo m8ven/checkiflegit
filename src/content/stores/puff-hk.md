@@ -5,7 +5,7 @@ title: Is puff.hk Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   puff.hk scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:04:45.509Z'
+fetchedAt: '2026-08-10T06:14:54.054Z'
 finalUrl: 'https://puff.hk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-11'
-      daysToExpiry: 47
+      validTo: '2026-10-10'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

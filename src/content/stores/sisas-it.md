@@ -4,8 +4,8 @@ slug: sisas-it
 title: Is sisas.it Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   sisas.it scores 88/100 on our public trust checks. Established domain —
-  registered 28.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:27:26.975Z'
+  registered 29 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:01:34.891Z'
 finalUrl: 'https://www.sisas.it/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.9 years ago.
+    - Established domain — registered 29 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -57,23 +57,23 @@ signals:
     value:
       issuer: Actalis S.p.A.
       validTo: '2026-12-09'
-      daysToExpiry: 168
+      daysToExpiry: 121
       authorized: true
     detail: Valid certificate issued by Actalis S.p.A..
   domainAge:
     status: pass
     value:
       createdAt: '1997-07-30'
-      ageDays: 10556
-      ageYears: 28.9
-    detail: Registered 28.9 years ago (1997-07-30).
+      ageDays: 10603
+      ageYears: 29
+    detail: Registered 29 years ago (1997-07-30).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-sisas.it looks like a well-established store. The clearest positives are that its domain has been registered for 28.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+sisas.it looks like a well-established store. The clearest positives are that its domain has been registered for 29 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Sisas in the score above.
 

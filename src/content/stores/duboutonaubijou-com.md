@@ -4,8 +4,8 @@ slug: duboutonaubijou-com
 title: Is duboutonaubijou.com Legit? Trust Score 70/100
 description: >-
   duboutonaubijou.com scores 70/100 on our public trust checks. Established
-  domain — registered 5.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:29:20.692Z'
+  domain — registered 5.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:35:13.993Z'
 finalUrl: 'https://www.duboutonaubijou.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.2 years ago.
+    - Established domain — registered 5.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-31'
-      daysToExpiry: 67
+      daysToExpiry: 21
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-04-25'
-      ageDays: 1886
-      ageYears: 5.2
-    detail: Registered 5.2 years ago (2021-04-25).
+      ageDays: 1932
+      ageYears: 5.3
+    detail: Registered 5.3 years ago (2021-04-25).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-duboutonaubijou.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.2 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+duboutonaubijou.com looks like a well-established store. The clearest positives are that its domain has been registered for 5.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Duboutonaubijou in the score above.
 

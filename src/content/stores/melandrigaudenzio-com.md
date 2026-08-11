@@ -4,8 +4,8 @@ slug: melandrigaudenzio-com
 title: Is melandrigaudenzio.com Legit? Trust Score 100/100
 description: >-
   melandrigaudenzio.com scores 100/100 on our public trust checks. Established
-  domain — registered 26 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:07.304Z'
+  domain — registered 26.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:14.856Z'
 finalUrl: 'https://www.melandrigaudenzio.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 26 years ago.
+    - Established domain — registered 26.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 49
+      validTo: '2026-10-24'
+      daysToExpiry: 75
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2000-06-23'
-      ageDays: 9498
-      ageYears: 26
-    detail: Registered 26 years ago (2000-06-23).
+      ageDays: 9543
+      ageYears: 26.1
+    detail: Registered 26.1 years ago (2000-06-23).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-melandrigaudenzio.com looks like a well-established store. The clearest positives are that its domain has been registered for 26 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+melandrigaudenzio.com looks like a well-established store. The clearest positives are that its domain has been registered for 26.1 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Melandrigaudenzio in the score above.
 

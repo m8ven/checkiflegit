@@ -5,7 +5,7 @@ title: Is sabersdecor.co.za Legit? Trust Score 100/100
 description: >-
   sabersdecor.co.za scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:59:32.585Z'
+fetchedAt: '2026-08-10T06:10:44.871Z'
 finalUrl: 'https://sabersdecor.co.za/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 62
+      validTo: '2026-09-30'
+      daysToExpiry: 52
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

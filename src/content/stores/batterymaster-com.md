@@ -4,8 +4,8 @@ slug: batterymaster-com
 title: Is batterymaster.com Legit? Trust Score 76/100
 description: >-
   batterymaster.com scores 76/100 on our public trust checks. Established domain
-  — registered 28.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:20:28.581Z'
+  — registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:11:14.110Z'
 finalUrl: 'https://batterymaster.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 28.2 years ago.
+    - Established domain — registered 28.3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-04'
-      daysToExpiry: 72
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '1998-04-20'
-      ageDays: 10292
-      ageYears: 28.2
-    detail: Registered 28.2 years ago (1998-04-20).
+      ageDays: 10325
+      ageYears: 28.3
+    detail: Registered 28.3 years ago (1998-04-20).
   contact:
     status: warn
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-batterymaster.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.2 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+batterymaster.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Batterymaster in the score above.
 

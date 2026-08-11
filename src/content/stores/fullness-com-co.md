@@ -5,7 +5,7 @@ title: Is fullness.com.co Legit? Trust Score 44/100
 description: >-
   fullness.com.co scores 44/100 on our public trust checks. No links to major
   social platforms found.
-fetchedAt: '2026-06-25T03:50:28.195Z'
+fetchedAt: '2026-08-10T06:03:57.740Z'
 finalUrl: 'https://fullness.com.co/'
 reachable: true
 noindex: false
@@ -49,15 +49,15 @@ signals:
       contact: false
       privacy: true
       terms: true
-      refund: false
+      refund: true
       shipping: false
-    detail: 'Found 2 policy page(s), no contact page.'
+    detail: 'Found 3 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-12'
+      daysToExpiry: 64
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

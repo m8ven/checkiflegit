@@ -1,12 +1,11 @@
 ---
 domain: domowoblog.pl
 slug: domowoblog-pl
-title: Is domowoblog.pl Legit? Trust Score 0/100
+title: Is domowoblog.pl Legit? Trust Score 25/100
 description: >-
-  domowoblog.pl scores 0/100 on our public trust checks. Standard contact and
-  policy pages were not found. No public contact details detected on the
-  homepage.
-fetchedAt: '2026-06-25T02:31:15.632Z'
+  domowoblog.pl scores 25/100 on our public trust checks. No public contact
+  details detected on the homepage. No links to major social platforms found.
+fetchedAt: '2026-07-27T08:19:54.594Z'
 finalUrl: 'https://domowoblog.pl/'
 reachable: true
 noindex: false
@@ -17,15 +16,16 @@ verdict:
     This store shows limited public trust signals. That does not necessarily
     mean it is fraudulent, but we recommend extra caution and using
     buyer-protected payment methods.
-  score: 0
+  score: 25
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Valid HTTPS/SSL certificate in place.
   redFlags:
-    - Standard contact and policy pages were not found.
     - No public contact details detected on the homepage.
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Domain is relatively young.
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -45,26 +45,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: fail
+    status: warn
     value:
       contact: false
       privacy: false
       terms: false
       refund: false
-      shipping: false
-    detail: 'Found 0 policy page(s), no contact page.'
+      shipping: true
+    detail: 'Found 1 policy page(s), no contact page.'
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-07'
-      daysToExpiry: 75
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: warn
+    value:
+      createdAt: '2026-03-28'
+      ageDays: 120
+      ageYears: 0.3
+    detail: Registered 0.3 years ago (2026-03-28).
   contact:
     status: fail
     value:
@@ -93,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for domowoblog.pl. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for domowoblog.pl. In particular, the domain is still relatively young and there are no clear public contact details. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Domowoblog in the score above.
 

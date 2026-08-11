@@ -5,7 +5,7 @@ title: Is naturlager.de Legit? Trust Score 79/100
 description: >-
   naturlager.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:45:36.139Z'
+fetchedAt: '2026-07-27T08:31:53.373Z'
 finalUrl: 'https://naturlager.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-08-14'
-      daysToExpiry: 51
+      daysToExpiry: 19
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

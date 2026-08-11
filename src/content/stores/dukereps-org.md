@@ -1,11 +1,11 @@
 ---
 domain: dukereps.org
 slug: dukereps-org
-title: Is dukereps.org Legit? Trust Score 76/100
+title: Is dukereps.org Legit? Trust Score 94/100
 description: >-
-  dukereps.org scores 76/100 on our public trust checks. Valid HTTPS/SSL
-  certificate in place.
-fetchedAt: '2026-06-25T03:39:02.397Z'
+  dukereps.org scores 94/100 on our public trust checks. Established domain —
+  registered 1.1 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-03T08:24:51.014Z'
 finalUrl: 'https://dukereps.org/'
 reachable: true
 noindex: false
@@ -15,15 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 76
+  score: 94
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 1.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags: []
   cautions:
-    - Domain is relatively young.
     - Limited social media presence.
 signals:
   http:
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
-    status: warn
+    status: pass
     value:
       createdAt: '2025-07-03'
-      ageDays: 356
-      ageYears: 1
-    detail: Registered 1 years ago (2025-07-03).
+      ageDays: 396
+      ageYears: 1.1
+    detail: Registered 1.1 years ago (2025-07-03).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-dukereps.org looks like a well-established store. The clearest positives are that it lists genuine business contact details and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that the domain is still relatively young and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+dukereps.org looks like a well-established store. The clearest positives are that its domain has been registered for 1.1 years and it lists genuine business contact details. The main thing we would flag is that its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Dukereps in the score above.
 

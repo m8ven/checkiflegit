@@ -1,11 +1,11 @@
 ---
 domain: amooattar.com
 slug: amooattar-com
-title: Is amooattar.com Legit? Trust Score 85/100
+title: Is amooattar.com Legit? Trust Score 73/100
 description: >-
-  amooattar.com scores 85/100 on our public trust checks. Established domain —
+  amooattar.com scores 73/100 on our public trust checks. Established domain —
   registered 6.2 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:19:05.626Z'
+fetchedAt: '2026-07-27T08:10:22.281Z'
 finalUrl: 'https://amooattar.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 85
+  score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
     - Established domain — registered 6.2 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
   redFlags:
     - No links to major social platforms found.
-  cautions: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -44,27 +44,27 @@ signals:
         hasCartFlow: true
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
-      privacy: true
+      privacy: false
       terms: true
       refund: false
       shipping: false
-    detail: Found 2 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Asseco Data Systems S.A.
       validTo: '2026-10-14'
-      daysToExpiry: 112
+      daysToExpiry: 80
       authorized: true
     detail: Valid certificate issued by Asseco Data Systems S.A..
   domainAge:
     status: pass
     value:
       createdAt: '2020-05-01'
-      ageDays: 2245
+      ageDays: 2277
       ageYears: 6.2
     detail: Registered 6.2 years ago (2020-05-01).
   contact:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-amooattar.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+amooattar.com looks like a well-established store. The clearest positives are that its domain has been registered for 6.2 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Amooattar in the score above.
 

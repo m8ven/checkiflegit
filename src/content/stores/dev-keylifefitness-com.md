@@ -5,7 +5,7 @@ title: Is dev.keylifefitness.com Legit? Trust Score 83/100
 description: >-
   dev.keylifefitness.com scores 83/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T02:24:44.400Z'
+fetchedAt: '2026-07-27T08:14:12.844Z'
 finalUrl: 'https://dev.keylifefitness.com/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-05'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

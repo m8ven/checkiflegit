@@ -5,7 +5,7 @@ title: Is deskcalendars.org Legit? Trust Score 25/100
 description: >-
   deskcalendars.org scores 25/100 on our public trust checks. Standard contact
   and policy pages were not found.
-fetchedAt: '2026-06-25T02:24:40.841Z'
+fetchedAt: '2026-07-27T08:14:07.133Z'
 finalUrl: 'https://deskcalendars.org/'
 reachable: true
 noindex: false
@@ -19,7 +19,7 @@ verdict:
   score: 25
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 5.8 years ago.
+    - Established domain — registered 5.9 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - Standard contact and policy pages were not found.
@@ -57,17 +57,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-12'
-      daysToExpiry: 49
+      validTo: '2026-09-30'
+      daysToExpiry: 65
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2020-09-07'
-      ageDays: 2116
-      ageYears: 5.8
-    detail: Registered 5.8 years ago (2020-09-07).
+      ageDays: 2148
+      ageYears: 5.9
+    detail: Registered 5.9 years ago (2020-09-07).
   contact:
     status: fail
     value:
@@ -96,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for deskcalendars.org. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 5.8 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+We found limited public trust signals for deskcalendars.org. In particular, there are no clear public contact details and we could not find the usual contact and policy pages. It does have some positives — its domain has been registered for 5.9 years and it secures traffic with a valid HTTPS certificate — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Deskcalendars in the score above.
 

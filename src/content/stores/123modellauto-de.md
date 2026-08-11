@@ -5,7 +5,7 @@ title: Is 123modellauto.de Legit? Trust Score 61/100
 description: >-
   123modellauto.de scores 61/100 on our public trust checks. No links to major
   social platforms found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:16:42.607Z'
+fetchedAt: '2026-07-27T08:07:51.257Z'
 finalUrl: 'https://123modellauto.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-08-29'
-      daysToExpiry: 66
+      daysToExpiry: 34
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

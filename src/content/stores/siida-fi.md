@@ -5,7 +5,7 @@ title: Is siida.fi Legit? Trust Score 66/100 — Mixed Signals
 description: >-
   siida.fi scores 66/100 on our public trust checks. Some standard policy or
   contact pages appear to be missing. Only limited contact details were found.
-fetchedAt: '2026-06-25T12:10:44.122Z'
+fetchedAt: '2026-08-10T06:19:42.393Z'
 finalUrl: 'https://siida.fi/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 33
+      validTo: '2026-10-09'
+      daysToExpiry: 61
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -5,7 +5,7 @@ title: Is darky-prodej.cz Legit? Trust Score 19/100
 description: >-
   darky-prodej.cz scores 19/100 on our public trust checks. Standard contact and
   policy pages were not found. No links to major social platforms found.
-fetchedAt: '2026-06-25T12:19:39.484Z'
+fetchedAt: '2026-08-10T06:27:09.585Z'
 finalUrl: 'https://www.darky-prodej.cz/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-31'
-      daysToExpiry: 37
+      validTo: '2026-09-29'
+      daysToExpiry: 51
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

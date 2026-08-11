@@ -4,8 +4,8 @@ slug: eshgallery-com
 title: Is eshgallery.com Legit? Trust Score 100/100
 description: >-
   eshgallery.com scores 100/100 on our public trust checks. Established domain —
-  registered 12.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:02:28.329Z'
+  registered 12.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:00:43.511Z'
 finalUrl: 'https://www.eshgallery.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 12.3 years ago.
+    - Established domain — registered 12.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,24 +56,24 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-24'
-      daysToExpiry: 61
+      validTo: '2026-10-01'
+      daysToExpiry: 53
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2014-03-17'
-      ageDays: 4482
-      ageYears: 12.3
-    detail: Registered 12.3 years ago (2014-03-17).
+      ageDays: 4528
+      ageYears: 12.4
+    detail: Registered 12.4 years ago (2014-03-17).
   contact:
     status: pass
     value:
       email: true
       phone: true
-      address: false
-    detail: 'Public contact details found: email, phone.'
+      address: true
+    detail: 'Public contact details found: email, phone, address.'
   social:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eshgallery.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eshgallery.com looks like a well-established store. The clearest positives are that its domain has been registered for 12.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eshgallery in the score above.
 

@@ -4,8 +4,8 @@ slug: meteorgaming-com
 title: Is meteorgaming.com Legit? Trust Score 82/100
 description: >-
   meteorgaming.com scores 82/100 on our public trust checks. Established domain
-  — registered 14.6 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:54:05.066Z'
+  — registered 14.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:04:25.084Z'
 finalUrl: 'https://meteorgaming.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 14.6 years ago.
+    - Established domain — registered 14.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      issuer: Google Trust Services
+      validTo: '2026-09-28'
+      daysToExpiry: 50
       authorized: true
-    detail: Valid certificate issued by Let's Encrypt.
+    detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2011-11-04'
-      ageDays: 5346
-      ageYears: 14.6
-    detail: Registered 14.6 years ago (2011-11-04).
+      ageDays: 5392
+      ageYears: 14.8
+    detail: Registered 14.8 years ago (2011-11-04).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-meteorgaming.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+meteorgaming.com looks like a well-established store. The clearest positives are that its domain has been registered for 14.8 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Meteorgaming in the score above.
 

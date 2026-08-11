@@ -5,7 +5,7 @@ title: Is anas.tj Legit? Trust Score 44/100 — Proceed With Caution
 description: >-
   anas.tj scores 44/100 on our public trust checks. No links to major social
   platforms found. Some standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T03:34:10.497Z'
+fetchedAt: '2026-08-03T08:21:13.495Z'
 finalUrl: 'https://anas.tj/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 35
+      validTo: '2026-09-29'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

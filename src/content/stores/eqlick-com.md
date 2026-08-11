@@ -4,8 +4,8 @@ slug: eqlick-com
 title: Is eqlick.com Legit? Trust Score 82/100 — Trust Checks Pass
 description: >-
   eqlick.com scores 82/100 on our public trust checks. Established domain —
-  registered 13.7 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:27:29.397Z'
+  registered 13.8 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:16:45.464Z'
 finalUrl: 'https://eqlick.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 13.7 years ago.
+    - Established domain — registered 13.8 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-30'
-      daysToExpiry: 36
+      validTo: '2026-09-28'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2012-10-05'
-      ageDays: 5010
-      ageYears: 13.7
-    detail: Registered 13.7 years ago (2012-10-05).
+      ageDays: 5042
+      ageYears: 13.8
+    detail: Registered 13.8 years ago (2012-10-05).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-eqlick.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.7 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+eqlick.com looks like a well-established store. The clearest positives are that its domain has been registered for 13.8 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that only limited contact details are listed and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Eqlick in the score above.
 

@@ -5,7 +5,7 @@ title: Is deinfrauraum.de Legit? Trust Score 57/100 — Mixed Signals
 description: >-
   deinfrauraum.de scores 57/100 on our public trust checks. No public contact
   details detected on the homepage. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:40:15.169Z'
+fetchedAt: '2026-08-03T08:25:48.749Z'
 finalUrl: 'https://deinfrauraum.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 42
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

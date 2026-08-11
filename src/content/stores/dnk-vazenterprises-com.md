@@ -5,7 +5,7 @@ title: Is dnk.vazenterprises.com Legit? Trust Score 44/100
 description: >-
   dnk.vazenterprises.com scores 44/100 on our public trust checks. No links to
   major social platforms found.
-fetchedAt: '2026-06-25T03:40:55.868Z'
+fetchedAt: '2026-08-03T08:26:27.597Z'
 finalUrl: 'https://dnk.vazenterprises.com/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-28'
-      daysToExpiry: 34
+      validTo: '2026-09-26'
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

@@ -1,24 +1,26 @@
 ---
 domain: trinitytransformation.co.uk
 slug: trinitytransformation-co-uk
-title: Is trinitytransformation.co.uk Legit? Trust Score 63/100
+title: Is trinitytransformation.co.uk Legit? Trust Score 70/100
 description: >-
-  trinitytransformation.co.uk scores 63/100 on our public trust checks. Some
-  standard policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:54:30.512Z'
+  trinitytransformation.co.uk scores 70/100 on our public trust checks.
+  Established domain — registered 9 years ago. Valid HTTPS/SSL certificate in
+  place.
+fetchedAt: '2026-08-10T06:00:06.660Z'
 finalUrl: 'https://trinitytransformation.co.uk/'
 reachable: true
 noindex: false
 verdict:
-  tier: moderate
-  label: Moderate trust signals
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows a mix of trust signals. Some positive indicators are
-    present, but a few are missing — review the breakdown below before buying.
-  score: 63
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 8.8 years ago.
+    - Established domain — registered 9 years ago.
+    - Valid HTTPS/SSL certificate in place.
   redFlags: []
   cautions:
     - Some standard policy or contact pages appear to be missing.
@@ -52,16 +54,20 @@ signals:
       shipping: false
     detail: 'Found 2 policy page(s), no contact page.'
   ssl:
-    status: unknown
-    value: null
-    detail: TLS connection timed out.
+    status: pass
+    value:
+      issuer: Starfield Technologies
+      validTo: '2026-10-05'
+      daysToExpiry: 57
+      authorized: true
+    detail: Valid certificate issued by Starfield Technologies.
   domainAge:
     status: pass
     value:
       createdAt: '2017-08-24'
-      ageDays: 3226
-      ageYears: 8.8
-    detail: Registered 8.8 years ago (2017-08-24).
+      ageDays: 3273
+      ageYears: 9
+    detail: Registered 9 years ago (2017-08-24).
   contact:
     status: warn
     value:
@@ -90,7 +96,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-trinitytransformation.co.uk sends a mixed set of signals. On the positive side, its domain has been registered for 8.8 years and it runs on WooCommerce, an established e-commerce platform. Against that, only limited contact details are listed and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+trinitytransformation.co.uk looks like a well-established store. The clearest positives are that its domain has been registered for 9 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Trinitytransformation in the score above.
 

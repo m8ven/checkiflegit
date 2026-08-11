@@ -5,7 +5,7 @@ title: Is mkleder.hu Legit? Trust Score 40/100
 description: >-
   mkleder.hu scores 40/100 on our public trust checks. Standard contact and
   policy pages were not found. Only limited contact details were found.
-fetchedAt: '2026-06-25T02:44:37.352Z'
+fetchedAt: '2026-07-27T08:31:03.363Z'
 finalUrl: 'https://mkleder.hu/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-08-13'
-      daysToExpiry: 50
+      validTo: '2026-10-11'
+      daysToExpiry: 77
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

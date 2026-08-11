@@ -5,7 +5,7 @@ title: Is shop.letsgobrescia.it Legit? Trust Score 66/100
 description: >-
   shop.letsgobrescia.it scores 66/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T02:45:03.957Z'
+fetchedAt: '2026-07-27T08:31:26.896Z'
 finalUrl: 'https://shop.letsgobrescia.it/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-08'
-      daysToExpiry: 76
+      daysToExpiry: 44
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

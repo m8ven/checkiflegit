@@ -5,7 +5,7 @@ title: Is nimiq-game-store.paulgertz.com Legit? Trust Score 31/100
 description: >-
   nimiq-game-store.paulgertz.com scores 31/100 on our public trust checks.
   Standard contact and policy pages were not found.
-fetchedAt: '2026-06-25T03:55:16.451Z'
+fetchedAt: '2026-08-10T06:05:26.822Z'
 finalUrl: 'https://nimiq-game-store.paulgertz.com/'
 reachable: true
 noindex: false
@@ -56,8 +56,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-21'
-      daysToExpiry: 58
+      validTo: '2026-10-18'
+      daysToExpiry: 70
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

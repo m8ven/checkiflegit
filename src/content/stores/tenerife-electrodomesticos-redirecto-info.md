@@ -5,7 +5,7 @@ title: Is tenerife-electrodomesticos.redirecto.info Legit? Score 74/100
 description: >-
   tenerife-electrodomesticos.redirecto.info scores 74/100 on our public trust
   checks. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:14:42.007Z'
+fetchedAt: '2026-08-10T06:23:15.189Z'
 finalUrl: 'https://tenerife-electrodomesticos.redirecto.info/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-10'
-      daysToExpiry: 77
+      daysToExpiry: 31
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

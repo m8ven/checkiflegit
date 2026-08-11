@@ -5,7 +5,7 @@ title: Is prospect.org Legit? Trust Score 64/100 — Mixed Signals
 description: >-
   prospect.org scores 64/100 on our public trust checks. No public contact
   details detected on the homepage. Limited social media presence.
-fetchedAt: '2026-06-24T21:44:48.321Z'
+fetchedAt: '2026-07-27T08:05:20.573Z'
 finalUrl: 'https://prospect.org/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 64
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 29.8 years ago.
+    - Established domain — registered 29.9 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Google Trust Services
-      validTo: '2026-07-23'
-      daysToExpiry: 29
+      validTo: '2026-09-23'
+      daysToExpiry: 59
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '1996-09-20'
-      ageDays: 10869
-      ageYears: 29.8
-    detail: Registered 29.8 years ago (1996-09-20).
+      ageDays: 10902
+      ageYears: 29.9
+    detail: Registered 29.9 years ago (1996-09-20).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-prospect.org sends a mixed set of signals. On the positive side, its domain has been registered for 29.8 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+prospect.org sends a mixed set of signals. On the positive side, its domain has been registered for 29.9 years and it publishes the contact and policy pages shoppers expect. Against that, there are no clear public contact details and its social media presence is limited — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Prospect in the score above.
 

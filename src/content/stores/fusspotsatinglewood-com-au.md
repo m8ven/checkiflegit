@@ -5,7 +5,7 @@ title: Is fusspotsatinglewood.com.au Legit? Trust Score 100/100
 description: >-
   fusspotsatinglewood.com.au scores 100/100 on our public trust checks. Valid
   HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:39.343Z'
+fetchedAt: '2026-08-03T08:20:15.160Z'
 finalUrl: 'https://fusspotsatinglewood.com.au/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-26'
-      daysToExpiry: 63
+      validTo: '2026-10-25'
+      daysToExpiry: 83
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

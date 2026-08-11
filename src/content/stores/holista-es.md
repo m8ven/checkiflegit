@@ -5,7 +5,7 @@ title: Is holista.es Legit? Trust Score 79/100 — Trust Checks Pass
 description: >-
   holista.es scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T12:20:26.709Z'
+fetchedAt: '2026-08-10T06:27:44.209Z'
 finalUrl: 'https://www.holista.es/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 35
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

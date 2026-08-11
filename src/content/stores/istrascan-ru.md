@@ -1,11 +1,11 @@
 ---
 domain: istrascan.ru
 slug: istrascan-ru
-title: Is istrascan.ru Legit? Trust Score 88/100
+title: Is istrascan.ru Legit? Trust Score 100/100
 description: >-
-  istrascan.ru scores 88/100 on our public trust checks. Established domain —
-  registered 4.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:03:30.016Z'
+  istrascan.ru scores 100/100 on our public trust checks. Established domain —
+  registered 5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:13:44.687Z'
 finalUrl: 'https://istrascan.ru/'
 reachable: true
 noindex: false
@@ -15,16 +15,16 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 88
+  score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 4.9 years ago.
+    - Established domain — registered 5 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
   redFlags: []
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,29 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
       privacy: true
       terms: false
       refund: false
-      shipping: false
-    detail: Found 1 policy page(s) and a contact page.
+      shipping: true
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: GlobalSign nv-sa
       validTo: '2026-10-03'
-      daysToExpiry: 101
+      daysToExpiry: 55
       authorized: true
     detail: Valid certificate issued by GlobalSign nv-sa.
   domainAge:
     status: pass
     value:
       createdAt: '2021-08-15'
-      ageDays: 1774
-      ageYears: 4.9
-    detail: Registered 4.9 years ago (2021-08-15).
+      ageDays: 1820
+      ageYears: 5
+    detail: Registered 5 years ago (2021-08-15).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-istrascan.ru looks like a well-established store. The clearest positives are that its domain has been registered for 4.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+istrascan.ru looks like a well-established store. The clearest positives are that its domain has been registered for 5 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Istrascan in the score above.
 

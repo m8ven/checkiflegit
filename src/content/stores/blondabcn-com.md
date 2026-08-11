@@ -4,8 +4,8 @@ slug: blondabcn-com
 title: Is blondabcn.com Legit? Trust Score 76/100
 description: >-
   blondabcn.com scores 76/100 on our public trust checks. Established domain —
-  registered 17.4 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:21:16.486Z'
+  registered 17.5 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:11:41.513Z'
 finalUrl: 'https://blondabcn.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 76
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 17.4 years ago.
+    - Established domain — registered 17.5 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-02-06'
-      daysToExpiry: 227
+      daysToExpiry: 195
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:
     status: pass
     value:
       createdAt: '2009-02-06'
-      ageDays: 6347
-      ageYears: 17.4
-    detail: Registered 17.4 years ago (2009-02-06).
+      ageDays: 6379
+      ageYears: 17.5
+    detail: Registered 17.5 years ago (2009-02-06).
   contact:
     status: warn
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-blondabcn.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.4 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+blondabcn.com looks like a well-established store. The clearest positives are that its domain has been registered for 17.5 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Blondabcn in the score above.
 

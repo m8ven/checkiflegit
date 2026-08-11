@@ -4,8 +4,8 @@ slug: lesliespool-com
 title: Is lesliespool.com Legit? Trust Score 100/100
 description: >-
   lesliespool.com scores 100/100 on our public trust checks. Established domain
-  — registered 28.3 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-24T21:46:27.742Z'
+  — registered 28.4 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:06:38.154Z'
 finalUrl: 'https://lesliespool.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on Salesforce Commerce, an established e-commerce platform.'
-    - Established domain — registered 28.3 years ago.
+    - Established domain — registered 28.4 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -55,18 +55,18 @@ signals:
   ssl:
     status: pass
     value:
-      issuer: 'GoDaddy.com, Inc.'
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      issuer: GoDaddy.com
+      validTo: '2026-09-18'
+      daysToExpiry: 54
       authorized: true
-    detail: 'Valid certificate issued by GoDaddy.com, Inc..'
+    detail: Valid certificate issued by GoDaddy.com.
   domainAge:
     status: pass
     value:
       createdAt: '1998-03-19'
-      ageDays: 10324
-      ageYears: 28.3
-    detail: Registered 28.3 years ago (1998-03-19).
+      ageDays: 10357
+      ageYears: 28.4
+    detail: Registered 28.4 years ago (1998-03-19).
   contact:
     status: pass
     value:
@@ -97,7 +97,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-lesliespool.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+lesliespool.com looks like a well-established store. The clearest positives are that its domain has been registered for 28.4 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Lesliespool in the score above.
 

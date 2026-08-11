@@ -5,7 +5,7 @@ title: Is palestraweb.com Legit? Trust Score 52/100 — Mixed Signals
 description: >-
   palestraweb.com scores 52/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:46:59.986Z'
+fetchedAt: '2026-07-27T08:33:23.521Z'
 finalUrl: 'https://palestraweb.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 52
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 24.2 years ago.
+    - Established domain — registered 24.3 years ago.
     - Valid HTTPS/SSL certificate in place.
   redFlags:
     - No public contact details detected on the homepage.
@@ -57,16 +57,16 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-01'
-      daysToExpiry: 69
+      daysToExpiry: 36
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2002-04-17'
-      ageDays: 8834
-      ageYears: 24.2
-    detail: Registered 24.2 years ago (2002-04-17).
+      ageDays: 8866
+      ageYears: 24.3
+    detail: Registered 24.3 years ago (2002-04-17).
   contact:
     status: fail
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-palestraweb.com sends a mixed set of signals. On the positive side, its domain has been registered for 24.2 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
+palestraweb.com sends a mixed set of signals. On the positive side, its domain has been registered for 24.3 years and it secures traffic with a valid HTTPS certificate. Against that, there are no clear public contact details and some standard contact or policy pages appear to be missing — worth weighing before you buy. It is not a clear red flag, but we would treat a first purchase with measured caution and use a payment method that offers buyer protection.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Palestraweb in the score above.
 

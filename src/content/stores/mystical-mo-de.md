@@ -5,7 +5,7 @@ title: Is mystical-mo.de Legit? Trust Score 40/100
 description: >-
   mystical-mo.de scores 40/100 on our public trust checks. No public contact
   details detected on the homepage.
-fetchedAt: '2026-06-25T02:45:23.521Z'
+fetchedAt: '2026-07-27T08:31:44.482Z'
 finalUrl: 'https://mystical-mo.de/'
 reachable: true
 noindex: false
@@ -57,7 +57,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2026-10-06'
-      daysToExpiry: 104
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

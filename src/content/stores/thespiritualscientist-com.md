@@ -4,9 +4,9 @@ slug: thespiritualscientist-com
 title: Is thespiritualscientist.com Legit? Trust Score 76/100
 description: >-
   thespiritualscientist.com scores 76/100 on our public trust checks.
-  Established domain — registered 19 years ago. Valid HTTPS/SSL certificate in
+  Established domain — registered 19.1 years ago. Valid HTTPS/SSL certificate in
   place.
-fetchedAt: '2026-06-25T12:31:39.608Z'
+fetchedAt: '2026-08-10T06:37:04.213Z'
 finalUrl: 'https://www.thespiritualscientist.com/'
 reachable: true
 noindex: false
@@ -18,8 +18,7 @@ verdict:
     secure payment methods when shopping online.
   score: 76
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 19 years ago.
+    - Established domain — registered 19.1 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Maintains links to multiple social media platforms.
   redFlags: []
@@ -34,16 +33,16 @@ signals:
       finalUrl: 'https://www.thespiritualscientist.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
-        hasAddToCart: true
+        hasAddToCart: false
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
     status: warn
     value:
@@ -57,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 58
+      validTo: '2026-10-21'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-07-03'
-      ageDays: 6932
-      ageYears: 19
-    detail: Registered 19 years ago (2007-07-03).
+      ageDays: 6977
+      ageYears: 19.1
+    detail: Registered 19.1 years ago (2007-07-03).
   contact:
     status: warn
     value:
@@ -79,15 +78,13 @@ signals:
     status: pass
     value:
       facebook: true
-      instagram: true
+      instagram: false
       twitter: true
       tiktok: false
       youtube: true
-      linkedin: true
+      linkedin: false
       pinterest: false
-    detail: >-
-      Links to 5 social platform(s): facebook, instagram, twitter, youtube,
-      linkedin.
+    detail: 'Links to 3 social platform(s): facebook, twitter, youtube.'
   reviews:
     status: unknown
     value:
@@ -98,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-thespiritualscientist.com looks like a well-established store. The clearest positives are that its domain has been registered for 19 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+thespiritualscientist.com looks like a well-established store. The clearest positives are that its domain has been registered for 19.1 years and it secures traffic with a valid HTTPS certificate. The main thing we would flag is that only limited contact details are listed and some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Thespiritualscientist in the score above.
 

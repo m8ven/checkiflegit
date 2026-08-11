@@ -5,7 +5,7 @@ title: Is vob.sk Legit? Trust Score 74/100 — Trust Checks Pass
 description: >-
   vob.sk scores 74/100 on our public trust checks. Valid HTTPS/SSL certificate
   in place. Public business contact details are listed.
-fetchedAt: '2026-06-25T12:08:56.588Z'
+fetchedAt: '2026-08-10T06:18:30.944Z'
 finalUrl: 'https://vob.sk/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-22'
-      daysToExpiry: 59
+      validTo: '2026-10-21'
+      daysToExpiry: 73
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

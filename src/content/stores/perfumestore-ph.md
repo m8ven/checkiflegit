@@ -5,7 +5,7 @@ title: Is perfumestore.ph Legit? Trust Score 83/100
 description: >-
   perfumestore.ph scores 83/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T11:57:56.592Z'
+fetchedAt: '2026-08-10T06:09:23.720Z'
 finalUrl: 'https://perfumestore.ph/'
 reachable: true
 noindex: false
@@ -55,8 +55,8 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-06'
+      daysToExpiry: 58
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

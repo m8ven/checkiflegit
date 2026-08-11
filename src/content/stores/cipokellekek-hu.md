@@ -5,7 +5,7 @@ title: Is cipokellekek.hu Legit? Trust Score 49/100 — Mixed Signals
 description: >-
   cipokellekek.hu scores 49/100 on our public trust checks. Standard contact and
   policy pages were not found. Limited social media presence.
-fetchedAt: '2026-06-25T03:39:06.163Z'
+fetchedAt: '2026-08-03T08:24:54.141Z'
 finalUrl: 'https://cipokellekek.hu/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 50
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

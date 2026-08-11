@@ -4,8 +4,8 @@ slug: 3dtone-com
 title: Is 3dtone.com Legit? Trust Score 100/100 — Trust Checks Pass
 description: >-
   3dtone.com scores 100/100 on our public trust checks. Established domain —
-  registered 2.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:32:03.826Z'
+  registered 3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:02:00.096Z'
 finalUrl: 'https://3dtone.com/es/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 100
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 2.9 years ago.
+    - Established domain — registered 3 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-13'
-      daysToExpiry: 49
+      validTo: '2026-10-11'
+      daysToExpiry: 63
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2023-07-26'
-      ageDays: 1064
-      ageYears: 2.9
-    detail: Registered 2.9 years ago (2023-07-26).
+      ageDays: 1110
+      ageYears: 3
+    detail: Registered 3 years ago (2023-07-26).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-3dtone.com looks like a well-established store. The clearest positives are that its domain has been registered for 2.9 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+3dtone.com looks like a well-established store. The clearest positives are that its domain has been registered for 3 years and it lists genuine business contact details. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against 3dtone in the score above.
 

@@ -5,7 +5,7 @@ title: Is credenza-furniture.com Legit? Trust Score 73/100
 description: >-
   credenza-furniture.com scores 73/100 on our public trust checks. Established
   domain — registered 5.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:23:17.145Z'
+fetchedAt: '2026-07-27T08:13:10.015Z'
 finalUrl: 'https://credenza-furniture.com/'
 reachable: true
 noindex: false
@@ -56,15 +56,15 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-06'
-      daysToExpiry: 43
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2021-06-06'
-      ageDays: 1844
+      ageDays: 1876
       ageYears: 5.1
     detail: Registered 5.1 years ago (2021-06-06).
   contact:

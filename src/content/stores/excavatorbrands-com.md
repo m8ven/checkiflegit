@@ -1,11 +1,11 @@
 ---
 domain: excavatorbrands.com
 slug: excavatorbrands-com
-title: Is excavatorbrands.com Legit? Trust Score 85/100
+title: Is excavatorbrands.com Legit? Trust Score 88/100
 description: >-
-  excavatorbrands.com scores 85/100 on our public trust checks. Established
-  domain — registered 9.1 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T03:43:09.197Z'
+  excavatorbrands.com scores 88/100 on our public trust checks. Established
+  domain — registered 9.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:03:00.289Z'
 finalUrl: 'https://excavatorbrands.com/'
 reachable: true
 noindex: false
@@ -15,16 +15,15 @@ verdict:
   summary: >-
     This store shows several positive public trust signals. As always, use
     secure payment methods when shopping online.
-  score: 85
+  score: 88
   greenFlags:
-    - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 9.1 years ago.
+    - Established domain — registered 9.3 years ago.
     - Valid HTTPS/SSL certificate in place.
-    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Public business contact details are listed.
-  redFlags:
-    - No links to major social platforms found.
-  cautions: []
+    - Maintains links to multiple social media platforms.
+  redFlags: []
+  cautions:
+    - Some standard policy or contact pages appear to be missing.
 signals:
   http:
     status: pass
@@ -33,40 +32,40 @@ signals:
       finalUrl: 'https://excavatorbrands.com/'
     detail: Homepage loads (HTTP 200).
   platform:
-    status: pass
+    status: unknown
     value:
-      platform: WooCommerce
-      isStore: true
+      platform: null
+      isStore: false
       markers:
         hasAddToCart: true
         hasCartLink: false
         hasCatalog: true
         hasCartFlow: false
-    detail: 'Built on WooCommerce, an established e-commerce platform.'
+    detail: No clear e-commerce platform or storefront markers detected.
   pages:
-    status: pass
+    status: warn
     value:
       contact: true
       privacy: true
-      terms: true
-      refund: true
+      terms: false
+      refund: false
       shipping: false
-    detail: Found 3 policy page(s) and a contact page.
+    detail: Found 1 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Google Trust Services
       validTo: '2026-09-21'
-      daysToExpiry: 89
+      daysToExpiry: 43
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:
     status: pass
     value:
       createdAt: '2017-05-05'
-      ageDays: 3337
-      ageYears: 9.1
-    detail: Registered 9.1 years ago (2017-05-05).
+      ageDays: 3383
+      ageYears: 9.3
+    detail: Registered 9.3 years ago (2017-05-05).
   contact:
     status: pass
     value:
@@ -75,16 +74,16 @@ signals:
       address: false
     detail: 'Public contact details found: email, phone.'
   social:
-    status: fail
+    status: pass
     value:
-      facebook: false
-      instagram: false
-      twitter: false
+      facebook: true
+      instagram: true
+      twitter: true
       tiktok: false
       youtube: false
       linkedin: false
       pinterest: false
-    detail: No links to major social platforms found.
+    detail: 'Links to 3 social platform(s): facebook, instagram, twitter.'
   reviews:
     status: unknown
     value:
@@ -95,7 +94,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-excavatorbrands.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.1 years and it lists genuine business contact details. The main thing we would flag is that it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+excavatorbrands.com looks like a well-established store. The clearest positives are that its domain has been registered for 9.3 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Excavatorbrands in the score above.
 

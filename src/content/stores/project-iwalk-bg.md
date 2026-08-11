@@ -5,7 +5,7 @@ title: Is project.iwalk.bg Legit? Trust Score 57/100
 description: >-
   project.iwalk.bg scores 57/100 on our public trust checks. Some standard
   policy or contact pages appear to be missing.
-fetchedAt: '2026-06-25T12:04:14.586Z'
+fetchedAt: '2026-08-10T06:14:35.594Z'
 finalUrl: 'https://project.iwalk.bg/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Google Trust Services
       validTo: '2026-09-18'
-      daysToExpiry: 86
+      daysToExpiry: 40
       authorized: true
     detail: Valid certificate issued by Google Trust Services.
   domainAge:

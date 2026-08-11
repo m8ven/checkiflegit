@@ -4,8 +4,8 @@ slug: mayaeid-com
 title: Is mayaeid.com Legit? Trust Score 73/100 — Trust Checks Pass
 description: >-
   mayaeid.com scores 73/100 on our public trust checks. Established domain —
-  registered 18.9 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:28:38.166Z'
+  registered 19 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:34:38.654Z'
 finalUrl: 'https://mayaeid.com/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 73
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 18.9 years ago.
+    - Established domain — registered 19 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags:
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-07-04'
-      daysToExpiry: 10
+      validTo: '2026-09-27'
+      daysToExpiry: 49
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2007-08-23'
-      ageDays: 6881
-      ageYears: 18.9
-    detail: Registered 18.9 years ago (2007-08-23).
+      ageDays: 6927
+      ageYears: 19
+    detail: Registered 19 years ago (2007-08-23).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-mayaeid.com looks like a well-established store. The clearest positives are that its domain has been registered for 18.9 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+mayaeid.com looks like a well-established store. The clearest positives are that its domain has been registered for 19 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and it has little or no social media footprint, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Mayaeid in the score above.
 

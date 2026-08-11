@@ -5,7 +5,7 @@ title: Is hanfstadel.de Legit? Trust Score 100/100
 description: >-
   hanfstadel.de scores 100/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T03:47:41.888Z'
+fetchedAt: '2026-08-03T08:32:37.611Z'
 finalUrl: 'https://hanfstadel.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Sectigo Limited
       validTo: '2027-03-16'
-      daysToExpiry: 265
+      daysToExpiry: 226
       authorized: true
     detail: Valid certificate issued by Sectigo Limited.
   domainAge:

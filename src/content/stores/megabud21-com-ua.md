@@ -4,8 +4,8 @@ slug: megabud21-com-ua
 title: Is megabud21.com.ua Legit? Trust Score 82/100
 description: >-
   megabud21.com.ua scores 82/100 on our public trust checks. Established domain
-  — registered 6.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T02:52:08.571Z'
+  — registered 6.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:37:54.773Z'
 finalUrl: 'https://megabud21.com.ua/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 82
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 6.5 years ago.
+    - Established domain — registered 6.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
   redFlags: []
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-14'
-      daysToExpiry: 51
+      validTo: '2026-10-13'
+      daysToExpiry: 78
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2019-12-24'
-      ageDays: 2374
-      ageYears: 6.5
-    detail: Registered 6.5 years ago (2019-12-24).
+      ageDays: 2406
+      ageYears: 6.6
+    detail: Registered 6.6 years ago (2019-12-24).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-megabud21.com.ua looks like a well-established store. The clearest positives are that its domain has been registered for 6.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+megabud21.com.ua looks like a well-established store. The clearest positives are that its domain has been registered for 6.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing and its social media presence is limited, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Megabud21 in the score above.
 

@@ -5,7 +5,7 @@ title: Is gravurnachwunsch.de Legit? Trust Score 79/100
 description: >-
   gravurnachwunsch.de scores 79/100 on our public trust checks. Valid HTTPS/SSL
   certificate in place.
-fetchedAt: '2026-06-25T02:59:29.828Z'
+fetchedAt: '2026-08-03T08:06:12.574Z'
 finalUrl: 'https://www.gravurnachwunsch.de/'
 reachable: true
 noindex: false
@@ -56,7 +56,7 @@ signals:
     value:
       issuer: Let's Encrypt
       validTo: '2026-09-13'
-      daysToExpiry: 81
+      daysToExpiry: 41
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:

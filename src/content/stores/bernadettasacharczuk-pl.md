@@ -1,30 +1,30 @@
 ---
 domain: bernadettasacharczuk.pl
 slug: bernadettasacharczuk-pl
-title: Is bernadettasacharczuk.pl Legit? Trust Score 40/100
+title: Is bernadettasacharczuk.pl Legit? Trust Score 70/100
 description: >-
-  bernadettasacharczuk.pl scores 40/100 on our public trust checks. No public
-  contact details detected on the homepage.
-fetchedAt: '2026-06-25T02:20:41.194Z'
+  bernadettasacharczuk.pl scores 70/100 on our public trust checks. Established
+  domain — registered 2.3 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-07-27T08:11:22.765Z'
 finalUrl: 'https://bernadettasacharczuk.pl/'
 reachable: true
 noindex: false
 verdict:
-  tier: limited
-  label: Limited trust signals — proceed with caution
+  tier: strong
+  label: Strong trust signals
   summary: >-
-    This store shows limited public trust signals. That does not necessarily
-    mean it is fraudulent, but we recommend extra caution and using
-    buyer-protected payment methods.
-  score: 40
+    This store shows several positive public trust signals. As always, use
+    secure payment methods when shopping online.
+  score: 70
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
+    - Established domain — registered 2.3 years ago.
     - Valid HTTPS/SSL certificate in place.
+    - Has a contact page and multiple policy pages (privacy/terms/refund).
     - Maintains links to multiple social media platforms.
   redFlags:
     - No public contact details detected on the homepage.
-  cautions:
-    - Some standard policy or contact pages appear to be missing.
+  cautions: []
 signals:
   http:
     status: pass
@@ -44,26 +44,29 @@ signals:
         hasCartFlow: false
     detail: 'Built on WooCommerce, an established e-commerce platform.'
   pages:
-    status: warn
+    status: pass
     value:
       contact: true
-      privacy: false
-      terms: false
+      privacy: true
+      terms: true
       refund: false
       shipping: false
-    detail: Found 0 policy page(s) and a contact page.
+    detail: Found 2 policy page(s) and a contact page.
   ssl:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-07'
-      daysToExpiry: 44
+      validTo: '2026-10-06'
+      daysToExpiry: 72
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
-    status: unknown
-    value: null
-    detail: Creation date not present in WHOIS record.
+    status: pass
+    value:
+      createdAt: '2024-04-18'
+      ageDays: 829
+      ageYears: 2.3
+    detail: Registered 2.3 years ago (2024-04-18).
   contact:
     status: fail
     value:
@@ -92,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-We found limited public trust signals for bernadettasacharczuk.pl. In particular, there are no clear public contact details and some standard contact or policy pages appear to be missing. It does have some positives — it secures traffic with a valid HTTPS certificate and it runs on WooCommerce, an established e-commerce platform — but that alone is not much to go on. This does not mean the store is fraudulent, but we would be cautious: research it further and avoid paying by methods without recourse.
+bernadettasacharczuk.pl looks like a well-established store. The clearest positives are that its domain has been registered for 2.3 years and it publishes the contact and policy pages shoppers expect. The main thing we would flag is that there are no clear public contact details, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bernadettasacharczuk in the score above.
 

@@ -4,8 +4,8 @@ slug: bud3-net
 title: Is bud3.net Legit? Trust Score 88/100 — Trust Checks Pass
 description: >-
   bud3.net scores 88/100 on our public trust checks. Established domain —
-  registered 15.5 years ago. Valid HTTPS/SSL certificate in place.
-fetchedAt: '2026-06-25T12:16:28.606Z'
+  registered 15.6 years ago. Valid HTTPS/SSL certificate in place.
+fetchedAt: '2026-08-10T06:24:34.419Z'
 finalUrl: 'https://www.bud3.net/'
 reachable: true
 noindex: false
@@ -18,7 +18,7 @@ verdict:
   score: 88
   greenFlags:
     - 'Built on WooCommerce, an established e-commerce platform.'
-    - Established domain — registered 15.5 years ago.
+    - Established domain — registered 15.6 years ago.
     - Valid HTTPS/SSL certificate in place.
     - Public business contact details are listed.
     - Maintains links to multiple social media platforms.
@@ -56,17 +56,17 @@ signals:
     status: pass
     value:
       issuer: Let's Encrypt
-      validTo: '2026-08-05'
-      daysToExpiry: 42
+      validTo: '2026-10-05'
+      daysToExpiry: 57
       authorized: true
     detail: Valid certificate issued by Let's Encrypt.
   domainAge:
     status: pass
     value:
       createdAt: '2011-01-12'
-      ageDays: 5643
-      ageYears: 15.5
-    detail: Registered 15.5 years ago (2011-01-12).
+      ageDays: 5688
+      ageYears: 15.6
+    detail: Registered 15.6 years ago (2011-01-12).
   contact:
     status: pass
     value:
@@ -95,7 +95,7 @@ signals:
       checked (no free, reliable signal).
 ---
 
-bud3.net looks like a well-established store. The clearest positives are that its domain has been registered for 15.5 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
+bud3.net looks like a well-established store. The clearest positives are that its domain has been registered for 15.6 years and it lists genuine business contact details. The main thing we would flag is that some standard contact or policy pages appear to be missing, though it does not outweigh the positives. On balance the public signals here are reassuring — shop with the same common-sense caution you would use anywhere online.
 
 A few checks were inconclusive when we looked, so they count neither for nor against Bud3 in the score above.
 
