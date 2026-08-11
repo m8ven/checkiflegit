@@ -14,7 +14,10 @@
     "generate": "node scripts/generate.js",
     "stats": "node scripts/stats.js",
     "astro": "astro",
-    "refetch": "node scripts/refetch.js"
+    "refetch": "node scripts/refetch.js",
+    "demand": "node scripts/discover-demand.js discover",
+    "demand:audit": "node scripts/discover-demand.js audit",
+    "demand:resolve": "node scripts/resolve-demand.js"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.2.0",

@@ -107,9 +107,9 @@ h2 { font-size: 19px; margin: 30px 0 12px; letter-spacing: -0.01em; }
 .verdict.moderate { border-left-color: var(--amber); }
 .verdict.moderate .verdict__badge { border-color: var(--amber); color: var(--amber); }
 .verdict.moderate .verdict__dot { background: var(--amber); }
-.verdict.limited, .verdict.unknown, .verdict.unreachable { border-left-color: var(--red); }
-.verdict.limited .verdict__badge, .verdict.unknown .verdict__badge, .verdict.unreachable .verdict__badge { border-color: var(--red); color: var(--red); }
-.verdict.limited .verdict__dot, .verdict.unknown .verdict__dot, .verdict.unreachable .verdict__dot { background: var(--red); }
+.verdict.limited, .verdict.unknown, .verdict.unreachable, .verdict.thin { border-left-color: var(--red); }
+.verdict.limited .verdict__badge, .verdict.unknown .verdict__badge, .verdict.unreachable .verdict__badge, .verdict.thin .verdict__badge { border-color: var(--red); color: var(--red); }
+.verdict.limited .verdict__dot, .verdict.unknown .verdict__dot, .verdict.unreachable .verdict__dot, .verdict.thin .verdict__dot { background: var(--red); }
 
 /* ---------- 2. Ad slot ---------- */
 .ad-slot {

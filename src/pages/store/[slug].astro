@@ -7,6 +7,7 @@ import Flags from '../../components/Flags.astro';
 import SafetyTips from '../../components/SafetyTips.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import RelatedStores from '../../components/RelatedStores.astro';
+import CodeEvidence from '../../components/CodeEvidence.astro';
 import {
   getIndexableStores, buildRelatedGraph, platformOf, tldOf, toSegment,
   MIN_HUB_SIZE, TIER_META, type Related,
@@ -117,6 +118,8 @@ if (data.reachable && verdict.score != null) {
   <SignalBreakdown signals={signals} />
 
   {/* 4. Green flags & worth-noting cards */}
+  <CodeEvidence findings={signals?.deception?.value?.findings ?? []} domain={data.domain} fetchedAt={data.fetchedAt} />
+
   <h2>Red &amp; green flags</h2>
   <Flags greenFlags={verdict.greenFlags} redFlags={verdict.redFlags} cautions={verdict.cautions} />
 

@@ -26,6 +26,31 @@ seed domains ─► fetchSignals() ─► scoreVerdict() ─► generatePage() �
 | Contact info      | Email/phone/address detection in HTML    | `scripts/lib/signals/contact.js` |
 | Review footprint  | Trustpilot listing **presence** (status only) | `scripts/lib/signals/reviews.js` |
 | Social presence   | Outbound links to major platforms        | `scripts/lib/signals/social.js` |
+| Web history       | Internet Archive CDX — first seen + months captured | `scripts/lib/signals/history.js` |
+| Hosting & mail    | DNS records + ASN via Team Cymru (free, keyless) | `scripts/lib/signals/infra.js` |
+| Page behaviour    | Static scan of served HTML/JS for deceptive UI code | `scripts/lib/signals/deception.js` |
+
+#### Code-level deception detection
+
+`deception.js` is the one signal that measures what a store's code *does* rather
+than what it publishes. Publishing a privacy policy is free; fabricating social
+proof has to be implemented to work, so it leaves evidence. It detects
+browser-generated purchase notifications, randomised "time ago" labels, RNG
+stock and viewer counts, and countdowns seeded from the visitor's own clock.
+
+Two rules keep it honest, and both were arrived at by watching it get them wrong:
+
+- **Findings pair a specific primitive with a specific nearby phrase.** An
+  earlier version tested whether both merely appeared in the same window; it
+  flagged a cache-busting `Math.random()` sitting near an API-driven "left in
+  stock", and printed a snippet showing a different mechanism than it claimed.
+- **No finding without its snippet.** Every detection carries file, line and the
+  real source, rendered on the page (`CodeEvidence.astro`). If the code can't be
+  shown, the claim isn't made.
+
+Scored outside the weighted average (`score.js`): a high-severity finding caps
+the tier at `limited`, because signals that are cheap to fake must not outvote
+code evidence.
 
 The "About this check" / "Our take" paragraph is **deterministically synthesized**
 from these signals (`buildBody()` in `generatePage.js`) — **no LLM, no API key, ~$0
@@ -47,6 +72,9 @@ claim, which is what the "never fabricate" hard rule requires.
 npm install
 npm run fetch -- bellroy.com   # fetch one domain + write its MDX page (debug)
 npm run harvest                # discover real stores from Tranco → seed list
+npm run demand                 # what people actually search "is X legit" about
+npm run demand:audit           # which existing pages have any search demand
+npm run demand:resolve         # demand entities → confirmed domains → seed list
 npm run generate -- 25         # batch: next 25 unprocessed seed domains
 npm run dev                    # local preview
 npm run build                  # static build → dist/

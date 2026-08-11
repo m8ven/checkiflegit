@@ -51,6 +51,24 @@ const SIGNALS = {
     warn: () => 'Limited social media presence.',
     fail: () => 'No links to major social platforms found.',
   },
+  // Independent evidence the site has existed and been visible over time.
+  // Weighted like domain age because it measures the same underlying thing,
+  // and covers the ~28% of domains whose registry publishes no creation date.
+  history: {
+    weight: 3,
+    pass: (v) => `Independently archived on the web since ${v?.firstSeen ?? 'well before now'}.`,
+    warn: (v) => (v?.monthsSeen === 0
+      ? 'No independent web-archive record of this domain.'
+      : 'Only a short independent web history.'),
+    fail: () => 'No independent record of this site existing.',
+  },
+  // Only mail capability is scored; hosting and network are context. See infra.js.
+  infra: {
+    weight: 1,
+    pass: () => 'Standard hosting and mail records are in place.',
+    warn: () => 'The domain has no mail records, so it cannot receive email.',
+    fail: () => 'Core DNS records are missing.',
+  },
 };
 
 const SCORE_BY_STATUS = { pass: 1, warn: 0.4, fail: -0.5, unknown: null };
@@ -78,7 +96,7 @@ export function scoreVerdict(signals) {
 
   // Normalize to 0–100. With no scorable signals, score is null (unknown).
   const ratio = max > 0 ? Math.max(0, total / max) : null;
-  const score = ratio === null ? null : Math.round(ratio * 100);
+  let score = ratio === null ? null : Math.round(ratio * 100);
 
   let tier, label, summary;
   if (ratio === null) {
@@ -101,6 +119,55 @@ export function scoreVerdict(signals) {
     label = 'Limited trust signals — proceed with caution';
     summary =
       'This store shows limited public trust signals. That does not necessarily mean it is fraudulent, but we recommend extra caution and using buyer-protected payment methods.';
+  }
+
+  // `thin_footprint` (detection brief §2): corroboration is three-state, not
+  // two. When the ONLY source of information about a business is the business
+  // itself — nothing archived it, no third-party reviews, no social presence —
+  // that is a distinct and reportable finding, not a data gap. Scoring systems
+  // that treat absence as neutral let a brand-new storefront with a polished
+  // site sit mid-scale purely by having no history.
+  const noArchive = signals.history?.status !== 'unknown' &&
+    (signals.history?.value?.monthsSeen ?? 0) === 0;
+  const noReviews = signals.reviews?.status !== 'pass';
+  const noSocial = signals.social?.status === 'fail';
+  if (noArchive && noReviews && noSocial && tier !== 'unknown') {
+    tier = 'thin';
+    label = 'No independent footprint — proceed with caution';
+    summary =
+      'Everything we could find about this store comes from the store itself. Nothing has archived it, we found no third-party review presence, and it links to no social accounts. That is not proof of anything wrong, but it means there is no outside record to check it against — treat it as unverified and use payment methods with buyer protection.';
+    redFlags.push('No independent record of this business exists outside its own website.');
+  }
+
+  // Code-level deception is handled outside the weighted average deliberately.
+  // The other signals measure what a store publishes, which is cheap to fake;
+  // this one measures what its code does, which had to be built to work. A
+  // store can hold a valid certificate, full policy pages and a phone number
+  // and still generate its "12 people are viewing this" from Math.random() —
+  // averaging that away would let the easy signals outvote the hard evidence.
+  const deception = signals.deception;
+  const findings = deception?.value?.findings ?? [];
+  if (findings.length > 0) {
+    const high = findings.filter((f) => f.severity === 'high');
+    // Each finding carries its own source line, so the flag states a fact about
+    // the code rather than an accusation about the business — which keeps the
+    // no-SCAM-labels rule intact while still being a real warning.
+    for (const f of findings) (f.severity === 'high' ? redFlags : cautions).push(f.label);
+
+    if (high.length > 0 && tier !== 'unknown') {
+      tier = 'limited';
+      // The numeric score is rendered in the page title next to the label, so
+      // it has to move with the tier — "Trust Score 100/100 — Deceptive
+      // interface code found" would read as a contradiction. Pull it into the
+      // limited band (<45) rather than zeroing it: the other signals were
+      // genuinely measured and did pass.
+      if (score !== null) score = Math.min(score, 40);
+      label = 'Deceptive interface code found — proceed with caution';
+      summary =
+        'Regardless of its other signals, this store serves code that manufactures social proof or scarcity — purchase notices, stock counts or viewer counts generated in your browser rather than from real activity. The exact code is quoted below. Treat urgency messaging on this site as marketing, not fact.';
+    }
+  } else if (deception?.status === 'pass') {
+    greenFlags.push('No fabricated urgency or social-proof code found in the pages this store serves.');
   }
 
   return { tier, label, summary, score, greenFlags, redFlags, cautions };

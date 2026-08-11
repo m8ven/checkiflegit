@@ -1,0 +1,78 @@
+---
+// Renders code-level deception findings with the actual source that triggered
+// them.
+//
+// The snippet is the point. A verdict backed by five lines of real code is
+// checkable by the reader and answerable by the merchant; "fabricated social
+// proof detected (confidence 0.87)" is neither. This component therefore never
+// renders a finding without its evidence — if `snippet` is missing, the row is
+// dropped rather than shown as a bare claim.
+interface Finding {
+  signal: string;
+  severity: string;
+  label: string;
+  location?: string;
+  snippet?: string;
+}
+interface Props {
+  findings: Finding[];
+  domain: string;
+  fetchedAt?: string;
+}
+const { findings, domain, fetchedAt } = Astro.props;
+const shown = (findings ?? []).filter((f) => f.snippet && f.location);
+const checkedOn = fetchedAt ? String(fetchedAt).slice(0, 10) : null;
+---
+{shown.length > 0 && (
+  <section class="evidence">
+    <h2>What we found in the page code</h2>
+    <p class="muted">
+      These are patterns in the code {domain} served to us{checkedOn && <> on {checkedOn}</>}.
+      Each one is quoted directly from the file named beside it, so you can verify it yourself
+      with your browser's developer tools. Code can change at any time.
+    </p>
+
+    {shown.map((f) => (
+      <article class={`evidence__item evidence__item--${f.severity}`}>
+        <h3>{f.label}</h3>
+        <p class="evidence__loc"><code>{f.location}</code></p>
+        <pre class="evidence__code"><code>{f.snippet}</code></pre>
+      </article>
+    ))}
+
+    <p class="small muted">
+      Why this matters: notices like “someone just bought this” or “only 3 left” are persuasive
+      because shoppers read them as reports of real activity. When the numbers are generated in
+      your own browser, they describe nothing that happened.
+    </p>
+  </section>
+)}
+
+<style>
+  .evidence { margin: 32px 0; }
+  .evidence__item {
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--amber);
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin: 14px 0;
+    background: var(--surface, transparent);
+  }
+  .evidence__item--high { border-left-color: var(--red); }
+  .evidence__item h3 { margin: 0 0 6px; font-size: 1rem; line-height: 1.4; }
+  .evidence__loc { margin: 0 0 8px; font-size: 0.85rem; color: var(--muted); }
+  .evidence__code {
+    margin: 0;
+    padding: 10px 12px;
+    background: #0f1115;
+    color: #e6e6e6;
+    border-radius: 8px;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    /* Minified bundles produce very long single lines — scroll the block
+       rather than letting it widen the page on mobile. */
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+</style>

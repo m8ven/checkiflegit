@@ -12,8 +12,11 @@ const LABELS: Record<string, string> = {
   contact: 'Business contact info',
   reviews: 'Third-party reviews',
   social: 'Social media presence',
+  history: 'Independent web history',
+  infra: 'Hosting & mail records',
+  deception: 'Page behaviour',
 };
-const ORDER = ['http', 'platform', 'domainAge', 'ssl', 'pages', 'contact', 'reviews', 'social'];
+const ORDER = ['http', 'platform', 'domainAge', 'history', 'ssl', 'pages', 'contact', 'reviews', 'social', 'infra', 'deception'];
 const rows = ORDER.filter((k) => signals[k]).map((k) => ({ key: k, ...signals[k] }));
 ---
 <ul class="signals">

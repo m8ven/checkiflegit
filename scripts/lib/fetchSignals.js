@@ -6,6 +6,9 @@ import { checkContactInfo } from './signals/contact.js';
 import { checkSocial } from './signals/social.js';
 import { checkReviews } from './signals/reviews.js';
 import { detectPlatform } from './signals/platform.js';
+import { checkDeception } from './signals/deception.js';
+import { checkInfra } from './signals/infra.js';
+import { checkHistory } from './signals/history.js';
 
 /**
  * Fetch every public signal for a domain.
@@ -37,10 +40,12 @@ export async function fetchSignals(rawDomain) {
 
   // 2. Remaining signals. SSL/WHOIS/reviews hit the network in parallel;
   //    contact/social parse the already-fetched HTML.
-  const [ssl, domainAge, reviews] = await Promise.all([
+  const [ssl, domainAge, reviews, infra, history] = await Promise.all([
     checkSsl(domain),
     checkDomainAge(domain),
     checkReviews(domain),
+    checkInfra(domain),
+    checkHistory(domain),
   ]);
 
   let contact = checkContactInfo(http.html);
@@ -59,6 +64,9 @@ export async function fetchSignals(rawDomain) {
 
   const social = checkSocial(http.html);
   const platform = detectPlatform(http.html);
+  // Runs last: it fetches the store's script bundles, so it is the only signal
+  // beyond the homepage that costs extra requests.
+  const deception = await checkDeception(http.html, http.finalUrl);
 
   return {
     domain,
@@ -75,6 +83,9 @@ export async function fetchSignals(rawDomain) {
       contact,
       social,
       reviews,
+      infra,
+      history,
+      deception,
     },
   };
 }

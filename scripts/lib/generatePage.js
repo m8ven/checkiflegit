@@ -23,6 +23,10 @@ const STRENGTH = {
   contact: () => `it lists genuine business contact details`,
   reviews: () => `it has an independent review presence on Trustpilot`,
   social: () => `it maintains active social media profiles`,
+  history: (s) => `independent web archives have recorded it since ${s.value?.firstSeen ?? 'years ago'}`,
+  infra: (s) => (s.value?.mailProvider
+    ? `its email runs through ${s.value.mailProvider}`
+    : `it has working mail records`),
 };
 const CONCERN = {
   domainAge: (s) => (s.status === 'fail' ? `the domain was only registered very recently` : `the domain is still relatively young`),
@@ -32,9 +36,13 @@ const CONCERN = {
   reviews: () => `it has no third-party review presence we could find`,
   social: (s) => (s.status === 'fail' ? `it has little or no social media footprint` : `its social media presence is limited`),
   platform: () => `we could not confirm a standard storefront setup`,
+  history: (s) => (s.value?.monthsSeen === 0
+    ? `no web archive has any record of this domain`
+    : `it has only a short independent web history`),
+  infra: () => `the domain has no mail records, so it cannot receive email`,
 };
 // Order signals by how much weight a shopper reasonably gives them.
-const PRIORITY = ['domainAge', 'reviews', 'contact', 'pages', 'ssl', 'platform', 'social'];
+const PRIORITY = ['history', 'domainAge', 'reviews', 'contact', 'pages', 'ssl', 'infra', 'platform', 'social'];
 
 function joinPhrases(arr) {
   if (arr.length <= 1) return arr[0] || '';

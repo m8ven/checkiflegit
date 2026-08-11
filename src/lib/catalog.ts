@@ -42,7 +42,10 @@ export function toSegment(value: string): string {
   return value.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 
-export const TIERS = ['strong', 'moderate', 'limited'] as const;
+// Display order, worst-case last. `thin` sits alongside `limited` rather than
+// below it: it is a different kind of finding (nothing independent exists to
+// check against), not a lower score.
+export const TIERS = ['strong', 'moderate', 'limited', 'thin'] as const;
 export type Tier = (typeof TIERS)[number];
 
 export const TIER_META: Record<string, { short: string; heading: string; blurb: string }> = {
@@ -66,6 +69,14 @@ export const TIER_META: Record<string, { short: string; heading: string; blurb: 
     blurb:
       'These stores showed few public trust signals at the time of checking. That does not mean ' +
       'they are fraudulent, but we suggest extra care and buyer-protected payment methods.',
+  },
+  thin: {
+    short: 'No independent footprint',
+    heading: 'Stores with no independent footprint',
+    blurb:
+      'For these stores, every piece of information we could find came from the store itself — ' +
+      'no web-archive history, no third-party review presence and no social accounts. There is ' +
+      'no outside record to check their claims against.',
   },
 };
 
