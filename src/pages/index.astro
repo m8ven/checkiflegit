@@ -51,6 +51,21 @@ const recent = [...stores]
 
   <AdSlot id="home-top" />
 
+  <!-- Linked from the homepage because it is the most-crawled page on the site,
+       and these guides are the pages most likely to earn traffic and citations. -->
+  <h2>Checking a store yourself</h2>
+  <ul class="store-list">
+    <li>
+      <a href="/guides/how-to-check-if-a-website-is-real/">How to check if a website is real before you buy</a>
+      <span class="muted small"> — why the padlock, the returns policy and the domain age barely discriminate, measured across {stores.length} stores.</span>
+    </li>
+    <li>
+      <a href="/guides/what-to-do-if-you-bought-from-a-scam-website/">What to do if you bought from a scam website</a>
+      <span class="muted small"> — dispute deadlines, what each payment method allows, and where to report it.</span>
+    </li>
+  </ul>
+  <p class="muted small"><a href="/guides/">All guides →</a> · <a href="/research/">Data studies →</a></p>
+
   <h2>Browse by trust-signal rating</h2>
   <ul class="store-list">
     {TIERS.map((tier) => (
