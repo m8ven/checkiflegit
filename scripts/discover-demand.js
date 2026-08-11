@@ -11,6 +11,7 @@
 //
 //   node scripts/discover-demand.js discover            # enumerate demand
 //   node scripts/discover-demand.js audit               # test the existing corpus
+//   node scripts/discover-demand.js info                # informational queries
 //
 // Flags: --depth=2 --markets=us,gb,ca,au --hl=en --limit=N --conc=4 --out=path
 //
@@ -220,6 +221,69 @@ async function discover() {
   };
 }
 
+/* ---------------------------------------------------------------------- info */
+
+// Entity demand tops out at roughly 200-300 store pages (measured), so the
+// informational queries — which have no entity dependence and far more volume —
+// have to carry traffic rather than supplement it. These are the question
+// shapes this site can answer from its own corpus measurements.
+const INFO_SEEDS = [
+  'how to tell if a website is',
+  'how to tell if an online store is',
+  'how to know if a website is',
+  'how to check if a website is',
+  'how to check if an online store is',
+  'how to spot a fake',
+  'how to verify a website',
+  'is it safe to buy from',
+  'signs of a fake website',
+  'signs of a scam website',
+  'what to do if you bought from a scam',
+  'how to avoid online shopping',
+  'how to check a website before buying',
+  'why do websites say only',
+  'are countdown timers on websites',
+  'are website reviews',
+];
+
+async function info() {
+  // Expand each seed with a trailing letter to pull distinct completions —
+  // the bare phrase alone returns only the single most popular continuation.
+  const queries = [];
+  for (const s of INFO_SEEDS) {
+    queries.push(s);
+    for (const a of ALPHABET) queries.push(`${s} ${a}`);
+  }
+
+  console.log(`Info: ${queries.length} queries x ${MARKETS.length} markets (${MARKETS.join(',')})`);
+
+  const found = new Map(); // suggestion -> { query, markets:Set, bestRank }
+  for (const gl of MARKETS) {
+    let done = 0;
+    await pool(queries, async (q) => {
+      const { suggestions } = await suggest(q, gl);
+      suggestions.forEach((s, rank) => {
+        const key = String(s).toLowerCase().trim();
+        // Keep only genuine questions, not navigational or entity lookups.
+        if (!/^(how|what|why|is it|are|should|can|do|does|where)\b/.test(key)) return;
+        const cur = found.get(key) || { query: key, markets: new Set(), bestRank: 99 };
+        cur.markets.add(gl);
+        cur.bestRank = Math.min(cur.bestRank, rank);
+        found.set(key, cur);
+      });
+      progress(++done, queries.length, `${gl} info`);
+    }, CONC);
+  }
+
+  const rows = [...found.values()]
+    .map((r) => ({ query: r.query, marketCount: r.markets.size, markets: [...r.markets], bestRank: r.bestRank }))
+    // Market breadth first, then how early Google ranks the completion — both
+    // proxy volume, since the endpoint reports none.
+    .sort((a, b) => b.marketCount - a.marketCount || a.bestRank - b.bestRank);
+
+  return { mode: 'info', markets: MARKETS, hl: HL, seeds: INFO_SEEDS.length, queriesRun: queries.length * MARKETS.length, queries: rows };
+}
+
 /* --------------------------------------------------------------------- audit */
 
 // Multi-part public suffixes common in the corpus. Without these, the brand of
@@ -308,14 +372,20 @@ async function audit() {
 /* ---------------------------------------------------------------------- main */
 
 const started = Date.now();
-const result = mode === 'audit' ? await audit() : await discover();
+const result = mode === 'audit' ? await audit() : mode === 'info' ? await info() : await discover();
 result.generatedAt = new Date().toISOString();
 result.elapsedSec = Math.round((Date.now() - started) / 1000);
 
 const outPath = flag('out', path.join(DATA_DIR, `demand-${result.mode}.json`));
 await writeFile(outPath, JSON.stringify(result, null, 2));
 
-if (result.mode === 'discover') {
+if (result.mode === 'info') {
+  console.log(`\nFound ${result.queries.length} informational queries.`);
+  console.log('Top 45 by market breadth, then rank:');
+  for (const q of result.queries.slice(0, 45)) {
+    console.log(`  ${q.marketCount}mkt r${q.bestRank}  ${q.query}`);
+  }
+} else if (result.mode === 'discover') {
   console.log(`\nFound ${result.entities.length} entities with trust-check demand.`);
   if (result.localLeak) {
     console.warn(`  NOTE: ${result.localLeak} suggestion(s) leaked caller geo — run via in-market proxy for a clean read.`);

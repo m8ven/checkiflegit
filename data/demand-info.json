@@ -1,0 +1,4716 @@
+{
+  "mode": "info",
+  "markets": [
+    "us",
+    "gb",
+    "ca",
+    "au"
+  ],
+  "hl": "en",
+  "seeds": 16,
+  "queriesRun": 1728,
+  "queries": [
+    {
+      "query": "how to check if a website is real or not",
+      "marketCount": 4,
+      "markets": [
+        "us",
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to stop buying stuff online",
+      "marketCount": 4,
+      "markets": [
+        "us",
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to tell if a website is vibe coded",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check if a website is up",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check if a website is genuine",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "is it safe to buy from ebay",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "is it safe to buy from etsy",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "is it safe to buy from ubuy",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check if a website is using quik",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check if a website is up or down",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "is it safe to buy from unboxify",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check if a website is using react",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "is it safe to buy from u7buy",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to tell if a website is ada compliant",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "au"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check if a website is updated",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "is it safe to buy from ubuy philippines",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check if a website is using shopify",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "is it safe to buy from ubuy india",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to avoid sales tax online shopping",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website is under ddos attack",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "is it safe to buy from ubuy nigeria",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check if a website is using ssl",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "is it safe to buy from ukraine on etsy",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to stop online shopping",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check if a website is up to date",
+      "marketCount": 3,
+      "markets": [
+        "us",
+        "gb",
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "is it safe to buy from ukraine on ebay",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "is it safe to buy from ubuy south africa",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "is it safe to buy from usa on ebay",
+      "marketCount": 3,
+      "markets": [
+        "gb",
+        "ca",
+        "au"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to know if a website is blocked on your wifi",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "is it safe to buy from aliexpress",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to stop online shopping when bored",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to prevent online shopping frauds",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "au"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to know if a website is vulnerable to xss",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to verify a website is legit",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to verify a website link",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "what to do if you bought from a scam website",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "au"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to know if a website is vibe coded",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to avoid tax online shopping",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "is it safe to buy from alibaba",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to stop online purchases on fnb app",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check if a website is vulnerable to xss",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to verify a website",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "can i get money back if i got scammed",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to know if a website is verified",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check a website for malware",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to stop online purchase on tymebank app",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how do i know if a online store is legit",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check if a site is genuine",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "is it safe to buy from carvana",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to stop online purchase on standard bank app",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to stop online purchase on fnb",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check if a website has an xml sitemap",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "is it safe to buy from ebay without paypal",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "is it safe to buy from ebay with credit card",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "what to do if you bought off a fake website",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "what to do if you get scammed",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to know if a website is vulnerable to sql injection",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to stop online purchase on tymebank app in south africa",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to avoid shopping",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "au"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how do i know if a website is authentic",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "is it safe to buy from ebay with debit card",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check if a website is vulnerable",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to know if a website is valid",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to stop online purchase on tymebank",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to shop online safely",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to know if a website is hacking you",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how do i know if a website is official",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "is it safe to buy from etsy usa",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how do i get my money back if i got scammed",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "au"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website is virus free",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to know if a website is virus",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check a website for viruses",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website has malware",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to know if a website has virus",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to stop yourself from shopping",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "au"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how can you tell if a website is authentic",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "is it safe to buy from ebay uk",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "what to do if i think i got scammed",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "au"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "is it safe to buy from eneba",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check if a website is valid or not",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check when a website was hosted",
+      "marketCount": 2,
+      "markets": [
+        "us",
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check if a website is verified",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to block shopping websites",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to check if a website is using cloudflare",
+      "marketCount": 2,
+      "markets": [
+        "gb",
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check if a website is virus",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to reduce online shopping",
+      "marketCount": 2,
+      "markets": [
+        "ca",
+        "au"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to tell if a website is credible",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to tell if a website is secure",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to tell if an online store is legit",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to tell if an online store is shopify",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to tell if a website is javascript",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to know if a website is trustworthy",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check if a website is having issues",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check if a website is indexed by google",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check if a website is working",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check if zscaler is blocking a website",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to spot a fake coach bag",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to spot a fake dumpling",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to spot a fake xbox series s",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check a website earning",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to verify your website on google",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "is it safe to buy from temu",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "is it safe to buy from depop",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "is it safe to buy from poshmark",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "what are the signs of a fake website",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to tell if a website is tracking you",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to know if a website is legit",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to know if a website is credible",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to know if a website is fake",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to spot a fake apple watch",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to spot a fake owala",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to spot a fake rolex",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check website javascript",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check a website's keywords",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check website quality",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "what to do if you accidentally buy from a scam website",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "what to do if you bought from a scam site",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to avoid online shopping scams",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to tell if a website is down",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to tell if a website is legit",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to tell if a website is peer reviewed",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to tell if a online store is legit",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to know if a website is hacked",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check keywords for a website",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to spot a fake bill canada",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to spot a fake friend",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to spot a fake jellycat",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to spot a fake scotty cameron",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to spot a fake ysl bag",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to test a website manually",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check a website traffic",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check a website visitors",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "is it safe to buy from chrono24",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to tell if a website is a scam",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check if a website is legitimate",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to verify a fake website",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to verify a website url",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "what to do if you get scammed facebook marketplace",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to check if a website is legit before buying",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 0
+    },
+    {
+      "query": "how to tell if a website is credible for research",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to tell if a website is safe",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to know if a website is blocked",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to know if a website is a journal article",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to know if a website is tracking you",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check if a website is https",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to know if a website is illegal",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check if a website is wordpress",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check if a website exists",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to spot a fake check",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to spot a fake dna test results",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to spot a fake xerjoff",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to verify your website with google search console",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "is it safe to buy from dhgate",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "is it safe to buy from printerval",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to avoid being scammed online shopping",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to tell if a website is scamming you",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to know if a website is safe",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to know if a website is credible for research",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to know if a website is fake or real",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check if a website is genuine or fake",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to spot a fake ap watch",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to spot a fake old $50 dollar bill",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to spot a fake rolex submariner",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check website jquery version",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check website keyword ranking free",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to verify a legit website",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check website quality score",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "what to do.if.you bought something.from.a.scammer",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "what to do if you make a purchase from a scam website",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "what to do if you bought something from a scam website",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to prevent online shopping scams",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to tell if a website is down for everyone",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to tell if a website is legit or a scam",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to tell if a website is powered by shopify",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to tell if a website is valid",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to see if a online store is legit",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to know if a website is https",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to spot a fake birkenstock",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to spot a fake funko pop",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to spot a fake job posting on indeed",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to spot a fake squishy dumpling",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to spot a fake yeti cooler",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check a website's meta tags",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check a website traffic for free",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check a website vulnerability",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "is it safe to buy from clutch",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to stop online window shopping",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to tell if a website is ai",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check if a website is legit",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check a website url",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "what to do if you ordered from a scam website",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to check a website without going to it",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "what is a countdown timer",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 1
+    },
+    {
+      "query": "how to tell if a website is credible - easybib blog",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to tell if a website is secure on safari",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to tell if an online store is real",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to know if a website is built on wordpress",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to know if a website is using javascript",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to know if a website is trusted",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check if a website is hackable",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to tell if a website is in wordpress",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check if a website is using tls 1.3",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check if a website is wcag compliant",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to spot a fake chanel bag",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to spot a fake disney pin",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to spot a fake xbox series x",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check a website is encrypted and secure",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to verify your website",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "is it safe to buy from tiktok shop",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "is it safe to buy from discogs",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "is it safe to buy from pinterest",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how do you know if you are on a fake website",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to know if a website is recording your screen",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to know if a website is a scam",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to know if a website is created with wordpress",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to know if a website is from shopify",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check if a website is geoblocked",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to spot a fake arsenal shirt",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to spot a fake omega seamaster",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to spot a fake rolex datejust",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check kea website",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check a website link is safe",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check website queue",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "is it safe to buy from amazon",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to tell if a website is dangerous",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to tell if a website is legit to buy from",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to tell if a website is phishing",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to.tell.if a website is verified",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to tell if a website store is legit",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to know if a website is https or http",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to spot a fake bill",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to spot a fake facebook account",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to spot a fake japanese pokemon card",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to spot a fake s25 ultra",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to spot a fake yugioh card",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to verify a website is safe",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check a website metadata",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check a website tech stack",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check a website's validity",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to avoid scams when shopping online",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to tell if a website is ai generated",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check if a website is legitimate in australia",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to test a website for accessibility",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to test a website using burp suite",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "what to do if you were scammed",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to check original website",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "does microsoft have a countdown timer",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 2
+    },
+    {
+      "query": "how to tell if a website is current",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to tell if a website is shopify",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to tell if an online store is fake",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to know if a website is being blocked by firewall",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to know if a website is a journal",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to know if a website is taken down",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check if a website is hosted on wordpress",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check if a website it legit",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check if a website is working or not",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to spot a fake check through email",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to spot a fake dollar bill",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to spot a fake x account",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check when a website expires",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to verify your website on pinterest",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "is it safe to buy from dhgate right now",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "is it safe to buy from psa on ebay",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to stop online purchase on african bank app",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to know if a website is scamming you",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to know if a website is secure",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to know when a website is created",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to know if a website is from wordpress",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check if a website is geofence",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to spot a fake ap royal oak",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to spot a fake old 100 dollar bill",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to spot a fake rolex watch",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to load test a website using jmeter",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check my website keywords",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to test a website locally",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check website queue position",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "is it safe to buy from alibaba in the us",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "can i get a refund if i get scammed",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "what to do if you think your being scammed",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "what to do if you buy something from a scam website",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to tell if a website is dropshipping",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to tell if a website is legit on iphone",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to tell if a website is protected against brute force attack",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to know if a online store is fake",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to know if a website is hipaa compliant",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to spot a fake breitling",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to spot a fake fanatics hockey jersey",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to spot a fake jellycat tag",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to spot a fake service dog",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to spot a fake ysl",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to verify a website is real",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check a website manually",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check a website's traffic on google",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check a website views",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "is it safe to buy from cashify",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "is it safe to buy from etsy canada",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to avoid sales tax when shopping online",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check if a website is legit or scam",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check a website for accessibility",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to test a website using selenium",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "what to do if you were scammed online",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "does canva have a countdown timer",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 3
+    },
+    {
+      "query": "how to check if a website is compromised",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to tell if a website is safe to buy from",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to see if an online store is legit",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to know if a website is built on shopify",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to know if a website is an academic journal",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to know if a website is tracking your location",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website is hosted by godaddy",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website it down",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website is working properly",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to spot a fake coach purse",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to spot a fake diamond",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to spot a fake xanax",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check a website for errors",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check a website from yesterday",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "is it safe to buy from shein",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "is it safe to buy from desertcart",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "is it safe to buy from private seller on chrono24",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to stop online purchase on standard bank app in south africa",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website is scamming you",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check when a website is created",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website is fake",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website is good",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to spot a fake apple watch ultra 3",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to spot a fake omega watch",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to spot a fake rolex daytona",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website using javascript",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check other website keywords",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check a website last updated",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to qa test a website",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "is it safe to buy from aliexpress in the us",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "what to do if i just got scammed",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "what to do if you're scammed",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "what happens if you buy something from a scam website",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website is down",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to tell if a website is legitimate or not",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website is peer reviewed",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a online store is real",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a site is valid",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to spot a fake birkin",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to spot a fake facebook profile",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to spot a fake jersey",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to spot a fake scotty cameron putter",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to spot a fake ysl libre perfume",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to verify a website is genuine",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check a malicious website",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check a website tls version",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check a website visits",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "is it safe to buy from carmax",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "is it safe to buy from ebay canada",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to tell if a website is a virus",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website is legit to buy from",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to test a website using ai",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "what to do if you get scammed with apple pay",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 4
+    },
+    {
+      "query": "how to check if a website is crawlable",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to tell if a website is secure in google chrome",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to tell if an online retailer is legitimate",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to know if a website is built on react",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to know if a website is using next js",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to know if the website is legit",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check if a website it safe",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check if a website is wordpress or not",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to spot a fake cashier's check",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to spot a fake doctors note",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to spot a fake xbox 360 controller",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check website expiry date",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check website year",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "is it safe to buy from debenhams online",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "is it safe to buy from pinduoduo",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to block online purchases",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to know if a website is using your camera",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to know if a website is down",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to know if a website is reliable for research",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check if a website is gdpr compliant",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to spot a fake ace ultra premium",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to spot a fake onitsuka tiger",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to spot a fake radley bag",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how can you verify a website",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check website seo keywords",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check a website legit",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check website content quality",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "is it safe to buy from aliexpress in canada",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "can i get money back from scammer",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to avoid customs charges in south africa online shopping",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check if a website is down or not",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to tell if a website is legit reddit",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check if a website is phishing",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check if a online business is legit",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to spot a fake balenciaga city bag",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to spot a fake football shirt",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to spot a fake jordan rookie",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to spot a fake s26 ultra",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to spot a fake ysl purse",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to verify a website on google",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to verify my website on google",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check a website theme",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check a website version",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "is it safe to buy from cupshe",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to tell if a website is ai coded",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check if a website is legit and safe",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to check a website for scams",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to test a website using xampp",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "what to do if you get scammed from a website",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 5
+    },
+    {
+      "query": "how to tell when a website is created",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to tell if a website is squarespace",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to tell if an online business is legitimate",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to know if a website is banned in your country",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to know if a website uses java",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to know if the website is safe",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check if a website has ssl certificate",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check if a website it real",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check if a website is whitelisted",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to spot a fake cartier watch",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to spot a fake ds game",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to spot a fake xbox controller",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check website earning free",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check websites you visited",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "is it safe to buy from design info",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "is it safe to buy from poshmark canada",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to know if a website is safe to buy from",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check if a website is genuine online",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to spot a fake adidas samba",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to spot a fake one piece card",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to spot a fake ralph lauren shirt",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to test a website loading speed",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "is it safe to buy from apple store online philippines",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check if a website is dropshipping",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to tell if a website is legal",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check if a website is protected by cloudflare",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to know if you have an online shopping addiction",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to spot a fake boomstick",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to spot a fake facebook dating profile",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to spot a fake job posting",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to spot a fake snapchat account",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to spot a fake yeezy slide",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to verify my website",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check a website technology",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "is it safe to buy from croma online",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to tell if a website is accessible",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check if a website is legit reddit",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to test a website for vulnerabilities",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to check a website uptime",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 6
+    },
+    {
+      "query": "how to know if a website is credible source",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to tell if a website is safe to order from",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check if an online store is safe",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to know if a website is blocked by isp",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to know if a job website is legit",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to know if the website is fake",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check if a website has virus",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to tell if a website is secure in safari",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check if a website is written by ai",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to spot a fake coach",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to spot a fake drivers license",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to spot a fake xerjoff erba pura",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check website earning online",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check websites you've visited",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "is it safe to buy from doorzo",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "is it safe to buy from plug tech",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to buy online safely",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to know if a website is stealing your information",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to know if a website is legit to buy from",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check if a website is ada compliant",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check if a website is good or not",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to spot a fake account on instagram",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to spot a fake omega speedmaster",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to spot a fake ralph lauren polo shirt",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check verified website",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check a website loading time",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "is it safe to buy from autotrader",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "is it safe to buy from eldorado",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check if a website is dangerous",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to tell if a website is legit on safari",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check if a website is pwa",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to spot a fake bauer pulse",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to spot a fake fendi bag",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to spot a fake jjk fan",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to spot a fake seiko watch",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to spot a fake yonex racket",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to verify a website online",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to verify my website in google search console",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check a trusted website",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "is it safe to buy from china on ebay",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to tell if a website is a credible source",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to check if a website is live",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to test a website for security",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to test a website using curl",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 7
+    },
+    {
+      "query": "how to tell if a website is secure on iphone",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to check if an online business is legit",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to check if a website is blocked on my computer",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to know if a jellycat website is real",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to know if the website is secure",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to know if a website it legit",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to tell if a website is wordpress",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to spot a fake cartier love bracelet",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to spot a fake dating profile",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to spot a fake xerjoff naxos",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to check website edit history",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to check websites you visited on instagram",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "is it safe to buy from desertcart in india",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "is it safe to buy from popmart",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to know if a website is using your microphone",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to know if a website is real",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to know if a clothing website is legit",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to check that website is fake or real",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to know if a website is genuine",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to spot a fake apple watch ultra 2",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to spot a fake omega seamaster 300m",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to spot a fake rimowa",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to check a website location",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "is it safe to buy from a new ebay seller",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "is it safe to buy from eldorado gg",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to know if a website is down or not",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to tell if a website is legit on facebook",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to know if a website is primary or secondary",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to check if a website is verified and trustworthy",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how do you know if a website has an ssl certificate",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to spot a fake bape hoodie",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to spot a fake fender stratocaster",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to spot a fake jersey soccer",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to spot a fake snapchat girl",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to spot a fake ysl perfume",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to check a website is legit",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to verify my website on pinterest",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to verify the website authenticity",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to test a website for viruses",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "is it safe to buy from carousell",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to tell if a website is a wordpress site",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to check if a website is legal",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to check a website for legitimacy",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to test a website using playwright",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "what happens if i got scammed",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 8
+    },
+    {
+      "query": "how to tell if a website is sketchy",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check if an online business is real",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check if a website is blocked on my wifi",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to know if a jewelry website is legit",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to know if the website is down",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to search for a website in google",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check if a website was down",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to spot a fake cop",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to spot a fake dewalt battery",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to spot a fake x300",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check website engagement",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check websites you've been on",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "is it safe to buy from mercari",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "is it safe to buy from denby",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "is it safe to buy from playstation store",
+      "marketCount": 1,
+      "markets": [
+        "us"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to know if a website is shopify",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check if a website is blocked in china",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check where a website is from",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to know if a website is government",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to spot a fake airpods pro 2",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to spot a fake omega",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to spot a fake rolex day date",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to verify the authenticity of a website",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check a website loading speed",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "is it safe to buy from alibaba in the uk",
+      "marketCount": 1,
+      "markets": [
+        "gb"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to know if a website is dynamic or static",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to tell if a website link is safe",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to tell when a website is published",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to spot a fake benchmade bugout",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to spot a fake fuggler",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to spot a fake jordan",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to spot a fake snapchat girl reddit",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to spot a fake yeezy",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check a website is safe",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to verify the website",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check a website's php version",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "is it safe to buy from croma",
+      "marketCount": 1,
+      "markets": [
+        "ca"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to tell if a website is an ip grabber",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check if a website is legit uk",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check a website font",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 9
+    },
+    {
+      "query": "how to check if a website uses cloudflare",
+      "marketCount": 1,
+      "markets": [
+        "au"
+      ],
+      "bestRank": 9
+    }
+  ],
+  "generatedAt": "2026-08-11T11:28:34.033Z",
+  "elapsedSec": 159
+}

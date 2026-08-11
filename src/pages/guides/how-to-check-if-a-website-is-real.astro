@@ -1,0 +1,194 @@
+---
+// Flagship informational page. Targets "how to check if a website is real",
+// the highest-demand shopper query found by `npm run demand -- info` (present
+// in all four high-CPM markets, rank 1).
+//
+// Why this page and not another listicle: the standard advice ("look for the
+// padlock", "check for a returns policy") is repeated everywhere and is mostly
+// WRONG in the sense that matters — it does not discriminate. We can show that
+// with measurements instead of asserting it, because we ran these checks on
+// the whole corpus. Every figure below comes from data/stats.json at build
+// time; nothing is hardcoded.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import stats from '../../../data/stats.json';
+
+const n = stats.counts.indexable;
+const fmt = (x: number) => x.toLocaleString('en-US');
+const checkedOn = String(stats.generatedAt).slice(0, 10);
+
+const missing = Object.fromEntries(
+  stats.missingSignals.map((s: any) => [s.signal, s])
+);
+const ssl = missing['Valid SSL'];
+const address = missing['Physical address'];
+const refund = missing['Returns/refund policy'];
+const shipping = missing['Shipping policy'];
+const privacy = missing['Privacy policy'];
+const contactPage = missing['Contact page'];
+const social = missing['Any social media'];
+
+const age = stats.domainAge;
+const held = stats.policyPages.countHeldDistribution as Record<string, number>;
+const heldNone = held['0'] ?? 0;
+
+// Platform mix is stated up front — it is what makes the rest defensible.
+const platforms = Object.entries(stats.platform)
+  .map(([name, v]: [string, any]) => ({ name, ...v }))
+  .sort((a, b) => b.n - a.n);
+const topPlatform = platforms[0];
+
+const title = 'How to Check if a Website Is Real Before You Buy';
+const description =
+  `We ran automated checks on ${fmt(n)} online stores. Most of the advice about spotting fake ` +
+  `shops does not survive contact with the data — here is what actually separates one store from another.`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'HowTo',
+  name: title,
+  description,
+  step: [
+    { '@type': 'HowToStep', name: 'Check what the page code does, not what it says', text: 'Urgency and social-proof widgets are often generated in your browser. Open developer tools and look for Math.random() near the counter.' },
+    { '@type': 'HowToStep', name: 'Look for an independent record of the site', text: 'Check whether the Internet Archive has captures of the domain going back years, rather than trusting the site\'s own claims about itself.' },
+    { '@type': 'HowToStep', name: 'Check for a real, reachable address and mail setup', text: 'Look for a postal address and working contact route. Verify the domain has mail records so it can receive email at all.' },
+    { '@type': 'HowToStep', name: 'Pay with a method that has recourse', text: 'Use a credit card or a payment method with buyer protection so a dispute is possible if the goods never arrive.' },
+  ],
+};
+---
+<BaseLayout title={`${title} — CheckIfLegit`} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <p class="eyebrow"><a href="/guides/">← Guides</a></p>
+  <h1>{title}</h1>
+
+  <p class="lede">
+    We run automated trust checks on online stores and currently hold results for
+    <strong>{fmt(n)}</strong> of them (last recomputed {checkedOn}). That gives an unusual
+    vantage point on this question: instead of repeating the standard checklist, we can
+    measure how well each item on it actually separates one store from another.
+  </p>
+  <p>
+    The short version is that most of the popular advice does not discriminate. Below is
+    what the data says, then a checklist of the things that do.
+  </p>
+
+  <h2>Three checks people rely on that barely work</h2>
+
+  <h3>1. “Look for the padlock”</h3>
+  <p>
+    Of the {fmt(ssl.measured)} stores where we could complete a TLS handshake,
+    <strong>{(100 - ssl.pctMissing).toFixed(1)}%</strong> presented a valid certificate.
+    Certificates are free and automatic on every major platform, so the padlock tells you
+    the connection is encrypted — nothing more. It says nothing about who is on the other
+    end. A fraudulent store has one too.
+  </p>
+
+  <h3>2. “Check that it has a returns and shipping policy”</h3>
+  <p>
+    We could not find a returns policy on <strong>{refund.pctMissing}%</strong> of stores,
+    or a shipping policy on <strong>{shipping.pctMissing}%</strong>. Missing policy pages
+    are the norm, not the exception — {fmt(heldNone)} stores
+    ({((heldNone / n) * 100).toFixed(1)}%) published none of the four we look for.
+    Treating that as a red flag would flag a large share of ordinary small shops.
+  </p>
+  <p class="muted small">
+    A caveat we would rather state than hide: this measures what an automated checker can
+    find. Some of these pages exist behind JavaScript, in checkout, or under names we do
+    not recognise. Read these as a floor on what is published, not a count of what exists.
+  </p>
+
+  <h3>3. “See how old the domain is”</h3>
+  <p>
+    Domain age is the check most often cited, and it is weaker than its reputation. The
+    median store we measured is <strong>{age.medianAgeYears} years</strong> old and only
+    <strong>{age.under1yr.pctOfMeasured}%</strong> are under a year — but the correlation
+    between age and our overall trust score is just
+    <strong>r = {stats.correlationAgeScorePearson.r}</strong>, which is very weak. Age is
+    also frequently unavailable: <strong>{age.pctUnknown}%</strong> of domains
+    ({fmt(age.unknown)} of {fmt(n)}) publish no creation date, because many country
+    registries do not release one.
+  </p>
+
+  <h2>What actually discriminates</h2>
+
+  <h3>Check what the page code does, not what it claims</h3>
+  <p>
+    This is the check almost nobody performs and the hardest one to fake. Writing “trusted
+    by 50,000 customers” costs nothing. But a “Sarah from Leeds just bought this” notice,
+    a stock counter, or a countdown has to be <em>implemented</em> — and how it was
+    implemented is visible in the code the site sends your browser.
+  </p>
+  <p>
+    Open developer tools, find the file behind the widget, and look at where its numbers
+    come from. A genuine counter fetches from a server. A fabricated one looks like
+    <code>Math.floor(Math.random() * 40) + 5</code>, or a hardcoded list of first names, or
+    a countdown whose deadline is computed as <code>Date.now() + 3600000</code> — meaning
+    it restarts for every visitor and the “offer ends” claim is never true for anyone.
+  </p>
+  <p>
+    Worth knowing what this does <em>not</em> prove: plenty of honest shops run a real
+    countdown to a real fixed date, and reading the clock is how any timer renders time
+    remaining. The signal is the deadline being derived from <em>your</em> clock, not the
+    timer existing.
+  </p>
+
+  <h3>Look for a record of the site that the site did not write</h3>
+  <p>
+    Everything on a storefront is authored by its owner. The useful question is whether
+    anything <em>independent</em> has a record of it. The Internet Archive is the easiest
+    check: paste the domain into web.archive.org and see how far back captures go and how
+    continuous they are. A domain registered years ago but only captured twice is a
+    different proposition from one captured every month since 2014.
+  </p>
+  <p>
+    When nothing external has any record — no archive history, no third-party reviews, no
+    social accounts — that combination is itself the finding. It does not prove wrongdoing,
+    but it means there is nothing to check the store's claims against.
+  </p>
+
+  <h3>Check for a real address and a working mail setup</h3>
+  <p>
+    A postal address is the single most-missing signal in our data:
+    <strong>{address.pctMissing}%</strong> of stores publish none. It is missing often
+    enough that its absence is not damning on its own — but combined with no contact page
+    ({contactPage.pctMissing}% of stores) and no social presence
+    ({social.pctMissing}%), you are looking at a business with no reachable human.
+  </p>
+
+  <h3>Pay with something that has recourse</h3>
+  <p>
+    This is the one that actually protects you, and it does not require judging the store
+    at all. A credit card or a payment method with buyer protection gives you a dispute
+    route. Bank transfer, crypto and gift cards do not.
+  </p>
+
+  <h2>A checklist worth using</h2>
+  <ol>
+    <li>Open the code behind any urgency or “someone just bought” widget and see whether its numbers come from a server or from <code>Math.random()</code>.</li>
+    <li>Check the Internet Archive for how far back, and how continuously, the site has existed.</li>
+    <li>Look for something about the business written by someone other than the business.</li>
+    <li>Find a postal address and a contact route, and test that the contact route works.</li>
+    <li>Search the store's name with “refund” or “didn't arrive” rather than “reviews”, which surfaces its own marketing.</li>
+    <li>Pay by a method with buyer protection.</li>
+  </ol>
+
+  <h2>How we measured this</h2>
+  <p>
+    These figures come from automated checks on {fmt(n)} independent online stores, last
+    recomputed on {checkedOn}. Percentages are stated against the number of stores where
+    the check completed, which is noted wherever it differs from {fmt(n)}.
+  </p>
+  <p>
+    <strong>This is not a random sample of all e-commerce.</strong> It is
+    {topPlatform.pct}% {topPlatform.name}, an artefact of how the domains were discovered
+    rather than a fact about online stores generally, so platform-linked figures should not
+    be read as industry averages. We also exclude any signal we could not fetch rather than
+    scoring it as a failure — a check we could not complete is reported as unknown, never
+    guessed.
+  </p>
+  <p class="muted small">
+    Nothing here is a judgement about any particular business, and we do not label
+    businesses as scams. See <a href="/about">our methodology</a>, or read the underlying
+    data studies in <a href="/research/">Research</a>.
+  </p>
+</BaseLayout>

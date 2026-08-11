@@ -1,0 +1,66 @@
+---
+// Guides hub. Separate from /research/ on purpose: research pages report what
+// the corpus shows and are written to earn citations, while guides answer the
+// questions shoppers actually type. Both draw on the same measurements.
+//
+// Entity demand ("is <store> legit") tops out at roughly 200-300 store pages,
+// so this section is the traffic engine rather than a supplement to it. Pages
+// here are added only for queries measured by `npm run demand -- info`.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import stats from '../../../data/stats.json';
+
+const n = stats.counts.indexable;
+const fmt = (x: number) => x.toLocaleString('en-US');
+
+const GUIDES = [
+  {
+    href: '/guides/how-to-check-if-a-website-is-real',
+    title: 'How to check if a website is real before you buy',
+    blurb:
+      'The padlock, the returns policy and the domain age barely discriminate — we measured ' +
+      'all three across the corpus. Here is what separates one store from another instead.',
+  },
+  {
+    href: '/guides/what-to-do-if-you-bought-from-a-scam-website',
+    title: 'What to do if you bought from a scam website',
+    blurb:
+      'Dispute rights run on deadlines, some counted from the order date. What your payment ' +
+      'method actually allows, and where to report it.',
+  },
+];
+
+const title = 'Guides — CheckIfLegit';
+const description =
+  `Practical guides to checking an online store before you buy, and what to do afterwards ` +
+  `if it goes wrong — grounded in automated checks on ${fmt(n)} stores.`;
+---
+<BaseLayout title={title} description={description}>
+  <h1>Guides</h1>
+  <p>
+    Practical answers to the questions people actually ask before buying from a store they
+    do not recognise. Where a guide makes a claim about what stores typically do, it is
+    measured against the {fmt(n)} stores we hold checks for rather than asserted.
+  </p>
+
+  <ul class="studies">
+    {GUIDES.map((g) => (
+      <li>
+        <h2><a href={g.href}>{g.title}</a></h2>
+        <p>{g.blurb}</p>
+      </li>
+    ))}
+  </ul>
+
+  <h2>Related</h2>
+  <p>
+    The underlying data studies live in <a href="/research/">Research</a>. Our checking
+    method, and what we deliberately do not claim, is on the
+    <a href="/about">about page</a>.
+  </p>
+</BaseLayout>
+
+<style>
+  .studies { list-style: none; padding: 0; }
+  .studies li { margin: 22px 0; }
+  .studies h2 { margin: 0 0 4px; font-size: 1.15rem; }
+</style>

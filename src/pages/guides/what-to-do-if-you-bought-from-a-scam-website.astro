@@ -1,0 +1,149 @@
+---
+// Second informational page. Targets "what to do if you bought from a scam
+// website" and the "can i get money back if i got scammed" cluster, both found
+// by `npm run demand -- info`.
+//
+// This page is deliberately NOT data-driven — the corpus measures storefronts,
+// not outcomes, and dressing recovery advice in our statistics would be using
+// numbers that do not bear on the question. What it must be is accurate and
+// time-aware, because the single thing that decides whether someone gets their
+// money back is how fast they act.
+//
+// Money-back rules differ by country, so this covers the four markets the site
+// targets and says plainly where the reader must check their own provider.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const title = 'What to Do if You Bought From a Scam Website';
+const description =
+  'Practical steps to try to get your money back after ordering from a fraudulent store — ' +
+  'what your payment method allows, the deadlines that apply, and where to report it.';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'HowTo',
+  name: title,
+  description,
+  step: [
+    { '@type': 'HowToStep', name: 'Stop further payments', text: 'Cancel any subscription or saved payment authorisation with the merchant immediately.' },
+    { '@type': 'HowToStep', name: 'Collect your evidence', text: 'Save the order confirmation, receipts, listing pages, and all correspondence before the site changes or disappears.' },
+    { '@type': 'HowToStep', name: 'Contact your payment provider', text: 'Open a dispute or chargeback with the card issuer or payment platform. Time limits apply and are often counted from the expected delivery date.' },
+    { '@type': 'HowToStep', name: 'Report it', text: 'File with your national fraud reporting body so the merchant is on record.' },
+  ],
+};
+---
+<BaseLayout title={`${title} — CheckIfLegit`} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <p class="eyebrow"><a href="/guides/">← Guides</a></p>
+  <h1>{title}</h1>
+
+  <p class="lede">
+    The thing that most decides whether you get your money back is how quickly you start.
+    Dispute rights run on deadlines, and several of them are counted from the order date
+    rather than from the day you realised something was wrong.
+  </p>
+
+  <h2>1. Stop anything still running</h2>
+  <p>
+    Cancel any subscription, saved card authorisation or recurring payment with the
+    merchant before you do anything else. If you handed over card details on a site you now
+    distrust, treat the card as compromised and ask your bank to reissue it — a fraudulent
+    merchant with working card details is a continuing problem, not a closed one.
+  </p>
+
+  <h2>2. Save the evidence now, not later</h2>
+  <p>
+    Fraudulent storefronts disappear, and so does the evidence. Before you contact anyone,
+    capture:
+  </p>
+  <ul>
+    <li>The order confirmation and any receipt or payment reference</li>
+    <li>Screenshots of the product listing, the price, and any delivery promise</li>
+    <li>Every email or chat message, including the ones that went unanswered</li>
+    <li>The URL, and a copy of any tracking number you were given</li>
+  </ul>
+  <p>
+    A dispute is much stronger when you can show what you were promised and when. If the
+    site is already gone, check whether the Internet Archive captured the listing.
+  </p>
+
+  <h2>3. Go to your payment provider — this is where the money is</h2>
+  <p>
+    Contacting the merchant again is usually the least productive step. Your leverage is
+    with whoever moved the money.
+  </p>
+
+  <h3>Credit card</h3>
+  <p>
+    The strongest position. Card schemes let you raise a chargeback for goods that never
+    arrived or were materially not as described. In the <strong>US</strong>, the Fair
+    Credit Billing Act generally gives you 60 days from the statement showing the charge,
+    though card networks often allow longer for non-delivery. In the <strong>UK</strong>,
+    chargeback is typically available for around 120 days, and Section 75 of the Consumer
+    Credit Act can make the card provider jointly liable for credit-card purchases roughly
+    between £100 and £30,000 — which is a stronger and separate right worth naming
+    explicitly when you call. Deadlines are often counted from the <em>expected delivery
+    date</em>, so say so if delivery was promised for a later date.
+  </p>
+
+  <h3>Debit card</h3>
+  <p>
+    Weaker than credit but not nothing — Visa and Mastercard chargeback rules generally
+    still apply. What you usually lose is the statutory joint-liability protection that
+    credit purchases carry. Ask your bank specifically for a chargeback, not just to
+    “report fraud”, which can route you into a slower process.
+  </p>
+
+  <h3>PayPal and similar platforms</h3>
+  <p>
+    PayPal Buyer Protection generally allows a dispute within 180 days for items that did
+    not arrive or were significantly not as described. Open it inside the platform rather
+    than by email so it is formally logged.
+  </p>
+
+  <h3>Bank transfer, crypto, or gift cards</h3>
+  <p>
+    Be prepared for a poor outcome: these are chosen by fraudulent merchants precisely
+    because they are hard to reverse. Contact your bank immediately anyway — UK banks
+    operate a reimbursement scheme for authorised push payment fraud, and some banks
+    elsewhere will attempt a recall if you act within hours. Report it regardless, because
+    the record matters even when the money does not come back.
+  </p>
+
+  <h2>4. Report it</h2>
+  <ul>
+    <li><strong>US</strong> — the FTC at reportfraud.ftc.gov, and the FBI's IC3 at ic3.gov</li>
+    <li><strong>UK</strong> — Action Fraud, or Police Scotland if you are in Scotland</li>
+    <li><strong>Canada</strong> — the Canadian Anti-Fraud Centre</li>
+    <li><strong>Australia</strong> — Scamwatch, run by the ACCC</li>
+  </ul>
+  <p>
+    Reporting rarely recovers your own money directly. It matters because it is how
+    repeated merchants get identified, and because a filed report sometimes strengthens a
+    bank dispute.
+  </p>
+
+  <h2>5. Expect the pressure tactics</h2>
+  <p>
+    Two things happen often enough to warn about. Some merchants offer a partial refund
+    — 30% or so — in exchange for closing the dispute or removing a review; accepting can
+    forfeit the fuller claim. And being scammed once puts you on lists sold to others, so
+    treat any unsolicited “recovery service” offering to retrieve your money for an upfront
+    fee as a second attempt on your money.
+  </p>
+
+  <h2>Before the next order</h2>
+  <p>
+    The check that would most often have caught it is looking at what the page's code does
+    rather than what it says — fabricated urgency and purchase notices are implemented in
+    the browser and visible to anyone who looks. We cover how in
+    <a href="/guides/how-to-check-if-a-website-is-real">how to check if a website is real</a>.
+  </p>
+
+  <p class="muted small">
+    This is general information, not legal or financial advice, and consumer protection
+    rules vary by country and change over time. Confirm the current deadlines and rights
+    with your own bank, card issuer or national consumer body — they are the ones who
+    decide your case.
+  </p>
+</BaseLayout>
