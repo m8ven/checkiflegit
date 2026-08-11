@@ -32,6 +32,10 @@ const flag = (n, d) => {
 const IN = flag('in', path.join(ROOT, 'data', 'demand-discover.json'));
 const OUT = flag('out', path.join(ROOT, 'data', 'demand-resolved.json'));
 const LIMIT = parseInt(flag('limit', '0'), 10);
+// Skip the first N ranked entities. The head is dominated by large brands that
+// are not stores (WWE, WGU), so sampling further down measures whether the tail
+// converts to store pages at a different rate.
+const OFFSET = parseInt(flag('offset', '0'), 10);
 const CONC = parseInt(flag('conc', '6'), 10);
 
 // Entities that are questions about the world, not businesses. The discover
@@ -163,6 +167,7 @@ const src = JSON.parse(await readFile(IN, 'utf8'));
 let rows = src.entities ?? [];
 // Highest-value first: present in the most markets, then most intent breadth.
 rows.sort((a, b) => (b.marketCount ?? 0) - (a.marketCount ?? 0) || (b.intentTotal ?? 0) - (a.intentTotal ?? 0));
+if (OFFSET > 0) rows = rows.slice(OFFSET);
 if (LIMIT > 0) rows = rows.slice(0, LIMIT);
 
 console.log(`Resolving ${rows.length} demand entities (concurrency ${CONC})…`);

@@ -45,6 +45,19 @@ const NAME_ARRAY = /\[\s*(?:["'][A-Z][a-zA-Z .'-]{1,18}["']\s*,\s*){4,}["'][A-Z]
 const RANDOM = /Math\.random\s*\(\s*\)/;
 const NOW = /Date\.now\s*\(\s*\)|new\s+Date\s*\(\s*\)\.getTime\s*\(\s*\)/;
 
+// Reading the clock is NOT the deceptive act — every honest countdown reads it
+// to compute time remaining. What makes a timer evergreen is deriving the
+// TARGET from the visitor's own clock: `Date.now() + 3600000` restarts for
+// every visitor, so the advertised deadline is never true for anyone.
+// Matching bare NOW produced a false positive on a store whose timer counted
+// to a hardcoded `new Date("Dec 7, 2018 23:59:59")` — a real, fixed (expired)
+// deadline that merely read the clock to render the difference.
+const NOW_PLUS_OFFSET = /(?:Date\.now\s*\(\s*\)|new\s+Date\s*\(\s*\)\.getTime\s*\(\s*\))\s*\+\s*[\d(]/;
+
+// A date built from a string literal is a fixed point in time, i.e. a genuine
+// deadline. Its presence near a timer is evidence AGAINST the evergreen claim.
+const FIXED_DEADLINE = /new\s+Date\s*\(\s*["'][^"']{6,}["']\s*\)|new\s+Date\s*\(\s*\d{4}\s*,/;
+
 // A value that arrives over the network is server-driven, so a nearby random
 // primitive is not what produces it. Seeing any of these between the primitive
 // and the claim means we cannot attribute the number to the RNG — so we don't.
@@ -91,23 +104,25 @@ const DETECTORS = [
     // visitor's own clock restarts for every visitor, so the "offer ends"
     // claim is never true for anyone.
     label: 'A countdown timer is seeded from the visitor\'s own clock, so it restarts on every visit rather than counting to a real deadline.',
-    primitives: ['now'],
+    primitives: ['nowPlus'],
     vocab: ['urgency'],
     also: /setInterval|setTimeout|requestAnimationFrame/,
+    not: FIXED_DEADLINE,
     maxDist: 220,
   },
   {
     signal: 'reset_on_reload_timer',
     severity: 'medium',
     label: 'An "offer ends" timer is stored per-visitor in the browser, so the deadline is different for every shopper.',
-    primitives: ['now'],
+    primitives: ['nowPlus'],
     vocab: ['urgency'],
     also: /localStorage|sessionStorage|document\.cookie/,
+    not: FIXED_DEADLINE,
     maxDist: 220,
   },
 ];
 
-const PRIMITIVES = { random: RANDOM, now: NOW, nameArray: NAME_ARRAY };
+const PRIMITIVES = { random: RANDOM, now: NOW, nowPlus: NOW_PLUS_OFFSET, nameArray: NAME_ARRAY };
 
 /** All match positions for a pattern in a source. */
 function positions(pattern, src) {
@@ -187,6 +202,8 @@ function scanSource(src, file, found) {
           const context = src.slice(Math.max(0, from - 200), to + 200);
           if (SERVER_DRIVEN.test(context)) continue;
           if (d.also && !d.also.test(context)) continue;
+          // Evidence that contradicts the finding (e.g. a real fixed deadline).
+          if (d.not && d.not.test(context)) continue;
 
           found.set(d.signal, {
             signal: d.signal,

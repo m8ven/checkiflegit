@@ -1,0 +1,3165 @@
+{
+  "generatedAt": "2026-08-11T08:35:47.930Z",
+  "source": "demand-discover.json",
+  "considered": 300,
+  "resolved": 120,
+  "domains": [
+    {
+      "entity": "y2k dream",
+      "ok": true,
+      "domain": "y2kdream.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is y2k dream legit"
+      ],
+      "tried": [
+        "y2kdream.com:ok"
+      ]
+    },
+    {
+      "entity": "zquiet",
+      "ok": true,
+      "domain": "zquiet.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is zquiet legit"
+      ],
+      "tried": [
+        "zquiet.com:ok"
+      ]
+    },
+    {
+      "entity": "vivid seats",
+      "ok": true,
+      "domain": "vividseats.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is vivid seats legit"
+      ],
+      "tried": [
+        "vividseats.com:ok"
+      ]
+    },
+    {
+      "entity": "attapoll",
+      "ok": true,
+      "domain": "attapoll.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is attapoll legit"
+      ],
+      "tried": [
+        "attapoll.com:ok"
+      ]
+    },
+    {
+      "entity": "bluestacks",
+      "ok": true,
+      "domain": "bluestacks.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is bluestacks safe"
+      ],
+      "tried": [
+        "bluestacks.com:ok"
+      ]
+    },
+    {
+      "entity": "cape town",
+      "ok": true,
+      "domain": "capetown.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is cape town safe"
+      ],
+      "tried": [
+        "capetown.com:ok"
+      ]
+    },
+    {
+      "entity": "df viewer",
+      "ok": true,
+      "domain": "dfviewer.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is df viewer legit"
+      ],
+      "tried": [
+        "dfviewer.com:ok"
+      ]
+    },
+    {
+      "entity": "dkms",
+      "ok": true,
+      "domain": "dkms.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is dkms legit"
+      ],
+      "tried": [
+        "dkms.com:ok"
+      ]
+    },
+    {
+      "entity": "fjorna",
+      "ok": true,
+      "domain": "fjorna.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is fjorna legit"
+      ],
+      "tried": [
+        "fjorna.com:ok"
+      ]
+    },
+    {
+      "entity": "gjirafa travel",
+      "ok": true,
+      "domain": "gjirafatravel.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is gjirafa travel reliable"
+      ],
+      "tried": [
+        "gjirafatravel.com:ok"
+      ]
+    },
+    {
+      "entity": "gonser.ch",
+      "ok": true,
+      "domain": "gonser.ch",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is gonser.ch legit"
+      ],
+      "tried": [
+        "gonser.ch:ok"
+      ]
+    },
+    {
+      "entity": "ifixit",
+      "ok": true,
+      "domain": "ifixit.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is ifixit legit"
+      ],
+      "tried": [
+        "ifixit.com:ok"
+      ]
+    },
+    {
+      "entity": "iqiyi",
+      "ok": true,
+      "domain": "iqiyi.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is iqiyi safe"
+      ],
+      "tried": [
+        "iqiyi.com:ok"
+      ]
+    },
+    {
+      "entity": "jcarpart",
+      "ok": true,
+      "domain": "jcarpart.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is jcarpart legit"
+      ],
+      "tried": [
+        "jcarpart.com:ok"
+      ]
+    },
+    {
+      "entity": "j2games",
+      "ok": true,
+      "domain": "j2games.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is j2games legit"
+      ],
+      "tried": [
+        "j2games.com:ok"
+      ]
+    },
+    {
+      "entity": "mm2 cheap",
+      "ok": true,
+      "domain": "mm2cheap.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is mm2 cheap legit"
+      ],
+      "tried": [
+        "mm2cheap.com:ok"
+      ]
+    },
+    {
+      "entity": "montenegro",
+      "ok": true,
+      "domain": "montenegro.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is montenegro safe"
+      ],
+      "tried": [
+        "montenegro.com:ok"
+      ]
+    },
+    {
+      "entity": "nzxt",
+      "ok": true,
+      "domain": "nzxt.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is nzxt legit"
+      ],
+      "tried": [
+        "nzxt.com:ok"
+      ]
+    },
+    {
+      "entity": "n7 london",
+      "ok": true,
+      "domain": "n7london.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is n7 london safe"
+      ],
+      "tried": [
+        "n7london.com:ok"
+      ]
+    },
+    {
+      "entity": "opera gx",
+      "ok": true,
+      "domain": "operagx.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is opera gx safe"
+      ],
+      "tried": [
+        "operagx.com:ok"
+      ]
+    },
+    {
+      "entity": "pdf.net",
+      "ok": true,
+      "domain": "pdf.net",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is pdf.net safe"
+      ],
+      "tried": [
+        "pdf.net:ok"
+      ]
+    },
+    {
+      "entity": "qfs",
+      "ok": true,
+      "domain": "qfs.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is qfs safe"
+      ],
+      "tried": [
+        "qfs.com:ok"
+      ]
+    },
+    {
+      "entity": "qronge",
+      "ok": true,
+      "domain": "qronge.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is qronge legit"
+      ],
+      "tried": [
+        "qronge.com:ok"
+      ]
+    },
+    {
+      "entity": "q4os",
+      "ok": true,
+      "domain": "q4os.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is q4os safe"
+      ],
+      "tried": [
+        "q4os.com:ok"
+      ]
+    },
+    {
+      "entity": "rbx earny",
+      "ok": true,
+      "domain": "rbxearny.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is rbx earny legit"
+      ],
+      "tried": [
+        "rbxearny.com:ok"
+      ]
+    },
+    {
+      "entity": "shein",
+      "ok": true,
+      "domain": "shein.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is shein legit"
+      ],
+      "tried": [
+        "shein.com:ok"
+      ]
+    },
+    {
+      "entity": "south africa",
+      "ok": true,
+      "domain": "southafrica.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is south africa safe"
+      ],
+      "tried": [
+        "southafrica.com:ok"
+      ]
+    },
+    {
+      "entity": "t7 patch",
+      "ok": true,
+      "domain": "t7patch.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is t7 patch safe"
+      ],
+      "tried": [
+        "t7patch.com:ok"
+      ]
+    },
+    {
+      "entity": "vca care club",
+      "ok": true,
+      "domain": "vcacareclub.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is vca care club worth it"
+      ],
+      "tried": [
+        "vcacareclub.com:ok"
+      ]
+    },
+    {
+      "entity": "vvs jewelry",
+      "ok": true,
+      "domain": "vvsjewelry.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is vvs jewelry legit"
+      ],
+      "tried": [
+        "vvsjewelry.com:ok"
+      ]
+    },
+    {
+      "entity": "wizz air",
+      "ok": true,
+      "domain": "wizzair.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is wizz air safe"
+      ],
+      "tried": [
+        "wizzair.com:ok"
+      ]
+    },
+    {
+      "entity": "wjd exclusives",
+      "ok": true,
+      "domain": "wjdexclusives.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is wjd exclusives legit"
+      ],
+      "tried": [
+        "wjdexclusives.com:ok"
+      ]
+    },
+    {
+      "entity": "wrinkles the clown",
+      "ok": true,
+      "domain": "wrinklestheclown.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is wrinkles the clown real"
+      ],
+      "tried": [
+        "wrinklestheclown.com:ok"
+      ]
+    },
+    {
+      "entity": "xnconvert",
+      "ok": true,
+      "domain": "xnconvert.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is xnconvert safe"
+      ],
+      "tried": [
+        "xnconvert.com:ok"
+      ]
+    },
+    {
+      "entity": "yandex",
+      "ok": true,
+      "domain": "yandex.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is yandex safe"
+      ],
+      "tried": [
+        "yandex.com:ok"
+      ]
+    },
+    {
+      "entity": "y2k phones",
+      "ok": true,
+      "domain": "y2kphones.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is y2k phones legit"
+      ],
+      "tried": [
+        "y2kphones.com:ok"
+      ]
+    },
+    {
+      "entity": "boozt",
+      "ok": true,
+      "domain": "boozt.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is boozt legit"
+      ],
+      "tried": [
+        "boozt.com:ok"
+      ]
+    },
+    {
+      "entity": "dkoldies",
+      "ok": true,
+      "domain": "dkoldies.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is dkoldies legit"
+      ],
+      "tried": [
+        "dkoldies.com:ok"
+      ]
+    },
+    {
+      "entity": "dressinn",
+      "ok": true,
+      "domain": "dressinn.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is dressinn legit"
+      ],
+      "tried": [
+        "dressinn.com:ok"
+      ]
+    },
+    {
+      "entity": "eharmony",
+      "ok": true,
+      "domain": "eharmony.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is eharmony worth it"
+      ],
+      "tried": [
+        "eharmony.com:ok"
+      ]
+    },
+    {
+      "entity": "ethiopian airlines",
+      "ok": true,
+      "domain": "ethiopian-airlines.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is ethiopian airlines safe"
+      ],
+      "tried": [
+        "ethiopianairlines.com:http_404",
+        "ethiopian-airlines.com:ok"
+      ]
+    },
+    {
+      "entity": "exfigure",
+      "ok": true,
+      "domain": "exfigure.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is exfigure legit"
+      ],
+      "tried": [
+        "exfigure.com:ok"
+      ]
+    },
+    {
+      "entity": "fxsound",
+      "ok": true,
+      "domain": "fxsound.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is fxsound safe"
+      ],
+      "tried": [
+        "fxsound.com:ok"
+      ]
+    },
+    {
+      "entity": "gornergrat",
+      "ok": true,
+      "domain": "gornergrat.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is gornergrat worth it"
+      ],
+      "tried": [
+        "gornergrat.com:ok"
+      ]
+    },
+    {
+      "entity": "guyana",
+      "ok": true,
+      "domain": "guyana.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is guyana safe"
+      ],
+      "tried": [
+        "guyana.com:ok"
+      ]
+    },
+    {
+      "entity": "instant gaming",
+      "ok": true,
+      "domain": "instant-gaming.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is instant gaming legit"
+      ],
+      "tried": [
+        "instantgaming.com:name_not_confirmed",
+        "instant-gaming.com:ok"
+      ]
+    },
+    {
+      "entity": "jrp virtual",
+      "ok": true,
+      "domain": "jrpvirtual.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is jrp virtual legit"
+      ],
+      "tried": [
+        "jrpvirtual.com:ok"
+      ]
+    },
+    {
+      "entity": "l7 pictures",
+      "ok": true,
+      "domain": "l7pictures.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is l7 pictures legit"
+      ],
+      "tried": [
+        "l7pictures.com:ok"
+      ]
+    },
+    {
+      "entity": "mdg",
+      "ok": true,
+      "domain": "mdg.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is mdg legit"
+      ],
+      "tried": [
+        "mdg.com:ok"
+      ]
+    },
+    {
+      "entity": "mfi medical",
+      "ok": true,
+      "domain": "mfimedical.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is mfi medical legit"
+      ],
+      "tried": [
+        "mfimedical.com:ok"
+      ]
+    },
+    {
+      "entity": "nrg",
+      "ok": true,
+      "domain": "nrg.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is nrg legit"
+      ],
+      "tried": [
+        "nrg.com:ok"
+      ]
+    },
+    {
+      "entity": "nw giveaways",
+      "ok": true,
+      "domain": "nwgiveaways.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is nw giveaways legit"
+      ],
+      "tried": [
+        "nwgiveaways.com:ok"
+      ]
+    },
+    {
+      "entity": "n47",
+      "ok": true,
+      "domain": "n47.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is n47 reliable"
+      ],
+      "tried": [
+        "n47.com:ok"
+      ]
+    },
+    {
+      "entity": "n63",
+      "ok": true,
+      "domain": "n63.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is n63 reliable"
+      ],
+      "tried": [
+        "n63.com:ok"
+      ]
+    },
+    {
+      "entity": "ogl move",
+      "ok": true,
+      "domain": "oglmove.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is ogl move legit"
+      ],
+      "tried": [
+        "oglmove.com:ok"
+      ]
+    },
+    {
+      "entity": "pdffiller",
+      "ok": true,
+      "domain": "pdffiller.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is pdffiller safe"
+      ],
+      "tried": [
+        "pdffiller.com:ok"
+      ]
+    },
+    {
+      "entity": "psylos1",
+      "ok": true,
+      "domain": "psylos1.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is psylos1 legit"
+      ],
+      "tried": [
+        "psylos1.com:ok"
+      ]
+    },
+    {
+      "entity": "qc kinetix",
+      "ok": true,
+      "domain": "qckinetix.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is qc kinetix legit"
+      ],
+      "tried": [
+        "qckinetix.com:ok"
+      ]
+    },
+    {
+      "entity": "qomfort",
+      "ok": true,
+      "domain": "qomfort.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is qomfort legit"
+      ],
+      "tried": [
+        "qomfort.com:ok"
+      ]
+    },
+    {
+      "entity": "uae",
+      "ok": true,
+      "domain": "uae.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is uae safe"
+      ],
+      "tried": [
+        "uae.com:ok"
+      ]
+    },
+    {
+      "entity": "ubuy",
+      "ok": true,
+      "domain": "ubuy.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is ubuy legit"
+      ],
+      "tried": [
+        "ubuy.com:ok"
+      ]
+    },
+    {
+      "entity": "uetliberg",
+      "ok": true,
+      "domain": "uetliberg.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is uetliberg worth it"
+      ],
+      "tried": [
+        "uetliberg.com:ok"
+      ]
+    },
+    {
+      "entity": "yggdrasil",
+      "ok": true,
+      "domain": "yggdrasil.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is yggdrasil real"
+      ],
+      "tried": [
+        "yggdrasil.com:ok"
+      ]
+    },
+    {
+      "entity": "zbanx",
+      "ok": true,
+      "domain": "zbanx.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is zbanx legit"
+      ],
+      "tried": [
+        "zbanx.com:ok"
+      ]
+    },
+    {
+      "entity": "aquoxis",
+      "ok": true,
+      "domain": "aquoxis.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is aquoxis legit"
+      ],
+      "tried": [
+        "aquoxis.com:ok"
+      ]
+    },
+    {
+      "entity": "cph4",
+      "ok": true,
+      "domain": "cph4.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is cph4 real"
+      ],
+      "tried": [
+        "cph4.com:ok"
+      ]
+    },
+    {
+      "entity": "c8 nail supply",
+      "ok": true,
+      "domain": "c8nailsupply.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is c8 nail supply legit"
+      ],
+      "tried": [
+        "c8nailsupply.com:ok"
+      ]
+    },
+    {
+      "entity": "d3rlord3",
+      "ok": true,
+      "domain": "d3rlord3.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is d3rlord3 real"
+      ],
+      "tried": [
+        "d3rlord3.com:ok"
+      ]
+    },
+    {
+      "entity": "ebay",
+      "ok": true,
+      "domain": "ebay.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is ebay safe"
+      ],
+      "tried": [
+        "ebay.com:ok"
+      ]
+    },
+    {
+      "entity": "equinox",
+      "ok": true,
+      "domain": "equinox.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is equinox worth it"
+      ],
+      "tried": [
+        "equinox.com:ok"
+      ]
+    },
+    {
+      "entity": "e4mc",
+      "ok": true,
+      "domain": "e4mc.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is e4mc safe"
+      ],
+      "tried": [
+        "e4mc.com:ok"
+      ]
+    },
+    {
+      "entity": "fjackets",
+      "ok": true,
+      "domain": "fjackets.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is fjackets legit"
+      ],
+      "tried": [
+        "fjackets.com:ok"
+      ]
+    },
+    {
+      "entity": "fye",
+      "ok": true,
+      "domain": "fye.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is fye legit"
+      ],
+      "tried": [
+        "fye.com:ok"
+      ]
+    },
+    {
+      "entity": "gdansk",
+      "ok": true,
+      "domain": "gdansk.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is gdansk safe"
+      ],
+      "tried": [
+        "gdansk.com:ok"
+      ]
+    },
+    {
+      "entity": "gg poker",
+      "ok": true,
+      "domain": "ggpoker.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is gg poker legit"
+      ],
+      "tried": [
+        "ggpoker.com:ok"
+      ]
+    },
+    {
+      "entity": "gotogate",
+      "ok": true,
+      "domain": "gotogate.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is gotogate legit"
+      ],
+      "tried": [
+        "gotogate.com:ok"
+      ]
+    },
+    {
+      "entity": "g4free",
+      "ok": true,
+      "domain": "g4free.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is g4free legit"
+      ],
+      "tried": [
+        "g4free.com:ok"
+      ]
+    },
+    {
+      "entity": "jordan",
+      "ok": true,
+      "domain": "jordan.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is jordan safe"
+      ],
+      "tried": [
+        "jordan.com:ok"
+      ]
+    },
+    {
+      "entity": "j4l",
+      "ok": true,
+      "domain": "j4l.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is j4l legit"
+      ],
+      "tried": [
+        "j4l.com:ok"
+      ]
+    },
+    {
+      "entity": "kx tickets",
+      "ok": true,
+      "domain": "kxtickets.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is kx tickets legit"
+      ],
+      "tried": [
+        "kxtickets.com:ok"
+      ]
+    },
+    {
+      "entity": "k9 ear clear",
+      "ok": true,
+      "domain": "k9earclear.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is k9 ear clear legit"
+      ],
+      "tried": [
+        "k9earclear.com:ok"
+      ]
+    },
+    {
+      "entity": "lj ross",
+      "ok": true,
+      "domain": "ljross.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is lj ross legit"
+      ],
+      "tried": [
+        "ljross.com:ok"
+      ]
+    },
+    {
+      "entity": "m5 pro",
+      "ok": true,
+      "domain": "m5pro.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is m5 pro worth it"
+      ],
+      "tried": [
+        "m5pro.com:ok"
+      ]
+    },
+    {
+      "entity": "nalda",
+      "ok": true,
+      "domain": "nalda.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is nalda legit"
+      ],
+      "tried": [
+        "nalda.com:ok"
+      ]
+    },
+    {
+      "entity": "oerlikon",
+      "ok": true,
+      "domain": "oerlikon.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is oerlikon safe"
+      ],
+      "tried": [
+        "oerlikon.com:ok"
+      ]
+    },
+    {
+      "entity": "oopbuy",
+      "ok": true,
+      "domain": "oopbuy.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is oopbuy legit"
+      ],
+      "tried": [
+        "oopbuy.com:ok"
+      ]
+    },
+    {
+      "entity": "peru",
+      "ok": true,
+      "domain": "peru.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is peru safe"
+      ],
+      "tried": [
+        "peru.com:ok"
+      ]
+    },
+    {
+      "entity": "qyoneco",
+      "ok": true,
+      "domain": "qyoneco.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is qyoneco a legit website"
+      ],
+      "tried": [
+        "qyoneco.com:ok"
+      ]
+    },
+    {
+      "entity": "rnk",
+      "ok": true,
+      "domain": "rnk.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is rnk legit"
+      ],
+      "tried": [
+        "rnk.com:ok"
+      ]
+    },
+    {
+      "entity": "skydiving",
+      "ok": true,
+      "domain": "skydiving.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is skydiving safe"
+      ],
+      "tried": [
+        "skydiving.com:ok"
+      ]
+    },
+    {
+      "entity": "umbrella insurance",
+      "ok": true,
+      "domain": "umbrella-insurance.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is umbrella insurance worth it"
+      ],
+      "tried": [
+        "umbrellainsurance.com:name_not_confirmed",
+        "umbrella-insurance.com:ok"
+      ]
+    },
+    {
+      "entity": "wlp-1",
+      "ok": true,
+      "domain": "wlp-1.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is wlp-1 legit"
+      ],
+      "tried": [
+        "wlp1.com:name_not_confirmed",
+        "wlp-1.com:ok"
+      ]
+    },
+    {
+      "entity": "xcaret",
+      "ok": true,
+      "domain": "xcaret.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is xcaret worth it"
+      ],
+      "tried": [
+        "xcaret.com:ok"
+      ]
+    },
+    {
+      "entity": "x33",
+      "ok": true,
+      "domain": "x33.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is x33 legit"
+      ],
+      "tried": [
+        "x33.com:ok"
+      ]
+    },
+    {
+      "entity": "ydn shoes",
+      "ok": true,
+      "domain": "ydnshoes.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is ydn shoes legit"
+      ],
+      "tried": [
+        "ydnshoes.com:ok"
+      ]
+    },
+    {
+      "entity": "zrt credit",
+      "ok": true,
+      "domain": "zrtcredit.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is zrt credit legit"
+      ],
+      "tried": [
+        "zrtcredit.com:ok"
+      ]
+    },
+    {
+      "entity": "z8games",
+      "ok": true,
+      "domain": "z8games.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is z8games safe"
+      ],
+      "tried": [
+        "z8games.com:ok"
+      ]
+    },
+    {
+      "entity": "brave browser",
+      "ok": true,
+      "domain": "brave-browser.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is brave browser safe"
+      ],
+      "tried": [
+        "bravebrowser.com:name_not_confirmed",
+        "brave-browser.com:ok"
+      ]
+    },
+    {
+      "entity": "budapest",
+      "ok": true,
+      "domain": "budapest.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is budapest safe"
+      ],
+      "tried": [
+        "budapest.com:ok"
+      ]
+    },
+    {
+      "entity": "duckduckgo",
+      "ok": true,
+      "domain": "duckduckgo.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is duckduckgo safe"
+      ],
+      "tried": [
+        "duckduckgo.com:ok"
+      ]
+    },
+    {
+      "entity": "ggkeys",
+      "ok": true,
+      "domain": "ggkeys.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is ggkeys legit"
+      ],
+      "tried": [
+        "ggkeys.com:ok"
+      ]
+    },
+    {
+      "entity": "iw4x",
+      "ok": true,
+      "domain": "iw4x.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is iw4x safe"
+      ],
+      "tried": [
+        "iw4x.com:ok"
+      ]
+    },
+    {
+      "entity": "ixl",
+      "ok": true,
+      "domain": "ixl.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is ixl worth it"
+      ],
+      "tried": [
+        "ixl.com:ok"
+      ]
+    },
+    {
+      "entity": "karma",
+      "ok": true,
+      "domain": "karma.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is karma real"
+      ],
+      "tried": [
+        "karma.com:ok"
+      ]
+    },
+    {
+      "entity": "ksi lucky wheel",
+      "ok": true,
+      "domain": "ksiluckywheel.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is ksi lucky wheel legit"
+      ],
+      "tried": [
+        "ksiluckywheel.com:ok"
+      ]
+    },
+    {
+      "entity": "mercor",
+      "ok": true,
+      "domain": "mercor.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is mercor legit"
+      ],
+      "tried": [
+        "mercor.com:ok"
+      ]
+    },
+    {
+      "entity": "mz biolabs",
+      "ok": true,
+      "domain": "mzbiolabs.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is mz biolabs legit"
+      ],
+      "tried": [
+        "mzbiolabs.com:ok"
+      ]
+    },
+    {
+      "entity": "npower",
+      "ok": true,
+      "domain": "npower.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is npower legit"
+      ],
+      "tried": [
+        "npower.com:ok"
+      ]
+    },
+    {
+      "entity": "paris",
+      "ok": true,
+      "domain": "paris.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is paris safe"
+      ],
+      "tried": [
+        "paris.com:ok"
+      ]
+    },
+    {
+      "entity": "qobuz",
+      "ok": true,
+      "domain": "qobuz.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is qobuz legit"
+      ],
+      "tried": [
+        "qobuz.com:ok"
+      ]
+    },
+    {
+      "entity": "qskinz",
+      "ok": true,
+      "domain": "qskinz.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is qskinz legit"
+      ],
+      "tried": [
+        "qskinz.com:ok"
+      ]
+    },
+    {
+      "entity": "runna",
+      "ok": true,
+      "domain": "runna.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is runna worth it"
+      ],
+      "tried": [
+        "runna.com:ok"
+      ]
+    },
+    {
+      "entity": "scribd",
+      "ok": true,
+      "domain": "scribd.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is scribd safe"
+      ],
+      "tried": [
+        "scribd.com:ok"
+      ]
+    },
+    {
+      "entity": "s58",
+      "ok": true,
+      "domain": "s58.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is s58 reliable"
+      ],
+      "tried": [
+        "s58.com:ok"
+      ]
+    },
+    {
+      "entity": "s65",
+      "ok": true,
+      "domain": "s65.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is s65 reliable"
+      ],
+      "tried": [
+        "s65.com:ok"
+      ]
+    },
+    {
+      "entity": "ublock origin",
+      "ok": true,
+      "domain": "ublockorigin.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is ublock origin safe"
+      ],
+      "tried": [
+        "ublockorigin.com:ok"
+      ]
+    },
+    {
+      "entity": "u571",
+      "ok": true,
+      "domain": "u571.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is u571 real"
+      ],
+      "tried": [
+        "u571.com:ok"
+      ]
+    },
+    {
+      "entity": "venezuela",
+      "ok": true,
+      "domain": "venezuela.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is venezuela safe"
+      ],
+      "tried": [
+        "venezuela.com:ok"
+      ]
+    },
+    {
+      "entity": "vn video editor",
+      "ok": true,
+      "domain": "vnvideoeditor.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is vn video editor safe"
+      ],
+      "tried": [
+        "vnvideoeditor.com:ok"
+      ]
+    },
+    {
+      "entity": "v1ra",
+      "ok": true,
+      "domain": "v1ra.com",
+      "marketCount": 4,
+      "intentTotal": 4,
+      "queries": [
+        "is v1ra legit"
+      ],
+      "tried": [
+        "v1ra.com:ok"
+      ]
+    }
+  ],
+  "failed": [
+    {
+      "entity": "y62 patrol",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "y62patrol.com",
+      "tried": [
+        "y62patrol.com:unreachable"
+      ]
+    },
+    {
+      "entity": "zrendora",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "zrendora.com",
+      "tried": [
+        "zrendora.com:http_403"
+      ]
+    },
+    {
+      "entity": "z06",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "z06.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "data annotation",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "dataannotation.com",
+      "tried": [
+        "dataannotation.com:unreachable"
+      ]
+    },
+    {
+      "entity": "aegean airlines",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "aegean-airlines.com",
+      "tried": [
+        "aegeanairlines.com:name_not_confirmed",
+        "aegean-airlines.com:unreachable"
+      ]
+    },
+    {
+      "entity": "azerbaijan",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "azerbaijan.com",
+      "tried": [
+        "azerbaijan.com:unreachable"
+      ]
+    },
+    {
+      "entity": "btroblox",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "btroblox.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "bxb market",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "bxbmarket.com:http_404",
+        "bxb-market.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "c1 citlali",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "c1citlali.com",
+      "tried": [
+        "c1citlali.com:unreachable"
+      ]
+    },
+    {
+      "entity": "dgx spark",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "dgxspark.com:name_not_confirmed",
+        "dgx-spark.com:http_451"
+      ]
+    },
+    {
+      "entity": "egypt",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "egypt.com",
+      "tried": [
+        "egypt.com:http_403"
+      ]
+    },
+    {
+      "entity": "exorcism",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "exorcism.com",
+      "tried": [
+        "exorcism.com:http_403"
+      ]
+    },
+    {
+      "entity": "e0 cyrene",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "e0cyrene.com",
+      "tried": [
+        "e0cyrene.com:unreachable"
+      ]
+    },
+    {
+      "entity": "e2zstore",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "e2zstore.com",
+      "tried": [
+        "e2zstore.com:http_403"
+      ]
+    },
+    {
+      "entity": "fkm rubber",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "fkmrubber.com",
+      "tried": [
+        "fkmrubber.com:unreachable"
+      ]
+    },
+    {
+      "entity": "fnaf",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "fnaf.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "f74",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "f74.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "glacier canyon grindelwald",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "glaciercanyongrindelwald.com",
+      "tried": [
+        "glaciercanyongrindelwald.com:unreachable"
+      ]
+    },
+    {
+      "entity": "gvi",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "gvi.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "g37",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "g37.com",
+      "tried": [
+        "g37.com:unreachable"
+      ]
+    },
+    {
+      "entity": "ibkr",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "ibkr.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "interlaken",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "interlaken.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "kinguin",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "kinguin.com",
+      "tried": [
+        "kinguin.com:unreachable"
+      ]
+    },
+    {
+      "entity": "kuala lumpur",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "kualalumpur.com",
+      "tried": [
+        "kualalumpur.com:unreachable"
+      ]
+    },
+    {
+      "entity": "lhv bank",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "lhvbank.com",
+      "tried": [
+        "lhvbank.com:unreachable"
+      ]
+    },
+    {
+      "entity": "lj ross associates",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "ljrossassociates.com",
+      "tried": [
+        "ljrossassociates.com:unreachable"
+      ]
+    },
+    {
+      "entity": "mcafee",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "mcafee.com",
+      "tried": [
+        "mcafee.com:unreachable"
+      ]
+    },
+    {
+      "entity": "mexico city",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "mexicocity.com",
+      "tried": [
+        "mexicocity.com:unreachable"
+      ]
+    },
+    {
+      "entity": "p2p",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "p2p.com",
+      "tried": [
+        "p2p.com:unreachable"
+      ]
+    },
+    {
+      "entity": "qnet real or",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "qnetrealor.com",
+      "tried": [
+        "qnetrealor.com:unreachable"
+      ]
+    },
+    {
+      "entity": "qooapp",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "qooapp.com:http_500"
+      ]
+    },
+    {
+      "entity": "qqqi",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "qqqi.com",
+      "tried": [
+        "qqqi.com:unreachable"
+      ]
+    },
+    {
+      "entity": "qx80",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "qx80.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "q3 advisors",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "q3-advisors.com",
+      "tried": [
+        "q3advisors.com:name_not_confirmed",
+        "q3-advisors.com:unreachable"
+      ]
+    },
+    {
+      "entity": "q8",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "q8.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "u8uk",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "u8uk.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "vq35de",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "vq35de.com",
+      "tried": [
+        "vq35de.com:unreachable"
+      ]
+    },
+    {
+      "entity": "vw tiguan",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "vwtiguan.com:name_not_confirmed",
+        "vw-tiguan.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "xpluswear",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "xpluswear.com",
+      "tried": [
+        "xpluswear.com:http_403"
+      ]
+    },
+    {
+      "entity": "xworld app",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "xworldapp.com",
+      "tried": [
+        "xworldapp.com:unreachable"
+      ]
+    },
+    {
+      "entity": "ysel",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "ysel.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "yuka app",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "yukaapp.com",
+      "tried": [
+        "yukaapp.com:unreachable"
+      ]
+    },
+    {
+      "entity": "yx mods",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "yx-mods.com",
+      "tried": [
+        "yxmods.com:name_not_confirmed",
+        "yx-mods.com:unreachable"
+      ]
+    },
+    {
+      "entity": "zazzi",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "zazzi.com",
+      "tried": [
+        "zazzi.com:unreachable"
+      ]
+    },
+    {
+      "entity": "z2 extreme",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "z2extreme.com",
+      "tried": [
+        "z2extreme.com:unreachable"
+      ]
+    },
+    {
+      "entity": "z71 package",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "z71package.com",
+      "tried": [
+        "z71package.com:unreachable"
+      ]
+    },
+    {
+      "entity": "yoox",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "yoox.com",
+      "tried": [
+        "yoox.com:unreachable"
+      ]
+    },
+    {
+      "entity": "cdjapan",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "cdjapan.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "creatine",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "creatine.com",
+      "tried": [
+        "creatine.com:unreachable"
+      ]
+    },
+    {
+      "entity": "curacao",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "curacao.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "cx90",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "cx90.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "c3 claims",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "c3-claims.com",
+      "tried": [
+        "c3claims.com:http_500",
+        "c3-claims.com:unreachable"
+      ]
+    },
+    {
+      "entity": "dzsa launcher",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "dzsa-launcher.com",
+      "tried": [
+        "dzsalauncher.com:name_not_confirmed",
+        "dzsa-launcher.com:unreachable"
+      ]
+    },
+    {
+      "entity": "e0s0 cyrene",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "e0s0cyrene.com",
+      "tried": [
+        "e0s0cyrene.com:unreachable"
+      ]
+    },
+    {
+      "entity": "e6000 food",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "e6000food.com",
+      "tried": [
+        "e6000food.com:unreachable"
+      ]
+    },
+    {
+      "entity": "fc 26",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "fc26.com",
+      "tried": [
+        "fc26.com:unreachable"
+      ]
+    },
+    {
+      "entity": "flatfox priority",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "flatfoxpriority.com",
+      "tried": [
+        "flatfoxpriority.com:unreachable"
+      ]
+    },
+    {
+      "entity": "fsa",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "fsa.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "fvp oil",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "fvpoil.com",
+      "tried": [
+        "fvpoil.com:unreachable"
+      ]
+    },
+    {
+      "entity": "f87 m2",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "f87-m2.com",
+      "tried": [
+        "f87m2.com:name_not_confirmed",
+        "f87-m2.com:unreachable"
+      ]
+    },
+    {
+      "entity": "f90 m5",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "f90-m5.com",
+      "tried": [
+        "f90m5.com:name_not_confirmed",
+        "f90-m5.com:unreachable"
+      ]
+    },
+    {
+      "entity": "ggsel",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "ggsel.com",
+      "tried": [
+        "ggsel.com:http_401"
+      ]
+    },
+    {
+      "entity": "g7x",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "g7x.com",
+      "tried": [
+        "g7x.com:unreachable"
+      ]
+    },
+    {
+      "entity": "hinge x",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "hingex.com",
+      "tried": [
+        "hingex.com:unreachable"
+      ]
+    },
+    {
+      "entity": "hnk parts",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "hnkparts.com",
+      "tried": [
+        "hnkparts.com:http_403"
+      ]
+    },
+    {
+      "entity": "hwmonitor",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "hwmonitor.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "hypergamy",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "hypergamy.com",
+      "tried": [
+        "hypergamy.com:unreachable"
+      ]
+    },
+    {
+      "entity": "h4cbd",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "h4cbd.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "jamaica",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "jamaica.com",
+      "tried": [
+        "jamaica.com:unreachable"
+      ]
+    },
+    {
+      "entity": "jd sports",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "jdsports.com",
+      "tried": [
+        "jdsports.com:http_403"
+      ]
+    },
+    {
+      "entity": "jjs house",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "jjshouse.com:name_not_confirmed",
+        "jjs-house.com:http_409"
+      ]
+    },
+    {
+      "entity": "j7d",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "j7d.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "kenya",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "kenya.com",
+      "tried": [
+        "kenya.com:http_403"
+      ]
+    },
+    {
+      "entity": "lner first class",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "lnerfirstclass.com",
+      "tried": [
+        "lnerfirstclass.com:unreachable"
+      ]
+    },
+    {
+      "entity": "melatonin",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "melatonin.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "mpokket",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "mpokket.com",
+      "tried": [
+        "mpokket.com:http_403"
+      ]
+    },
+    {
+      "entity": "m16",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "m16.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "naples",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "naples.com",
+      "tried": [
+        "naples.com:http_403"
+      ]
+    },
+    {
+      "entity": "n52",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "n52.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "outlier ai",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "outlierai.com:name_not_confirmed",
+        "outlier-ai.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "phantom liberty",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "phantom-liberty.com",
+      "tried": [
+        "phantomliberty.com:name_not_confirmed",
+        "phantom-liberty.com:unreachable"
+      ]
+    },
+    {
+      "entity": "p320",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "p320.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "qatar",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "qatar.com",
+      "tried": [
+        "qatar.com:unreachable"
+      ]
+    },
+    {
+      "entity": "q3",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "q3.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "sbb first class",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "sbbfirstclass.com",
+      "tried": [
+        "sbbfirstclass.com:unreachable"
+      ]
+    },
+    {
+      "entity": "s55",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "s55.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "s6 hiyuki",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "s6hiyuki.com",
+      "tried": [
+        "s6hiyuki.com:unreachable"
+      ]
+    },
+    {
+      "entity": "s7 supplement",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "s7supplement.com",
+      "tried": [
+        "s7supplement.com:unreachable"
+      ]
+    },
+    {
+      "entity": "tpe",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "tpe.com",
+      "tried": [
+        "tpe.com:http_403"
+      ]
+    },
+    {
+      "entity": "tsa precheck",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "tsa-precheck.com",
+      "tried": [
+        "tsaprecheck.com:name_not_confirmed",
+        "tsa-precheck.com:unreachable"
+      ]
+    },
+    {
+      "entity": "twint",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "twint.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "txt.texas.gov",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "txt.texas.gov:denied"
+      ]
+    },
+    {
+      "entity": "uyaai contact lens",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "uyaaicontactlens.com",
+      "tried": [
+        "uyaaicontactlens.com:unreachable"
+      ]
+    },
+    {
+      "entity": "wyndy",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "wyndy.com",
+      "tried": [
+        "wyndy.com:http_403"
+      ]
+    },
+    {
+      "entity": "wz020",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "wz020.com",
+      "tried": [
+        "wz020.com:unreachable"
+      ]
+    },
+    {
+      "entity": "xm trading",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "xmtrading.com",
+      "tried": [
+        "xmtrading.com:http_403"
+      ]
+    },
+    {
+      "entity": "xp tickets",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "xptickets.com",
+      "tried": [
+        "xptickets.com:http_503"
+      ]
+    },
+    {
+      "entity": "xwild.cc",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "xwild.cc",
+      "tried": [
+        "xwild.cc:http_403"
+      ]
+    },
+    {
+      "entity": "ydwc",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "ydwc.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "zk loan app",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "zkloanapp.com",
+      "tried": [
+        "zkloanapp.com:unreachable"
+      ]
+    },
+    {
+      "entity": "z5 subscription",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "z5subscription.com",
+      "tried": [
+        "z5subscription.com:unreachable"
+      ]
+    },
+    {
+      "entity": "armenia",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "armenia.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "bmw",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "bmw.com",
+      "tried": [
+        "bmw.com:unreachable"
+      ]
+    },
+    {
+      "entity": "bqodqo",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "bqodqo.com",
+      "tried": [
+        "bqodqo.com:unreachable"
+      ]
+    },
+    {
+      "entity": "bxsl dividend",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "bxsldividend.com",
+      "tried": [
+        "bxsldividend.com:unreachable"
+      ]
+    },
+    {
+      "entity": "c1 columbina",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "c1columbina.com",
+      "tried": [
+        "c1columbina.com:unreachable"
+      ]
+    },
+    {
+      "entity": "c6 bennett",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "c6bennett.com",
+      "tried": [
+        "c6bennett.com:unreachable"
+      ]
+    },
+    {
+      "entity": "dominican republic",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "dominican-republic.com",
+      "tried": [
+        "dominicanrepublic.com:http_404",
+        "dominican-republic.com:unreachable"
+      ]
+    },
+    {
+      "entity": "dubai",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "dubai.com",
+      "tried": [
+        "dubai.com:unreachable"
+      ]
+    },
+    {
+      "entity": "d9 thc",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "d9-thc.com",
+      "tried": [
+        "d9thc.com:name_not_confirmed",
+        "d9-thc.com:unreachable"
+      ]
+    },
+    {
+      "entity": "fdown.net",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "fdown.net",
+      "tried": [
+        "fdown.net:http_403"
+      ]
+    },
+    {
+      "entity": "florence",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "florence.com",
+      "tried": [
+        "florence.com:http_403"
+      ]
+    },
+    {
+      "entity": "fm26",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "fm26.com",
+      "tried": [
+        "fm26.com:unreachable"
+      ]
+    },
+    {
+      "entity": "hmb",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "hmb.com",
+      "tried": [
+        "hmb.com:http_403"
+      ]
+    },
+    {
+      "entity": "hpv vaccine",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "hpvvaccine.com",
+      "tried": [
+        "hpvvaccine.com:unreachable"
+      ]
+    },
+    {
+      "entity": "jesus",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "jesus.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "jwe3",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "jwe3.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "ldplayer",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "ldplayer.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "linkedin premium",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "linkedinpremium.com",
+      "tried": [
+        "linkedinpremium.com:unreachable"
+      ]
+    },
+    {
+      "entity": "nmn supplement",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "nmnsupplement.com:name_not_confirmed",
+        "nmn-supplement.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "pxt lending",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "pxtlending.com",
+      "tried": [
+        "pxtlending.com:unreachable"
+      ]
+    },
+    {
+      "entity": "p20 reef",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "p20reef.com",
+      "tried": [
+        "p20reef.com:unreachable"
+      ]
+    },
+    {
+      "entity": "qzino casino",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "qzinocasino.com",
+      "tried": [
+        "qzinocasino.com:unreachable"
+      ]
+    },
+    {
+      "entity": "rxinform.org",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "rxinform.org:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "sgk",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "sgk.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "slovenia",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "slovenia.com",
+      "tried": [
+        "slovenia.com:unreachable"
+      ]
+    },
+    {
+      "entity": "syria",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "syria.com",
+      "tried": [
+        "syria.com:unreachable"
+      ]
+    },
+    {
+      "entity": "s63",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "s63.com",
+      "tried": [
+        "s63.com:unreachable"
+      ]
+    },
+    {
+      "entity": "tpe body",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "tpebody.com",
+      "tried": [
+        "tpebody.com:unreachable"
+      ]
+    },
+    {
+      "entity": "ufo",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "ufo.com",
+      "tried": [
+        "ufo.com:unreachable"
+      ]
+    },
+    {
+      "entity": "vchics",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "vchics.com:http_404"
+      ]
+    },
+    {
+      "entity": "vqfit",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "vqfit.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "wfhforgeon",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "wfhforgeon.com",
+      "tried": [
+        "wfhforgeon.com:unreachable"
+      ]
+    },
+    {
+      "entity": "wjs home store",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "wjs-home-store.com",
+      "tried": [
+        "wjshomestore.com:name_not_confirmed",
+        "wjs-home-store.com:unreachable"
+      ]
+    },
+    {
+      "entity": "xmcl launcher",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "xmcllauncher.com",
+      "tried": [
+        "xmcllauncher.com:unreachable"
+      ]
+    },
+    {
+      "entity": "xwidget",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "xwidget.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "zombies",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "zombies.com",
+      "tried": [
+        "zombies.com:unreachable"
+      ]
+    },
+    {
+      "entity": "awesome books",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "awesomebooks.com",
+      "tried": [
+        "awesomebooks.com:http_403"
+      ]
+    },
+    {
+      "entity": "bpc 157",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "bpc157.com",
+      "tried": [
+        "bpc157.com:unreachable"
+      ]
+    },
+    {
+      "entity": "b7000 glue",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "b7000glue.com",
+      "tried": [
+        "b7000glue.com:unreachable"
+      ]
+    },
+    {
+      "entity": "dfw outlet",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "dfwoutlet.com",
+      "tried": [
+        "dfwoutlet.com:unreachable"
+      ]
+    },
+    {
+      "entity": "eq bank",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "eqbank.com",
+      "tried": [
+        "eqbank.com:unreachable"
+      ]
+    },
+    {
+      "entity": "exlibris",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "exlibris.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "e0 tribbie",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "e0tribbie.com",
+      "tried": [
+        "e0tribbie.com:unreachable"
+      ]
+    },
+    {
+      "entity": "ffmpeg",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "ffmpeg.com",
+      "tried": [
+        "ffmpeg.com:unreachable"
+      ]
+    },
+    {
+      "entity": "fnd",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "fnd.com",
+      "tried": [
+        "fnd.com:http_403"
+      ]
+    },
+    {
+      "entity": "fynor",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "fynor.com",
+      "tried": [
+        "fynor.com:unreachable"
+      ]
+    },
+    {
+      "entity": "f6 tornado",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "f6tornado.com",
+      "tried": [
+        "f6tornado.com:unreachable"
+      ]
+    },
+    {
+      "entity": "gboard",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "gboard.com",
+      "tried": [
+        "gboard.com:unreachable"
+      ]
+    },
+    {
+      "entity": "gpay",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "gpay.com",
+      "tried": [
+        "gpay.com:unreachable"
+      ]
+    },
+    {
+      "entity": "gzira malta",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "gziramalta.com",
+      "tried": [
+        "gziramalta.com:unreachable"
+      ]
+    },
+    {
+      "entity": "g5 club",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "g5club.com",
+      "tried": [
+        "g5club.com:unreachable"
+      ]
+    },
+    {
+      "entity": "g70",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "g70.com",
+      "tried": [
+        "g70.com:unreachable"
+      ]
+    },
+    {
+      "entity": "g923",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "g923.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "hws beauty",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "hwsbeauty.com:name_not_confirmed",
+        "hws-beauty.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "ignition casino",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "ignition-casino.com",
+      "tried": [
+        "ignitioncasino.com:http_525",
+        "ignition-casino.com:http_403"
+      ]
+    },
+    {
+      "entity": "jdownloader",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "jdownloader.com",
+      "tried": [
+        "jdownloader.com:unreachable"
+      ]
+    },
+    {
+      "entity": "jv london",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "jv-london.com",
+      "tried": [
+        "jvlondon.com:name_not_confirmed",
+        "jv-london.com:unreachable"
+      ]
+    },
+    {
+      "entity": "kerastase",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "kerastase.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "k4g a",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "k4ga.com",
+      "tried": [
+        "k4ga.com:unreachable"
+      ]
+    },
+    {
+      "entity": "ldshop",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "ldshop.com",
+      "tried": [
+        "ldshop.com:unreachable"
+      ]
+    },
+    {
+      "entity": "lymphatic drainage",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "lymphaticdrainage.com",
+      "tried": [
+        "lymphaticdrainage.com:unreachable"
+      ]
+    },
+    {
+      "entity": "mmoexp",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "mmoexp.com:http_502"
+      ]
+    },
+    {
+      "entity": "mri",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "mri.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "m5 macbook air",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "m5macbookair.com",
+      "tried": [
+        "m5macbookair.com:unreachable"
+      ]
+    },
+    {
+      "entity": "m7 mba",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "m7-mba.com",
+      "tried": [
+        "m7mba.com:name_not_confirmed",
+        "m7-mba.com:unreachable"
+      ]
+    },
+    {
+      "entity": "n57 engine",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "n57engine.com",
+      "tried": [
+        "n57engine.com:unreachable"
+      ]
+    },
+    {
+      "entity": "oqium",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "oqium.com",
+      "tried": [
+        "oqium.com:http_403"
+      ]
+    },
+    {
+      "entity": "pqq",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "pqq.com",
+      "tried": [
+        "pqq.com:unreachable"
+      ]
+    },
+    {
+      "entity": "qz tray",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "qztray.com",
+      "tried": [
+        "qztray.com:unreachable"
+      ]
+    },
+    {
+      "entity": "q5",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "q5.com",
+      "tried": [
+        "q5.com:unreachable"
+      ]
+    },
+    {
+      "entity": "smartyme",
+      "ok": false,
+      "reason": "blocked_needs_review",
+      "candidate": "smartyme.com",
+      "tried": [
+        "smartyme.com:http_403"
+      ]
+    },
+    {
+      "entity": "twine",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "twine.com",
+      "tried": [
+        "twine.com:unreachable"
+      ]
+    },
+    {
+      "entity": "u4mg",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "u4mg.com",
+      "tried": [
+        "u4mg.com:unreachable"
+      ]
+    },
+    {
+      "entity": "u8sports com",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "u8sportscom.com",
+      "tried": [
+        "u8sportscom.com:unreachable"
+      ]
+    },
+    {
+      "entity": "vcows",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "vcows.com",
+      "tried": [
+        "vcows.com:unreachable"
+      ]
+    },
+    {
+      "entity": "vlc",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "vlc.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "vw",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "vw.com:name_not_confirmed"
+      ]
+    },
+    {
+      "entity": "vvs jewelry website",
+      "ok": false,
+      "reason": "unreachable_needs_review",
+      "candidate": "vvsjewelrywebsite.com",
+      "tried": [
+        "vvsjewelrywebsite.com:unreachable"
+      ]
+    },
+    {
+      "entity": "vzw.com",
+      "ok": false,
+      "reason": "no_candidate_confirmed",
+      "tried": [
+        "vzw.com:name_not_confirmed"
+      ]
+    }
+  ]
+}
